@@ -516,7 +516,8 @@ def select_feature_from_cluster_by_chi2(chi2_df, curr_cluster):
 ############# Predict pathogenicity labels with existing model#########
 
 def predict_with_existing_model(classifier, classifiers_features, input_genumes_file, output_files_str):
-    ''' Predicts and prints the pathogenicity label of genomes with existing classification model.
+    ''' Predicts the pathogenicity label of genomes with existing classification model,
+     and returns dataframe of the results
 
     Parameters:
     classifier - existing classification model
@@ -526,9 +527,7 @@ def predict_with_existing_model(classifier, classifiers_features, input_genumes_
     output_files_str - string for   output files naming
 
     Returns:
-    predictions - predictions (list of genomes predictions as 1 or 0)
-    predictions_probs - probabilities (output of predict_proba)
-
+    results df - dataframe that contains the predictions and the predicted probabilities for the input genomes
     '''
     with open(classifiers_features) as f:
         pgfams_dict = json.load(f)
@@ -545,9 +544,9 @@ def predict_with_existing_model(classifier, classifiers_features, input_genumes_
         else:
             pathogenicity_preds.append('HP')
 
-    print('\n' + '***** Predictions ******')
-    for idx, genome_name in enumerate(X_genomes.index):
-        print(f'Genome ID: {genome_name}:, prediction: {pathogenicity_preds[idx]}')
+    d = {'Genome ID': X_genomes.index ,'prediction': pathogenicity_preds, 'predictions_prob': predictions_probs}
+    output_df = pd.DataFrame(data=d)
+    output_df = output_df.set_index('Genome ID')
 
-    return predictions, predictions_probs
+    return output_df
 
