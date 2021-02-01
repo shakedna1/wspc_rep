@@ -181,7 +181,7 @@ def perform_fs_clusters(train_dataset, X_train_dist_mat, t_range, split=None, ra
 
 
 def  phi_coef(x, y):
-    '''Calculates phi coefficient between features
+    """Calculates phi coefficient between features
 
     Parameters:
     X - feature x column
@@ -189,7 +189,7 @@ def  phi_coef(x, y):
 
     Returns:
     corr - phi coefficient value
-    '''
+    """
 
     confusion_matrix = pd.crosstab(x, y)
     chi2 = chi2_contingency(confusion_matrix)[0]
