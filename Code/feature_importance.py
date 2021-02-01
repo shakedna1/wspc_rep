@@ -173,7 +173,7 @@ def get_top_features_in_multiple_runs(x, y, importance_func, n_runs=100):
     return indices, mean_importance, std_importance
 
 
-def get_top_features_per_class_in_multiple_runs(x, y_df, importance_func, n_runs=100):
+def get_top_features_per_class_in_multiple_runs(x, y, importance_func, n_runs=100):
     ''' Returns a dictionary of the top features per class (HP/NHP)
 
     Parameters:
@@ -186,9 +186,9 @@ def get_top_features_per_class_in_multiple_runs(x, y_df, importance_func, n_runs
     class_features - dictionary that represents the top HP and top NHP features, with additional information.
     '''
 
-    indices, mean_importance, std_importance = get_top_features_in_multiple_runs(x, y_df.Label, importance_func, n_runs)
+    indices, mean_importance, std_importance = get_top_features_in_multiple_runs(x, y, importance_func, n_runs)
 
-    top_hp_feats, top_nhp_feats = split_top_features_to_classes(x, y_df, indices)
+    top_hp_feats, top_nhp_feats = split_top_features_to_classes(x, y, indices)
 
     class_features = {'HP': top_hp_feats,
                       'NHP': top_nhp_feats,
