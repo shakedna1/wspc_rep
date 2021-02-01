@@ -198,19 +198,20 @@ def get_top_features_per_class_in_multiple_runs(x, y, importance_func, n_runs=10
     return class_features
 
 
-def create_top_feats_df(class_features, x, y_df, top_feats=None):
-    ''' Creates dataframe that represents the relevant information on the top features
+def create_top_feats_df(class_features, x, y_df, pgfam_to_desc, top_feats=None):
+    """ Creates dataframe that represents the relevant information on the top features
 
     Parameters:
     class_features - dictionary that represents the top HP and top NHP features, with additional information
     x - features vectors dataframe
     y_df - true labels dataframe
+    pgfam_to_desc - a dict with pgfam as key and its description as value
     top_feats - number of top features to include in the resulting dataframe
 
     Returns:
     hps_df - dataframe that represents the top HP features
     nhps_df - dataframe that represents the top NHP features
-    '''
+    """
 
     mean_importance, std_importance = class_features['importances'], class_features['std']
 
@@ -232,7 +233,7 @@ def create_top_feats_df(class_features, x, y_df, top_feats=None):
             p_ratio = round((hps / total_hps) / (denominator), 2)
             mean_feature_importance = round(mean_importance[i], 3)
             std_feature_importance = round(std_importance[i], 3)
-            pgfam_desc = pgfams.get(feature, "")
+            pgfam_desc = pgfam_to_desc.get(feature, "")
 
             top_features_data[c_class].setdefault('Feature', []).append(feature)
             top_features_data[c_class].setdefault('Function', []).append(pgfam_desc)
