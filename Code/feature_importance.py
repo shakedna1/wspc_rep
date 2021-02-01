@@ -77,21 +77,21 @@ def find_top_features_in_multiple_runs(x, y, importance_func, n_runs=100):
 
 
 
-def count_hp_vs_nhp(genome_ids, labels_df):
-    ''' Counts and returns the number of hps and nhps genomes in a list of genomes
+def count_hp_vs_nhp(genome_ids, y):
+    """ Counts and returns the number of hps and nhps genomes in a list of genomes
 
     Parameters:
     genome_ids - genomes ids
-    labels_df - true labels dataframe
+    y - a Series with genome ids as index, and values of 0 or 1
 
     Returns:
     hps - the number of hps genomes in genome_ids
     nhps - the number of nhps genomes in genome_ids
-    '''
+    """
 
-    genome_labels = labels_df.loc[genome_ids, :]
-    hps = len(genome_labels[genome_labels.loc[:, 'Label'] == 1])
-    nhps = len(genome_labels[genome_labels.loc[:, 'Label'] == 0])
+    genome_labels = y.loc[genome_ids]
+    hps = len(genome_labels[genome_labels == 1])
+    nhps = len(genome_labels[genome_labels == 0])
 
     assert len(genome_labels) == hps + nhps
 
