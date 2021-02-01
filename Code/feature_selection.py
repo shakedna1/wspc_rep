@@ -198,16 +198,38 @@ def  phi_coef(x, y):
 
     return corr
 
+def perform_fs_first_step(X_train, y_train, feature_names, k=100):
+    """select the k features with the highest chi-square scores
+     between each feature and the target labels
+
+
+    Parameters:
+    X_train - dataframe represents the training genomes feature vectors
+    y_train - dataframe represents the training genomes labels
+    feature_names - feature namess of X_train
+    k - number of features to select.
+
+    Returns:
+    X_train_fs - dataframe represents the training genomes feature vectors (reduced size feature vectors which
+                consists of the k selected features)
+    """
+
+    fs = SelectKBest(score_func=sklearn.feature_selection.chi2, k=k)
+    fs.fit(X_train, y_train)
+    fs_selected_indexes = fs.get_support()
+    X_train_fs = pd.DataFrame(X_train[:, fs_selected_indexes].toarray(),
+                                  columns=feature_names[fs_selected_indexes])
+
+    return X_train_fs
+
 
 def create_corr_matrix(X_train_raw, y_train, k=450):
 
     vectorizer = CountVectorizer(lowercase=False, binary=True)
     X_train = vectorizer.fit_transform(X_train_raw, y_train)
-    select_k_best = SelectKBest(score_func=sklearn.feature_selection.chi2, k=k)
-    select_k_best.fit_transform(X_train, y_train)
+    feature_names = np.array(vectorizer.get_feature_names())
 
-    X_train_k_best = pd.DataFrame(X_train[:, select_k_best.get_support()].toarray(),
-                                  columns=np.array(vectorizer.get_feature_names())[select_k_best.get_support()])
+    X_train_k_best = perform_fs_first_step(X_train, y_train, feature_names, k=k)
 
     X_train_corr_mat = X_train_k_best.corr(method=phi_coef)
 

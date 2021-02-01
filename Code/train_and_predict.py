@@ -4,38 +4,14 @@ import json
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import scipy.spatial.distance as ssd
-import seaborn as sns
 import sklearn.metrics as metrics
 
 from scipy.cluster import hierarchy
 from scipy.stats import chi2_contingency
 from sklearn import feature_selection
 from sklearn.ensemble import RandomForestClassifier
-
-
-
-def perform_fs_first_step(X_train, y_train, k=100):
-    '''select the k features with the highest chi-square scores
-     between each feature and the target labels
-
-
-    Parameters:
-    X_train - dataframe represents the training genomes feature vectors
-    y_train - dataframe represents the training genomes labels
-    k - number of features to select.
-
-    Returns:
-    X_train_fs - dataframe represents the training genomes feature vectors (reduced size feature vectors which
-                consists of the k selected features)
-    '''
-
-    fs = feature_selection.SelectKBest(score_func=feature_selection.chi2, k=k)
-    fs.fit(X_train, y_train)
-    fs_selected_indexes = fs.get_support(indices=True)
-    X_train_fs = X_train.iloc[:, fs_selected_indexes]
-
-    return X_train_fs
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.pipeline import Pipeline
 
 
 
@@ -81,7 +57,7 @@ def predict_and_print_results(X_test, y_test, model):
 
 
 
-def train_and_predict(X_train, y_train, X_test, y_test, random_state=0):
+def train_and_predict(X_train, y_train, X_test, y_test, features, random_state=0):
     '''Trains a new model, predicts test genoomes and prints accuracy evaluation results
 
     Parameters:
@@ -96,10 +72,12 @@ def train_and_predict(X_train, y_train, X_test, y_test, random_state=0):
     evaluation_results -  dictionary of the sensitivity, specificity, f1_macro, aupr_auc and roc_auc scores
     '''
 
-    rs_model = RandomForestClassifier(random_state=random_state)
+    rs_model = Pipeline(steps=[('vectorize', CountVectorizer(lowercase=False, binary=True, vocabulary=features)),
+                               ('rf', RandomForestClassifier(random_state=random_state))])
+
     rs_model.fit(X_train, y_train)
-    X_test_fs = X_test.loc[:, X_train.columns]
-    evaluation_results = predict_and_print_results(X_test_fs, y_test, rs_model)
+
+    evaluation_results = predict_and_print_results(X_test, y_test, rs_model)
 
     return rs_model, evaluation_results
 
@@ -227,294 +205,8 @@ def dendogram(X, corr_linkage):
     plt.show()
 
 
-
-def herarchial_clustering(X, feature_corr_matrix=None, threshold=1, draw_dendogram=False, method='average'):
-    '''preforms herarchial clustering of the features in dataframe X, and returns the resulting clusters
-
-    Parameters:
-    X - dataframe represents the train genomes feature vectors
-    feature_corr_matrix - matrix of the correlations between each pair of features in X
-    threshold - correlation threshold
-    draw_dendogram - if true: the function also plots dendogram
-    method - linkage method to use for the computation of distance between two clusters
-
-    Returns: cluster_id_to_feature_ids.values - resulting clusters (each cluster is represented
-             by the features that it contains)
-
-    '''
-
-    feature_corr_dist_matrix = feature_corr_matrix.loc[X.columns, X.columns]
-    feature_corr_dist_matrix = 1 - feature_corr_dist_matrix
-
-    feature_corr_dist_matrix_condensed = ssd.squareform(feature_corr_dist_matrix)
-
-    corr_linkage = hierarchy.linkage(feature_corr_dist_matrix_condensed, method=method)
-
-    if draw_dendogram:
-        dendogram(X, corr_linkage)
-
-    cluster_ids = hierarchy.fcluster(corr_linkage, threshold, criterion='distance')
-    cluster_id_to_feature_ids = {}
-    for idx, cluster_id in enumerate(cluster_ids):
-        cluster_id_to_feature_ids.setdefault(cluster_id, []).append(feature_corr_dist_matrix.columns[idx])
-
-    return cluster_id_to_feature_ids.values()
-
-
-
-def get_chi2_df(x, y):
-    '''Creates df that represents the chi-square scores between each feature in X and the target labels.
-    Parameters:
-    X - dataframe represents the train genomes feature vectors
-    y - dataframe represents the train genomes true labels
-
-    Returns:
-    chi2_df - df that represents the chi-square scores between each feature in X and the target labels
-    '''
-
-    chi2, p_val = feature_selection.chi2(x, y)
-    chi2_df = pd.DataFrame(chi2, columns=['chi2'], index=x.columns)
-    return chi2_df
-
-
-#
-# def add_feature_to_cluster(clusters, feature, is_add_func):
-#
-#
-#     for cluster in clusters:
-#
-#         cluster_rep = cluster[0]
-#
-#         if is_add_func(feature, cluster_rep):
-#             cluster.append(feature)
-#             return
-#
-#     clusters.append([feature])
-#
-#
-#
-#
-# def cluster_features(sorted_features, is_add_func):
-#     clusters = []
-#     for i, feature in enumerate(sorted_features):
-#         if i % 1000 == 0:
-#             print(i)
-#         add_feature_to_cluster(clusters, feature, is_add_func)
-#
-#     return clusters
-
-
-
-
-
-def  phi_coef(x, y):
-    '''Calculates phi coefficient between features
-
-    Parameters:
-    X - feature x column
-    y - feature y column
-
-    Returns:
-    corr - phi coefficient value
-    '''
-
-    confusion_matrix = pd.crosstab(x, y)
-    chi2 = chi2_contingency(confusion_matrix)[0]
-    n = confusion_matrix.sum().sum()
-    corr = np.sqrt(chi2 / n)
-
-    return corr
-
-
-
-def heatmap_correlated_features(x_train):
-    '''Calculates pairwise correlation scores between the features in x_train
-
-    Parameters:
-    x_train - training dataframe
-
-    Returns:
-    corr - correlation matrix
-    '''
-
-    corr = x_train.corr(method=phi_coef)
-    plt.figure(figsize=(5, 5))
-    ax = sns.heatmap(corr)
-    plt.show()
-
-    #figure = ax.get_figure()
-    # figure.savefig('heatmap.png', dpi=400)
-
-    return corr
-
-
-
-def optimize_k(min_val, max_val, inc, X_train, y_train, X_valid, y_validation):
-    '''Calculates and prints validation results using different values of k for selecting the features with the
-     highest chi2 values, and selects the best k value for the first step of the feature selection process according
-     to the AUROC results
-
-    Parameters:
-    min_val - minimum k value to check
-    max_val - maximum k value to check
-    inc - k increment size
-    X_train -training vectors dataframe
-    y_train - training true labels
-    X_valid - validation vectors dataframe
-    y_validation - validation true labels
-
-    Returns:
-    best_k - best k value for the first step of the feature selection process according
-     to the AUROC results
-    '''
-
-
-    k_vals = {}
-    for k in range(min_val, max_val + 1, inc):
-        print(f'________{k}________')
-        X_train_fs = perform_fs_first_step(X_train, y_train.Label, k)
-        model, evaluation_results = train_and_predict(X_train_fs, y_train.Label, X_valid,
-                                                                           y_validation.Label, random_state=0)
-        key = f'{k}'
-        k_vals[key] = round(evaluation_results['roc_auc'], 2)
-
-    best_AUROC = max([(value, key) for key, value in k_vals.items()])[0]
-    best_k = min([key for key, value in k_vals.items() if value==best_AUROC])
-    print('\n')
-    print(f'*****Best k value by AUROC: {best_k} ********')
-
-    best_k = int(best_k)
-    return best_k
-
-
-
-
-def select_feature_from_cluster(chi2_df, curr_cluster):
-    '''Selects feature with the highest the highest chi2 value from a cluster
-
-    Parameters:
-    curr_cluster - cluster of features
-    chi2_df - dataframe that represents the chi2 value between features and the target labels
-
-    Returns:
-    selected_feature -  index of the selected feature with the highest chi2 value
-    '''
-
-    curr_cluster_ids = [pgfam.csb_id for pgfam in curr_cluster]
-    selected_feature =  chi2_df.loc[curr_cluster_ids, 'chi2'].idxmax()
-
-    return selected_feature
-
-
-
-
-def select_features(clusters, x_train, y_train, select_feature_from_cluster_func):
-    '''Selects feature for each cluster
-
-    Parameters:
-    clusters - clusters of features
-    x_train -  training vectors dataframe
-    y_train -  training true labels
-    select_feature_from_cluster_func - function for selecting feature from cluster
-
-    Returns:
-    x_train_selected_features -  x_train, after selecting the final set of features
-    '''
-
-    chi2_df = get_chi2_df(x_train, y_train)
-    selected_features = [select_feature_from_cluster_func(chi2_df, cluster)
-                         for cluster in clusters]
-    print('selected_features len: ' + str(len(selected_features)))
-
-    x_train_selected_features = x_train.loc[:, selected_features]
-
-    return x_train_selected_features
-
-
-
-def optimize_t(min_val, max_val, inc, X_train_fs, y_train, feature_corr_matrix_train, X_valid, y_validation):
-    '''Calculates and prints validation results using different values of t(=threshold) for clustering correlated features in the
-    second step of the feature selection process, and selects the best t value according to the AUROC results
-
-    Parameters:
-    min_val - minimum t value to check
-    max_val - maximum t value to check
-    inc -  t increment size
-    X_train_fs -training vectors dataframe after the first step of the feature selection process
-    feature_corr_matrix_train - features correlation matrix
-    y_train - training true labels
-    X_valid - validation vectors dataframe
-    y_validation - validation true labels
-
-    Returns:
-    best_t - best t value for the second step of the feature selection process according
-     to the AUROC results
-    '''
-
-
-    t_vals = {}
-
-    for t in np.arange(min_val, max_val, inc):
-        print(f'---------------------{round(t, 2)}------------------')
-
-        clusters = herarchial_clustering(X_train_fs, feature_corr_matrix=feature_corr_matrix_train,
-                                                           threshold=t)
-        X_train_selected = select_features(clusters, X_train_fs, y_train.Label,
-                                                             select_feature_from_cluster_by_chi2)
-
-        model, evaluation_results_tvals = train_and_predict(X_train_selected, y_train.Label,
-                                                                                 X_valid, y_validation.Label)
-
-        key = f'{round(t, 2)}'
-        t_vals[key] = round(evaluation_results_tvals['roc_auc'], 2)
-
-    best_AUROC = max([(value, key) for key, value in t_vals.items()])[0]
-    best_t = max([key for key, value in t_vals.items() if value==best_AUROC])
-    print('\n')
-    print(f'*****Best t value by AUROC: {best_t} **********')
-
-    best_t = float(best_t)
-    return(best_t)
-
-
-
-def perform_fs_second_step(X_train_valid_fs, feature_corr_matrix, t, y_train_validation):
-    ''' Removes highly correlated and redundant features from the features set by clustering correlated
-        features and selecting a representative from each cluster.
-
-    Parameters:
-    X_train_valid_fs - dataframe represents the training genomes feature vectors after selecting the k features in the
-                       first step of the feature selection process
-    feature_corr_matrix - features correlation matrix
-    t - clustering threshold
-    y_train_validation - dataframe represents the training genomes labels
-
-    Returns:
-    X_train_valid_clust - Dataframe that represents the training genomes feature vectors after removing
-                          highly correlated features.
-
-    '''
-
-    clusters = herarchial_clustering(X_train_valid_fs, feature_corr_matrix=feature_corr_matrix, threshold=t)
-    X_train_valid_clust = select_features(clusters, X_train_valid_fs, y_train_validation.Label,
-                                                                 select_feature_from_cluster_by_chi2)
-
-    return X_train_valid_clust
-
-#
-# def is_high_corr(feature_corr_matrix, feature1, feature2, threshold=0.9):
-#     return feature_corr_matrix.loc[feature1, feature2] >= threshold
-
-
-
-def select_feature_from_cluster_by_chi2(chi2_df, curr_cluster):
-    return chi2_df.loc[curr_cluster, 'chi2'].idxmax()
-
-
-
-
 ############# Predict pathogenicity labels with existing model#########
-
+# TODO: Modify function
 def predict_with_existing_model(classifier, classifiers_features, input_genumes_file, output_files_str):
     ''' Predicts the pathogenicity label of genomes with existing classification model,
      and returns dataframe of the results
