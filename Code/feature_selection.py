@@ -180,7 +180,7 @@ def perform_fs_clusters(train_dataset, X_train_dist_mat, t_range, split=None, ra
     return search
 
 
-def  phi_coef(x, y):
+def phi_coef(x, y):
     """Calculates phi coefficient between features
 
     Parameters:
@@ -197,6 +197,7 @@ def  phi_coef(x, y):
     corr = np.sqrt(chi2 / n)
 
     return corr
+
 
 def perform_fs_first_step(X_train, y_train, feature_names, k=100):
     """select the k features with the highest chi-square scores
