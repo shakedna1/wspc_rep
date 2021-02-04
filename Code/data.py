@@ -81,7 +81,8 @@ class GenomesData:
         return self._y
 
     def convert_genomes_to_strings(self):
-        return pd.Series([' '.join(self.genome_to_genes[genome]) for genome in self.genomes], dtype="string")
+        return pd.Series([' '.join(self.genome_to_genes[genome]) for genome in self.genomes],
+                         dtype="string", index=self.genomes)
 
     def convert_labels(self):
         return self.metadata[LABEL].apply(lambda label: GenomesData.label_to_int[label])
