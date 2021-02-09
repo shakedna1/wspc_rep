@@ -56,7 +56,12 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
         return cluster_id_to_feature_idx.values()
 
     def fit(self, X, y):
-
+        """
+        Clusters the features (X columns) using self.dist_matrix and self.threshold, and selects a feature from each
+        cluster with the highest chi2 score versus y.
+        The attribute self.n_features_ represents the number of features selected (=number of clusters)
+        The attribute self.selected_features_ is a list of indexes that correspond to the selected features
+        """
         linkage = self._corr_linkage()
         clusters = self._hierarchical_clustering(linkage)
 
@@ -139,7 +144,20 @@ def grid_search_results_to_df(grid_search, param_name, decimals=3):
 
 
 def perform_fs_k_best(train_dataset, k_range, split=None, random_state=0, return_train_score=False):
+    """
+    Perform cross validation with various k values and a RF classifier. k represents top k features with the highest
+    chi2 scores between each feature and the target labels.
+    The classifier scores are computed according to MEASURES. The best parameter k is selected according to AUROC score.
 
+    :param train_dataset: GenomesData object representing the train dataset
+    :param k_range: a range of k values
+    :param split: an object that represents the splits to train and validation
+                  (e.g. sklearn.model_selection.PredefinedSplit). If split is None, performs 5-fold stratified cross
+                  validation
+    :param random_state: a random state for the RF classifier
+    :param return_train_score: specifies if the GridSearchCV should also calculate classifier score on train
+    :return: A fitted GridSearchCV object
+    """
     pipeline = Pipeline(steps=[('vectorize', CountVectorizer(lowercase=False, binary=True)),
                                ('k_best', SelectKBest(score_func=chi2)),
                                ('rf', RandomForestClassifier(random_state=random_state))])
@@ -160,6 +178,23 @@ def perform_fs_k_best(train_dataset, k_range, split=None, random_state=0, return
 
 def perform_fs_clusters(train_dataset, X_train_dist_mat, t_range, split=None, random_state=0,
                         return_train_score=False):
+    """
+    Perform cross validation with various t values and a RF classifier. t represents a threshold for clustering.
+    If the number of features is k, a threshold of 0 will leave k features (there will be k clusters).
+    The higher the t, features with greater distance will be merged to the same cluster, thus a smaller number of
+    features will be selected.
+    The classifier scores are computed according to MEASURES. The best parameter t is selected according to AUROC score.
+
+    :param train_dataset: GenomesData object representing the train dataset
+    :param X_train_dist_mat: A precomputed distance matrix for the train set according to split
+    :param t_range: a range of t values
+    :param split: an object that represents the splits to train and validation
+                  (e.g. sklearn.model_selection.PredefinedSplit). If split is None, performs 5-fold stratified cross
+                  validation
+    :param random_state: a random state for the RF classifier
+    :param return_train_score: specifies if the GridSearchCV should also calculate classifier score on train
+    :return: A fitted GridSearchCV object
+    """
 
     pipeline = Pipeline(steps=[('vectorize', CountVectorizer(lowercase=False, binary=True)),
                                ('k_best', SelectKBest(score_func=sklearn.feature_selection.chi2, k=450)),
@@ -225,6 +260,17 @@ def perform_fs_first_step(X_train, y_train, feature_names, k=100):
 
 
 def create_corr_matrix(X_train_raw, y_train, k=450):
+    """
+    Create a correlation matrix of size kxk between each two k best features X_train_raw. The best k features are
+    selected according to chi2 score between each feature and the target labels.
+
+    :param X_train_raw: X train strings of genes
+    :param y_train: train labels
+    :param k: k features to select according to chi2 score
+    :return: kxk correlation matrix between each two k best features X_train_raw. Matrix values are between 0-1.
+    A value of 0 represents no correlation between the corresponding features, a value of 1 represents a perfect
+     correlation between the corresponding features.
+    """
 
     vectorizer = CountVectorizer(lowercase=False, binary=True)
     X_train = vectorizer.fit_transform(X_train_raw, y_train)
@@ -238,6 +284,7 @@ def create_corr_matrix(X_train_raw, y_train, k=450):
 
 
 def feature_corr_to_dist_matrix(feature_corr_matrix):
+    """Transforms the correlation matrix feature_corr_matrix to a condensed distance matrix"""
 
     feature_corr_dist_matrix = 1 - feature_corr_matrix
 

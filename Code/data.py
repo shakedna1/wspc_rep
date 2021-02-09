@@ -78,13 +78,16 @@ class GenomesData:
 
     @property
     def y(self):
+        """Returns a series of binary labels of self.genomes"""
         return self._y
 
     def convert_genomes_to_strings(self):
+        """Returns a series of strings, each string is a sequence of genes separated by space (genome)"""
         return pd.Series([' '.join(self.genome_to_genes[genome]) for genome in self.genomes],
                          dtype="string", index=self.genomes)
 
     def convert_labels(self):
+        """Converts the genome labels to binary labels according to GenomesData.label_to_int"""
         return self.metadata[LABEL].apply(lambda label: GenomesData.label_to_int[label])
 
     def vectorize_data(self, vectorizer):
