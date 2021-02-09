@@ -70,10 +70,13 @@ class GenomesData:
 
     @property
     def genomes(self):
+        """Returns a series of genome ids"""
         return self.metadata.index
 
     @property
     def data(self):
+        """Returns a series of strings, each string is a sequence of genes separated by space, corresponding to the
+        order of self.genomes"""
         return self.convert_genomes_to_strings()
 
     @property
@@ -91,7 +94,11 @@ class GenomesData:
         return self.metadata[LABEL].apply(lambda label: GenomesData.label_to_int[label])
 
     def vectorize_data(self, vectorizer):
-
+        """
+        Converts the data strings into vectors using vectorizer.
+        :param vectorizer: a vectorizer used for data transformation
+        :return: DataFrame where rows are vectors of self.genomes and columns are vectorizer.get_feature_names()
+        """
         encoding = vectorizer.fit_transform(self.data)
         return pd.DataFrame(encoding.toarray(), columns=vectorizer.get_feature_names(), index=self.genomes)
 
