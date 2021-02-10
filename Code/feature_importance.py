@@ -77,21 +77,21 @@ def find_top_features_in_multiple_runs(x, y, importance_func, n_runs=100):
 
 
 
-def count_hp_vs_nhp(genome_ids, labels_df):
-    ''' Counts and returns the number of hps and nhps genomes in a list of genomes
+def count_hp_vs_nhp(genome_ids, y):
+    """ Counts and returns the number of hps and nhps genomes in a list of genomes
 
     Parameters:
     genome_ids - genomes ids
-    labels_df - true labels dataframe
+    y - a Series with genome ids as index, and values of 0 or 1
 
     Returns:
     hps - the number of hps genomes in genome_ids
     nhps - the number of nhps genomes in genome_ids
-    '''
+    """
 
-    genome_labels = labels_df.loc[genome_ids, :]
-    hps = len(genome_labels[genome_labels.loc[:, 'Label'] == 1])
-    nhps = len(genome_labels[genome_labels.loc[:, 'Label'] == 0])
+    genome_labels = y.loc[genome_ids]
+    hps = len(genome_labels[genome_labels == 1])
+    nhps = len(genome_labels[genome_labels == 0])
 
     assert len(genome_labels) == hps + nhps
 
@@ -173,7 +173,7 @@ def get_top_features_in_multiple_runs(x, y, importance_func, n_runs=100):
     return indices, mean_importance, std_importance
 
 
-def get_top_features_per_class_in_multiple_runs(x, y_df, importance_func, n_runs=100):
+def get_top_features_per_class_in_multiple_runs(x, y, importance_func, n_runs=100):
     ''' Returns a dictionary of the top features per class (HP/NHP)
 
     Parameters:
@@ -186,9 +186,9 @@ def get_top_features_per_class_in_multiple_runs(x, y_df, importance_func, n_runs
     class_features - dictionary that represents the top HP and top NHP features, with additional information.
     '''
 
-    indices, mean_importance, std_importance = get_top_features_in_multiple_runs(x, y_df.Label, importance_func, n_runs)
+    indices, mean_importance, std_importance = get_top_features_in_multiple_runs(x, y, importance_func, n_runs)
 
-    top_hp_feats, top_nhp_feats = split_top_features_to_classes(x, y_df, indices)
+    top_hp_feats, top_nhp_feats = split_top_features_to_classes(x, y, indices)
 
     class_features = {'HP': top_hp_feats,
                       'NHP': top_nhp_feats,
@@ -198,19 +198,20 @@ def get_top_features_per_class_in_multiple_runs(x, y_df, importance_func, n_runs
     return class_features
 
 
-def create_top_feats_df(class_features, x, y_df, top_feats=None):
-    ''' Creates dataframe that represents the relevant information on the top features
+def create_top_feats_df(class_features, x, y_df, pgfam_to_desc, top_feats=None):
+    """ Creates dataframe that represents the relevant information on the top features
 
     Parameters:
     class_features - dictionary that represents the top HP and top NHP features, with additional information
     x - features vectors dataframe
     y_df - true labels dataframe
+    pgfam_to_desc - a dict with pgfam as key and its description as value
     top_feats - number of top features to include in the resulting dataframe
 
     Returns:
     hps_df - dataframe that represents the top HP features
     nhps_df - dataframe that represents the top NHP features
-    '''
+    """
 
     mean_importance, std_importance = class_features['importances'], class_features['std']
 
@@ -232,7 +233,7 @@ def create_top_feats_df(class_features, x, y_df, top_feats=None):
             p_ratio = round((hps / total_hps) / (denominator), 2)
             mean_feature_importance = round(mean_importance[i], 3)
             std_feature_importance = round(std_importance[i], 3)
-            pgfam_desc = pgfams.get(feature, "")
+            pgfam_desc = pgfam_to_desc.get(feature, "")
 
             top_features_data[c_class].setdefault('Feature', []).append(feature)
             top_features_data[c_class].setdefault('Function', []).append(pgfam_desc)
