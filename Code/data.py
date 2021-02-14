@@ -31,7 +31,8 @@ class MetadataReader:
     def read(file_path):
 
         metadata = pd.read_csv(file_path, dtype=str).set_index(GENOME_ID)
-        metadata[DATE_INSERTED] = pd.to_datetime(metadata[DATE_INSERTED])
+        if DATE_INSERTED in metadata.columns:
+            metadata[DATE_INSERTED] = pd.to_datetime(metadata[DATE_INSERTED])
 
         return metadata
 
