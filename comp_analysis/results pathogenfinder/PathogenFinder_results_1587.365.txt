@@ -1,0 +1,185 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_195753_627202_input.fsa
+Sequences ::	 2266
+Total bpp ::	 590701
+Longest seq ::	 1667
+Shortest seq ::	 23
+Avg seq lenght ::	 260.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-108.572
+Probability of being human pathogen ::	0.191
+Matches::	55
+Genome Coverage (%) ::	2.43
+Pathogenic Families Matched ::	0
+Non-Pathogenic Families Matched ::	55
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1587.365.peg.1158|F3O59_06445   UDP-N-acetylmuramoy-dipeptide--L-lysine ligase (EC 6.3.2.7)   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	UDP-N-acetylmuramoyl-l-alanyl-d-glutamyl-l- lysine ligase	ABX27701	No	100.0
+
+#input_seq:	fig|1587.365.peg.665|F3O59_00805   Aminopeptidase N   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	aminopeptidase N	ABX27544	No	100.0
+
+#input_seq:	fig|1587.365.peg.1036   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26651	No	100.0
+
+#input_seq:	fig|1587.365.peg.1990|F3O59_02345   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26425	No	100.0
+
+#input_seq:	fig|1587.365.peg.2053|F3O59_09645   Putative transposase InsK for insertion sequence element IS150   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	transposase	ABX26655	No	100.0
+
+#input_seq:	fig|1587.365.peg.805|F3O59_05170   Transposase   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	transposase	ABX27446	No	100.0
+
+#input_seq:	fig|1587.365.peg.1208|F3O59_06665   Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily F2   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	exopolysaccharide biosynthesis protein	ABX27671	No	100.0
+
+#input_seq:	fig|1587.365.peg.711|F3O59_04730   Methionine aminopeptidase (EC 3.4.11.18)   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	Methionine aminopeptidase	ABX26809	No	100.0
+
+#input_seq:	fig|1587.365.peg.2046|F3O59_09610   Protein tyrosine phosphatase (EC 3.1.3.48)   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	Phosphatase	ABX27818	No	100.0
+
+#input_seq:	fig|1587.365.peg.940|F3O59_05850   Uncharacterized UPF0721 integral membrane protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	putative integral membrane protein	ABX26573	No	100.0
+
+#input_seq:	fig|1587.365.peg.646|F3O59_00715   CRISPR-associated protein Cas5   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX27538	No	100.0
+
+#input_seq:	fig|1587.365.peg.1393|F3O59_01605   Segregation and condensation protein A   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX27115	No	100.0
+
+#input_seq:	fig|1587.365.peg.433|F3O59_03865   Phosphate transport system regulatory protein PhoU   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	Phosphate uptake regulator	ABX26606	No	100.0
+
+#input_seq:	fig|1587.365.peg.587|F3O59_04630   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26469	No	100.0
+
+#input_seq:	fig|1587.365.peg.1962|F3O59_02215   Hydrolase, alpha/beta fold family   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	putative oxidoreductase	ABX26399	No	100.0
+
+#input_seq:	fig|1587.365.peg.1138   Protein disulfide isomerase (S-S rearrangase) (EC 5.3.4.1)   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	82	CP000033	Lactobacillus acidophilus NCFM, complete genome.	Lactobacillales	protein-disulfide isomerase	AAV43695	No	100.0
+
+#input_seq:	fig|1587.365.peg.1639|F3O59_01920   Phosphoglycerate mutase family protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	phosphoglycerate mutase	ABX27642	No	100.0
+
+#input_seq:	fig|1587.365.peg.1044|F3O59_01030   Chromosome replication initiation protein DnaD   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	DNA replication protein DnaD	ABX27283	No	100.0
+
+#input_seq:	fig|1587.365.peg.2242|F3O59_02765   UPF0758 family protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	DNA repair protein RadC	ABX26967	No	100.0
+
+#input_seq:	fig|1587.365.peg.2187|F3O59_10055   diaphanous-like protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	putative diaphanous protein	ABX27265	No	100.0
+
+#input_seq:	fig|1587.365.peg.1057|F3O59_01095   Signal peptidase I (EC 3.4.21.89)   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	Signal peptidase I	ABX27296	No	100.0
+
+#input_seq:	fig|1587.365.peg.1343|F3O59_07255   5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	5-Formyltetrahydrofolate cyclo-ligase	ABX27495	No	100.0
+
+#input_seq:	fig|1587.365.peg.413|F3O59_03765   Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	dUTPase	ABX26586	No	100.0
+
+#input_seq:	fig|1587.365.peg.75|F3O59_00370   Exonuclease   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	DNA polymerase III alpha chain	ABX26888	No	100.0
+
+#input_seq:	fig|1587.365.peg.80|F3O59_00395   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26883	No	100.0
+
+#input_seq:	fig|1587.365.peg.1664|F3O59_08205   Histone acetyltransferase HPA2 and related acetyltransferases   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	Acetyltransferase	ABX27252	No	100.0
+
+#input_seq:	fig|1587.365.peg.1557|F3O59_07945   Phosphopantetheine adenylyltransferase (EC 2.7.7.3)   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	phosphopantetheine adenylyltransferase	ABX27002	No	100.0
+
+#input_seq:	fig|1587.365.peg.1757|F3O59_08655   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26826	No	100.0
+
+#input_seq:	fig|1587.365.peg.1978|F3O59_02295   Nucleoside deoxyribosyltransferase (EC 2.4.2.6)   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	N-deoxyribosyltransferase	ABX26415	No	100.0
+
+#input_seq:	fig|1587.365.peg.910|F3O59_05700   LSU ribosomal protein L16p (L10e)   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	50S ribosomal protein L16	ABX26543	No	100.0
+
+#input_seq:	fig|1587.365.peg.50|F3O59_00245   Late competence protein ComGD, access of DNA to ComEA, FIG038316   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26912	No	100.0
+
+#input_seq:	fig|1587.365.peg.1720|F3O59_08480   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26382	No	100.0
+
+#input_seq:	fig|1587.365.peg.796|F3O59_05125   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26848	No	100.0
+
+#input_seq:	fig|1587.365.peg.1269|F3O59_06940   Protein of unknown function DUF1304   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX27169	No	100.0
+
+#input_seq:	fig|1587.365.peg.845|F3O59_05365   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26699	No	100.0
+
+#input_seq:	fig|1587.365.peg.492|F3O59_04145   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26663	No	100.0
+
+#input_seq:	fig|1587.365.peg.677|F3O59_00860   Antitoxin HigA   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX27559	No	100.0
+
+#input_seq:	fig|1587.365.peg.686|F3O59_00905   Hypothetical protein SAV1845   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX27568	No	100.0
+
+#input_seq:	fig|1587.365.peg.615|F3O59_00595   Ribosomal silencing factor RsfA   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX27513	No	100.0
+
+#input_seq:	fig|1587.365.peg.895|F3O59_05625   Signal recognition particle associated protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX27371	No	100.0
+
+#input_seq:	fig|1587.365.peg.496|F3O59_04165   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26667	No	100.0
+
+#input_seq:	fig|1587.365.peg.662|F3O59_00795   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	putative DNA-damage-inducible protein	ABX27542	No	100.0
+
+#input_seq:	fig|1587.365.peg.412|F3O59_03760   FIG00743336: hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26585	No	100.0
+
+#input_seq:	fig|1587.365.peg.11|F3O59_00050   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26947	No	100.0
+
+#input_seq:	fig|1587.365.peg.1535|F3O59_07840   YefM protein (antitoxin to YoeB)   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX27180	No	100.0
+
+#input_seq:	fig|1587.365.peg.323|F3O59_10940   Predicted zinc regulator, ArsR family   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX27692	No	100.0
+
+#input_seq:	fig|1587.365.peg.14|F3O59_00065   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26944	No	100.0
+
+#input_seq:	fig|1587.365.peg.420|F3O59_03800   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	82	CP000033	Lactobacillus acidophilus NCFM, complete genome.	Lactobacillales	hypothetical protein	AAV42244	No	100.0
+
+#input_seq:	fig|1587.365.peg.2220|F3O59_02655   Cold shock protein of CSP family   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	Cold shock protein	ABX26986	No	100.0
+
+#input_seq:	fig|1587.365.peg.190|F3O59_10635   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26707	No	100.0
+
+#input_seq:	fig|1587.365.peg.2200|F3O59_10115   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX27697	No	100.0
+
+#input_seq:	fig|1587.365.peg.1058|F3O59_01100   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX27297	No	100.0
+
+#input_seq:	fig|1587.365.peg.341|F3O59_03440   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX27876	No	100.0
+
+#input_seq:	fig|1587.365.peg.1843|F3O59_08860   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26383	No	100.0
+
+#input_seq:	fig|1587.365.peg.1689|F3O59_08325   hypothetical protein   [Lactobacillus helveticus strain DLBSA201 | 1587.365]
+#matched_seq:	17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	Lactobacillales	hypothetical protein	ABX26709	No	100.0
+

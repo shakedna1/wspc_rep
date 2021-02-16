@@ -1,0 +1,119 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_103700_827270_input.fsa
+Sequences ::	 2273
+Total bpp ::	 617479
+Longest seq ::	 2345
+Shortest seq ::	 21
+Avg seq lenght ::	 271.0
+
+RESULTS:
+Min Identity Threshold ::	99.169
+Z-THRESHOLD ::	3.0
+Prediction Score ::	127.97
+Probability of being human pathogen ::	0.898
+Matches::	33
+Genome Coverage (%) ::	1.45
+Pathogenic Families Matched ::	33
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|257758.659.peg.452|EKB03_06595   Tn916, transcriptional regulator, putative   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Lactobacillales	Tn5251 transcriptional regulator Cro/CI family	ACF55955	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1626|EKB03_10305   Tellurite resistance protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Lactobacillales	conserved hypothetical protein	CBJ21403	Yes	99.28
+
+#input_seq:	fig|257758.659.peg.1238|EKB03_08840   putative transposon integrase; Tn916 ORF3-like   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	Tn916, transposase	ABP89883	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1818|EKB03_02400   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	hypothetical protein	ACB89367	Yes	99.38
+
+#input_seq:	fig|257758.659.peg.492|EKB03_06780   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	hypothetical protein	ACB89900	Yes	99.29
+
+#input_seq:	fig|257758.659.peg.2152|EKB03_03485   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	hypothetical protein	ACA37401	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1971|EKB03_02760   FIG01117092: hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	hypothetical protein	ACB90072	Yes	99.22
+
+#input_seq:	fig|257758.659.peg.1637|EKB03_10350   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	membrane protein, putative	ACO22409	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1283|EKB03_09055   LSU rRNA pseudouridine(2605) synthase (EC 5.4.99.22)   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28041	CP000920	Streptococcus pneumoniae P1031, complete genome.	Lactobacillales	ribosomal large subunit pseudouridine synthase B	ACO21842	Yes	99.17
+
+#input_seq:	fig|257758.659.peg.455|EKB03_06610   Tn916, hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	hypothetical protein	ABP89893	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1235|EKB03_08820   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	Tn916, hypothetical protein	AAM99805	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1822|EKB03_02420   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	conserved hypothetical protein	ACO19912	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.342|EKB03_06080   [4Fe-4S]-AdoMet protein YtqA   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ55345	Yes	99.32
+
+#input_seq:	fig|257758.659.peg.1892|EKB03_11075   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54887	Yes	99.26
+
+#input_seq:	fig|257758.659.peg.1816|EKB03_02390   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28041	CP000920	Streptococcus pneumoniae P1031, complete genome.	Lactobacillales	conserved hypothetical protein	ACO20360	Yes	99.19
+
+#input_seq:	fig|257758.659.peg.2117|EKB03_03310   SSU ribosomal protein S19p (S15e)   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	SSU ribosomal protein S19P	ABP89047	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.2297   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	hypothetical protein	ACA36792	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.863|EKB03_07675   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved domain protein	ACA37165	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.155|EKB03_05190   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74929	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.71|EKB03_04765   Uncharacterized protein CAC3725   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Lactobacillales	conserved hypothetical protein	CBJ21307	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1236|EKB03_08825   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA36408	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1211|EKB03_08710   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ55244	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.139|EKB03_05115   bacterial seryl-tRNA synthetase related   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ55343	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1815|EKB03_02385   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	conserved hypothetical protein	ACO15942	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1136   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ55510	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.810   Mobile element protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	transposase	ACO23140	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.490   FIG01115402: hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ53851	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1137   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA36295	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.177|EKB03_05295   glutamine synthetase   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74661	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.447|EKB03_06570   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA36774	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.460|EKB03_06635   tetracycline resistance determinant leader peptide   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	Tetracycline resistance determinant leader peptide	ACA37321	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1276|EKB03_09025   UDP-glucose 4-epimerase (EC 5.1.3.2)   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	conserved domain protein	AAK75940	Yes	100.0
+
+#input_seq:	fig|257758.659.peg.1776|EKB03_02180   hypothetical protein   [Streptococcus pseudopneumoniae strain CCUG 72018 | 257758.659]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74344	Yes	100.0
+

@@ -1,0 +1,41 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_074912_090312_input.fsa
+Sequences ::	 3322
+Total bpp ::	 984756
+Longest seq ::	 3073
+Shortest seq ::	 21
+Avg seq lenght ::	 296.0
+
+RESULTS:
+Min Identity Threshold ::	88.552
+Z-THRESHOLD ::	3.0
+Prediction Score ::	21.327
+Probability of being human pathogen ::	0.804
+Matches::	7
+Genome Coverage (%) ::	0.21
+Pathogenic Families Matched ::	6
+Non-Pathogenic Families Matched ::	1
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|88431.891.peg.784|GT580_00135   putative transposon integrase; Tn916 ORF3-like   [Dorea longicatena strain BIOML-A2 | 88431.891]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	integrase	CAJ67177	Yes	100.0
+
+#input_seq:	fig|88431.891.peg.1432|GT580_15870   FIG00512738: hypothetical protein   [Dorea longicatena strain BIOML-A2 | 88431.891]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conjugative transposon protein	CAJ70287	Yes	95.81
+
+#input_seq:	fig|88431.891.peg.1463|GT580_16030   Antirestriction protein   [Dorea longicatena strain BIOML-A2 | 88431.891]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conjugative tranposon protein	CAJ67198	Yes	97.87
+
+#input_seq:	fig|88431.891.peg.1462|GT580_16025   FIG00516843: hypothetical protein   [Dorea longicatena strain BIOML-A2 | 88431.891]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conjugative transposon protein	CAJ67197	Yes	100.0
+
+#input_seq:	fig|88431.891.peg.3191|GT580_10600   hypothetical protein   [Dorea longicatena strain BIOML-A2 | 88431.891]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conjugative transposon membrane protein	CAJ70237	Yes	100.0
+
+#input_seq:	fig|88431.891.peg.3175|GT580_10520   Tn916, hypothetical protein   [Dorea longicatena strain BIOML-A2 | 88431.891]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	congative transposon conserved hypothetical protein	CAJ70225	Yes	97.47
+
+#input_seq:	fig|88431.891.peg.358|GT580_13095   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Dorea longicatena strain BIOML-A2 | 88431.891]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	89.19
+

@@ -1,0 +1,92 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_092550_553550_input.fsa
+Sequences ::	 7682
+Total bpp ::	 2382690
+Longest seq ::	 4237
+Shortest seq ::	 12
+Avg seq lenght ::	 310.0
+
+RESULTS:
+Min Identity Threshold ::	86.744
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-50.837
+Probability of being human pathogen ::	0.182
+Matches::	24
+Genome Coverage (%) ::	0.31
+Pathogenic Families Matched ::	0
+Non-Pathogenic Families Matched ::	24
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|163603.4.peg.946   Cell division protein FtsZ   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	cell division protein FtsZ	ACY98465	No	94.46
+
+#input_seq:	fig|163603.4.peg.3072|HGB48_18545   Type II/IV secretion system ATP hydrolase TadA/VirB11/CpaF, TadA subfamily   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	type II secretion system protein E	ACY99670	No	88.68
+
+#input_seq:	fig|163603.4.peg.2473|HGB48_03015   NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	NADH dehydrogenase (quinone)	ACZ00025	No	87.17
+
+#input_seq:	fig|163603.4.peg.3118|HGB48_18760   Putative RNA polymerase sigma factor   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	Actinobacteridae	putative RNA polymerase ECF-subfamily sigma factor	BAC68671	No	91.08
+
+#input_seq:	fig|163603.4.peg.2320|HGB48_02305   NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	NADH dehydrogenase (quinone)	ACY99912	No	87.07
+
+#input_seq:	fig|163603.4.peg.3784|HGB48_20970   Aspartate carbamoyltransferase (EC 2.1.3.2)   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	aspartate carbamoyltransferase	ACY98557	No	91.05
+
+#input_seq:	fig|163603.4.peg.3750|HGB48_20795   ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	ATP phosphoribosyltransferase	ACY98535	No	87.97
+
+#input_seq:	fig|163603.4.peg.2276|HGB48_02060   Conserved hypothetical integral membrane protein YrbEb   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	protein of unknown function DUF140	ACY99874	No	87.59
+
+#input_seq:	fig|163603.4.peg.1461|HGB48_13095   RNA polymerase sigma factor SigB   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	RNA polymerase, sigma 28 subunit, Sig B/F/G subfamily	ACY99224	No	95.24
+
+#input_seq:	fig|163603.4.peg.3610|HGB48_04430   Putative oxidoreductase   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	Actinobacteridae	putative dehydrogenase	BAC69681	No	92.09
+
+#input_seq:	fig|163603.4.peg.3154|HGB48_18940   hypothetical protein; putative SMAD/FHA domain   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	FHA domain containing protein	ACY99739	No	87.76
+
+#input_seq:	fig|163603.4.peg.426   Translation initiation factor 3   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	Actinobacteridae	putative translation initiation factor IF-3	BAC74448	No	87.66
+
+#input_seq:	fig|163603.4.peg.2258|HGB48_01970   SSU ribosomal protein S12p (S23e)   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	15762	CP000384	Mycobacterium sp. MCS, complete genome.	Actinobacteridae	SSU ribosomal protein S12P	ABG07098	No	87.9
+
+#input_seq:	fig|163603.4.peg.617|HGB48_34765   sigma subunit sigma24 -like protein   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	RNA polymerase, sigma-24 subunit, ECF subfamily	ACY96389	No	91.26
+
+#input_seq:	fig|163603.4.peg.2318|HGB48_02295   NADH-ubiquinone oxidoreductase chain I (EC 1.6.5.3)   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	4Fe-4S ferredoxin iron-sulfur binding domain protein	ACY99910	No	90.4
+
+#input_seq:	fig|163603.4.peg.3117|HGB48_18755   hypothetical protein   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	Actinobacteridae	conserved hypothetical protein	CAJ62852	No	88.89
+
+#input_seq:	fig|163603.4.peg.1992|HGB48_15160   putative Helix-turn-helix domain protein   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	transcriptional regulator, XRE family	ACY98841	No	93.16
+
+#input_seq:	fig|163603.4.peg.3777|HGB48_20935   integration host factor   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	hypothetical protein	ACY98550	No	95.37
+
+#input_seq:	fig|163603.4.peg.741|HGB48_10985   hypothetical protein   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	21089	CP001736	Kribbella flavida DSM 17836, complete genome.	Actinobacteridae	YCII-related protein	ADB33530	No	90.65
+
+#input_seq:	fig|163603.4.peg.4797|HGB48_24740   GroES-like protein in Actinomycetes   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	chaperonin Cpn10	ACY97405	No	90.57
+
+#input_seq:	fig|163603.4.peg.7069|HGB48_32155   Sporulation regulatory protein WhiB   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	transcription factor WhiB	ACY99599	No	95.4
+
+#input_seq:	fig|163603.4.peg.2448|HGB48_02905   Regulatory protein LuxR   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	transcriptional regulator, LuxR family	ACZ00009	No	89.47
+
+#input_seq:	fig|163603.4.peg.1640|HGB48_13765   hypothetical protein   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	Actinobacteridae	hypothetical protein	ACY98968	No	89.23
+
+#input_seq:	fig|163603.4.peg.2415|HGB48_02760   hypothetical protein   [Actinomadura latina strain ATCC BAA-277 | 163603.4]
+#matched_seq:	21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	Actinobacteridae	hypothetical protein	ACZ83562	No	96.88
+

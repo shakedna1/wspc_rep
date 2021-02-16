@@ -1,0 +1,32 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_141433_329038_input.fsa
+Sequences ::	 2940
+Total bpp ::	 905214
+Longest seq ::	 3073
+Shortest seq ::	 29
+Avg seq lenght ::	 307.0
+
+RESULTS:
+Min Identity Threshold ::	85.416
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-0.499
+Probability of being human pathogen ::	0.407
+Matches::	4
+Genome Coverage (%) ::	0.14
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	3
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|39485.1649.peg.2798|GKE48_11610   ABC transporter membrane-spanning permease, Pep export, Vex1   [[Eubacterium] eligens strain BIOML-A1 | 39485.1649]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ABC transporter, permease protein	CBE04634	Yes	96.23
+
+#input_seq:	fig|39485.1649.peg.1761|GKE48_06485   NimC/NimA family protein   [[Eubacterium] eligens strain BIOML-A1 | 39485.1649]
+#matched_seq:	29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	Clostridia	pyridoxamine 5'-phosphate oxidase family protein	ADL33765	No	87.69
+
+#input_seq:	fig|39485.1649.peg.2570|GKE48_10495   hypothetical protein   [[Eubacterium] eligens strain BIOML-A1 | 39485.1649]
+#matched_seq:	16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	Clostridia	Phosphotransferase system, phosphocarrier protein HPr	ABX42661	No	85.71
+
+#input_seq:	fig|39485.1649.peg.515|GKE48_00480   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [[Eubacterium] eligens strain BIOML-A1 | 39485.1649]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	91.89
+

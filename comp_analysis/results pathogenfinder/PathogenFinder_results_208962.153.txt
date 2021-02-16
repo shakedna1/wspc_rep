@@ -1,0 +1,344 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_094725_003765_input.fsa
+Sequences ::	 4723
+Total bpp ::	 1358567
+Longest seq ::	 3294
+Shortest seq ::	 24
+Avg seq lenght ::	 287.0
+
+RESULTS:
+Min Identity Threshold ::	97.298
+Z-THRESHOLD ::	3.0
+Prediction Score ::	439.086
+Probability of being human pathogen ::	0.91
+Matches::	108
+Genome Coverage (%) ::	2.29
+Pathogenic Families Matched ::	106
+Non-Pathogenic Families Matched ::	2
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|208962.153.peg.4087   Phage tail tip, host specificity protein J   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	fibronectin type III domain protein	ACD06304	Yes	99.02
+
+#input_seq:	fig|208962.153.peg.503   PTS system, maltose and glucose-specific IIC component / PTS system, maltose and glucose-specific IIB component (EC 2.7.1.208)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	PTS system, maltose and glucose-specific IIABC component	ABE07287	Yes	97.74
+
+#input_seq:	fig|208962.153.peg.3607   NAD kinase (EC 2.7.1.23)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017	Yes	98.97
+
+#input_seq:	fig|208962.153.peg.3196   23S rRNA (guanine(1835)-N(2))-methyltransferase (EC 2.1.1.174)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	putative enzyme	ABF05182	Yes	97.62
+
+#input_seq:	fig|208962.153.peg.4073   Peptidase B (EC 3.4.11.23)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative peptidase	AAZ89233	Yes	99.06
+
+#input_seq:	fig|208962.153.peg.1551   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	T3SS secreted effector EspK-homolog	BAI32320	Yes	98.68
+
+#input_seq:	fig|208962.153.peg.3010   Valine--pyruvate aminotransferase (EC 2.6.1.66)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	valine--pyruvate aminotransferase	ABE09542	Yes	98.8
+
+#input_seq:	fig|208962.153.peg.3267   Phage tail fiber, side tail fiber protein Stf   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	30045	CP001368	Escherichia coli O157:H7 str. TW14359, complete genome.	Gammaproteobacteria	tail fiber protein	ACT74822	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.4495   Na+ dependent nucleoside transporter NupC   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	Nucleoside permease NupC	ABE08191	Yes	97.97
+
+#input_seq:	fig|208962.153.peg.1540   Type III secretion protein SsaD   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS structure protein EscD	BAI28423	Yes	99.75
+
+#input_seq:	fig|208962.153.peg.1507   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS secreted effector EspG	BAI28392	Yes	99.21
+
+#input_seq:	fig|208962.153.peg.1543   Secretion system effector SseC   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	translocator EspD	BAI28426	Yes	99.74
+
+#input_seq:	fig|208962.153.peg.1421   Quinone oxidoreductase (EC 1.6.5.5)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Gammaproteobacteria	quinone oxidoreductase, NADPH-dependent	CAR20577	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.605   Transposase   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted transposase	CAS08784	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.417   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAB36910	Yes	98.29
+
+#input_seq:	fig|208962.153.peg.1541   Type III secretion cytoplasmic protein (YscL)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	secretion switching protein SepL	BAI28424	Yes	99.72
+
+#input_seq:	fig|208962.153.peg.3293   Formate efflux transporter FocA   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	probable formate transporter (formate channel 1)	ABF03127	Yes	98.95
+
+#input_seq:	fig|208962.153.peg.608   Phage DNA replication protein O   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR17620	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.3051   Malate dehydrogenase (EC 1.1.1.37)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	malate dehydrogenase	ABE09111	Yes	99.36
+
+#input_seq:	fig|208962.153.peg.1544   Secretion system effector SseD   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	translocator EspB	BAI28427	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1076   Phage DNA replication protein O   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Gammaproteobacteria	putative replication protein O of bacteriophage BP-933W	AAG55577	Yes	99.0
+
+#input_seq:	fig|208962.153.peg.1980   SSU ribosomal protein S2p (SAe)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1532   SepQ   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	T3SS structure protein SepQ	BAI32338	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.3668   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	98.61
+
+#input_seq:	fig|208962.153.peg.1506   Outer membrane protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	T3SS component	BAI32363	Yes	99.26
+
+#input_seq:	fig|208962.153.peg.1613   3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741	No	100.0
+
+#input_seq:	fig|208962.153.peg.1515   Type III secretion inner membrane protein (YscT,HrcT,SpaR,EscT,EpaR1,homologous to flagellar export components)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS structure protein EscT	BAI28400	Yes	99.61
+
+#input_seq:	fig|208962.153.peg.4723   Uncharacterized protein, YdfU family   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	hypothetical bacteriophage protein	ABB65625	Yes	98.27
+
+#input_seq:	fig|208962.153.peg.62   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	99.04
+
+#input_seq:	fig|208962.153.peg.1812   Transposase InsL for insertion sequence element IS186   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13151	CP000039	Shigella sonnei Ss046 plasmid pS	Gammaproteobacteria	46, complete sequence.	AAZ91206	Yes	97.67
+
+#input_seq:	fig|208962.153.peg.1512   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS component	BAI28397	Yes	98.16
+
+#input_seq:	fig|208962.153.peg.3799   DNA-binding transcriptional activator DecR, AsnC family   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Gammaproteobacteria	putative DNA-binding transcriptional regulator (Lrp-like)	CAR01791	Yes	99.34
+
+#input_seq:	fig|208962.153.peg.4651   SeqA protein, negative modulator of initiation of replication   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	313	AE014075	Escherichia coli CFT073, complete genome.	Gammaproteobacteria	SeqA protein	AAN79247	Yes	98.9
+
+#input_seq:	fig|208962.153.peg.3823   UPF0234 protein Yitk   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein	ABE05950	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1550   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	T3SS secreted effector NleG-homolog	BAI32321	Yes	98.58
+
+#input_seq:	fig|208962.153.peg.4099   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV17027	Yes	99.06
+
+#input_seq:	fig|208962.153.peg.26   Uncharacterized protein, YdfU family   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	hypothetical bacteriophage protein	ABF04170	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1535   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS secreted effector Map	BAI28419	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1511   Orf4   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS component	BAI28396	Yes	99.5
+
+#input_seq:	fig|208962.153.peg.922   Uncharacterized protein YfdP   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAI26905	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1549   Putative chaperone protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	T3SS secreted effector EspM-homolog	BAI32322	Yes	97.42
+
+#input_seq:	fig|208962.153.peg.1542   Type III secretion effector SseB   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	translocator EspA	BAI28425	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.4413   UPF0304 protein yfbU   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	313	AE014075	Escherichia coli CFT073, complete genome.	Gammaproteobacteria	Protein yfbU	AAN81289	Yes	99.39
+
+#input_seq:	fig|208962.153.peg.1524   Type III secretion bridge between inner and outermembrane lipoprotein (YscJ,HrcJ,EscJ, PscJ)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS structure protein EscJ	BAI28408	Yes	98.42
+
+#input_seq:	fig|208962.153.peg.4085   Phage tail tip, assembly protein I   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	40647	FN554766	Escherichia coli 042 complete genome.	Gammaproteobacteria	putative prophage tail assembly protein	CBG34961	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.3996   Acetyltransferase YpeA   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB62686	Yes	97.87
+
+#input_seq:	fig|208962.153.peg.1929   Predicted chaperone lipoprotein YacC, potentially involved in protein secretion   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABE05645	Yes	99.13
+
+#input_seq:	fig|208962.153.peg.1533   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS secreted effector EspH	BAI28417	Yes	98.25
+
+#input_seq:	fig|208962.153.peg.130   Periplasmic protein CpxP   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	periplasmic protein CpxP	ACD09422	Yes	98.19
+
+#input_seq:	fig|208962.153.peg.918   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein	ABE08459	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.3944   FIG107037: Phage late gene regulator   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	Transactivation protein	CAQ88007	Yes	99.4
+
+#input_seq:	fig|208962.153.peg.1538   Uncharacterized protein STM2138   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS chaperone CesT	BAI28421	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.703   Nickel responsive regulator NikR   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	nickel responsive regulator	ACN47734	Yes	98.5
+
+#input_seq:	fig|208962.153.peg.2057   PTS system, N,N'-diacetylchitobiose-specific IIA component (EC 2.7.1.196)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	PEP-dependent phosphotransferase enzyme III	ABF03671	Yes	98.28
+
+#input_seq:	fig|208962.153.peg.1523   type III secretion system protein SepD   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	secretion switching protein SepD	BAI28407	Yes	99.34
+
+#input_seq:	fig|208962.153.peg.1764   Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	acetylase for 30S ribosomal subunit protein S18	BAI28698	Yes	98.65
+
+#input_seq:	fig|208962.153.peg.1525   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	predicted T3SS component	BAI28409	Yes	99.3
+
+#input_seq:	fig|208962.153.peg.1531   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	predicted T3SS component protein	BAI28415	Yes	98.55
+
+#input_seq:	fig|208962.153.peg.1519   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	positive regulator GrlA	BAI32350	Yes	99.27
+
+#input_seq:	fig|208962.153.peg.1926   UPF0231 protein YacL   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB60266	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1545   Secretion system effector SseE   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS chaperone CesD2	BAI28428	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.4488   PTS system, fructose-like IIB component FryB   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV11570	Yes	97.73
+
+#input_seq:	fig|208962.153.peg.4543   Phage tail fiber protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAB36912	Yes	97.37
+
+#input_seq:	fig|208962.153.peg.1508   Ler protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	transcription regulator Ler	BAI28393	Yes	99.19
+
+#input_seq:	fig|208962.153.peg.1074   Phage transcriptional regulator cro   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Gammaproteobacteria	putative repressor protein from lambdoid phage (similar to Cro protein)	CAR02498	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.4489   PTS system, fructose-like IIB component FryB   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	putative PTS system IIB component YpdH	ABE08185	Yes	97.56
+
+#input_seq:	fig|208962.153.peg.1530   Orf15   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	predicted T3SS component protein	BAI28414	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1103   Phage head, DNA packaging protein FI   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Gammaproteobacteria	Uncharacterized 13.5 kDa protein in GP7-GP8 intergenic region	ADD54967	Yes	97.58
+
+#input_seq:	fig|208962.153.peg.2310   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein from putative prophage	CAU97557	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.237   Antitoxin HigA   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB66191	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1534   ROrf10   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS chaperone CesF	BAI28418	Yes	99.16
+
+#input_seq:	fig|208962.153.peg.1518   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	negative regulator GrlR	BAI28403	Yes	99.15
+
+#input_seq:	fig|208962.153.peg.1527   Orf12   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	regulator Mpc	BAI28411	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.4505   Phage tail tip, assembly protein M   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Gammaproteobacteria	phage minor tail protein	ACI35221	Yes	98.17
+
+#input_seq:	fig|208962.153.peg.1744   Uncharacterized proteins YbdD and YjiX   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAV02134	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1063   Phage protein orf61   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR11795	Yes	98.59
+
+#input_seq:	fig|208962.153.peg.1510   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS component	BAI28395	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1526   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS secreted effector EspZ	BAI28410	Yes	98.0
+
+#input_seq:	fig|208962.153.peg.1048   Hok/Gef-like protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Gammaproteobacteria	Small toxic membrane polypeptide	ADD57923	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1547   Type III secretion protein SsaH   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS component	BAI28430	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.150   Phage tail protein GpX   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Gammaproteobacteria	Tail protein X (GpX)	CAR03495	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1315   Phage small tail protein E   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	putative bacteriophage protein	ABF02523	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.421   Phage tail fiber, side tail fiber protein Stf   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	conserved predicted protein	BAI24477	Yes	98.88
+
+#input_seq:	fig|208962.153.peg.726   FIG032766: hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV19093	Yes	98.86
+
+#input_seq:	fig|208962.153.peg.1374   Phage holin/antiholin component S   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Gammaproteobacteria	hypothetical protein	ADD55311	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1091   Phage holin/antiholin component S   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Gammaproteobacteria	Putative holin protein	ADD55573	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.137   Phage Orf80 protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV19282	Yes	98.65
+
+#input_seq:	fig|208962.153.peg.3787   Haemolysin expression modulating protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893	Yes	98.61
+
+#input_seq:	fig|208962.153.peg.3731   Uncharacterized S4 RNA-binding-domain protein YbcJ   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF02752	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.4098   Phage head, head-DNA stabilization protein D   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV17541	Yes	97.37
+
+#input_seq:	fig|208962.153.peg.350   Phage shock protein D   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	phage shock protein	ABF03525	Yes	98.63
+
+#input_seq:	fig|208962.153.peg.4028   UPF0370 protein YpfN   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	putative membrane protein	ABB62708	Yes	98.48
+
+#input_seq:	fig|208962.153.peg.1546   Type III secretion protein SsaG   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	EscF protein	BAB37975	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.2313   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein	ABE10518	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1509   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	T3SS component	BAI28394	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.40   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR02657	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.3232   Toxic component of a type I toxin-antitoxin system, HokA   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Gammaproteobacteria	putative membrane permeability altering protein	AAG58706	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.4100   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV20882	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1064   Phage protein orf63   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein from phage origin	CAU96627	Yes	98.41
+
+#input_seq:	fig|208962.153.peg.38   Uncharacterized protein YdfB   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein	ABE06944	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1058   Phage protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein	ABE08159	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1068   Phage protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted protein	CAS10092	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1069   Phage host-killing protein Kil   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	kil protein of bacteriophage HK97	ABE08149	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.670   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV19281	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.2356   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein	ABE08721	Yes	97.56
+
+#input_seq:	fig|208962.153.peg.4602   hypothetical protein   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV19907	Yes	97.83
+
+#input_seq:	fig|208962.153.peg.328   Phage integrase   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Gammaproteobacteria	Putative integrase for prophage CP-933R	ADD54987	Yes	100.0
+
+#input_seq:	fig|208962.153.peg.1070   Phage repressor   [Escherichia albertii strain 13S38 | 208962.153]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted reguratory protein	CAS08539	Yes	97.73
+

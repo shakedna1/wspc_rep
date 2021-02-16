@@ -1,0 +1,56 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_201500_909762_input.fsa
+Sequences ::	 2409
+Total bpp ::	 746947
+Longest seq ::	 3032
+Shortest seq ::	 33
+Avg seq lenght ::	 310.0
+
+RESULTS:
+Min Identity Threshold ::	95.613
+Z-THRESHOLD ::	3.0
+Prediction Score ::	30.034
+Probability of being human pathogen ::	0.793
+Matches::	12
+Genome Coverage (%) ::	0.5
+Pathogenic Families Matched ::	11
+Non-Pathogenic Families Matched ::	1
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|65058.433.peg.2144|HO099_09225   FIG00545175: hypothetical protein   [Corynebacterium ulcerans strain 02-13 | 65058.433]
+#matched_seq:	40875	CP001829	Corynebacterium pseudotuberculosis C231, complete genome.	Actinobacteridae	Multidrug resistance protein B	ADL11222	Yes	96.36
+
+#input_seq:	fig|65058.433.peg.2092|HO099_08985   Alcohol dehydrogenase (EC 1.1.1.1)   [Corynebacterium ulcerans strain 02-13 | 65058.433]
+#matched_seq:	40875	CP001829	Corynebacterium pseudotuberculosis C231, complete genome.	Actinobacteridae	Alcohol dehydrogenase	ADL11337	Yes	95.84
+
+#input_seq:	fig|65058.433.peg.1142|HO099_04500   Exodeoxyribonuclease III (EC 3.1.11.2)   [Corynebacterium ulcerans strain 02-13 | 65058.433]
+#matched_seq:	40875	CP001829	Corynebacterium pseudotuberculosis C231, complete genome.	Actinobacteridae	Putative exodeoxyribonuclease	ADL09950	Yes	95.99
+
+#input_seq:	fig|65058.433.peg.107|HO099_11095   Phosphoserine phosphatase (EC 3.1.3.3)   [Corynebacterium ulcerans strain 02-13 | 65058.433]
+#matched_seq:	40875	CP001829	Corynebacterium pseudotuberculosis C231, complete genome.	Actinobacteridae	Phosphoserine phosphatase	ADL09711	Yes	96.55
+
+#input_seq:	fig|65058.433.peg.1851|HO099_07850   hypothetical protein   [Corynebacterium ulcerans strain 02-13 | 65058.433]
+#matched_seq:	40875	CP001829	Corynebacterium pseudotuberculosis C231, complete genome.	Actinobacteridae	Hypothetical protein	ADL10286	Yes	96.18
+
+#input_seq:	fig|65058.433.peg.1060|HO099_04125   RNA polymerase sigma-E factor   [Corynebacterium ulcerans strain 02-13 | 65058.433]
+#matched_seq:	40875	CP001829	Corynebacterium pseudotuberculosis C231, complete genome.	Actinobacteridae	RNA polymerase sigma factor RpoE	ADL10021	Yes	96.85
+
+#input_seq:	fig|65058.433.peg.682|HO099_02270   4'-phosphopantetheinyl transferase entD (EC 2.7.8.-)   [Corynebacterium ulcerans strain 02-13 | 65058.433]
+#matched_seq:	40875	CP001829	Corynebacterium pseudotuberculosis C231, complete genome.	Actinobacteridae	4'-phosphopantetheinyl transferase entD	ADL10745	Yes	99.1
+
+#input_seq:	fig|65058.433.peg.1626|HO099_06775   Resuscitation-promoting factor RpfA   [Corynebacterium ulcerans strain 02-13 | 65058.433]
+#matched_seq:	40875	CP001829	Corynebacterium pseudotuberculosis C231, complete genome.	Actinobacteridae	Resuscitation-promoting factor	ADL10080	Yes	97.58
+
+#input_seq:	fig|65058.433.peg.1217|HO099_04855   Translation initiation factor 1   [Corynebacterium ulcerans strain 02-13 | 65058.433]
+#matched_seq:	305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	Actinobacteridae	putative translation initiation factor IF-1	BAC17378	No	95.83
+
+#input_seq:	fig|65058.433.peg.947|HO099_03570   hypothetical protein   [Corynebacterium ulcerans strain 02-13 | 65058.433]
+#matched_seq:	40875	CP001829	Corynebacterium pseudotuberculosis C231, complete genome.	Actinobacteridae	Conserved hypothetical protein	ADL10490	Yes	96.3
+
+#input_seq:	fig|65058.433.peg.2322|HO099_10105   Excisionase-like protein SCO3328   [Corynebacterium ulcerans strain 02-13 | 65058.433]
+#matched_seq:	40875	CP001829	Corynebacterium pseudotuberculosis C231, complete genome.	Actinobacteridae	putative DNA-binding (excisionase) protein	ADL09763	Yes	100.0
+
+#input_seq:	fig|65058.433.peg.2147|HO099_09240   hypothetical protein   [Corynebacterium ulcerans strain 02-13 | 65058.433]
+#matched_seq:	40875	CP001829	Corynebacterium pseudotuberculosis C231, complete genome.	Actinobacteridae	Hypothetical protein	ADL11219	Yes	100.0
+

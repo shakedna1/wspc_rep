@@ -1,0 +1,86 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_03_02_2021_195824_011265_input.fsa
+Sequences ::	 1960
+Total bpp ::	 625588
+Longest seq ::	 3662
+Shortest seq ::	 21
+Avg seq lenght ::	 319.0
+
+RESULTS:
+Min Identity Threshold ::	95.051
+Z-THRESHOLD ::	3.0
+Prediction Score ::	76.054
+Probability of being human pathogen ::	0.869
+Matches::	22
+Genome Coverage (%) ::	1.12
+Pathogenic Families Matched ::	22
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|29466.1006.peg.168|GL285_00550   Predicted D-lactate dehydrogenase, Fe-S protein, FAD/FMN-containing   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	FAD linked oxidase domain protein	ACZ25444	Yes	99.57
+
+#input_seq:	fig|29466.1006.peg.1070|GL285_04810   SAM-dependent methyltransferase   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	Methyltransferase type 12	ACZ24452	Yes	97.6
+
+#input_seq:	fig|29466.1006.peg.1515|GL285_06880   Sensory box protein   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	putative PAS/PAC sensor protein	ACZ23893	Yes	97.96
+
+#input_seq:	fig|29466.1006.peg.376|GL285_01570   Oligopeptide ABC transporter, substrate-binding protein OppA (TC 3.A.1.5.1)   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	extracellular solute-binding protein family 5	ACZ25238	Yes	99.23
+
+#input_seq:	fig|29466.1006.peg.379|GL285_01585   Oligopeptide ABC transporter, substrate-binding protein OppA (TC 3.A.1.5.1)   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	extracellular solute-binding protein family 5	ACZ25235	Yes	99.42
+
+#input_seq:	fig|29466.1006.peg.255|GL285_00980   ABC transporter, permease protein (cluster 13, osmolytes) / ABC transporter, substrate-binding protein (cluster 13, osmolytes)   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	Substrate-binding region of ABC-type glycine betaine transport system	ACZ25353	Yes	98.04
+
+#input_seq:	fig|29466.1006.peg.1636|GL285_07465   ABC transporter, substrate-binding protein (cluster 5, nickel/peptides/opines)   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	extracellular solute-binding protein family 5	ACZ23775	Yes	98.82
+
+#input_seq:	fig|29466.1006.peg.347|GL285_01425   Na(+)-dependent branched-chain amino acid transporter   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	branched-chain amino acid transport system II carrier protein	ACZ25269	Yes	99.1
+
+#input_seq:	fig|29466.1006.peg.722|GL285_03130   Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aspartate aminotransferase (EC 2.6.1.1)   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	aminotransferase class I and II	ACZ24786	Yes	99.76
+
+#input_seq:	fig|29466.1006.peg.890|GL285_03875   Diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26) / 5-amino-6-(5-phosphoribosylamino)uracil reductase (EC 1.1.1.193)   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	riboflavin biosynthesis protein RibD	ACZ24635	Yes	96.04
+
+#input_seq:	fig|29466.1006.peg.548|GL285_02270   similar to ribulose-1,5-bisphosphate carboxylase, Type III, too   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit	ACZ24943	Yes	97.22
+
+#input_seq:	fig|29466.1006.peg.1187|GL285_05390   3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	acetyl-CoA acetyltransferase	ACZ24334	Yes	95.11
+
+#input_seq:	fig|29466.1006.peg.832|GL285_03585   Uncharacterized sodium-dependent transporter YocS   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	Bile acid:sodium symporter	ACZ24697	Yes	98.31
+
+#input_seq:	fig|29466.1006.peg.1685|GL285_07680   Oligopeptide ABC transporter, permease protein OppC (TC 3.A.1.5.1)   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	binding-protein-dependent transport systems inner membrane component	ACZ24168	Yes	99.33
+
+#input_seq:	fig|29466.1006.peg.1292|GL285_05835   Helix-turn-helix domain protein   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	transcriptional regulator, XRE family	ACZ23942	Yes	98.28
+
+#input_seq:	fig|29466.1006.peg.151|GL285_00465   Uncharacterized DUF554 membrane protein   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	protein of unknown function DUF554	ACZ25461	Yes	97.48
+
+#input_seq:	fig|29466.1006.peg.931|GL285_04075   SSU rRNA pseudouridine(516) synthase (EC 5.4.99.19)   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	pseudouridine synthase	ACZ24593	Yes	98.28
+
+#input_seq:	fig|29466.1006.peg.1935|GL285_09015   FIG01197404: hypothetical protein   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	hypothetical protein	ACZ25071	Yes	98.05
+
+#input_seq:	fig|29466.1006.peg.1532|GL285_06960   hypothetical protein   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	hypothetical protein	ACZ23875	Yes	98.82
+
+#input_seq:	fig|29466.1006.peg.577|GL285_02405   Lipoprotein signal peptidase (EC 3.4.23.36)   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	lipoprotein signal peptidase	ACZ24916	Yes	96.58
+
+#input_seq:	fig|29466.1006.peg.1937|GL285_09025   FIG01196977: hypothetical protein   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	Cupin 2 conserved barrel domain protein	ACZ25073	Yes	95.76
+
+#input_seq:	fig|29466.1006.peg.114|GL285_00295   FIG01197301: hypothetical protein   [Veillonella parvula strain BIOML-A1 | 29466.1006]
+#matched_seq:	21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Clostridia	hypothetical protein	ACZ25512	Yes	97.89
+

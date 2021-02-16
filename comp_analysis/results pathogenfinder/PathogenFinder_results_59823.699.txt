@@ -1,0 +1,32 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_083856_989052_input.fsa
+Sequences ::	 2400
+Total bpp ::	 646366
+Longest seq ::	 2542
+Shortest seq ::	 1
+Avg seq lenght ::	 269.0
+
+RESULTS:
+Min Identity Threshold ::	82.346
+Z-THRESHOLD ::	3.0
+Prediction Score ::	0.705
+Probability of being human pathogen ::	0.497
+Matches::	4
+Genome Coverage (%) ::	0.17
+Pathogenic Families Matched ::	2
+Non-Pathogenic Families Matched ::	2
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|59823.699.peg.1720   Integrase   [Prevotella sp. strain P-A-F_MAG_00002 | 59823.699]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	transposase	ABR41345	Yes	85.0
+
+#input_seq:	fig|59823.699.peg.1316   Transcriptional regulator, AraC family   [Prevotella sp. strain P-A-F_MAG_00002 | 59823.699]
+#matched_seq:	19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Bacteroidia	probable transcriptional regulator AraC family	BAG32601	Yes	84.75
+
+#input_seq:	fig|59823.699.peg.1837   IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)   [Prevotella sp. strain P-A-F_MAG_00002 | 59823.699]
+#matched_seq:	10619	CP002006	Prevotella ruminicola 23, complete genome.	Bacteroidia	putative IMP cyclohydrolase	ADE83531	No	84.42
+
+#input_seq:	fig|59823.699.peg.1480   Uncharacterized protein Fjoh_4981, DUF4295-containing   [Prevotella sp. strain P-A-F_MAG_00002 | 59823.699]
+#matched_seq:	10619	CP002006	Prevotella ruminicola 23, complete genome.	Bacteroidia	hypothetical protein	ADE83267	No	88.46
+

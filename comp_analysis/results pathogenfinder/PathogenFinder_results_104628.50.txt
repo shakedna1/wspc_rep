@@ -1,0 +1,35 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_085132_962462_input.fsa
+Sequences ::	 1836
+Total bpp ::	 512995
+Longest seq ::	 3004
+Shortest seq ::	 29
+Avg seq lenght ::	 279.0
+
+RESULTS:
+Min Identity Threshold ::	87.998
+Z-THRESHOLD ::	3.0
+Prediction Score ::	9.594
+Probability of being human pathogen ::	0.719
+Matches::	5
+Genome Coverage (%) ::	0.27
+Pathogenic Families Matched ::	4
+Non-Pathogenic Families Matched ::	1
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|104628.50.peg.1211|NHP194022_11470   Acetophenone carboxylase subunit Apc3 (EC 6.4.1.8)   [Helicobacter suis strain NHP19-4022 | 104628.50]
+#matched_seq:	9633	CP000082	Psychrobacter arcticus 273-4, complete genome.	Gammaproteobacteria	probable Acetone carboxylase beta subunit	AAZ19297	No	90.91
+
+#input_seq:	fig|104628.50.peg.742|NHP194022_07030   hypothetical protein   [Helicobacter suis strain NHP19-4022 | 104628.50]
+#matched_seq:	32291	CP001217	Helicobacter pylori P12, complete genome.	Epsilonproteobacteria	relaxase	ACJ08502	Yes	91.98
+
+#input_seq:	fig|104628.50.peg.741|NHP194022_07020   integrase/recombinase (xerD)   [Helicobacter suis strain NHP19-4022 | 104628.50]
+#matched_seq:	233	AE000511	Helicobacter pylori 26695, complete genome.	Epsilonproteobacteria	integrase/recombinase (xerD)	AAD08042	Yes	99.44
+
+#input_seq:	fig|104628.50.peg.737|NHP194022_06980   hypothetical protein   [Helicobacter suis strain NHP19-4022 | 104628.50]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD06978	Yes	91.11
+
+#input_seq:	fig|104628.50.peg.739|NHP194022_07000   hypothetical protein   [Helicobacter suis strain NHP19-4022 | 104628.50]
+#matched_seq:	233	AE000511	Helicobacter pylori 26695, complete genome.	Epsilonproteobacteria	predicted coding region HP0993	AAD08038	Yes	100.0
+

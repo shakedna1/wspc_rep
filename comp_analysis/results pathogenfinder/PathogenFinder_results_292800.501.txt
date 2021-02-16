@@ -1,0 +1,35 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_160310_710906_input.fsa
+Sequences ::	 4915
+Total bpp ::	 1380275
+Longest seq ::	 3224
+Shortest seq ::	 22
+Avg seq lenght ::	 280.0
+
+RESULTS:
+Min Identity Threshold ::	77.821
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-3.881
+Probability of being human pathogen ::	0.348
+Matches::	5
+Genome Coverage (%) ::	0.1
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	4
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|292800.501.peg.693|GKE88_11610   Mobile element protein   [Flavonifractor plautii strain BIOML-A4 | 292800.501]
+#matched_seq:	17419	CP001348	Clostridium cellulolyticum H10, complete genome.	Clostridia	transposase mutator type	ACL74802	No	83.08
+
+#input_seq:	fig|292800.501.peg.2449|GKE88_02980   hypothetical protein   [Flavonifractor plautii strain BIOML-A4 | 292800.501]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	transcription regulator (yobd protein)	CBE04571	Yes	83.33
+
+#input_seq:	fig|292800.501.peg.779|GKE88_11980   SSU ribosomal protein S13p (S18e)   [Flavonifractor plautii strain BIOML-A4 | 292800.501]
+#matched_seq:	29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	Clostridia	ribosomal protein S13 RpsM	ADL33366	No	79.51
+
+#input_seq:	fig|292800.501.peg.3069|GKE88_03815   Propanediol utilization polyhedral body protein PduA   [Flavonifractor plautii strain BIOML-A4 | 292800.501]
+#matched_seq:	19449	CP001322	Desulfatibacillum alkenivorans AK-01, complete genome.	Deltaproteobacteria	microcompartments protein	ACL06672	No	78.02
+
+#input_seq:	fig|292800.501.peg.780|GKE88_11985   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Flavonifractor plautii strain BIOML-A4 | 292800.501]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	83.78
+

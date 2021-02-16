@@ -1,0 +1,41 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_093224_891372_input.fsa
+Sequences ::	 4307
+Total bpp ::	 1298841
+Longest seq ::	 2992
+Shortest seq ::	 20
+Avg seq lenght ::	 301.0
+
+RESULTS:
+Min Identity Threshold ::	86.422
+Z-THRESHOLD ::	3.0
+Prediction Score ::	2.213
+Probability of being human pathogen ::	0.524
+Matches::	7
+Genome Coverage (%) ::	0.16
+Pathogenic Families Matched ::	4
+Non-Pathogenic Families Matched ::	3
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|166486.885.peg.4000|GMD50_08110   FIG01020158: hypothetical protein   [Roseburia intestinalis strain BIOML-A1 | 166486.885]
+#matched_seq:	18737	CP000837	Streptococcus suis GZ1, complete genome.	Lactobacillales	TrsE-like protein	ADE30946	Yes	90.48
+
+#input_seq:	fig|166486.885.peg.2003|GMD50_17005   Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)   [Roseburia intestinalis strain BIOML-A1 | 166486.885]
+#matched_seq:	29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	Clostridia	RNA-dependent DNA polymerase	ADL33970	No	91.16
+
+#input_seq:	fig|166486.885.peg.4049|GMD50_08345   hypothetical protein   [Roseburia intestinalis strain BIOML-A1 | 166486.885]
+#matched_seq:	18737	CP000837	Streptococcus suis GZ1, complete genome.	Lactobacillales	putative transposon integrase, Tn916 ORF3-like protein	ADE30930	Yes	87.32
+
+#input_seq:	fig|166486.885.peg.3998|GMD50_08100   FIG01117483: hypothetical protein   [Roseburia intestinalis strain BIOML-A1 | 166486.885]
+#matched_seq:	18737	CP000837	Streptococcus suis GZ1, complete genome.	Lactobacillales	hypothetical protein	ADE30950	Yes	86.69
+
+#input_seq:	fig|166486.885.peg.1800|GMD50_16045   hypothetical protein   [Roseburia intestinalis strain BIOML-A1 | 166486.885]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative uncharacterized protein	CBE04594	Yes	96.64
+
+#input_seq:	fig|166486.885.peg.3458|GMD50_20280   NimC/NimA family protein   [Roseburia intestinalis strain BIOML-A1 | 166486.885]
+#matched_seq:	29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	Clostridia	pyridoxamine 5'-phosphate oxidase family protein	ADL33765	No	87.69
+
+#input_seq:	fig|166486.885.peg.399|GMD50_11590   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Roseburia intestinalis strain BIOML-A1 | 166486.885]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	91.89
+

@@ -1,0 +1,80 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_083212_493323_input.fsa
+Sequences ::	 2650
+Total bpp ::	 764710
+Longest seq ::	 3519
+Shortest seq ::	 21
+Avg seq lenght ::	 288.0
+
+RESULTS:
+Min Identity Threshold ::	90.963
+Z-THRESHOLD ::	3.0
+Prediction Score ::	106.807
+Probability of being human pathogen ::	0.951
+Matches::	20
+Genome Coverage (%) ::	0.75
+Pathogenic Families Matched ::	20
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|29378.48.peg.1839|HFD07_08260   Type I restriction-modification system, restriction subunit R (EC 3.1.21.3)   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	type I restriction-modification system, R subunit	AAW53360	Yes	96.56
+
+#input_seq:	fig|29378.48.peg.767|HFD07_13100   Methicillin resistance regulatory sensor-transducer MecR1   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	15757	CP000703	Staphylococcus aureus subsp. aureus JH9, complete genome.	Bacillales	Beta-lactamase	ABQ47844	Yes	100.0
+
+#input_seq:	fig|29378.48.peg.2602|HFD07_12235   Cassette chromosome recombinase B   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	15596	AP008934	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.	Bacillales	cassette chromosome recombinase C	BAE17191	Yes	96.06
+
+#input_seq:	fig|29378.48.peg.1807|HFD07_08145   Tn552 transposase   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	279	AE015934	Staphylococcus epidermidis ATCC 12228 plasmid pSE-12228-05, complete sequence.	Bacillales	Tn552 transposase	AAO06190	Yes	95.0
+
+#input_seq:	fig|29378.48.peg.1820|HFD07_08175   hypothetical protein   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	18509	AP009324	Staphylococcus aureus subsp. aureus Mu3 DNA, complete genome.	Bacillales	hypothetical protein	BAF76908	Yes	100.0
+
+#input_seq:	fig|29378.48.peg.712|HFD07_12845   Transcriptional regulator, LysR family   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	265	BX571856	Staphylococcus aureus subsp. aureus strain MRSA252, complete genome.	Bacillales	LysR family regulatory protein	CAG39728	Yes	94.51
+
+#input_seq:	fig|29378.48.peg.1808|HFD07_08150   Replication initiation ATPase; ATP-binding protein p271   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	29567	CP002120	Staphylococcus aureus subsp. aureus str. JKD6008, complete genome.	Bacillales	putative ATPase/transposase	ADL66621	Yes	96.31
+
+#input_seq:	fig|29378.48.peg.1833|HFD07_08230   hypothetical protein   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	conserved hypothetical protein	AAW53344	Yes	96.41
+
+#input_seq:	fig|29378.48.peg.1737|HFD07_07800   Staphylococcal accessory regulator A (SarA)   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	15596	AP008934	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.	Bacillales	staphylococcal accessory regulator A	BAE19248	Yes	95.16
+
+#input_seq:	fig|29378.48.peg.1358|HFD07_13275   Mobile element protein   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	15757	CP000704	Staphylococcus aureus subsp. aureus JH9 plasmid pSJH901, complete sequence.	Bacillales	hypothetical protein	ABQ50536	Yes	98.94
+
+#input_seq:	fig|29378.48.peg.1830|HFD07_08220   hypothetical protein   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	238	CP000046	Staphylococcus aureus subsp. aureus COL, complete genome.	Bacillales	conserved hypothetical protein	AAW38690	Yes	94.83
+
+#input_seq:	fig|29378.48.peg.2603|HFD07_12240   FIG01108299: hypothetical protein   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	15596	AP008934	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.	Bacillales	hypothetical protein	BAE17179	Yes	92.86
+
+#input_seq:	fig|29378.48.peg.1832|HFD07_08225   hypothetical protein   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	238	CP000046	Staphylococcus aureus subsp. aureus COL, complete genome.	Bacillales	conserved hypothetical protein	AAW38688	Yes	93.2
+
+#input_seq:	fig|29378.48.peg.647|HFD07_03170   Hypothetical protein SAV2173   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	15596	AP008934	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAE17859	Yes	94.19
+
+#input_seq:	fig|29378.48.peg.816|HFD07_03345   Protein translocase subunit YajC   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	15596	AP008934	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.	Bacillales	putative preprotein translocase subunit	BAE18266	Yes	93.02
+
+#input_seq:	fig|29378.48.peg.640|HFD07_03135   Hypothetical protein SAV2183   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	15596	AP008934	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.	Bacillales	hypothetical protein	BAE17848	Yes	92.41
+
+#input_seq:	fig|29378.48.peg.1819|HFD07_08170   hypothetical protein   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	18509	AP009324	Staphylococcus aureus subsp. aureus Mu3 DNA, complete genome.	Bacillales	hypothetical protein	BAF76909	Yes	100.0
+
+#input_seq:	fig|29378.48.peg.1384|HFD07_06065   hypothetical protein   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	15596	AP008934	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.	Bacillales	hypothetical protein	BAE18901	Yes	94.44
+
+#input_seq:	fig|29378.48.peg.2440|HFD07_11390   hypothetical protein   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	15596	AP008934	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA, complete genome.	Bacillales	hypothetical protein	BAE18012	Yes	94.64
+
+#input_seq:	fig|29378.48.peg.1831   hypothetical protein   [Staphylococcus arlettae strain N283 | 29378.48]
+#matched_seq:	16313	CP000255	Staphylococcus aureus subsp. aureus USA30	Bacillales	PR3757, complete genome.	ABD21531	Yes	96.67
+

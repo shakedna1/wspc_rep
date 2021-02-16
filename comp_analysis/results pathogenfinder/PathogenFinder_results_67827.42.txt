@@ -1,0 +1,251 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_084635_277837_input.fsa
+Sequences ::	 5661
+Total bpp ::	 1649357
+Longest seq ::	 6884
+Shortest seq ::	 14
+Avg seq lenght ::	 291.0
+
+RESULTS:
+Min Identity Threshold ::	94.982
+Z-THRESHOLD ::	3.0
+Prediction Score ::	212.541
+Probability of being human pathogen ::	0.779
+Matches::	77
+Genome Coverage (%) ::	1.36
+Pathogenic Families Matched ::	65
+Non-Pathogenic Families Matched ::	12
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|67827.42.peg.339|G7Z92_01675   DNA primase, phage associated   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein from bacteriophage origin	CAR14122	Yes	96.28
+
+#input_seq:	fig|67827.42.peg.504|G7Z92_02445   Hydroxyaromatic non-oxidative decarboxylase protein C (EC 4.1.1.-)   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78633	Yes	98.11
+
+#input_seq:	fig|67827.42.peg.356|G7Z92_01750   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	putative dipeptide/oligopeptide/nickel ABC-type transport systems, periplasmic component from bacteriophage origin	CAR14138	Yes	97.14
+
+#input_seq:	fig|67827.42.peg.3342|G7Z92_10835   Lipoate-protein ligase A   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	putative lipoate-protein ligase A	BAB38768	Yes	95.27
+
+#input_seq:	fig|67827.42.peg.270|G7Z92_01350   NAD kinase (EC 2.7.1.23)   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017	Yes	98.97
+
+#input_seq:	fig|67827.42.peg.1469|G7Z92_25505   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	33639	CP001383	Shigella flexneri 2002017, complete genome.	Gammaproteobacteria	Transposon Tn7 transposition protein tnsE	ADA76106	Yes	99.81
+
+#input_seq:	fig|67827.42.peg.2229|G7Z92_26225   FIG131328: Predicted ATP-dependent endonuclease of the OLD family   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	16718	DQ381420	Escherichia coli APEC O1 plasmid pAPEC-O1-ColBM, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ABD51649	No	95.38
+
+#input_seq:	fig|67827.42.peg.1710|G7Z92_04485   Octaprenyl diphosphate synthase (EC 2.5.1.90)   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV15641	Yes	97.21
+
+#input_seq:	fig|67827.42.peg.4847|G7Z92_17555   Maltodextrin ABC transporter, substrate-binding protein MdxE   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	ABC superfamily (bin	AAX68014	Yes	95.2
+
+#input_seq:	fig|67827.42.peg.4615   Mobile element protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Gammaproteobacteria	putative transposase ORF 1, IS66 family	CAR06531	Yes	97.06
+
+#input_seq:	fig|67827.42.peg.2328|G7Z92_26705   Mobile element protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative protein encoded within IS	AAZ89289	Yes	97.3
+
+#input_seq:	fig|67827.42.peg.1186|G7Z92_24135   Proton/glutamate symporter @ Proton/aspartate symporter   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14881	Yes	97.71
+
+#input_seq:	fig|67827.42.peg.4625   TniA putative transposase   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	TniA; integrase core domain	ABR80443	Yes	100.0
+
+#input_seq:	fig|67827.42.peg.3478|G7Z92_11440   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	conserved hypothetical protein	BAH61473	Yes	95.36
+
+#input_seq:	fig|67827.42.peg.3454|G7Z92_11325   Protein with ParB-like nuclease domain in PFGI-1-like cluster   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80053	Yes	95.32
+
+#input_seq:	fig|67827.42.peg.61|G7Z92_00280   Na+ dependent nucleoside transporter NupC   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	Nucleoside permease NupC	ABE08191	Yes	97.75
+
+#input_seq:	fig|67827.42.peg.4089|G7Z92_27450   Tetracycline resistance, MFS efflux pump => Tet(D)   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Gammaproteobacteria	tetracycline resistance protein, efflux, class D	ABR80636	Yes	100.0
+
+#input_seq:	fig|67827.42.peg.2890|G7Z92_09080   Eha protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	Gammaproteobacteria	conserved hypothetical protein	BAE74097	No	98.45
+
+#input_seq:	fig|67827.42.peg.5676|G7Z92_21675   Phage protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Gammaproteobacteria	hypothetical protein	ADD57632	Yes	96.33
+
+#input_seq:	fig|67827.42.peg.3985|G7Z92_13655   ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66384	Yes	97.32
+
+#input_seq:	fig|67827.42.peg.4694|G7Z92_16815   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66430	Yes	99.42
+
+#input_seq:	fig|67827.42.peg.1802|G7Z92_04935   Malate dehydrogenase (EC 1.1.1.37)   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	malate dehydrogenase	ABE09111	Yes	96.78
+
+#input_seq:	fig|67827.42.peg.2297|G7Z92_26560   Aminoglycoside 3''-phosphotransferase (EC 2.7.1.87) => APH(3'')-I   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	19459	CP001125	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 plasmid pCVM1963	Gammaproteobacteria	10, complete sequence.	ACF88500	Yes	99.63
+
+#input_seq:	fig|67827.42.peg.5602|G7Z92_21320   Formate efflux transporter FocA   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	putative FNT family, formate transporter (formate channel 1)	AAX64834	Yes	95.79
+
+#input_seq:	fig|67827.42.peg.4690|G7Z92_16795   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66434	Yes	97.44
+
+#input_seq:	fig|67827.42.peg.3422|G7Z92_11185   Transcriptional regulator, LysR family   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14536	Yes	95.45
+
+#input_seq:	fig|67827.42.peg.3156|G7Z92_09925   SSU ribosomal protein S2p (SAe)   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	97.51
+
+#input_seq:	fig|67827.42.peg.5004|G7Z92_18425   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	95.41
+
+#input_seq:	fig|67827.42.peg.3583|G7Z92_11710   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF66306	Yes	96.85
+
+#input_seq:	fig|67827.42.peg.354|G7Z92_01740   Distant homology with glucose-6-phosphate isomerase, archaeal   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative cytoplasmic protein	ABR78365	Yes	96.79
+
+#input_seq:	fig|67827.42.peg.528|G7Z92_02560   Transcriptional regulator, RpiR family   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Gammaproteobacteria	putative Transcriptional regulator	CAR11105	Yes	95.62
+
+#input_seq:	fig|67827.42.peg.4761|G7Z92_17140   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	98.08
+
+#input_seq:	fig|67827.42.peg.2967|G7Z92_27060   IS1 protein InsB   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	33639	CP001383	Shigella flexneri 2002017, complete genome.	Gammaproteobacteria	IS1 ORF2	ADA74134	Yes	100.0
+
+#input_seq:	fig|67827.42.peg.1321|G7Z92_24785   Hexose-phosphate uptake two-component transcriptional response regulator UhpA   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV11187	Yes	95.94
+
+#input_seq:	fig|67827.42.peg.334|G7Z92_01655   Putative periplasmic protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR78350	Yes	96.26
+
+#input_seq:	fig|67827.42.peg.3580|G7Z92_27430   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	20585	CU468133	Erwinia tasmaniensis strain ET1/99 complete plasmid pET46.	Gammaproteobacteria	Resolvase	CAO94998	No	99.5
+
+#input_seq:	fig|67827.42.peg.3705|G7Z92_12295   UPF0304 protein yfbU   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	YfbU domain protein	ACF63247	Yes	96.34
+
+#input_seq:	fig|67827.42.peg.97|G7Z92_00490   Acetyltransferase YpeA   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB62686	Yes	96.45
+
+#input_seq:	fig|67827.42.peg.1685|G7Z92_04360   Protein translocase membrane subunit SecG   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX69431	Yes	95.45
+
+#input_seq:	fig|67827.42.peg.3193|G7Z92_10110   Predicted chaperone lipoprotein YacC, potentially involved in protein secretion   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABE05645	Yes	98.26
+
+#input_seq:	fig|67827.42.peg.3493|G7Z92_11515   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	fimbrial protein	BAH61458	Yes	99.41
+
+#input_seq:	fig|67827.42.peg.795|G7Z92_22210   Nitrite-sensitive transcriptional repressor NsrR   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	transcriptional repressor NsrR	ACF64326	Yes	95.74
+
+#input_seq:	fig|67827.42.peg.2259|G7Z92_26375   Mercuric resistance operon regulatory protein MerR   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	250	CP000355	Cupriavidus metallidurans CH34 plasmid pMOL28, complete sequence.	Betaproteobacteria	MerR from Tn4378, regulatory protein involved in Hg(II) resistance	ABF13203	No	97.22
+
+#input_seq:	fig|67827.42.peg.4693|G7Z92_16810   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66431	Yes	98.12
+
+#input_seq:	fig|67827.42.peg.281|G7Z92_01405   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR04060	Yes	100.0
+
+#input_seq:	fig|67827.42.peg.830|G7Z92_22400   Heat shock protein 10 kDa family chaperone GroES   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	co-chaperonin GroES	ACN48531	Yes	100.0
+
+#input_seq:	fig|67827.42.peg.3460|G7Z92_11355   Small heat shock protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative heat shock protein	BAH61489	Yes	99.35
+
+#input_seq:	fig|67827.42.peg.2046|G7Z92_06135   Nickel responsive regulator NikR   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	nickel responsive regulator	ACN47734	Yes	96.99
+
+#input_seq:	fig|67827.42.peg.2305|G7Z92_26595   molecular chaperone   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	Betaproteobacteria	heat shock protein Hsp20	ACS61928	No	96.71
+
+#input_seq:	fig|67827.42.peg.301|G7Z92_01505   Phage tail completion protein GpR   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Gammaproteobacteria	Tail completion protein R (GpR)	CAR09097	Yes	98.6
+
+#input_seq:	fig|67827.42.peg.304|G7Z92_01515   Phage lysis regulatory protein, LysA   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein; putative membrane protein	CAR17938	Yes	99.2
+
+#input_seq:	fig|67827.42.peg.4691|G7Z92_16800   FIG01048991: hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66433	Yes	99.31
+
+#input_seq:	fig|67827.42.peg.2898|G7Z92_09115   Phage protein Mup16, GemA   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	Gammaproteobacteria	conserved hypothetical protein	BAE74092	No	95.74
+
+#input_seq:	fig|67827.42.peg.4692|G7Z92_16805   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66432	Yes	98.59
+
+#input_seq:	fig|67827.42.peg.3587|G7Z92_11730   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF68341	Yes	100.0
+
+#input_seq:	fig|67827.42.peg.53|G7Z92_00245   PTS system, fructose-like IIB component FryB   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV11570	Yes	97.22
+
+#input_seq:	fig|67827.42.peg.2637|G7Z92_07770   Transcriptional activator RamA   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV13700	Yes	97.35
+
+#input_seq:	fig|67827.42.peg.253|G7Z92_01265   Ribosome-associated inhibitor A   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14991	Yes	99.11
+
+#input_seq:	fig|67827.42.peg.5125|G7Z92_19000   YcfF/hinT protein: a purine nucleoside phosphoramidase   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	histidine triad nucleotide-binding protein 2	ACF64355	Yes	97.48
+
+#input_seq:	fig|67827.42.peg.3485|G7Z92_11475   PTS system, glucitol/sorbitol-specific IIA component (EC 2.7.1.69)   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative glucitol-specific PTS enzyme III	ABR78358	Yes	99.19
+
+#input_seq:	fig|67827.42.peg.740|G7Z92_21945   Uncharacterized protein STM4441   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACX86741	No	95.83
+
+#input_seq:	fig|67827.42.peg.3359|G7Z92_10930   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	tryptophan-specific transport protein	BAH61624	Yes	100.0
+
+#input_seq:	fig|67827.42.peg.2887|G7Z92_09065   Transcriptional regulator, IclR family   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	Gammaproteobacteria	conserved hypothetical protein	BAE74100	No	96.04
+
+#input_seq:	fig|67827.42.peg.5675|G7Z92_21670   probable bacteriophage protein STY1063   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAI31850	Yes	97.0
+
+#input_seq:	fig|67827.42.peg.5297|G7Z92_19820   Integration host factor alpha subunit   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881	No	96.97
+
+#input_seq:	fig|67827.42.peg.2917|G7Z92_26830   Prevent host death protein, Phd antitoxin   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	18937	CP001645	Ralstonia pickettii 12D chromosome 2, complete sequence.	Betaproteobacteria	conserved hypothetical protein	ACS65722	No	100.0
+
+#input_seq:	fig|67827.42.peg.2524|G7Z92_07210   Haemolysin expression modulating protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893	Yes	100.0
+
+#input_seq:	fig|67827.42.peg.329|G7Z92_01630   Phage Cox (control of excision) protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Gammaproteobacteria	putative phage regulatory protein	CAR04101	Yes	100.0
+
+#input_seq:	fig|67827.42.peg.3586|G7Z92_11725   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF68029	Yes	98.72
+
+#input_seq:	fig|67827.42.peg.319|G7Z92_01580   DNA-damage-inducible protein I   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78455	Yes	96.1
+
+#input_seq:	fig|67827.42.peg.325|G7Z92_01610   Phage Orf80 protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted protein	CAS08354	Yes	96.1
+
+#input_seq:	fig|67827.42.peg.4723|G7Z92_16955   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF61893	Yes	97.3
+
+#input_seq:	fig|67827.42.peg.337|G7Z92_01670   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	putative cytoplasmic protein	ACF67890	Yes	97.18
+
+#input_seq:	fig|67827.42.peg.4730|G7Z92_16990   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF61782	Yes	96.67
+
+#input_seq:	fig|67827.42.peg.703|G7Z92_21755   PyrBI operon leader peptide   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	43693	CP001969	Escherichia coli IHE3034, complete genome.	Gammaproteobacteria	pyrBI operon leader peptide	ADE88876	Yes	96.97
+
+#input_seq:	fig|67827.42.peg.670   hypothetical protein   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	20063	CP001138	Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACH51865	Yes	100.0
+
+#input_seq:	fig|67827.42.peg.124|G7Z92_00625   protein YpfM   [Citrobacter werkmanii strain YDC667-1 | 67827.42]
+#matched_seq:	225	U00096	Escherichia coli str. K-12 substr. MG1655, complete genome.	Gammaproteobacteria	hypothetical protein	ABP93450	No	100.0
+

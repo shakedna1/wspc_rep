@@ -1,0 +1,1634 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_073807_264941_input.fsa
+Sequences ::	 1657
+Total bpp ::	 562725
+Longest seq ::	 3105
+Shortest seq ::	 29
+Avg seq lenght ::	 339.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-831.712
+Probability of being human pathogen ::	0.235
+Matches::	538
+Genome Coverage (%) ::	32.47
+Pathogenic Families Matched ::	0
+Non-Pathogenic Families Matched ::	538
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|28025.139.peg.681|GBA51_03355   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Fibronectin-binding protein	ADC85287	No	100.0
+
+#input_seq:	fig|28025.139.peg.1519|GBA51_07495   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Collagen adhesion protein	ADC84842	No	100.0
+
+#input_seq:	fig|28025.139.peg.1193|GBA51_05895   Activator of (R)-2-hydroxyglutaryl-CoA dehydratase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Activator of (R)-2-hydroxyglutaryl-CoA dehydratase	ADC84699	No	100.0
+
+#input_seq:	fig|28025.139.peg.1170|GBA51_05775   ATP-dependent DNA helicase SCO5183   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	DNA helicase, UvrD/REP family	ADC84724	No	100.0
+
+#input_seq:	fig|28025.139.peg.1171|GBA51_05780   ATP-dependent DNA helicase SCO5184   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ATP-dependent DNA helicase	ADG33878	No	100.0
+
+#input_seq:	fig|28025.139.peg.1438|GBA51_07110   Peptidoglycan lipid II flippase MurJ / Pseudokinase domain in MviN   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	MviN	ADC85005	No	100.0
+
+#input_seq:	fig|28025.139.peg.1097|GBA51_05430   Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 1 / Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 2   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Multidrug resistance ABC transporter ATP-binding and permease protein	ADC84794	No	100.0
+
+#input_seq:	fig|28025.139.peg.894|GBA51_04455   FIG007317: Chromosome segregation protein SMC-like   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33041	No	100.0
+
+#input_seq:	fig|28025.139.peg.688|GBA51_03390   beta-galactosidase (EC 3.2.1.23)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	beta-galactosidase	ADG32849	No	100.0
+
+#input_seq:	fig|28025.139.peg.157|GBA51_00705   Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Carbamoylphosphate synthase large subunit	ADG33191	No	100.0
+
+#input_seq:	fig|28025.139.peg.226|GBA51_01040   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85719	No	100.0
+
+#input_seq:	fig|28025.139.peg.1199|GBA51_05930   CRISPR-associated helicase Cas3   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	ATP-dependent helicase	ADC84691	No	100.0
+
+#input_seq:	fig|28025.139.peg.633|GBA51_03110   Protein translocase subunit SecA   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	preprotein translocase subunit SecA	ADG33658	No	100.0
+
+#input_seq:	fig|28025.139.peg.676|GBA51_03330   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32837	No	100.0
+
+#input_seq:	fig|28025.139.peg.797|GBA51_03960   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	glycogen operon protein GlgX	ADG32949	No	100.0
+
+#input_seq:	fig|28025.139.peg.227|GBA51_01045   DNA ligase (NAD(+)) (EC 6.5.1.2)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	LigA	ADG33260	No	100.0
+
+#input_seq:	fig|28025.139.peg.375|GBA51_01850   Excinuclease ABC subunit C   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Excinuclease ABC subunit C	ADC85870	No	100.0
+
+#input_seq:	fig|28025.139.peg.1393|GBA51_06880   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85050	No	100.0
+
+#input_seq:	fig|28025.139.peg.1577|GBA51_07770   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Phosphoglycerol transferase	ADC84898	No	100.0
+
+#input_seq:	fig|28025.139.peg.927|GBA51_04615   Peptidase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Dipeptidylaminopeptidase/acylaminoacyl- peptidase	ADG32677	No	100.0
+
+#input_seq:	fig|28025.139.peg.225|GBA51_01035   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85718	No	100.0
+
+#input_seq:	fig|28025.139.peg.1592|GBA51_07840   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Putative PMT family glycosyltransferase	ADG34065	No	100.0
+
+#input_seq:	fig|28025.139.peg.1591|GBA51_07835   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84910	No	100.0
+
+#input_seq:	fig|28025.139.peg.1439|GBA51_07115   FIG01967133: Putative secreted protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34150	No	100.0
+
+#input_seq:	fig|28025.139.peg.938|GBA51_04675   probable cation-transporting ATPase V   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	cation-transporting ATPase V	ADG32685	No	100.0
+
+#input_seq:	fig|28025.139.peg.747|GBA51_03700   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32902	No	100.0
+
+#input_seq:	fig|28025.139.peg.868|GBA51_04320   Oleate hydratase (EC 4.2.1.53)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Myosin-crossreactive antigen	ADC85468	No	100.0
+
+#input_seq:	fig|28025.139.peg.863|GBA51_04295   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Glutamate/gamma-aminobutyrate antiporter	ADC85464	No	100.0
+
+#input_seq:	fig|28025.139.peg.1448|GBA51_07160   COG0515: Serine/threonine protein kinase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Serine/threonine protein kinase	ADC84996	No	100.0
+
+#input_seq:	fig|28025.139.peg.1046|GBA51_05190   Uncharacterized ABC1 family protein Bbr_0249   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Unusual protein kinase	ADG32781	No	100.0
+
+#input_seq:	fig|28025.139.peg.1576|GBA51_07760   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Phosphoglycerol transferase	ADG34050	No	100.0
+
+#input_seq:	fig|28025.139.peg.1391|GBA51_06870   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32624	No	100.0
+
+#input_seq:	fig|28025.139.peg.761|GBA51_03770   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Acyltransferase family	ADC85361	No	100.0
+
+#input_seq:	fig|28025.139.peg.853|GBA51_04245   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	PspC	ADC85453	No	100.0
+
+#input_seq:	fig|28025.139.peg.1520|GBA51_07500   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84843	No	100.0
+
+#input_seq:	fig|28025.139.peg.1550|GBA51_07635   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical sortase	ADG34027	No	100.0
+
+#input_seq:	fig|28025.139.peg.107|GBA51_00470   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Type I restriction-modification system DNA methylase	ADC85604	No	100.0
+
+#input_seq:	fig|28025.139.peg.572|GBA51_02795   ATP-dependent RNA helicase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	ATP-dependent RNA helicase	ADC86062	No	100.0
+
+#input_seq:	fig|28025.139.peg.1223|GBA51_06040   Ribosome protection-type tetracycline resistance related proteins, group 2   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	translation elongation factor	ADG33828	No	100.0
+
+#input_seq:	fig|28025.139.peg.1531|GBA51_07550   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34010	No	100.0
+
+#input_seq:	fig|28025.139.peg.44|GBA51_00180   protein of unknown function DUF303, acetylesterase putative   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative secreted protein	ADG33083	No	100.0
+
+#input_seq:	fig|28025.139.peg.1015|GBA51_05040   Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 1   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ABC-type multidrug transport system ATPase and permease component	ADG32753	No	100.0
+
+#input_seq:	fig|28025.139.peg.1093|GBA51_05410   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical protein	ADC84798	No	100.0
+
+#input_seq:	fig|28025.139.peg.1286|GBA51_06360   putative prohead protease   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Phage Prohead Protease	ADC84575	No	100.0
+
+#input_seq:	fig|28025.139.peg.389|GBA51_01905   Alkyl hydroperoxide reductase protein F   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	thioredoxin reductase-like protein	ADG33420	No	100.0
+
+#input_seq:	fig|28025.139.peg.283|GBA51_01350   DNA internalization-related competence protein ComEC/Rec2   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative transmembrane ComA-like protein	ADG33318	No	100.0
+
+#input_seq:	fig|28025.139.peg.677|GBA51_03335   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85283	No	100.0
+
+#input_seq:	fig|28025.139.peg.922|GBA51_04590   FtsW-like cell division membrane protein CA_C0505   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	FtsW	ADC85102	No	100.0
+
+#input_seq:	fig|28025.139.peg.1518|GBA51_07490   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Chloride channel protein	ADC84841	No	100.0
+
+#input_seq:	fig|28025.139.peg.758|GBA51_03755   Cell division initiation protein DivIVA   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85358	No	100.0
+
+#input_seq:	fig|28025.139.peg.1012|GBA51_05020   ABC transporter, fused permease protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative ABC transport system integral membrane protein	ADG32750	No	100.0
+
+#input_seq:	fig|28025.139.peg.442|GBA51_02170   L,D-transpeptidase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical exported protein	ADC85937	No	100.0
+
+#input_seq:	fig|28025.139.peg.1335|GBA51_06600   Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3) / Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Thiamin-phosphate pyrophosphorylase	ADC84621	No	100.0
+
+#input_seq:	fig|28025.139.peg.1548|GBA51_07630   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84870	No	100.0
+
+#input_seq:	fig|28025.139.peg.38|GBA51_00150   Xylan 1,4-beta-xylosidase (EC 3.2.1.37)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	alpha-L-arabinofuranosidase	ADG33077	No	100.0
+
+#input_seq:	fig|28025.139.peg.1594|GBA51_07850   putative riboflavin-specific deaminase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84913	No	100.0
+
+#input_seq:	fig|28025.139.peg.1354|GBA51_06700   Uncharacterized protein SCO5199   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33807	No	100.0
+
+#input_seq:	fig|28025.139.peg.213|GBA51_00975   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85706	No	100.0
+
+#input_seq:	fig|28025.139.peg.1350|GBA51_06675   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84636	No	100.0
+
+#input_seq:	fig|28025.139.peg.524|GBA51_02565   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC86017	No	100.0
+
+#input_seq:	fig|28025.139.peg.1198|GBA51_05925   CRISPR-associated protein Csb2   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative CRISPR-associated Csb2 family protein	ADG33851	No	100.0
+
+#input_seq:	fig|28025.139.peg.775|GBA51_03835   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85375	No	100.0
+
+#input_seq:	fig|28025.139.peg.46|GBA51_00190   Glycoside hydrolase, family 43   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	endo-1,4-beta-xylanase	ADC85545	No	100.0
+
+#input_seq:	fig|28025.139.peg.1580|GBA51_07785   Beta-galactosidase (EC 3.2.1.23)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	choline binding protein A	ADC84901	No	100.0
+
+#input_seq:	fig|28025.139.peg.1222|GBA51_06035   Arginine/ornithine antiporter ArcD   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Arginine/ornithine antiporter	ADC84666	No	100.0
+
+#input_seq:	fig|28025.139.peg.984|GBA51_04905   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	quinolone resistance NorA protein	ADC85163	No	100.0
+
+#input_seq:	fig|28025.139.peg.1527|GBA51_07530   ABC transporter, substrate-binding protein (cluster 5, nickel/peptides/opines)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Dipeptide-binding protein	ADC84850	No	100.0
+
+#input_seq:	fig|28025.139.peg.527|GBA51_02580   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Putative transcriptional regulator	ADC86020	No	100.0
+
+#input_seq:	fig|28025.139.peg.864|GBA51_04300   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Carboxypeptidase S1	ADC85465	No	100.0
+
+#input_seq:	fig|28025.139.peg.1445|GBA51_07145   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Rpf protein precursor	ADC84998	No	100.0
+
+#input_seq:	fig|28025.139.peg.892|GBA51_04445   FIG149030: hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33039	No	100.0
+
+#input_seq:	fig|28025.139.peg.1181|GBA51_05830   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33868	No	100.0
+
+#input_seq:	fig|28025.139.peg.208|GBA51_00955   Replication-associated recombination protein RarA   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	ATPase, AAA family	ADC85701	No	100.0
+
+#input_seq:	fig|28025.139.peg.1457|GBA51_07200   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34135	No	100.0
+
+#input_seq:	fig|28025.139.peg.176|GBA51_00800   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33210	No	100.0
+
+#input_seq:	fig|28025.139.peg.941|GBA51_04690   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85121	No	100.0
+
+#input_seq:	fig|28025.139.peg.889|GBA51_04425   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33035	No	100.0
+
+#input_seq:	fig|28025.139.peg.135|GBA51_00605   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33171	No	100.0
+
+#input_seq:	fig|28025.139.peg.1129|GBA51_05590   Membrane protein, related to Actinobacillus protein (1944168)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical protein	ADC84761	No	100.0
+
+#input_seq:	fig|28025.139.peg.574|GBA51_02805   Pyrimidine permease   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Uracil permease	ADC86064	No	100.0
+
+#input_seq:	fig|28025.139.peg.1110|GBA51_05495   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32893	CP001606	Bifidobacterium animalis subsp. lactis DSM 10140, complete genome.	Actinobacteridae	galactosyl transferase CpsD	ACS48308	No	100.0
+
+#input_seq:	fig|28025.139.peg.470|GBA51_02300   Xanthine permease   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Xanthine permease	ADC85963	No	100.0
+
+#input_seq:	fig|28025.139.peg.865|GBA51_04305   Putative transporter   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	amino acid transporter	ADG33014	No	100.0
+
+#input_seq:	fig|28025.139.peg.1642|GBA51_08065   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	glycoside hydrolase family protein	ADG32638	No	100.0
+
+#input_seq:	fig|28025.139.peg.1017|GBA51_05050   Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative secreted polysaccharide deacetylase	ADG32755	No	100.0
+
+#input_seq:	fig|28025.139.peg.1328|GBA51_06565   Cell division initiation protein DivIVA   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84615	No	100.0
+
+#input_seq:	fig|28025.139.peg.292|GBA51_01405   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33327	No	100.0
+
+#input_seq:	fig|28025.139.peg.1138|GBA51_05635   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33909	No	100.0
+
+#input_seq:	fig|28025.139.peg.475|GBA51_02325   Cytoplasmic alpha-amylase (EC 3.2.1.1)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Alpha-amylase	ADC85968	No	100.0
+
+#input_seq:	fig|28025.139.peg.1543|GBA51_07610   Lead, cadmium, zinc and mercury transporting ATPase (EC 3.6.3.3) (EC 3.6.3.5); Copper-translocating P-type ATPase (EC 3.6.3.4)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	PacS	ADC84866	No	100.0
+
+#input_seq:	fig|28025.139.peg.995|GBA51_04950   beta-glucosidase (EC 3.2.1.21) @ beta-D-fucosidase (EC 3.2.1.38)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Beta-glucosidase	ADC85172	No	100.0
+
+#input_seq:	fig|28025.139.peg.1122|GBA51_05555   Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Capsular polysaccharide repeat unit transport protein	ADC84768	No	100.0
+
+#input_seq:	fig|28025.139.peg.705|GBA51_03475   Nicotinate phosphoribosyltransferase (EC 6.3.4.21)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	nicotinate phosphoribosyltransferase	ADG32865	No	100.0
+
+#input_seq:	fig|28025.139.peg.1483|GBA51_07310   Glucan endo-1,6-beta-glucosidase( EC:3.2.1.75 )   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	glucan endo-1,6-beta-glucosidase	ADG33963	No	100.0
+
+#input_seq:	fig|28025.139.peg.9|GBA51_08215   NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Glutamine-dependent NAD(+) synthetase	ADC84966	No	100.0
+
+#input_seq:	fig|28025.139.peg.1001|GBA51_04975   N-acylglucosamine 2-epimerase (EC 5.1.3.8)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	N-acylglucosamine 2-epimerase family protein	ADC85178	No	100.0
+
+#input_seq:	fig|28025.139.peg.548|GBA51_02685   beta-glycosyl hydrolase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	B-hexosaminidase	ADG33575	No	100.0
+
+#input_seq:	fig|28025.139.peg.1113|GBA51_05510   Membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Oligosaccharide translocase (flippase)	ADC84777	No	100.0
+
+#input_seq:	fig|28025.139.peg.423|GBA51_02070   NAD(P) transhydrogenase subunit beta (EC 1.6.1.2)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	NAD/NADP transhydrogenase beta subunit	ADG33454	No	100.0
+
+#input_seq:	fig|28025.139.peg.1180|GBA51_05825   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical protein	ADC84713	No	100.0
+
+#input_seq:	fig|28025.139.peg.45|GBA51_00185   Putative esterase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Para-nitrobenzyl esterase	ADC85544	No	100.0
+
+#input_seq:	fig|28025.139.peg.1316|GBA51_06510   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33771	No	100.0
+
+#input_seq:	fig|28025.139.peg.1225|GBA51_06060   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Type I restriction-modification system methylation subunit	ADC84509	No	100.0
+
+#input_seq:	fig|28025.139.peg.872|GBA51_04340   Two-component system sensor histidine kinase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Signal transduction histidine kinase	ADG33019	No	100.0
+
+#input_seq:	fig|28025.139.peg.1436|GBA51_07100   Chromosome (plasmid) partitioning protein ParB   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	chromosome partitioning protein	ADG34153	No	100.0
+
+#input_seq:	fig|28025.139.peg.1339|GBA51_06620   Sucrose permease, major facilitator superfamily   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Raffinose permease	ADC84625	No	100.0
+
+#input_seq:	fig|28025.139.peg.1293|GBA51_06395   Cell division protein FtsQ   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical protein	ADC84583	No	100.0
+
+#input_seq:	fig|28025.139.peg.1296|GBA51_06410   Peptidoglycan glycosyltransferase FtsW (EC 2.4.1.129)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	FtsW-like protein	ADG33751	No	100.0
+
+#input_seq:	fig|28025.139.peg.243|GBA51_01135   ABC transporter, permease protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	ABC transporter permease protein	ADC85736	No	100.0
+
+#input_seq:	fig|28025.139.peg.123|GBA51_00555   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Putative esterase	ADG33159	No	100.0
+
+#input_seq:	fig|28025.139.peg.1489|GBA51_07345   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33969	No	100.0
+
+#input_seq:	fig|28025.139.peg.1119|GBA51_05540   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33928	No	100.0
+
+#input_seq:	fig|28025.139.peg.12|GBA51_00005   ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	MalE-type ABC sugar transport system periplasmic component	ADG33052	No	100.0
+
+#input_seq:	fig|28025.139.peg.1595|GBA51_07855   ABC-type antimicrobial peptide transport system, permease component   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ABC transporter permease	ADG34068	No	100.0
+
+#input_seq:	fig|28025.139.peg.293|GBA51_01410   Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Isocitrate dehydrogenase [NADP]	ADC85788	No	100.0
+
+#input_seq:	fig|28025.139.peg.1072|GBA51_05305   Inositol-1-phosphate synthase (EC 5.5.1.4)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Myo-inositol-1-phosphate synthase	ADC85243	No	100.0
+
+#input_seq:	fig|28025.139.peg.965|GBA51_04815   Polysaccharide deacetylase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Chitooligosaccharide deacetylase	ADC85144	No	100.0
+
+#input_seq:	fig|28025.139.peg.616|GBA51_03025   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33642	No	100.0
+
+#input_seq:	fig|28025.139.peg.1586|GBA51_07810   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34060	No	100.0
+
+#input_seq:	fig|28025.139.peg.709|GBA51_03495   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	UDP-N-acetylmuramoylhexapeptide alanyltransferase	ADC85316	No	100.0
+
+#input_seq:	fig|28025.139.peg.1197|GBA51_05920   CRISPR-associated protein Csb1   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84693	No	100.0
+
+#input_seq:	fig|28025.139.peg.649|GBA51_03185   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transporter	ADC86140	No	100.0
+
+#input_seq:	fig|28025.139.peg.957|GBA51_04775   Putative oxidoreductase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Vanillate O-demethylase oxidoreductase	ADC85138	No	100.0
+
+#input_seq:	fig|28025.139.peg.1216|GBA51_06005   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84672	No	100.0
+
+#input_seq:	fig|28025.139.peg.982|GBA51_04890   Biotin carboxylase of acetyl-CoA carboxylase (EC 6.3.4.14) / Biotin carboxyl carrier protein of acetyl-CoA carboxylase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	biotin carboxylase/biotin carboxyl carrier protein	ADG32725	No	100.0
+
+#input_seq:	fig|28025.139.peg.610|GBA51_02995   Methionine ABC transporter ATP-binding protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ATP binding protein of ABC transporter	ADG33636	No	100.0
+
+#input_seq:	fig|28025.139.peg.1076|GBA51_05330   DNA polymerase III delta prime subunit (EC 2.7.7.7)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	DNA polymerase III subunit delta	ADG32806	No	100.0
+
+#input_seq:	fig|28025.139.peg.129|GBA51_00585   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	GTPase protein	ADG33165	No	100.0
+
+#input_seq:	fig|28025.139.peg.764|GBA51_03785   Two-component system sensor histidine kinase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Sensor-like histidine kinase senX3	ADC85364	No	100.0
+
+#input_seq:	fig|28025.139.peg.944|GBA51_04710   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85124	No	100.0
+
+#input_seq:	fig|28025.139.peg.1167|GBA51_05760   FIG022979: MoxR-like ATPases   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	methanol dehydrogenase regulatory protein	ADG33882	No	100.0
+
+#input_seq:	fig|28025.139.peg.1343|GBA51_06640   Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Inosine-uridine nucleoside N-ribohydrolase	ADG33796	No	100.0
+
+#input_seq:	fig|28025.139.peg.139|GBA51_00625   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Putative virion core protein	ADG33175	No	100.0
+
+#input_seq:	fig|28025.139.peg.452|GBA51_02210   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85946	No	100.0
+
+#input_seq:	fig|28025.139.peg.1511|GBA51_07460   Phage integrase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33991	No	100.0
+
+#input_seq:	fig|28025.139.peg.1073|GBA51_05315   Phosphoesterase, PA-phosphatase related   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	pre-pilin peptidase	ADG32803	No	100.0
+
+#input_seq:	fig|28025.139.peg.895|GBA51_04460   FIG005429: hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33042	No	100.0
+
+#input_seq:	fig|28025.139.peg.950|GBA51_04740   Oxidoreductase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	oxidoreductase	ADG32697	No	100.0
+
+#input_seq:	fig|28025.139.peg.143|GBA51_00645   Putative glycosyltransferase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Glycosyltransferase	ADC85639	No	100.0
+
+#input_seq:	fig|28025.139.peg.1056|GBA51_05230   TadA-like protein BAD_0129   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Flp pilus assembly protein ATPase component	ADG32788	No	100.0
+
+#input_seq:	fig|28025.139.peg.755|GBA51_03740   FIG00003370: Multicopper polyphenol oxidase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32909	No	100.0
+
+#input_seq:	fig|28025.139.peg.451|GBA51_02205   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33481	No	100.0
+
+#input_seq:	fig|28025.139.peg.632|GBA51_03105   Anthranilate phosphoribosyltransferase (EC 2.4.2.18)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Anthranilate phosphoribosyltransferase	ADC86125	No	100.0
+
+#input_seq:	fig|28025.139.peg.1416|GBA51_07000   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Mannan endo-1,4-beta-mannosidase	ADC85028	No	100.0
+
+#input_seq:	fig|28025.139.peg.689|GBA51_03395   Conserved membrane spanning protein with endonuclease/exonuclease/phosphatase domain   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical membrane spanning protein	ADC85296	No	100.0
+
+#input_seq:	fig|28025.139.peg.624|GBA51_03065   Phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Mannosyltransferase	ADC86117	No	100.0
+
+#input_seq:	fig|28025.139.peg.1427|GBA51_07055   DNA polymerase III beta subunit (EC 2.7.7.7)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	DNA polymerase III, beta chain	ADC85017	No	100.0
+
+#input_seq:	fig|28025.139.peg.667|GBA51_03290   D-alanine--D-alanine ligase (EC 6.3.2.4)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	D-alanine--D-alanine ligase	ADC85273	No	100.0
+
+#input_seq:	fig|28025.139.peg.1370|GBA51_06770   Aspartate aminotransferase (EC 2.6.1.1)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	transaminase	ADG33821	No	100.0
+
+#input_seq:	fig|28025.139.peg.652|GBA51_03200   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Signal transduction histidine kinase	ADG33676	No	100.0
+
+#input_seq:	fig|28025.139.peg.669|GBA51_03295   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85274	No	100.0
+
+#input_seq:	fig|28025.139.peg.54|GBA51_00225   Decaprenyl-phosphate N-acetylglucosaminephosphotransferase (EC 2.7.8.35)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	undecaprenyl-phosphatealpha-N- acetylglucosaminyltransferase	ADG33092	No	100.0
+
+#input_seq:	fig|28025.139.peg.235|GBA51_01085   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Sensory Transduction Protein Kinase	ADC85728	No	100.0
+
+#input_seq:	fig|28025.139.peg.1513|GBA51_07470   Mannan endo-1,4-beta-mannosidase (EC 3.2.1.78)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Mannan endo-1,4-beta-mannosidase	ADC84837	No	100.0
+
+#input_seq:	fig|28025.139.peg.916|GBA51_04565   Sortase (surface protein transpeptidase)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32668	No	100.0
+
+#input_seq:	fig|28025.139.peg.1266|GBA51_06265   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33724	No	100.0
+
+#input_seq:	fig|28025.139.peg.591|GBA51_02890   SMF protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33617	No	100.0
+
+#input_seq:	fig|28025.139.peg.1503|GBA51_07420   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84827	No	100.0
+
+#input_seq:	fig|28025.139.peg.905|GBA51_04510   Tryptophanyl-tRNA synthetase (EC 6.1.1.2)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Tryptophanyl-tRNA synthetase	ADC85086	No	100.0
+
+#input_seq:	fig|28025.139.peg.1500|GBA51_07400   Homoserine O-succinyltransferase (EC 2.3.1.46)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Homoserine O-succinyltransferase	ADC84824	No	100.0
+
+#input_seq:	fig|28025.139.peg.963|GBA51_04805   Alcohol dehydrogenase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Alcohol dehydrogenase [NADP+]	ADC85142	No	100.0
+
+#input_seq:	fig|28025.139.peg.1610|GBA51_07920   16S rRNA (cytidine(1402)-2'-O)-methyltransferase (EC 2.1.1.198)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Tetrapyrrole (Corrin/Porphyrin) methylase family protein	ADC84928	No	100.0
+
+#input_seq:	fig|28025.139.peg.1098|GBA51_05435   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33949	No	100.0
+
+#input_seq:	fig|28025.139.peg.193|GBA51_00885   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33227	No	100.0
+
+#input_seq:	fig|28025.139.peg.1245|GBA51_06160   Prephenate dehydratase (EC 4.2.1.51)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Prephenate dehydratase	ADC84530	No	100.0
+
+#input_seq:	fig|28025.139.peg.1421|GBA51_07025   Uncharacterized membrane spanning protein, contains VanZ-like domain   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	VanZ family protein	ADC85023	No	100.0
+
+#input_seq:	fig|28025.139.peg.1509|GBA51_07450   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33989	No	100.0
+
+#input_seq:	fig|28025.139.peg.1510|GBA51_07455   modification methylase EcoRI (Adenine-specificmethyltransferase EcoRI) (M.EcoRI)( EC:2.1.1.72 )   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Modification methylase EcoRI	ADC84834	No	100.0
+
+#input_seq:	fig|28025.139.peg.76|GBA51_00330   ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	ABC transporter amino acid-binding protein	ADC85575	No	100.0
+
+#input_seq:	fig|28025.139.peg.798|GBA51_03965   NagC protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Rok family repressor	ADG32950	No	100.0
+
+#input_seq:	fig|28025.139.peg.189|GBA51_00865   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85683	No	100.0
+
+#input_seq:	fig|28025.139.peg.211|GBA51_00970   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transposase	ADC85704	No	100.0
+
+#input_seq:	fig|28025.139.peg.1573|GBA51_07750   Putative glycosyltransferase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	glycosyl transferase family protein	ADG34047	No	100.0
+
+#input_seq:	fig|28025.139.peg.1440|GBA51_07120   Diadenosine hexaphosphate (Ap6A) hydrolase; Bis(5'-nucleosyl)-tetraphosphatase (Ap4A) (Asymmetrical) (EC 3.6.1.17)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Phosphohydrolase (MutT/nudix family protein)	ADC85003	No	100.0
+
+#input_seq:	fig|28025.139.peg.1397|GBA51_06900   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32618	No	100.0
+
+#input_seq:	fig|28025.139.peg.284|GBA51_01355   DNA polymerase III delta subunit (EC 2.7.7.7)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	DNA polymerase III, delta subunit	ADC85777	No	100.0
+
+#input_seq:	fig|28025.139.peg.611|GBA51_03000   Methionine ABC transporter substrate-binding protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	ABC transporter substrate-binding protein	ADC86103	No	100.0
+
+#input_seq:	fig|28025.139.peg.571|GBA51_02790   Short-chain dehydrogenase/reductase SDR?   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Short chain dehydrogenase	ADC86060	No	100.0
+
+#input_seq:	fig|28025.139.peg.1158|GBA51_05720   A/G-specific adenine glycosylase (EC 3.2.2.-)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	A/G-specific adenine DNA glycosylase	ADC84734	No	100.0
+
+#input_seq:	fig|28025.139.peg.1596|GBA51_07860   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ABC transporter ATP-binding protein	ADG34069	No	100.0
+
+#input_seq:	fig|28025.139.peg.859|GBA51_04280   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33008	No	100.0
+
+#input_seq:	fig|28025.139.peg.41|GBA51_00165   ABC transporter, permease protein 1 (cluster 1, maltose/g3p/polyamine/iron)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative binding protein-dependent transporter	ADG33080	No	100.0
+
+#input_seq:	fig|28025.139.peg.455|GBA51_02225   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical cytosolic protein	ADC85949	No	100.0
+
+#input_seq:	fig|28025.139.peg.875|GBA51_04355   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Immunogenic secreted protein	ADC85475	No	100.0
+
+#input_seq:	fig|28025.139.peg.678|GBA51_03340   probable PfkB family carbohydrate (sugar) kinase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Ribokinase family sugar kinase	ADG32839	No	100.0
+
+#input_seq:	fig|28025.139.peg.1263|GBA51_06250   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33721	No	100.0
+
+#input_seq:	fig|28025.139.peg.1474|GBA51_07275   Transcriptional regulator, LacI family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	LacI-type transcriptional regulator	ADG34120	No	100.0
+
+#input_seq:	fig|28025.139.peg.481|GBA51_02355   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transcriptional regulator	ADC85974	No	100.0
+
+#input_seq:	fig|28025.139.peg.1200|GBA51_05935   CRISPR-associated RAMP protein, Csb3 family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative CRISPR-associated Csb3 family protein	ADG33849	No	100.0
+
+#input_seq:	fig|28025.139.peg.866|GBA51_04310   1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	1,4-dihydroxy-2-naphthoateoctaprenyl transferase	ADG33015	No	100.0
+
+#input_seq:	fig|28025.139.peg.1047|GBA51_05195   Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	phosphodiesterase	ADG32782	No	100.0
+
+#input_seq:	fig|28025.139.peg.1654|GBA51_08120   Transcriptional regulator, LacI family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	RbsR-type transcription regulator/ ribose operon repressor	ADG32650	No	100.0
+
+#input_seq:	fig|28025.139.peg.1085|GBA51_05370   narrowly conserved hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical protein	ADC85256	No	100.0
+
+#input_seq:	fig|28025.139.peg.1149|GBA51_05680   Undecaprenyl-phosphate mannosyltransferase (EC 2.4.1.54)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	dolichyl-phosphate beta-D-mannosyltransferase	ADG33899	No	100.0
+
+#input_seq:	fig|28025.139.peg.1120|GBA51_05545   Glycosyltransferase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Glycosyltransferase involved in cell wall biogenesis	ADC84770	No	100.0
+
+#input_seq:	fig|28025.139.peg.392|GBA51_01920   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical protein	ADC85885	No	100.0
+
+#input_seq:	fig|28025.139.peg.1112|GBA51_05505   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	UDP-galactopyranose mutase	ADC84778	No	100.0
+
+#input_seq:	fig|28025.139.peg.194|GBA51_00890   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33228	No	100.0
+
+#input_seq:	fig|28025.139.peg.1449|GBA51_07165   Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Kef-type K+ transport systems HypotheticalNAD-binding component	ADG34141	No	100.0
+
+#input_seq:	fig|28025.139.peg.16|GBA51_00025   Transcriptional regulator, LacI/PurR family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transcriptional regulator, LacI family	ADC85514	No	100.0
+
+#input_seq:	fig|28025.139.peg.1055|GBA51_05225   TadZ-like protein BAD_0128   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32787	No	100.0
+
+#input_seq:	fig|28025.139.peg.512|GBA51_02510   Zinc ABC transporter, substrate-binding protein ZnuA   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ABC transporter solute-binding protein	ADG33541	No	100.0
+
+#input_seq:	fig|28025.139.peg.690|GBA51_03400   Cobalt-zinc-cadmium resistance protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Putative Co/Zn/Cd cation transporter	ADG32851	No	100.0
+
+#input_seq:	fig|28025.139.peg.349|GBA51_01695   Lauroyl/myristoyl acyltransferase involved in lipid A biosynthesis (Lauroyl/myristoyl acyltransferase)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Alpha-mannosyl-phosphatidylinositol acyltransferase	ADC85845	No	100.0
+
+#input_seq:	fig|28025.139.peg.887|GBA51_04415   5'-nucleotidase (EC 3.1.3.5)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative 5-nucleotidase	ADG33033	No	100.0
+
+#input_seq:	fig|28025.139.peg.541|GBA51_02650   Thiamin ABC transporter, transmembrane component   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Alkanesulfonates transport system permease protein	ADC86033	No	100.0
+
+#input_seq:	fig|28025.139.peg.1469|GBA51_07255   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical protein	ADC84975	No	100.0
+
+#input_seq:	fig|28025.139.peg.445|GBA51_02185   Pullulanase (EC 3.2.1.41)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Pullulanase	ADC85940	No	100.0
+
+#input_seq:	fig|28025.139.peg.800|GBA51_03975   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32952	No	100.0
+
+#input_seq:	fig|28025.139.peg.584|GBA51_02855   ABC transporter, ATP-binding protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	ABC transporter ATP-binding protein	ADC86074	No	100.0
+
+#input_seq:	fig|28025.139.peg.742|GBA51_03680   L-lactate dehydrogenase (EC 1.1.1.27)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	L-lactate dehydrogenase	ADG32898	No	100.0
+
+#input_seq:	fig|28025.139.peg.206|GBA51_00945   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33239	No	100.0
+
+#input_seq:	fig|28025.139.peg.970|GBA51_04830   Fluoride ion transporter CrcB   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85147	No	100.0
+
+#input_seq:	fig|28025.139.peg.379|GBA51_01860   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33411	No	100.0
+
+#input_seq:	fig|28025.139.peg.1123|GBA51_05560   Alpha-L-Rha alpha-1,3-L-rhamnosyltransferase (EC 2.4.1.-)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	glycosyltransferase-like protein	ADG33924	No	100.0
+
+#input_seq:	fig|28025.139.peg.1384|GBA51_06840   Transcriptional regulator, LysR family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transcriptional regulator, LysR family	ADC85057	No	100.0
+
+#input_seq:	fig|28025.139.peg.1353|GBA51_06695   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33806	No	100.0
+
+#input_seq:	fig|28025.139.peg.931|GBA51_04635   23S rRNA (guanine(748)-N(1))-methyltransferase (EC 2.1.1.188)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	methyltransferase	ADG32681	No	100.0
+
+#input_seq:	fig|28025.139.peg.1100|GBA51_05445   dTDP-rhamnosyl transferase RfbF (EC 2.-.-.-)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative glycosyltransferase	ADG33947	No	100.0
+
+#input_seq:	fig|28025.139.peg.884|GBA51_04400   tRNA (guanine(46)-N(7))-methyltransferase (EC 2.1.1.33)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	tRNA (m(7)G46) methyltransferase	ADC85484	No	100.0
+
+#input_seq:	fig|28025.139.peg.473|GBA51_02315   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	bifunctional beta-cystathionase/maltose regulonrepressor	ADG33503	No	100.0
+
+#input_seq:	fig|28025.139.peg.314|GBA51_01510   Tryptophan synthase alpha chain (EC 4.2.1.20)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Tryptophan synthase alpha chain	ADC85810	No	100.0
+
+#input_seq:	fig|28025.139.peg.170|GBA51_00770   Inositol-1-monophosphatase (EC 3.1.3.25)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Inositol monophosphatase family protein	ADC85663	No	100.0
+
+#input_seq:	fig|28025.139.peg.1458|GBA51_07205   possible phospholipase/carboxylesterase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	COBF protein	ADC84986	No	100.0
+
+#input_seq:	fig|28025.139.peg.1087|GBA51_05380   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32815	No	100.0
+
+#input_seq:	fig|28025.139.peg.867|GBA51_04315   Phosphoglycerate mutase (EC 5.4.2.11)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Phosphoglycerate mutase	ADC85467	No	100.0
+
+#input_seq:	fig|28025.139.peg.1115|GBA51_05520   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	polysaccharide biosynthesis protein	ADG33932	No	100.0
+
+#input_seq:	fig|28025.139.peg.276|GBA51_01305   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33311	No	100.0
+
+#input_seq:	fig|28025.139.peg.1638|GBA51_08045   ABC transporter, permease protein 1 (cluster 1, maltose/g3p/polyamine/iron)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Sugar transport system permease protein	ADC84954	No	100.0
+
+#input_seq:	fig|28025.139.peg.771|GBA51_03820   Zinc ABC transporter, substrate-binding protein ZnuA   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ABC-type metal ion transport system periplasmic component	ADG32925	No	100.0
+
+#input_seq:	fig|28025.139.peg.95|GBA51_00420   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33131	No	100.0
+
+#input_seq:	fig|28025.139.peg.1507|GBA51_07440   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33987	No	100.0
+
+#input_seq:	fig|28025.139.peg.1358|GBA51_06720   FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	PHP domain containing protein (TRPH)	ADC84645	No	100.0
+
+#input_seq:	fig|28025.139.peg.1405|GBA51_06940   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32610	No	100.0
+
+#input_seq:	fig|28025.139.peg.514|GBA51_02515   Zinc ABC transporter, ATP-binding protein ZnuC   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ABC-type Mn2+/Zn2+ transport systems ATPase component	ADG33542	No	100.0
+
+#input_seq:	fig|28025.139.peg.832|GBA51_04140   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32984	No	100.0
+
+#input_seq:	fig|28025.139.peg.33|GBA51_00125   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33073	No	100.0
+
+#input_seq:	fig|28025.139.peg.26|GBA51_00090   Dihydroneopterin aldolase (EC 4.1.2.25) / 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical protein	ADC85525	No	100.0
+
+#input_seq:	fig|28025.139.peg.1118|GBA51_05535   Glycosyl transferase, group 2 family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	glycosyltransferase	ADG33929	No	100.0
+
+#input_seq:	fig|28025.139.peg.1552|GBA51_07645   Pyridoxal phosphate-containing protein YggS   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	proline synthetase-associated protein	ADC84874	No	100.0
+
+#input_seq:	fig|28025.139.peg.1121|GBA51_05550   Putative glycosyltransferase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	glycosyl transferase family protein	ADG33926	No	100.0
+
+#input_seq:	fig|28025.139.peg.1032|GBA51_05115   Predicted esterase of the alpha-beta hydrolase superfamily   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32767	No	100.0
+
+#input_seq:	fig|28025.139.peg.224|GBA51_01030   ABC transporter, ATP-binding protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transporter	ADC85717	No	100.0
+
+#input_seq:	fig|28025.139.peg.479|GBA51_02345   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33509	No	100.0
+
+#input_seq:	fig|28025.139.peg.1255|GBA51_06210   Thiamin pyrophosphokinase (EC 2.7.6.2)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Predicted thiamin pyrophosphokinase	ADC84542	No	100.0
+
+#input_seq:	fig|28025.139.peg.1420|GBA51_07020   FIG01964566: Predicted membrane protein, hemolysin III homolog   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Conserved membrane protein (hemolysin III-like protein)	ADC85024	No	100.0
+
+#input_seq:	fig|28025.139.peg.715|GBA51_03540   Ribonuclease HII (EC 3.1.26.4)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Ribonuclease HII	ADC85322	No	100.0
+
+#input_seq:	fig|28025.139.peg.1150|GBA51_05685   Transcriptional regulator, DeoR family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transcriptional regulator, DeoR family	ADC84741	No	100.0
+
+#input_seq:	fig|28025.139.peg.674|GBA51_03320   Uncharacterized DUF1113 membrane protein family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32835	No	100.0
+
+#input_seq:	fig|28025.139.peg.1111|GBA51_05500   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	glycosyl transferase, group 2 family protein	ADG33936	No	100.0
+
+#input_seq:	fig|28025.139.peg.384|GBA51_01885   4-carboxymuconolactone decarboxylase (EC 4.1.1.44)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	4-carboxymuconolactone decarboxylase	ADC85877	No	100.0
+
+#input_seq:	fig|28025.139.peg.1362|GBA51_06740   Predicted esterase of the alpha-beta hydrolase superfamily   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33815	No	100.0
+
+#input_seq:	fig|28025.139.peg.474|GBA51_02320   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33504	No	100.0
+
+#input_seq:	fig|28025.139.peg.238|GBA51_01105   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33271	No	100.0
+
+#input_seq:	fig|28025.139.peg.1091|GBA51_05400   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33956	No	100.0
+
+#input_seq:	fig|28025.139.peg.34|GBA51_00135   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33074	No	100.0
+
+#input_seq:	fig|28025.139.peg.1154|GBA51_05700   Sortase A, LPXTG specific   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	sortase family protein	ADG33894	No	100.0
+
+#input_seq:	fig|28025.139.peg.1523|GBA51_07515   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34002	No	100.0
+
+#input_seq:	fig|28025.139.peg.1394|GBA51_06885   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32621	No	100.0
+
+#input_seq:	fig|28025.139.peg.1411|GBA51_06965   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Putative DNA binding protein	ADC85033	No	100.0
+
+#input_seq:	fig|28025.139.peg.410|GBA51_02005   ABC transporter, ATP-binding protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ABC transporter ATP-binding protein	ADG33441	No	100.0
+
+#input_seq:	fig|28025.139.peg.1099|GBA51_05440   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	glycosyl transferase family protein	ADG33948	No	100.0
+
+#input_seq:	fig|28025.139.peg.201|GBA51_00920   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	cinnamoyl ester hydrolase	ADC85694	No	100.0
+
+#input_seq:	fig|28025.139.peg.976|GBA51_04860   Branched-chain amino acid ABC transporter, ATP-binding protein LivF (TC 3.A.1.4.1)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	LivF	ADC85153	No	100.0
+
+#input_seq:	fig|28025.139.peg.793|GBA51_03940   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	AbrB family trancriptional regulator	ADG32945	No	100.0
+
+#input_seq:	fig|28025.139.peg.654|GBA51_03210   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33678	No	100.0
+
+#input_seq:	fig|28025.139.peg.698|GBA51_03440   Ribonuclease III (EC 3.1.26.3)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Ribonuclease III	ADC85305	No	100.0
+
+#input_seq:	fig|28025.139.peg.893|GBA51_04450   FIG039767: hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33040	No	100.0
+
+#input_seq:	fig|28025.139.peg.585|GBA51_02860   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	cobalt transport protein	ADG33610	No	100.0
+
+#input_seq:	fig|28025.139.peg.357|GBA51_01760   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33391	No	100.0
+
+#input_seq:	fig|28025.139.peg.1267|GBA51_06270   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84556	No	100.0
+
+#input_seq:	fig|28025.139.peg.111|GBA51_00490   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33147	No	100.0
+
+#input_seq:	fig|28025.139.peg.90|GBA51_00395   ABC transporter, ATP-binding protein (cluster 5, nickel/peptides/opines)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	peptide ABC transporter ATP-binding protein	ADG33126	No	100.0
+
+#input_seq:	fig|28025.139.peg.1539|GBA51_07590   ABC transporter, permease protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34018	No	100.0
+
+#input_seq:	fig|28025.139.peg.1145|GBA51_05660   cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transcription regulator, crp family	ADC84746	No	100.0
+
+#input_seq:	fig|28025.139.peg.397|GBA51_01945   Orotate phosphoribosyltransferase (EC 2.4.2.10)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Orotate phosphoribosyltransferase	ADC85892	No	100.0
+
+#input_seq:	fig|28025.139.peg.1057|GBA51_05235   TadB-like protein BAD_0130   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85230	No	100.0
+
+#input_seq:	fig|28025.139.peg.731|GBA51_03635   Regulator of polyketide synthase expression   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32890	No	100.0
+
+#input_seq:	fig|28025.139.peg.248|GBA51_01160   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33283	No	100.0
+
+#input_seq:	fig|28025.139.peg.1184|GBA51_05845   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84709	No	100.0
+
+#input_seq:	fig|28025.139.peg.465|GBA51_02275   Phosphoglycerate mutase family protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Phosphoglycerate mutase family protein	ADC85959	No	100.0
+
+#input_seq:	fig|28025.139.peg.136|GBA51_00610   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85632	No	100.0
+
+#input_seq:	fig|28025.139.peg.1540|GBA51_07595   ABC transporter, ATP-binding protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative ABC transporter ATP-binding protein	ADG34019	No	100.0
+
+#input_seq:	fig|28025.139.peg.1077|GBA51_05335   Phospholipid-binding protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Putative phosphatidylethanolamine-binding protein	ADC85248	No	100.0
+
+#input_seq:	fig|28025.139.peg.282|GBA51_01345   Late competence protein ComEA, DNA receptor   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative DNA-binding protein	ADG33317	No	100.0
+
+#input_seq:	fig|28025.139.peg.733|GBA51_03645   Substrate-specific component BioY of biotin ECF transporter   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	BioY	ADC85339	No	100.0
+
+#input_seq:	fig|28025.139.peg.1211|GBA51_05985   Protein tyrosine phosphatase (EC 3.1.3.48)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative serine/tyrosine protein phosphatase	ADG33839	No	100.0
+
+#input_seq:	fig|28025.139.peg.1033|GBA51_05120   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32768	No	100.0
+
+#input_seq:	fig|28025.139.peg.1117|GBA51_05530   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33930	No	100.0
+
+#input_seq:	fig|28025.139.peg.1359|GBA51_06725   Integral membrane protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transporter	ADC84646	No	100.0
+
+#input_seq:	fig|28025.139.peg.483|GBA51_02365   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85976	No	100.0
+
+#input_seq:	fig|28025.139.peg.1506|GBA51_07435   plasmid transfer protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	cell division FtsK/SpoIIIE	ADG33986	No	100.0
+
+#input_seq:	fig|28025.139.peg.1368|GBA51_06765   ABC transporter, permease protein (cluster 3, basic aa/glutamine/opines)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transporter	ADC84654	No	100.0
+
+#input_seq:	fig|28025.139.peg.1319|GBA51_06525   Hypothetical protein BAD_1126   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84607	No	100.0
+
+#input_seq:	fig|28025.139.peg.996|GBA51_04955   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Beta-mannosidase	ADC85173	No	100.0
+
+#input_seq:	fig|28025.139.peg.1189|GBA51_05875   Ribonucleotide reductase of class III (anaerobic), activating protein (EC 1.97.1.4)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	anaerobic ribonucleoside-triphosphate reductase activating protein	ADG33860	No	100.0
+
+#input_seq:	fig|28025.139.peg.960|GBA51_04790   Transcriptional regulator, MerR family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	transcriptional regulator	ADG32705	No	100.0
+
+#input_seq:	fig|28025.139.peg.1050|GBA51_05205   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85225	No	100.0
+
+#input_seq:	fig|28025.139.peg.1028|GBA51_05100   Transmembrane component BL0694 of energizing module of predicted ECF transporter   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ABC-type cobalt transport system permease component	ADG32764	No	100.0
+
+#input_seq:	fig|28025.139.peg.217|GBA51_00995   Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety, TenA subgroup with Cys in active site   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	transcriptional activator TenA	ADG33250	No	100.0
+
+#input_seq:	fig|28025.139.peg.780|GBA51_03860   5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	5-formyltetrahydrofolate cyclo-ligase	ADG32933	No	100.0
+
+#input_seq:	fig|28025.139.peg.856|GBA51_04260   O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) @ O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	O-acetylhomoserine sulfhydrylase	ADC85456	No	100.0
+
+#input_seq:	fig|28025.139.peg.84|GBA51_00365   Pseudouridine synthase (EC 4.2.1.70), PA2043 type   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	23S RNA-specific pseudouridylate synthase	ADG33120	No	100.0
+
+#input_seq:	fig|28025.139.peg.981|GBA51_04885   Branched-chain amino acid ABC transporter, substrate-binding protein LivJ (TC 3.A.1.4.1)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein	ADC85160	No	100.0
+
+#input_seq:	fig|28025.139.peg.61|GBA51_00260   Single-stranded DNA-binding protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33099	No	100.0
+
+#input_seq:	fig|28025.139.peg.1172|GBA51_05785   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84721	No	100.0
+
+#input_seq:	fig|28025.139.peg.1034|GBA51_05125   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85208	No	100.0
+
+#input_seq:	fig|28025.139.peg.1403|GBA51_06930   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32612	No	100.0
+
+#input_seq:	fig|28025.139.peg.1602|GBA51_07890   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34075	No	100.0
+
+#input_seq:	fig|28025.139.peg.567|GBA51_02770   Alpha-aspartyl dipeptidase Peptidase E (EC 3.4.13.21)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33592	No	100.0
+
+#input_seq:	fig|28025.139.peg.1164|GBA51_05745   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84729	No	100.0
+
+#input_seq:	fig|28025.139.peg.1652|GBA51_08110   ABC transporter, ATP-binding protein (cluster 2, ribose/xylose/arabinose/galactose)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ATP binding protein of ABC transporter for pentoses	ADG32647	No	100.0
+
+#input_seq:	fig|28025.139.peg.627|GBA51_03080   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33652	No	100.0
+
+#input_seq:	fig|28025.139.peg.166|GBA51_00750   Phosphoserine phosphatase (EC 3.1.3.3)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	phosphoserine phosphatase	ADG33200	No	100.0
+
+#input_seq:	fig|28025.139.peg.1254|GBA51_06205   Translation initiation factor 3   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Bacterial Protein Translation Initiation Factor 3 (IF-3)	ADC84540	No	100.0
+
+#input_seq:	fig|28025.139.peg.910|GBA51_04535   FIG056164: rhomboid family serine protease   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	rhomboid family membrane protein	ADG32664	No	100.0
+
+#input_seq:	fig|28025.139.peg.1585|GBA51_07805   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34059	No	100.0
+
+#input_seq:	fig|28025.139.peg.1485|GBA51_07320   ABC transporter, permease protein 2 (cluster 1, maltose/g3p/polyamine/iron)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative sugar transport integral membrane protein	ADG33966	No	100.0
+
+#input_seq:	fig|28025.139.peg.1019|GBA51_05055   putative membrane-associated phospholipid phosphatase, PAP2 superfamily   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	phosphoesterase PA-phosphatase related protein	ADG32756	No	100.0
+
+#input_seq:	fig|28025.139.peg.450|GBA51_02200   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33480	No	100.0
+
+#input_seq:	fig|28025.139.peg.1190|GBA51_05880   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33859	No	100.0
+
+#input_seq:	fig|28025.139.peg.1619|GBA51_07965   HAD-superfamily hydrolase, subfamily IA, variant 3   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34089	No	100.0
+
+#input_seq:	fig|28025.139.peg.81|GBA51_00355   two-component system regulator   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	response regulator of two-component system	ADG33118	No	100.0
+
+#input_seq:	fig|28025.139.peg.364|GBA51_01795   Pentapeptide repeat family protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical cytosolic protein	ADC85859	No	100.0
+
+#input_seq:	fig|28025.139.peg.1608|GBA51_07910   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34080	No	100.0
+
+#input_seq:	fig|28025.139.peg.1235|GBA51_06110   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84520	No	100.0
+
+#input_seq:	fig|28025.139.peg.1318|GBA51_06520   Imidazole glycerol phosphate synthase amidotransferase subunit HisH   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Imidazole glycerol phosphate synthase, glutamine amidotransferase subunit	ADC84606	No	100.0
+
+#input_seq:	fig|28025.139.peg.151|GBA51_00680   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33186	No	100.0
+
+#input_seq:	fig|28025.139.peg.434|GBA51_02130   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transposase	ADC85929	No	100.0
+
+#input_seq:	fig|28025.139.peg.130|GBA51_00590   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative secreted protein	ADG33166	No	100.0
+
+#input_seq:	fig|28025.139.peg.270|GBA51_01270   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85763	No	100.0
+
+#input_seq:	fig|28025.139.peg.1375|GBA51_06800   Histone acetyltransferase HPA2 and related acetyltransferases   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Arylalkylamine N-acetyltransferase	ADC84661	No	100.0
+
+#input_seq:	fig|28025.139.peg.1617|GBA51_07960   Transcriptional regulator, AcrR family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transcriptional regulator, TetR family	ADC84935	No	100.0
+
+#input_seq:	fig|28025.139.peg.1160|GBA51_05725   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33889	No	100.0
+
+#input_seq:	fig|28025.139.peg.945|GBA51_04715   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical protein	ADC85125	No	100.0
+
+#input_seq:	fig|28025.139.peg.1371|GBA51_06780   Methionine ABC transporter permease protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ABC-type metal ion transport system, permease component	ADG33822	No	100.0
+
+#input_seq:	fig|28025.139.peg.305|GBA51_01470   Efflux ABC transporter, ATP-binding protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	ABC transporter ATP-binding protein	ADC85801	No	100.0
+
+#input_seq:	fig|28025.139.peg.1221|GBA51_06030   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84667	No	100.0
+
+#input_seq:	fig|28025.139.peg.958|GBA51_04780   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32706	No	100.0
+
+#input_seq:	fig|28025.139.peg.1068|GBA51_05285   FIG00672068: hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85240	No	100.0
+
+#input_seq:	fig|28025.139.peg.32|GBA51_00120   Substrate-specific component YkoE of thiamin-regulated ECF transporter for HydroxyMethylPyrimidine   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hydroxymethylpyrimidine transport system permease protein	ADC85531	No	100.0
+
+#input_seq:	fig|28025.139.peg.835|GBA51_04155   Ribosome-binding factor A   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ribosome-binding factor A	ADG32987	No	100.0
+
+#input_seq:	fig|28025.139.peg.132|GBA51_00600   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85629	No	100.0
+
+#input_seq:	fig|28025.139.peg.1382|GBA51_06835   Oxidoreductase, aldo/keto reductase family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	aldo/keto reductase	ADG32634	No	100.0
+
+#input_seq:	fig|28025.139.peg.546|GBA51_02675   Acetyltransferase, GNAT family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	N-acetyl transferase	ADG33573	No	100.0
+
+#input_seq:	fig|28025.139.peg.854|GBA51_04250   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33003	No	100.0
+
+#input_seq:	fig|28025.139.peg.901|GBA51_04490   possible alpha beta hydrolase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hydrolase (HAD superfamily)	ADC85506	No	100.0
+
+#input_seq:	fig|28025.139.peg.178|GBA51_00810   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85672	No	100.0
+
+#input_seq:	fig|28025.139.peg.27|GBA51_00095   FIG027937: secreted protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85526	No	100.0
+
+#input_seq:	fig|28025.139.peg.291|GBA51_01400   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Peptidoglycan-specific endopeptidase, M23 family	ADC85786	No	100.0
+
+#input_seq:	fig|28025.139.peg.275|GBA51_01300   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33310	No	100.0
+
+#input_seq:	fig|28025.139.peg.1163|GBA51_05740   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33886	No	100.0
+
+#input_seq:	fig|28025.139.peg.641|GBA51_03145   Nicotinamide-nucleotide amidase (EC 3.5.1.42)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	CinA-like protein	ADG33665	No	100.0
+
+#input_seq:	fig|28025.139.peg.1265|GBA51_06260   response regulator containing a CheY-like receiver domain and a HTH DNA-binding domain   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	response regulator	ADG33723	No	100.0
+
+#input_seq:	fig|28025.139.peg.849|GBA51_04225   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32998	No	100.0
+
+#input_seq:	fig|28025.139.peg.706|GBA51_03480   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32866	No	100.0
+
+#input_seq:	fig|28025.139.peg.1392|GBA51_06875   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85051	No	100.0
+
+#input_seq:	fig|28025.139.peg.63|GBA51_00270   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33101	No	100.0
+
+#input_seq:	fig|28025.139.peg.478|GBA51_02340   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33508	No	100.0
+
+#input_seq:	fig|28025.139.peg.1275|GBA51_06305   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33732	No	100.0
+
+#input_seq:	fig|28025.139.peg.1014|GBA51_05035   Transcriptional regulator, MarR family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transcriptional regulator, MarR family	ADC85189	No	100.0
+
+#input_seq:	fig|28025.139.peg.672|GBA51_03310   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transcriptional regulator, TetR family	ADC85278	No	100.0
+
+#input_seq:	fig|28025.139.peg.1192|GBA51_05890   Integral membrane protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical membrane spanning protein	ADC84700	No	100.0
+
+#input_seq:	fig|28025.139.peg.1460|GBA51_07215   tRNA-specific adenosine-34 deaminase (EC 3.5.4.33)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	tRNA-specific adenosine deaminase	ADC84984	No	100.0
+
+#input_seq:	fig|28025.139.peg.940|GBA51_04685   possible alpha beta hydrolase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	alpha beta hydrolase	ADG32687	No	100.0
+
+#input_seq:	fig|28025.139.peg.537|GBA51_02635   FIG004853: possible toxin to DivIC   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33565	No	100.0
+
+#input_seq:	fig|28025.139.peg.1206|GBA51_05960   Transcriptional regulator, MarR family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transcriptional regulator, MarR family	ADC84683	No	100.0
+
+#input_seq:	fig|28025.139.peg.487|GBA51_02385   topology modulation protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	DNA topology modulation protein flar-related protein	ADC85980	No	100.0
+
+#input_seq:	fig|28025.139.peg.903|GBA51_04500   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33049	No	100.0
+
+#input_seq:	fig|28025.139.peg.2|GBA51_08180   Uncharacterized MFS-type transporter   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34114	No	100.0
+
+#input_seq:	fig|28025.139.peg.258|GBA51_01210   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33293	No	100.0
+
+#input_seq:	fig|28025.139.peg.138|GBA51_00620   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33174	No	100.0
+
+#input_seq:	fig|28025.139.peg.1302|GBA51_06440   Cell division protein FtsL   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84591	No	100.0
+
+#input_seq:	fig|28025.139.peg.295|GBA51_01420   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33330	No	100.0
+
+#input_seq:	fig|28025.139.peg.888|GBA51_04420   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85488	No	100.0
+
+#input_seq:	fig|28025.139.peg.914|GBA51_04555   FIG018426: putative septation inhibitor protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative septation inhibitor protein	ADG32666	No	100.0
+
+#input_seq:	fig|28025.139.peg.8|GBA51_08210   NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Glutamine-dependent NAD(+) synthetase	ADC84965	No	100.0
+
+#input_seq:	fig|28025.139.peg.1376|GBA51_06805   DNA polymerase III alpha subunit (EC 2.7.7.7)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	DNA polymerase III, epsilon chain	ADC84662	No	100.0
+
+#input_seq:	fig|28025.139.peg.538|GBA51_02640   Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33566	No	100.0
+
+#input_seq:	fig|28025.139.peg.152|GBA51_00685   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33187	No	100.0
+
+#input_seq:	fig|28025.139.peg.304|GBA51_01465   Transcriptional regulator, AcrR family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33339	No	100.0
+
+#input_seq:	fig|28025.139.peg.631|GBA51_03100   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33656	No	100.0
+
+#input_seq:	fig|28025.139.peg.1205|GBA51_05955   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	NADPH-dependent reductase	ADG33845	No	100.0
+
+#input_seq:	fig|28025.139.peg.366|GBA51_01805   Transcriptional regulator, AsnC family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Transcriptional regulator, AsnC family	ADC85861	No	100.0
+
+#input_seq:	fig|28025.139.peg.1559|GBA51_07675   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34035	No	100.0
+
+#input_seq:	fig|28025.139.peg.1583|GBA51_07795   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84903	No	100.0
+
+#input_seq:	fig|28025.139.peg.1086|GBA51_05375   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32814	No	100.0
+
+#input_seq:	fig|28025.139.peg.778|GBA51_03850   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32931	No	100.0
+
+#input_seq:	fig|28025.139.peg.444|GBA51_02180   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33476	No	100.0
+
+#input_seq:	fig|28025.139.peg.254|GBA51_01190   Arginine pathway regulatory protein ArgR, repressor of arg regulon   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	arginine repressor	ADG33289	No	100.0
+
+#input_seq:	fig|28025.139.peg.553|GBA51_02705   ABC transporter, ATP-binding protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	SMC domain-containing protein	ADG33580	No	100.0
+
+#input_seq:	fig|28025.139.peg.1058|GBA51_05240   TadC-like protein BAD_0131   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Flp pilus assembly protein	ADG32790	No	100.0
+
+#input_seq:	fig|28025.139.peg.480|GBA51_02350   Transcriptional regulator, GntR family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33510	No	100.0
+
+#input_seq:	fig|28025.139.peg.1182|GBA51_05835   Very-short-patch mismatch repair endonuclease (G-T specific)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	XorII very-short-patch-repair endonuclease	ADG33867	No	100.0
+
+#input_seq:	fig|28025.139.peg.1584|GBA51_07800   putative S-layer domain protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Allergen V5/Tpx-1 family protein	ADG34058	No	100.0
+
+#input_seq:	fig|28025.139.peg.535|GBA51_02620   4-hydroxybenzoate polyprenyltransferase and related prenyltransferases   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Cd efflux system component	ADG33563	No	100.0
+
+#input_seq:	fig|28025.139.peg.353|GBA51_01720   N1-spermidine/spermine acetyltransferase PaiA   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	transcriptional regulator	ADG33388	No	100.0
+
+#input_seq:	fig|28025.139.peg.640|GBA51_03140   Transcriptional regulator   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	DNA binding protein	ADG33664	No	100.0
+
+#input_seq:	fig|28025.139.peg.109|GBA51_00480   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85606	No	100.0
+
+#input_seq:	fig|28025.139.peg.1204|GBA51_05950   Very-short-patch mismatch repair endonuclease (G-T specific)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	patch repair protein	ADC84686	No	100.0
+
+#input_seq:	fig|28025.139.peg.1101|GBA51_05450   Beta-1,4-galactosyltransferase CpsIVG   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	beta-D-Glcp beta-1,4-glucuronosyltransferase	ADC84790	No	100.0
+
+#input_seq:	fig|28025.139.peg.985|GBA51_04910   Acetyltransferase, GNAT family; Histone acetyltransferase HPA2 and related acetyltransferases   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Acetyltransferase	ADC85164	No	100.0
+
+#input_seq:	fig|28025.139.peg.108|GBA51_00475   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative prophage protein	ADG33144	No	100.0
+
+#input_seq:	fig|28025.139.peg.555|GBA51_02715   Transcriptional regulator   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	transcriptional regulator	ADG33582	No	100.0
+
+#input_seq:	fig|28025.139.peg.1246|GBA51_06165   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33704	No	100.0
+
+#input_seq:	fig|28025.139.peg.352|GBA51_01710   ABC transporter, ATP-binding protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ABC transporter, ATP-binding protein	ADG33387	No	100.0
+
+#input_seq:	fig|28025.139.peg.289|GBA51_01385   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33324	No	100.0
+
+#input_seq:	fig|28025.139.peg.904|GBA51_04505   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33051	No	100.0
+
+#input_seq:	fig|28025.139.peg.287|GBA51_01370   Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Acetyltransferase	ADG33322	No	100.0
+
+#input_seq:	fig|28025.139.peg.1351|GBA51_06685   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33804	No	100.0
+
+#input_seq:	fig|28025.139.peg.556|GBA51_02720   Nucleoside 2-deoxyribosyltransferase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical nucleoside deoxyribosyltransferase	ADC86047	No	100.0
+
+#input_seq:	fig|28025.139.peg.1304|GBA51_06450   Transcriptional regulator MraZ   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	protein mraZ	ADG33759	No	100.0
+
+#input_seq:	fig|28025.139.peg.412|GBA51_02015   Thiol peroxidase, Bcp-type (EC 1.11.1.15)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	thioredoxin peroxidase	ADG33443	No	100.0
+
+#input_seq:	fig|28025.139.peg.949|GBA51_04735   Methylated-DNA--protein-cysteine methyltransferase (EC 2.1.1.63)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	methylated-DNA--protein- cysteinemethyltransferase	ADG32696	No	100.0
+
+#input_seq:	fig|28025.139.peg.589|GBA51_02880   UPF0102 protein YraN   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33615	No	100.0
+
+#input_seq:	fig|28025.139.peg.343|GBA51_01665   Protein translocase subunit YajC   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	YajC	ADC85839	No	100.0
+
+#input_seq:	fig|28025.139.peg.961|GBA51_04795   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	flavodoxin	ADG32707	No	100.0
+
+#input_seq:	fig|28025.139.peg.1102|GBA51_05455   polysaccharide biosynthesis protein CpsF   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	polysaccharide biosynthesis protein CpsF	ADG33945	No	100.0
+
+#input_seq:	fig|28025.139.peg.137|GBA51_00615   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85633	No	100.0
+
+#input_seq:	fig|28025.139.peg.454|GBA51_02220   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85948	No	100.0
+
+#input_seq:	fig|28025.139.peg.1130|GBA51_05595   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84760	No	100.0
+
+#input_seq:	fig|28025.139.peg.1609|GBA51_07915   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34081	No	100.0
+
+#input_seq:	fig|28025.139.peg.192|GBA51_00880   Cold shock protein of CSP family => SCO4325   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	cold shock protein	ADG33226	No	100.0
+
+#input_seq:	fig|28025.139.peg.236|GBA51_01090   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33269	No	100.0
+
+#input_seq:	fig|28025.139.peg.1378|GBA51_06815   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32636	No	100.0
+
+#input_seq:	fig|28025.139.peg.59|GBA51_00250   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33097	No	100.0
+
+#input_seq:	fig|28025.139.peg.1308|GBA51_06470   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33763	No	100.0
+
+#input_seq:	fig|28025.139.peg.1013|GBA51_05025   ABC transporter, ATP-binding protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative ABC transporter ATP-binding protein	ADG32751	No	100.0
+
+#input_seq:	fig|28025.139.peg.1021|GBA51_05065   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32758	No	100.0
+
+#input_seq:	fig|28025.139.peg.5|GBA51_08195   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34111	No	100.0
+
+#input_seq:	fig|28025.139.peg.128|GBA51_00580   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33164	No	100.0
+
+#input_seq:	fig|28025.139.peg.1137|GBA51_05630   Glycine cleavage system H protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	glycine cleavage system H protein	ADG33910	No	100.0
+
+#input_seq:	fig|28025.139.peg.216|GBA51_00990   Integral membrane protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33249	No	100.0
+
+#input_seq:	fig|28025.139.peg.1530|GBA51_07545   Chorismate mutase I (EC 5.4.99.5)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Chorismate mutase	ADC84853	No	100.0
+
+#input_seq:	fig|28025.139.peg.85|GBA51_00370   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33121	No	100.0
+
+#input_seq:	fig|28025.139.peg.1484|GBA51_07315   RidA/YER057c/UK114 superfamily protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	Putative translation initiation inhibitor	ADG33964	No	100.0
+
+#input_seq:	fig|28025.139.peg.902|GBA51_04495   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33048	No	100.0
+
+#input_seq:	fig|28025.139.peg.1505|GBA51_07430   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33985	No	100.0
+
+#input_seq:	fig|28025.139.peg.897|GBA51_04470   DUF488 family protein SAV0238   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33043	No	100.0
+
+#input_seq:	fig|28025.139.peg.327|GBA51_01575   Fluoride ion transporter CrcB   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	CrcB family protein	ADC85823	No	100.0
+
+#input_seq:	fig|28025.139.peg.1061|GBA51_05250   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32792	No	100.0
+
+#input_seq:	fig|28025.139.peg.103|GBA51_00450   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33139	No	100.0
+
+#input_seq:	fig|28025.139.peg.576|GBA51_02815   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33601	No	100.0
+
+#input_seq:	fig|28025.139.peg.326|GBA51_01570   Fluoride ion transporter CrcB   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	CrcB protein	ADG33361	No	100.0
+
+#input_seq:	fig|28025.139.peg.890|GBA51_04430   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33036	No	100.0
+
+#input_seq:	fig|28025.139.peg.355|GBA51_01730   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33390	No	100.0
+
+#input_seq:	fig|28025.139.peg.1556|GBA51_07665   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34033	No	100.0
+
+#input_seq:	fig|28025.139.peg.35|GBA51_00140   LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-dependent   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	LSU ribosomal protein L31P	ADC85534	No	100.0
+
+#input_seq:	fig|28025.139.peg.325|GBA51_01565   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33360	No	100.0
+
+#input_seq:	fig|28025.139.peg.1398|GBA51_06905   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32617	No	100.0
+
+#input_seq:	fig|28025.139.peg.906|GBA51_04515   Uncharacterized protein SCO4088 / Domain of unknown function   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32660	No	100.0
+
+#input_seq:	fig|28025.139.peg.1045|GBA51_05185   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32780	No	100.0
+
+#input_seq:	fig|28025.139.peg.394|GBA51_01930   Transcriptional regulator   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	transcriptional regulator	ADG33425	No	100.0
+
+#input_seq:	fig|28025.139.peg.1653|GBA51_08115   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32649	No	100.0
+
+#input_seq:	fig|28025.139.peg.102|GBA51_00445   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33138	No	100.0
+
+#input_seq:	fig|28025.139.peg.1109|GBA51_05490   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33938	No	100.0
+
+#input_seq:	fig|28025.139.peg.930|GBA51_04630   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32680	No	100.0
+
+#input_seq:	fig|28025.139.peg.1090|GBA51_05395   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33957	No	100.0
+
+#input_seq:	fig|28025.139.peg.948|GBA51_04730   Antitoxin DinJ (binds YafQ toxin)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	DNA-damage-inducible protein J	ADC85129	No	100.0
+
+#input_seq:	fig|28025.139.peg.523|GBA51_02560   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33551	No	100.0
+
+#input_seq:	fig|28025.139.peg.1431|GBA51_07075   Membrane protein insertion efficiency factor YidD   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical cytosolic protein	ADC85013	No	100.0
+
+#input_seq:	fig|28025.139.peg.1285|GBA51_06355   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33742	No	100.0
+
+#input_seq:	fig|28025.139.peg.1260|GBA51_06235   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33718	No	100.0
+
+#input_seq:	fig|28025.139.peg.1492|GBA51_07360   ATP synthase epsilon chain (EC 3.6.3.14)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	F0F1 ATP synthase subunit epsilon	ADG33972	No	100.0
+
+#input_seq:	fig|28025.139.peg.10|GBA51_08220   Antitoxin DinJ (binds YafQ toxin)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	DNA-damage-inducible protein J	ADC84967	No	100.0
+
+#input_seq:	fig|28025.139.peg.484|GBA51_02370   Isochorismate pyruvate-lyase (EC 4.2.99.21)   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	chorismate mutase	ADG33514	No	100.0
+
+#input_seq:	fig|28025.139.peg.312|GBA51_01500   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33347	No	100.0
+
+#input_seq:	fig|28025.139.peg.1325|GBA51_06550   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33779	No	100.0
+
+#input_seq:	fig|28025.139.peg.1414|GBA51_06990   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Hypothetical cytosolic protein	ADC85030	No	100.0
+
+#input_seq:	fig|28025.139.peg.986|GBA51_04915   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85165	No	100.0
+
+#input_seq:	fig|28025.139.peg.177|GBA51_00805   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85670	No	100.0
+
+#input_seq:	fig|28025.139.peg.1196|GBA51_05910   CRISPR-associated protein Cas2   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	CRISPR-associated Cas2 family protein	ADG33853	No	100.0
+
+#input_seq:	fig|28025.139.peg.1210|GBA51_05980   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33840	No	100.0
+
+#input_seq:	fig|28025.139.peg.1401|GBA51_06920   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32614	No	100.0
+
+#input_seq:	fig|28025.139.peg.1041|GBA51_05165   Antitoxin HigA   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative transcriptional regulator	ADG32776	No	100.0
+
+#input_seq:	fig|28025.139.peg.1282|GBA51_06340   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33739	No	100.0
+
+#input_seq:	fig|28025.139.peg.1400|GBA51_06915   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32615	No	100.0
+
+#input_seq:	fig|28025.139.peg.561|GBA51_02740   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33587	No	100.0
+
+#input_seq:	fig|28025.139.peg.1383   Oxidoreductase, aldo/keto reductase family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	aldo/keto reductase	ADG32633	No	100.0
+
+#input_seq:	fig|28025.139.peg.947|GBA51_04725   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32694	No	100.0
+
+#input_seq:	fig|28025.139.peg.1386|GBA51_06850   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32630	No	100.0
+
+#input_seq:	fig|28025.139.peg.244|GBA51_01140   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	transporter	ADG33279	No	100.0
+
+#input_seq:	fig|28025.139.peg.1410|GBA51_06960   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32607	No	100.0
+
+#input_seq:	fig|28025.139.peg.472|GBA51_02310   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	aminotransferase, class II	ADG33502	No	100.0
+
+#input_seq:	fig|28025.139.peg.1227|GBA51_06070   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33685	No	100.0
+
+#input_seq:	fig|28025.139.peg.1010|GBA51_05010   ABC transporter, fused permease protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	putative ABC transport system integral membrane protein	ADG32748	No	100.0
+
+#input_seq:	fig|28025.139.peg.777|GBA51_03845   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32930	No	100.0
+
+#input_seq:	fig|28025.139.peg.237|GBA51_01095   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33270	No	100.0
+
+#input_seq:	fig|28025.139.peg.75|GBA51_00325   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33112	No	100.0
+
+#input_seq:	fig|28025.139.peg.1402|GBA51_06925   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32613	No	100.0
+
+#input_seq:	fig|28025.139.peg.1278|GBA51_06320   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33735	No	100.0
+
+#input_seq:	fig|28025.139.peg.1284|GBA51_06350   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33741	No	100.0
+
+#input_seq:	fig|28025.139.peg.1287|GBA51_06365   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84576	No	100.0
+
+#input_seq:	fig|28025.139.peg.1508|GBA51_07445   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33988	No	100.0
+
+#input_seq:	fig|28025.139.peg.1650|GBA51_08105   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32646	No	100.0
+
+#input_seq:	fig|28025.139.peg.99|GBA51_00435   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33135	No	100.0
+
+#input_seq:	fig|28025.139.peg.486|GBA51_02380   Acetyltransferase, GNAT family   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	GCN5-related N-acetyltransferase	ADG33516	No	100.0
+
+#input_seq:	fig|28025.139.peg.1220|GBA51_06025   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33831	No	100.0
+
+#input_seq:	fig|28025.139.peg.171|GBA51_00775   Prokaryotic ubiquitin-like protein Pup   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33205	No	100.0
+
+#input_seq:	fig|28025.139.peg.98|GBA51_00430   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC85595	No	100.0
+
+#input_seq:	fig|28025.139.peg.1209|GBA51_05975   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33841	No	100.0
+
+#input_seq:	fig|28025.139.peg.1396|GBA51_06895   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32619	No	100.0
+
+#input_seq:	fig|28025.139.peg.1276|GBA51_06310   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33733	No	100.0
+
+#input_seq:	fig|28025.139.peg.1389|GBA51_06860   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32627	No	100.0
+
+#input_seq:	fig|28025.139.peg.857|GBA51_04265   O-acetylhomoserine sulfhydrylase   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	O-acetylhomoserine sulfhydrylase	ADG33006	No	100.0
+
+#input_seq:	fig|28025.139.peg.549|GBA51_02690   Uncharacterized protein Tcur_0335   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33576	No	100.0
+
+#input_seq:	fig|28025.139.peg.554|GBA51_02710   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33581	No	100.0
+
+#input_seq:	fig|28025.139.peg.1279|GBA51_06325   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33736	No	100.0
+
+#input_seq:	fig|28025.139.peg.1280|GBA51_06330   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33737	No	100.0
+
+#input_seq:	fig|28025.139.peg.1283|GBA51_06345   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33740	No	100.0
+
+#input_seq:	fig|28025.139.peg.1504|GBA51_07425   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33984	No	100.0
+
+#input_seq:	fig|28025.139.peg.956|GBA51_04770   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32703	No	100.0
+
+#input_seq:	fig|28025.139.peg.354|GBA51_01725   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33389	No	100.0
+
+#input_seq:	fig|28025.139.peg.551|GBA51_02700   ABC transporter related   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ABC transporter related protein	ADG33578	No	100.0
+
+#input_seq:	fig|28025.139.peg.133   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33170	No	100.0
+
+#input_seq:	fig|28025.139.peg.1651   L-arabinose ABC transporter, permease protein AraH   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	ABC-type xylose transport system permease component	ADG32648	No	100.0
+
+#input_seq:	fig|28025.139.peg.448   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33478	No	100.0
+
+#input_seq:	fig|28025.139.peg.1212   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33838	No	100.0
+
+#input_seq:	fig|28025.139.peg.1000   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32740	No	100.0
+
+#input_seq:	fig|28025.139.peg.1417|GBA51_07005   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	Mannan endo-1,4-beta-mannosidase	ADC85027	No	100.0
+
+#input_seq:	fig|28025.139.peg.1387   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32629	No	100.0
+
+#input_seq:	fig|28025.139.peg.311   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33346	No	100.0
+
+#input_seq:	fig|28025.139.peg.100   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	conserved hypothetical protein	ADG33136	No	100.0
+
+#input_seq:	fig|28025.139.peg.134   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33169	No	100.0
+
+#input_seq:	fig|28025.139.peg.146   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33181	No	100.0
+
+#input_seq:	fig|28025.139.peg.1141   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33906	No	100.0
+
+#input_seq:	fig|28025.139.peg.69   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33106	No	100.0
+
+#input_seq:	fig|28025.139.peg.635   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33660	No	100.0
+
+#input_seq:	fig|28025.139.peg.987   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32730	No	100.0
+
+#input_seq:	fig|28025.139.peg.97   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33133	No	100.0
+
+#input_seq:	fig|28025.139.peg.1470   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34124	No	100.0
+
+#input_seq:	fig|28025.139.peg.1618   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	Actinobacteridae	hypothetical protein	ADC84936	No	100.0
+
+#input_seq:	fig|28025.139.peg.682|GBA51_03360   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG32843	No	100.0
+
+#input_seq:	fig|28025.139.peg.860   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33009	No	100.0
+
+#input_seq:	fig|28025.139.peg.1557   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34034	No	100.0
+
+#input_seq:	fig|28025.139.peg.1574   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG34048	No	100.0
+
+#input_seq:	fig|28025.139.peg.1153   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	Actinobacteridae	hypothetical protein	ADG33895	No	100.0
+
+#input_seq:	fig|28025.139.peg.840|GBA51_04180   hypothetical protein   [Bifidobacterium animalis strain BIOML-A2 | 28025.139]
+#matched_seq:	18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	Actinobacteridae	Hypothetical protein	ACD99194	No	100.0
+
