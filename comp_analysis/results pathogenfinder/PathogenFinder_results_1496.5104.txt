@@ -1,0 +1,2051 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_193142_874914_input.fsa
+Sequences ::	 3893
+Total bpp ::	 1152850
+Longest seq ::	 2710
+Shortest seq ::	 19
+Avg seq lenght ::	 296.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	1703.482
+Probability of being human pathogen ::	0.812
+Matches::	677
+Genome Coverage (%) ::	17.39
+Pathogenic Families Matched ::	677
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1496.5104.peg.653|GSM30_13755   ATP-dependent helicase/nuclease AddAB, subunit A   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ATP-dependent nuclease subunit A	CBE03030	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.651|GSM30_13745   Exonuclease SbcC   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	exonuclease subunit C	CBE03033	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2357|GSM30_03225   DinG family ATP-dependent helicase YoaA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exonuclease	CBE03715	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3574|GSM30_08940   diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative signaling protein	CBE02244	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2395|GSM30_03415   Beta-lactamase class C-like and penicillin binding proteins (PBPs) superfamily   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	cell surface protein (putative penicillin-binding protein)	CBE03784	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3567|GSM30_08905   NtrC family Transcriptional regulator, ATPase domain   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcription antiterminator	CBE02234	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.791|GSM30_14435   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative two-component sensor histidine kinase	CBE03827	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2097|GSM30_18775   ABC transporter-coupled two-component system, fused permease protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ABC transporter, permease protein	CBE02161	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1976   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02358	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2853|GSM30_05540   Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10) / Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative bi-functional glycine dehydrogenase/aminomethyl transferase protein	CBE04200	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2063|GSM30_18610   ABC transporter-coupled two-component system, fused permease protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ABC transporter, permease protein	CBE02203	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.405|GSM30_12560   ABC transporter-coupled two-component system, fused permease protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ABC transporter, permease protein	CBE04779	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.67|GSM30_10895   Cell surface protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	cell surface protein (putative cell surface-associated cysteine protease)	CBE04358	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1517|GSM30_01165   ABC transporter-coupled two-component system, fused permease protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ABC transporter, permease protein	CBE05730	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.274|GSM30_11900   Stage II sporulation serine phosphatase for sigma-F activation (SpoIIE)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	stage II sporulation protein e	CBE07327	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1652|GSM30_01835   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative signaling protein	CBE05963	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3196|GSM30_07150   RecD-like DNA helicase YrrC   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative DNA-binding protein	CBE01690	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.744|GSM30_14200   diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative signaling protein	CBE03906	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2200|GSM30_02440   Phosphoglyceromutase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03437	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2359|GSM30_03235   Peroxiredoxin, Bcp-type (EC 1.11.1.15) / Chitinase (EC 3.2.1.14)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative bifunctional protein: peroxiredoxin/chitinase	CAJ68298	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1797   putative membrane protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conjugative transposon protein	CBE07574	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.768|GSM30_14320   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative signaling protein	CBE03865	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.842|GSM30_14680   RloF   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative uncharacterized protein	CBE06575	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.659|GSM30_13785   N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	cell surface protein (putative N-acetylmuramoyl-L-alanine amidase)	CBE03019	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3272|GSM30_07510   Putative transcriptional antiterminator, BglG family / PTS system, IIA component   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcription antiterminator	CBE01815	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.57|GSM30_10845   ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines) / Sensory histidine kinase, AtoS-like   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component sensor histidine kinase	CBE04341	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.826|GSM30_14600   PRD/PTS system IIA 2 domain protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	transcription antiterminator	CBE06599	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1709|GSM30_02120   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE06059	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2563|GSM30_04115   Sorbitol operon transcription regulator   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcription antiterminator	CBE02665	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2004|GSM30_18335   Acylamino-acid-releasing enzyme (EC 3.4.19.1)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative peptidase	CBE02462	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1613|GSM30_01640   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE05893	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.749|GSM30_14225   ABC transporter-like sensor and permease protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ABC transporter, permease protein	CBE03897	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2997|GSM30_06205   AAA_5 ATPase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative restriction enzyme	CBE04983	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2615|GSM30_04370   diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative signaling protein	CBE02756	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1550|GSM30_01330   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcriptional antiterminator	CBE05785	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1539|GSM30_01275   Putative transcriptional antiterminator, BglG family / PTS system, IIA component   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative bifunctional protein	CBE05767	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3545|GSM30_08815   ABC transporter-like sensor and permease protein YxdM   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ABC transporter, permease protein	CBE06421	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1032|GSM30_15600   Cellulosomal protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE02995	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.861|GSM30_14775   Bacitracin export permease protein BceB   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ABC transporter, permease protein	CBE06542	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.208|GSM30_11585   Transcriptional antiterminator of lichenan operon, BglG family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcription antiterminator	CBE07224	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3408|GSM30_08155   N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	cell surface protein	CBE06209	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.273|GSM30_11895   Oligoendopeptidase F   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative oligopeptidase	CBE07325	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1476|GSM30_00970   Transcriptional antiterminator of lichenan operon, BglG family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	transcriptional antiterminator	CBE05662	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3542|GSM30_08800   FIG00514192: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE06415	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2769|GSM30_05130   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative two-component histidine kinase	CBE04062	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2864|GSM30_05590   membrane-anchoring domain / Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative glycerophosphoryl diester phosphodiesterase	CBE04214	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2221|GSM30_02545   N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative mannosyl-glycoprotein endo-beta-N-acetylglucosamidase	CBE03475	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2050|GSM30_18545   Beta-lactamase regulatory sensor-transducer BlaR1   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative beta-lactamase-inducing penicillin-binding protein	CBE02181	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2247|GSM30_02675   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03522	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1939   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcriptional antiterminator	CBE05279	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1676|GSM30_01955   Serine phosphatase RsbU, regulator of sigma subunit   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative regulatory protein	CBE06001	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1531|GSM30_01235   Neuraminidase NanP   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05755	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2343|GSM30_03155   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative signaling protein	CBE03690	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.294|GSM30_12000   Type IV pilus biogenesis protein PilM   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putaive membrane protein	CAJ70414	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2958|GSM30_06010   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE04916	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2038|GSM30_18485   Efflux ABC transporter, permease/ATP-binding protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	abc transporter, atp-binding/permease protein	CBE02425	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1239|GSM30_16710   ABC1 family protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	probable ubiquinone biosynthesis protein	CBE06116	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3877|GSM30_10375   N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	cell surface protein	CBE06823	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1801|GSM30_17360   sigma-L-dependent transcriptional regulator   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	sigma-54-dependent transcriptional regulator	CAJ67223	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1039|GSM30_15630   sensory box/GGDEF/EAL/CBS domain protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative signaling protein	CBE02985	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3008|GSM30_06260   ABC transporter, permease protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ABC transporter, permease protein	CBE05001	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1813|GSM30_17415   Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	asparagine synthetase	CBE02091	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1293|GSM30_00055   Two-component system sensor histidine kinase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component sensor histidine kinase	CBE05344	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1273|GSM30_16875   Peptidoglycan lipid II flippase MurJ   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transmembrane virulence factor MviN family protein	CBE06174	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3318|GSM30_07740   Flagellar M-ring protein FliF   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	flagellar M-ring protein	CBE01895	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1728|GSM30_17000   LysM domain-containing membrane protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative cell wall hydrolase	CBE07464	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.784|GSM30_14400   Peptidoglycan lipid II flippase MurJ   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein (virulence factor (MviN) homologue)	CBE03839	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1957|GSM30_18125   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	hypothetical protein	CAJ69141	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3304|GSM30_07670   Flagellar cap protein FliD   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	flagellar cap protein	CBE01872	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1227|GSM30_16650   N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	cell surface protein	CBE06094	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3454|GSM30_08375   predicted ATPase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative two-component sensor histidine kinase	CBE06283	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1041|GSM30_15635   Sensor protein cssS (EC 2.7.13.3)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component system sensor histidine kinase	CBE02983	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.181|GSM30_11450   Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3) @ Sirohydrochlorin ferrochelatase activity of CbiK (EC 4.99.1.4) / Cobalt-precorrin-2 C(20)-methyltransferase (EC 2.1.1.151)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	sirohydrochlorin cobaltochelatase	CBE07180	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2632|GSM30_04450   Glutamate synthase [NADPH] large chain (EC 1.4.1.13)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative oxidative stress protein	CBE02783	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3105|GSM30_06725   Cell surface protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	cell surface protein	CBE05158	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.434|GSM30_12705   Cell surface protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	cell surface protein	CBE04824	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.106|GSM30_11070   Two-component system sensor histidine kinase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component sensor histidine kinase	CBE04417	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3114|GSM30_06770   Lactose permease   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	lactose permease	CBE05172	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3670|GSM30_09405   Ribonuclease G   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	ribonuclease g	CAJ68013	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2758   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative Na+/H+ exchanger	CAJ70523	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3013|GSM30_06285   putative sodium:sulfate symporter   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative sodium:sulfate symporter	CBE05010	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2480|GSM30_03700   Cell division-associated, ATP-dependent zinc metalloprotease FtsH   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ATP-dependent peptidase	CBE02529	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2909|GSM30_05805   Arginine/ornithine antiporter ArcD   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative C4-dicarboxylate anaerobic carrier	CAJ68575	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1951|GSM30_18095   Di-tripeptide/cation symporter   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	probable proton-dependent oligopeptide transporter	CBE05265	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2361|GSM30_03245   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03722	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.408|GSM30_12575   FIG00883731: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE04785	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3530|GSM30_08745   Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative AMP-binding protein	CBE06394	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.104|GSM30_11060   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE04413	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1721|GSM30_16965   tRNA(Ile)-lysidine synthetase (EC 6.3.4.19)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ATPase	CBE07452	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2739|GSM30_04980   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07632	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3599|GSM30_09065   Regulatory sensor-transducer, BlaR1/MecR1 family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative penicillin-binding protein	CBE02289	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2993|GSM30_06185   Xanthine permease   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative xanthine/uracile permease	CBE04976	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3755|GSM30_09810   Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit B   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative amidohydrolase	CBE06650	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3232|GSM30_07315   MATE efflux family protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative drug/sodium antiporter	CBE01755	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3437|GSM30_08290   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE06254	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2123|GSM30_18895   Na(+)/H(+) antiporter   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative na+/h+ exchanger	CBE07596	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2653|GSM30_04555   Catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit B   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative aminobenzoyl-glutamate utilization protein	CAJ67683	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2910|GSM30_05810   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04292	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1477|GSM30_00975   Putative dipeptidase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative peptidase	CBE05664	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2977|GSM30_06105   Xanthine permease   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	xanthine permease	CBE04950	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.370|GSM30_12385   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE04719	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.302|GSM30_12040   UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	UDP-N-acetylmuramate--L-alanine ligase	CBE07377	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.992|GSM30_15395   Ribonuclease PH (EC 2.7.7.56) / Nucleoside 5-triphosphatase RdgB (dHAPTP, dITP, XTP-specific) (EC 3.6.1.66)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ribonuclease Ph	CBE07044	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3012|GSM30_06280   Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative drug/sodium antiporter	CBE05008	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1964|GSM30_18150   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component sensor histidine kinase	CBE02341	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2708|GSM30_04805   Xre family DNA-binding domain and TPR-repeat-containing protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcriptional regulator	CBE07686	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1986|GSM30_18250   Co-activator of prophage gene expression IbrA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02368	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3505|GSM30_08620   PTS system, cellobiose-specific IIC component   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	PTS system, lichenan-specific IIc component	CBE06352	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3298|GSM30_07640   Flagellar hook-associated protein FlgK   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative flagellar hook-associated protein	CBE01861	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3605|GSM30_09090   tRNA/rRNA cytosine-C5-methyltransferase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative methylase	CBE02298	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.96|GSM30_11020   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04398	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3887|GSM30_10425   Uncharacterized MFS-type transporter   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	multidrug resistance protein	CBE06841	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.409|GSM30_12580   putative acyl-CoA thioesterase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative acyl-CoA thioesterase	CBE04786	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2918|GSM30_05850   Cytosine/purine/uracil/thiamine/allantoin permease family protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	probable permease	CBE04307	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2175|GSM30_02315   Na(+)-dependent branched-chain amino acid transporter   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	branched-chain amino acid transport system carrier protein	CBE03392	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2176|GSM30_02320   Na(+)-dependent branched-chain amino acid transporter   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	branched-chain amino acid transport system carrier protein	CBE03394	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1626|GSM30_01705   Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component sensor histidine kinase	CBE05916	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3575|GSM30_08945   Transcriptional regulator   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcriptional regulator	CBE02246	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.996|GSM30_15415   Putative transporter   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	probable transporter	CBE07051	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.895|GSM30_14925   Cytochrome c-type biogenesis protein CcdA (DsbD analog) / Cytochrome c-type biogenesis protein ResA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative cytochrome C biogenesis protein	CBE06467	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1634|GSM30_01745   ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative extracellular solute-binding protein	CBE05930	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.306|GSM30_12060   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE07383	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2806|GSM30_05305   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE04121	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1650|GSM30_01825   FIG001621: Zinc protease   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	probable peptidase	CBE05959	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1406|GSM30_00610   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	probable transporter	CBE05540	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1358|GSM30_00380   Biosynthetic Aromatic amino acid aminotransferase alpha (EC 2.6.1.57) @ Aspartate aminotransferase (EC 2.6.1.1)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative aspartate aminotransferase	CBE05458	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3678|GSM30_09445   FIGfam003972: membrane protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03224	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2791|GSM30_05235   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04096	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2815|GSM30_05350   Uncharacterized MFS-type transporter   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative permease	CBE04136	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2837|GSM30_05455   COG0503: Adenine/guanine phosphoribosyltransferases and related PRPP-binding proteins   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04172	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2607|GSM30_04330   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative CoA-transferase	CBE02741	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1806|GSM30_17385   2-hydroxyglutaryl-CoA dehydratase, D-component HgdA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	subunit of oxygen-sensitive 2-hydroxyisocaproyl-CoA dehydratase	CBE02102	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.755|GSM30_14255   ABC transporter, permease protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ABC transporter, permease protein	CBE03886	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2890|GSM30_05710   Two component system sensor histidine kinase CiaH (EC 2.7.3.-)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component sensor histidine kinase	CBE04257	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1230|GSM30_16665   Cytosine permease   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative cytosine permease	CBE06099	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.753|GSM30_14245   Periplasmic component of efflux system   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ABC transporter, permease protein	CBE03890	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.472|GSM30_12890   N-carbamoyl-L-amino acid hydrolase (EC 3.5.1.87)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	N-carbamoyl-L-amino acid hydrolase	CBE04876	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3106|GSM30_06730   Xylose repressor XylR (ROK family)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative regulator of a specific sugar metabolism	CAJ69078	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3707|GSM30_09590   Stage III sporulation protein AE   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	stage III sporulation-related protein	CAJ68050	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1248|GSM30_16755   Patatin   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phospholipase	CBE06132	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3756|GSM30_09815   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06652	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3323|GSM30_07765   Flagellar hook-length control protein FliK   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative flagellar hook-length control protein	CBE01903	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.853|GSM30_14735   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE06556	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1385|GSM30_00505   N-acetylmuramoyl-L-alanine amidase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative cell wall hydrolase	CBE05499	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1693|GSM30_02040   putative lipoprotein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE06030	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1463|GSM30_00900   FIG00513649: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05638	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1771|GSM30_17205   Amidohydrolase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative amidohydrolase	CBE07538	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2125|GSM30_18905   putative transposon integrase; Tn916 ORF3-like   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	integrase	CBE07592	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2098|GSM30_18780   ABC transporter-coupled two-component system, signal transduction histidine kinase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component sensor histidine kinase	CBE02163	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.508|GSM30_13065   Molybdopterin molybdenumtransferase (EC 2.10.1.1)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	molybdopterin biosynthesis protein	CBE03106	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3062|GSM30_06515   DUF819 domain-containing protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane protein	CAJ69035	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.850|GSM30_14720   Xylose-responsive transcription regulator, ROK family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	xylose repressor	CAJ69958	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2425|GSM30_19040   Cell surface protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	cell surface protein	CBE02125	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1684|GSM30_01995   Similar to L-threonine 3-O-phosphate decarboxylase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative aminotransferase	CBE06013	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.49|GSM30_10810   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative acetyltransferase	CBE04330	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3509|GSM30_08640   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative signaling protein	CBE06359	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.899|GSM30_14945   Alcohol dehydrogenase (EC 1.1.1.1)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	probable alcohol dehydrogenase	CBE06461	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3666|GSM30_09385   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE03199	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2968|GSM30_06060   Phage integrase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	integrase	CBE04934	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1950|GSM30_18090   Foldase protein PrsA precursor (EC 5.2.1.8)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative protein export chaperone	CBE05267	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.414|GSM30_12605   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04795	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.906|GSM30_14980   Vitamin B12 ABC transporter, substrate-binding protein BtuF   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative iron ABC transporter, substrate-binding protein	CAJ69893	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3531|GSM30_08750   3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative thiolase	CBE06396	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1404|GSM30_00600   N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative peptidase	CBE05536	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3893|GSM30_10445   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component sensor histidine kinase	CBE06849	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2261|GSM30_02745   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative cell wall biosynthesis protein	CBE03548	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1528|GSM30_01220   Predicted membrane protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE05749	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2189|GSM30_02385   Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative competence protein	CAJ68129	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1489|GSM30_01030   Biosynthetic Aromatic amino acid aminotransferase beta (EC 2.6.1.57)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative histidinol-phosphate aminotransferase	CBE05684	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2540|GSM30_04000   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative aminotransferase	CBE02629	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1216|GSM30_16595   1,2-diacylglycerol 3-glucosyltransferase (EC 2.4.1.157); diglucosyldiacylglycerol synthase (LTA membrane anchor synthesis)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	CBE06076	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3158|GSM30_06985   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE05245	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2775|GSM30_05160   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative sugar metabolism repressor	CBE04073	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3389|GSM30_08080   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02007	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2838|GSM30_05460   putative ATP/GTP-binding protein protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04174	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.979|GSM30_15330   Late competence protein ComGB, access of DNA to ComEA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative type IV pilus-assembly protein	CBE07020	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3007|GSM30_06255   ABC transporter, permease protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ABC transporter, permease protein	CBE05000	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.982|GSM30_15345   ATPase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ATP/GTP-binding protein	CBE07026	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.109|GSM30_11085   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04422	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2164|GSM30_02260   Radical SAM domain protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	radical SAM-superfamily protein	CBE03373	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2264|GSM30_02760   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE03554	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2182|GSM30_02350   Domain of unknown function / Efflux ABC transporter, permease protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ABC transporter, permease protein	CBE03405	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1214|GSM30_16585   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06072	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1003|GSM30_15450   ABC transporter, permease protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE07063	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3724|GSM30_09675   Stage IV sporulation protein B   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	stage IV sporulation protein B	CAJ68067	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.647|GSM30_13725   N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	cell surface protein	CAJ67888	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.732|GSM30_14140   Histidinol-phosphate aminotransferase (EC 2.6.1.9)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative histidinol-phosphate aminotransferase	CBE03925	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3213|GSM30_07230   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE01718	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2427|GSM30_19050   Sporulation protein and related proteins   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE02121	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3247|GSM30_07390   putative lipoprotein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative cell wall hydrolase	CBE01779	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2479|GSM30_03695   Transcriptional regulator, LacI family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	LacI-family transcriptional regulator	CAJ67516	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.51|GSM30_10820   methylcobamide:CoM methyltransferase-related protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative methyltransferase	CAJ68601	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1456|GSM30_00865   Stage II sporulation protein P   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative stage II sporulation protein P	CBE05626	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2581|GSM30_04200   Transcriptional regulator, LacI family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	LacI-family transcriptional regulator	CBE02692	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1376|GSM30_00460   Monofunctional biosynthetic peptidoglycan transglycosylase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transglycosylase	CBE05483	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2613|GSM30_04360   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02752	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2229|GSM30_02585   3'-to-5' oligoribonuclease A, Bacillus type   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative RNA-binding protein	CBE03489	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2588|GSM30_04235   Stage IV sporulation protein B   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative stage IV sporulation protein	CAJ67617	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3548|GSM30_08830   ABC transporter-like sensor linked histidine kinase YvcQ   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component system histidine kinase	CBE06426	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2601|GSM30_04300   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	LacI-family transcriptional regulator	CBE02730	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.752|GSM30_14240   Two-component system sensor histidine kinase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component sensor histidine kinase	CBE03892	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2964|GSM30_06040   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04927	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.284|GSM30_11950   Foldase protein PrsA precursor (EC 5.2.1.8)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative foldase lipoprotein (late stage protein export lipoprotein)	CAJ70404	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2737|GSM30_04970   Carbohydrate kinase, PfkB family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	probable carbohydrate kinase	CBE07636	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.113|GSM30_11105   putative exonuclease   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exonuclease	CBE04429	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3325|GSM30_07775   Flagellar hook protein FlgE   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	flagellar hook protein	CBE01907	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.867   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane protein	CAJ69935	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.760|GSM30_14280   Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative polysaccharide deacetylase	CBE03877	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3221|GSM30_07270   CAAX amino terminal protease family protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane-associated CAAX amino terminal protease	CBE01731	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3373|GSM30_08015   Ribose ABC transporter, substrate-binding protein RbsB (TC 3.A.1.2.1)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	D-ribose ABC transporter, substrate-binding protein	CBE01986	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1879|GSM30_17735   putative signaling protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative signaling protein	CBE07117	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.155|GSM30_11315   Magnesium and cobalt transport protein CorA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative cation transport-related, membrane protein	CBE04499	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1256|GSM30_16795   Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily F1   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative penicillin-binding protein repressor	CBE06146	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2717|GSM30_04850   FIG003573: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane protein	CAJ70568	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3645|GSM30_09285   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03162	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2648|GSM30_04530   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	cell surface protein	CBE02812	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1833|GSM30_17515   Two-component system sensor histidine kinase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component sensor histidine kinase	CBE02056	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2939   Mobile element protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	transposase-like protein b	CBE02169	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1178|GSM30_16315   Lipoate-protein ligase A   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoate-protein ligase	CBE01524	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3299|GSM30_07645   Flagellar hook-associated protein FlgL   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	flagellar hook-associated protein	CBE01863	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1819|GSM30_17445   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02082	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1624|GSM30_01695   putative membrane protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE05913	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1625|GSM30_01700   Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE05914	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1682|GSM30_01985   putative membrane-associated phospholipid phosphatase, PAP2 superfamily   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane-associated phosphatase	CBE06010	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2231|GSM30_02595   FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	riboflavin biosynthesis protein	CBE03493	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2250|GSM30_02690   Site-specific tyrosine recombinase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative tyrosine recombinase	CBE03527	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3252|GSM30_07415   2-dehydropantoate 2-reductase (EC 1.1.1.169)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ketopantoate reductase	CBE01787	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3031|GSM30_06370   Auxin efflux carrier family protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transporter	CBE05037	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3882|GSM30_10400   Phage protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phage-related protein	CBE06832	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2510|GSM30_03850   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02577	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2650|GSM30_04540   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02815	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1313|GSM30_00155   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE05381	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3544|GSM30_08810   Transcriptional regulator, YafY family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE06419	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3615|GSM30_09140   Epoxyqueuosine reductase (EC 1.17.99.6) QueG   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative iron-sulfur cluster protein	CBE02315	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3348|GSM30_07890   Transcriptional regulator, AraC family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	AraC-family transcriptional regulator	CBE01945	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3384|GSM30_08060   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02000	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.399|GSM30_12530   ABC transporter-coupled two-component system, signal transduction histidine kinase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component sensor histidine kinase	CBE04769	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.624|GSM30_13610   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03079	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.510|GSM30_13075   Transcriptional regulator, LysR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	LysR-family transcriptional regulator	CBE03103	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1252|GSM30_16775   N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative N-acetylmuramoyl-L-alanine amidase	CAJ69649	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1663|GSM30_01890   Transcriptional regulator, LysR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	LysR-family transcriptional regulator	CBE05983	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.190|GSM30_11495   L-threonine kinase in B12 biosynthesis (EC 2.7.1.177)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative cobalamin biosynthesis kinase	CAJ70334	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.125|GSM30_11165   MBL-fold metallo-hydrolase superfamily   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative hydrolase	CBE04451	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3342|GSM30_07860   Flagellar motor switch protein FliM   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative flagellar motor switch protein	CBE01935	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2538|GSM30_03990   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE02624	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2738|GSM30_04975   Transcriptional regulator, LysR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	LysR-family transcriptional regulator	CBE07634	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3551|GSM30_08845   ABC transporter, ATP-binding protein (cluster 1, maltose/g3p/polyamine/iron); ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ABC transporter, ATP-binding protein	CBE06431	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.410|GSM30_12585   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04788	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1321|GSM30_00195   Transcriptional regulator, LysR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	LysR-family regulatory protein	CBE05395	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1633|GSM30_01740   Sporulation sigma-E factor processing peptidase (SpoIIGA)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	sporulation sigma-E factor processing peptidase	CBE05928	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.977|GSM30_15320   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07016	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.491|GSM30_12980   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	nitroreductase-family protein	CBE03135	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.939|GSM30_15135   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane protein	CAJ70156	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.931|GSM30_15095   Surface antigen   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE06934	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3594|GSM30_09040   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02280	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2320|GSM30_03040   Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative muramoyltetrapeptide carboxypeptidase	CBE03654	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1704|GSM30_02095   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE06050	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.393|GSM30_12500   UPF0750 membrane protein YvjA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane protein	CAJ68825	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1745|GSM30_17085   Transcriptional regulator, MerR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	MerR-family transcriptional regulator	CAJ70490	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2743|GSM30_05000   FIG00519863: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07625	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.747|GSM30_14215   Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative 3-mercaptopyruvate sulfurtransferase	CBE03901	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3141|GSM30_06905   Sialic acid utilization regulator, RpiR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	RpiR-family transcriptional regulator	CBE05216	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1025|GSM30_15565   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative signaling protein	CBE03007	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3390|GSM30_08085   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative spore coat assembly asparagine-rich protein	CBE02008	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2623|GSM30_04405   Beta-glucoside bgl operon antiterminator, BglG family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcription antiterminator	CBE02768	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.444|GSM30_12750   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE04834	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2234|GSM30_02610   DegV family protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03498	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2344|GSM30_03160   diguanylate cyclase (GGDEF domain)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative signaling protein	CBE03692	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2888|GSM30_05700   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative lipoprotein	CAJ68554	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.375|GSM30_12410   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE04728	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2582|GSM30_04205   putative membrane protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE02694	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1047|GSM30_15665   Uncharacterized S1 RNA binding domain protein YitL   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02972	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2768|GSM30_05125   Ribonuclease BN   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane-associated ribonuclease	CBE04061	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.314|GSM30_12100   FIG00031715: Predicted metal-dependent phosphoesterases (PHP family)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phophoesterase	CBE07396	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.725|GSM30_14105   Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative polysaccharide deacetylase	CBE03938	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.655|GSM30_13765   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03026	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.937|GSM30_15125   Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative polysaccharide deacetylase	CBE06945	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3038|GSM30_06395   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE05042	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3624|GSM30_09180   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conserved hypothetical protein	CAJ67404	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2556|GSM30_04080   pilin   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	fimbrial protein (pilin)	CBE02653	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1514|GSM30_01150   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05724	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1498|GSM30_01075   Beta-glucoside bgl operon antiterminator, BglG family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	transcriptional antiterminator	CBE05700	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.803|GSM30_14495   Hydrolase, HAD superfamily   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative hydrolase	CBE06634	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2368|GSM30_03280   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03735	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2328|GSM30_03080   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE03667	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1290|GSM30_00045   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE05340	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3910|GSM30_10530   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE06876	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2765|GSM30_05110   Cell wall-binding protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE04055	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3597|GSM30_09055   Integral membrane protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE02286	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3087|GSM30_06635   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	probable amino-acid ABC transporter, substrate-binding protein	CBE05125	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.303|GSM30_12045   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE07378	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.780|GSM30_14380   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ABC transporter, permease protein	CBE03846	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.337|GSM30_12220   N-acetylmuramoyl-L-alanine amidase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phage-related cell wall hydrolase (endolysin)	CBE04660	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1605|GSM30_01600   Putative RNA-binding protein YlmH   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative RNA-binding cell division protein	CBE05880	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.854|GSM30_14740   Transcriptional regulator, RpiR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	phosphosugar-binding transcriptional regulator	CBE06554	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3197|GSM30_07155   Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phosphoribosyl transferase (putative competence protein)	CBE01691	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2628|GSM30_04430   Efflux ABC transporter, permease protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lantibiotic ABC transporter, permease protein	CBE02776	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2332|GSM30_03100   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative hydrolase	CBE03675	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3533|GSM30_08760   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE06400	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.821|GSM30_14575   Cellobiose phosphotransferase system YdjC-like protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative cellobiose-phosphate degrading protein	CBE06608	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1458|GSM30_00875   Hydrolase, alpha/beta fold family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05629	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2060|GSM30_18595   Lantibiotic ABC transporter permease   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lantibiotic ABC transporter, permease protein	CBE02198	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1419|GSM30_00675   DNA recombination and repair protein RecO   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	DNA repair protein	CBE05562	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1336|GSM30_00270   ABC transporter, ATP-binding protein (cluster 1, maltose/g3p/polyamine/iron); ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative aliphatic sulfonate ABC transporter, ATP-binding protein	CBE05421	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2193|GSM30_02405   Acetyltransferase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative acetyltransferase	CAJ68133	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.512|GSM30_13085   PTS system, mannose-specific IIC component   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	PTS system, IIc component	CBE03099	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2046|GSM30_18525   Transcriptional regulator, RpiR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	RpiR-family transcriptional regulator	CBE02174	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2543|GSM30_04015   Glycerol-3-phosphate regulon repressor GlpR   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	DeoR-family transcriptional regulator	CBE02634	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2814|GSM30_05345   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ABC transporter, peremase protein	CBE04134	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.38|GSM30_10755   Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	probable acyltransferase	CBE04315	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.719|GSM30_14075   Protein of unknown function DUF45   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03947	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1628|GSM30_01715   FIG00003370: Multicopper polyphenol oxidase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05920	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3367|GSM30_07985   Transmembrane protein YxlG   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ABC transporter, permease protein	CBE01975	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2074|GSM30_18665   PTS system, mannose-specific IIC component   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	PTS system, IIc component	CBE02223	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1958   Mobile element protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	transposase-like protein b	CBE04050	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3608|GSM30_09105   Putative endonuclease   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative endonuclease	CBE02304	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.721|GSM30_14085   Anti-sigma-V factor RsiV   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE03944	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2857|GSM30_05560   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04207	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.182|GSM30_11455   Cobalt-precorrin-6A reductase (EC 1.3.1.106)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	cobalt-precorrin-6a reductase	CBE07182	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1843|GSM30_17565   Ferredoxin reductase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conserved hypothetical protein	CAJ67152	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2045|GSM30_18520   Transcriptional regulator, RpiR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	RpiR-family transcriptional regulator	CBE02172	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1589|GSM30_01525   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative response regulator	CBE05855	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.514|GSM30_13095   FIG00514432: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03095	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2236|GSM30_02620   FIG007013: polysaccharide deacetylase, putative   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative polysaccharide deacetylase	CBE03502	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2373|GSM30_03305   Aminodeoxychorismate lyase (EC 4.1.3.38)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative aminodeoxychorismate lyase	CBE03744	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.147|GSM30_11275   UPF0246 protein YaaA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04486	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1742|GSM30_17070   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE07490	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1938|GSM30_18030   Protein tyrosine phosphatase (EC 3.1.3.48)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05281	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3186|GSM30_07100   FIG013354: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE01672	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2204|GSM30_02460   Predicted membrane-associated metal-binding protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane-bound metal-dependent hydrolase	CBE03444	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.509|GSM30_13070   putative lipoprotein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE03104	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1828|GSM30_17490   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02065	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.217|GSM30_11625   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE07239	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2886|GSM30_05690   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04250	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.359|GSM30_12330   Protein clustered with ethanolamine utilization   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ethanolamine utilization/propanediol conserved hypothetical protein	CBE04703	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2973|GSM30_06085   Molybdenum cofactor guanylyltransferase (EC 2.7.7.77)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04943	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1411|GSM30_00635   2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative oxidoreductase subunit	CBE05548	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2158|GSM30_02230   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03362	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3277|GSM30_07535   2-haloalkanoic acid dehalogenase (EC 3.8.1.2)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative hydrolase	CBE01823	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2094|GSM30_18760   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE02156	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2960|GSM30_06020   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE04920	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.935|GSM30_15115   Two-component transcriptional response regulator, LuxR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	two-component response regulator	CAJ70152	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2408|GSM30_03480   FIG00518637: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03805	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1734|GSM30_17030   FIG00512732: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07475	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1260|GSM30_16810   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative cell-wall hydrolase	CBE06151	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.498|GSM30_13015   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE03123	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3140|GSM30_06900   Transcriptional regulator CPF_1694, Crp/Fnr family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	cAMP-binding regulatory protein	CBE05215	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1483|GSM30_01005   Late competence protein ComEA, DNA receptor   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative competence protein	CBE05675	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3507|GSM30_08630   Transcriptional regulator, GntR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	GntR-family transcriptional regulator	CBE06356	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.328|GSM30_12170   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE07421	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2008   Huntingtin interacting protein HYPE homolog   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	fic family protein; putative filamentation induced by cAMP protein	CBE02457	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3669|GSM30_09400   FIG017108: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03206	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.101|GSM30_11045   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04407	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.354|GSM30_12305   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ethanolamine/propanediol utilisation protein	CBE04695	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1922|GSM30_17950   AzlC family protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE05309	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3540|GSM30_08790   CRISPR-associated protein Cas5   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE06412	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1881|GSM30_17745   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07120	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3478|GSM30_08485   FIG01288841: membrane protein, putative   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06305	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2618|GSM30_04385   Transcriptional regulator, GntR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	GntR-family transcriptional regulator	CBE02761	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.643|GSM30_13705   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative ABC transporter, permease protein	CAJ67892	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3710|GSM30_09605   Stage III sporulation protein AH   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative stage III sporulation protein AH	CBE03281	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2908|GSM30_05800   Thiazole tautomerase TenI (EC 5.3.99.10)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative thiamine biosynthesis protein	CBE04289	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2643|GSM30_04505   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane-associated CAAX amino terminal protease	CAJ67673	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1504|GSM30_01105   Uncharacterized membrane spanning protein, contains VanZ-like domain   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE05710	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3659|GSM30_09350   Septum site-determining protein MinC   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	septum site-determining protein	CAJ68002	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.949|GSM30_15180   Two-component transcriptional response regulator, LuxR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component response regulator	CBE06965	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.981|GSM30_15340   Uncharacterized protein YlxW   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE07024	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2052|GSM30_18555   Iron-sulfur flavoprotein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative iron-sulfur flavoprotein	CBE02184	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2954|GSM30_05985   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative lipoprotein	CAJ68937	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1711|GSM30_02135   NPQTN specific sortase B   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative sortase B	CBE06062	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3477|GSM30_08480   FIG00518865: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06304	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.951|GSM30_15190   Two-component transcriptional response regulator, LuxR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	two-component response regulator	CBE06969	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1637|GSM30_01760   Uncharacterized protein YlxW   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE05935	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3435|GSM30_08280   Uncharacterized protein YjiH   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane protein	CAJ69709	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1691|GSM30_02030   Uncharacterized protein YjiH   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06026	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3189|GSM30_07115   Stage IV sporulation protein FA (SpoIVFA)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative cell wall endopeptidase	CBE01677	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1097|GSM30_15915   Transcriptional regulator, GntR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	GntR-family transcriptional regulator	CBE02888	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2217|GSM30_02525   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03468	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1378|GSM30_00470   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE05487	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1867|GSM30_17680   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE07098	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3426|GSM30_08235   Transcriptional regulator, GntR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	GntR-family transcriptional regulator	CBE06236	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2879|GSM30_05655   FIG015373: Membrane protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane protein	CAJ68544	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1245|GSM30_16740   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE06126	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.136|GSM30_11220   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative two-component sensor histidine kinase	CBE04467	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3601|GSM30_09075   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE02293	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.940|GSM30_15140   Phosphate transport system regulatory protein PhoU   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phosphate transport system protein	CBE06951	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3231|GSM30_07310   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative cyclic nucleotide-binding protein	CAJ66989	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.287|GSM30_11965   Type IV prepilin peptidase TadV/CpaA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative type IV prepilin leader peptidase	CBE07350	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2957|GSM30_06005   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	hypothetical protein	CAJ68940	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1491|GSM30_01040   D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative D-alanyl-D-alanine carboxypeptidase	CBE05687	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.447|GSM30_12765   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE04839	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2557|GSM30_04085   putative NADH dehydrogenase/NAD(P)H nitroreductase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative reductase	CBE02655	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.801|GSM30_14485   Transaldolase (EC 2.2.1.2)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phopho-sugar aldolase	CBE06637	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.50|GSM30_10815   5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative corrinoid protein	CBE04332	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.470|GSM30_12880   Efflux ABC transporter, permease protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ABC transporter, permease protein	CBE04873	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2322|GSM30_03050   Nicotinamidase (EC 3.5.1.19)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03657	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.371|GSM30_12390   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE04721	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1005|GSM30_15460   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07067	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2663|GSM30_04605   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02839	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2213|GSM30_02505   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03460	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2882|GSM30_05670   Transcriptional regulator, AcrR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	TetR-family transcriptional regulator	CBE04242	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3060|GSM30_06505   putative secreted protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative endonuclease/exonuclease/phosphatase	CBE05082	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3420|GSM30_08205   FIG033889: YebC paralog in Clostridia   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06225	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3553|GSM30_08855   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE06435	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.799|GSM30_14475   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06641	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2818|GSM30_05360   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE04139	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3708|GSM30_09595   Stage III sporulation protein AF   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative stage III sporulation protein AF	CBE03277	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.474|GSM30_12900   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE04880	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.831|GSM30_14625   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06591	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1675|GSM30_01950   Iron-sulfur flavoprotein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative iron-sulfur flavoprotein	CBE05999	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3324|GSM30_07770   Flagellar basal-body rod modification protein FlgD   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative basal-body rod modification protein	CBE01905	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.790|GSM30_14430   DNA-3-methyladenine glycosylase II (EC 3.2.2.21)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative 3-methyladenine DNA glycosylase	CBE03828	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3212|GSM30_07225   Substrate-specific component RibU of riboflavin ECF transporter   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative riboflavin transporter	CBE01716	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.131|GSM30_11195   Iron-sulfur flavoprotein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative NADPH-dependent FMN reductase	CBE04460	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1418|GSM30_00670   N-terminal of elongation factor Ts   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conserved hypothetical protein	CAJ69320	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3642|GSM30_09270   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03156	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2413|GSM30_03505   putative lipoprotein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE03814	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.142|GSM30_11250   Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative acyltransferase	CBE04477	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2412|GSM30_03500   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03812	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.466|GSM30_12860   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04866	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2499|GSM30_03795   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conserved hypothetical protein	CAJ67534	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2766|GSM30_05115   putative arylesterase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative arylesterase	CBE04057	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.246|GSM30_11765   Membrane associated protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE07279	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.407|GSM30_12570   Transcriptional regulator, AcrR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04783	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.778|GSM30_14370   Thiol:disulfide oxidoreductase related to ResA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative thioredoxin	CBE03849	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.975|GSM30_15310   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE07013	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2112|GSM30_18845   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	TetR-family transcriptional regulator	CAJ67447	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2491|GSM30_03755   Transcriptional regulator, AcrR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	TetR-family transcriptional regulator	CBE02546	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1967|GSM30_18165   Transcriptional regulator, AcrR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	TetR-family transcriptional regulator	CBE02346	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2965|GSM30_06045   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE04928	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.320|GSM30_12130   Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnH (EC 2.7.8.37)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phosphonate metabolism protein	CBE07407	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2707|GSM30_04800   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE07687	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3677|GSM30_09440   putative integrase/recombinase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative integrase/recombinase	CAJ68020	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1509|GSM30_01125   Hydrolase (HAD superfamily), YqeK   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative metal dependent phosphohydrolase	CBE05716	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1598|GSM30_01565   Transcriptional regulator, AcrR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	TetR-family trancscriptional regulator	CBE05869	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2826|GSM30_05400   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane-associated metal-dependent hydrolase	CBE04153	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.775|GSM30_14355   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE03855	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.913|GSM30_15010   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE06907	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.737|GSM30_14165   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03918	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2959|GSM30_06015   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04918	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3611|GSM30_09120   Transcriptional regulator   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02308	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1948|GSM30_18080   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane protein	CAJ69150	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3518|GSM30_08685   V-type ATP synthase subunit E (EC 3.6.3.14)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	V-type sodium ATP synthase subunit E	CBE06374	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.483|GSM30_12940   Transcriptional regulator   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcriptional regulator	CBE04894	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2449|GSM30_03545   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcriptional regulator	CBE02477	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.507|GSM30_13060   Molybdopterin-guanine dinucleotide biosynthesis protein MobB   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	molybdopterin-guanine dinucleotide biosynthesis protein B	CBE03108	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.361|GSM30_12340   Ethanolamine utilization protein similar to PduT   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ethanolamine/propanediol utilization protein	CBE04707	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3842|GSM30_10210   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ABC transporter, permease protein	CBE06761	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2484|GSM30_03720   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02535	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2302|GSM30_02950   Transcriptional regulator, AcrR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	TetR-family transcriptional regulator	CBE03622	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1410|GSM30_00630   2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative oxidoreductase subunit	CBE05547	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3109|GSM30_06745   2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative subunit of oxidoreductase	CAJ69081	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2265|GSM30_02765   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE03555	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.412|GSM30_12595   YbaK/ProX-family protein CD1969   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative regulatory protein	CBE04792	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.277|GSM30_11915   Spore cortex biosynthesis protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE07332	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3686|GSM30_09485   FIG01269488: protein, clustered with ribosomal protein L32p   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conserved hypothetical protein	CAJ68029	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1540|GSM30_01280   FIG00814129: Possible chaperone   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05769	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.297|GSM30_12015   pilin   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	pilin	CBE07368	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1459|GSM30_00880   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05631	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.324|GSM30_12150   Spore maturation protein B   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	spore maturation protein B	CBE07414	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3901|GSM30_10485   Transcriptional regulator, PadR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	PadR-family transcriptional regulator	CBE06860	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.254|GSM30_11805   ATP synthase F0 sector subunit b (EC 3.6.3.14)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ATP synthase B chain	CBE07293	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.340|GSM30_12235   Transcriptional regulator, Xre family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phage repressor	CBE04666	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.714|GSM30_14050   Phage protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phage-related protein	CBE03960	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1377|GSM30_00465   DNA polymerase III polC-type (EC 2.7.7.7)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative DNA polymerase III, epsilon chain	CBE05485	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1794|GSM30_17320   Antirestriction protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conjugative tranposon protein	CBE07571	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3386|GSM30_08070   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE02003	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2451|GSM30_03555   Holin   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative cell wall hydrolase protein	CBE02481	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1793|GSM30_17315   FIG00512738: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conjugative transposon protein	CBE07569	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3356|GSM30_07930   PTS system, mannose-specific IIB component (EC 2.7.1.191)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	PTS system, IIb component	CBE01959	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2181|GSM30_02345   Putative regulatory protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative regulatory protein	CBE03403	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1915|GSM30_17920   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative pilin protein	CBE05320	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2771|GSM30_05140   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04066	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.172|GSM30_11405   Aminoacyl-tRNA editing enzyme ProX   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative regulatory protein	CBE04652	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1821|GSM30_17455   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02078	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3845|GSM30_10225   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE06767	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3900|GSM30_10480   Transcriptional regulator, MarR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	MarR-family transcriptional regulator	CBE06858	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2026|GSM30_18430   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02445	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3657|GSM30_09340   Rod shape-determining protein MreD   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03182	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.580|GSM30_13390   Phage protein (ACLAME 742)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative phage protein	CAJ67774	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.857|GSM30_14755   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06549	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.438|GSM30_12725   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04830	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3414|GSM30_08180   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06216	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1585|GSM30_01505   Uncharacterized protein YteA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative general stress protein	CBE05848	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1043|GSM30_15645   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE02979	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1373|GSM30_00450   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein precursor	CBE05479	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1865|GSM30_17670   Transcriptional regulator, AraC family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	AraC-family transcriptional regulator	CAJ70251	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3361|GSM30_07955   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE01968	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2969|GSM30_06065   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE04936	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1548|GSM30_01320   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05781	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3580|GSM30_08970   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE02255	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1254|GSM30_16785   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE06142	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.486|GSM30_12955   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE04898	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.858|GSM30_14760   PTS system, glucose-specific IIA component (EC 2.7.1.199)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	PTS system, IIa component	CBE06547	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1677|GSM30_01960   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06003	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1183|GSM30_16340   PTS system, galactitol-specific IIA component (EC 2.7.1.200)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	PTS system, IIa component	CBE01515	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2089|GSM30_18735   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02146	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.87|GSM30_10980   putative lipoprotein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE04386	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.75|GSM30_10935   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04371	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1678|GSM30_01965   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE06004	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.247|GSM30_11770   CBS domain protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE07281	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.336|GSM30_12215   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04658	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2296|GSM30_02920   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03611	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2895|GSM30_05735   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04266	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.382|GSM30_12445   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane protein	CAJ68815	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1475|GSM30_00965   PTS system, IIA component   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	pts system, IIa component	CBE05660	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3273|GSM30_07515   PTS system, fructose-specific IIA component (EC 2.7.1.202)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	PTS system, IIa component	CBE01816	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2252|GSM30_02700   Transcriptional regulator, MarR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	MarR-family transcriptional regulator	CBE03531	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1551|GSM30_01335   PTS system, IIA component   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	PTS system, IIa component	CAJ69455	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1777|GSM30_17235   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conserved hypothetical protein	CAJ70520	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3322|GSM30_07760   Flagellar protein FliJ   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	flagellar protein	CBE01901	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1070|GSM30_15780   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane protein	CAJ67829	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2283|GSM30_02855   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03588	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2389|GSM30_03385   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03773	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2030|GSM30_18445   IAA acetyltransferase (EC 2.3.1.-)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative acetyltransferase	CBE02439	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3329|GSM30_07795   Flagellar basal body-associated protein FliL   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	flagellar basal body-associated protein	CBE01914	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3385|GSM30_08065   Chaperone protein DnaJ   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative 'four-disulfide core' protein	CBE02002	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3631|GSM30_09215   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03140	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2280|GSM30_02840   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03583	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2316|GSM30_03020   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03646	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.151|GSM30_11295   Transcriptional regulator MarR   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	MarR-family transcriptional regulator	CBE04493	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.976|GSM30_15315   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE07015	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2279|GSM30_02835   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03581	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2215|GSM30_02515   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	MarR-family transcriptional regulator	CBE03464	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.625|GSM30_13615   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative uncharacterized protein	CBE03077	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2109|GSM30_18830   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcriptional regulator	CBE02407	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.995|GSM30_15410   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE07049	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.321|GSM30_12135   Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnG (EC 2.7.8.37)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phosphonate metabolism protein	CBE07409	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3068|GSM30_06545   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE05094	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1350|GSM30_00340   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE05444	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2053|GSM30_18560   Transcriptional regulator, MarR family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	MarR-family transcriptional regulator	CBE02186	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.630|GSM30_13640   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE03068	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2286|GSM30_02870   Phage-like element PBSX protein xkdP   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phage protein	CBE03594	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2297|GSM30_02925   putative phage regulatory protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phage regulatory protein	CBE03613	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.239|GSM30_11730   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative exported protein	CAJ70360	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3297|GSM30_07635   Flagellar biosynthesis protein FlgN   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative flagellar biosynthesis protein	CBE01859	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3600|GSM30_09070   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE02291	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2025|GSM30_18425   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE02446	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2881|GSM30_05665   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative FMN-binding exported protein	CBE04240	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.467|GSM30_12865   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04867	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3760|GSM30_09835   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE06659	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3357|GSM30_07935   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative PTS system, IIa component	CBE01961	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1222|GSM30_16625   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06086	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.137|GSM30_11225   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative two-component system response regulator	CBE04468	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1250|GSM30_16765   Rrf2 family transcriptional regulator   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE06135	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1170|GSM30_16275   Mini-ribonuclease III   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE01536	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3351|GSM30_07905   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE01950	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2630|GSM30_04440   Transcriptional regulator, Fur family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative oxidative stress regulatory protein	CBE02780	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1686|GSM30_02005   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06017	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2631|GSM30_04445   Superoxide reductase (EC 1.15.1.2)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	rubredoxin oxidoreductase (desulfoferrodoxin)	CBE02782	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3706|GSM30_09585   Stage III sporulation protein AD   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	stage III sporulation protein AD	CBE03274	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.257|GSM30_11820   ATP synthase protein I   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ATP synthase protein I	CBE07299	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.174|GSM30_11415   general stress protein, putative   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE04655	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2146|GSM30_02180   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE03348	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2756|GSM30_05065   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE07601	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2448|GSM30_03540   Transcriptional regulator, MecI family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative regulatory protein	CBE02476	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.111|GSM30_11095   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE04426	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3411|GSM30_08165   FIG00514125: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06211	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1775|GSM30_17225   Glyoxalase/bleomycin resistance family metalloprotein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative glyoxalase	CBE07546	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1917|GSM30_17925   Transcriptional regulator, MecI family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative regulatory protein	CBE05318	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3330|GSM30_07800   Flagellar biosynthesis protein FliO   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative flagellar protein	CBE01916	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2546|GSM30_04035   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE02639	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2912|GSM30_05820   CoA-binding   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04295	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1469|GSM30_00935   putative lipoprotein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative lipoprotein	CAJ69369	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3675|GSM30_09430   RNA-binding protein YhbY   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03218	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2893|GSM30_05725   transcriptional regulator, ArsR family/dinitrogenase iron-molybdenum cofactor family protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ArsR-family transcriptional regulator	CBE04263	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.175|GSM30_11420   putative lipoprotein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lipoprotein	CBE04657	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2568|GSM30_04140   PTS system, glucitol/sorbitol-specific IIA component (EC 2.7.1.198)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	PTS system, glucitol/sorbitol-specific IIa component	CBE02674	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.973|GSM30_15300   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07009	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1398|GSM30_00570   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05525	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.978|GSM30_15325   Type IV pilin PilA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative type IV pilin	CBE07018	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3159|GSM30_06990   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE05247	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2649|GSM30_04535   putative nuclease   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative nuclease	CBE02813	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3104|GSM30_06720   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE05156	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1084|GSM30_15850   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02905	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1912|GSM30_17905   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein precursor	CBE05324	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.114|GSM30_11110   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04431	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.169|GSM30_11390   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04646	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1646|GSM30_01805   Cell division protein FtsL   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane protein	CAJ69543	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2612|GSM30_04355   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02749	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1836|GSM30_17530   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02051	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.432|GSM30_12695   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE04821	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3128|GSM30_06840   Helix-turn-helix motif   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative regulatory protein	CBE05194	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1485|GSM30_01015   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE05678	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3305|GSM30_07675   FIG00514474: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE01874	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1599|GSM30_01570   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE05871	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2666|GSM30_04620   PTS system, cellobiose-specific IIA component (EC 2.7.1.205)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	PTS system, IIa component	CBE02844	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2288|GSM30_02880   Phage protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03597	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1921|GSM30_17945   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE05310	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.386|GSM30_12465   HesB-like domain   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04746	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1708|GSM30_02115   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE06057	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3315|GSM30_07725   Flagellar basal-body rod protein FlgB   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	flagellar basal-body rod protein	CBE01890	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3317|GSM30_07735   Flagellar hook-basal body complex protein FliE   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	flagellar hook-basal body complex protein	CBE01893	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3072|GSM30_06565   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE05102	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3129|GSM30_06845   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative regulatory protein	CBE05196	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.972|GSM30_15295   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07007	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3295|GSM30_07625   Flagellar motor switch protein FliN   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	flagellar motor switch protein	CBE01855	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3830|GSM30_10145   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE06740	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2642|GSM30_04500   Putative DNA-binding protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative DNA-binding protein	CBE02801	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3001|GSM30_06225   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04991	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3521|GSM30_08700   V-type ATP synthase subunit H (EC 3.6.3.14)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conserved hypothetical protein	CAJ69854	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1351|GSM30_00345   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05445	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3428|GSM30_08245   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE06240	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2721|GSM30_04870   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07665	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2617|GSM30_04380   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative PTS system, IIb component	CBE02759	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3016|GSM30_06300   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE05015	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3412|GSM30_08170   Protein translocase subunit YajC   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative protein translocase subunit	CBE06213	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2948|GSM30_05960   Streptococcal pyrogenic exotoxin K (SpeK)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04901	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.424|GSM30_12655   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04811	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1975|GSM30_18200   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02356	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.37|GSM30_10750   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative transcriptional regulator	CBE04314	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.276|GSM30_11910   Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative septum formation protein	CBE07330	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.41|GSM30_10770   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04321	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1712|GSM30_16920   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07436	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3296|GSM30_07630   Negative regulator of flagellin synthesis FlgM (anti-sigma28)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	negative regulator of flagellin synthesis (anti-sigma-d factor)	CBE01857	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2041|GSM30_18500   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phage positive regulator of late transcription	CBE02420	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1316|GSM30_00170   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05386	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3522|GSM30_08705   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE06380	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2966|GSM30_06050   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04930	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.42|GSM30_10775   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE04323	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1573|GSM30_01445   DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	DNA-directed RNA polymerase omega chain	CBE05826	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.118|GSM30_11130   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE04438	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1247|GSM30_16750   Phosphotransferase system, phosphocarrier protein HPr   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	PTS system, phosphocarrier protein	CBE06130	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2295|GSM30_02915   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE03609	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.249|GSM30_11780   ATP synthase epsilon chain (EC 3.6.3.14)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	ATP synthase epsilon chain	CBE07284	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2056|GSM30_18575   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02191	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2103|GSM30_18805   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phage-related regulatory protein	CBE02414	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.460|GSM30_12830   Phage protein (ACLAME 993)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04856	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.278|GSM30_11920   FIG007421: forespore shell protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE07334	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1829|GSM30_17495   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02064	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2143|GSM30_02165   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03346	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1455|GSM30_00860   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative exported protein	CBE05624	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2456|GSM30_03580   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02486	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.117|GSM30_11125   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04437	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1427|GSM30_00720   FIG00512905: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE05576	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2347|GSM30_03175   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03697	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.718|GSM30_14070   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03949	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.258|GSM30_11825   ATP synthase protein I   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative ATP synthase protein	CBE07300	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1988|GSM30_18260   Protein CotJA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE02372	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2105|GSM30_18815   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02410	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.492|GSM30_12985   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03133	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.955|GSM30_15210   Spo0E family sporulation regulatory protein-aspartic acid phosphatase   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE06976	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1382|GSM30_00490   Protein CotJA   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE05494	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.738|GSM30_14170   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03917	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.339|GSM30_12230   Phage protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04664	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3352|GSM30_07910   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE01952	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.629|GSM30_13635   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE03070	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2426|GSM30_19045   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02123	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3042|GSM30_06415   Transcriptional regulator, Xre family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative regulatory protein	CBE05049	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3047|GSM30_06440   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE05059	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.627|GSM30_13625   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03074	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2206|GSM30_02470   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative small acid-soluble spore protein	CBE03448	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1918   Transcriptional regulator, MecI family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative repressor	CBE05316	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1344|GSM30_00310   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE05433	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3527|GSM30_08730   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative membrane protein	CBE06389	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1774|GSM30_17220   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07544	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2278|GSM30_02830   Transcriptional regulator, Xre family   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative phage regulatory protein	CBE03579	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1413|GSM30_00645   2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, delta subunit, ferredoxin-like 4Fe-4S binding protein (EC 1.2.7.-)   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative oxidoreductase ferredoxin subunit	CBE05551	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2153|GSM30_02215   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative phage-related DNA-directed RNA polymerase 7 kDa polypeptide	CAJ68096	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1085|GSM30_15855   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative membrane protein	CAJ67729	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.344|GSM30_12255   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04676	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.628|GSM30_13630   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03072	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2113|GSM30_18850   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	conserved hypothetical protein	CBE02400	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2348|GSM30_03180   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03699	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1284|GSM30_00015   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	hypothetical protein	CAJ69196	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1000|GSM30_15435   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07058	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2284|GSM30_02860   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03590	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.445|GSM30_12755   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04836	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.554|GSM30_13265   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical phage protein	CBE04008	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1732|GSM30_17020   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE07472	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.156|GSM30_11320   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE04501	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3745|GSM30_09780   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	hypothetical protein	CAJ68088	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1242|GSM30_16725   cyclic lactone autoinducer peptide   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	autoinducer prepeptide	CBE06121	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.1012|GSM30_15495   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	autoinducer prepeptide	CBE07078	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2218|GSM30_02530   FIG00516843: hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03469	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.3175|GSM30_07045   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE01653	Yes	100.0
+
+#input_seq:	fig|1496.5104.peg.2232|GSM30_02600   hypothetical protein   [Clostridioides difficile strain TMD0138 | 1496.5104]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	hypothetical protein	CBE03495	Yes	100.0
+

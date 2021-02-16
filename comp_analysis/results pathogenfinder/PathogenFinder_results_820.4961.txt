@@ -1,0 +1,206 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_144448_088495_input.fsa
+Sequences ::	 4684
+Total bpp ::	 1537271
+Longest seq ::	 5391
+Shortest seq ::	 1
+Avg seq lenght ::	 328.0
+
+RESULTS:
+Min Identity Threshold ::	93.674
+Z-THRESHOLD ::	3.0
+Prediction Score ::	168.224
+Probability of being human pathogen ::	0.835
+Matches::	62
+Genome Coverage (%) ::	1.32
+Pathogenic Families Matched ::	62
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|820.4961.peg.3870|HUV07_10855   Putative DNA methylase   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	putative DNA methylase	BAD46891	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.502|HUV07_15595   Outer membrane TonB-dependent transporter, utilization system for glycans and polysaccharides (PUL), SusC family   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	putative outer membrane protein, probably involved in nutrient binding	ABR41117	Yes	99.89
+
+#input_seq:	fig|820.4961.peg.999|HUV07_17160   Tyrosine-protein kinase (EC 2.7.10.2)   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	putative tyrosine protein kinase	ABR44945	Yes	95.9
+
+#input_seq:	fig|820.4961.peg.501|HUV07_15590   Cell surface glycan-binding lipoprotein, utilization system for glycans and polysaccharides (PUL), SusD family   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	putative outer membrane protein, probably involved in nutrient binding	ABR41118	Yes	99.81
+
+#input_seq:	fig|820.4961.peg.4177|HUV07_11995   Mobile element protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	transposase	ABR40825	Yes	99.81
+
+#input_seq:	fig|820.4961.peg.2945|HUV07_07865   Conjugative transposon protein TraM   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraM	BAD46866	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.2933|HUV07_07805   FIG00897206: hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	hypothetical protein	BAD46856	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.1259|HUV07_17975   CTnDOT two-component system response regulator and RteC activator, RteB   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	rteB gene product	BAD46887	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.599|HUV07_03490   RteB, two-component system response regulator   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	putative two-component system response regulator	ABR38387	Yes	98.83
+
+#input_seq:	fig|820.4961.peg.578|HUV07_03400   Conjugative transposon protein TraM   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR39256	Yes	97.47
+
+#input_seq:	fig|820.4961.peg.3170|HUV07_21660   Transposase   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	transposase	ABR43974	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.3268   Transposase   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	transposase	ABR44970	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.4170|HUV07_11965   Putative conjugative transposon mobilization protein BF0132   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD46881	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.593|HUV07_03465   Putative conjugative transposon mobilization protein BF0132   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	putative mobilization protein	ABR38384	Yes	95.82
+
+#input_seq:	fig|820.4961.peg.2475|HUV07_06505   Mobile element protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	transposase	ABR39286	Yes	99.27
+
+#input_seq:	fig|820.4961.peg.3879|HUV07_10900   Integrase => IntDOT   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	tyrosine type site-specific recombinase	BAD46901	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.316|HUV07_14925   Mobile element protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	integrase	ABR39214	Yes	96.07
+
+#input_seq:	fig|820.4961.peg.994|HUV07_17140   Transposase   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	transposase	ABR43960	Yes	99.5
+
+#input_seq:	fig|820.4961.peg.573|HUV07_03375   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR39261	Yes	98.96
+
+#input_seq:	fig|820.4961.peg.556|HUV07_03290   LtrC-like protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR39277	Yes	99.74
+
+#input_seq:	fig|820.4961.peg.997|HUV07_17150   Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	putative LPS biosynthesis related glycosyltransferase	ABR44947	Yes	99.2
+
+#input_seq:	fig|820.4961.peg.2622|HUV07_21010   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR40814	Yes	98.53
+
+#input_seq:	fig|820.4961.peg.562|HUV07_03325   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	hypothetical protein	ABR39271	Yes	94.69
+
+#input_seq:	fig|820.4961.peg.2944|HUV07_07860   Conjugative transposon protein TraN   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraN	BAD46865	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.1266|HUV07_18010   DNA primase, TraP-type   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	DNA primase	ABR39127	Yes	95.28
+
+#input_seq:	fig|820.4961.peg.2957   Mobilization protein BmgA   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	mobilization protein BmgA	ABR43962	Yes	95.24
+
+#input_seq:	fig|820.4961.peg.3227   Mobilization protein BmgA   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	mobilization protein BmgA	ABR44952	Yes	95.24
+
+#input_seq:	fig|820.4961.peg.577|HUV07_03395   Conjugative transposon protein TraN   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR39257	Yes	98.36
+
+#input_seq:	fig|820.4961.peg.2942|HUV07_07850   DNA primase, TraP-type   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraP	BAD46863	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.4065   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	hypothetical protein	CAH07438	Yes	97.93
+
+#input_seq:	fig|820.4961.peg.557|HUV07_03295   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR45545	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.1440|HUV07_18220   DNA primase, TraP-type   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	DNA primase	ABR45585	Yes	95.47
+
+#input_seq:	fig|820.4961.peg.572|HUV07_03370   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR39262	Yes	97.95
+
+#input_seq:	fig|820.4961.peg.2761|HUV07_21175   MTH1175-like domain family protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR40819	Yes	98.9
+
+#input_seq:	fig|820.4961.peg.569|HUV07_03355   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR45557	Yes	96.27
+
+#input_seq:	fig|820.4961.peg.589|HUV07_03455   Conjugative transposon protein TraA   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR39245	Yes	99.62
+
+#input_seq:	fig|820.4961.peg.570|HUV07_03360   Type I restriction enzyme, M subunit   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	type I restriction enzyme, M subunit	ABR39264	Yes	98.43
+
+#input_seq:	fig|820.4961.peg.564|HUV07_03335   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	hypothetical protein	ABR39269	Yes	96.2
+
+#input_seq:	fig|820.4961.peg.563|HUV07_03330   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	hypothetical protein	ABR45551	Yes	96.57
+
+#input_seq:	fig|820.4961.peg.2943|HUV07_07855   Conjugative transposon protein TraO   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraO	BAD46864	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.2941|HUV07_07845   Conjugative transposon protein TraQ   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraQ	BAD46862	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.559|HUV07_03305   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR45547	Yes	98.79
+
+#input_seq:	fig|820.4961.peg.574|HUV07_03380   Lysozyme (EC 3.2.1.17)   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	glycoside hydrolase family 24	ABR39260	Yes	97.48
+
+#input_seq:	fig|820.4961.peg.1043|HUV07_17385   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD49696	Yes	94.81
+
+#input_seq:	fig|820.4961.peg.575|HUV07_03385   Conjugative transposon protein TraQ   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR39259	Yes	98.69
+
+#input_seq:	fig|820.4961.peg.3125|HUV07_21595   Transcriptional regulator, MarR family   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	putative MarR-family regulatory protein	CAH09314	Yes	93.92
+
+#input_seq:	fig|820.4961.peg.2932|HUV07_07800   FIG00899057: hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	hypothetical protein	BAD46855	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.553|HUV07_03280   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	hypothetical protein	ABR45542	Yes	99.26
+
+#input_seq:	fig|820.4961.peg.2950|HUV07_07890   Conjugative transposon protein TraH   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraH	BAD46871	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.2760   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	hypothetical protein	ABR40818	Yes	96.26
+
+#input_seq:	fig|820.4961.peg.3878|HUV07_10895   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD46900	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.583|HUV07_03425   Conjugative transposon protein TraH   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR39251	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.3874|HUV07_10875   FIG00938987: hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD46895	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.2952|HUV07_07900   Conjugative transposon protein TraF   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraF	BAD46873	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.2418|HUV07_20625   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR44964	Yes	99.04
+
+#input_seq:	fig|820.4961.peg.585|HUV07_03435   Conjugative transposon protein TraF   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR39249	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.2953|HUV07_07905   Conjugative transposon protein TraE   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraE	BAD46874	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.3130|HUV07_21620   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR43966	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.586|HUV07_03440   Conjugative transposon protein TraE   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR39248	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.566|HUV07_03345   hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR39267	Yes	98.96
+
+#input_seq:	fig|820.4961.peg.2934|HUV07_07810   FIG00938992: hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD46857	Yes	100.0
+
+#input_seq:	fig|820.4961.peg.3318|HUV07_01115   FIG00935798: hypothetical protein   [Bacteroides uniformis strain A23 | 820.4961]
+#matched_seq:	19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAG34197	Yes	98.63
+

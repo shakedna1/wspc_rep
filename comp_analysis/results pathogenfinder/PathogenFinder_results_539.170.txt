@@ -1,0 +1,50 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_03_02_2021_172658_341802_input.fsa
+Sequences ::	 2587
+Total bpp ::	 640398
+Longest seq ::	 2653
+Shortest seq ::	 22
+Avg seq lenght ::	 247.0
+
+RESULTS:
+Min Identity Threshold ::	86.963
+Z-THRESHOLD ::	3.0
+Prediction Score ::	34.94
+Probability of being human pathogen ::	0.889
+Matches::	10
+Genome Coverage (%) ::	0.39
+Pathogenic Families Matched ::	10
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|539.170.peg.1564   Methionyl-tRNA synthetase (EC 6.1.1.10)   [Eikenella corrodens strain EI_09 | 539.170]
+#matched_seq:	16393	CP000381	Neisseria meningitidis 053442, complete genome.	Betaproteobacteria	methionyl-tRNA synthetase	ABX72261	Yes	94.78
+
+#input_seq:	fig|539.170.peg.1503   Cysteinyl-tRNA synthetase (EC 6.1.1.16)   [Eikenella corrodens strain EI_09 | 539.170]
+#matched_seq:	16393	CP000381	Neisseria meningitidis 053442, complete genome.	Betaproteobacteria	cysteinyl-tRNA synthetase	ABX72324	Yes	89.22
+
+#input_seq:	fig|539.170.peg.2409   ATP-dependent helicase HrpA   [Eikenella corrodens strain EI_09 | 539.170]
+#matched_seq:	29335	CP001050	Neisseria gonorrhoeae NCCP11945, complete genome.	Betaproteobacteria	ATP-dependent DNA helicase	ACF30601	Yes	95.69
+
+#input_seq:	fig|539.170.peg.278   Mobile element protein   [Eikenella corrodens strain EI_09 | 539.170]
+#matched_seq:	255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Betaproteobacteria	Putative transposase for IS1106A3	CAM10165	Yes	94.51
+
+#input_seq:	fig|539.170.peg.2464   FIG00640418: hypothetical protein   [Eikenella corrodens strain EI_09 | 539.170]
+#matched_seq:	16393	CP000381	Neisseria meningitidis 053442, complete genome.	Betaproteobacteria	conserved hypothetical protein	ABX73087	Yes	87.5
+
+#input_seq:	fig|539.170.peg.1603   Mobile element protein   [Eikenella corrodens strain EI_09 | 539.170]
+#matched_seq:	255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Betaproteobacteria	Insertion element IS1016 transposase	CAM11110	Yes	92.17
+
+#input_seq:	fig|539.170.peg.2410   Mobile element protein   [Eikenella corrodens strain EI_09 | 539.170]
+#matched_seq:	34687	FM999788	Neisseria meningitidis 8013, complete genome.	Betaproteobacteria	IS1016 group transposase	CAX49290	Yes	93.09
+
+#input_seq:	fig|539.170.peg.475   LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent   [Eikenella corrodens strain EI_09 | 539.170]
+#matched_seq:	13946	CP000548	Burkholderia mallei NCTC 10247 chromosome I, complete sequence.	Betaproteobacteria	50S ribosomal protein L28	ABO05945	Yes	92.21
+
+#input_seq:	fig|539.170.peg.1477   LSU ribosomal protein L35p   [Eikenella corrodens strain EI_09 | 539.170]
+#matched_seq:	16393	CP000381	Neisseria meningitidis 053442, complete genome.	Betaproteobacteria	50S ribosomal protein L35	ABX72877	Yes	92.31
+
+#input_seq:	fig|539.170.peg.2466   hypothetical protein   [Eikenella corrodens strain EI_09 | 539.170]
+#matched_seq:	34687	FM999788	Neisseria meningitidis 8013, complete genome.	Betaproteobacteria	conserved hypothetical protein	CAX50262	Yes	96.72
+

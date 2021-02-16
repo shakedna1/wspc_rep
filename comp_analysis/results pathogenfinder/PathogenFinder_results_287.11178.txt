@@ -1,0 +1,1400 @@
+INPUT SEQUENCE INFO:
+Input Name ::	0_06_12_2020_153052_138775_input.fsa
+Sequences ::	 6887
+Total bpp ::	 2110308
+Longest seq ::	 4555
+Shortest seq ::	 23
+Avg seq lenght ::	 306.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	1508.615
+Probability of being human pathogen ::	0.883
+Matches::	460
+Genome Coverage (%) ::	6.68
+Pathogenic Families Matched ::	460
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|287.11178.peg.501   Putative large exoprotein involved in heme utilization or adhesion of ShlA/HecA/FhaA family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ11642	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.506   Pyoverdine sidechain non-ribosomal peptide synthetase PvdJ   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable non-ribosomal peptide synthetase	AAG05790	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5   Putative large exoprotein involved in heme utilization or adhesion of ShlA/HecA/FhaA family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable hemagglutinin	CAW24768	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6662   Putative large exoprotein involved in heme utilization or adhesion of ShlA/HecA/FhaA family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	putative hemagglutinin	ABJ14998	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2773|HPR85_24770   Pyoverdine sidechain non-ribosomal peptide synthetase PvdD @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	pyoverdine synthetase D	AAG05787	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2300|HPR85_22435   Transcriptional regulator   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable transcriptional regulator	AAG05148	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4525|HPR85_30130   VgrG protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	conserved hypothetical protein	CAW28645	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5495|HPR85_07175   Sensory box/GGDEF family protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29226	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1490|HPR85_20335   FIG027190: Putative transmembrane protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG03649	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2047|HPR85_00825   Arachidonate 15-lipoxygenase precursor (EC 1.13.11.33)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable lipoxygenase	CAW28907	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2212|HPR85_01640   Putative protease   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable protease	CAW28581	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3367|HPR85_02810   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative carboxypeptidase	CAW26734	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5776|HPR85_08250   Transglutaminase-like enzymes, putative cysteine proteases   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05432	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3865|HPR85_28465   Nitrate/nitrite sensor protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	two-component sensor NarX	CAW25827	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.310|HPR85_14710   Gliding motility-associated ABC transporter substrate-binding protein GldG   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	possible ABC transporter component	CAW25664	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6756|HPR85_12570   AmpG permease   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable permease	CAW29526	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.410|HPR85_15195   Type cbb3 cytochrome oxidase biogenesis protein CcoG, involved in Cu oxidation   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable iron-sulfur protein	CAW25567	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1842|HPR85_22045   FOG: CheY-like receiver   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	pilin biosynthetic protein	CAW28232	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4739|HPR85_31155   Putative transmembrane protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	TadG	AAG07685	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4064|HPR85_29415   putative secreted protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG03439	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4189|HPR85_03805   probable chemotaxis transducer   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable chemotaxis transducer	CAW30055	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2902|HPR85_25390   Putative helicase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable helicase	AAG04794	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6694|HPR85_12255   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG07720	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1489|HPR85_20330   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG03648	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3405|HPR85_02995   ATPase involved in DNA repair   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26697	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2398|HPR85_22910   Sensory histidine kinase QseC   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	PmrB: two-component regulator system signal sensor kinase PmrB	CAW29916	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1966|HPR85_00440   Flagellar cap protein FliD   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	flagellar capping protein FliD	CAW28982	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5864|HPR85_08660   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	fimbrial subunit CupA4	AAG05519	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2561|HPR85_23730   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative periplasmic transport protein	CAW25853	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5141|HPR85_06550   Putative cytochrome P450 hydroxylase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable cytochrome P450	CAW27548	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5401|HPR85_06695   O-antigen chain length determinant protein WzzB   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29133	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.172|HPR85_14090   Broad-substrate range phospholipase C (EC 3.1.4.3)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06852	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1959|HPR85_00405   Flagellar hook-associated protein FlgL   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	flagellar hook-associated protein type 3 FlgL	CAW28989	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3088|HPR85_26290   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	pseudaminidase	AAG06182	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5572|HPR85_07555   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29284	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4272|HPR85_04225   Acyl-CoA dehydrogenase (EC 1.3.8.1), Mycobacterial subgroup FadE24   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable acyl-CoA dehydrogenase	AAG08380	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1782|HPR85_21770   Type I secretion system, outer membrane component LapE   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable outer membrane protein precursor	CAW28175	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1762|HPR85_21670   Fatty acid desaturase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28156	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.421|HPR85_15250   HlyD family secretion protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable secretion protein	AAG07529	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5571|HPR85_07550   probable class-V aminotransferase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29283	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5797|HPR85_08345   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27985	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1809|HPR85_21895   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05240	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.475|HPR85_15520   probable FAD-dependent monooxygenase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable FAD-dependent monooxygenase	CAW25464	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1979|HPR85_00505   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	conserved hypothetical protein	CAW28969	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2696|HPR85_24395   Two-component system response regulator protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	RocR	CAW25756	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2354|HPR85_22690   Type III secretion host injection protein (YopB)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	translocator protein PopB	AAG05097	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1408|HPR85_19960   Methyl-accepting chemotaxis transducer domain protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable chemotaxis transducer	CAW24908	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1113|HPR85_18510   Sensory box/GGDEF family protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative two-component response regulator	CAW26449	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1761|HPR85_21665   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28155	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5802|HPR85_08370   Uncharacterized MFS-type transporter   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable major facilitator superfamily (MFS) transporter	CAW27981	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4831|HPR85_05040   PQS biosynthesis protein PqsH, similar to FAD-dependent monooxygenases   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable FAD-dependent monooxygenase	CAW27327	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1887|HPR85_00060   acetyl-CoA acetyltransferase-like protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable acyl-CoA dehydrogenase	CAW29059	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4161|HPR85_03675   Flavodoxin reductases (ferredoxin-NADPH reductases) family 1   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable oxidoreductase	AAG08274	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6759|HPR85_12585   Two-component system response regulator protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable two-component response regulator	CAW29529	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1205|HPR85_18960   Type II secretory pathway, component PulK   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06059	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5985|HPR85_09245   Pellicle/biofilm biosynthesis inner membrane protein PslL, acetyltransferase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05630	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6495|HPR85_11355   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25274	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2671|HPR85_24270   Transcriptional regulator   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW25029	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.516|HPR85_15675   RTX toxins and related Ca2+-binding proteins   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29822	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2625|HPR85_24045   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG03738	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.207|HPR85_14260   3-oxoacyl-[acyl-carrier-protein] synthase (EC 2.3.1.41)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06907	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.570|HPR85_15955   NAD-dependent, hopanoid-associated epimerase/dehydratase family acting on nucleotide-sugars   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative epimerase	CAW29770	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.517|HPR85_15680   Large exoproteins involved in heme utilization or adhesion   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29821	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5553|HPR85_07455   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	transcriptional regulator OruR	CAW29267	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5966|HPR85_09150   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05611	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5487|HPR85_07135   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ10014	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2288|HPR85_22375   Esterase/lipase/thioesterase family protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	EstX	AAG05160	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.311|HPR85_14715   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG07427	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6181|HPR85_09930   Periplasmic component of the Tol biopolymer transport system   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative TolB-like translocation protein	CAW26144	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6440|HPR85_11095   probable exported protein YPO4040   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25221	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1082|HPR85_18360   ABC transporter, substrate-binding protein (cluster 12, methionine/phosphonates)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative ABC-type phosphate/phosphonate transport system, periplasmic component	CAW26480	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.494|HPR85_15615   Phenazine-specific methyltransferase PhzM   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable phenazine-specific methyltransferase	CAW25445	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3412|HPR85_03040   General secretion pathway protein K   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	general secretion pathway protein K	AAG06485	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1879|HPR85_00020   Glycosyl transferase, family 2   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable glycosyl transferase	AAG04403	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.206|HPR85_14255   3-oxoacyl-[acyl-carrier-protein] synthase (EC 2.3.1.41)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26243	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2469|HPR85_23275   Heme ABC transporter, permease protein HmuU   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable permease of ABC transporter	CAW29846	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2185|HPR85_01510   Iron siderophore sensor protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable transmembrane sensor	AAG04690	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4312|HPR85_04415   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW30177	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5970|HPR85_09170   Transcriptional regulator, AraC family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	AraC-type transcriptional regulator VqsM	AAG05615	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3119|HPR85_26440   Enoyl-CoA hydratase (EC 4.2.1.17)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable enoyl-CoA hydratase/isomerase	CAW27036	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6800|HPR85_12795   FIG140336: TPR domain protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ13705	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5700|HPR85_08190   Sigma factor regulator VreR (cytoplasmic membrane-localized) of trans-envelope signaling system   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transmembrane sensor	CAW29407	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3107|HPR85_26375   Inner membrane protein YfdC   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative transporter, formate/nitrite transporter family	CAW27024	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5569|HPR85_07540   Transcriptional regulator, LysR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW29281	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5555|HPR85_07465   Hydrolase, alpha/beta fold family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable hydrolase	CAW29269	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1485|HPR85_20320   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24980	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5602|HPR85_07700   Transcriptional regulator, LysR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW29313	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6433|HPR85_11060   Transcriptional regulator, LysR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable transcriptional regulator	AAG03880	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1566|HPR85_20710   Muramoyltetrapeptide carboxypeptidase (EC 3.4.17.13)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	LD-carboxypeptidase	AAG08583	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2688|HPR85_24355   Acyl-CoA dehydrogenases   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25764	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1188|HPR85_18880   Two-component response regulator PfeR, enterobactin   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	two-component response regulator PfeR	CAW27145	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4043|HPR85_29310   Autotransporter adhesin   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24798	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1100|HPR85_18445   Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable short chain dehydrogenase	CAW26462	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1091|HPR85_18400   Transcriptional regulator, LysR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW26471	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5142|HPR85_06555   Protein involved in meta-pathway of phenol degradation   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05862	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4731|HPR85_31115   Flp pilus assembly protein RcpC/CpaB   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	RcpC	AAG07693	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1681|HPR85_21275   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28450	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6731|HPR85_12440   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29501	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6799|HPR85_12790   Transcriptional regulator containing an amidase domain and an AraC-type DNA-binding HTH domain   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW29569	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2745|HPR85_24635   Transcriptional regulator, LysR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable transcriptional regulator	AAG07382	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.298|HPR85_14650   ABC-type amino acid transport/signal transduction system, periplasmic component/domain   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG07414	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1095|HPR85_18420   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative hydrolase	CAW26467	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5944|HPR85_09040   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27851	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2356|HPR85_22700   Type III secretion cytoplasmic LcrG inhibitor (LcrV,secretion and targeting control protein, V antigen)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	type III secretion protein PcrV	CAW28348	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1417|HPR85_20000   Auxin efflux carrier family protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24916	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1917|HPR85_00205   Putative outer membrane protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable outer membrane protein precursor	CAW29030	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5735|HPR85_32825   ABC-type amino acid transport/signal transduction system, periplasmic component/domain   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative ABC-type amino acid transporter	CAW30418	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5557|HPR85_07475   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29271	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4367|HPR85_04690   FOG: TPR repeat, SEL1 subfamily   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW30232	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3682|HPR85_27550   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27580	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2400|HPR85_22920   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29914	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6411|HPR85_10950   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25192	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5866|HPR85_08670   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative EAL domain protein	CAW27921	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3025|HPR85_25990   FIG028883: Permeases of the drug/metabolite transporter (DMT) superfamily   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative membrane protein	CAW29973	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4605   Transcriptional regulator, AcrR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28516	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2251|HPR85_01825   Iron siderophore sensor protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transmembrane sensor	CAW28544	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4607|HPR85_30530   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative hydrolase	CAW28513	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2348|HPR85_22660   Type III secretion negative regulator (LscZ)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	ExsD	CAW28342	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.655|HPR85_16370   Type IV fimbrial biogenesis protein PilW   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	type 4 fimbrial biogenesis protein PilW	ABJ13932	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1696|HPR85_21350   Transcriptional regulator, AraC family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW28435	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6277|HPR85_10410   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25994	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1198|HPR85_18925   O-antigen export system permease protein RfbD   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable permease of ABC-2 transporter	CAW27153	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1880|HPR85_00025   Transcriptional regulator, IclR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable transcriptional regulator	AAG04404	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4096|HPR85_29550   Transcriptional regulator, AraC family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW25141	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3023|HPR85_25980   FIG016157: Similar to nicotianamine synthase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG08221	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3896|HPR85_28620   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25797	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4505|HPR85_30030   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24997	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3190|HPR85_01945   CAAX amino terminal protease family protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative protease	CAW26907	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1850|HPR85_22085   FIG005121: SAM-dependent methyltransferase (EC 2.1.1.-)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28240	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.842|HPR85_17225   Oxidoreductase, short-chain dehydrogenase/reductase family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	probable short-chain dehydrogenase	ABR86247	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.165|HPR85_14055   Putative transmembrane protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative transmembrane protein	CAW26331	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5609|HPR85_07735   ABC-type amino acid transport/signal transduction system, periplasmic component/domain   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29320	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1105|HPR85_18470   SAM-dependent methyltransferase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26457	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6415|HPR85_10970   Glutathione S-transferase family protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable glutathione S-transferase	CAW25196	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.74|HPR85_13605   AraC-type DNA-binding domain-containing proteins   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW26365	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1349|HPR85_19675   Transcriptional regulator, GntR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	putative transcriptional regulator	ABJ15078	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2709|HPR85_24455   ABC-type amino acid transport/signal transduction system, periplasmic component/domain   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25743	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2012|HPR85_00660   Acyl-homoserine lactone-binding transcriptional activator, LuxR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW28938	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6648|HPR85_12110   Chromosome segregation ATPases   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25369	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3413|HPR85_03045   General secretion pathway protein J   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	general secretion pathway protein J	CAW26690	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1758|HPR85_21655   QscR quorum-sensing control repressor   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	quorum-sensing control repressor	CAW28153	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3419|HPR85_03075   General secretion pathway protein C   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	secretion protein XcpP	CAW26684	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3727|HPR85_27765   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25377	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6441|HPR85_11100   probable pili assembly chaperone   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable pili assembly chaperone	CAW25222	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.519|HPR85_15690   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABJ14060	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5057|HPR85_06130   Mg(2+)-transport-ATPase-associated protein MgtC   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transport protein	CAW27463	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1763|HPR85_21675   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05283	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2233|HPR85_01740   Transcriptional regulator   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW28561	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6305|HPR85_10540   Type II secretory pathway, ATPase PulE/Tfp pilus assembly pathway, ATPase PilB   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25967	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4745|HPR85_31185   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29425	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6471|HPR85_11240   Nitric oxide -responding transcriptional regulator NnrA (Crp/Fnr family)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	transcriptional regulator Dnr	AAG03916	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5556|HPR85_07470   Transcriptional regulator, AcrR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW29270	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1992|HPR85_00570   NAD/FAD-utilizing enzyme apparently involved in cell division   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG04507	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.846|HPR85_17245   Transcriptional regulator, GntR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW30675	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6029|HPR85_09460   Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27747	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3101|HPR85_26350   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27019	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6503|HPR85_11395   Ketosteroid isomerase homolog   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative isomerase	CAW25282	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1839|HPR85_22030   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28229	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.979|HPR85_17870   FMN-dependent NADH-azoreductase (EC 1.7.1.6)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	acyl carrier protein phosphodiesterase	CAW26572	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4483|HPR85_29925   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW30563	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5800|HPR85_08360   Uncharacterized SAM-binding protein YdcF   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27983	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3205|HPR85_02020   Two-component transcriptional response regulator, LuxR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW26892	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5558|HPR85_07485   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29272	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1910|HPR85_00170   Putative outer membrane protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	probable outer membrane protein	ABR85417	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5235|HPR85_31970   Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ10120	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1246|HPR85_19160   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06020	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1354|HPR85_19700   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24854	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5112|HPR85_06410   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27518	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3571|HPR85_27020   Copper tolerance protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative copper-binding protein	CAW26992	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4644   putative membrane protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27718	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6699|HPR85_12280   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG07725	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5918|HPR85_08915   putative membrane protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05566	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2596|HPR85_23900   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG03766	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.185|HPR85_14150   N-butanoyl-L-homoserine lactone synthase @ N-acyl-L-homoserine lactone synthase, LuxI family (EC 2.3.1.184)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	autoinducer synthesis protein RhlI	AAG06864	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1716|HPR85_21450   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05028	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1961|HPR85_00415   Phosphoserine phosphatase (EC 3.1.3.3)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAG04478	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4191|HPR85_03815   Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative icotinic acid mononucleotide adenylyltransferase	CAW30057	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1033|HPR85_18140   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26522	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3090|HPR85_26300   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27008	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2173|HPR85_01455   Transcriptional regulator, AcrR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW28776	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2069|HPR85_00935   DnaJ-class molecular chaperone   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28885	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5692|HPR85_08150   General secretion pathway protein M   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable type II secretion system protein	CAW29400	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5503|HPR85_07215   Transcriptional regulator, AcrR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable transcriptional regulator	AAG04228	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5916|HPR85_08905   Putative NADH-flavin reductase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27876	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6707|HPR85_12320   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29477	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1518|HPR85_20475   DedA family protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative membrane-associated protein	CAW30392	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1030|HPR85_18125   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06658	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.64|HPR85_13555   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ12669	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1207|HPR85_18970   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27162	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3243|HPR85_02205   Cytochrome b561   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative cytochrome b561	CAW26854	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1828|HPR85_21975   Transcriptional regulator, AcrR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW28218	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3380|HPR85_02870   Isochorismatase (EC 3.3.2.1)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06454	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2493|HPR85_23390   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25917	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1303|HPR85_19450   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27321	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5867|HPR85_08675   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative outer membrane protein	CAW27920	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5610|HPR85_07740   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29321	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6417|HPR85_10980   Transcriptional regulator, AcrR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW25198	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.397|HPR85_15130   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative periplasmic protein	CAW25580	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6864|HPR85_13105   Transcriptional regulator   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable transcriptional regulator	AAG07887	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3099|HPR85_26340   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27017	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1580|HPR85_20780   Periplasmic chorismate mutase I precursor (EC 5.4.99.5)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG08569	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1005|HPR85_17995   Ribosomal-protein-L7p-serine acetyltransferase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative ribosomal-protein-serine acetyltransferase	CAW26547	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3553|HPR85_26930   Methyl-accepting chemotaxis protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	conserved hypothetical protein	CAW26975	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.178|HPR85_14115   Dihydrofolate reductase homolog   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative dihydrofolate reductase	CAW26271	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5055|HPR85_06120   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05947	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2187|HPR85_01520   Signal peptidase I (EC 3.4.21.89)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable signal peptidase	AAG04692	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.518|HPR85_15685   RNase PH   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29820	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5871|HPR85_08695   FOG: CheY-like receiver   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05525	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.550|HPR85_15855   Sigma-fimbriae uncharacterized paralogous subunit   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29789	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5584|HPR85_07615   FIG024006: iron uptake protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29296	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6137|HPR85_09715   Cytochrome b561   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative cytochrome B561	CAW26186	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1791|HPR85_21810   General secretion pathway protein C   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	XphA	CAW28183	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3410|HPR85_03030   General secretion pathway protein M   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	general secretion pathway protein M	AAG06483	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5152|HPR85_06605   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27559	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1933|HPR85_00280   Histone acetyltransferase HPA2 and related acetyltransferases   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG04451	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6059|HPR85_33100   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ11222	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3415|HPR85_03055   General secretion pathway protein H   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	General secretion pathway outer membrane protein H precursor	CAW26688	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1816|HPR85_21925   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28207	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.608|HPR85_16140   Transcriptional regulator NfxB   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW29735	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6511|HPR85_11435   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ15528	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5120|HPR85_06450   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative DNA damage-inducible gene	CAW27526	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2464|HPR85_23250   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29851	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2209|HPR85_01625   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28584	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.393|HPR85_15110   spermidine acetyltransferase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	spermidine acetyltransferase	CAW25584	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5820|HPR85_08455   putative ring-hydroxylating dioxygenase small subunit   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable ring-hydroxylating dioxygenase small subunit	AAG05473	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6477|HPR85_11270   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25256	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5969|HPR85_09165   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05614	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1087|HPR85_18385   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26475	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.835|HPR85_17190   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABJ14901	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.447|HPR85_15380   FIG00963075: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ13440	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1491|HPR85_20340   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24984	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.657|HPR85_16380   type 4 fimbrial biogenesis protein FimU   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	type 4 fimbrial biogenesis protein FimU	ABJ13931	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3175|HPR85_01870   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26922	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2315|HPR85_22505   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28311	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3092|HPR85_26310   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27011	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6502|HPR85_11390   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG03945	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4741|HPR85_31165   Flp pilus assembly protein CpaA   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	Flp prepilin peptidase A, FppA	AAG07683	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1017|HPR85_18050   FOG: TPR repeat, SEL1 subfamily   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26536	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.963|HPR85_17790   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26588	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3369|HPR85_02820   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26732	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3368|HPR85_02815   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26733	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5948|HPR85_09060   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27847	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5838|HPR85_08540   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative outer membrane protein	CAW27946	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1172|HPR85_18805   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06090	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2458|HPR85_23220   Preprotein translocase subunit SecD   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG08104	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4360|HPR85_04655   Nudix hydrolase family protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative pyrophosphatase	CAW30225	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2084|HPR85_01010   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG04595	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6514|HPR85_11450   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25293	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2560|HPR85_23725   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAG07234	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3097|HPR85_26330   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06174	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4406|HPR85_04880   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW30270	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.224|HPR85_14350   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06924	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.468|HPR85_15485   Lactoylglutathione lyase and related lyases   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG07570	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1817|HPR85_21930   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28208	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3891|HPR85_28595   Inhibitor of vertebrate c-type lysozyme, periplasmic => Ivy   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25802	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4352|HPR85_04615   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW30217	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6513|HPR85_11445   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25292	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2229|HPR85_01720   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28565	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5651|HPR85_07945   RNA-binding proteins (RRM domain)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29361	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5428|HPR85_06835   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29160	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4305|HPR85_04380   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW30170	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3850|HPR85_28385   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29673	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3381|HPR85_02875   Transcriptional regulator, MarR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW26721	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1977|HPR85_00495   Flagellar protein FliJ   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	flagellar protein FliJ	CAW28971	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4087|HPR85_29510   Multidrug resistance operon repressor MexR, MarR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	multidrug resistance operon repressor MexR	AAG03813	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.571|HPR85_15960   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29769	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3507|HPR85_26695   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06248	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2298|HPR85_22425   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28295	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3687|HPR85_27575   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27585	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3133|HPR85_26505   3-isopropylmalate dehydratase large subunit   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27049	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2341|HPR85_22625   Type III secretion effector protein (YopR, encoded by YscH)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	type III export protein PscH	AAG05110	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4060|HPR85_29395   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24780	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6883|HPR85_13200   Lactoylglutathione lyase and related lyases   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29652	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6282|HPR85_10435   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG07107	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5675|HPR85_08070   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG04089	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1102|HPR85_18455   Ketosteroid isomerase-related protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putativ isomerase	CAW26460	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1680|HPR85_21270   Transcriptional regulator, MarR family   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable transcriptional regulator	CAW28451	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6687|HPR85_12220   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG07713	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6649|HPR85_12115   Integral membrane protein CcmA involved in cell shape determination   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative integral membrane protein	CAW25370	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5492|HPR85_07160   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29223	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2912|HPR85_25440   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG04784	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4515   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ15227	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4571|HPR85_30350   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28699	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1052|HPR85_18225   Actin-like ATPase involved in cell morphogenesis   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06677	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2350|HPR85_22670   Type III secretion transporter lipoprotein (YscW,VirG)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	exoenzyme S synthesis protein B	CAW28344	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1350|HPR85_19680   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	putative hemolysin	ABJ15079	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2764|HPR85_24730   Antiholin-like protein LrgA   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25689	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2710|HPR85_24460   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25742	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1723|HPR85_21485   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28409	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1886|HPR85_00055   Thioesterase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	conserved hypothetical protein	CAW29060	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5782|HPR85_08270   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative ntibiotic biosynthesis monooxygenase	CAW28000	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4399|HPR85_04850   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW30264	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.65|HPR85_13560   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	conserved hypothetical protein	CAW26374	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5880|HPR85_08740   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27908	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3113|HPR85_26410   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27030	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2497|HPR85_23410   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25913	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3893|HPR85_28605   T6SS PAAR-repeat protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABJ13177	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2131|HPR85_01245   Alkaline proteinase inhibitor precursor   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	alkaline proteinase inhibitor AprI	CAW28816	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5578|HPR85_07585   Predicted membrane protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29290	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3933|HPR85_28790   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28022	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.83|HPR85_13650   Holin-like protein CidA   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative murein hydrolase exporter	CAW26356	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2495|HPR85_23400   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG07173	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.578|HPR85_15995   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29762	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2816|HPR85_24980   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27672	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1766|HPR85_21690   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05280	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4065|HPR85_29420   Transcriptional regulator   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	putative transcriptional regulator	ABJ15006	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5385|HPR85_06615   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29117	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6688|HPR85_12225   FIG140336: TPR domain protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	lipoprotein, putative	ABR83926	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2242|HPR85_01780   MoaD/ThiS/QbsE family sulfur carrier protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG04744	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3495|HPR85_03475   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06566	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6019|HPR85_09410   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27757	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4596|HPR85_30465   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28525	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1965|HPR85_00435   Flagellar protein FlaG   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28983	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3204|HPR85_02015   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06286	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5041|HPR85_06055   Galactophilic lectin PA-I   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	LecA	CAW27451	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3061|HPR85_26165   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29939	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.925|HPR85_17640   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG03423	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5904|HPR85_08850   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27887	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.959|HPR85_17770   Translation initiation factor 2 (IF-2; GTPase)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26592	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1819|HPR85_21940   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28210	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5418|HPR85_06785   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29150	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6284|HPR85_10445   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25987	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5912|HPR85_08885   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05561	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2110|HPR85_01145   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG04617	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6246|HPR85_10255   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26027	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6515|HPR85_11455   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25294	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5915|HPR85_08900   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27877	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6610|HPR85_11920   pyocin R2_PP, conserved hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25347	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4153|HPR85_03635   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG08266	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6622|HPR85_11980   Phage tail tip, assembly protein M   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAG04026	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3103   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27020	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5042|HPR85_06060   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27452	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2909|HPR85_25425   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28769	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2124|HPR85_01215   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG04633	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6510|HPR85_11430   Carboxymuconolactone decarboxylase family protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABR85717	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4473|HPR85_29885   ATPase involved in DNA repair   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG08791	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2502|HPR85_23435   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25908	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2053|HPR85_00855   Periplasmic nitrate reductase component NapD   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	NapD protein of periplasmic nitrate reductase	ABR83407	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3151|HPR85_26595   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27064	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5399|HPR85_06685   Rho-specific inhibitor of transcription termination (YaeO)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ10099	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3354|HPR85_02750   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26746	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2788   Hypothetical protein in pyoverdin gene cluster / Fe2+/Zn2+ uptake regulation proteins   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27645	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5582|HPR85_07605   FIG016502: iron uptake protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29294	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2249|HPR85_01815   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG04751	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2046|HPR85_00820   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical	CAW28908	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1208|HPR85_18975   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ15664	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3130|HPR85_26490   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06147	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3704|HPR85_27650   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27601	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1538|HPR85_20570   FIG019278: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW30374	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1075|HPR85_18330   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26487	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3244|HPR85_02210   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26853	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5914|HPR85_08895   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05562	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.634|HPR85_16265   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	hypothetical protein	ABR84759	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6632|HPR85_12030   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG04036	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6408|HPR85_10930   Ribosomal protein S16   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25189	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.418|HPR85_15235   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25515	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1038|HPR85_18165   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06666	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4721|HPR85_31075   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28121	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5665|HPR85_08020   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG04098	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6127|HPR85_09665   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative Antibiotic biosynthesis monooxygenase	CAW26195	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5661|HPR85_08000   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29371	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3091|HPR85_26305   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06179	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1034|HPR85_18145   Chromosome segregation ATPases   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26521	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3148|HPR85_26585   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27062	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5052|HPR85_06110   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27459	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5878|HPR85_08730   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27910	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1480|HPR85_20295   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24976	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5925|HPR85_08945   Uncharacterized membrane protein SO_4740   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27869	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4508|HPR85_30045   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24994	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6297|HPR85_10505   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABR82586	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4738|HPR85_31150   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG07686	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1320|HPR85_19530   Phosphoglycerate dehydrogenase and related dehydrogenases   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24820	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1352|HPR85_19690   Death on curing protein, Doc toxin   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative plasmid stabilisation system protein	CAW24852	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3364|HPR85_02795   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26736	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6329|HPR85_10655   FIG00955190: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	conserved hypothetical protein	CAW25944	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5131   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27538	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5430|HPR85_06845   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG04298	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3796|HPR85_28130   FIG00957911: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ13860	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.905|HPR85_17540   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24741	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5566|HPR85_07525   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29278	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.304|HPR85_14680   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25670	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3690|HPR85_27590   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05821	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.703|HPR85_16615   COG1088: dTDP-D-glucose 4,6-dehydratase   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABR85411	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5924|HPR85_08940   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27870	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.985|HPR85_17900   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26566	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3115|HPR85_26420   FIG00960508: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27032	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4004|HPR85_29125   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05351	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.903|HPR85_17530   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24739	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5810|HPR85_08405   FIG00956671: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27973	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3930|HPR85_28775   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28019	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2589|HPR85_23865   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	hypothetical protein	ABR83519	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6466|HPR85_11215   Nitric oxide reductase activation protein NorF   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25246	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3929|HPR85_28770   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28018	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3696|HPR85_27615   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05817	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5650|HPR85_07940   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	conserved hypothetical protein	CAW29360	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2351|HPR85_22675   FIG00962212: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	ExsE	AAG05100	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.413|HPR85_15210   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25564	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2791|HPR85_24860   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27648	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5886|HPR85_08765   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27904	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6719|HPR85_12380   Ferrous iron-sensing transcriptional regulator FeoC   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABJ13627	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3994|HPR85_29080   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative lipoprotein	CAW28080	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1104|HPR85_18465   Acyl carrier protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	probable acyl carrier protein	CAW26458	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3554|HPR85_26935   FIG00959550: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26976	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6474|HPR85_11255   FIG00956468: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ15492	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2792|HPR85_24865   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27649	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3142|HPR85_26550   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	conserved hypothetical protein	CAW27057	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3147|HPR85_26580   FIG00958470: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27061	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1171|HPR85_18800   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27128	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4472|HPR85_29880   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW30555	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2893   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28753	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6633|HPR85_12035   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ15609	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6447|HPR85_11130   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25228	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3370|HPR85_02825   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26731	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4026   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28108	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2903|HPR85_25395   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28763	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3939|HPR85_28820   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28029	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1871|HPR85_22180   FIG00955622: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28259	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1805|HPR85_21875   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28196	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.61|HPR85_13540   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26378	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5110|HPR85_06400   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG05894	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2316|HPR85_22510   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28312	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3035|HPR85_26030   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29965	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1581|HPR85_20785   Carbon storage regulator (could also regulate swarming and quorum sensing)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	conserved hypothetical protein	CAW30331	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.779|HPR85_16920   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW30609	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3126|HPR85_26470   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27042	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1792|HPR85_21815   FIG00956944: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28184	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3124|HPR85_26460   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27040	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2219|HPR85_01670   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28575	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2344|HPR85_22640   Type III secretion protein (YscE)   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	type III export protein PscE	AAG05107	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6499|HPR85_11375   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25278	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2112|HPR85_01155   Tetrapartite efflux system component, FusD-like   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28833	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5130|HPR85_06500   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	hypothetical protein	ABR85380	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6470|HPR85_11235   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG03915	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.208|HPR85_14270   Copper chaperone   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG06908	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3570|HPR85_27015   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	two-component response repressor, PtrA	CAW26991	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1825   FIG00956360: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28215	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4248   FIG00956472: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	hypothetical protein	ABR82307	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.116|HPR85_13810   Phage protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26297	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.2313|HPR85_22495   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28309	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3125|HPR85_26465   FIG00957257: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27041	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5877|HPR85_08725   FIG00957959: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27911	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1487   Mobile element protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24981	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1388|HPR85_19865   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24888	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.1446   FIG00954099: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW24942	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.20|HPR85_13335   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW26417	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3150|HPR85_26590   FIG00961448: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27063	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4475|HPR85_29895   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW30558	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3984|HPR85_29035   FIG00961199: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ11166	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3331   FIG00961347: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABR81357	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5928|HPR85_08960   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27866	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5115|HPR85_06425   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	hypothetical protein	ABR85996	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4530   FIG00954510: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW28652	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6885   FIG00957570: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29654	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6281|HPR85_10430   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW25990	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4642|HPR85_30700   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27720	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.4710|HPR85_31025   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABJ11108	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5056|HPR85_06125   FIG00954061: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW27462	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.5884   FIG00956298: hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ11326	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.3804   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	hypothetical protein	ABJ13853	Yes	100.0
+
+#input_seq:	fig|287.11178.peg.6382   hypothetical protein   [Pseudomonas aeruginosa strain PASP309 | 287.11178]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	hypothetical protein	AAG03831	Yes	100.0
+

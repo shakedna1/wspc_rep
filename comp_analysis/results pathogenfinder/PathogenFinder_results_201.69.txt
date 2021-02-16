@@ -1,0 +1,365 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_03_02_2021_172310_820450_input.fsa
+Sequences ::	 1490
+Total bpp ::	 418118
+Longest seq ::	 1761
+Shortest seq ::	 1
+Avg seq lenght ::	 280.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	452.248
+Probability of being human pathogen ::	0.923
+Matches::	115
+Genome Coverage (%) ::	7.72
+Pathogenic Families Matched ::	115
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|201.69.peg.872   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	paralysed flagella protein PflA	ACM64746	Yes	100.0
+
+#input_seq:	fig|201.69.peg.228   Flagellar hook-associated protein FlgL   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	flagellin family protein	ACM64149	Yes	100.0
+
+#input_seq:	fig|201.69.peg.836   Methyl-accepting chemotaxis signal transduction protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	MCP-domain signal transduction protein	ACM64845	Yes	100.0
+
+#input_seq:	fig|201.69.peg.842   Methyl-accepting chemotaxis signal transduction protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	MCP-domain signal transduction protein	ACM63505	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1274   Methyl-accepting chemotaxis signal transduction protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	MCP-domain signal transduction protein	ACM63741	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1319   ATP/GTP-binding protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, predicted ATP/GTP-binding protein	ACM63697	Yes	100.0
+
+#input_seq:	fig|201.69.peg.728   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	MCP-domain signal transduction protein	ACM63453	Yes	100.0
+
+#input_seq:	fig|201.69.peg.522   hydrogenase, (NiFe)/(NiFeSe) small subunit family   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	quinone-reactive Ni/Fe-hydrogenase, small subunit	ACM63772	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1214   ABC-type siderophore export system, fused ATPase and permease components   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	ABC transporter, ATP-binding protein	ACM64832	Yes	100.0
+
+#input_seq:	fig|201.69.peg.500   Type IV fimbrial assembly, ATPase PilB   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	putative type II protein secretion system E protein CtsE	ACM63750	Yes	100.0
+
+#input_seq:	fig|201.69.peg.870   NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	NADH-quinone oxidoreductase, M subunit	ACM64748	Yes	100.0
+
+#input_seq:	fig|201.69.peg.547   FIG00469607: hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63851	Yes	100.0
+
+#input_seq:	fig|201.69.peg.354   TrkA domain protein HP0282   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	TrkA domain protein	ACM64024	Yes	100.0
+
+#input_seq:	fig|201.69.peg.871   NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	NADH-quinone oxidoreductase, N subunit	ACM64747	Yes	100.0
+
+#input_seq:	fig|201.69.peg.224   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64199	Yes	100.0
+
+#input_seq:	fig|201.69.peg.49   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64365	Yes	100.0
+
+#input_seq:	fig|201.69.peg.178   Efflux transport system, outer membrane factor (OMF) lipoprotein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	outer membrane efflux protein	ACM64241	Yes	100.0
+
+#input_seq:	fig|201.69.peg.183   Membrane protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64236	Yes	100.0
+
+#input_seq:	fig|201.69.peg.120   Ankyrin repeat-containing possible periplasmic protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, ankyrin repeat domain protein	ACM64295	Yes	100.0
+
+#input_seq:	fig|201.69.peg.167   Uncharacterized protein HP0275   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, putative ATP-dependent nuclease	ACM64249	Yes	100.0
+
+#input_seq:	fig|201.69.peg.675   Beta-1,3-galactosyltransferase / Beta-1,4-galactosyltransferase   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	glycosyltransferase	ACM64560	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1144   Uncharacterized MFS-type transporter   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	major facilitator superfamily transporter	ACM63910	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1346   Beta-1,3-galactosyltransferase / Beta-1,4-galactosyltransferase   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative glycosyltransferase	CAL35253	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1148   Predicted phosphohydrolase   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	metallophosphoesterase	ACM63906	Yes	100.0
+
+#input_seq:	fig|201.69.peg.60   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	MCP-domain signal transduction protein	ACM64354	Yes	100.0
+
+#input_seq:	fig|201.69.peg.916   8-amino-7-oxononanoate synthase (EC 2.3.1.47)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	8-amino-7-oxononanoate synthase	ACM64702	Yes	100.0
+
+#input_seq:	fig|201.69.peg.431   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63506	Yes	100.0
+
+#input_seq:	fig|201.69.peg.702   Putative periplasmic protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63480	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1126   Flagellar sensory histidine kinase FlgS   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	two-component sensor histidine kinase	ACM63928	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1006   Putative periplasmic protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64457	Yes	100.0
+
+#input_seq:	fig|201.69.peg.184   Putative periplasmic protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	chemotaxis protein MotB, putative	ACM64235	Yes	100.0
+
+#input_seq:	fig|201.69.peg.854   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	peptide ABC transporter, permease protein	ACM64764	Yes	100.0
+
+#input_seq:	fig|201.69.peg.325   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64054	Yes	100.0
+
+#input_seq:	fig|201.69.peg.873   tRNA dimethylallyltransferase (EC 2.5.1.75)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	tRNA delta(2)-isopentenylpyrophosphate transferase	ACM64745	Yes	100.0
+
+#input_seq:	fig|201.69.peg.328   Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	fructose-1,6-biphosphatase	ACM64051	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1172   RNA-binding protein Jag   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63883	Yes	100.0
+
+#input_seq:	fig|201.69.peg.6   Membrane protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical integral membrane protein (DUF1212 domain protein)	ACM64407	Yes	100.0
+
+#input_seq:	fig|201.69.peg.222   peptidylarginine deiminase family protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, putative peptidyl-arginine deiminase	ACM64201	Yes	100.0
+
+#input_seq:	fig|201.69.peg.686   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63496	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1153   Flagellin C   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	flagellin	ACM63901	Yes	100.0
+
+#input_seq:	fig|201.69.peg.923   Major antigenic peptide PEB3   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	major antigenic peptide PEB3	ACM64695	Yes	100.0
+
+#input_seq:	fig|201.69.peg.920   Class D beta-lactamase (EC 3.5.2.6) => OXA-493 family   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, possible beta-lactamase	ACM64698	Yes	100.0
+
+#input_seq:	fig|201.69.peg.324   Major antigenic peptide PEB2   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	major antigenic peptide PEB2	ACM64055	Yes	100.0
+
+#input_seq:	fig|201.69.peg.541   Putative periplasmic ATP /GTP-binding protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63791	Yes	100.0
+
+#input_seq:	fig|201.69.peg.105   Multidrug efflux system, membrane fusion component => CmeE   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	membrane fusion component of efflux system	ACM64310	Yes	100.0
+
+#input_seq:	fig|201.69.peg.849   Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	cysteine-rich domain protein	ACM64769	Yes	100.0
+
+#input_seq:	fig|201.69.peg.966   Flagellar motor rotation protein MotB   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	flagellar motor component MotB	ACM64654	Yes	100.0
+
+#input_seq:	fig|201.69.peg.519   Probable integral membrane protein Cj1452   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical integral membrane protein (DUF540 domain protein)	ACM63769	Yes	100.0
+
+#input_seq:	fig|201.69.peg.918   Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	biotin synthesis protein BioC	ACM64700	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1285   Heavy-metal-associated domain (N-terminus) and membrane-bounded cytochrome biogenesis cycZ-like domain, possible membrane copper tolerance protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical integral membrane protein	ACM63731	Yes	100.0
+
+#input_seq:	fig|201.69.peg.584   putative TonB-dependent receptor   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	TonB domain protein	ACM63814	Yes	100.0
+
+#input_seq:	fig|201.69.peg.811   Putative outer membrane protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	possible outer membrane protein	ACM63377	Yes	100.0
+
+#input_seq:	fig|201.69.peg.681   KtrAB potassium uptake system, peripheral membrane component KtrA   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	TRK system potassium uptake protein TrkA, putative	ACM63501	Yes	100.0
+
+#input_seq:	fig|201.69.peg.28   Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	leucyl/phenylalanyl-tRNA--protein transferase	ACM64386	Yes	100.0
+
+#input_seq:	fig|201.69.peg.138   MarC family integral membrane protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	integral membrane protein, MarC family	ACM64278	Yes	100.0
+
+#input_seq:	fig|201.69.peg.992   Uroporphyrinogen-III synthase (EC 4.2.1.75)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	uroporphyrinogen III cosynthase	ACM64443	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1227   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical integral membrane protein	ACM64819	Yes	100.0
+
+#input_seq:	fig|201.69.peg.821   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64870	Yes	100.0
+
+#input_seq:	fig|201.69.peg.180   Endonuclease III (EC 4.2.99.18)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	endonuclease III	ACM64239	Yes	100.0
+
+#input_seq:	fig|201.69.peg.917   Pimeloyl-[acyl-carrier protein] methyl ester esterase BioG (EC 3.1.1.85)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein (DUF452 domain protein)	ACM64701	Yes	100.0
+
+#input_seq:	fig|201.69.peg.360   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, putative transcriptional regulator	ACM64018	Yes	100.0
+
+#input_seq:	fig|201.69.peg.308   Flavin prenyltransferase UbiX   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	ACM64070	Yes	100.0
+
+#input_seq:	fig|201.69.peg.913   Dethiobiotin synthase BioD (EC 6.3.3.3)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	dethiobiotin synthetase	ACM64705	Yes	100.0
+
+#input_seq:	fig|201.69.peg.401   Adenylate kinase (EC 2.7.4.3)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	adenylate kinase	ACM63977	Yes	100.0
+
+#input_seq:	fig|201.69.peg.929   Cytolethal distending toxin subunit C   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	cytolethal distending toxin, subunit CdtC	ACM64689	Yes	100.0
+
+#input_seq:	fig|201.69.peg.59   Uridine diphosphate glucose pyrophosphatase (EC 3.6.1.45)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	NUDIX domain protein	ACM64355	Yes	100.0
+
+#input_seq:	fig|201.69.peg.635   Hemerythrin domain protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, putative non-heme iron protein, hemerythrin family	ACM64428	Yes	100.0
+
+#input_seq:	fig|201.69.peg.521   Putative ATP/GTP-binding protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, probable ATP/GTP-binding protein	ACM63771	Yes	100.0
+
+#input_seq:	fig|201.69.peg.705   FIG00469423: hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63477	Yes	100.0
+
+#input_seq:	fig|201.69.peg.379   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63999	Yes	100.0
+
+#input_seq:	fig|201.69.peg.896   membrane protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical integral membrane protein	ACM64722	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1390   Putative lipoprotein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical lipoprotein	ACM64606	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1157   Thermonuclease family protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	thermonuclease family protein (Snase-like)	ACM63897	Yes	100.0
+
+#input_seq:	fig|201.69.peg.876   Putative periplasmic protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64742	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1012   Flagellar protein FlgP   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical lipoprotein (DUF400 domain protein)	ACM64463	Yes	100.0
+
+#input_seq:	fig|201.69.peg.629   Nicotinamidase (EC 3.5.1.19)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, putative amidase	ACM63570	Yes	100.0
+
+#input_seq:	fig|201.69.peg.867   NADH-ubiquinone oxidoreductase chain J (EC 1.6.5.3)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	NADH-quinone oxidoreductase, J subunit	ACM64751	Yes	100.0
+
+#input_seq:	fig|201.69.peg.392   FIG00469406: hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63986	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1186   Shikimate kinase I (EC 2.7.1.71)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	shikimate kinase	ACM63869	Yes	100.0
+
+#input_seq:	fig|201.69.peg.389   Membrane protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical integral membrane protein	ACM63989	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1037   Putative thioredoxin precursor   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, possible lipoprotein thioredoxin	ACM64486	Yes	100.0
+
+#input_seq:	fig|201.69.peg.489   Tol-Pal system peptidoglycan-associated lipoprotein PAL   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	peptidoglycan-associated lipoprotein precursor	ACM63564	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1063   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64511	Yes	100.0
+
+#input_seq:	fig|201.69.peg.996   Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	low molecular weight phosphotyrosine protein phosphatase	ACM64447	Yes	100.0
+
+#input_seq:	fig|201.69.peg.545   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, RDD family	ACM63853	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1011   Flagellar-associated protein FlgQ   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64462	Yes	100.0
+
+#input_seq:	fig|201.69.peg.980   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, putative cytochrome c family protein	ACM64431	Yes	100.0
+
+#input_seq:	fig|201.69.peg.8   membrane protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64405	Yes	100.0
+
+#input_seq:	fig|201.69.peg.279   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64099	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1233   Integral membrane protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein (RDD domain protein)	ACM64814	Yes	100.0
+
+#input_seq:	fig|201.69.peg.881   Membrane protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical integral membrane protein	ACM64737	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1372   Putative acyl-CoA thioester hydrolase (EC 3.1.2.-)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, putative acyl-coA thioester hydrolase	ACM64588	Yes	100.0
+
+#input_seq:	fig|201.69.peg.510   JHP0747 family   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63760	Yes	100.0
+
+#input_seq:	fig|201.69.peg.529   Putative periplasmic protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical lipoprotein (DUF1090 domain protein)	ACM63779	Yes	100.0
+
+#input_seq:	fig|201.69.peg.997   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64448	Yes	100.0
+
+#input_seq:	fig|201.69.peg.286   Possible flagellar protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	flagellar protein FlaG	ACM64092	Yes	100.0
+
+#input_seq:	fig|201.69.peg.11   Spermidine export protein MdtJ   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, putative multidrug resistance efflux protein	ACM64402	Yes	100.0
+
+#input_seq:	fig|201.69.peg.812   Putative periplasmic protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63376	Yes	100.0
+
+#input_seq:	fig|201.69.peg.347   FIG00470600: hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64031	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1464   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63616	Yes	100.0
+
+#input_seq:	fig|201.69.peg.527   Ribosomal silencing factor RsfA   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein (DUF143 domain protein)	ACM63777	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1204   Putative coiled-coil protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64840	Yes	100.0
+
+#input_seq:	fig|201.69.peg.311   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64067	Yes	100.0
+
+#input_seq:	fig|201.69.peg.637   Hemerythrin-like iron-binding protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein, putative non-heme iron protein, hemerythrin family	ACM64426	Yes	100.0
+
+#input_seq:	fig|201.69.peg.197   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	hypothetical protein	ACM64223	Yes	100.0
+
+#input_seq:	fig|201.69.peg.615   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63584	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1059   hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64507	Yes	100.0
+
+#input_seq:	fig|201.69.peg.775   Putative helix-turn-helix motif protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63410	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1374   Small hydrophobic protein Cj0260c-related protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64590	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1004   putative membrane protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM64455	Yes	100.0
+
+#input_seq:	fig|201.69.peg.506   FIG00469462: hypothetical protein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63756	Yes	100.0
+
+#input_seq:	fig|201.69.peg.900   4-oxalocrotonate tautomerase (EC 5.3.2.-)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	4-oxalocrotonate tautomerase family protein	ACM64718	Yes	100.0
+
+#input_seq:	fig|201.69.peg.955   Uncharacterized proteins YbdD and YjiX   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein (DUF466 domain protein)	ACM64664	Yes	100.0
+
+#input_seq:	fig|201.69.peg.748   LSU ribosomal protein L29p (L35e)   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	50S ribosomal protein L29	ACM63433	Yes	100.0
+
+#input_seq:	fig|201.69.peg.1156   putative lipoprotein   [Campylobacter lari strain 503734 | 201.69]
+#matched_seq:	12517	CP000932	Campylobacter lari RM2100, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ACM63898	Yes	100.0
+

@@ -1,0 +1,377 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_091944_796025_input.fsa
+Sequences ::	 5346
+Total bpp ::	 1601132
+Longest seq ::	 3163
+Shortest seq ::	 21
+Avg seq lenght ::	 299.0
+
+RESULTS:
+Min Identity Threshold ::	96.541
+Z-THRESHOLD ::	3.0
+Prediction Score ::	320.719
+Probability of being human pathogen ::	0.793
+Matches::	119
+Genome Coverage (%) ::	2.23
+Pathogenic Families Matched ::	107
+Non-Pathogenic Families Matched ::	12
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|573.29103.peg.4950   iron aquisition yersiniabactin synthesis enzyme (Irp2) @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV12388	Yes	99.9
+
+#input_seq:	fig|573.29103.peg.3435   Putative inner membrane protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative inner membrane protein	BAH62238	Yes	99.89
+
+#input_seq:	fig|573.29103.peg.4388   Peptidylprolyl isomerase, FKBP-type (EC 5.2.1.8)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR75588	Yes	99.22
+
+#input_seq:	fig|573.29103.peg.1157   Hydroxyaromatic non-oxidative decarboxylase protein C (EC 4.1.1.-)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78633	Yes	97.47
+
+#input_seq:	fig|573.29103.peg.1405   Membrane fusion component MdtO of tripartite multidrug resistance system   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative transporter	BAH65082	Yes	99.07
+
+#input_seq:	fig|573.29103.peg.812   PTS system, maltose-specific IIC component / PTS system, maltose-specific IIB component (EC 2.7.1.208)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative alpha-glucoside-specific PTS family enzyme IIBC component	BAH65874	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3166   Trehalase (EC 3.2.1.28) @ Periplasmic trehalase (EC 3.2.1.28)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	periplasmic trehalase	BAH64029	Yes	99.48
+
+#input_seq:	fig|573.29103.peg.551   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR77341	Yes	98.94
+
+#input_seq:	fig|573.29103.peg.4989   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV12077	Yes	99.82
+
+#input_seq:	fig|573.29103.peg.4061   AMP-dependent synthetase and ligase   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative acyl-CoA synthase	BAH63408	Yes	99.42
+
+#input_seq:	fig|573.29103.peg.2614   dNTP triphosphohydrolase, broad substrate specificity   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative metal-dependent phosphohydrolase with HD subdomain	BAH63073	Yes	99.41
+
+#input_seq:	fig|573.29103.peg.1356   Uncharacterized GGDEF domain protein YneF   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	putative membrane-bound diguanylate cyclase	ACI07008	No	97.05
+
+#input_seq:	fig|573.29103.peg.1400   Fimbrial adhesin   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative fimbrial protein	ABR78692	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.5230   Mobile element protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative protein encoded within IS	AAZ89289	Yes	97.39
+
+#input_seq:	fig|573.29103.peg.360   hypothetical protein Pfl_5213   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR76695	Yes	99.56
+
+#input_seq:	fig|573.29103.peg.2330   Peptidase B (EC 3.4.11.23)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	aminopeptidase B	BAH64649	Yes	99.77
+
+#input_seq:	fig|573.29103.peg.4945   Salicylate synthetase (EC 5.4.4.2)(EC 4.2.99.21) @ Salicylate synthetase (EC 5.4.4.2)(EC 4.2.99.21) of siderophore biosynthesis   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Gammaproteobacteria	Salicylate synthase	CAR08431	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3114   Chitinase (EC 3.2.1.14)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative chitinase II	BAH62922	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.2708   Putative monooxygenase PA5393   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACI08332	No	98.33
+
+#input_seq:	fig|573.29103.peg.2223   Na+ dependent nucleoside transporter NupC   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	nucleoside permease	BAH64544	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4898   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative structural protein	BAH63093	Yes	99.5
+
+#input_seq:	fig|573.29103.peg.3885   Uncharacterized MFS-type transporter   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	transporter, major facilitator family	ACI07613	No	99.26
+
+#input_seq:	fig|573.29103.peg.4053   Sugar diacid utilization regulator SdaR   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative sugar diacid utilization regulator	ABR77119	Yes	99.74
+
+#input_seq:	fig|573.29103.peg.4854   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63981	Yes	98.44
+
+#input_seq:	fig|573.29103.peg.4618   Galactokinase (EC 2.7.1.6)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	galactokinase	ACI06895	No	98.43
+
+#input_seq:	fig|573.29103.peg.862   COG0438: Glycosyltransferase   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	mannosyltransferase B	ACI11314	No	99.48
+
+#input_seq:	fig|573.29103.peg.5290   Mobile element protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Gammaproteobacteria	putative transposase	ABR80621	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.549   Pyrimidine-specific ribonucleoside hydrolase RihA   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	pyrimidine specific nucleoside hydrolase	BAH63617	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.85   L,D-transpeptidase => YbiS   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH62542	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4628   6-phosphogluconolactonase (EC 3.1.1.31)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative isomerase	ABR76217	Yes	99.4
+
+#input_seq:	fig|573.29103.peg.2309   arylsulfatase regulator   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative arylsulfatase regulator	ABR78241	Yes	99.72
+
+#input_seq:	fig|573.29103.peg.4884   Transcriptional regulator, LacI family   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative periplasmic binding protein/LacI transcriptional regulator	BAH63452	Yes	99.72
+
+#input_seq:	fig|573.29103.peg.4901   T6SS PAAR-repeat protein / RhaS protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63096	Yes	99.43
+
+#input_seq:	fig|573.29103.peg.1557   Transcriptional regulator, LacI family   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative periplasmic binding protein/LacI transcriptional regulator	ABR76081	Yes	99.71
+
+#input_seq:	fig|573.29103.peg.1761   Dienelactone hydrolase family protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative dienelactone hydrolase	BAH61095	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4981   6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV12085	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3191   LysR-family transcriptional regulator KPN_02283   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative LysR-family bacterial regulatory protein	BAH64005	Yes	99.35
+
+#input_seq:	fig|573.29103.peg.1610   SSU ribosomal protein S2p (SAe)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	98.76
+
+#input_seq:	fig|573.29103.peg.462   serine/threonine kinase   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	sulfatase modifying factor 1 precursor-like protein	BAH63988	Yes	97.31
+
+#input_seq:	fig|573.29103.peg.460   serine/threonine kinase   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63989	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4849   serine/threonine kinase   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	sulfatase modifying factor 1 precursor-like protein	BAH63990	Yes	96.96
+
+#input_seq:	fig|573.29103.peg.2208   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR78147	Yes	99.66
+
+#input_seq:	fig|573.29103.peg.1874   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	96.68
+
+#input_seq:	fig|573.29103.peg.4592   ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	amino acid ABC transporter, periplasmic amino acid-binding protein	ACI10773	No	99.65
+
+#input_seq:	fig|573.29103.peg.2346   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH64665	Yes	99.28
+
+#input_seq:	fig|573.29103.peg.1883   PTS system, tagatose-specific IIA component / PTS system, tagatose-specific phosphocarrier protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	fructose-specific PTS family enzyme IIA component	BAH65323	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.2124   2-keto-3-deoxy-L-rhamnonate aldolase (EC 4.1.2.53)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	putative 2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	ACI06570	No	97.75
+
+#input_seq:	fig|573.29103.peg.4066   Transcriptional regulator, DeoR family   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative DeoR-family bacterial regulatory protein	BAH63413	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3086   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative CTP synthase	BAH62894	Yes	99.13
+
+#input_seq:	fig|573.29103.peg.4892   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR76768	Yes	99.61
+
+#input_seq:	fig|573.29103.peg.5295   Integral membrane protein TerC   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative transmembrane protein	BAH61266	Yes	99.21
+
+#input_seq:	fig|573.29103.peg.955   Transcriptional regulator, RpiR family   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH61398	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.2965   Probable carboxyvinyl-carboxyphosphonate phosphorylmutase (EC 2.7.8.23)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR79376	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3812   putative 2-component transcriptional regulator   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative 2-component transcriptional regulator	BAH63285	Yes	97.63
+
+#input_seq:	fig|573.29103.peg.292   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	98.26
+
+#input_seq:	fig|573.29103.peg.575   ABC transporter, ATP-binding protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	ABC transporter, ATP-binding protein	ACI08962	No	98.71
+
+#input_seq:	fig|573.29103.peg.1280   SeqA protein, negative modulator of initiation of replication   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	SeqA family protein	BAH62406	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4065   Ribulose-phosphate 3-epimerase (EC 5.1.3.1)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative ribulose-phosphate 3-epimerase	BAH63412	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.1505   Putative transcriptional regulatory protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative transcriptional regulatory protein	ABR79897	Yes	99.11
+
+#input_seq:	fig|573.29103.peg.3759   FIG004088: inner membrane protein YebE   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR77788	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3395   Chorismate--pyruvate lyase (EC 4.1.3.40)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	chorismate lyase	BAH61178	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.5091   Transcriptional regulator, AcrR family   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative TetR-family trancriptional regulatory protein	BAH63862	Yes	98.57
+
+#input_seq:	fig|573.29103.peg.1578   D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR75674	Yes	98.94
+
+#input_seq:	fig|573.29103.peg.5301   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH61272	Yes	98.96
+
+#input_seq:	fig|573.29103.peg.2386   Translation elongation factor Tu   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Gammaproteobacteria	elongation factor Tu	ACX82119	Yes	97.56
+
+#input_seq:	fig|573.29103.peg.1331   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	conserved hypothetical protein	BAH63317	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3296   FIG001353: Acetyltransferase   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative GCN5-related N-acetyltransferase	BAH61541	Yes	98.87
+
+#input_seq:	fig|573.29103.peg.2906   BAX protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative ATP-binding protein	ABR79320	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.278   Phospholipid-binding protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative outer membrane protein	BAH62690	Yes	98.91
+
+#input_seq:	fig|573.29103.peg.440   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR76855	Yes	98.36
+
+#input_seq:	fig|573.29103.peg.2790   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative cell envelope integrity inner membrane protein TolA	BAH63461	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.1531   Lipid A palmitoyltransferase PagP (EC 2.3.1.251)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative palmitoyl transferase for Lipid A	BAH62357	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4941   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV12072	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3060   Stress response diiron-containing protein YciF   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACI08632	No	98.78
+
+#input_seq:	fig|573.29103.peg.4902   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR76777	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3886   Transcriptional regulator, HxlR family   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	putative transcriptional regulator	ACI08427	No	98.69
+
+#input_seq:	fig|573.29103.peg.4986   Zinc uptake regulation protein ZUR   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV12080	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4501   Protein ygiW precursor   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH65205	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3429   PTS system, mannose-specific IIA component (EC 2.7.1.191)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative PTS system transport protein	BAH62244	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.614   Transposase InsO for insertion sequence element IS911   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	CP4-6 prophage; partial transposase of insertion element IS911A	ACB01424	No	100.0
+
+#input_seq:	fig|573.29103.peg.1469   Putative inner membrane protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH61334	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.5206   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63238	Yes	99.15
+
+#input_seq:	fig|573.29103.peg.4234   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	tryptophan-specific transport protein	BAH61624	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.2266   Ethanolamine utilization polyhedral-body-like protein EutN   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	detox protein	BAH64585	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4972   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV12095	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.731   Cell division activator CedA   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	cell division activator	BAH62960	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.1900   UPF0213 protein YhbQ   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR78958	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3690   Inner membrane protein YedR   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative outer membrane protein N precursor	BAH64158	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.204   DNA-damage-inducible protein I   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	DNA-damage-inducible protein I	BAH62776	Yes	97.59
+
+#input_seq:	fig|573.29103.peg.1287   B12-dependent methionine synthase   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	B12-dependent methionine synthase	BAH62397	Yes	99.02
+
+#input_seq:	fig|573.29103.peg.625   mRNA interferase RelE   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	19459	CP001125	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 plasmid pCVM1963	Gammaproteobacteria	10, complete sequence.	ACF88547	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.659   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS66 family element, orf2	ACD08654	Yes	96.91
+
+#input_seq:	fig|573.29103.peg.101   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH62525	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.5178   Transcriptional regulator, AlpA like   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Gammaproteobacteria	putative transcriptional regulator	AAS61876	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4460   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR78873	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.567   Tautomerase PptA   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	4-oxalocrotonate tautomerase	BAH63599	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4853   T6SS PAAR-repeat protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63982	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3295   FIG032766: hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	conserved hypothetical protein	BAH61540	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4852   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR77680	Yes	98.21
+
+#input_seq:	fig|573.29103.peg.3963   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63681	Yes	97.65
+
+#input_seq:	fig|573.29103.peg.3550   Haemolysin expression modulating protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.2002   Uncharacterized protein YhdT   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH65442	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3367   prepilin peptidase dependent protein C   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	prepilin peptidase dependent protein C	BAH61206	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.540   Orphan toxin OrtT   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63626	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.5238   Transposase InsC for insertion element IS2   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH66102	Yes	97.78
+
+#input_seq:	fig|573.29103.peg.4513   Putative inner membrane protein STM3160   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH65193	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.2892   Hok/Gef-like protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative hok/gef cell toxic protein	BAH65700	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3920   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63725	Yes	98.55
+
+#input_seq:	fig|573.29103.peg.1155   Hok/Gef-like protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	small toxic membrane polypeptide	ABR78496	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.1501   Entericidin B   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	entericidin B	ABR79901	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.5177   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR08443	Yes	98.33
+
+#input_seq:	fig|573.29103.peg.4711   PTS family enzyme IIBC component, cellobiose/salicin/arbutin-specific   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	PTS family enzyme IIBC component, cellobiose/salicin/arbutin-specific	ABR77270	Yes	98.33
+
+#input_seq:	fig|573.29103.peg.4598   putative transcriptional regulator (LysR familiy)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative transcriptional regulator (LysR familiy)	ABR75736	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4325   Sugar-phosphate stress protein SgrT (embedded in SgrS)   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH61712	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4896   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63092	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.5174   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV12051	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.3175   putative nitrilotriacetate monooxygenase   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative nitrilotriacetate monooxygenase	BAH64019	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.1360   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63344	Yes	100.0
+
+#input_seq:	fig|573.29103.peg.4708   hypothetical protein   [Klebsiella pneumoniae strain ST974-OXA48 | 573.29103]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR77267	Yes	96.77
+

@@ -1,0 +1,1637 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_142458_847309_input.fsa
+Sequences ::	 3747
+Total bpp ::	 1178029
+Longest seq ::	 4513
+Shortest seq ::	 20
+Avg seq lenght ::	 314.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	1919.266
+Probability of being human pathogen ::	0.902
+Matches::	539
+Genome Coverage (%) ::	14.38
+Pathogenic Families Matched ::	539
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|686.84.peg.673   RTX toxins and related Ca2+-binding proteins   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07768	Yes	100.0
+
+#input_seq:	fig|686.84.peg.374   Non-ribosomal peptide synthetase modules, siderophore biosynthesis   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	nonribosomal peptide synthetase VibF	ABQ21224	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3253   Putative inner membrane protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP05099	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3057   Accessory colonization factor AcfD precursor   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	putative lipoprotein	ACP05122	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1178   TagA-related protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	TagA-related protein	ACP07127	Yes	100.0
+
+#input_seq:	fig|686.84.peg.45   MSHA biogenesis protein MshQ   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19887	Yes	100.0
+
+#input_seq:	fig|686.84.peg.707   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP06016	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3683   IncF plasmid conjugative transfer protein TraG   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	IncF plasmid conjugative transfer protein TraG	ACQ61823	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1767   Sensory box sensor histidine kinase/response regulator VieS   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	sensory box sensor histidine kinase/response regulator VieS	ACQ60888	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2163   VgrG protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	vgrG protein	ACP05687	Yes	100.0
+
+#input_seq:	fig|686.84.peg.717   Putative helicase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	putative helicase	ACP06006	Yes	100.0
+
+#input_seq:	fig|686.84.peg.515   Virulence factor VasX   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07004	Yes	100.0
+
+#input_seq:	fig|686.84.peg.491   Protease-related protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	tricorn protease	ABQ18806	Yes	100.0
+
+#input_seq:	fig|686.84.peg.866   Pyruvate-flavodoxin oxidoreductase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	pyruvate-flavoredoxin oxidoreductase	ACP07452	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2104   VgrG protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	vgrG protein	ACP07102	Yes	100.0
+
+#input_seq:	fig|686.84.peg.858   Exonuclease SbcC   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	putative exonuclease SbcC	ACP07443	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3033   Hemolysin-related protein RbmC   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hemolysin-related protein RbmC	ACQ61564	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2030   Acyl protein synthase/acyl-CoA reductase RfbN   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	acyl protein synthase/acyl-CoA reductase RfbN	ABQ20660	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1770   Microbial collagenase, secreted (EC 3.4.24.3)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	microbial collagenase secreted	ACQ60891	Yes	100.0
+
+#input_seq:	fig|686.84.peg.761   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	PAS/EAL family protein	ACP05959	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2495   Sialidase (EC 3.2.1.18)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	neuraminidase	ABQ19703	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1605   Putative TonB-dependent heme receptor HasR   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	heme receptor HasR	ACP07545	Yes	100.0
+
+#input_seq:	fig|686.84.peg.839   Signal transduction histidine kinase CheA   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	chemotaxis protein CheA	ABQ22128	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3409   DNA internalization-related competence protein ComEC/Rec2   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	ComEC/rec2 family protein	ABQ20037	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2765   Cytolysin and hemolysin, HlyA, Pore-forming toxin   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	cytolysin and hemolysin HlyA Pore-forming toxin	ACQ62004	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2099   Two-component system sensor histidine kinase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	sensor histidine kinase	ABQ20456	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2589   Methionyl-tRNA synthetase (EC 6.1.1.10)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	methionyl-tRNA synthetase	ACP05309	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1437   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	SecA-related protein	ACP07548	Yes	100.0
+
+#input_seq:	fig|686.84.peg.283   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07648	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2412   tRNA cytosine(34) acetyltransferase (EC 2.3.1.193)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP08027	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3494   PTS system, cellobiose-specific IIC component   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	EAL family protein	ACP05483	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1559   Phage integrase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	phage Integrase	ACQ59599	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1650   TonB-dependent heme and hemoglobin receptor HutA; TonB-dependent hemin, ferrichrome receptor   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	heme transport protein HutA	ABQ19382	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2620   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	GGDEF family protein	ACP05340	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3401   Hemolysin-related protein RbmC   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ22029	Yes	100.0
+
+#input_seq:	fig|686.84.peg.708   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20428	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3075   C-di-GMP phosphodiesterase A-related protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	GGDEF domain protein	ABQ20034	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3326   Methyl-accepting chemotaxis sensor/transducer protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003852	Vibrio cholerae O1 biovar eltor str. N16961 chromosome I, complete sequence.	Gammaproteobacteria	methyl-accepting chemotaxis protein	AAF95115	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2943   Flagellar hook-length control protein FliK   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	putative flagellar hook-length control protein FliK	ABQ21850	Yes	100.0
+
+#input_seq:	fig|686.84.peg.812   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	GGDEF family protein	ABQ20524	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2235   N-acetylglucosamine regulated methyl-accepting chemotaxis protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	methyl-accepting chemotaxis protein	ACP07951	Yes	100.0
+
+#input_seq:	fig|686.84.peg.712   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP06011	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2336   Flavodoxin reductases (ferredoxin-NADPH reductases) family 1   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003853	Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	AAF96821	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3355   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	GGDEF family protein	ABQ19997	Yes	100.0
+
+#input_seq:	fig|686.84.peg.122   Plasmid related protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ59294	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2444   Two-component system sensor histidine kinase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	sensory box sensor histidine kinase	ABQ18966	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1199   Aerotolerance protein BatB / Aerotolerance protein BatC   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003853	Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	AAF96084	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2429   Methyl-accepting chemotaxis sensor/transducer protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	methyl-accepting chemotaxis protein	ABQ18591	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2025   Lipase TseL   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20045	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2161   Lipase TseL   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05689	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1226   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18353	Yes	100.0
+
+#input_seq:	fig|686.84.peg.924   AsmA family protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ22111	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3420   Methyl-accepting chemotaxis sensor/transducer protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	methyl-accepting chemotaxis protein	ACP06097	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3620   Accessory colonization factor AcfB   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	accessory colonization factor AcfB	ACQ61646	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1057   Predicted hydrolase of alkaline phosphatase superfamily   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ20825	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3250   Toxin co-regulated pilus biosynthesis protein I, chemoreceptor, negative regulator of TcpA   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	toxin co-regulated pilus biosynthesis protein I	ACP05102	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2463   Outer membrane vitamin B12 receptor BtuB   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	TonB-dependent receptor	ABQ21265	Yes	100.0
+
+#input_seq:	fig|686.84.peg.285   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07650	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3363   Signal transduction histidine kinase regulating C4-dicarboxylate transport system   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	signal transduction histidine kinase regulating C4-dicarboxylate transport system	ACQ60604	Yes	100.0
+
+#input_seq:	fig|686.84.peg.618   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20503	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2510   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ60738	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2282   L-lactate permease   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	putative L-lactate permease	ACP07901	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2186   Serine phosphatase RsbU, regulator of sigma subunit / Serine-protein kinase RsbW (EC 2.7.11.1)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	response regulator	ABQ18332	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1560   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ59598	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2430   Glutamate decarboxylase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	decarboxylase, group II	ABQ19077	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1840   Enterobactin synthetase component F (EC 2.7.7.-)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	enterobactin synthetase component F	ACQ60960	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3697   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ61834	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1198   Aerotolerance protein BatD   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	BatD	ACQ62050	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2388   Two-component system sensor histidine kinase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	sensor histidine kinase	ABQ19158	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1771   trypsin, putative   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	putative trypsin	ABQ19681	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2639   Response regulator   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	response regulator	ACP05359	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2641   Two-component system sensor histidine kinase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	sensor histidine kinase	ACQ61412	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2146   deoxycytidylate deaminase-related protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	deoxycytidylate deaminase-related protein	ACQ59604	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3256   phage replication protein Cri   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	plasmid replication protein Cri	ABQ19743	Yes	100.0
+
+#input_seq:	fig|686.84.peg.504   Methyl-accepting chemotaxis sensor/transducer protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	methyl-accepting chemotaxis protein	ABQ19430	Yes	100.0
+
+#input_seq:	fig|686.84.peg.844   Positive regulator of CheA protein activity (CheW) / Positive regulator of CheA protein activity (CheW) / Positive regulator of CheA protein activity (CheW)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	putative purine-binding chemotaxis protein Chew	ACP05673	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2546   Di-tripeptide/H+ symporter DtpA   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	proton/peptide symporter family protein	ACP05262	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1292   Diguanylate cyclase (EC 2.7.7.65)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	GGDEF family protein	ABQ21990	Yes	100.0
+
+#input_seq:	fig|686.84.peg.867   Osmosensitive K+ channel histidine kinase KdpD   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	sensor histidine kinase	ACP07453	Yes	100.0
+
+#input_seq:	fig|686.84.peg.963   Pullulanase (EC 3.2.1.41)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	type II secretory pathway protein	ABQ21086	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2656   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	GGDEF family protein	ABQ20008	Yes	100.0
+
+#input_seq:	fig|686.84.peg.716   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP06007	Yes	100.0
+
+#input_seq:	fig|686.84.peg.474   Hypothetical protein in cluster with HutR, VCA0066 homolog   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07046	Yes	100.0
+
+#input_seq:	fig|686.84.peg.638   Zinc metalloprotease   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18515	Yes	100.0
+
+#input_seq:	fig|686.84.peg.328   Methyl-accepting chemotaxis sensor/transducer protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	methyl-accepting chemotaxis protein	ACP07693	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2032   Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	rfbL protein	ABQ19981	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2737   polysaccharide export protein, putative   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	putative polysaccharide export protein	ACP05196	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2036   O-antigen export system, polymerase or transferase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	rfbG protein	ABQ19683	Yes	100.0
+
+#input_seq:	fig|686.84.peg.343   possible integrase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07709	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2236   N-acetyl-D-glucosamine ABC transporter, substrate-binding protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative extracellular solute-binding protein	ABQ19286	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2640   Response regulator   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	response regulator	ACP05360	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2405   Two-component system sensor histidine kinase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	signal transduction histidine kinase	ACQ62207	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2740   CapK protein, putative   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	putative capK protein	ACP05199	Yes	100.0
+
+#input_seq:	fig|686.84.peg.170   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP06677	Yes	100.0
+
+#input_seq:	fig|686.84.peg.567   Peptidase B (EC 3.4.11.23)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	peptidase B	ACQ61727	Yes	100.0
+
+#input_seq:	fig|686.84.peg.815   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	GGDEF family protein	ABQ21845	Yes	100.0
+
+#input_seq:	fig|686.84.peg.795   Response regulator c-di-GMP phosphodiesterase, RpfG family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	response regulator	ABQ20786	Yes	100.0
+
+#input_seq:	fig|686.84.peg.588   Amide synthase component of siderophore synthetase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	vibriobactin synthetase, amide synthase subunit VibH	ABQ20274	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2638   Two-component system sensor histidine kinase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	sensor histidine kinase	ABQ21624	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3348   OpgC protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	putative membrane protein	ABQ20848	Yes	100.0
+
+#input_seq:	fig|686.84.peg.172   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	GGDEF family protein	ACP06675	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3049   Toxin co-regulated pilus biosynthesis protein B   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	toxin co-regulated pilus biosynthesis protein B	ACQ61657	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1826   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	GGDEF family protein	ABQ21443	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2813   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003852	Vibrio cholerae O1 biovar eltor str. N16961 chromosome I, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF94617	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2105   Type VI secretion-related protein VasL   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19102	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1853   Type I secretion outer membrane protein, TolC family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	putative outer membrane protein TolC	ACP05819	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2241   Maltoporin (maltose/maltodextrin high-affinity receptor, phage lambda receptor protein)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	maltoporin	ABQ19267	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3072   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	phage Integrase	ACQ61906	Yes	100.0
+
+#input_seq:	fig|686.84.peg.836   Methyl-accepting chemotaxis transducer domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	methyl-accepting chemotaxis protein	ABQ20352	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3433   EAL domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ59273	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3032   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19847	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2528   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19030	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2738   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	putative membrane protein	ABQ21864	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1561   Transposase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ59597	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3483   Secreted trypsin-like serine protease   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	putative trypsin	ABQ19462	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3063   dNTP triphosphohydrolase, broad substrate specificity   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	deoxyguanosinetriphosphate triphosphohydrolase-related protein	ACP07317	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2859   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	Hpt family protein	ACP06265	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2044   O-antigen ligase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP04557	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2745   Capsular polysaccharide synthesis enzyme CpsB   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ22172	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2298   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	GGDEF family protein	ABQ19372	Yes	100.0
+
+#input_seq:	fig|686.84.peg.570   Cytoskeleton protein RodZ   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003852	Vibrio cholerae O1 biovar eltor str. N16961 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	AAF93923	Yes	100.0
+
+#input_seq:	fig|686.84.peg.817   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	GGDEF family protein	ABQ19943	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1855   MBL-fold metallo-hydrolase superfamily   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	beta-lactamase-related protein	ACP05817	Yes	100.0
+
+#input_seq:	fig|686.84.peg.124   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ59293	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2823   Phage integrase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative integrase	ABQ19309	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1246   Response regulator containing a CheY-like receiver domain and an HD-GYP domain   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ21100	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2486   N-acetylneuraminate epimerase (EC 5.1.3.24)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ20169	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2184   Methyl-accepting chemotaxis transducer domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	methyl-accepting chemotaxis protein	ABQ19156	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2509   Eha protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32853	CP001235	Vibrio cholerae O395 chromosome I, complete sequence.	Gammaproteobacteria	eha protein, General secretion pathway protein A	ACP09909	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2736   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	putative exopolysaccharide biosynthesis protein	ACP05195	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2980   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP06393	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2634   Response regulator   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	response regulator	ABQ21707	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2494   N-acetylglucosamine-6-phosphate deacetylase (EC 3.5.1.25)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	N-acetylglucosamine-6-phosphate deacetylase	ABQ21330	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2031   Alcohol dehydrogenase (EC 1.1.1.1); Acetaldehyde dehydrogenase (EC 1.2.1.10)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	iron-containing alcohol dehydrogenase family protein RfbM	ABQ21249	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3465   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19003	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1730   Alpha-1,6-galactosidase, putative   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ60851	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2376   Non-hemolytic enterotoxin lytic component L1   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19440	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2077   Outer membrane porin   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	ompT protein	ABQ21684	Yes	100.0
+
+#input_seq:	fig|686.84.peg.467   Transcriptional regulator CdgA   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	transcriptional regulator CdgA	ACQ62134	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3630   Predicted polyamine sensor NspS, involved in biofilm formation   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	putative spermidine/putrescine ABC transporter, periplasmic spermidine/putrescine-binding protein	ACP04984	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2741   polysaccharide biosynthesis protein, putative   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ61569	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2394   Transcriptional regulator, VCA0231 ortholog   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	transcriptional regulator, AraC/XylS family	ABQ19205	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3694   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ61831	Yes	100.0
+
+#input_seq:	fig|686.84.peg.705   N-acetylneuraminate epimerase (EC 5.1.3.24)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ20945	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2377   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18802	Yes	100.0
+
+#input_seq:	fig|686.84.peg.62   Malate dehydrogenase (EC 1.1.1.37)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	malate dehydrogenase	ABQ20378	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2375   Non-hemolytic enterotoxin lytic component L1   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18776	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1820   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	GGDEF family protein	ACP05852	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3477   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ20246	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2443   ABC transporter or sensor sytem substrate-binding protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18415	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2046   lipopolysaccharide biosynthesis protein, putative   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	putative lipopolysaccharide biosynthesis protein	ABQ20233	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2501   Phage tape measure protein Mup42   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ20450	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1438   Putative ammonia monooxygenase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07549	Yes	100.0
+
+#input_seq:	fig|686.84.peg.15   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18994	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3564   Transcriptional regulator, LacI family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	transcriptional regulator, LacI family	ACP05558	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3009   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18988	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3605   Toxin co-regulated pilus biosynthesis protein F, putative outer membrane channel for TcpA extrusion   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	toxin co-regulated pilus biosynthesis protein F	ACQ61649	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3293   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP06229	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2518   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20321	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1252   Magnesium and cobalt transport protein CorA   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ19817	Yes	100.0
+
+#input_seq:	fig|686.84.peg.672   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	GGDEF family protein	ACP07767	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2584   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	GGDEF family protein	ACP05302	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2511   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20602	Yes	100.0
+
+#input_seq:	fig|686.84.peg.378   Outer membrane protein A precursor   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	outer membrane protein OmpA	ABQ20046	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2322   Sensory box/GGDEF family protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	sensory box/GGDEF family protein	ACQ62361	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1601   Lipopolysaccharide synthesis protein WavD   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21183	Yes	100.0
+
+#input_seq:	fig|686.84.peg.623   resolvase, putative   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative resolvase	ABQ19134	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2147   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ59605	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3490   FIG01199745: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20496	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3252   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05100	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2665   Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	biotin synthesis protein BioC	ABQ20381	Yes	100.0
+
+#input_seq:	fig|686.84.peg.967   GGDEF domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	GGDEF family protein	ACP06913	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3007   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18879	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1856   Transcriptional regulator, LysR family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	transcriptional regulator, LysR family	ABQ19844	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3344   Transcriptional regulator, LysR family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	transcriptional regulator, LysR family	ABQ21462	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2052   Lipopolysaccharide synthesis protein WavE   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20545	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3614   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18583	Yes	100.0
+
+#input_seq:	fig|686.84.peg.594   Transcriptional regulator near Vibriobactin biosynthetic gene custer   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	transcriptional regulator, LysR family	ABQ20624	Yes	100.0
+
+#input_seq:	fig|686.84.peg.8   TagE protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	tagE protein	ABQ20281	Yes	100.0
+
+#input_seq:	fig|686.84.peg.385   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ22181	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2385   L-xylulose 5-phosphate 3-epimerase (EC 5.1.3.-)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative hexulose-6-phosphate isomerase SgbU	ABQ18334	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3012   Type IV secretory pathway, VirD2 components (relaxase)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ABO41058	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1832   Transcriptional regulator of alpha-acetolactate operon AlsR   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	transcriptional regulator of alpha-acetolactate operon AlsR	ACQ60951	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3464   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07178	Yes	100.0
+
+#input_seq:	fig|686.84.peg.125   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ59292	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3278   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18419	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3677   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ61819	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2196   Transcriptional regulator, AraC family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	transcriptional regulator, AraC/XylS family	ACP07991	Yes	100.0
+
+#input_seq:	fig|686.84.peg.943   Competence protein F homolog, phosphoribosyltransferase domain; protein YhgH required for utilization of DNA as sole source of carbon and energy   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	ComF family protein	ABQ22012	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2162   FIG01201135: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20978	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2801   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18744	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2768   Lipase activator protein, Lipase-specific foldase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative lipase activator protein	ABQ19343	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1827   Diguanylate cyclase/phosphodiesterase domain 2 (EAL)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ20437	Yes	100.0
+
+#input_seq:	fig|686.84.peg.505   Arginase/agmatinase/formimionoglutamate hydrolase, arginase family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07013	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1222   Potassium voltage-gated channel subfamily KQT; possible potassium channel, VIC family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative potassium channel protein	ABQ18841	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3563   Cellobiose phosphotransferase system YdjC-like protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ61225	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2487   Sialic acid utilization regulator, RpiR family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ22084	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2242   Maltose operon periplasmic protein MalM   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative maltose operon periplasmic protein	ABQ18671	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2356   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative lipoprotein	ABQ19358	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2418   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18456	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1821   ABC-type amino acid transport/signal transduction system, periplasmic component/domain   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ21650	Yes	100.0
+
+#input_seq:	fig|686.84.peg.500   Phosphatidylglycerophosphatase B (EC 3.1.3.27)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative phosphatidylglycerophosphatase B	ABQ19039	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1842   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05831	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3704   Phage recombination protein Bet   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	12624	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|686.84.peg.3   RbmA protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19519	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2531   VvgS protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	putative lipoprotein	ABQ19555	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1091   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	permease	ACQ59966	Yes	100.0
+
+#input_seq:	fig|686.84.peg.483   Transcriptional regulator, MerR family, associated with photolyase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	transcriptional regulator, MerR family	ACP07037	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2035   O-antigen export system, permease protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	lipopolysaccharide/O-antigen transport protein	ABQ20764	Yes	100.0
+
+#input_seq:	fig|686.84.peg.593   Phosphopantetheinyl transferase component of siderophore synthetase (EC 2.7.8.-)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	vibriobactin synthase component D	ABQ21353	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2810   Enterotoxin, A subunit (NAD(+)--diphthamide ADP- ribosyltransferase) (EC 2.4.2.36)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	cholera enterotoxin, A subunit	ABQ20227	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2111   T6SS outer membrane component TssL (ImpK/VasF)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18695	Yes	100.0
+
+#input_seq:	fig|686.84.peg.182   General secretion pathway protein B   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	putative general secretion pathway protein B	ACP06665	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3354   CDP-alcohol phosphatidyltransferase family protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20753	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2024   Antitoxin TsiV1 to TseL   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05690	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2023   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003852	Vibrio cholerae O1 biovar eltor str. N16961 chromosome I, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF94577	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2348   putative TonB-dependent receptor   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	ferric siderophore transport system binding protein TonB	ACQ62385	Yes	100.0
+
+#input_seq:	fig|686.84.peg.506   Transcriptional regulator, IclR family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative transcriptional regulator	ABQ19311	Yes	100.0
+
+#input_seq:	fig|686.84.peg.514   Antitoxin TsiV2 to VasX   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18921	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3036   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62815	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2527   Nudix-related transcriptional regulator NrtR   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ18617	Yes	100.0
+
+#input_seq:	fig|686.84.peg.291   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07655	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3693   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ61830	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2748   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05212	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2791   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ22061	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2182   Chemotaxis protein CheD   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	putative chemotaxis protein CheD	ACP08006	Yes	100.0
+
+#input_seq:	fig|686.84.peg.377   Hypothetical protein, specific for Vibrio   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20809	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2529   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19261	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2499   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20087	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3273   Acetyltransferase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative acetyltransferase	ABQ19026	Yes	100.0
+
+#input_seq:	fig|686.84.peg.763   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05957	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1240   Smp-like protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003852	Vibrio cholerae O1 biovar eltor str. N16961 chromosome I, complete sequence.	Gammaproteobacteria	smp protein, putative	AAF95489	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2108   Type VI secretion protein VasI   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07097	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3003   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18792	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1276   Putative transcriptional activator ChrR   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	putative transcriptional activator	ABQ22086	Yes	100.0
+
+#input_seq:	fig|686.84.peg.816   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21112	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3277   Maleylacetoacetate isomerase (EC 5.2.1.2) @ Glutathione S-transferase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative glutathione S-transferase	ABQ18930	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3062   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	HNH endonuclease	ACP07316	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2310   Transcriptional regulator VpsT   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	transcriptional regulator, LuxR family	ABQ19228	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2078   putative secreted protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ20394	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2773   Toxin TseH, peptidoglycan hydrolase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18696	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3046   Toxin co-regulated pilus biosynthesis protein P, transcriptional activator of ToxT promoter   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	toxin co-regulated pilus biosynthesis protein P	ACP05103	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3678   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	13902	CP000503	Shewanella sp. W3-18-1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABM24023	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3265   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003853	Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF96239	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2522   CbbY family protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	haloacid dehalogenase/epoxide hydrolase family protein	ABQ19439	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1786   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ21866	Yes	100.0
+
+#input_seq:	fig|686.84.peg.842   FOG: HEAT repeat   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05671	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1312   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ19939	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3230   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19323	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3058   Accessory colonization factor AcfA   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	accessory colonization factor AcfA	ABQ21053	Yes	100.0
+
+#input_seq:	fig|686.84.peg.312   Glyoxalase family protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	glyoxalase family protein	ACQ62527	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1229   Repair of Iron Centers di-iron protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ22001	Yes	100.0
+
+#input_seq:	fig|686.84.peg.777   Opacity protein-related protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21138	Yes	100.0
+
+#input_seq:	fig|686.84.peg.729   Transcriptional regulator, AcrR family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	transcriptional regulator, TetR family	ABQ21787	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2266   Threonine efflux protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative membrane protein	ABQ19283	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2386   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18743	Yes	100.0
+
+#input_seq:	fig|686.84.peg.284   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07649	Yes	100.0
+
+#input_seq:	fig|686.84.peg.529   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18983	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2802   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003853	Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF96361	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3010   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003853	Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF96275	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3035   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20334	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2701   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19864	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2136   Type IV fimbrial biogenesis protein PilW   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	type 4 fimbrial biogenesis protein PilW	ACQ61628	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3006   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18383	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1944   Uncharacterized conserved protein YfiP, contains DTW domain   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ20317	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3202   2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase	ACP04808	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2636   Chemotaxis protein CheC -- inhibitor of MCP methylation   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20243	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3260   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20139	Yes	100.0
+
+#input_seq:	fig|686.84.peg.643   Small-conductance mechanosensitive channel   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18853	Yes	100.0
+
+#input_seq:	fig|686.84.peg.722   putative lipoprotein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	putative lipoprotein	ABQ19935	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2504   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20904	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3001   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19331	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3255   Phage protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	tlcR protein	ACP05729	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1835   AnkB protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	AnkB protein	ACQ60955	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3439   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18565	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2735   Serine acetyltransferase (EC 2.3.1.30)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	bacterial transferase hexapeptide domain protein	ABQ20650	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1734   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05937	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2567   Lactoylglutathione lyase (EC 4.4.1.5)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	lactoylglutathione lyase	ACP05284	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1223   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18924	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2674   FIG024285: Hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20208	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3015   Mobile element protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32571	FM180570	Escherichia coli 0127:H6 E2348/69 plasmid pE2348-2, strain E2348/69.	Gammaproteobacteria	UNKNOWN	CAS07429	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3437   Acetyltransferase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	GCN5-related N-acetyltransferase	ACP07325	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3242   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07377	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2307   Transcriptional regulator, MarR family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	transcriptional regulator, MarR family	ACP07874	Yes	100.0
+
+#input_seq:	fig|686.84.peg.619   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19899	Yes	100.0
+
+#input_seq:	fig|686.84.peg.551   CBS domain protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	acetoin utilization protein	ACP05016	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2365   Soluble cytochrome b562   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003853	Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF96790	Yes	100.0
+
+#input_seq:	fig|686.84.peg.626   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18331	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1725   Low molecular weight protein tyrosine phosphatase (EC 3.1.3.48)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	phosphotyrosine protein phosphatase	ABQ21908	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2809   DNA for RVC repeated sequence   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18948	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2346   Biopolymer transport protein ExbD1   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	biopolymer transport protein ExbD1	ACQ62383	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3332   Lipoprotein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	lipoprotein	ABQ22176	Yes	100.0
+
+#input_seq:	fig|686.84.peg.767   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ21348	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1337   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19469	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1594   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20013	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1201   FIG00657500: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18497	Yes	100.0
+
+#input_seq:	fig|686.84.peg.38   MSHA biogenesis protein MshF   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	MSHA biogenesis protein MshF	ACQ59389	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3600   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05594	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1088   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP06786	Yes	100.0
+
+#input_seq:	fig|686.84.peg.621   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19176	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3608   H-REV 107-related protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	H-REV 107-related protein	ACQ62896	Yes	100.0
+
+#input_seq:	fig|686.84.peg.718   Phage integrase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	integrase, truncation	ABQ22057	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3044   FIG032766: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18506	Yes	100.0
+
+#input_seq:	fig|686.84.peg.231   Zn-ribbon-containing, possibly RNA-binding protein and truncated derivatives   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20032	Yes	100.0
+
+#input_seq:	fig|686.84.peg.633   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19322	Yes	100.0
+
+#input_seq:	fig|686.84.peg.6   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05119	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3356   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19643	Yes	100.0
+
+#input_seq:	fig|686.84.peg.162   Sigma factor RpoE regulatory protein RseC   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003852	Vibrio cholerae O1 biovar eltor str. N16961 chromosome I, complete sequence.	Gammaproteobacteria	sigma-E factor regulatory protein RseC	AAF95606	Yes	100.0
+
+#input_seq:	fig|686.84.peg.466   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07054	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2807   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18789	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2179   Positive regulator of CheA protein activity (CheW)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	purine-binding chemotaxis protein CheW	ABQ19380	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2508   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19923	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2515   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20424	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3000   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18828	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3184   Regulatory protein RecX   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	regulatory protein RecX	ACP04827	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1844   Uncharacterized protein XCC0925   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05829	Yes	100.0
+
+#input_seq:	fig|686.84.peg.251   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07614	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3050   Toxin co-regulated pilus biosynthesis protein Q   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	toxin co-regulated pilus biosynthesis protein Q	ACP05107	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1808   Predicted kinase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	NEDD4-binding protein	ACP05863	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1441   MutT/Nudix family protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	MutT/nudix family protein	ABQ18809	Yes	100.0
+
+#input_seq:	fig|686.84.peg.157   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP06691	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3613   putative membrane protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18871	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3068   FIG01062327: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ61902	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3698   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ61835	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2294   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18431	Yes	100.0
+
+#input_seq:	fig|686.84.peg.322   Cytochrome c553   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	cytochrome c554	ABQ18391	Yes	100.0
+
+#input_seq:	fig|686.84.peg.523   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003853	Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	AAF95924	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2749   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ61556	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2808   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07379	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3240   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19171	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3606   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62898	Yes	100.0
+
+#input_seq:	fig|686.84.peg.171   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP06676	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3047   Toxin co-regulated pilus biosynthesis protein H, transcriptional activator of ToxT promoter   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	toxin co-regulated pilus biosynthesis protein H	ACP05104	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2127   Outer membrane beta-barrel assembly protein BamE   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	small protein A	ABQ19979	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2423   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18421	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2237   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18667	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1266   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20224	Yes	100.0
+
+#input_seq:	fig|686.84.peg.246   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07392	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2252   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative lipoprotein	ABQ18511	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3272   doc protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	doc protein	ABQ19330	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3475   Superfamily II DNA and RNA helicase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ22147	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2366   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003853	Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF96789	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3220   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07269	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3218   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003853	Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF96285	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3526   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05519	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2378   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19023	Yes	100.0
+
+#input_seq:	fig|686.84.peg.135   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18663	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3513   UPF0299 membrane protein YohJ   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ21441	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3434   MutT/Nudix family protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	NUDIX hydrolase	ACP07322	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1977   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP06591	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2816   RstB phage-related integrase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003852	Vibrio cholerae O1 biovar eltor str. N16961 chromosome I, complete sequence.	Gammaproteobacteria	RstB2 protein	AAF94619	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2379   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18549	Yes	100.0
+
+#input_seq:	fig|686.84.peg.774   DNA-binding protein inhibitor Id-2-related protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19562	Yes	100.0
+
+#input_seq:	fig|686.84.peg.871   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07457	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1999   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05715	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2503   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21643	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1572   putative membrane protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003852	Vibrio cholerae O1 biovar eltor str. N16961 chromosome I, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF93374	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3261   FIG032766: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003853	Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF96368	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2820   RstB phage-related integrase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003852	Vibrio cholerae O1 biovar eltor str. N16961 chromosome I, complete sequence.	Gammaproteobacteria	RstB1 protein	AAF94610	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2506   middle operon regulator-related protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	putative transcriptional regulator	ABQ20287	Yes	100.0
+
+#input_seq:	fig|686.84.peg.605   Oxaloacetate decarboxylase Na(+) pump, gamma chain (EC 4.1.1.3)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	oxaloacetate decarboxylase gamma chain	ACQ61687	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3038   MazG-related protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18795	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3045   Acetyltransferase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62793	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2103   Antitoxin TsiV3 to VgrG   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18488	Yes	100.0
+
+#input_seq:	fig|686.84.peg.130   Antitoxin DinJ (binds YafQ toxin)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	transcriptional regulator, copG family	ABQ19081	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2633   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19747	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2513   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003852	Vibrio cholerae O1 biovar eltor str. N16961 chromosome I, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF94950	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2502   Phage tail assembly chaperone Mup41, Y   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ19691	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1935   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19663	Yes	100.0
+
+#input_seq:	fig|686.84.peg.996   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21144	Yes	100.0
+
+#input_seq:	fig|686.84.peg.480   Outer membrane lipoprotein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	major outer membrane lipoprotein	ABQ19154	Yes	100.0
+
+#input_seq:	fig|686.84.peg.934   General secretion pathway protein I   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	general secretion pathway protein I	ACQ59808	Yes	100.0
+
+#input_seq:	fig|686.84.peg.447   Transcriptional regulator, HxlR family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ19027	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2326   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18449	Yes	100.0
+
+#input_seq:	fig|686.84.peg.825   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05651	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2774   Antitoxin TsiH to toxin TseH   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19302	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2798   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18787	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1281   Cell division protein BolA   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	cell division protein BolA	ACQ60214	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3695   FIG01201340: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ61832	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2245   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18399	Yes	100.0
+
+#input_seq:	fig|686.84.peg.18   ParE toxin protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ19256	Yes	100.0
+
+#input_seq:	fig|686.84.peg.531   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19508	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3262   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07298	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3453   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07343	Yes	100.0
+
+#input_seq:	fig|686.84.peg.14   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62873	Yes	100.0
+
+#input_seq:	fig|686.84.peg.918   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP06959	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2505   Transcriptional regulator   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	putative transcriptional regulator	ABQ21402	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2392   Hypothetical protein colocalized with Enterobactin receptor VctA   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07208	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3039   FIG032766: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07296	Yes	100.0
+
+#input_seq:	fig|686.84.peg.139   Acetyltransferase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative acetyltransferase	ABQ18379	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3666   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21810	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1698   Uncharacterized protein YqcC   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ21399	Yes	100.0
+
+#input_seq:	fig|686.84.peg.276   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18715	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1105   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ20938	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2174   Anti-anti-sigma regulatory factor   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ18935	Yes	100.0
+
+#input_seq:	fig|686.84.peg.287   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07651	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2770   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18479	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3014   Transcriptional regulator, LysR family   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	transcriptional regulator, LysR family protein	ABO41065	Yes	100.0
+
+#input_seq:	fig|686.84.peg.133   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19423	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3680   Transcriptional activator   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ61822	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2297   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18701	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2390   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19007	Yes	100.0
+
+#input_seq:	fig|686.84.peg.622   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19203	Yes	100.0
+
+#input_seq:	fig|686.84.peg.277   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07642	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3037   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19292	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3257   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ20513	Yes	100.0
+
+#input_seq:	fig|686.84.peg.731   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ21136	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1633   Hemolysin   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hemolysin	ABQ19029	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3436   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07323	Yes	100.0
+
+#input_seq:	fig|686.84.peg.345   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07393	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3336   Protein YcgL   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	protein YcgL	ACQ60574	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1216   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19001	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3071   FIG01202433: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ61905	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1399   tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusB   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ19824	Yes	100.0
+
+#input_seq:	fig|686.84.peg.600   FIG01200572: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21495	Yes	100.0
+
+#input_seq:	fig|686.84.peg.771   Mu-like prophage protein gp16   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20305	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3004   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18739	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1453   Uncharacterized membrane protein RSP_0589   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ19219	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2416   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ19454	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2439   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19277	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2507   Uncharacterized protein, homolog of phage Mu protein gp30   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32853	CP001235	Vibrio cholerae O395 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP09907	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1156   Uncharacterized signal-peptide-containing protein VCA0125   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	putative lipoprotein	ABQ19131	Yes	100.0
+
+#input_seq:	fig|686.84.peg.838   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05667	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1330   NADH dehydrogenase subunit II-related protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21266	Yes	100.0
+
+#input_seq:	fig|686.84.peg.813   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20134	Yes	100.0
+
+#input_seq:	fig|686.84.peg.669   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62446	Yes	100.0
+
+#input_seq:	fig|686.84.peg.19   ParD protein (antitoxin to ParE)   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19197	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2033   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	putative acyl carrier protein	ABQ21672	Yes	100.0
+
+#input_seq:	fig|686.84.peg.691   FIG01201512: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07785	Yes	100.0
+
+#input_seq:	fig|686.84.peg.869   Twin-arginine translocation protein TatA   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	tatA protein	ACP07455	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2514   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21889	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3227   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62858	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1841   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ60961	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1230   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21398	Yes	100.0
+
+#input_seq:	fig|686.84.peg.154   Uncharacterized protein VC2473   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ21121	Yes	100.0
+
+#input_seq:	fig|686.84.peg.693   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18865	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3459   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003853	Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF96247	Yes	100.0
+
+#input_seq:	fig|686.84.peg.887   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19282	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1805   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05866	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1759   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19474	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2200   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18553	Yes	100.0
+
+#input_seq:	fig|686.84.peg.624   COG1405: Transcription initiation factor TFIIIB, Brf1 subunit/Transcription initiation factor TFIIB   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18732	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2784   Mobile element protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	probable transposase for transposon	ABQ20175	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1930   Ribosome modulation factor   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	ribosome modulation factor	ACQ61049	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2667   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ22062	Yes	100.0
+
+#input_seq:	fig|686.84.peg.647   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18382	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3304   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ60543	Yes	100.0
+
+#input_seq:	fig|686.84.peg.700   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19279	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1773   FIG01201865: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19838	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1328   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20105	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1187   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62059	Yes	100.0
+
+#input_seq:	fig|686.84.peg.297   FIG01200784: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ19236	Yes	100.0
+
+#input_seq:	fig|686.84.peg.656   FIG01201041: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19288	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3237   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07373	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1235   FIG01200040: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21985	Yes	100.0
+
+#input_seq:	fig|686.84.peg.823   FIG01201643: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05649	Yes	100.0
+
+#input_seq:	fig|686.84.peg.242   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19319	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3430   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07311	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3059   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07313	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3061   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07315	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3540   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20516	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3279   Acetyltransferase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18781	Yes	100.0
+
+#input_seq:	fig|686.84.peg.479   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62146	Yes	100.0
+
+#input_seq:	fig|686.84.peg.448   FIG01202475: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18552	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2292   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19033	Yes	100.0
+
+#input_seq:	fig|686.84.peg.889   FIG01202458: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	36	AE003853	Vibrio cholerae O1 biovar eltor str. N16961 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	AAF96455	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2803   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ18731	Yes	100.0
+
+#input_seq:	fig|686.84.peg.442   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ22026	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3259   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05725	Yes	100.0
+
+#input_seq:	fig|686.84.peg.454   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18762	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1886   FIG01200934: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19987	Yes	100.0
+
+#input_seq:	fig|686.84.peg.704   Integrase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	integrase-related protein	ABQ19149	Yes	100.0
+
+#input_seq:	fig|686.84.peg.304   FIG01201624: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62535	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2020   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ21444	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2122   Phage integrase   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	integrase, phage family	ABQ20739	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2440   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19230	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3448   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32853	CP001236	Vibrio cholerae O395 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP11293	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3110   FIG01200382: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20931	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3443   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18466	Yes	100.0
+
+#input_seq:	fig|686.84.peg.666   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07761	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3267   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19024	Yes	100.0
+
+#input_seq:	fig|686.84.peg.289   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07653	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2793   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62834	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3380   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21819	Yes	100.0
+
+#input_seq:	fig|686.84.peg.300   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62539	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3226   Death on curing protein, Doc toxin   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62857	Yes	100.0
+
+#input_seq:	fig|686.84.peg.13   Death on curing protein, Doc toxin   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62872	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3455   Death on curing protein, Doc toxin   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62912	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3662   FIG01200400: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP04951	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3296   FIG01202827: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21572	Yes	100.0
+
+#input_seq:	fig|686.84.peg.642   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19359	Yes	100.0
+
+#input_seq:	fig|686.84.peg.668   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07763	Yes	100.0
+
+#input_seq:	fig|686.84.peg.682   FIG01201764: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19090	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2564   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05281	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2625   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19502	Yes	100.0
+
+#input_seq:	fig|686.84.peg.983   FIG01199906: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21377	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2225   FIG01199560: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18791	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3454   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP07345	Yes	100.0
+
+#input_seq:	fig|686.84.peg.177   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21824	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1372   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ59619	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1295   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ59696	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2359   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18918	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1965   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP04443	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2498   FIG01201713: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP06032	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2725   Trp operon leader peptide   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05448	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3504   FIG01203793: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05493	Yes	100.0
+
+#input_seq:	fig|686.84.peg.743   FIG01199823: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ60816	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1968   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21339	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2208   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	sensor histidine kinase	ACP07978	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2448   FIG01200124: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19427	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1215   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19220	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3428   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62936	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3285   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21772	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2797   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18346	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3158   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP04855	Yes	100.0
+
+#input_seq:	fig|686.84.peg.241   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62917	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2143   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19727	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2204   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABQ18804	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2205   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18976	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1470   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07580	Yes	100.0
+
+#input_seq:	fig|686.84.peg.326   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07690	Yes	100.0
+
+#input_seq:	fig|686.84.peg.846   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19352	Yes	100.0
+
+#input_seq:	fig|686.84.peg.891   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18356	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3182   FIG01202695: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP04829	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2258   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07927	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1546   FIG01201221: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21945	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2536   FIG01200650: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20017	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3501   FIG01202210: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21596	Yes	100.0
+
+#input_seq:	fig|686.84.peg.384   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20626	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1336   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ20266	Yes	100.0
+
+#input_seq:	fig|686.84.peg.268   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62568	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3222   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ18977	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3060   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19233	Yes	100.0
+
+#input_seq:	fig|686.84.peg.852   FIG01202519: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	33555	CP001486	Vibrio cholerae MJ-1236 chromosome 2, complete sequence.	Gammaproteobacteria	hypothetical protein	ACQ62772	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1616   FIG01202439: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ19399	Yes	100.0
+
+#input_seq:	fig|686.84.peg.383   FIG01203553: hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ21232	Yes	100.0
+
+#input_seq:	fig|686.84.peg.2983   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	hypothetical protein	ACP06398	Yes	100.0
+
+#input_seq:	fig|686.84.peg.1479   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001234	Vibrio cholerae M66-2 chromosome II, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP07592	Yes	100.0
+
+#input_seq:	fig|686.84.peg.3249   hypothetical protein   [Vibrio cholerae O1 biovar El Tor strain NALMLE07 | 686.84]
+#matched_seq:	32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ACP05153	Yes	100.0
+
