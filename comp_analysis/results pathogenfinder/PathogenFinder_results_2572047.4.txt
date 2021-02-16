@@ -1,0 +1,644 @@
+INPUT SEQUENCE INFO:
+Input Name ::	5_11_12_2020_081130_625420_input.fsa
+Sequences ::	 1786
+Total bpp ::	 527667
+Longest seq ::	 1517
+Shortest seq ::	 30
+Avg seq lenght ::	 295.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	775.466
+Probability of being human pathogen ::	0.91
+Matches::	208
+Genome Coverage (%) ::	11.65
+Pathogenic Families Matched ::	208
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2572047.4.peg.552|FBE84_01215   Glycyl-tRNA synthetase beta chain (EC 6.1.1.14)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	glycyl-tRNA synthetase, beta subunit	AAW35689	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.389|FBE84_08295   Methyl-accepting chemotaxis signal transduction protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative methyl-accepting chemotaxis signal transduction protein	CAL35661	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1555   Osmosensitive K+ channel histidine kinase KdpD   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	truncated KdpD protein	ABV52230	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.825|FBE84_02470   Cytochrome c552 precursor (EC 1.7.2.2)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	cytochrome c552	AAW35982	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.378|FBE84_08240   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	methyl-accepting chemotaxis protein	AAW34514	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1478|FBE84_05615   ATP/GTP-binding protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	RloH	EAQ72601	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.797|FBE84_08740   Flagellin   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	flagellin subunit protein FlaB	AAW36312	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.468|FBE84_08700   Flagellin   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	flagellin subunit protein FlaA	AAW36297	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.79|FBE84_00385   Anthranilate synthase, amidotransferase component (EC 4.1.3.27) / Anthranilate phosphoribosyltransferase (EC 2.4.2.18)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	anthranilate synthase component II	EAQ73274	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.954|FBE84_03060   Uncharacterized integral membrane protein HP0284   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative mechanosensitive ion channel family protein	CAL35125	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.376|FBE84_08230   ATP/GTP-binding protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	disulfide bond formation protein, DsbB family	AAW34512	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1219|FBE84_04370   Flagellar biosynthesis protein FlhF   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	flagellar biosynthesis protein	CAL34238	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1636|FBE84_06335   Membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35789	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.695|FBE84_01930   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	hypothetical protein	EAQ72186	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.689|FBE84_01900   Apolipoprotein N-acyltransferase / Copper homeostasis protein CutE   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	apolipoprotein N-acyltransferase	AAW35560	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.758|FBE84_02245   Signal-transduction regulatory protein FlgR   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	sigma-54 dependent DNA-binding response regulator	AAW35494	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.751|FBE84_02210   Multidrug efflux system, outer membrane factor lipoprotein => CmeD   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	putative outer membrane component of efflux system	ABV52567	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.314|FBE84_07910   Citrate synthase (si) (EC 2.3.3.1)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	citrate synthase	ABV53177	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.978|FBE84_03185   Transmembrane transport protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative MFS (Major Facilitator Superfamily) transport protein	CAL35099	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.476|FBE84_00840   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	hypothetical protein Cj1310c (617 family)	CAL35424	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.589|FBE84_01415   Amidohydrolase   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	dihydroorotase, putative	EAQ72169	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.649|FBE84_01700   Beta-1,3-galactosyltransferase / Beta-1,4-galactosyltransferase   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative glycosyltransferase	CAL35253	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.647|FBE84_01690   Beta-1,3-galactosyltransferase / Beta-1,4-galactosyltransferase   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative glycosyltransferase	CAL35255	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1271|FBE84_04625   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW34884	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1259|FBE84_04575   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	hypothetical protein Cj0254	CAL34408	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.225|FBE84_07440   Sulfate adenylyltransferase (EC 2.7.7.4)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	ATP-sulfurylase family protein	AAW36205	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1479|FBE84_05620   Type I restriction-modification system, specificity subunit S   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	HsdS	EAQ72509	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.469|FBE84_00805   Pseudaminic acid biosynthesis protein PseA, possible Pse5Ac7Ac acetamidino synthase   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	flagellin modification protein, PseA	EAQ72845	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1115|FBE84_03850   Predicted phosphohydrolase   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	Ser/Thr protein phosphatase family protein	AAW35270	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.601|FBE84_01470   Ubiquinol-cytochrome C reductase, cytochrome C1 subunit   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	ubiquinol--cytochrome c reductase, cytochrome c1 subunit	AAW35639	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.642|FBE84_01670   UDP-N-acetylglucosamine 2-epimerase (hydrolyzing) (EC 3.2.1.183)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative UDP-N-acetylglucosamine 2-epimerase	CAL35259	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.67|FBE84_00330   Flagellar biosynthesis protein FlhB   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	flagellar biosynthetic protein	ABV51911	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.721|FBE84_02060   ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	competence/damage-inducible domain protein	AAW35530	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.174|FBE84_07185   Glucosamine-1-phosphate guanylyltransferase   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative sugar-phosphate nucleotide transferase	CAL35442	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.648|FBE84_01695   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative glycosyltransferase	CAL35254	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1466|FBE84_05555   Tungstate ABC transporter, ATP-binding protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	tungsten ABC transporter, ATP-binding protein, putative	AAW36139	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1162|FBE84_04090   Probable membrane protein Cj0124c   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW34714	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.255|FBE84_07600   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	hypothetical protein	ABV53136	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1471|FBE84_05580   Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW36144	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.153|FBE84_00750   Membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	membrane protein, putative	AAW35059	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1635|FBE84_06330   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	chemotaxis protein MotB, putative	AAW35788	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.657|FBE84_01740   GalNAc(5)-diNAcBac-PP-undecaprenol beta-1,3-glucosyltransferase (EC 2.4.1.293)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	general glycosylation pathway protein	AAW35592	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.645   Beta-1,3-galactosyltransferase / Beta-1,4-galactosyltransferase   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	beta-1,3 galactosyltransferase	CAL35256	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1705|FBE84_06680   Malate dehydrogenase (EC 1.1.1.37)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	malate dehydrogenase	AAW35851	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1472|FBE84_05585   Membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	integral membrane protein	EAQ72568	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.665|FBE84_01780   N-linked glycosylation glycosyltransferase PglG   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	general glycosylation pathway protein	AAW35584	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.740|FBE84_02155   Transcriptional regulator, AraC family   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	transcriptional regulator, AraC family	EAQ72095	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1449|FBE84_05480   CRISPR-associated protein Cas1   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative CRISPR-associated protein	CAL35626	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.651|FBE84_01710   Lipid A biosynthesis lauroyl acyltransferase (EC 2.3.1.241)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative lipid A biosynthesis lauroyl acyltransferase	CAL35251	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1240|FBE84_04480   Flagellar basal-body rod modification protein FlgD   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	flagellar hook assembly protein	EAQ71927	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.644|FBE84_01680   CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase (EC 2.4.99.-)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	alpha-2,3 sialyltransferase	CAL35257	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.961|FBE84_03095   Transcriptional regulator, LysR family   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	transcriptional regulator, LysR family	EAQ72039	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1598|FBE84_06145   NOL1/NOP2/sun family protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	NOL1/NOP2/sun family protein	ABV52194	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1345|FBE84_04965   tRNA dimethylallyltransferase (EC 2.5.1.75)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	tRNA delta(2)-isopentenylpyrophosphate transferase	AAW34756	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1731|FBE84_06805   Predicted dehydrogenases and related proteins   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	oxidoreductase, Gfo/Idh/MocA family	AAW35876	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1227   FIG00973752: TolA-like membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hmcD domain protein	AAW34650	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.741|FBE84_02160   Putative periplasmic ATP/GTP-binding protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW35510	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1334|FBE84_04905   Putative lipoprotein, similar to CjrA of Escherichia coli O164   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative iron transport protein	CAL34346	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.640|FBE84_01660   FIG00471437: hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	hypothetical protein Cj1144c	CAL35261	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.52|FBE84_00255   Flagellar assembly protein FliH   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative flagellar assembly protein	CAL34471	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1205|FBE84_04305   Cytolethal distending toxin subunit A   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	cytolethal distending toxin	ABV51672	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1359|FBE84_05035   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW34742	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.748|FBE84_02195   Possible dnaJ-like protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	DnaJ domain protein	AAW35503	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1206|FBE84_04310   Cytolethal distending toxin subunit B, DNase I-like   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	cytolethal distending toxin, subunit B	EAQ71976	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.488|FBE84_00900   GDP-4-amino-4,6-dideoxy-alpha-D-acetylglucosamine N-acetyltransferase   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative N-acetyltransferase	CAL35412	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.198|FBE84_07305   ABC transporter, permease protein 2 (cluster 5, nickel/peptides/opines)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	peptide ABC transporter, permease protein	ABV53077	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.112|FBE84_00550   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	hypothetical protein Cj0380c	CAL34530	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1097|FBE84_03760   Inner membrane thiol:disulfide oxidoreductase, DsbB-like   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	disulfide bond formation protein B	AAW35289	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1135|FBE84_03955   Putative processing peptidase   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	peptidase, A24 family	AAW35249	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.313|FBE84_07905   3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	CysQ protein homolog	CAL35776	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.13|FBE84_00065   Rod shape-determining protein MreC   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	rod shape-determining protein MreC	AAW34916	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.68|FBE84_00335   Flagellar motor rotation protein MotB   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	chemotaxis protein MotB, putative	EAQ73296	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1340|FBE84_04935   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	hypothetical protein Cj0170	CAL34340	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.750|FBE84_02205   Multidrug efflux system, membrane fusion component => CmeE   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW35501	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.146|FBE84_00720   Gluconate 2-dehydrogenase (EC 1.1.99.3), membrane-bound, gamma subunit   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW35052	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1158|FBE84_04070   Putative fructose-1,6-bisphosphatase or related enzymes of inositol monophosphatase family   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	Inositol monophosphatase family protein	AAW34718	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.176|FBE84_07195   CMP-N,N'-diacetyllegionaminic acid synthase (EC 2.7.7.82)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	acylneuraminate cytidylyltransferase (flagellin modification)	CAL35444	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.150|FBE84_00735   SrpA-related protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved domain protein	AAW35056	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1322|FBE84_04845   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ73057	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.149|FBE84_00730   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35055	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.36|FBE84_00175   Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	biotin biosynthesis protein BioC	EAQ73337	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.435|FBE84_08515   putative TonB-dependent receptor   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	TonB	AAW35182	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.196|FBE84_07295   ABC transporter, ATP-binding protein (cluster 5, nickel/peptides/opines)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	peptide ABC transporter, ATP-binding protein	ABV53075	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.305|FBE84_07865   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative periplasmic protein	CAL35766	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.706|FBE84_01985   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35543	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1421|FBE84_05345   Heavy-metal-associated domain (N-terminus) and membrane-bounded cytochrome biogenesis cycZ-like domain, possible membrane copper tolerance protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative integral membrane protein	CAL35600	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1211|FBE84_04335   Predicted L-lactate dehydrogenase, hypothetical protein subunit YkgG   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved domain protein	EAQ72018	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.503|FBE84_00965   KtrAB potassium uptake system, peripheral membrane component KtrA   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	potassium uptake protein TrkA, putative	EAQ72893	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.675|FBE84_01830   Leucyl/phenylalanyl-tRNA--protein transferase (EC 2.3.2.6)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	leucyl/phenylalanyl-tRNA--protein transferase	EAQ72236	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1616|FBE84_06235   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ73250	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.753|FBE84_02220   Outer membrane liproprotein mapA precursor   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	putative lipoprotein	ABV52565	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.21|FBE84_00105   FIG022708: hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW34924	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.351|FBE84_08115   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	hypothetical protein	EAQ71918	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1639|FBE84_06350   Endonuclease III (EC 4.2.99.18)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	endonuclease III	AAW35792	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.669|FBE84_01800   Phosphatidylserine decarboxylase-related protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	phosphatidylserine decarboxylase-related protein	ABV52655	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.37|FBE84_00180   Pimeloyl-[acyl-carrier protein] methyl ester esterase BioG (EC 3.1.1.85)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ73418	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1617|FBE84_06240   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	hypothetical protein Cj0617 (617 family)	CAL34763	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1000|FBE84_03260   DNA polymerase, bacteriophage-type (EC 2.7.7.7)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	hypothetical protein Cj0963	CAL35083	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1401|FBE84_05245   Transformation system protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	transformation system protein	AAW36079	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.40|FBE84_00195   Dethiobiotin synthase BioD (EC 6.3.3.3)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	dethiobiotin synthetase	EAQ73363	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.739|FBE84_02150   Thiazole tautomerase TenI (EC 5.3.99.10)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	thiamine-phosphate pyrophosphorylase, putative	AAW35512	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.718|FBE84_02045   Oxygen-insensitive NAD(P)H nitroreductase (EC 1.-.-.-) / Dihydropteridine reductase (EC 1.5.1.34)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	nitroreductase family protein	AAW36299	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.885|FBE84_02750   gamma-Glutamyl-CDP-amidate hydrolase involved in O-methyl phosphoramidate capsule modification   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	class I glutamine amidotransferase, putative	EAQ72925	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1412|FBE84_05300   Membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	hypothetical protein	ABV52987	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1650|FBE84_06405   DNA poymerase III subunit delta' (EC 2.7.7.7)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	DNA polymerase III, delta prime subunit, homolog	AAW35803	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1400|FBE84_05240   Transformation system protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	transformation system protein	EAQ72693	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.129|FBE84_00635   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW35035	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.368|FBE84_08195   Ribonuclease HII (EC 3.1.26.4)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	ribonuclease HII	EAQ71905	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1207|FBE84_04315   Cytolethal distending toxin subunit C   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	cytolethal distending toxin, subunit C	EAQ72030	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1379|FBE84_05135   ATP/GTP-binding protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	hypothetical protein	EAQ72520	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1054|FBE84_03565   Cytochrome oxidase biogenesis protein Sco1/SenC/PrrC, thiol-disulfide reductase involved in Cu(I) insertion into CoxII Cu(A) center   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	SCO1/SenC family protein	AAW35322	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1651|FBE84_06410   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW35804	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.522|FBE84_01070   Hydrogenase maturation protease   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hydrogenase maturation protease HydD	AAW35719	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1697|FBE84_06640   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved domain protein	AAW35843	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.980|FBE84_03195   Thermonuclease family protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative secreted nuclease	CAL35097	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1768|FBE84_07020   putative membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	hypothetical protein	ABV52027	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1182|FBE84_04190   ATP synthase delta chain (EC 3.6.3.14)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	ATP synthase F1, delta subunit	EAQ71908	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1167|FBE84_04115   Nicotinamidase (EC 3.5.1.19)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	hypothetical protein	ABV51711	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1424|FBE84_05360   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	putative periplasmic protein	ABV52999	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.756|FBE84_02235   Flagellar protein FlgP   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	lipoprotein, putative	AAW35496	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1348|FBE84_04980   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ73480	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.959|FBE84_03085   phosphohistidine phosphatase SixA, putative   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative phosphoglycerate/bisphosphoglycerate mutase	CAL35120	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.2|FBE84_00010   Membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	membrane protein, putative	AAW34905	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1110|FBE84_03825   Probable integral membrane protein Cj0851c   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	membrane protein, putative	AAW35275	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.268|FBE84_07665   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW36244	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1347|FBE84_04975   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	hypothetical protein Cj0163c	CAL34334	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.539|FBE84_01150   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35703	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.396|FBE84_08330   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ72442	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1073|FBE84_03655   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	hypothetical protein	EAQ72424	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.107|FBE84_00525   putative lipoprotein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	lipoprotein, putative	AAW35013	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.472|FBE84_00820   UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase (EC 2.3.1.202)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	acetyltransferase, GNAT family	EAQ72810	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1055|FBE84_03570   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW35321	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.534|FBE84_01130   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW35708	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.705|FBE84_01980   Probable periplasmic protein Cj1079   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved domain protein	AAW35544	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1475|FBE84_05600   lipocalin family protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	putative homolog of BLC protein	EAQ72899	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.757|FBE84_02240   Flagellar-associated protein FlgQ   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35495	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1548|FBE84_05950   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	putative periplasmic protein	ABV52234	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.684|FBE84_01875   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ72071	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.762|FBE84_02265   Putative cytochrome c   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	cytochrome c family protein	AAW35490	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1709|FBE84_06700   Flagellar basal-body rod protein FlgB   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	flagellar basal-body rod protein FlgB	AAW35855	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1448|FBE84_05475   CRISPR-associated protein Cas2   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Epsilonproteobacteria	CRISPR-associated protein Cas2	ABS44634	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1425|FBE84_05365   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved domain protein	AAW36103	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.720|FBE84_02055   Acetyltransferase   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	acetyltransferase, GNAT family	EAQ72183	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1056|FBE84_03575   Copper metallochaperone PCu(A)C, inserts Cu(I) into cytochrome oxidase subunit II   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW35320	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.878|FBE84_02715   Membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	membrane protein, putative	AAW36030	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.957|FBE84_03075   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW35412	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1050|FBE84_03545   Putative acyl-CoA thioester hydrolase (EC 3.1.2.-)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	thioesterase family protein	EAQ71877	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1331|FBE84_04890   Ferric siderophore transport system, biopolymer transport protein ExbD   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	biopolymer transport protein, ExbD/TolR family	AAW34768	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1353|FBE84_05005   Membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	membrane protein, putative	EAQ73069	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1787|FBE84_07105   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW35074	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1165|FBE84_04105   Metal-dependent hydrolase YbeY, involved in rRNA and/or ribosome maturation and assembly   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein TIGR00043	AAW34711	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.34|FBE84_00165   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	TOBE domain protein	AAW34936	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1389|FBE84_05185   JHP0747 family   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ72535	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.63|FBE84_00310   FIG01269488: protein, clustered with ribosomal protein L32p   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW34965	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.729|FBE84_02100   Membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW35522	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1392|FBE84_05200   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ72819	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.363|FBE84_08170   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	AAW34501	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.42|FBE84_00205   Broad-specificity multidrug efflux pump YkkC   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	multidrug resistance protein, SMR family	EAQ73468	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.399|FBE84_08345   Periplasmic nitrate reductase component NapD   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	napD protein	EAQ72444	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.816|FBE84_02420   Putative coiled-coil protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35974	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.159|FBE84_00780   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	hypothetical protein Cj0427	CAL34577	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1514|FBE84_05780   FIG138056: a glutathione-dependent thiol reductase   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ72402	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.873|FBE84_02690   Ribosomal silencing factor RsfA   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ72755	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1242|FBE84_04490   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW34637	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.544|FBE84_01175   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35698	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1403|FBE84_05255   Transformation system protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	hypothetical protein Cj1475c	CAL35582	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.448|FBE84_08575   Small hydrophobic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	hypothetical protein	EAQ72348	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1666|FBE84_06490   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	hypothetical protein	ABV52129	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1687|FBE84_06590   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35833	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1204|FBE84_04300   Membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ72012	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1416|FBE84_05320   Cytochrome c oxidase (cbb3-type) subunit CcoQ (EC 1.9.3.1)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	cytochrome c oxidase, cbb3-type, subunit IV	EAQ72682	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1698|FBE84_06645   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	hypothetical protein	EAQ73094	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.156|FBE84_00765   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35062	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1151|FBE84_04035   Hypothetical protein Cj0135   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ73293	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.561|FBE84_01265   Ribbon-helix-helix protein, copG family domain protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ72847	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.397|FBE84_08335   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ72353	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1549|FBE84_05955   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved domain protein	EAQ72386	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1550|FBE84_05960   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	EAQ72298	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1298|FBE84_04740   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	hypothetical protein	EAQ73185	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.946|FBE84_03020   Erythrocyte membrane-associated antigen   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	conserved domain protein	AAW35424	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.478|FBE84_00850   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Epsilonproteobacteria	putative acyl carrier protein	ABS43381	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.616|FBE84_01545   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved domain protein	EAQ72137	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1643|FBE84_06370   putative lipoprotein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	putative lipoprotein	CAL34737	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.972|FBE84_03150   putative membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved domain protein	EAQ72042	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.6|FBE84_00030   2-hydroxymuconate tautomerase-like protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	4-oxalocrotonate tautomerase family protein	AAW34909	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.570|FBE84_01310   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	conserved domain protein	EAQ72184	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.306|FBE84_07870   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Epsilonproteobacteria	conserved hypothetical protein	ABS44067	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.761|FBE84_02260   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	porin domain protein	EAQ72085	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.581|FBE84_01375   Membrane protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	membrane protein, putative	AAW35658	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1506|FBE84_05740   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	hypothetical protein	EAQ72285	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1343|FBE84_04950   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	hypothetical protein	EAQ72993	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.274|FBE84_07695   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	hypothetical protein Cj1656c	CAL35753	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1065|FBE84_03615   Small hydrophobic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35312	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1262|FBE84_04590   Highly acidic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW34891	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.981|FBE84_03200   putative lipoprotein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	lipoprotein, putative	AAW35388	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.726|FBE84_02085   Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	exodeoxyribonuclease VII, small subunit, putative	EAQ72164	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.398|FBE84_08340   Small hydrophobic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Epsilonproteobacteria	hypothetical protein	ABV52336	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.377|FBE84_08235   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	hypothetical protein	EAQ71971	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.940|FBE84_03000   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35429	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.987|FBE84_03220   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	very hypothetical protein Cj0974	CAL35092	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1086|FBE84_03730   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35291	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1290|FBE84_04720   serine protease pet   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	pathogenicity protein, putative, truncation	EAQ73287	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.538   FIG00470841: hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	hypothetical protein	EAQ72912	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.993   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW35378	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1301   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	hypothetical protein	EAQ72959	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.77|FBE84_00375   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW34981	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1562   Putative periplasmic protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	303	CP000025	Campylobacter jejuni RM1221, complete genome.	Epsilonproteobacteria	hypothetical protein	AAW34564	Yes	100.0
+
+#input_seq:	fig|2572047.4.peg.1087|FBE84_03735   hypothetical protein   [Campylobacter sp. CFSAN093261 | 2572047.4]
+#matched_seq:	8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Epsilonproteobacteria	very hypothetical protein Cj0877c	CAL34999	Yes	100.0
+

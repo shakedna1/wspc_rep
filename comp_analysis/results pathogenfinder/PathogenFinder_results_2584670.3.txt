@@ -1,0 +1,29 @@
+INPUT SEQUENCE INFO:
+Input Name ::	5_11_12_2020_092711_956989_input.fsa
+Sequences ::	 4068
+Total bpp ::	 1249130
+Longest seq ::	 4012
+Shortest seq ::	 24
+Avg seq lenght ::	 307.0
+
+RESULTS:
+Min Identity Threshold ::	81.98
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-0.537
+Probability of being human pathogen ::	0.431
+Matches::	3
+Genome Coverage (%) ::	0.07
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	2
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2584670.3.peg.1853|GMD65_01350   hypothetical protein   [Pseudoflavonifractor sp. BIOML-A8 | 2584670.3]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative uncharacterized protein	CBE04594	Yes	91.04
+
+#input_seq:	fig|2584670.3.peg.3505|GMD65_08205   FIG00529500: hypothetical protein   [Pseudoflavonifractor sp. BIOML-A8 | 2584670.3]
+#matched_seq:	42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	Clostridia	von Willebrand factor type A	ADL06218	No	83.64
+
+#input_seq:	fig|2584670.3.peg.3001|GMD65_05850   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Pseudoflavonifractor sp. BIOML-A8 | 2584670.3]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	83.78
+

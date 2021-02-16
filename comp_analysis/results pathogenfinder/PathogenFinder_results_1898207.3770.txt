@@ -1,0 +1,23 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_10_12_2020_113259_243373_input.fsa
+Sequences ::	 843
+Total bpp ::	 236255
+Longest seq ::	 1538
+Shortest seq ::	 1
+Avg seq lenght ::	 280.0
+
+RESULTS:
+Min Identity Threshold ::	79.626
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-1.19
+Probability of being human pathogen ::	0.278
+Matches::	1
+Genome Coverage (%) ::	0.12
+Pathogenic Families Matched ::	0
+Non-Pathogenic Families Matched ::	1
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1898207.3770.peg.210   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Clostridiales bacterium strain T-C-M_MAG_00006 | 1898207.3770]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	86.49
+

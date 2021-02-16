@@ -1,0 +1,197 @@
+INPUT SEQUENCE INFO:
+Input Name ::	5_11_12_2020_075447_219846_input.fsa
+Sequences ::	 5084
+Total bpp ::	 1545050
+Longest seq ::	 5465
+Shortest seq ::	 20
+Avg seq lenght ::	 303.0
+
+RESULTS:
+Min Identity Threshold ::	94.051
+Z-THRESHOLD ::	3.0
+Prediction Score ::	133.134
+Probability of being human pathogen ::	0.699
+Matches::	59
+Genome Coverage (%) ::	1.16
+Pathogenic Families Matched ::	42
+Non-Pathogenic Families Matched ::	17
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2494701.5.peg.316   iron aquisition yersiniabactin synthesis enzyme (Irp2) @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	High-molecular-weight nonribosomal peptide/polyketide synthetase 2 (HMWP2)	CAR13462	Yes	99.75
+
+#input_seq:	fig|2494701.5.peg.236   hypothetical protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR13499	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.4393   Hydroxyaromatic non-oxidative decarboxylase protein C (EC 4.1.1.-)   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78633	Yes	95.79
+
+#input_seq:	fig|2494701.5.peg.3964   NAD kinase (EC 2.7.1.23)   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017	Yes	96.92
+
+#input_seq:	fig|2494701.5.peg.3271   Efflux transport system, outer membrane factor (OMF) lipoprotein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	13384	CP000482	Pelobacter propionicus DSM 2379, complete genome.	Deltaproteobacteria	RND efflux system, outer membrane lipoprotein, NodT family	ABK99524	No	97.58
+
+#input_seq:	fig|2494701.5.peg.4009   Maltodextrin ABC transporter, substrate-binding protein MdxE   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	ABC superfamily (bin	AAX68014	Yes	94.19
+
+#input_seq:	fig|2494701.5.peg.1843   Proton/glutamate symporter @ Proton/aspartate symporter   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14881	Yes	97.03
+
+#input_seq:	fig|2494701.5.peg.321   Salicylate synthetase (EC 5.4.4.2)(EC 4.2.99.21) @ Salicylate synthetase (EC 5.4.4.2)(EC 4.2.99.21) of siderophore biosynthesis   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	28745	CP001048	Yersinia pseudotuberculosis PB1/+, complete genome.	Gammaproteobacteria	Chorismate binding-like protein	ACC88687	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.4973   Mobile element protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	transposase InsC3 for insertion sequence ISEc9	ABO41047	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.2368   Na+ dependent nucleoside transporter NupC   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	Nucleoside permease NupC	ABE08191	Yes	94.43
+
+#input_seq:	fig|2494701.5.peg.3274   ABC transporter, permease protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	Gammaproteobacteria	protein of unknown function DUF214	ABM18342	No	99.75
+
+#input_seq:	fig|2494701.5.peg.246   Eha protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	Gammaproteobacteria	conserved hypothetical protein	BAE74097	No	98.18
+
+#input_seq:	fig|2494701.5.peg.5084   Uncharacterized transposase YagA   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	CP4-6 prophage; predicted DNA-binding transcriptional regulator	ACB01434	No	100.0
+
+#input_seq:	fig|2494701.5.peg.3275   RND efflux system, membrane fusion protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	Gammaproteobacteria	efflux transporter, RND family, MFP subunit	ABM18341	No	95.82
+
+#input_seq:	fig|2494701.5.peg.289   Antirestriction protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	putative Antirestriction protein ardC	CAR13490	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.3421   ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66384	Yes	96.32
+
+#input_seq:	fig|2494701.5.peg.67   Malate dehydrogenase (EC 1.1.1.37)   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	malate dehydrogenase	ABE09111	Yes	95.51
+
+#input_seq:	fig|2494701.5.peg.20   Aminoglycoside 3''-phosphotransferase (EC 2.7.1.87) => APH(3'')-I   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	19459	CP001125	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 plasmid pCVM1963	Gammaproteobacteria	10, complete sequence.	ACF88500	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.3691   Phage DNA replication protein O   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	phage replication protein O	BAB36410	Yes	99.33
+
+#input_seq:	fig|2494701.5.peg.876   SSU ribosomal protein S2p (SAe)   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	97.93
+
+#input_seq:	fig|2494701.5.peg.3695   Phage protein NinC   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	Nin-like protein	AAX64248	Yes	99.66
+
+#input_seq:	fig|2494701.5.peg.4829   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	95.75
+
+#input_seq:	fig|2494701.5.peg.2705   3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85)   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741	No	95.37
+
+#input_seq:	fig|2494701.5.peg.3662   Phage tail tip, assembly protein K   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Gammaproteobacteria	Putative tail fiber component K of prophage	ADD59636	Yes	95.95
+
+#input_seq:	fig|2494701.5.peg.1332   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	98.84
+
+#input_seq:	fig|2494701.5.peg.3692   Phage DNA replication protein P   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	replication protein	BAI33860	Yes	97.85
+
+#input_seq:	fig|2494701.5.peg.3654   Phage tail, component Z   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Gammaproteobacteria	Minor tail protein Z (GpZ)	CAR01924	Yes	97.4
+
+#input_seq:	fig|2494701.5.peg.3699   Phage antitermination protein Q   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	putative antitermination protein	ABF02553	Yes	99.52
+
+#input_seq:	fig|2494701.5.peg.3276   Transcriptional regulator, AcrR family   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	Gammaproteobacteria	transcriptional regulator, TetR family	ABM18340	No	98.51
+
+#input_seq:	fig|2494701.5.peg.3767   Protein of unknown function DUF208   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	20585	CU468133	Erwinia tasmaniensis strain ET1/99 complete plasmid pET46.	Gammaproteobacteria	Resolvase	CAO94998	No	99.5
+
+#input_seq:	fig|2494701.5.peg.4820   Mobile element protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	transposon Tn3 resolvase	AAX87127	Yes	98.38
+
+#input_seq:	fig|2494701.5.peg.3716   IS1 protein InsB   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS1 protein InsB	ACD09517	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.3139   Acetyltransferase YpeA   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX65938	Yes	96.45
+
+#input_seq:	fig|2494701.5.peg.3410   Mobile element protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein, putative transposase	CAR13504	Yes	99.37
+
+#input_seq:	fig|2494701.5.peg.3272   hypothetical protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABM18344	No	98.09
+
+#input_seq:	fig|2494701.5.peg.4249   Heat shock protein 10 kDa family chaperone GroES   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	co-chaperonin GroES	ACN48531	Yes	96.91
+
+#input_seq:	fig|2494701.5.peg.767   Uncharacterized lipoprotein YafY   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	CP4-6 prophage; inner membrane lipoprotein	ACB01418	No	100.0
+
+#input_seq:	fig|2494701.5.peg.239   Phage protein Mup16, GemA   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	Gammaproteobacteria	conserved hypothetical protein	BAE74092	No	95.04
+
+#input_seq:	fig|2494701.5.peg.3680   Phage host-nuclease inhibitor protein Gam   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	Host-nuclease inhibitor protein gam from bacteriophage origin	CAR12598	Yes	97.96
+
+#input_seq:	fig|2494701.5.peg.3652   Phage head, DNA packaging protein FI   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	putative DNA packaging protein	BAI29411	Yes	99.24
+
+#input_seq:	fig|2494701.5.peg.2166   YcfF/hinT protein: a purine nucleoside phosphoramidase   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	histidine triad nucleotide-binding protein 2	ACF64355	Yes	94.96
+
+#input_seq:	fig|2494701.5.peg.2753   Uncharacterized protein STM4441   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACX86741	No	95.83
+
+#input_seq:	fig|2494701.5.peg.3660   Phage tail tip, assembly protein M   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Gammaproteobacteria	minor tail protein	ADD54975	Yes	95.41
+
+#input_seq:	fig|2494701.5.peg.249   Transcriptional regulator, IclR family   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	Gammaproteobacteria	conserved hypothetical protein	BAE74100	No	97.03
+
+#input_seq:	fig|2494701.5.peg.2574   Integration host factor alpha subunit   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881	No	95.96
+
+#input_seq:	fig|2494701.5.peg.24   hypothetical protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	33369	CU928144	Escherichia fergusonii str. ATCC 35469T plasmid pEFER, complete genome.	Gammaproteobacteria	YahA protein	CAQ86944	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.3690   Phage activator protein cII   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	regulatory protein cII	BAB33699	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.3674   Phage protein ea8.5   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted protein	CAS08530	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.309   Transcriptional regulator, AlpA like   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Gammaproteobacteria	putative transcriptional regulator	AAS61876	Yes	98.36
+
+#input_seq:	fig|2494701.5.peg.2913   Haemolysin expression modulating protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893	Yes	95.83
+
+#input_seq:	fig|2494701.5.peg.4095   Uncharacterized S4 RNA-binding-domain protein YbcJ   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	putative cytoplasmic protein	AAX64486	Yes	95.71
+
+#input_seq:	fig|2494701.5.peg.766   hypothetical protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	CP4-57 prophage; predicted inner membrane protein	ACB03777	No	97.44
+
+#input_seq:	fig|2494701.5.peg.1671   DNA-damage-inducible protein I   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78455	Yes	94.81
+
+#input_seq:	fig|2494701.5.peg.1359   D-alanine--poly(phosphoribitol) ligase ACP subunit (EC 6.1.1.13)   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	33069	CP001654	Dickeya dadantii Ech703, complete genome.	Gammaproteobacteria	acyl carrier protein	ACS84748	No	94.44
+
+#input_seq:	fig|2494701.5.peg.3683   Phage restriction alleviation ral   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	Restriction inhibitor protein ral (Antirestriction protein)	CAQ89580	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.308   hypothetical protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR08443	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.3673   Phage protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAI24155	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.3681   Phage host-killing protein Kil   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Gammaproteobacteria	kil	ACI37445	Yes	100.0
+
+#input_seq:	fig|2494701.5.peg.2304   Mobile element protein   [Enterobacter chengduensis strain C2-143-1 | 2494701.5]
+#matched_seq:	313	AE014075	Escherichia coli CFT073, complete genome.	Gammaproteobacteria	Hypothetical protein	AAN83597	Yes	100.0
+

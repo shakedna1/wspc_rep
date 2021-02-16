@@ -1,0 +1,392 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_103204_396670_input.fsa
+Sequences ::	 5925
+Total bpp ::	 1600831
+Longest seq ::	 5011
+Shortest seq ::	 25
+Avg seq lenght ::	 270.0
+
+RESULTS:
+Min Identity Threshold ::	98.77
+Z-THRESHOLD ::	3.0
+Prediction Score ::	336.162
+Probability of being human pathogen ::	0.774
+Matches::	124
+Genome Coverage (%) ::	2.09
+Pathogenic Families Matched ::	101
+Non-Pathogenic Families Matched ::	23
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2026186.33.peg.5628|GI596_26660   Transcription-repair coupling factor   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	transcription-repair coupling factor	ABK83468	No	99.83
+
+#input_seq:	fig|2026186.33.peg.1950|GI596_07330   glycosyl transferase, group 2 family protein/polysaccharide deacetylase family protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	group-specific protein	ACJ79657	Yes	99.35
+
+#input_seq:	fig|2026186.33.peg.158|GI596_20235   Two-component system sensor histidine kinase   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001179	Bacillus cereus AH187 plasmid pAH18	Bacillales	70, complete sequence.	ACJ82771	Yes	99.73
+
+#input_seq:	fig|2026186.33.peg.3269|GI596_13670   Pyruvate kinase (EC 2.7.1.40) / Phosphohistidine swiveling domain   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	pyruvate kinase	ABK87388	No	99.49
+
+#input_seq:	fig|2026186.33.peg.4470|GI596_20025   Collagen triple helix repeat protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	collagen triple helix repeat protein	ACJ77904	Yes	99.35
+
+#input_seq:	fig|2026186.33.peg.3443|GI596_14480   ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	16220	CP000227	Bacillus cereus Q1, complete genome.	Bacillales	YvdG	ACM12413	No	99.37
+
+#input_seq:	fig|2026186.33.peg.403   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001286	Bacillus cereus AH820 plasmid pAH82	Bacillales	0, complete sequence.	ACK92957	Yes	99.5
+
+#input_seq:	fig|2026186.33.peg.1185|GI596_03645   Maltodextrin ABC transporter, substrate-binding protein MdxE   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	carbohydrate ABC transporter substrate-binding protein, CUT1 family	ABK86865	No	99.05
+
+#input_seq:	fig|2026186.33.peg.318|GI596_25335   Spore germination protein xc. bacillus   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001285	Bacillus cereus AH820 plasmid pAH82	Bacillales	72, complete sequence.	ACK92843	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1344|GI596_04380   Phage cell division protein FtsK (ACLAME 464)   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	DNA segregation protein	ACJ80572	Yes	99.74
+
+#input_seq:	fig|2026186.33.peg.3774|GI596_16060   BNR repeat domain protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	BNR repeat domain protein	ACJ77694	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4776|GI596_22300   Uncharacterized protein YhaX   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	hydrolase, haloacid dehalogenase-like family	ABK84163	No	99.31
+
+#input_seq:	fig|2026186.33.peg.941|GI596_02470   Superoxide dismutase [Fe] (EC 1.15.1.1) @ Exosporium SOD   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	superoxide dismutase	ABK84668	No	100.0
+
+#input_seq:	fig|2026186.33.peg.778|GI596_01710   Uncharacterized membrane protein YkoY   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	possible integral membrane protein, TerC family	ABK84526	No	99.62
+
+#input_seq:	fig|2026186.33.peg.1055|GI596_03010   L-serine dehydratase, alpha subunit (EC 4.3.1.17)   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	L-serine ammonia-lyase	ABK86980	No	99.66
+
+#input_seq:	fig|2026186.33.peg.1939|GI596_07275   phosphotransferase enzyme family   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	16220	CP000227	Bacillus cereus Q1, complete genome.	Bacillales	aminoglycoside phophotransferase-related protein	ACM13646	No	100.0
+
+#input_seq:	fig|2026186.33.peg.3195|GI596_13330   Manganese catalase (EC 1.11.1.6)   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	Mn-containing catalase	ABK86071	No	98.94
+
+#input_seq:	fig|2026186.33.peg.1777|GI596_06480   Hydrolase, alpha/beta fold family   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hydrolase, alpha/beta fold family	ACJ81551	Yes	99.31
+
+#input_seq:	fig|2026186.33.peg.161|GI596_20245   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001179	Bacillus cereus AH187 plasmid pAH18	Bacillales	70, complete sequence.	ACJ82617	Yes	99.63
+
+#input_seq:	fig|2026186.33.peg.4085|GI596_17585   Mg(2+)-transport-ATPase-associated protein MgtC   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	membrane protein, MgtC/SapB family	ABK87634	No	99.12
+
+#input_seq:	fig|2026186.33.peg.310|GI596_25300   Mobile element protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001179	Bacillus cereus AH187 plasmid pAH18	Bacillales	70, complete sequence.	ACJ82679	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.908|GI596_02315   Protein LiaH, similar to phage shock protein A   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	conserved hypothetical protein	ABK84639	No	99.55
+
+#input_seq:	fig|2026186.33.peg.3178|GI596_13265   FIG01239214: hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	group-specific protein	ACJ80991	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.952|GI596_02525   Peptidase, M23/M37 family   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	cell wall endopeptidase, family M23/M37	ABK84679	No	99.51
+
+#input_seq:	fig|2026186.33.peg.5493|GI596_26005   Fatty acid metabolism regulator protein FadR, TetR family   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	transcriptional regulator, TetR family	ABK87321	No	99.49
+
+#input_seq:	fig|2026186.33.peg.5901|GI596_28535   Integral membrane protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	integral membrane protein	ACJ80792	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4814|GI596_22480   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	conserved hypothetical protein	ACK91236	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.870|GI596_02130   Acetolactate synthase small subunit (EC 2.2.1.6)   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	acetolactate synthase, small subunit	ABK84603	No	99.41
+
+#input_seq:	fig|2026186.33.peg.4736|GI596_22105   Transcriptional regulator, AcrR family   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	transcriptional regulator, TetR family	ACJ78790	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4738|GI596_22115   Transcriptional regulator, AcrR family   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	12468	CP000001	Bacillus cereus E33L, complete genome.	Bacillales	transcriptional regulator, TetR family	AAU19505	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3767|GI596_16025   glucose-6-phosphate dehydrogenase domain protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	glucose-6-phosphate dehydrogenase domain protein	ACJ81918	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4749|GI596_22165   NAD(P)H dehydrogenase (Quinone); possible modulator of drug activity B (EC 1.6.5.2)   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	309	AE016879	Bacillus anthracis str. Ames, complete genome.	Bacillales	NAD(P)H dehydrogenase, quinone family	AAP24841	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1316|GI596_04245   Phage integrase   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	prophage LambdaBa02, site-specific recombinase, phage integrase family	ACJ81038	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4987|GI596_23275   RNA polymerase ECF-type sigma factor   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	10877	AE017355	Bacillus thuringiensis serovar konkukian str. 97-27, complete genome.	Bacillales	RNA polymerase sigma-70 factor	AAT61444	No	98.87
+
+#input_seq:	fig|2026186.33.peg.988|GI596_02700   Nucleoside diphosphate kinase (EC 2.7.4.6)   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	nucleoside diphosphate kinase	ABK84712	No	100.0
+
+#input_seq:	fig|2026186.33.peg.2446|GI596_09740   Transcriptional regulator, ArsR family   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	transcriptional regulator, ArsR family	AAT33601	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.2502|GI596_10000   Mn-dependent transcriptional regulator MntR   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	iron-dependent repressor	ABK87036	No	100.0
+
+#input_seq:	fig|2026186.33.peg.5045|GI596_23570   LSU ribosomal protein L16p (L10e)   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	LSU ribosomal protein L16P	ABK83530	No	99.31
+
+#input_seq:	fig|2026186.33.peg.284|GI596_25180   putative lipoprotein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001285	Bacillus cereus AH820 plasmid pAH82	Bacillales	72, complete sequence.	ACK92903	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1315|GI596_04240   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	phage transcriptional regulator, ArpU family	ACJ79865	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1329|GI596_04305   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved hypothetical protein	ACJ79090	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.140|GI596_20170   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	putative lipoprotein	ACK62661	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1839|GI596_06785   OMP, Outer membrane protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ80982	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1306|GI596_04205   Phage protein (ACLAME 29)   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved hypothetical protein	ACJ79410	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4770|GI596_22270   UPF0342 protein YheA   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	conserved hypothetical protein	ABK84157	No	100.0
+
+#input_seq:	fig|2026186.33.peg.5779|GI596_27835   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ82313	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3085|GI596_12825   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	10878	AE017225	Bacillus anthracis str. Sterne, complete genome.	Bacillales	conserved hypothetical protein	AAT55109	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1321|GI596_04265   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	conserved hypothetical protein	AAT33215	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4183|GI596_18055   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	group-specific protein	ACJ81611	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1330|GI596_04310   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	conserved hypothetical protein	AAT33205	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1290|GI596_04130   Transcriptional regulator, MerR family   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	prophage LambdaBa02, repressor protein	ACJ81050	Yes	99.12
+
+#input_seq:	fig|2026186.33.peg.1343|GI596_04375   FIG01230112: hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ79953	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3451|GI596_14505   Transcriptional regulator, AbrB family   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	transcriptional regulator, AbrB family	ABK85093	No	98.95
+
+#input_seq:	fig|2026186.33.peg.3731|GI596_15855   FIG01232668: hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved hypothetical protein	ACJ78982	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.2041|GI596_07750   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	group-specific protein	ACJ80215	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4897|GI596_22870   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved hypothetical protein	ACJ79006	Yes	98.99
+
+#input_seq:	fig|2026186.33.peg.2765|GI596_11260   Ferrous iron transporter-associated protein FeoA   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	16220	CP000227	Bacillus cereus Q1, complete genome.	Bacillales	ferrous iron transport protein A	ACM11237	No	100.0
+
+#input_seq:	fig|2026186.33.peg.2578   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	12468	CP000001	Bacillus cereus E33L, complete genome.	Bacillales	group-specific protein	AAU15363	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.5738   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	36309	CP001746	Bacillus cereus biovar anthracis str. CI, complete genome.	Bacillales	glycine-rich repeat protein	ADK05738	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.2135|GI596_08215   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	74	AE017194	Bacillus cereus ATCC 10987, complete genome.	Bacillales	hypothetical protein	AAS42538	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4605|GI596_21375   putative membrane protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	putative membrane protein	ACK91198	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4620|GI596_21445   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ82160	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.5914|GI596_28600   Outer membrane protein romA   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	outer membrane protein RomA	ACJ80969	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.2475|GI596_09880   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	74	AE017194	Bacillus cereus ATCC 10987, complete genome.	Bacillales	hypothetical protein	AAS43210	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3427|GI596_14410   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	conserved hypothetical protein	ACK92492	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3498|GI596_14730   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ79397	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3235|GI596_13505   Small, acid-soluble spore protein I   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	small, acid-soluble spore protein I	ABK87354	No	100.0
+
+#input_seq:	fig|2026186.33.peg.2457|GI596_09795   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ80210	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1339|GI596_04355   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ79820	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3586|GI596_15145   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	12468	CP000001	Bacillus cereus E33L, complete genome.	Bacillales	group-specific protein	AAU20080	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3290|GI596_13770   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	conserved domain protein	ACK90976	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.2965|GI596_12260   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ80437	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3515|GI596_14815   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ77444	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.389|GI596_27785   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001179	Bacillus cereus AH187 plasmid pAH18	Bacillales	70, complete sequence.	ACJ82846	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.5688|GI596_27145   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ81515	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3367   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	74	AE017194	Bacillus cereus ATCC 10987, complete genome.	Bacillales	hypothetical protein	AAS43723	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1301|GI596_04180   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ80698	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4786   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ79054	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.2934   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	74	AE017194	Bacillus cereus ATCC 10987, complete genome.	Bacillales	hypothetical protein	AAS40803	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.969   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ78713	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4919   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ79289	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1314   Phage protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ79808	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4434|GI596_19850   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	12468	CP000001	Bacillus cereus E33L, complete genome.	Bacillales	conserved hypothetical protein	AAU15715	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1134   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ78179	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.316   Beta-galactosidase (EC 3.2.1.23)   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001285	Bacillus cereus AH820 plasmid pAH82	Bacillales	72, complete sequence.	ACK92770	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1214   FIG01226217: hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved hypothetical protein	ACJ80621	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3204   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	hypothetical protein	ACK87384	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.556|GI596_00650   Uncharacterized protein YhfH   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	conserved hypothetical protein	AAT35293	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1664|GI596_05945   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved hypothetical protein	ACJ81413	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.487|GI596_00325   Uncharacterized protein YflJ   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	384	AE016877	Bacillus cereus ATCC 14579, complete genome.	Bacillales	hypothetical protein	AAP08003	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4634   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ78882	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.585   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved domain protein	ACJ78169	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.2535   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved hypothetical protein	ACJ77176	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1552   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	conserved hypothetical protein	AAT32963	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.845|GI596_02020   Component involved in D-alanylation of teichoic acids   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	31307	CP001407	Bacillus cereus 03BB102, complete genome.	Bacillales	conserved hypothetical protein	ACO29603	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3735   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	hypothetical protein	AAT35375	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1333|GI596_04325   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ78992	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3252|GI596_13590   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	hypothetical protein	ACK88355	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4176   FIG01228401: hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	conserved hypothetical protein	ACK87593	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.2490   FIG01236247: hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved hypothetical protein	ACJ80584	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.704   FIG01225893: hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	hypothetical protein	ACK87492	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.2593   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	hypothetical protein	AAT34620	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4303   FIG01229307: hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	conserved hypothetical protein	ACK89350	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4104   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	hypothetical protein	AAT35454	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1313|GI596_04235   DUF3983 domain-containing protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved hypothetical protein	ACJ78583	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.2412|GI596_09565   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ78788	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3111   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ79408	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4193   FIG01230520: hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ77826	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.446|GI596_00145   Response regulator aspartate phosphatase inhibitor   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved domain protein	ACJ80789	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1123|GI596_03340   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	hypothetical protein	ACK88178	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4280   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ78315	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.2733   FIG01225200: hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	hypothetical protein	ACK87843	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.798   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ79150	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4799   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ81990	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3738   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ78256	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.5432   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	hypothetical protein	ACK94134	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3872   FIG01229872: hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	hypothetical protein	ACK91574	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.3523   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	hypothetical protein	AAT35257	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.5201|GI596_24355   aldose epimerase   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ77334	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1188   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ82477	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.5315|GI596_24940   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved hypothetical protein	ACJ78304	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.5748   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ81100	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.4185   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	hypothetical protein	ACJ80015	Yes	100.0
+
+#input_seq:	fig|2026186.33.peg.1044|GI596_02955   hypothetical protein   [Bacillus paranthracis strain ELWA-3_3298 | 2026186.33]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	hypothetical protein	AAT33489	Yes	100.0
+

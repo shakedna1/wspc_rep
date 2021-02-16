@@ -1,0 +1,146 @@
+INPUT SEQUENCE INFO:
+Input Name ::	5_11_12_2020_104220_987021_input.fsa
+Sequences ::	 5792
+Total bpp ::	 1830641
+Longest seq ::	 5718
+Shortest seq ::	 20
+Avg seq lenght ::	 316.0
+
+RESULTS:
+Min Identity Threshold ::	92.18
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-87.961
+Probability of being human pathogen ::	0.186
+Matches::	42
+Genome Coverage (%) ::	0.73
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	41
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2681497.3.peg.49   Pyoverdine sidechain non-ribosomal peptide synthetase PvdD   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable non-ribosomal peptide synthetase	AAG05790	Yes	92.22
+
+#input_seq:	fig|2681497.3.peg.4505|GNP12_21680   Argininosuccinate lyase (EC 4.3.2.1)   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	13909	CP000712	Pseudomonas putida F1, complete genome.	Gammaproteobacteria	argininosuccinate lyase	ABQ76381	No	94.18
+
+#input_seq:	fig|2681497.3.peg.1030|GNP12_04840   hypothetical protein   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAY94458	No	93.41
+
+#input_seq:	fig|2681497.3.peg.1919|GNP12_09100   ATP-dependent RNA helicase SrmB   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	Gammaproteobacteria	ATP-dependent RNA helicase SrmB	AAY90832	No	93.08
+
+#input_seq:	fig|2681497.3.peg.475|GNP12_02185   Tricarboxylate transport sensor protein TctE   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative two-component system, sensor kinase	ABA73098	No	92.62
+
+#input_seq:	fig|2681497.3.peg.2480|GNP12_11840   Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative exodeoxyribonuclease VII large subunit	ABA76329	No	93.46
+
+#input_seq:	fig|2681497.3.peg.2293|GNP12_10915   Ethanolamine permease   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative ethanolamin permease	ABA75771	No	94.05
+
+#input_seq:	fig|2681497.3.peg.1903|GNP12_09020   Outer membrane receptor for ferric coprogen and ferric-rhodotorulic acid   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABA73167	No	92.5
+
+#input_seq:	fig|2681497.3.peg.1554|GNP12_07355   N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	Gammaproteobacteria	N-acetyl-gamma-glutamyl-phosphate reductase	AAY94804	No	95.93
+
+#input_seq:	fig|2681497.3.peg.2383|GNP12_11355   FMN oxidoreductase   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative oxidoreduxtase	ABA72627	No	92.37
+
+#input_seq:	fig|2681497.3.peg.712|GNP12_03310   CobW GTPase involved in cobalt insertion for B12 biosynthesis   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative cobalamin biosynthesis-related protein	ABA74837	No	95.47
+
+#input_seq:	fig|2681497.3.peg.5131|GNP12_24715   Transcriptional regulator, LysR family   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	Gammaproteobacteria	transcriptional regulator, LysR family	AAY90267	No	92.7
+
+#input_seq:	fig|2681497.3.peg.5477|GNP12_26370   Inner membrane protein YpjD   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	Gammaproteobacteria	cytochrome C assembly family protein	AAY90379	No	93.33
+
+#input_seq:	fig|2681497.3.peg.4905|GNP12_23645   Histidine, proline, and proline betaine ABC transporter, permease protein HutW   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative histidine ABC transport system, membrane protein	ABA72107	No	98.23
+
+#input_seq:	fig|2681497.3.peg.635|GNP12_02950   ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative ABC-type amino-acid transporter periplasmic solute-binding protein	ABA74830	No	92.91
+
+#input_seq:	fig|2681497.3.peg.4879|GNP12_23515   2-methoxy-6-polyprenyl-1,4-benzoquinol methylase (EC 2.1.1.201)   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	Gammaproteobacteria	ubiquinone biosynthesis methyltransferase	CAK17706	No	92.19
+
+#input_seq:	fig|2681497.3.peg.1855|GNP12_08780   Transcriptional regulator, GntR family   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative GntR-family transcriptional regulator	ABA73536	No	96.46
+
+#input_seq:	fig|2681497.3.peg.2716|GNP12_12985   ABC transporter, ATP-binding protein 1 PP0616   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	Gammaproteobacteria	branched-chain amino acid ABC transporter, ATP binding protein	AAY92943	No	93.57
+
+#input_seq:	fig|2681497.3.peg.5457|GNP12_26285   YaeQ protein   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	Gammaproteobacteria	YaeQ	AAY36348	No	93.89
+
+#input_seq:	fig|2681497.3.peg.2194|GNP12_10430   hypothetical protein   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABA73140	No	95.61
+
+#input_seq:	fig|2681497.3.peg.636|GNP12_02955   ABC transporter, permease protein (cluster 3, basic aa/glutamine/opines)   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	glutamine high-affinity transport system; membrane component	ABA74829	No	94.09
+
+#input_seq:	fig|2681497.3.peg.4274|GNP12_20565   Sarcosine oxidase gamma subunit (EC 1.5.3.1)   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative sarcosine oxidase gamma subunit	ABA76941	No	93.33
+
+#input_seq:	fig|2681497.3.peg.1727|GNP12_08170   MarC family integral membrane protein   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative membrane protein	ABA72354	No	95.96
+
+#input_seq:	fig|2681497.3.peg.953|GNP12_04475   enoyl-CoA hydratase, R-specific   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	Gammaproteobacteria	MaoC-like domain protein	AAZ35587	No	92.31
+
+#input_seq:	fig|2681497.3.peg.243|GNP12_01070   6,7-dimethyl-8-ribityllumazine synthase paralog   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	6,7-dimethyl-8-ribityllumazine synthase	ABA76015	No	93.49
+
+#input_seq:	fig|2681497.3.peg.2196|GNP12_10440   RNA methyltransferase, TrmH family   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	Gammaproteobacteria	RNA methyltransferase, putative	AAY90785	No	96.13
+
+#input_seq:	fig|2681497.3.peg.984|GNP12_04625   Peptidyl-tRNA hydrolase ArfB (EC 3.1.1.29)   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	Gammaproteobacteria	peptidyl-tRNA hydrolase domain protein	AAY90903	No	92.7
+
+#input_seq:	fig|2681497.3.peg.5323|GNP12_25645   MerR family DNA-binding protein   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	359	AE016853	Pseudomonas syringae pv. tomato str. DC3000, complete genome.	Gammaproteobacteria	transcriptional regulator, MerR family	AAO58994	No	95.83
+
+#input_seq:	fig|2681497.3.peg.4472|GNP12_21515   hypothetical protein   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	Gammaproteobacteria	Uncharacterized protein family (UPF0153) family	AAZ33265	No	93.16
+
+#input_seq:	fig|2681497.3.peg.4309|GNP12_20730   DksA family protein PA5536 (no Zn-finger)   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	Gammaproteobacteria	RNA polymerase-binding protein DksA, putative	AAY91869	No	94.03
+
+#input_seq:	fig|2681497.3.peg.3910|GNP12_18775   hypothetical protein   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ33101	No	94.44
+
+#input_seq:	fig|2681497.3.peg.2815|GNP12_13470   Fluoride ion transporter CrcB   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative transmembrane CrcB family-like protein	ABA75321	No	94.35
+
+#input_seq:	fig|2681497.3.peg.5139|GNP12_24755   YebG, DNA damage-inducible gene in SOS regulon, expressed in stationary phase   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABA72659	No	93.02
+
+#input_seq:	fig|2681497.3.peg.4180|GNP12_20085   Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	Gammaproteobacteria	exodeoxyribonuclease VII, small subunit	AAZ36864	No	92.5
+
+#input_seq:	fig|2681497.3.peg.5680|GNP12_27380   ElaB protein   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAY95457	No	92.59
+
+#input_seq:	fig|2681497.3.peg.2064|GNP12_09810   hypothetical protein   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAY93533	No	93.81
+
+#input_seq:	fig|2681497.3.peg.563|GNP12_02600   SSU ribosomal protein S20p   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	Gammaproteobacteria	ribosomal protein S20	AAZ35333	No	95.65
+
+#input_seq:	fig|2681497.3.peg.2636|GNP12_12590   hypothetical protein   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABA75840	No	100.0
+
+#input_seq:	fig|2681497.3.peg.3291|GNP12_15760   Type I antifreeze protein   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABA76149	No	95.89
+
+#input_seq:	fig|2681497.3.peg.4100|GNP12_19690   Uncharacterized protein PA4724.5   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative membrane protein	ABA76543	No	100.0
+
+#input_seq:	fig|2681497.3.peg.5520|GNP12_26585   Rubredoxin   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	Gammaproteobacteria	rubredoxin	AAZ37168	No	96.36
+
+#input_seq:	fig|2681497.3.peg.4227|GNP12_20315   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Pseudomonas sp. AU8050 | 2681497.3]
+#matched_seq:	13909	CP000712	Pseudomonas putida F1, complete genome.	Gammaproteobacteria	ribosomal protein L36	ABQ76678	No	100.0
+

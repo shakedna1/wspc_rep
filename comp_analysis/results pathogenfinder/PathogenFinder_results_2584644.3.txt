@@ -1,0 +1,41 @@
+INPUT SEQUENCE INFO:
+Input Name ::	5_11_12_2020_085721_869520_input.fsa
+Sequences ::	 5044
+Total bpp ::	 1496382
+Longest seq ::	 5263
+Shortest seq ::	 27
+Avg seq lenght ::	 296.0
+
+RESULTS:
+Min Identity Threshold ::	79.5
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-4.189
+Probability of being human pathogen ::	0.377
+Matches::	7
+Genome Coverage (%) ::	0.14
+Pathogenic Families Matched ::	2
+Non-Pathogenic Families Matched ::	5
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2584644.3.peg.3045|GKG43_02395   DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)   [Eubacterium sp. BIOML-A2 | 2584644.3]
+#matched_seq:	16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	Clostridia	DNA-directed RNA polymerase, beta' subunit	ABX44033	No	79.88
+
+#input_seq:	fig|2584644.3.peg.4048|GKG43_19750   Transposase   [Eubacterium sp. BIOML-A2 | 2584644.3]
+#matched_seq:	29153	CP001812	Butyrivibrio proteoclasticus B316 plasmid pCY360, complete sequence.	Clostridia	transposase ISNCY family	ADL36035	No	80.0
+
+#input_seq:	fig|2584644.3.peg.4203|GKG43_19895   Xylulose kinase (EC 2.7.1.17)   [Eubacterium sp. BIOML-A2 | 2584644.3]
+#matched_seq:	28857	CP001056	Clostridium botulinum B str. Eklund 17B, complete genome.	Clostridia	xylulokinase	ACD24398	No	79.55
+
+#input_seq:	fig|2584644.3.peg.1782|GKG43_01160   GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)   [Eubacterium sp. BIOML-A2 | 2584644.3]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	putative GMP synthase	ABR43567	Yes	79.77
+
+#input_seq:	fig|2584644.3.peg.515|GKG43_07385   LSU ribosomal protein L14p (L23e)   [Eubacterium sp. BIOML-A2 | 2584644.3]
+#matched_seq:	38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Actinobacteridae	ribosomal protein L14	BAI64321	Yes	85.25
+
+#input_seq:	fig|2584644.3.peg.494|GKG43_07290   LSU ribosomal protein L17p   [Eubacterium sp. BIOML-A2 | 2584644.3]
+#matched_seq:	16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	Clostridia	ribosomal protein L17	ABX43985	No	80.9
+
+#input_seq:	fig|2584644.3.peg.500|GKG43_07315   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Eubacterium sp. BIOML-A2 | 2584644.3]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	86.49
+

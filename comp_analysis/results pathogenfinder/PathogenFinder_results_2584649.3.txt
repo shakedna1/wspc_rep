@@ -1,0 +1,44 @@
+INPUT SEQUENCE INFO:
+Input Name ::	5_11_12_2020_090226_707909_input.fsa
+Sequences ::	 1737
+Total bpp ::	 556331
+Longest seq ::	 4595
+Shortest seq ::	 25
+Avg seq lenght ::	 320.0
+
+RESULTS:
+Min Identity Threshold ::	99.599
+Z-THRESHOLD ::	3.0
+Prediction Score ::	26.055
+Probability of being human pathogen ::	0.875
+Matches::	8
+Genome Coverage (%) ::	0.46
+Pathogenic Families Matched ::	8
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2584649.3.peg.1312|GKG00_05395   Helicase loader DnaI   [Finegoldia sp. BIOML-A1 | 2584649.3]
+#matched_seq:	18981	AP008971	Finegoldia magna ATCC 29328 DNA, complete genome.	Clostridia	DNA replication protein	BAG08403	Yes	99.64
+
+#input_seq:	fig|2584649.3.peg.1311|GKG00_05390   replication initiator protein A   [Finegoldia sp. BIOML-A1 | 2584649.3]
+#matched_seq:	18981	AP008971	Finegoldia magna ATCC 29328 DNA, complete genome.	Clostridia	putative replication initiator	BAG08404	Yes	100.0
+
+#input_seq:	fig|2584649.3.peg.1313|GKG00_05400   hypothetical protein   [Finegoldia sp. BIOML-A1 | 2584649.3]
+#matched_seq:	18981	AP008971	Finegoldia magna ATCC 29328 DNA, complete genome.	Clostridia	conserved hypothetical protein	BAG08402	Yes	100.0
+
+#input_seq:	fig|2584649.3.peg.339|GKG00_00515   Programmed cell death toxin YdcE   [Finegoldia sp. BIOML-A1 | 2584649.3]
+#matched_seq:	18981	AP008971	Finegoldia magna ATCC 29328 DNA, complete genome.	Clostridia	conserved hypothetical protein	BAG08611	Yes	100.0
+
+#input_seq:	fig|2584649.3.peg.1333|GKG00_05490   hypothetical protein   [Finegoldia sp. BIOML-A1 | 2584649.3]
+#matched_seq:	18981	AP008971	Finegoldia magna ATCC 29328 DNA, complete genome.	Clostridia	hypothetical protein	BAG08383	Yes	100.0
+
+#input_seq:	fig|2584649.3.peg.1336|GKG00_05505   FIG01116872: hypothetical protein   [Finegoldia sp. BIOML-A1 | 2584649.3]
+#matched_seq:	16366	CP000262	Streptococcus pyogenes MGAS10750, complete genome.	Lactobacillales	hypothetical protein	ABF38638	Yes	100.0
+
+#input_seq:	fig|2584649.3.peg.1439|GKG00_06015   hypothetical protein   [Finegoldia sp. BIOML-A1 | 2584649.3]
+#matched_seq:	18981	AP008971	Finegoldia magna ATCC 29328 DNA, complete genome.	Clostridia	conserved hypothetical protein	BAG08986	Yes	100.0
+
+#input_seq:	fig|2584649.3.peg.1438|GKG00_06010   hypothetical protein   [Finegoldia sp. BIOML-A1 | 2584649.3]
+#matched_seq:	18981	AP008971	Finegoldia magna ATCC 29328 DNA, complete genome.	Clostridia	conserved hypothetical protein	BAG08987	Yes	100.0
+

@@ -1,0 +1,26 @@
+INPUT SEQUENCE INFO:
+Input Name ::	5_11_12_2020_090052_535534_input.fsa
+Sequences ::	 3334
+Total bpp ::	 935004
+Longest seq ::	 2502
+Shortest seq ::	 29
+Avg seq lenght ::	 280.0
+
+RESULTS:
+Min Identity Threshold ::	86.854
+Z-THRESHOLD ::	3.0
+Prediction Score ::	4.67
+Probability of being human pathogen ::	0.799
+Matches::	2
+Genome Coverage (%) ::	0.06
+Pathogenic Families Matched ::	2
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2584647.3.peg.2193|GKG35_15405   Phage integrase   [Faecalibacterium sp. BIOML-A3 | 2584647.3]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	site-specific recombinase, resolvase family, putative	CBE04532	Yes	98.08
+
+#input_seq:	fig|2584647.3.peg.1830|GKG35_14760   hypothetical protein   [Faecalibacterium sp. BIOML-A3 | 2584647.3]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative uncharacterized protein	CBE04594	Yes	98.51
+
