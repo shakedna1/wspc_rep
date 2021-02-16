@@ -1,0 +1,345 @@
+Cluster 704216
+13424	CP000612	Desulfotomaculum reducens MI-1, complete genome.	No	Clostridia	SSU ribosomal protein S17P	ABO48773
+fig|39485.1649.peg.530|GKE48_00555!!!SSU!ribosomal!protein!S17p!(S11e)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	68.24%
+Cluster 156773
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	ABC transporter, permease protein	CBE04634
+fig|39485.1649.peg.2798|GKE48_11610!!!ABC!transporter!membrane-spanning!permease,!Pep!export,!Vex1!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	96.23%
+Cluster 710424
+33165	CP002171	Thermoanaerobacterium thermosaccharolyticum DSM 571, complete genome.	No	Clostridia	SirA family protein	ADL69099
+fig|39485.1649.peg.44|GKE48_12545!!!Uncharacterized!UPF0033!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	63.86%
+Cluster 548452
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	GreA/GreB family elongation factor	ABX41101
+fig|39485.1649.peg.2495|GKE48_10125!!!Transcription!elongation!factor!GreA!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	63.25%
+Cluster 4738
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DNA-directed RNA polymerase, beta' subunit	ABX44033
+fig|39485.1649.peg.554|GKE48_00675!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	73.69%
+Cluster 71593
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Na+/H+ antiporter NhaC	ABX41446
+fig|39485.1649.peg.1381|GKE48_04685!!!Na+/H+!antiporter!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.15%
+Cluster 472703
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	conserved hypothetical protein	ABX43764
+fig|39485.1649.peg.1964|GKE48_07480!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	68.45%
+Cluster 636471
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	conserved hypothetical protein 103	ABR37056
+fig|39485.1649.peg.1177|GKE48_03685!!!Nucleoid-associated!protein!YaaK!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.52%
+Cluster 561768
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	transporter small multi-drug export family	ADL35123
+fig|39485.1649.peg.1927|GKE48_07290!!!small!multidrug!export!protein!(qacE)!homolog!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.19%
+Cluster 358960
+32615	CP001696	Methanocaldococcus fervens AG86, complete genome.	No	Methanococci	imidazoleglycerol phosphate synthase, cyclase subunit	ACV25117
+fig|39485.1649.peg.1925|GKE48_07280!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	66.27%
+Cluster 303231
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribonuclease Z	ADL33314
+fig|39485.1649.peg.425|GKE48_00030!!!Ribonuclease!Z!(EC!3.1.26.11)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	63.49%
+Cluster 29441
+18737	CP000837	Streptococcus suis GZ1, complete genome.	Yes	Lactobacillales	TrsE-like protein	ADE30946
+fig|39485.1649.peg.2928|GKE48_12230!!!FIG01020158:!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	63.53%
+Cluster 294294
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	Succinylglutamate desuccinylase/aspartoacylase	ABR36455
+fig|39485.1649.peg.2878|GKE48_11990!!!similar!to!deacylase!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	66.56%
+Cluster 514323
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	Appr-1-p processing domain protein	ACU71153
+fig|39485.1649.peg.814!!!O-acetyl-ADP-ribose!deacetylase!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	69.44%
+Cluster 689445
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	sporulation transcriptional regulator SpoIIID	ABX40597
+fig|39485.1649.peg.673|GKE48_01235!!!Stage!III!sporulation!protein!D!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	64.71%
+Cluster 442279
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	acetyltransferase	ADL34398
+fig|39485.1649.peg.2439|GKE48_09850!!!Glucosamine-1-phosphate!N-acetyltransferase!(EC!2.3.1.157)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	70.85%
+Cluster 635530
+19619	CP000817	Lysinibacillus sphaericus C3-41, complete genome.	No	Bacillales	Chemotaxis protein cheY-like protein	ACA39162
+fig|39485.1649.peg.856|GKE48_02115!!!Chemotaxis!regulator!-!transmits!chemoreceptor!signals!to!flagellar!motor!components!CheY!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	79.17%
+Cluster 704149
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	ATP synthase F0, C subunit	ABW20096
+fig|39485.1649.peg.2634|GKE48_10815!!!ATP!synthase!F0!sector!subunit!c!(EC!3.6.3.14)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	64.71%
+Cluster 121623
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL06374
+fig|39485.1649.peg.1374|GKE48_04650!!!ABC!transporter,!predicted!N-acetylneuraminate-binding!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.31%
+Cluster 592529
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	transcriptional modulator of MazE/toxin, MazF	ABP66657
+fig|39485.1649.peg.1074|GKE48_03185!!!Similar!to!cell!death!toxin!YdcE!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	64.91%
+Cluster 578965
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	transcriptional regulator, AsnC family	ADL03879
+fig|39485.1649.peg.2498|GKE48_10140!!!Transcriptional!regulator,!AsnC!family!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	63.58%
+Cluster 655686
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	transcriptional regulator, PadR family	ABN53140
+fig|39485.1649.peg.470|GKE48_00260!!!Transcriptional!regulator,!PadR!family!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	62.50%
+Cluster 410409
+32617	CP001792	Fibrobacter succinogenes subsp. succinogenes S85, complete genome.	No	Fibrobacterales	short-chain dehydrogenase/reductase SDR	ACX76390
+fig|39485.1649.peg.1663|GKE48_06030!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	72.02%
+Cluster 57893
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ammonium transporter Amt	ADL32871
+fig|39485.1649.peg.939|GKE48_02525!!!Ammonium!transporter!/!Nitrogen!regulatory!protein!P-II!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	71.38%
+Cluster 682514
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	stress responsive alpha-beta barrel domain-containing protein	ADL35412
+fig|39485.1649.peg.1303|GKE48_04315!!!Dabb!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	69.00%
+Cluster 704160
+29407	CP001393	Caldicellulosiruptor bescii DSM 6725, complete genome.	No	Clostridia	SpoVG family protein	ACM61467
+fig|39485.1649.peg.2655|GKE48_10920!!!DNA-binding!protein!SpoVG!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	61.36%
+Cluster 580938
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	adenylate cyclase	ADL04943
+fig|39485.1649.peg.1084|GKE48_03230!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	61.07%
+Cluster 148613
+29153	CP001811	Butyrivibrio proteoclasticus B316 chromosome 2, complete sequence.	No	Clostridia	ATPase AAA family	ADL35693
+fig|39485.1649.peg.1981|GKE48_07565!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	66.05%
+Cluster 479978
+403	CP000412	Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365, complete genome.	No	Lactobacillales	dTDP-4-dehydrorhamnose 3,5-epimerase	ABJ59243
+fig|39485.1649.peg.743|GKE48_01585!!!dTDP-4-dehydrorhamnose!3,5-epimerase!(EC!5.1.3.13)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	75.86%
+Cluster 611347
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	ribosome-binding factor A	ABX43133
+fig|39485.1649.peg.1933|GKE48_07325!!!Ribosome-binding!factor!A!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	67.69%
+Cluster 204498
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	glycoprotease family protein	ADL33316
+fig|39485.1649.peg.423|GKE48_00020!!!N(6)-L-threonylcarbamoyladenine!synthase!(EC!2.3.1.234)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	75.51%
+Cluster 101103
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	L-fucose isomerase related protein	ADL32935
+fig|39485.1649.peg.27|GKE48_12460!!!predicted!xylose!isomerase!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	73.48%
+Cluster 502647
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ABX43679
+fig|39485.1649.peg.206|GKE48_13305!!!2-C-methyl-D-erythritol!2,4-cyclodiphosphate!synthase!(EC!4.6.1.12)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	68.31%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|39485.1649.peg.553|GKE48_00670!!!SSU!ribosomal!protein!S12p!(S23e)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.47%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|39485.1649.peg.1225|GKE48_03930!!!LSU!ribosomal!protein!L34p!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	63.64%
+Cluster 302358
+32617	CP001792	Fibrobacter succinogenes subsp. succinogenes S85, complete genome.	No	Fibrobacterales	dTDP-4-dehydrorhamnose reductase	ACX75906
+fig|39485.1649.peg.742|GKE48_01580!!!dTDP-4-dehydrorhamnose!reductase!(EC!1.1.1.133)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	80.66%
+Cluster 260391
+235	BA000004	Bacillus halodurans C-125 DNA, complete genome.	No	Bacillales	UDP-glucose 4-epimerase	BAB04827
+fig|39485.1649.peg.1442|GKE48_04960!!!UDP-glucose!4-epimerase!(EC!5.1.3.2)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	62.08%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|39485.1649.peg.550|GKE48_00655!!!Translation!elongation!factor!Tu!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	63.73%
+Cluster 110591
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	carboxyl transferase	ADL03927
+fig|39485.1649.peg.1959|GKE48_07455!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!/!Acetyl-coenzyme!A!carboxyl!transferase!beta!chain!(EC!6.4.1.2);!Propionyl-CoA!carboxylase!beta!chain!(EC!6.4.1.3);!Methylmalonyl-CoA!decarboxylase,!alpha!chain!(EC!4.1.1.41)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.08%
+Cluster 301854
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	phosphate binding protein	ABX43194
+fig|39485.1649.peg.303|GKE48_13780!!!Phosphate!ABC!transporter,!substrate-binding!protein!PstS!(TC!3.A.1.7.1)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.55%
+Cluster 47423
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	2-isopropylmalate synthase LeuA	ADL34988
+fig|39485.1649.peg.2502|GKE48_10160!!!2-isopropylmalate!synthase!(EC!2.3.3.13)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.46%
+Cluster 654351
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	ribosomal protein L7Ae/L30e/S12e/Gadd45	ABX43135
+fig|39485.1649.peg.1931|GKE48_07315!!!Ribosomal!protein!L7Ae!family!protein!YlxQ!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.00%
+Cluster 549045
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	rRNA methylase SpoU family	ADL35561
+fig|39485.1649.peg.2734|GKE48_11290!!!tRNA!(cytidine(34)-2'-O)-methyltransferase!(EC!2.1.1.207)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	71.52%
+Cluster 44992
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	NAD-dependent DNA ligase LigA1	ADL34153
+fig|39485.1649.peg.2525|GKE48_10280!!!DNA!ligase!(NAD(+))!(EC!6.5.1.2)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	70.70%
+Cluster 596082
+19943	CP000766	Rickettsia rickettsii str. Iowa, complete genome.	Yes	Alphaproteobacteria	LSU ribosomal protein L12P (L7/L12)	ABY72134
+fig|39485.1649.peg.556|GKE48_00685!!!LSU!ribosomal!protein!L7p/L12p!(P1/P2)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	61.16%
+Cluster 31587
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	glutamate synthase (NADPH), homotetrameric	ACZ07665
+fig|39485.1649.peg.1955|GKE48_07435!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!A!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	68.84%
+Cluster 173670
+20773	CP000855	Thermococcus onnurineus NA1, complete genome.	No	Thermococci	3-hydroxy-3-methylglutaryl-CoA reductase	ACJ15884
+fig|39485.1649.peg.133!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	62.07%
+Cluster 725004
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL02660
+fig|39485.1649.peg.2000|GKE48_07655!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.53%
+Cluster 94984
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	transporter GntP family	ADL32879
+fig|39485.1649.peg.2418|GKE48_09750!!!D-glycerate!transporter!(predicted)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	74.73%
+Cluster 64158
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	TraG/TraD family	ABF36182
+fig|39485.1649.peg.2923|GKE48_12205!!!TrsK-like!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	61.57%
+Cluster 312489
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S2	ABP90946
+fig|39485.1649.peg.835|GKE48_02010!!!SSU!ribosomal!protein!S2p!(SAe)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.70%
+Cluster 172994
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	UTP-glucose-1-phosphate uridylyltransferase GalU	ADL32941
+fig|39485.1649.peg.1493|GKE48_05205!!!N-acetylglucosamine-1-phosphate!uridyltransferase!eukaryotic!(EC!2.7.7.23)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	64.46%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|39485.1649.peg.535|GKE48_00580!!!SSU!ribosomal!protein!S19p!(S15e)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	72.53%
+Cluster 357261
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	tRNA (guanine-N1)-methyltransferase TrmD	ADL34300
+fig|39485.1649.peg.2725|GKE48_11250!!!tRNA!(guanine(37)-N(1))-methyltransferase!(EC!2.1.1.228)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	63.56%
+Cluster 501381
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	hydro-lyase, Fe-S type, tartrate/fumarate subfamily, beta subunit	ADL02658
+fig|39485.1649.peg.1235|GKE48_03980!!!Fumarate!hydratase!class!I,!beta!region!(EC!4.2.1.2);!L(+)-tartrate!dehydratase!beta!subunit!(EC!4.2.1.32)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	70.49%
+Cluster 342221
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	hypothetical protein	ABF36179
+fig|39485.1649.peg.2925|GKE48_12215!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	61.07%
+Cluster 457415
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	endonuclease III Nth	ADL34818
+fig|39485.1649.peg.2211|GKE48_08715!!!Endonuclease!III!(EC!4.2.99.18)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	72.30%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|39485.1649.peg.529|GKE48_00550!!!LSU!ribosomal!protein!L14p!(L23e)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	81.97%
+Cluster 427409
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	two component system response regulator	ADL35563
+fig|39485.1649.peg.2736|GKE48_11300!!!Two-component!transcriptional!response!regulator,!OmpR!family!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	73.39%
+Cluster 94103
+12608	CP001101	Chlorobium phaeobacteroides BS1, complete genome.	No	Chlorobia	sodium ion-translocating decarboxylase, beta subunit	ACE04135
+fig|39485.1649.peg.1962|GKE48_07470!!!Oxaloacetate!decarboxylase!beta!chain!(EC!4.1.1.3)!@!Methylmalonyl-CoA!decarboxylase,!beta!chain!(EC!4.1.1.41)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.31%
+Cluster 623552
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	pyridoxamine 5'-phosphate oxidase family protein	ADL33765
+fig|39485.1649.peg.1761|GKE48_06485!!!NimC/NimA!family!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	87.69%
+Cluster 581427
+20831	CP001684	Slackia heliotrinireducens DSM 20476, complete genome.	No	Coriobacteridae	predicted transcriptional regulator	ACV21165
+fig|39485.1649.peg.668|GKE48_01210!!!Regulatory!protein!MerR!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	62.76%
+Cluster 50459
+29407	CP001393	Caldicellulosiruptor bescii DSM 6725, complete genome.	No	Clostridia	triosephosphate isomerase	ACM60503
+fig|39485.1649.peg.2539|GKE48_10340!!!Phosphoglycerate!kinase!(EC!2.7.2.3)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	63.48%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|39485.1649.peg.515|GKE48_00480!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	91.89%
+Cluster 483542
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	imidazole glycerol phosphate synthase, glutamine amidotransferase subunit	ADL05902
+fig|39485.1649.peg.1924|GKE48_07275!!!Imidazole!glycerol!phosphate!synthase!amidotransferase!subunit!HisH!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	66.67%
+Cluster 107676
+284	BA000028	Oceanobacillus iheyensis HTE831 DNA, complete genome.	No	Bacillales	inosine-5'-monophosphate dehydrogenase	BAC11966
+fig|39485.1649.peg.239|GKE48_13475!!!Inosine-5'-monophosphate!dehydrogenase!(EC!1.1.1.205)!/!CBS!domain!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	64.81%
+Cluster 81983
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	AMP-dependent synthetase and ligase	ABN54319
+fig|39485.1649.peg.2666|GKE48_10975!!!Long-chain-fatty-acid--CoA!ligase!(EC!6.2.1.3)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	69.30%
+Cluster 676622
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hypothetical protein	ADL34176
+fig|39485.1649.peg.2053|GKE48_07920!!!RNA-binding!protein!YhbY!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	61.05%
+Cluster 161503
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hydroxypyruvate reductase	ADL32880
+fig|39485.1649.peg.2420|GKE48_09760!!!D-glycerate!2-kinase!(EC!2.7.1.165)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	69.83%
+Cluster 437954
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein L3 RplC	ADL33339
+fig|39485.1649.peg.539|GKE48_00600!!!LSU!ribosomal!protein!L3p!(L3e)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	76.78%
+Cluster 495142
+20745	CP001854	Conexibacter woesei DSM 14684, complete genome.	No	Rubrobacteridae	ribosomal protein L19	ADB52095
+fig|39485.1649.peg.2089|GKE48_08100!!!LSU!ribosomal!protein!L19p!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.00%
+Cluster 431564
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ATP synthase F0, A subunit	ADL06672
+fig|39485.1649.peg.2822|GKE48_11730!!!ATP!synthase!F0!sector!subunit!a!(EC!3.6.3.14)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	66.23%
+Cluster 330015
+21091	CP001820	Veillonella parvula DSM 2008, complete genome.	Yes	Clostridia	transcriptional regulator, XRE family	ACZ23942
+fig|39485.1649.peg.2789!!!Transcriptional!regulator,!Xre!family!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	61.90%
+Cluster 724882
+28997	AP010655	Streptococcus mutans NN2025 DNA, complete genome.	Yes	Lactobacillales	putative transposase	BAH88114
+fig|39485.1649.peg.1755|GKE48_06460!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.52%
+Cluster 699801
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	Ribosome-associated heat shock protein implicated in the recycling of the 50S subunit (S4 paralog)	ABJ59680
+fig|39485.1649.peg.2715|GKE48_11200!!!Ribosome-associated!heat!shock!protein!implicated!in!the!recycling!of!the!50S!subunit!(S4!paralog)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	62.03%
+Cluster 52900
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	glycoside hydrolase family 2 TIM barrel	ABX42393
+fig|39485.1649.peg.1436|GKE48_04935!!!beta-galactosidase!large!subunit!(EC!3.2.1.23)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	64.61%
+Cluster 391141
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	chromosome partitioning protein ParA1	ADL35683
+fig|39485.1649.peg.1214|GKE48_03875!!!Chromosome!(plasmid)!partitioning!protein!ParA!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	74.02%
+Cluster 399224
+403	CP000412	Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365, complete genome.	No	Lactobacillales	Predicted membrane protein	ABJ58638
+fig|39485.1649.peg.1786|GKE48_06610!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	61.83%
+Cluster 216978
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	DNA polymerase III beta subunit DnaN	ADL32754
+fig|39485.1649.peg.1227|GKE48_03940!!!DNA!polymerase!III!beta!subunit!(EC!2.7.7.7)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.40%
+Cluster 450603
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	CoA-binding domain protein	ADL04182
+fig|39485.1649.peg.1077|GKE48_03200!!!Redox-sensing!transcriptional!repressor!Rex!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	73.21%
+Cluster 562738
+17729	CP000769	Anaeromyxobacter sp. Fw109-5, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ABS26139
+fig|39485.1649.peg.513|GKE48_00470!!!SSU!ribosomal!protein!S11p!(S14e)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.65%
+Cluster 212475
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Nucleotidyl transferase	ADL02764
+fig|39485.1649.peg.2654|GKE48_10915!!!Glycogen!biosynthesis!protein!GlgD,!glucose-1-phosphate!adenylyltransferase!family!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	71.70%
+Cluster 75597
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	sulfate adenylyltransferase, large subunit	ABR36296
+fig|39485.1649.peg.2696|GKE48_11115!!!Sulfate!adenylyltransferase!subunit!1!(EC!2.7.7.4)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	63.33%
+Cluster 268581
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	LtrC	ABF36187
+fig|39485.1649.peg.2171!!!TnpY!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.09%
+Cluster 68466
+19519	CP000728	Clostridium botulinum F str. Langeland, complete genome.	Yes	Clostridia	conserved hypothetical protein	ABS40960
+fig|39485.1649.peg.630|GKE48_01035!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.18%
+Cluster 62115
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ATP synthase F1 alpha subunit AtpA2	ADL33900
+fig|39485.1649.peg.2826|GKE48_11750!!!ATP!synthase!alpha!chain!(EC!3.6.3.14)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	71.89%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|39485.1649.peg.514|GKE48_00475!!!SSU!ribosomal!protein!S13p!(S18e)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	76.61%
+Cluster 82626
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	glycoside hydrolase family 43	ABX42993
+fig|39485.1649.peg.2359|GKE48_09455!!!Xylan!1,4-beta-xylosidase!(EC!3.2.1.37)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	70.30%
+Cluster 101265
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ATP-dependent Clp protease ATP-binding subunit ClpX1	ADL32946
+fig|39485.1649.peg.2305|GKE48_09185!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpX!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	69.23%
+Cluster 642295
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	iron (metal) dependent repressor, DtxR family	ABX41569
+fig|39485.1649.peg.1403|GKE48_04780!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	70.83%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|39485.1649.peg.516|GKE48_00485!!!Translation!initiation!factor!1!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.28%
+Cluster 610475
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	conserved hypothetical protein	ABX43252
+fig|39485.1649.peg.1994|GKE48_07630!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	69.77%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|39485.1649.peg.1956|GKE48_07440!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	76.57%
+Cluster 712527
+29335	CP001050	Neisseria gonorrhoeae NCCP11945, complete genome.	Yes	Betaproteobacteria	rebredoxin	ACF29598
+fig|39485.1649.peg.2265|GKE48_08985!!!Rubredoxin!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	62.75%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|39485.1649.peg.559|GKE48_00700!!!LSU!ribosomal!protein!L11p!(L12e)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.99%
+Cluster 723307
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Phosphotransferase system, phosphocarrier protein HPr	ABX42661
+fig|39485.1649.peg.2570|GKE48_10495!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	85.71%
+Cluster 303790
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hypothetical protein	ADL34703
+fig|39485.1649.peg.1732|GKE48_06365!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	68.67%
+Cluster 587322
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	ribosomal protein L16	ABR50543
+fig|39485.1649.peg.532|GKE48_00565!!!LSU!ribosomal!protein!L16p!(L10e)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	68.97%
+Cluster 380501
+16306	CP000928	Caulobacter sp. K31 plasmid pCAUL01, complete sequence.	No	Alphaproteobacteria	2-deoxy-D-gluconate 3-dehydrogenase	ABZ74393
+fig|39485.1649.peg.245|GKE48_13505!!!2-dehydro-3-deoxy-D-gluconate!5-dehydrogenase!(EC!1.1.1.127)!@!2-deoxy-D-gluconate!3-dehydrogenase!(EC!1.1.1.125)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.24%
+Cluster 544915
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	HAD superfamily (subfamily IIIA) phosphatase, TIGR01668	ADL04906
+fig|39485.1649.peg.1026|GKE48_02940!!!FIG001553:!Hydrolase,!HAD!subfamily!IIIA!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.61%
+Cluster 627907
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	protein of unknown function DUF322	ADL05773
+fig|39485.1649.peg.2130|GKE48_08305!!!Alkaline!shock!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	64.06%
+Cluster 669236
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Cupin 2 conserved barrel domain protein	ABX44017
+fig|39485.1649.peg.73|GKE48_12695!!!Putative!pectin!degradation!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	83.18%
+Cluster 717730
+37873	CP002048	Syntrophothermus lipocalidus DSM 12680, complete genome.	No	Clostridia	ribosomal protein L33	ADI02994
+fig|39485.1649.peg.562|GKE48_00715!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-dependent!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	69.39%
+Cluster 528679
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ribosomal protein L17	ADL06257
+fig|39485.1649.peg.510|GKE48_00455!!!LSU!ribosomal!protein!L17p!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	79.21%
+Cluster 528676
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	recombination protein U RecU	ADL34189
+fig|39485.1649.peg.2066|GKE48_07985!!!RecU!Holliday!junction!resolvase!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.34%
+Cluster 524679
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	CDP-diacylglycerol/glycerol-3-phosphate 3-phosphatidyltransferase	ADL04529
+fig|39485.1649.peg.2161|GKE48_08460!!!CDP-diacylglycerol--glycerol-3-phosphate!3-phosphatidyltransferase!(EC!2.7.8.5)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	68.89%
+Cluster 273142
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	glycoside hydrolase family 42 domain 5 loop region	ABX42394
+fig|39485.1649.peg.1437|GKE48_04940!!!beta-galactosidase!small!subunit!(EC!3.2.1.23)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.63%
+Cluster 50523
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	transcription termination factor Rho	ABX40797
+fig|39485.1649.peg.1146|GKE48_03530!!!Transcription!termination!factor!Rho!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.61%
+Cluster 488301
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX73966
+fig|39485.1649.peg.1770|GKE48_06530!!!NADPH-dependent!7-cyano-7-deazaguanine!reductase!(EC!1.7.1.13)!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	65.00%
+Cluster 392543
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	electron transport complex, RnfABCDGE type, E subunit	ABX40601
+fig|39485.1649.peg.1977|GKE48_07545!!!Electron!transport!complex!protein!RnfE!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	63.00%
+Cluster 583859
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	flavodoxin	ABR35685
+fig|39485.1649.peg.817|GKE48_14450!!!Flavodoxin!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.00%
+Cluster 753583
+12606	CP001097	Chlorobium limicola DSM 245, complete genome.	No	Chlorobia	Rubredoxin-type Fe(Cys)4 protein	ACD89276
+fig|39485.1649.peg.1513|GKE48_05305!!!Rubredoxin!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	70.37%
+Cluster 515065
+12521	CP000312	Clostridium perfringens SM101, complete genome.	Yes	Clostridia	conserved hypothetical protein	ABG87566
+fig|39485.1649.peg.1711|GKE48_06260!!!hypothetical!protein!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	60.77%
+Cluster 692587
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S6 RpsF	ADL32988
+fig|39485.1649.peg.2612|GKE48_10710!!!SSU!ribosomal!protein!S6p!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	63.16%
+Cluster 714071
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S Ribosomal protein S21	ABP90399
+fig|39485.1649.peg.2008|GKE48_07695!!!SSU!ribosomal!protein!S21p!!![[Eubacterium]!eligens!strain!BIOML-A1!|!39485.1649]	68.97%

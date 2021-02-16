@@ -1,0 +1,1548 @@
+Cluster 91969
+30453	CP001636	Variovorax paradoxus S110 chromosome 2, complete sequence.	No	Betaproteobacteria	extracellular solute-binding protein family 5	ACS22519
+fig|85698.208.peg.4254|GND97_13960!!!ABC!transporter,!substrate-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.59%
+Cluster 359025
+15749	CP000283	Rhodopseudomonas palustris BisB5, complete genome.	No	Alphaproteobacteria	protein of unknown function DUF1445	ABE39082
+fig|85698.208.peg.456|GND97_05605!!!UPF0317!protein!YcsI!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.57%
+Cluster 401359
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	conserved hypothetical protein; putative membrane protein	CAK14953
+fig|85698.208.peg.5321|GND97_18050!!!Putative!inner!membrane!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	74.09%
+Cluster 197188
+17729	CP000769	Anaeromyxobacter sp. Fw109-5, complete genome.	No	Deltaproteobacteria	TRAP dicarboxylate transporter- DctP subunit	ABS27124
+fig|85698.208.peg.1001|GND97_25165!!!TRAP-type!C4-dicarboxylate!transport!system,!periplasmic!component!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.52%
+Cluster 205626
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	transaldolase	ABA49603
+fig|85698.208.peg.4604|GND97_15090!!!Transaldolase!(EC!2.2.1.2)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.98%
+Cluster 554745
+33319	CP001672	Methylotenera mobilis JLW8, complete genome.	No	Betaproteobacteria	transcriptional regulator, MerR family	ACT48485
+fig|85698.208.peg.891|GND97_24975!!!Transcriptional!regulator!PA2737,!MerR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.14%
+Cluster 63977
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ABF11083
+fig|85698.208.peg.4288|GND97_14125!!!Dihydrolipoamide!dehydrogenase!of!2-oxoglutarate!dehydrogenase!(EC!1.8.1.4)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.05%
+Cluster 415726
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	butyryl-CoA:acetate CoA transferase	ABG07812
+fig|85698.208.peg.5685|GND97_19285!!!3-oxoadipate!CoA-transferase!subunit!B!(EC!2.8.3.6)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.62%
+Cluster 173820
+13918	CP000458	Burkholderia cenocepacia HI2424 chromosome 1, complete sequence.	Yes	Betaproteobacteria	alpha/beta hydrolase fold protein	ABK09172
+fig|85698.208.peg.4175|GND97_13575!!!Hydrolase,!alpha/beta!fold!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.14%
+Cluster 499750
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	Holliday junction DNA helicase RuvA	ACS61698
+fig|85698.208.peg.1833|GND97_07825!!!Holliday!junction!ATP-dependent!DNA!helicase!RuvA!(EC!3.6.4.12)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.00%
+Cluster 60374
+12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	No	Gammaproteobacteria	rhodanese domain protein/phosphatidylserine decarboxylase	AAZ34364
+fig|85698.208.peg.1165|GND97_06800!!!Phosphatidylserine!decarboxylase!(EC!4.1.1.65)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.40%
+Cluster 394054
+17109	CP000850	Salinispora arenicola CNS-205, complete genome.	No	Actinobacteridae	ABC transporter related	ABV98259
+fig|85698.208.peg.688|GND97_24395!!!Iron!compound!ABC!transporter,!ATP-binding!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.89%
+Cluster 291898
+13908	CP000267	Rhodoferax ferrireducens T118, complete genome.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABD68680
+fig|85698.208.peg.937|GND97_06330!!!ABC!transporter,!permease!protein!1!(cluster!5,!nickel/peptides/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.90%
+Cluster 321957
+283	AE007872	Agrobacterium tumefaciens str. C58 plasmid At, complete sequence.	No	Alphaproteobacteria	ABC transporter, membrane spanning protein (oligopeptide)	AAK90629
+fig|85698.208.peg.42|GND97_21850!!!ABC!transporter,!permease!protein!2!(cluster!5,!nickel/peptides/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.42%
+Cluster 459389
+13918	CP000458	Burkholderia cenocepacia HI2424 chromosome 1, complete sequence.	Yes	Betaproteobacteria	conserved hypothetical protein	ABK07351
+fig|85698.208.peg.588|GND97_23905!!!Low-complexity!acidic!protein,!XCC2875!type!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.91%
+Cluster 420096
+9635	CP000089	Dechloromonas aromatica RCB, complete genome.	No	Betaproteobacteria	transcriptional regulator, TetR family	AAZ46292
+fig|85698.208.peg.295|GND97_22790!!!Predicted!transcriptional!regulator!for!fatty!acid!degradation!FadQ,!TetR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.82%
+Cluster 258294
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	conserved hypothetical protein	ACS21825
+fig|85698.208.peg.2385|GND97_28975!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.27%
+Cluster 313764
+19575	CU234118	Bradyrhizobium sp. ORS278,complete sequence.	No	Alphaproteobacteria	putative sugar kinase	CAL76315
+fig|85698.208.peg.3467|GND97_11030!!!Putative!sugar!kinase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.77%
+Cluster 711381
+17629	CP000926	Pseudomonas putida GB-1, complete genome.	No	Gammaproteobacteria	cold-shock DNA-binding domain protein	ABY99506
+fig|85698.208.peg.4243|GND97_13905!!!Cold!shock!protein!of!CSP!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.29%
+Cluster 156196
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	TRAP dicarboxylate transporter, DctM subunit	ABM42119
+fig|85698.208.peg.6179|GND97_21050!!!TRAP-type!transport!system,!large!permease!component,!predicted!N-acetylneuraminate!transporter!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.82%
+Cluster 672379
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	histone family protein DNA-binding protein	ABM58439
+fig|85698.208.peg.3595|GND97_11525!!!DNA-binding!protein!HU-beta!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	77.78%
+Cluster 39177
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	Radical SAM domain protein	ABM40306
+fig|85698.208.peg.60|GND97_21930!!!FIG00536986:!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	81.48%
+Cluster 266470
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	conserved hypothetical protein	ACS21426
+fig|85698.208.peg.619|GND97_24060!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.31%
+Cluster 241594
+17463	CP001052	Burkholderia phytofirmans PsJN chromosome 1, complete sequence.	No	Betaproteobacteria	HhH-GPD family protein	ACD16904
+fig|85698.208.peg.2511|GND97_29280!!!HhH-GPD!base!excision!DNA!repair!family!protein;!Probable!3-methyladenine!DNA!glycosylase/8-oxoguanine!DNA!glycosylase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.62%
+Cluster 684267
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	addiction module antitoxin, RelB/DinJ family	ABM42403
+fig|85698.208.peg.1910|GND97_28200!!!DNA-damage-inducible!protein!J!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	83.67%
+Cluster 62291
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	phosphoribosylglycinamide formyltransferase 2	ACY23212
+fig|85698.208.peg.1370|GND97_07165!!!Formate-dependent!phosphoribosylglycinamide!formyltransferase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.96%
+Cluster 427552
+12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	No	Gammaproteobacteria	lipoprotein, putative	AAZ37130
+fig|85698.208.peg.2375|GND97_28930!!!probable!exported!protein!YPO4070!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.95%
+Cluster 693172
+13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	No	Gammaproteobacteria	addiction module toxin, RelE/StbE family	ABM17722
+fig|85698.208.peg.1911|GND97_28205!!!Death!on!curing!protein,!Doc!toxin!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.89%
+Cluster 460228
+16159	CP000159	Salinibacter ruber DSM 13855, complete genome.	No	Sphingobacteria	pyridoxamine 5'-phosphate oxidase	ABC44789
+fig|85698.208.peg.5146|GND97_17190!!!Pyridoxamine!5'-phosphate!oxidase!(EC!1.4.3.5)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.29%
+Cluster 603949
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	phenylacetate-CoA oxygenase, PaaH subunit	ABM59653
+fig|85698.208.peg.4907|GND97_16565!!!1,2-phenylacetyl-CoA!epoxidase,!subunit!B!(EC!1.14.13.149)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.77%
+Cluster 87026
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	argininosuccinate lyase	ABM32529
+fig|85698.208.peg.5341|GND97_03770!!!Argininosuccinate!lyase!(EC!4.3.2.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.67%
+Cluster 276485
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAY91920
+fig|85698.208.peg.3463|GND97_11010!!!COGs!COG3777!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.96%
+Cluster 426435
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	transcriptional regulator, GntR family	ACS21818
+fig|85698.208.peg.3531|GND97_11280!!!Transcriptional!regulator,!GntR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.59%
+Cluster 308178
+17411	CP001026	Burkholderia ambifaria MC40-6 chromosome 2, complete sequence.	Yes	Betaproteobacteria	transcriptional regulator, AraC family	ACB66522
+fig|85698.208.peg.5570|GND97_18730!!!Transcriptional!regulator,!AraC!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.35%
+Cluster 268843
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	uncharacterized protein UPF0065	ABM34805
+fig|85698.208.peg.4056|GND97_12975!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.75%
+Cluster 479250
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	MgtC/SapB transporter	ABM32855
+fig|85698.208.peg.2407|GND97_29080!!!Mg(2+)-transport-ATPase-associated!protein!MgtC!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.05%
+Cluster 298335
+13954	CP000125	Burkholderia pseudomallei 1710b chromosome II, complete sequence.	Yes	Betaproteobacteria	cyclic nucleotide-binding domain protein	ABA52533
+fig|85698.208.peg.1278|GND97_26205!!!Transcriptional!regulator,!Crp/Fnr!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.53%
+Cluster 54877
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	integral inner membrane metabolite transport protein	BAC46458
+fig|85698.208.peg.4750|GND97_15795!!!Uncharacterized!MFS-type!transporter!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.49%
+Cluster 361770
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	signal peptide protein	ACS61524
+fig|85698.208.peg.957|GND97_06430!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.73%
+Cluster 236277
+29975	CP001392	Acidovorax ebreus TPSY, complete genome.	No	Betaproteobacteria	inner-membrane translocator	ACM33517
+fig|85698.208.peg.2136|GND97_00595!!!ABC!transporter,!permease!protein!1!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.60%
+Cluster 143443
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	protein of unknown function DUF88	ACC69733
+fig|85698.208.peg.4082!!!Maebl!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.52%
+Cluster 293815
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ACY34673
+fig|85698.208.peg.2069|GND97_00265!!!FIG00431745:!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.45%
+Cluster 484484
+13953	CP000570	Burkholderia pseudomallei 668 chromosome I, complete sequence.	Yes	Betaproteobacteria	conserved hypothetical protein	ABN83303
+fig|85698.208.peg.2074|GND97_00290!!!Free!methionine-(R)-sulfoxide!reductase,!contains!GAF!domain!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.84%
+Cluster 543230
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	transcriptional activator for superoxide response; Fe-S center for redox-sensing (MerR family)	ABF11403
+fig|85698.208.peg.3387|GND97_10720!!!Redox-sensitive!transcriptional!activator!SoxR!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.39%
+Cluster 185690
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	Extracellular ligand-binding receptor	ABE45737
+fig|85698.208.peg.4218|GND97_13780!!!ABC!transporter,!substrate-binding!protein!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.97%
+Cluster 445037
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Molybdopterin biosynthesis mog protein	CAY73103
+fig|85698.208.peg.1201|GND97_25830!!!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.93%
+Cluster 32501
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	nitrogen fixation protein FixI	ACP25555
+fig|85698.208.peg.2527!!!MFS!family!multidrug!efflux!protein!in!Burkholderiaceae,!unknown!substrate!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.54%
+Cluster 450054
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	polar amino acid ABC transporter, inner membrane subunit	ACS19500
+fig|85698.208.peg.918|GND97_25095!!!ABC!transporter,!permease!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	85.07%
+Cluster 667224
+17643	CP000753	Shewanella baltica OS185, complete genome.	No	Gammaproteobacteria	thioredoxin	ABS10073
+fig|85698.208.peg.5073|GND97_16820!!!Thioredoxin!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.44%
+Cluster 262976
+28021	CP001075	Rhizobium etli CIAT 652 plasmid pA, complete sequence.	No	Alphaproteobacteria	hypothetical conserved protein	ACE93709
+fig|85698.208.peg.3505|GND97_11150!!!Predicted!NAD!regulator!in!Alphaproteobacteria!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.99%
+Cluster 283336
+29975	CP001392	Acidovorax ebreus TPSY, complete genome.	No	Betaproteobacteria	urate catabolism protein	ACM32514
+fig|85698.208.peg.4293|GND97_14150!!!Uricase!(urate!oxidase)!(EC!1.7.3.3)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	76.75%
+Cluster 352568
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	methionine aminopeptidase, type I	ACK54919
+fig|85698.208.peg.3837|GND97_12735!!!Methionine!aminopeptidase!(EC!3.4.11.18)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.00%
+Cluster 109217
+32233	CP001579	Brucella microti CCM 4915 chromosome 2, complete sequence.	Yes	Alphaproteobacteria	multi-drug resistance efflux protein	ACU49887
+fig|85698.208.peg.4185|GND97_13615!!!Uncharacterized!MFS-type!transporter!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.24%
+Cluster 64644
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	acyl-CoA synthetase	ABF07947
+fig|85698.208.peg.4585|GND97_14995!!!Acetyl-CoA!synthetase!(EC!6.2.1.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.50%
+Cluster 117250
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	primary replicative DNA helicase	ABM31823
+fig|85698.208.peg.4773|GND97_15910!!!Replicative!DNA!helicase!(DnaB)!(EC!3.6.4.12)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.17%
+Cluster 268996
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	extra-cytoplasmic solute receptor	ABF11920
+fig|85698.208.peg.2931|GND97_30380!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.91%
+Cluster 359689
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	3-oxoacid CoA-transferase, A subunit	ABM37960
+fig|85698.208.peg.4565|GND97_14895!!!Succinyl-CoA:3-ketoacid-coenzyme!A!transferase!subunit!A!(EC!2.8.3.5)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	80.60%
+Cluster 240342
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	putative short-chain dehydrogenase	ABF10770
+fig|85698.208.peg.3451|GND97_10950!!!Dehydrogenases!with!different!specificities!(related!to!short-chain!alcohol!dehydrogenases)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	76.32%
+Cluster 1855
+15749	CP000283	Rhodopseudomonas palustris BisB5, complete genome.	No	Alphaproteobacteria	pyruvate flavodoxin/ferredoxin oxidoreductase-like	ABE38197
+fig|85698.208.peg.3593!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.87%
+Cluster 86188
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	extracellular solute-binding protein, family 5	ABM56530
+fig|85698.208.peg.2475|GND97_08780!!!ABC!transporter,!substrate-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.89%
+Cluster 228019
+17333	CP000449	Maricaulis maris MCS10, complete genome.	No	Alphaproteobacteria	OmpA/MotB domain protein	ABI66152
+fig|85698.208.peg.2669|GND97_09175!!!polymer-forming!cytoskeletal!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.61%
+Cluster 210438
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	adenosine deaminase	ABM31732
+fig|85698.208.peg.1880|GND97_28050!!!Adenosine!deaminase!(EC!3.5.4.4)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.76%
+Cluster 60118
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	acetolactate synthase, large subunit (TPP dependent)	ABF11901
+fig|85698.208.peg.3165|GND97_10450!!!Thiamine!pyrophosphate-requiring!enzymes!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	76.95%
+Cluster 351249
+16304	CP000740	Sinorhizobium medicae WSM419 plasmid pSMED02, complete sequence.	No	Alphaproteobacteria	regulatory protein IclR	ABR64233
+fig|85698.208.peg.6122|GND97_20765!!!Transcriptional!regulator,!IclR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.18%
+Cluster 235696
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	Uncharacterized protein UPF0065	ABM41097
+fig|85698.208.peg.139|GND97_22315!!!ABC!transporter,!substrate-binding!protein!(cluster!7,!di-/tri-carboxylate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.18%
+Cluster 237981
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	inner-membrane translocator	ABM60596
+fig|85698.208.peg.1298|GND97_26290!!!Urea!ABC!transporter,!permease!protein!UrtC!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.28%
+Cluster 326033
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	N-formylglutamate amidohydrolase	ABF10379
+fig|85698.208.peg.140|GND97_22320!!!Putative!hydrolase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.49%
+Cluster 311585
+13943	CP000546	Burkholderia mallei NCTC 10229 chromosome I, complete sequence.	Yes	Betaproteobacteria	putative curli production assembly/transport component CsgG	ABN02550
+fig|85698.208.peg.643|GND97_24175!!!putative!lipoprotein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.86%
+fig|85698.208.peg.2950|GND97_30475!!!putative!lipoprotein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.67%
+Cluster 651642
+13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	No	Gammaproteobacteria	small multidrug resistance protein	ABM18153
+fig|85698.208.peg.948|GND97_06385!!!small!multidrug!resistance!family!(SMR)!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.47%
+Cluster 453642
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	polar amino acid ABC transporter, inner membrane subunit	ACS19501
+fig|85698.208.peg.919|GND97_25100!!!ABC!transporter,!permease!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	80.37%
+Cluster 23494
+297	AE008923	Xanthomonas axonopodis pv. citri str. 306, complete genome.	No	Gammaproteobacteria	transglycolase	AAM39126
+fig|85698.208.peg.1514|GND97_07325!!!Membrane-bound!lytic!murein!transglycosylase!B!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.46%
+Cluster 313661
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	ABC transporter permease protein	ABF11949
+fig|85698.208.peg.363|GND97_23125!!!ABC!transporter,!permease!protein!2!(cluster!5,!nickel/peptides/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.35%
+Cluster 579339
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	PntAB, NAD(P) transhydrogenase, alpha2 subunit	ACB24783
+fig|85698.208.peg.1054|GND97_25420!!!NAD(P)!transhydrogenase!C-domain!of!subunit!alpha!(EC!1.6.1.2)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.00%
+Cluster 208957
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	BAB35476
+fig|85698.208.peg.258|GND97_05525!!!Putative!oxidoreductase!YncB!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.48%
+Cluster 497793
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	D-alpha,beta-D-heptose 1,7-bisphosphate phosphatase	ABE46093
+fig|85698.208.peg.3443|GND97_10910!!!Histidinol-phosphatase!(EC!3.1.3.15)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.57%
+Cluster 565007
+16251	CP000239	Synechococcus sp. JA-3-3Ab, complete genome.	No	Chroococcales	ribosomal protein L16	ABC99359
+fig|85698.208.peg.2141|GND97_00620!!!LSU!ribosomal!protein!L16p!(L10e)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.87%
+Cluster 21172
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	PE-PGRS family protein	ABR05455
+fig|85698.208.peg.623|GND97_24080!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.00%
+Cluster 226261
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ABM58111
+fig|85698.208.peg.6118|GND97_20745!!!ABC!transporter,!substrate-binding!protein!(cluster!1,!maltose/g3p/polyamine/iron)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.72%
+Cluster 224287
+19575	CU234118	Bradyrhizobium sp. ORS278,complete sequence.	No	Alphaproteobacteria	putative NAD-dependent alcohol dehydrogenase	CAL76280
+fig|85698.208.peg.1154|GND97_06745!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.61%
+Cluster 647435
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	ferredoxin	ABF10510
+fig|85698.208.peg.4106|GND97_13230!!!Ferredoxin!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.83%
+Cluster 160588
+13954	CP000125	Burkholderia pseudomallei 1710b chromosome II, complete sequence.	Yes	Betaproteobacteria	selenide, water dikinase	ABA51650
+fig|85698.208.peg.5837|GND97_19710!!!Selenide,water!dikinase!(EC!2.7.9.3)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	74.22%
+Cluster 267937
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	extra-cytoplasmic solute receptor protein	ABF10915
+fig|85698.208.peg.4711|GND97_15605!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	72.45%
+Cluster 283516
+13953	CP000570	Burkholderia pseudomallei 668 chromosome I, complete sequence.	Yes	Betaproteobacteria	oxidoreductase, short chain dehydrogenase/reductase family	ABN84820
+fig|85698.208.peg.4351|GND97_14440!!!3-hydroxyacyl-CoA!dehydrogenase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.44%
+Cluster 141416
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	Cyclopropane-fatty-acyl-phospholipid synthase	ABM31375
+fig|85698.208.peg.3701|GND97_12060!!!Cyclopropane-fatty-acyl-phospholipid!synthase!(EC!2.1.1.79)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.33%
+Cluster 262574
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	Extra-Cytoplasmic Solute Receptor	ABF07857
+fig|85698.208.peg.5926|GND97_20160!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.23%
+Cluster 633002
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	cold-shock DNA-binding domain protein	ABF12030
+fig|85698.208.peg.4245|GND97_13915!!!Cold!shock!protein!of!CSP!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.66%
+fig|85698.208.peg.5294|GND97_17910!!!Cold!shock!protein!of!CSP!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.18%
+Cluster 411643
+17407	CP000869	Burkholderia multivorans ATCC 17616 chromosome 2, complete sequence.	Yes	Betaproteobacteria	transcriptional regulator, TetR family	ABX18366
+fig|85698.208.peg.561|GND97_23775!!!Transcriptional!regulator,!AcrR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.00%
+Cluster 90903
+33241	CP001674	Methylovorus sp. SIP3-4, complete genome.	No	Betaproteobacteria	small GTP-binding protein	ACT50955
+fig|85698.208.peg.4037|GND97_02555!!!GTP-binding!protein!EngA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.64%
+Cluster 212382
+180	AE008917	Brucella melitensis bv. 1 str. 16M chromosome I, complete sequence.	Yes	Alphaproteobacteria	alcohol dehydrogenase	AAL52927
+fig|85698.208.peg.4885|GND97_16455!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	77.78%
+Cluster 377739
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	fatty acid hydroxylase	ACS18974
+fig|85698.208.peg.2072|GND97_00280!!!Fatty!acid!hydroxylase!family!(carotene!hydroxylase/sterol!desaturase)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.58%
+Cluster 300494
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	UDP-3-0-acyl N-acetylglucosamine deacetylase	ACY34854
+fig|85698.208.peg.3172|GND97_10485!!!UDP-3-O-[3-hydroxymyristoyl]!N-acetylglucosamine!deacetylase!(EC!3.5.1.108)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.84%
+Cluster 458728
+283	AE007872	Agrobacterium tumefaciens str. C58 plasmid At, complete sequence.	No	Alphaproteobacteria	RhtB family transporter	AAK90732
+fig|85698.208.peg.2247|GND97_28580!!!Transporter,!LysE!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.67%
+Cluster 270013
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	extra-cytoplasmic solute receptor	ABF12741
+fig|85698.208.peg.510|GND97_05865!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.15%
+Cluster 273878
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	transcriptional regulator, AraC family	ACS17152
+fig|85698.208.peg.475|GND97_05700!!!Transcriptional!regulator,!AraC!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.40%
+Cluster 366444
+13040	CP000376	Silicibacter sp. TM1040 mega plasmid, complete sequence.	No	Alphaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABF62188
+fig|85698.208.peg.6231|GND97_21300!!!ABC!transporter,!permease!protein!2!(cluster!1,!maltose/g3p/polyamine/iron)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.92%
+Cluster 411407
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	Aspartate racemase	ABE46634
+fig|85698.208.peg.2425!!!Aspartate!racemase!(EC!5.1.1.13)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.20%
+Cluster 156164
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	amidohydrolase	ABM36563
+fig|85698.208.peg.3154|GND97_10400!!!Metal-dependent!amidase/aminoacylase/carboxypeptidase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.59%
+Cluster 224089
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	Zinc finger/thioredoxin putative	ABE43054
+fig|85698.208.peg.3407|GND97_30990!!!Putative!transmembrane!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.75%
+Cluster 531525
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	50S ribosomal protein L19	ACP26950
+fig|85698.208.peg.4899|GND97_16525!!!LSU!ribosomal!protein!L19p!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.32%
+Cluster 69329
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	prolyl-tRNA synthetase	ACY31515
+fig|85698.208.peg.5644|GND97_19085!!!Prolyl-tRNA!synthetase!(EC!6.1.1.15),!bacterial!type!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.71%
+Cluster 307876
+13020	CP000491	Paracoccus denitrificans PD1222 plasmid 1, complete sequence.	No	Alphaproteobacteria	transcriptional regulator, LysR family	ABL72626
+fig|85698.208.peg.4067|GND97_13035!!!Transcriptional!regulator!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.00%
+Cluster 658760
+17639	CP000774	Parvibaculum lavamentivorans DS-1, complete genome.	No	Alphaproteobacteria	conserved hypothetical protein	ABS65005
+fig|85698.208.peg.3260|GND97_01335!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.83%
+Cluster 172180
+13454	CP000388	Pseudoalteromonas atlantica T6c, complete genome.	No	Gammaproteobacteria	methylitaconate delta2-delta3-isomerase	ABG39945
+fig|85698.208.peg.5337|GND97_03750!!!2-methylaconitate!isomerase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.38%
+Cluster 267808
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	Extra-cytoplasmic Solute Receptor	ABF07675
+fig|85698.208.peg.504|GND97_05840!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.92%
+Cluster 611321
+13467	CU207211	Herminiimonas arsenicoxydans chromosome, complete sequence.	No	Betaproteobacteria	Cytochrome o ubiquinol oxidase protein CyoD (Ubiquinol oxidase chain D)	CAL62821
+fig|85698.208.peg.5610|GND97_18920!!!Cytochrome!O!ubiquinol!oxidase!subunit!IV!(EC!1.10.3.-)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.64%
+Cluster 143582
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	Permease of the major facilitator superfamily	ABF12466
+fig|85698.208.peg.5614|GND97_18940!!!Uncharacterized!MFS-type!transporter!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.32%
+Cluster 23117
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	TonB-dependent siderophore receptor	ACY32520
+fig|85698.208.peg.1251|GND97_26075!!!TonB-dependent!siderophore!receptor!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.31%
+Cluster 489860
+13121	CP000317	Polaromonas sp. JS666 plasmid 1, complete sequence.	No	Betaproteobacteria	3-hydroxyanthranilate 3,4-dioxygenase	ABE47006
+fig|85698.208.peg.4405|GND97_14705!!!3-hydroxyanthranilate!3,4-dioxygenase!(EC!1.13.11.6)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.76%
+Cluster 709708
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable sec-independent translocase protein tata/e homolog. signal peptide	CAD16649
+fig|85698.208.peg.3649|GND97_11805!!!Twin-arginine!translocation!protein!TatA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.67%
+Cluster 268950
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	extra-cytoplasmic solute receptor	ABF11738
+fig|85698.208.peg.6076|GND97_04900!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.85%
+Cluster 272066
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	uncharacterized protein UPF0065	ABM33004
+fig|85698.208.peg.2608|GND97_09115!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.11%
+Cluster 14264
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	nitrite reductase [NAD(P)H], large subunit	ACI10723
+fig|85698.208.peg.375|GND97_23185!!!Nitrite!reductase![NAD(P)H]!large!subunit!(EC!1.7.1.4)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.00%
+Cluster 336231
+30453	CP001636	Variovorax paradoxus S110 chromosome 2, complete sequence.	No	Betaproteobacteria	NmrA family protein	ACS22249
+fig|85698.208.peg.1666|GND97_07500!!!Putative!oxidoreductase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.68%
+Cluster 133202
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	major facilitator superfamily MF	ABM41883
+fig|85698.208.peg.1990|GND97_08175!!!Uncharacterized!MFS-type!transporter!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.72%
+Cluster 343384
+15754	CP000578	Rhodobacter sphaeroides ATCC 17029 chromosome 2, complete sequence.	No	Alphaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABN78262
+fig|85698.208.peg.1100|GND97_25645!!!Spermidine/putrescine!import!ABC!transporter!permease!protein!PotB!(TC!3.A.1.11.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.12%
+Cluster 639321
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	SSU ribosomal protein S19P	ABP89047
+fig|85698.208.peg.2144|GND97_00635!!!SSU!ribosomal!protein!S19p!(S15e)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.43%
+Cluster 8034
+17729	CP000769	Anaeromyxobacter sp. Fw109-5, complete genome.	No	Deltaproteobacteria	malate synthase A	ABS27162
+fig|85698.208.peg.5569|GND97_18725!!!Isocitrate!lyase!(EC!4.1.3.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.65%
+Cluster 197428
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	gentisate 1,2-dioxygenase	ABM59919
+fig|85698.208.peg.5532|GND97_18550!!!Gentisate!1,2-dioxygenase!(EC!1.13.11.4)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.67%
+Cluster 11409
+10700	BX908798	Parachlamydia-related symbiont UWE25, complete genome.	Yes	Chlamydiales	probable glycyl-tRNA synthetase	CAF23417
+fig|85698.208.peg.3445|GND97_10920!!!Glycyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.14)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.07%
+Cluster 96250
+216	CP001037	Nostoc punctiforme PCC 73102, complete genome.	No	Nostocales	amidohydrolase 2	ACC80410
+fig|85698.208.peg.4716|GND97_15625!!!Predicted!metal-dependent!hydrolase!of!the!TIM-barrel!fold!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.32%
+Cluster 390864
+339	AM747721	Burkholderia cenocepacia J2315 chromosome 2, complete genome.	Yes	Betaproteobacteria	putative exported cell wall amidase	CAR55946
+fig|85698.208.peg.6318|GND97_05045!!!N-acetylmuramoyl-L-alanine!amidase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.10%
+Cluster 145922
+13932	CP000133	Rhizobium etli CFN 42, complete genome.	No	Alphaproteobacteria	probable 3-hydroxyisobutyrate dehydrogenase protein	ABC91211
+fig|85698.208.peg.5654|GND97_19130!!!2-hydroxy-3-oxopropionate!reductase!(EC!1.1.1.60)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.44%
+Cluster 320504
+17407	CP000868	Burkholderia multivorans ATCC 17616 chromosome 1, complete sequence.	Yes	Betaproteobacteria	Enoyl-CoA hydratase/isomerase	ABX14088
+fig|85698.208.peg.173|GND97_22480!!!Enoyl-CoA!hydratase!(EC!4.2.1.17)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.29%
+Cluster 378622
+13462	CP000804	Roseiflexus castenholzii DSM 13941, complete genome.	No	Chloroflexales	biotin/lipoate A/B protein ligase	ABU57607
+fig|85698.208.peg.1624|GND97_27345!!!Lipoate-protein!ligase!A!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.95%
+Cluster 175689
+20179	CP001191	Rhizobium leguminosarum bv. trifolii WSM2304, complete genome.	No	Alphaproteobacteria	phosphopentomutase	ACI57443
+fig|85698.208.peg.3343!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.07%
+Cluster 473002
+33241	CP001674	Methylovorus sp. SIP3-4, complete genome.	No	Betaproteobacteria	ribosomal protein L4/L1e	ACT49551
+fig|85698.208.peg.2147|GND97_00650!!!LSU!ribosomal!protein!L4p!(L1e)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.49%
+Cluster 226221
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	methionine aminopeptidase	AAW75237
+fig|85698.208.peg.1468|GND97_26830!!!Methionine!aminopeptidase!(EC!3.4.11.18)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.72%
+Cluster 256070
+17227	CP000527	Desulfovibrio vulgaris subsp. vulgaris DP4, complete genome.	No	Deltaproteobacteria	phosphonate ABC transporter, periplasmic phosphonate-binding protein	ABM28250
+fig|85698.208.peg.1606|GND97_27270!!!ABC!transporter,!substrate-binding!protein!(cluster!12,!methionine/phosphonates)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.76%
+Cluster 300161
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	protein of unknown function DUF6 transmembrane	ACS21831
+fig|85698.208.peg.2469|GND97_08750!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.44%
+Cluster 297679
+18637	CP000908	Methylobacterium extorquens PA1, complete genome.	No	Alphaproteobacteria	protein of unknown function DUF817	ABY33164
+fig|85698.208.peg.4779|GND97_15940!!!Uncharacterized!membrane!protein!YoaT!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.14%
+Cluster 154929
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	ABC transporter substrate-binding protein	BAC52462
+fig|85698.208.peg.5103|GND97_16970!!!ABC!transporter!spermidine/putrescine-binding!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.93%
+Cluster 321537
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	amidohydrolase 2	ABM58154
+fig|85698.208.peg.4054|GND97_12965!!!putative!2-pyrone-4,6-dicarboxylic!acid!hydrolase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.28%
+Cluster 412885
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	putative fumarate and nitrate reduction regulatory transcription regulator protein	CAD14985
+fig|85698.208.peg.1284|GND97_26230!!!Transcriptional!regulator!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.67%
+Cluster 430780
+21101	CP000874	Rhizobium sp. NGR234 plasmid pNGR234b, complete sequence.	No	Alphaproteobacteria	hypothetical protein	ACP22125
+fig|85698.208.peg.1637!!!4-hydroxythreonine-4-phosphate!dehydrogenase!(EC!1.1.1.262)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.24%
+Cluster 70554
+171	CP000010	Burkholderia mallei ATCC 23344 chromosome 1, complete sequence.	Yes	Betaproteobacteria	CAIB/BAIF family protein	AAU49075
+fig|85698.208.peg.3449|GND97_10940!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.92%
+fig|85698.208.peg.2534|GND97_29390!!!L-carnitine!dehydratase/bile!acid-inducible!protein!F!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.35%
+Cluster 633803
+267	AE015451	Pseudomonas putida KT2440 complete genome.	No	Gammaproteobacteria	endoribonuclease, putative	AAN67860
+fig|85698.208.peg.359|GND97_23105!!!RidA/YER057c/UK114!superfamily!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	87.20%
+Cluster 392358
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	NonF-related protein	AAW74351
+fig|85698.208.peg.748|GND97_06150!!!Intracellular!protease!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.70%
+Cluster 97090
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	major facilitator superfamily MF	ABM36974
+fig|85698.208.peg.2753!!!Uncharacterized!MFS-type!transporter!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.45%
+Cluster 318407
+30561	CP001488	Brucella melitensis ATCC 23457 chromosome I, complete sequence.	Yes	Alphaproteobacteria	cation diffusion facilitator family transporter	ACO00313
+fig|85698.208.peg.2778|GND97_09425!!!Cobalt/zinc/cadmium!resistance!protein!CzcD!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.69%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|85698.208.peg.2154|GND97_00680!!!SSU!ribosomal!protein!S12p!(S23e)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	77.60%
+Cluster 119020
+20371	CP000912	Brucella suis ATCC 23445 chromosome II, complete sequence.	Yes	Alphaproteobacteria	Hypothetical protein, conserved	ABY39055
+fig|85698.208.peg.1076|GND97_25530!!!ABC-type!branched-chain!amino!acid!transport!systems,!periplasmic!component!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.83%
+Cluster 497667
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable transcription antitermination protein	CAD16748
+fig|85698.208.peg.2167|GND97_00745!!!Transcription!antitermination!protein!NusG!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	80.23%
+Cluster 314404
+13	AL646053	Ralstonia solanacearum GMI1000 megaplasmid complete sequence.	No	Betaproteobacteria	probable amino-acid transmembrane abc transporter protein	CAD17166
+fig|85698.208.peg.2359|GND97_28860!!!ABC!transporter,!permease!protein!2!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	77.43%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|85698.208.peg.2213|GND97_00995!!!LSU!ribosomal!protein!L34p!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.64%
+Cluster 242634
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	protein of unknown function DUF323	ABM43962
+fig|85698.208.peg.556|GND97_23750!!!PvdO,!pyoverdine!responsive!serine/threonine!kinase!(predicted!by!OlgaV)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.88%
+Cluster 529283
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	organic hydroperoxide resistance protein	AAW77710
+fig|85698.208.peg.2823|GND97_30055!!!Organic!hydroperoxide!resistance!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.31%
+Cluster 257205
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	Uncharacterized protein UPF0065	ABM59820
+fig|85698.208.peg.4180|GND97_13590!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.69%
+Cluster 192527
+12733	CP000264	Jannaschia sp. CCS1, complete genome.	No	Alphaproteobacteria	hypothetical protein	ABD54252
+fig|85698.208.peg.5816|GND97_19610!!!FIG01198345:!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.77%
+Cluster 578768
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ABF10009
+fig|85698.208.peg.3187|GND97_10560!!!Transcriptional!regulator!MraZ!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.00%
+Cluster 313141
+13953	CP000571	Burkholderia pseudomallei 668 chromosome II, complete sequence.	Yes	Betaproteobacteria	glutathione S-transferase	ABN87584
+fig|85698.208.peg.1269|GND97_26160!!!Glutathione!S-transferase,!unnamed!subgroup!(EC!2.5.1.18)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.00%
+Cluster 561296
+30453	CP001636	Variovorax paradoxus S110 chromosome 2, complete sequence.	No	Betaproteobacteria	protein of unknown function DUF395 YeeE/YedE	ACS22161
+fig|85698.208.peg.6307|GND97_04990!!!GENE!II!AND!X!PROTEINS!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.07%
+Cluster 683856
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	putative antibiotic biosynthesis monooxygenase	ACP26340
+fig|85698.208.peg.809|GND97_24585!!!Antibiotic!biosynthesis!monooxygenase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.42%
+Cluster 315715
+13	AL646053	Ralstonia solanacearum GMI1000 megaplasmid complete sequence.	No	Betaproteobacteria	putative transcription regulator protein	CAD17482
+fig|85698.208.peg.3008|GND97_30555!!!Transcriptional!regulator,!GntR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.97%
+Cluster 706945
+13918	CP000458	Burkholderia cenocepacia HI2424 chromosome 1, complete sequence.	Yes	Betaproteobacteria	conserved hypothetical protein	ABK08534
+fig|85698.208.peg.23|GND97_21760!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.75%
+Cluster 234518
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	Integral membrane protein TerC	ABQ79383
+fig|85698.208.peg.5625|GND97_18995!!!Integral!membrane!protein!TerC!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.06%
+Cluster 269323
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	TctC	ACY34498
+fig|85698.208.peg.268|GND97_22655!!!ABC!transporter,!substrate-binding!protein!(cluster!7,!di-/tri-carboxylate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.07%
+Cluster 142726
+15747	CP000250	Rhodopseudomonas palustris HaA2, complete genome.	No	Alphaproteobacteria	urea short-chain amide or branched-chain amino acid uptake ABC transporter periplasmic solute-binding protein precursor	ABD06502
+fig|85698.208.peg.4822|GND97_16145!!!Urea!ABC!transporter,!substrate-binding!protein!UrtA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.35%
+Cluster 205073
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	CAI08474
+fig|85698.208.peg.2510|GND97_29275!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	76.32%
+Cluster 322417
+271	AE003849	Xylella fastidiosa 9a5c, complete genome.	No	Gammaproteobacteria	daunorubicin C-13 ketoreductase	AAF84550
+fig|85698.208.peg.676|GND97_24340!!!daunorubicin!C-13!ketoreductase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.61%
+Cluster 714535
+33241	CP001674	Methylovorus sp. SIP3-4, complete genome.	No	Betaproteobacteria	BolA family protein	ACT49511
+fig|85698.208.peg.3661|GND97_11865!!!YrbA!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.49%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|85698.208.peg.2150|GND97_00665!!!Translation!elongation!factor!Tu!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.67%
+fig|85698.208.peg.2169|GND97_00760!!!Translation!elongation!factor!Tu!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.67%
+Cluster 233023
+29975	CP001392	Acidovorax ebreus TPSY, complete genome.	No	Betaproteobacteria	inner-membrane translocator	ACM33516
+fig|85698.208.peg.2137|GND97_00600!!!ABC!transporter,!permease!protein!2!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.42%
+Cluster 433053
+19	AL591688	Sinorhizobium meliloti 1021 complete chromosome.	No	Alphaproteobacteria	Probable transcriptional regulator	CAC41614
+fig|85698.208.peg.3807|GND97_12595!!!Transcriptional!regulator,!DeoR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.52%
+Cluster 472323
+17407	CP000868	Burkholderia multivorans ATCC 17616 chromosome 1, complete sequence.	Yes	Betaproteobacteria	Chromate transporter	ABX16690
+fig|85698.208.peg.4795|GND97_16020!!!Chromate!transport!protein!ChrA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.06%
+Cluster 416374
+17227	CP000527	Desulfovibrio vulgaris subsp. vulgaris DP4, complete genome.	No	Deltaproteobacteria	antibiotic acetyltransferase	ABM28201
+fig|85698.208.peg.737|GND97_06090!!!Chloramphenicol!O-acetyltransferase!(EC!2.3.1.28)!=>!CatB!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.06%
+Cluster 164091
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	short-chain alcohol dehydrogenase	ACY30754
+fig|85698.208.peg.5815|GND97_19605!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.16%
+Cluster 455328
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	transcriptional regulator-like protein	ABM32526
+fig|85698.208.peg.399|GND97_23305!!!Transcriptional!regulator!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.80%
+Cluster 617185
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	Surfeit locus 4-related	AAY37989
+fig|85698.208.peg.1872|GND97_08010!!!putative!membrane!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.67%
+Cluster 503892
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	transcriptional regulator, AsnC family	ABM43983
+fig|85698.208.peg.4291|GND97_14140!!!Transcriptional!regulator!Bmul_5214,!AsnC!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.18%
+Cluster 591906
+33319	CP001672	Methylotenera mobilis JLW8, complete genome.	No	Betaproteobacteria	ribosomal protein S16	ACT48976
+fig|85698.208.peg.1098|GND97_25635!!!SSU!ribosomal!protein!S16p!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.93%
+Cluster 258086
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	Extra-cytoplasmic Solute Receptor	ABF09669
+fig|85698.208.peg.155|GND97_22390!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.11%
+Cluster 490284
+19485	CP000759	Ochrobactrum anthropi ATCC 49188 chromosome 2, complete sequence.	Yes	Alphaproteobacteria	conserved hypothetical protein	ABS16235
+fig|85698.208.peg.5746|GND97_04385!!!Nitroreductase!family!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.86%
+Cluster 39696
+17463	CP001053	Burkholderia phytofirmans PsJN chromosome 2, complete sequence.	No	Betaproteobacteria	CoA-binding domain protein	ACD20110
+fig|85698.208.peg.5785!!!Acetyl-CoA!synthetase!(ADP-forming)!alpha!and!beta!chains,!putative!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.45%
+Cluster 561815
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	protein of unknown function DUF1130	ABM55919
+fig|85698.208.peg.2451|GND97_08660!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.64%
+Cluster 590909
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	proteinase inhibitor	ABA49478
+fig|85698.208.peg.99|GND97_22115!!!UPF0153!protein!YeiW!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.11%
+Cluster 387219
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	hypothetical protein	ABF76640
+fig|85698.208.peg.1904|GND97_28170!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.00%
+Cluster 298155
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	putative extracellular solute-binding protein, family 3	ACP27013
+fig|85698.208.peg.3796|GND97_12540!!!L-cystine!ABC!transporter,!substrate-binding!protein!TcyA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.97%
+Cluster 274036
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	TRAP dicarboxylate transporter- DctP subunit	ABM42644
+fig|85698.208.peg.465|GND97_05650!!!TRAP!transporter!solute!receptor,!unknown!substrate!5!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.27%
+Cluster 626271
+58	CP000230	Rhodospirillum rubrum ATCC 11170, complete genome.	No	Alphaproteobacteria	Antibiotic biosynthesis monooxygenase	ABC21192
+fig|85698.208.peg.4559|GND97_14870!!!Antibiotic!biosynthesis!monooxygenase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.54%
+Cluster 131329
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	UNKNOWN	BAC45379
+fig|85698.208.peg.5124|GND97_17075!!!fumarate!reductase/succinate!dehydrogenase!flavoprotein-like!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.44%
+Cluster 221736
+13953	CP000570	Burkholderia pseudomallei 668 chromosome I, complete sequence.	Yes	Betaproteobacteria	conserved hypothetical protein	ABN84188
+fig|85698.208.peg.2288|GND97_28785!!!EBNA-1!nuclear!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	82.37%
+Cluster 452132
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	OmpA/MotB domain protein	ABM33839
+fig|85698.208.peg.2783|GND97_09450!!!Outer!membrane!protein!A!precursor!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.96%
+Cluster 316010
+339	AM747722	Burkholderia cenocepacia J2315 chromosome 3, complete genome.	Yes	Betaproteobacteria	LysR family regulatory protein	CAR56968
+fig|85698.208.peg.109|GND97_22165!!!LysR!family!transcriptional!regulator!YnfL!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.36%
+Cluster 36547
+13467	CU207211	Herminiimonas arsenicoxydans chromosome, complete sequence.	No	Betaproteobacteria	putative TonB-dependent siderophore receptor	CAL61540
+fig|85698.208.peg.4223|GND97_13805!!!Ferrichrome-iron!receptor!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.74%
+Cluster 334976
+30453	CP001636	Variovorax paradoxus S110 chromosome 2, complete sequence.	No	Betaproteobacteria	conserved hypothetical protein	ACS22845
+fig|85698.208.peg.2084|GND97_00335!!!Nicotinamidase!(EC!3.5.1.19)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.51%
+Cluster 149709
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	conserved hypothetical protein, probable flavoprotein	CAI08435
+fig|85698.208.peg.4760|GND97_15845!!!NAD(FAD)-utilizing!dehydrogenases!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.10%
+Cluster 534253
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	conserved hypothetical protein	ABF12265
+fig|85698.208.peg.2639|GND97_29630!!!dicarboxylate/amino!acid:cation!symporter!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	78.79%
+Cluster 175185
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	metal-dependent hydrolase involved in phosphonate metabolism	ABF07654
+fig|85698.208.peg.4706|GND97_15580!!!Alpha-D-ribose!1-methylphosphonate!5-triphosphate!diphosphatase!(EC!3.6.1.63)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.31%
+Cluster 706987
+13953	CP000570	Burkholderia pseudomallei 668 chromosome I, complete sequence.	Yes	Betaproteobacteria	30S ribosomal protein S21	ABN82158
+fig|85698.208.peg.4028|GND97_02510!!!SSU!ribosomal!protein!S21p!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.14%
+Cluster 211141
+10696	CP000614	Burkholderia vietnamiensis G4 chromosome 1, complete sequence.	Yes	Betaproteobacteria	inner-membrane translocator	ABO53122
+fig|85698.208.peg.5000|GND97_03475!!!ABC!transporter,!permease!protein!1!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.64%
+Cluster 422365
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	ABC transporter related	ACS62815
+fig|85698.208.peg.5954|GND97_20295!!!ABC-type!antimicrobial!peptide!transport!system,!ATPase!component!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.26%
+Cluster 118272
+16182	CP000572	Burkholderia pseudomallei 1106a chromosome I, complete sequence.	Yes	Betaproteobacteria	queuine tRNA-ribosyltransferase	ABN91976
+fig|85698.208.peg.1912|GND97_28210!!!Queuine!tRNA-ribosyltransferase!(EC!2.4.2.29)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.81%
+Cluster 354417
+30453	CP001636	Variovorax paradoxus S110 chromosome 2, complete sequence.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ACS22521
+fig|85698.208.peg.4251|GND97_13945!!!ABC!transporter,!permease!protein!2!(cluster!5,!nickel/peptides/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	83.88%
+Cluster 154238
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	Peptidase M20D, amidohydrolase	ABE42705
+fig|85698.208.peg.3191|GND97_10580!!!N-acyl-L-amino!acid!amidohydrolase!(EC!3.5.1.14)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.24%
+Cluster 337559
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	3-oxoacyl- reductase	AAW74135
+fig|85698.208.peg.4959|GND97_03270!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.40%
+Cluster 518163
+18	BA000012	Mesorhizobium loti MAFF303099 DNA, complete genome.	No	Alphaproteobacteria	UNKNOWN	BAB49455
+fig|85698.208.peg.5317|GND97_18030!!!Ligand-binding!SRPBCC!domain!protein!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.86%
+Cluster 168131
+17409	CP001044	Burkholderia phymatum STM815 chromosome 2, complete sequence.	No	Betaproteobacteria	conserved hypothetical protein	ACC74071
+fig|85698.208.peg.4323|GND97_14295!!!FIG036446:!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.58%
+Cluster 481392
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	hypothetical hypothetical protein	CAD15901
+fig|85698.208.peg.6274|GND97_21505!!!Ribosomal!silencing!factor!RsfA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.66%
+Cluster 555268
+18937	CP001645	Ralstonia pickettii 12D chromosome 2, complete sequence.	No	Betaproteobacteria	transcriptional regulator, HxlR family	ACS65252
+fig|85698.208.peg.1271|GND97_26170!!!Transcriptional!regulator,!HxlR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.76%
+Cluster 67597
+13947	CP000526	Burkholderia mallei SAVP1 chromosome I, complete sequence.	Yes	Betaproteobacteria	acetylornithine deacetylase	ABM49656
+fig|85698.208.peg.4977|GND97_03360!!!Uncharacterized!deacetylase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.66%
+Cluster 395755
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	transcriptional regulator, GntR family	ACS17039
+fig|85698.208.peg.5514|GND97_18460!!!probable!GntR-family!transcriptional!regulator!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	81.35%
+Cluster 329847
+13020	CP000489	Paracoccus denitrificans PD1222 chromosome 1, complete sequence.	No	Alphaproteobacteria	protein of unknown function DUF6, transmembrane	ABL69858
+fig|85698.208.peg.4898|GND97_16520!!!putative!membrane!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.07%
+Cluster 329454
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	protein of unknown function DUF72	ABE46745
+fig|85698.208.peg.2297|GND97_28820!!!FIG003003:!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.39%
+Cluster 195660
+17463	CP001052	Burkholderia phytofirmans PsJN chromosome 1, complete sequence.	No	Betaproteobacteria	Extracellular ligand-binding receptor	ACD18297
+fig|85698.208.peg.5001|GND97_03480!!!ABC!transporter,!substrate-binding!protein!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.86%
+Cluster 18794
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	ATP-dependent Clp protease ATP-binding subunit clpA	ABA48302
+fig|85698.208.peg.4543|GND97_03090!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	79.84%
+Cluster 257347
+13467	CU207211	Herminiimonas arsenicoxydans chromosome, complete sequence.	No	Betaproteobacteria	Putative dehydrogenase	CAL63445
+fig|85698.208.peg.5552|GND97_18650!!!Malate!dehydrogenase!(EC!1.1.1.37)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.69%
+Cluster 271446
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	Uncharacterized protein UPF0065	ABE44749
+fig|85698.208.peg.5901|GND97_20035!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.63%
+Cluster 515090
+12638	CP000473	Solibacter usitatus Ellin6076, complete genome.	No	Solibacteres	isochorismatase hydrolase	ABJ81909
+fig|85698.208.peg.4331|GND97_14335!!!Isochorismatase!(EC!3.3.2.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.34%
+Cluster 455968
+16064	CP000155	Hahella chejuensis KCTC 2396, complete genome.	No	Gammaproteobacteria	Organic radical activating enzyme	ABC33276
+fig|85698.208.peg.3587|GND97_11495!!!7-carboxy-7-deazaguanine!synthase!(EC!4.3.99.3)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.33%
+Cluster 379655
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	5-dehydro-4-deoxy-D-glucarate aldolase	ABE45017
+fig|85698.208.peg.4357|GND97_14470!!!2-dehydro-3-deoxyglucarate!aldolase!(EC!4.1.2.20)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.96%
+Cluster 426646
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	peptide methionine sulfoxide reductase	BAC52308
+fig|85698.208.peg.3355|GND97_30950!!!Peptide-methionine!(S)-S-oxide!reductase!MsrA!(EC!1.8.4.11)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.72%
+Cluster 563682
+20635	CP001280	Methylocella silvestris BL2, complete genome.	No	Alphaproteobacteria	Activator of Hsp90 ATPase 1 family protein	ACK51737
+fig|85698.208.peg.2579|GND97_08970!!!Ligand-binding!SRPBCC!domain!protein!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.92%
+Cluster 552694
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	rfaE bifunctional protein	ABM39206
+fig|85698.208.peg.2833|GND97_30105!!!D-glycero-beta-D-manno-heptose!1-phosphate!adenylyltransferase!(EC!2.7.7.70)!/!D-glycero-beta-D-manno-heptose-7-phosphate!kinase!(EC!2.7.1.167)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.05%
+Cluster 208113
+17409	CP001044	Burkholderia phymatum STM815 chromosome 2, complete sequence.	No	Betaproteobacteria	acyl-CoA dehydrogenase domain protein	ACC74213
+fig|85698.208.peg.724|GND97_06035!!!Acyl-CoA!dehydrogenase,!short-chain!specific!(EC!1.3.8.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.87%
+Cluster 295328
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	NLPA lipoprotein	ABQ81190
+fig|85698.208.peg.1954|GND97_28415!!!Methionine!ABC!transporter!substrate-binding!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.79%
+Cluster 767506
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	50S ribosomal protein L36	CAO97529
+fig|85698.208.peg.5334|GND97_03735!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.39%
+Cluster 412902
+17423	CP001089	Geobacter lovleyi SZ, complete genome.	No	Deltaproteobacteria	PpiC-type peptidyl-prolyl cis-trans isomerase	ACD96734
+fig|85698.208.peg.5410|GND97_04125!!!Peptidyl-prolyl!cis-trans!isomerase!PpiC!(EC!5.2.1.8)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.52%
+Cluster 3244
+344	AM236084	Rhizobium leguminosarum bv. viciae plasmid pRL10 complete genome, strain 3841.	No	Alphaproteobacteria	UNKNOWN	CAK10256
+fig|85698.208.peg.2398!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.87%
+Cluster 89701
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	extracellular solute-binding protein family 5	ACS63046
+fig|85698.208.peg.45|GND97_21865!!!Oligopeptide!ABC!transporter,!substrate-binding!protein!OppA!(TC!3.A.1.5.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	77.44%
+Cluster 514309
+52	AL954747	Nitrosomonas europaea ATCC 19718, complete genome.	No	Betaproteobacteria	Probable fecI Specialized sigma subunits of RNA polymerase	CAD86347
+fig|85698.208.peg.3032|GND97_10065!!!probable!sigma-70!factor,!ECF!subfamily!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.71%
+Cluster 519174
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	type II secretion pathway protein XcpT	AAY92025
+fig|85698.208.peg.244|GND97_05460!!!General!secretion!pathway!protein!G!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.01%
+fig|85698.208.peg.1933|GND97_28310!!!General!secretion!pathway!protein!G!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.24%
+Cluster 628379
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	prophage DLP12 integrase	ABA47504
+fig|85698.208.peg.3758!!!Phage!integrase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.79%
+Cluster 532816
+13126	CR628337	Legionella pneumophila str. Lens complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S7	CAH14596
+fig|85698.208.peg.2152|GND97_00675!!!SSU!ribosomal!protein!S7p!(S5e)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.03%
+Cluster 540168
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ABF07592
+fig|85698.208.peg.1518|GND97_07345!!!DUF1854!domain-containing!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.18%
+Cluster 102789
+19	AL591688	Sinorhizobium meliloti 1021 complete chromosome.	No	Alphaproteobacteria	Hypothetical protein	CAC46284
+fig|85698.208.peg.69|GND97_21965!!!Cysteine!desulfurase!(EC!2.8.1.7)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.34%
+Cluster 240335
+28329	CP000934	Cellvibrio japonicus Ueda107, complete genome.	No	Gammaproteobacteria	Rhodanese-like domain protein	ACE82631
+fig|85698.208.peg.6047|GND97_04755!!!Thiosulfate!sulfurtransferase,!rhodanese!(EC!2.8.1.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.56%
+Cluster 329865
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	phosphonopyruvate hydrolase	ABM34431
+fig|85698.208.peg.3710|GND97_12100!!!Phosphonopyruvate!hydrolase!(EC!3.11.1.3)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	76.55%
+Cluster 618292
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	SWIB/MDM2 domain protein	ACB32470
+fig|85698.208.peg.3192|GND97_10585!!!SWIB/MDM2!domain-containing!proteins!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.57%
+Cluster 555721
+13946	CP000548	Burkholderia mallei NCTC 10247 chromosome I, complete sequence.	Yes	Betaproteobacteria	50S ribosomal protein L28	ABO05945
+fig|85698.208.peg.3704|GND97_12070!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	83.33%
+Cluster 627056
+16304	CP000740	Sinorhizobium medicae WSM419 plasmid pSMED02, complete sequence.	No	Alphaproteobacteria	regulatory protein ArsR	ABR64070
+fig|85698.208.peg.2580|GND97_08975!!!Transcriptional!regulator,!ArsR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.84%
+Cluster 341372
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	metallophosphoesterase	ABM30747
+fig|85698.208.peg.378|GND97_23200!!!Ser/Thr!protein!phosphatase!family!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.30%
+Cluster 697203
+10670	CP000386	Rubrobacter xylanophilus DSM 9941, complete genome.	No	Rubrobacteridae	conserved hypothetical protein	ABG03425
+fig|85698.208.peg.1625|GND97_27350!!!Lipoate-protein!ligase!A!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.74%
+Cluster 307387
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	PHP C-terminal domain protein	ABM57384
+fig|85698.208.peg.1621|GND97_27335!!!FIG00031715:!Predicted!metal-dependent!phosphoesterases!(PHP!family)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.14%
+Cluster 33795
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	Pyruvate oxidase	ABA50451
+fig|85698.208.peg.4163|GND97_13515!!!Thiamine!pyrophosphate-requiring!protein!PA2108!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.46%
+Cluster 166956
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	urea ABC transporter, permease protein UrtC	ACR02516
+fig|85698.208.peg.4824|GND97_16155!!!Urea!ABC!transporter,!permease!protein!UrtC!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.80%
+Cluster 624374
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	conserved hypothetical protein	ACL58013
+fig|85698.208.peg.5452|GND97_18155!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.85%
+Cluster 236597
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	aromatic amino acid beta-eliminating lyase/threonine aldolase	ACB22036
+fig|85698.208.peg.6140|GND97_20855!!!Low-specificity!L-threonine!aldolase!(EC!4.1.2.48)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.64%
+Cluster 657071
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	Fe(II) trafficking protein	ABF08950
+fig|85698.208.peg.882|GND97_24930!!!FIG001341:!Probable!Fe(2+)-trafficking!protein!YggX!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.33%
+Cluster 700481
+12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	No	Gammaproteobacteria	thiamine biosynthesis protein ThiS	AAZ36550
+fig|85698.208.peg.5372|GND97_03935!!!Sulfur!carrier!protein!ThiS!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.12%
+Cluster 271873
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	luciferase-like protein	ACY33852
+fig|85698.208.peg.4202|GND97_13700!!!Coenzyme!F420-dependent!N5,N10-methylene!tetrahydromethanopterin!reductase!and!related!flavin-dependent!oxidoreductases!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.86%
+Cluster 653867
+13025	CP000116	Thiobacillus denitrificans ATCC 25259, complete genome.	No	Betaproteobacteria	putative membrane protein	AAZ98471
+fig|85698.208.peg.6340|GND97_05150!!!putative!membrane!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.86%
+Cluster 527013
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	adenylate cyclase, class 2	ABF07454
+fig|85698.208.peg.1346|GND97_07045!!!Adenylate!cyclase!(EC!4.6.1.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.08%
+Cluster 457981
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	DNA-3-methyladenine glycosylase II	ACS63707
+fig|85698.208.peg.2410|GND97_29095!!!DNA-3-methyladenine!glycosylase!II!(EC!3.2.2.21)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.50%
+Cluster 517859
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	lactoylglutathione lyase	ACP05284
+fig|85698.208.peg.3439|GND97_10890!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.83%
+Cluster 121827
+29527	CP001629	Desulfomicrobium baculatum DSM 4028, complete genome.	No	Deltaproteobacteria	secretion protein HlyD family protein	ACU90263
+fig|85698.208.peg.2906|GND97_09805!!!HlyD-like!membrane!fusion!protein!YhiI!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.45%
+Cluster 236536
+13921	CP000108	Chlorobium chlorochromatii CaD3, complete genome.	No	Chlorobia	cytochrome c551 peroxidase	ABB28449
+fig|85698.208.peg.5567|GND97_18715!!!Cytochrome!c551!peroxidase!(EC!1.11.1.5)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	72.75%
+Cluster 261850
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	uncharacterized protein UPF0065	ABM32497
+fig|85698.208.peg.127|GND97_22255!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.66%
+Cluster 117161
+15753	CP000697	Acidiphilium cryptum JF-5, complete genome.	No	Alphaproteobacteria	Amidase	ABQ30617
+fig|85698.208.peg.3724|GND97_12170!!!Amidase!family!protein!bll0246!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.38%
+Cluster 43853
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	transketolase	ACY35378
+fig|85698.208.peg.795|GND97_24515!!!Transketolase!(EC!2.2.1.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.99%
+Cluster 652886
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	histone family protein DNA-binding protein	ABM42555
+fig|85698.208.peg.890|GND97_24970!!!Integration!host!factor!alpha!subunit!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.19%
+Cluster 499911
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	transcriptional regulator, TetR family	AAY92199
+fig|85698.208.peg.517|GND97_23560!!!Transcriptional!regulator,!AcrR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.69%
+Cluster 381529
+13918	CP000459	Burkholderia cenocepacia HI2424 chromosome 2, complete sequence.	Yes	Betaproteobacteria	alpha/beta hydrolase fold protein	ABK10904
+fig|85698.208.peg.5571|GND97_18735!!!Hydrolase,!alpha/beta!fold!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.02%
+Cluster 125976
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	signal recognition particle-docking protein FtsY	ACR02209
+fig|85698.208.peg.2750|GND97_29920!!!Signal!recognition!particle!receptor!FtsY!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.25%
+Cluster 345433
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	phosphonate ABC transporter, ATPase subunit	ACB26541
+fig|85698.208.peg.1605|GND97_27265!!!ABC!transporter,!ATP-binding!protein!(cluster!12,!methionine/phosphonates)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.36%
+Cluster 230333
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	XdhC	ACY34520
+fig|85698.208.peg.2496|GND97_29210!!!Xanthine!and!CO!dehydrogenases!maturation!factor,!XdhC/CoxF!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.73%
+Cluster 443334
+20095	CP001359	Anaeromyxobacter dehalogenans 2CP-1, complete genome.	No	Deltaproteobacteria	Tripartite ATP-independent periplasmic transporter DctQ component	ACL66418
+fig|85698.208.peg.1000|GND97_25160!!!TRAP-type!C4-dicarboxylate!transport!system,!small!permease!component!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.15%
+Cluster 224493
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU77154
+fig|85698.208.peg.749|GND97_06155!!!Putative!oxidoreductase!YncB!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.93%
+Cluster 350907
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	LamB/YcsF family protein	ABM60275
+fig|85698.208.peg.3675|GND97_11935!!!Lactam!utilization!protein!LamB!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.53%
+Cluster 65285
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	fumarate reductase/succinate dehydrogenase flavoprotein domain protein	ABM57930
+fig|85698.208.peg.608|GND97_24005!!!Succinate!dehydrogenase/fumarate!reductase,!flavoprotein!subunit!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.03%
+Cluster 100823
+13953	CP000570	Burkholderia pseudomallei 668 chromosome I, complete sequence.	Yes	Betaproteobacteria	coa transferase, caib/baif family	ABN82273
+fig|85698.208.peg.5872|GND97_19885!!!CaiB/BaiF!family!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.15%
+Cluster 384964
+17411	CP001025	Burkholderia ambifaria MC40-6 chromosome 1, complete sequence.	Yes	Betaproteobacteria	SNARE associated Golgi protein	ACB63182
+fig|85698.208.peg.5863|GND97_19835!!!DedA!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.04%
+Cluster 671232
+16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Yes	Gammaproteobacteria	transcriptional regulator, XRE family	ABR82865
+fig|85698.208.peg.1905|GND97_28175!!!transcriptional!regulator,!XRE!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.99%
+Cluster 236226
+13649	AM039952	Xanthomonas campestris pv. vesicatoria complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	CAJ25611
+fig|85698.208.peg.6068|GND97_04860!!!Transcriptional!regulator!PA4174,!LysR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.64%
+Cluster 324165
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	tryptophan 2,3-dioxygenase	ACY34403
+fig|85698.208.peg.4918|GND97_16620!!!Tryptophan!2,3-dioxygenase!(EC!1.13.11.11)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	77.30%
+Cluster 32659
+13953	CP000570	Burkholderia pseudomallei 668 chromosome I, complete sequence.	Yes	Betaproteobacteria	prephenate dehydrogenase/3-phosphoshikimate 1-carboxyvinyltransferase	ABN83250
+fig|85698.208.peg.2789|GND97_09480!!!3-phosphoshikimate!1-carboxyvinyltransferase!(EC!2.5.1.19)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.55%
+Cluster 369469
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	fumarylacetoacetate (FAA) hydrolase	ABE43668
+fig|85698.208.peg.1988|GND97_08165!!!Fumarylacetoacetate!hydrolase!family!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	78.30%
+Cluster 492228
+19707	CP001964	Cellulomonas flavigena DSM 20109, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ADG73785
+fig|85698.208.peg.4242|GND97_13900!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.09%
+Cluster 713576
+13	AL646053	Ralstonia solanacearum GMI1000 megaplasmid complete sequence.	No	Betaproteobacteria	hypothetical protein of unknown function duf1458	CAD18326
+fig|85698.208.peg.4637|GND97_15245!!!Dodecin,!a!flavin!storage/sequestration!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.67%
+Cluster 672347
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	NIPSNAP family containing protein	ABM30660
+fig|85698.208.peg.123|GND97_22235!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	81.19%
+Cluster 213336
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	hypothetical conserved protein	ACY32327
+fig|85698.208.peg.5361|GND97_03875!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.80%
+Cluster 39252
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	methylitaconate delta2-delta3-isomerase	ABM39101
+fig|85698.208.peg.4811|GND97_16100!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.47%
+Cluster 78775
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	argininosuccinate lyase	ACY31675
+fig|85698.208.peg.227|GND97_05380!!!Argininosuccinate!lyase!(EC!4.3.2.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.86%
+Cluster 637472
+33901	CP001503	Burkholderia glumae BGR1 chromosome 1, complete sequence.	No	Betaproteobacteria	Iron-sulfur cluster assembly accessory protein	ACR27765
+fig|85698.208.peg.2352|GND97_08555!!!Iron-sulfur!cluster!insertion!protein!ErpA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	79.67%
+Cluster 371030
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	ABC transporter related	ACB24247
+fig|85698.208.peg.1143|GND97_06690!!!Branched-chain!amino!acid!ABC!transporter,!ATP-binding!protein!LivF!(TC!3.A.1.4.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.94%
+Cluster 358624
+30453	CP001636	Variovorax paradoxus S110 chromosome 2, complete sequence.	No	Betaproteobacteria	extracellular solute-binding protein family 3	ACS22753
+fig|85698.208.peg.1411|GND97_26550!!!ABC!transporter,!substrate-binding!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.94%
+Cluster 218809
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	Sodium/calcium exchanger membrane region	AAY35738
+fig|85698.208.peg.1442|GND97_26705!!!Calcium/proton!antiporter!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.82%
+Cluster 348382
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	Asp/Glu racemase	ABM34471
+fig|85698.208.peg.1306|GND97_26330!!!Maleate!cis-trans!isomerase!(EC!5.2.1.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.66%
+Cluster 98045
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	anthranilate synthase component I	ABF10050
+fig|85698.208.peg.5849|GND97_19765!!!Anthranilate!synthase,!aminase!component!(EC!4.1.3.27)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.75%
+Cluster 70830
+13020	CP000491	Paracoccus denitrificans PD1222 plasmid 1, complete sequence.	No	Alphaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABL72720
+fig|85698.208.peg.4612|GND97_15130!!!Ferric!iron!ABC!transporter,!permease!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.28%
+Cluster 323047
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	inner-membrane translocator	ABE45739
+fig|85698.208.peg.4220|GND97_13790!!!ABC!transporter,!permease!protein!1!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	72.95%
+Cluster 704228
+29443	CP001707	Kangiella koreensis DSM 16069, complete genome.	No	Gammaproteobacteria	ATP synthase F0, C subunit	ACV28041
+fig|85698.208.peg.6168|GND97_20995!!!ATP!synthase!F0!sector!subunit!c!(EC!3.6.3.14)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.50%
+Cluster 317756
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	transcriptional regulator, LysR family	ABE44363
+fig|85698.208.peg.541|GND97_23680!!!Transcriptional!regulator!RSp1267,!LysR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.20%
+Cluster 719621
+359	AE016853	Pseudomonas syringae pv. tomato str. DC3000, complete genome.	No	Gammaproteobacteria	conserved protein of unknown function	AAO54827
+fig|85698.208.peg.1397!!!Uncharacterized!protein!YpeB!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	76.06%
+Cluster 491466
+17407	CP000868	Burkholderia multivorans ATCC 17616 chromosome 1, complete sequence.	Yes	Betaproteobacteria	putative PTS IIA-like nitrogen-regulatory protein PtsN	ABX14217
+fig|85698.208.peg.1377|GND97_07200!!!PTS!IIA-like!nitrogen-regulatory!protein!PtsN!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.90%
+Cluster 201170
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	thiolase	ABM44078
+fig|85698.208.peg.2838!!!Thiolase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.59%
+Cluster 302259
+15747	CP000250	Rhodopseudomonas palustris HaA2, complete genome.	No	Alphaproteobacteria	sulfate ABC transporter, permease protein CysW	ABD05757
+fig|85698.208.peg.2813|GND97_09600!!!Sulfate!transport!system!permease!protein!CysW!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.88%
+Cluster 462481
+13947	CP000526	Burkholderia mallei SAVP1 chromosome I, complete sequence.	Yes	Betaproteobacteria	AhpC/TSA family protein	ABM50204
+fig|85698.208.peg.1722|GND97_27595!!!AhpC/TSA-family!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.28%
+Cluster 306383
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	Cobyrinic acid ac-diamide synthase	ACS16711
+fig|85698.208.peg.2186|GND97_00860!!!Chromosome!(plasmid)!partitioning!protein!ParA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.30%
+Cluster 189690
+13908	CP000267	Rhodoferax ferrireducens T118, complete genome.	No	Betaproteobacteria	Extracellular ligand-binding receptor	ABD67971
+fig|85698.208.peg.4676|GND97_15435!!!Benzoate!ABC!transporter,!substrate-binding!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	72.02%
+Cluster 319924
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	hypothetical protein	ABE43395
+fig|85698.208.peg.4249|GND97_13935!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.73%
+Cluster 353622
+297	AE008923	Xanthomonas axonopodis pv. citri str. 306, complete genome.	No	Gammaproteobacteria	oxidoreductase	AAM35428
+fig|85698.208.peg.4635|GND97_15235!!!Dehydrogenases!with!different!specificities!(related!to!short-chain!alcohol!dehydrogenases)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	85.51%
+Cluster 267451
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	extra-cytoplasmic solute receptor (bug)	ABF11303
+fig|85698.208.peg.4388|GND97_14625!!!ABC!transporter,!substrate-binding!protein!(cluster!7,!di-/tri-carboxylate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.32%
+Cluster 9416
+15751	CP000463	Rhodopseudomonas palustris BisA53, complete genome.	No	Alphaproteobacteria	peptidase C14, caspase catalytic subunit p20	ABJ06217
+fig|85698.208.peg.3196|GND97_01035!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.66%
+fig|85698.208.peg.2763|GND97_29985!!!Arp2/3!complex-activating!protein!rickA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.91%
+Cluster 32333
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable rna polymerase sigma d (sigma-70) factor transcription regulator protein	CAD15922
+fig|85698.208.peg.4026|GND97_02500!!!RNA!polymerase!sigma!factor!RpoD!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.09%
+Cluster 259180
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	Uncharacterized protein UPF0065	ABM39372
+fig|85698.208.peg.3400!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.70%
+Cluster 601592
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	Endoribonuclease L-PSP	ABM34806
+fig|85698.208.peg.4055|GND97_12970!!!RidA/YER057c/UK114!superfamily!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.19%
+Cluster 327617
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	nitrate transport ATP-binding subunits C and D	ABE42255
+fig|85698.208.peg.840|GND97_24725!!!Cyanate!ABC!transporter,!ATP-binding!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.29%
+Cluster 292485
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	leucine/isoleucine/valine transporter subunit, ATP-binding component of ABC superfamily	ABF07101
+fig|85698.208.peg.2827!!!ABC!transporter,!ATP-binding!protein!1!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.95%
+Cluster 46152
+17423	CP001089	Geobacter lovleyi SZ, complete genome.	No	Deltaproteobacteria	anaerobic ribonucleoside-triphosphate reductase	ACD95495
+fig|85698.208.peg.5278|GND97_17835!!!Ribonucleotide!reductase!of!class!III!(anaerobic),!large!subunit!(EC!1.17.4.2)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.92%
+Cluster 685647
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	ribosomal protein S17	ACB36244
+fig|85698.208.peg.2139|GND97_00610!!!SSU!ribosomal!protein!S17p!(S11e)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.22%
+Cluster 757748
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	ribosomal protein L36	ABQ76678
+fig|85698.208.peg.2114|GND97_00485!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	78.38%
+Cluster 93609
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	conserved hypothetical protein	ABF76821
+fig|85698.208.peg.1482|GND97_26900!!!carbon!monoxide!dehydrogenase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	78.12%
+Cluster 2166
+33901	CP001503	Burkholderia glumae BGR1 chromosome 1, complete sequence.	No	Betaproteobacteria	Adenine specific DNA methyltransferase, putative	ACR29491
+fig|85698.208.peg.2328|GND97_08430!!!Putative!helicase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.87%
+Cluster 111262
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	transcriptional regulator, GntR family	ABE44577
+fig|85698.208.peg.4764|GND97_15865!!!DNA-binding!transcriptional!regulator,!MocR!family!/!aminotransferase!domain!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.81%
+Cluster 199181
+32551	AP010947	Azospirillum sp. B510 plasmid pAB510a DNA, complete genome.	No	Alphaproteobacteria	methylated-DNA-[protein]-cysteine S-methyltransferase	BAI74049
+fig|85698.208.peg.3858|GND97_12835!!!Methylphosphotriester-DNA--protein-cysteine!S-methyltransferase!(EC!2.1.1.n11)!/!ADA!regulatory!protein!/!Methylated-DNA--protein-cysteine!methyltransferase!(EC!2.1.1.63)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.07%
+Cluster 211498
+13953	CP000570	Burkholderia pseudomallei 668 chromosome I, complete sequence.	Yes	Betaproteobacteria	conserved hypothetical protein	ABN83657
+fig|85698.208.peg.2866|GND97_30260!!!Methionine!sulfoxide!reductase!cytochrome!b!subunit!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.74%
+Cluster 555166
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	putative acetyltransferase, GNAT family	CAK15068
+fig|85698.208.peg.2756|GND97_29950!!!Acetyltransferase,!GNAT!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	77.91%
+Cluster 60322
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	DNA polymerase III, subunits gamma and tau	ABE44193
+fig|85698.208.peg.4867!!!DNA!polymerase!III!subunits!gamma!and!tau!(EC!2.7.7.7)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.43%
+Cluster 282450
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	thiamine biosynthesis protein	AAW76626
+fig|85698.208.peg.2829|GND97_30085!!!Thiazole!synthase!(EC!2.8.1.10)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.17%
+Cluster 702262
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	UNKNOWN	BAC48087
+fig|85698.208.peg.3360|GND97_30970!!!putative!membrane!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.65%
+Cluster 310729
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	dihydrodipicolinate synthetase	ABM58114
+fig|85698.208.peg.6121|GND97_20760!!!Dihydrodipicolinate!synthase!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.00%
+Cluster 580724
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	hypothetical protein	ABF08076
+fig|85698.208.peg.5621|GND97_18975!!!Ribosomal!protein!S3AE!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.66%
+Cluster 503487
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ACY32650
+fig|85698.208.peg.2612|GND97_09135!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.33%
+Cluster 394749
+30453	CP001636	Variovorax paradoxus S110 chromosome 2, complete sequence.	No	Betaproteobacteria	polar amino acid ABC transporter, inner membrane subunit	ACS22930
+fig|85698.208.peg.2633|GND97_29605!!!ABC!transporter,!permease!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.03%
+Cluster 58566
+13954	CP000125	Burkholderia pseudomallei 1710b chromosome II, complete sequence.	Yes	Betaproteobacteria	ubiquinol oxidase family protein	ABA51670
+fig|85698.208.peg.304|GND97_22830!!!Cytochrome!d!ubiquinol!oxidase!subunit!I!(EC!1.10.3.-)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.23%
+Cluster 433883
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	transcriptional regulator, GntR-family	ABF10317
+fig|85698.208.peg.1231|GND97_25975!!!Transcriptional!regulator,!GntR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.86%
+Cluster 451499
+13467	CU207211	Herminiimonas arsenicoxydans chromosome, complete sequence.	No	Betaproteobacteria	putative thiaminase-2 (transcriptional activator TenA family)	CAL61093
+fig|85698.208.peg.6320|GND97_05055!!!Thiaminase!II!(EC!3.5.99.2)!involved!in!salvage!of!thiamin!pyrimidine!moiety,!TenA!subgroup!with!Cys!in!active!site!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.64%
+Cluster 676703
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable ferredoxin subunit of a ring-hydroxylating dioxygenase oxidoreductase protein	CAD14790
+fig|85698.208.peg.5163|GND97_17275!!!Probable!ferredoxin!subunit!of!a!ring-hydroxylating!dioxygenase!oxidoreductase!protein!(EC!1.-.-.-)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.90%
+Cluster 35389
+13461	CP001712	Robiginitalea biformata HTCC2501, complete genome.	No	Flavobacteria	probable cytochrome oxidase subunit (cbb3-type)	EAR16059
+fig|85698.208.peg.1|GND97_21645!!!Cytochrome!c!oxidase!(cbb3-type)!subunit!CcoN!(EC!1.9.3.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.19%
+Cluster 230440
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	methionyl-tRNA formyltransferase	ABE46521
+fig|85698.208.peg.1347|GND97_07050!!!Methionyl-tRNA!formyltransferase!(EC!2.1.2.9)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.66%
+Cluster 60424
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	potassium translocating ATPase, subunit A	ABF06924
+fig|85698.208.peg.952|GND97_06405!!!Potassium-transporting!ATPase!A!chain!(EC!3.6.3.12)!(TC!3.A.3.7.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.41%
+Cluster 473816
+386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Yes	Gammaproteobacteria	putative nucleoside 2-deoxyribosyltransferase	ABJ15101
+fig|85698.208.peg.5083|GND97_16875!!!Nucleoside!2-deoxyribosyltransferase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.21%
+Cluster 324150
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	phosphoglycerate mutase	ABE42842
+fig|85698.208.peg.3220|GND97_01145!!!Phosphoglycerate!mutase!(EC!5.4.2.11)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.60%
+Cluster 237923
+13943	CP000545	Burkholderia mallei NCTC 10229 chromosome II, complete sequence.	Yes	Betaproteobacteria	transcriptional regulator, LysR family	ABN00366
+fig|85698.208.peg.1695|GND97_07640!!!Transcriptional!regulator!Bxe_A3011,!LysR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.24%
+Cluster 146261
+33901	CP001503	Burkholderia glumae BGR1 chromosome 1, complete sequence.	No	Betaproteobacteria	Deoxyguanosinetriphosphate triphosphohydrolase, putative	ACR27506
+fig|85698.208.peg.2093|GND97_00380!!!dNTP!triphosphohydrolase,!broad!substrate!specificity,!subgroup!2!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.46%
+Cluster 256861
+56	CP000144	Rhodobacter sphaeroides 2.4.1 chromosome 2, complete sequence.	No	Alphaproteobacteria	putative proline racemase	ABA81122
+fig|85698.208.peg.1102|GND97_25655!!!Proline!racemase!(EC!5.1.1.4)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	79.53%
+Cluster 369077
+29975	CP001392	Acidovorax ebreus TPSY, complete genome.	No	Betaproteobacteria	2-dehydro-3-deoxyglucarate aldolase	ACM31958
+fig|85698.208.peg.4051|GND97_12950!!!2,4-dihydroxyhept-2-ene-1,7-dioic!acid!aldolase!(EC!4.1.2.52)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.79%
+Cluster 387125
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	ribonuclease III	ACS62293
+fig|85698.208.peg.4949|GND97_03225!!!Ribonuclease!III!(EC!3.1.26.3)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.19%
+Cluster 651705
+33901	CP001504	Burkholderia glumae BGR1 chromosome 2, complete sequence.	No	Betaproteobacteria	Putative dioxygenase	ACR32465
+fig|85698.208.peg.4198|GND97_13680!!!Aromatic!ring-cleaving!dioxygenase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.24%
+Cluster 474441
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ABM35814
+fig|85698.208.peg.1369|GND97_07160!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.30%
+Cluster 705980
+18937	CP001645	Ralstonia pickettii 12D chromosome 2, complete sequence.	No	Betaproteobacteria	transcriptional regulator, CopG family	ACS65690
+fig|85698.208.peg.80|GND97_22020!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.09%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|85698.208.peg.2126|GND97_00545!!!LSU!ribosomal!protein!L14p!(L23e)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	87.70%
+Cluster 99437
+17929	CP000958	Burkholderia cenocepacia MC0-3 chromosome 1, complete sequence.	Yes	Betaproteobacteria	conserved hypothetical protein	ACA91715
+fig|85698.208.peg.1114|GND97_25715!!!dicarboxylate/amino!acid:cation!symporter!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	81.82%
+Cluster 697006
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	cell division topological specificity factor MinE	ACS16728
+fig|85698.208.peg.1820|GND97_07760!!!Cell!division!topological!specificity!factor!MinE!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	72.94%
+Cluster 702248
+13423	CP000359	Deinococcus geothermalis DSM 11300, complete genome.	No	Deinococci	cold-shock DNA-binding domain protein	ABF45306
+fig|85698.208.peg.2189|GND97_00875!!!Cold!shock!protein!of!CSP!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.71%
+Cluster 269061
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	dihydrodipicolinate synthetase	ABE45328
+fig|85698.208.peg.5930|GND97_20175!!!5-dehydro-4-deoxyglucarate!dehydratase!(EC!4.2.1.41)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.07%
+Cluster 179093
+13918	CP000458	Burkholderia cenocepacia HI2424 chromosome 1, complete sequence.	Yes	Betaproteobacteria	porphobilinogen deaminase	ABK09175
+fig|85698.208.peg.3116|GND97_10335!!!Porphobilinogen!deaminase!(EC!2.5.1.61)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.69%
+Cluster 116921
+13908	CP000267	Rhodoferax ferrireducens T118, complete genome.	No	Betaproteobacteria	FAD linked oxidase-like	ABD69210
+fig|85698.208.peg.3086|GND97_10190!!!D-Lactate!dehydrogenase,!cytochrome!c-dependent!(EC!1.1.2.4)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.18%
+Cluster 525612
+10690	CP000390	Mesorhizobium sp. BNC1, complete genome.	No	Alphaproteobacteria	3-demethylubiquinone-9 3-methyltransferase	ABG62864
+fig|85698.208.peg.3216|GND97_01125!!!3-demethylubiquinone-9!3-methyltransferase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.58%
+Cluster 283042
+32551	AP010951	Azospirillum sp. B510 plasmid pAB510e DNA, complete genome.	No	Alphaproteobacteria	electron transfer flavoprotein, alpha subunit	BAI76504
+fig|85698.208.peg.2805|GND97_09560!!!Electron!transfer!flavoprotein,!alpha!subunit!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.90%
+Cluster 711939
+16426	CP000362	Roseobacter denitrificans OCh 114, complete genome.	No	Alphaproteobacteria	ribosomal protein L33-related protein	ABG31601
+fig|85698.208.peg.3705|GND97_12075!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.09%
+Cluster 411787
+17407	CP000869	Burkholderia multivorans ATCC 17616 chromosome 2, complete sequence.	Yes	Betaproteobacteria	isochorismatase hydrolase	ABX17352
+fig|85698.208.peg.4126|GND97_13330!!!Amidases!related!to!nicotinamidase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	78.57%
+Cluster 172095
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	ABC transporter related protein	ACY97890
+fig|85698.208.peg.319!!!ABC!transporter,!ATP-binding!protein!(cluster!1,!maltose/g3p/polyamine/iron);!ABC!transporter,!ATP-binding!protein!(cluster!10,!nitrate/sulfonate/bicarbonate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.24%
+Cluster 322251
+17409	CP001045	Burkholderia phymatum STM815 plasmid pBPHY01, complete sequence.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ACC75677
+fig|85698.208.peg.254|GND97_05505!!!ABC!transporter,!permease!protein!2!(cluster!5,!nickel/peptides/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.07%
+Cluster 350508
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	Nitrilase/N-carbamoyl-D-aminoacid amidohydrolase	ABF11300
+fig|85698.208.peg.3306|GND97_01560!!!Aliphatic!amidase!AmiE!(EC!3.5.1.4)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	81.18%
+Cluster 72255
+16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Yes	Gammaproteobacteria	membrane protein, putative	ABR84151
+fig|85698.208.peg.4098|GND97_13190!!!Uncharacterized!MFS-type!transporter!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.02%
+Cluster 362256
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	cyclase family protein	ACS18149
+fig|85698.208.peg.5814|GND97_19600!!!Metal-dependent!hydrolase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.13%
+Cluster 353562
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	3-oxoadipate CoA-transferase, alpha subunit	AAZ24070
+fig|85698.208.peg.5684|GND97_19280!!!3-oxoadipate!CoA-transferase!subunit!A!(EC!2.8.3.6)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.70%
+Cluster 126030
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	UNKNOWN	BAC52522
+fig|85698.208.peg.4100|GND97_13200!!!Oxidoreductase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.07%
+Cluster 227040
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	uncharacterized protein UPF0065	ABM31377
+fig|85698.208.peg.4362|GND97_14495!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.06%
+Cluster 93642
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	Acyl-CoA synthetase (AMP-forming)/AMP-acid ligase II	ABF09667
+fig|85698.208.peg.156|GND97_22395!!!Long-chain-fatty-acid--CoA!ligase!(EC!6.2.1.3)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.68%
+Cluster 556942
+9635	CP000089	Dechloromonas aromatica RCB, complete genome.	No	Betaproteobacteria	biotin carboxyl carrier protein	AAZ48667
+fig|85698.208.peg.2856|GND97_30210!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.40%
+Cluster 604735
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	protein of unknown function DUF336	ABE44969
+fig|85698.208.peg.2260|GND97_28645!!!Protein!GlcG!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	72.59%
+Cluster 81811
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	AMP-dependent synthetase and ligase	ACB24992
+fig|85698.208.peg.5449|GND97_18140!!!Long-chain-fatty-acid--CoA!ligase!(EC!6.2.1.3)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.85%
+Cluster 302815
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	amino acid/amide ABC transporter membrane protein 1, HAAT family	ABM33736
+fig|85698.208.peg.327|GND97_22945!!!ABC!transporter,!permease!protein!1!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.09%
+Cluster 197163
+10642	CP000117	Anabaena variabilis ATCC 29413, complete genome.	No	Nostocales	conserved hypothetical protein	ABA21403
+fig|85698.208.peg.5280|GND97_17845!!!iron!dicitrate!transport!regulator!FecR!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.15%
+Cluster 521905
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	NADH-quinone oxidoreductase, chain I	ACS20119
+fig|85698.208.peg.5034|GND97_03635!!!NADH-ubiquinone!oxidoreductase!chain!I!(EC!1.6.5.3)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	81.48%
+Cluster 295606
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	dihydrodipicolinate synthetase	ABM59818
+fig|85698.208.peg.4178|GND97_13585!!!Dihydrodipicolinate!synthase!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	78.78%
+Cluster 94577
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	general secretory pathway protein E	ACC72239
+fig|85698.208.peg.3366|GND97_10615!!!General!secretion!pathway!protein!E!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.62%
+Cluster 43161
+297	AE008923	Xanthomonas axonopodis pv. citri str. 306, complete genome.	No	Gammaproteobacteria	chemotaxis protein	AAM36761
+fig|85698.208.peg.3539|GND97_31175!!!Methyl-accepting!chemotaxis!sensor/transducer!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.96%
+Cluster 720316
+15763	CP000453	Alkalilimnicola ehrlichii MLHE-1, complete genome.	No	Gammaproteobacteria	acyl carrier protein	ABI56769
+fig|85698.208.peg.4958|GND97_03265!!!Acyl!carrier!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	77.22%
+Cluster 367844
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|85698.208.peg.2804|GND97_09555!!!Electron!transfer!flavoprotein,!beta!subunit!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.24%
+Cluster 362313
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	polysaccharide deacetylase	ACS18279
+fig|85698.208.peg.1389|GND97_26440!!!Putative!polysaccharide!deacetylase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.38%
+Cluster 298507
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	lauryl-acyl carrier protein (ACP)-dependent acyltransferase	ABF12289
+fig|85698.208.peg.6353|GND97_05215!!!Lipid!A!biosynthesis!lauroyl!acyltransferase!(EC!2.3.1.241)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.28%
+Cluster 205429
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CatD	ADD78513
+fig|85698.208.peg.2680|GND97_09230!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.76%
+Cluster 121965
+33161	CP001965	Sideroxydans lithotrophicus ES-1, complete genome.	No	Betaproteobacteria	Retron-type reverse transcriptase	ADE10445
+fig|85698.208.peg.4018|GND97_02455!!!Retron-type!RNA-directed!DNA!polymerase!(EC!2.7.7.49)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.37%
+Cluster 173881
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	metal-dependent hydrolase involved in phosphonate metabolism	ABF07646
+fig|85698.208.peg.4698|GND97_15540!!!Alpha-D-ribose!1-methylphosphonate!5-triphosphate!diphosphatase!(EC!3.6.1.63)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.08%
+Cluster 242110
+9635	CP000089	Dechloromonas aromatica RCB, complete genome.	No	Betaproteobacteria	inner-membrane translocator	AAZ47094
+fig|85698.208.peg.4219|GND97_13785!!!ABC!transporter,!permease!protein!2!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	79.13%
+Cluster 324112
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	inner-membrane translocator	ACB35906
+fig|85698.208.peg.4677|GND97_15440!!!Benzoate!ABC!transporter,!permease!protein!1!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.09%
+Cluster 695550
+13467	CU207211	Herminiimonas arsenicoxydans chromosome, complete sequence.	No	Betaproteobacteria	Altronate dehydratase (N part)	CAL63440
+fig|85698.208.peg.2655|GND97_29705!!!(2R)-sulfolactate!sulfo-lyase!subunit!alpha!(EC!4.4.1.24)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	76.34%
+Cluster 258694
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	endonuclease III	ABQ77294
+fig|85698.208.peg.4988|GND97_03415!!!Endonuclease!III!(EC!4.2.99.18)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.46%
+Cluster 343691
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	ABC transporter-related protein	ACB35904
+fig|85698.208.peg.4679|GND97_15450!!!Benzoate!ABC!transporter,!ATP-binding!protein!1!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.15%
+Cluster 201257
+17463	CP001053	Burkholderia phytofirmans PsJN chromosome 2, complete sequence.	No	Betaproteobacteria	metalloendopeptidase, glycoprotease family	ACD21073
+fig|85698.208.peg.1430|GND97_26645!!!N(6)-L-threonylcarbamoyladenine!synthase!(EC!2.3.1.234)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.18%
+Cluster 197726
+19	AL591985	Sinorhizobium meliloti 1021 plasmid pSymB.	No	Alphaproteobacteria	putative cytochrome o ubiquinol oxidase chain II protein	CAC49715
+fig|85698.208.peg.5613|GND97_18935!!!Cytochrome!O!ubiquinol!oxidase!subunit!II!(EC!1.10.3.-)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.25%
+Cluster 170289
+13467	CU207211	Herminiimonas arsenicoxydans chromosome, complete sequence.	No	Betaproteobacteria	poly[D(-)-3-Hydroxybutyrate] depolymerase (PHB depolymerase)	CAL60994
+fig|85698.208.peg.4986|GND97_03405!!!Intracellular!PHB!depolymerase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.69%
+Cluster 290860
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	propable 16S pseudouridylate synthase	CAI08426
+fig|85698.208.peg.263|GND97_05550!!!Pseudouridine!synthase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.60%
+Cluster 160170
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	branched-chain alpha-keto acid dehydrogenase E1 component	ABE42238
+fig|85698.208.peg.820|GND97_24635!!!Branched-chain!alpha-keto!acid!dehydrogenase,!E1!component,!alpha!subunit!(EC!1.2.4.4)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	76.59%
+Cluster 305095
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	imidazoleglycerol-phosphate dehydratase	ABX73651
+fig|85698.208.peg.3656|GND97_11840!!!Imidazoleglycerol-phosphate!dehydratase!(EC!4.2.1.19)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.26%
+Cluster 291809
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	5-carboxymethyl-2-hydroxymuconate delta-isomerase	ABM59918
+fig|85698.208.peg.5533|GND97_18555!!!Fumarylacetoacetate!hydrolase!family!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	79.87%
+Cluster 107777
+29975	CP001392	Acidovorax ebreus TPSY, complete genome.	No	Betaproteobacteria	FAD linked oxidase domain protein	ACM32594
+fig|85698.208.peg.2964|GND97_09890!!!D-2-hydroxyglutarate!dehydrogenase!(EC!1.1.99.2)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.36%
+Cluster 450542
+33901	CP001503	Burkholderia glumae BGR1 chromosome 1, complete sequence.	No	Betaproteobacteria	Ribosomal RNA methyltransferase RrmJ/FtsJ	ACR28310
+fig|85698.208.peg.4620|GND97_15165!!!23S!rRNA!(uridine(2552)-2'-O)-methyltransferase!(EC!2.1.1.166)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.05%
+Cluster 352651
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	high-affinity branched-chain amino acidtransport ATP-binding protein livG	ACY31966
+fig|85698.208.peg.2134|GND97_00585!!!ABC!transporter,!ATP-binding!protein!1!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.70%
+Cluster 567002
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	putative salicylate-5-hydroxylase small oxygenase component oxidoreductase protein	CAD14791
+fig|85698.208.peg.5164|GND97_17280!!!Ortho-halobenzoate!1,2-dioxygenase!beta-ISP!protein!OhbA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.70%
+Cluster 419198
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	putative ABC-transporter	CAI09142
+fig|85698.208.peg.4680|GND97_15455!!!Benzoate!ABC!transporter,!ATP-binding!protein!2!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.83%
+Cluster 615090
+20635	CP001280	Methylocella silvestris BL2, complete genome.	No	Alphaproteobacteria	Secreted repeat of unknown function	ACK50690
+fig|85698.208.peg.4814|GND97_16115!!!Orf21;!putative!lipoprotein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.66%
+Cluster 566393
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	transcriptional regulator, AsnC family	ABM32886
+fig|85698.208.peg.132|GND97_22280!!!Transcriptional!regulator,!AsnC!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.54%
+Cluster 411870
+20635	CP001280	Methylocella silvestris BL2, complete genome.	No	Alphaproteobacteria	ribosomal protein L5	ACK49540
+fig|85698.208.peg.2124|GND97_00535!!!LSU!ribosomal!protein!L5p!(L11e)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.89%
+Cluster 101528
+216	CP001037	Nostoc punctiforme PCC 73102, complete genome.	No	Nostocales	xenobiotic compound monooxygenase, DszA family, A subunit	ACC84343
+fig|85698.208.peg.2770|GND97_30020!!!Nitrilotriacetate!monooxygenase![FMNH2]!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.01%
+Cluster 65238
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	amidase, hydantoinase/carbamoylase family	ABM31705
+fig|85698.208.peg.4294|GND97_14155!!!2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline!(OHCU)!decarboxylase!(EC!4.1.1.97)!/!Allantoate!amidohydrolase!(EC!3.5.3.9)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.72%
+Cluster 410958
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	ABC transporter related	ACS17025
+fig|85698.208.peg.330|GND97_22960!!!ABC!transporter,!ATP-binding!protein!2!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.38%
+Cluster 95725
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	general secretory pathway component, cryptic	ABF10265
+fig|85698.208.peg.233|GND97_05410!!!General!secretion!pathway!protein!E!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.00%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|85698.208.peg.2113|GND97_00480!!!SSU!ribosomal!protein!S13p!(S18e)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.33%
+Cluster 72952
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	Cytochrome-c oxidase	ABM34108
+fig|85698.208.peg.1549|GND97_26990!!!Cytochrome!c!oxidase!polypeptide!I!(EC!1.9.3.1)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	74.77%
+Cluster 631266
+17929	CP000959	Burkholderia cenocepacia MC0-3 chromosome 2, complete sequence.	Yes	Betaproteobacteria	S-adenosylmethionine decarboxylase proenzyme	ACA94524
+fig|85698.208.peg.1803|GND97_27985!!!S-adenosylmethionine!decarboxylase!proenzyme!(EC!4.1.1.50),!prokaryotic!class!1B!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.34%
+Cluster 191688
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	Altronate dehydratase	ACS20433
+fig|85698.208.peg.2654|GND97_29700!!!(2R)-sulfolactate!sulfo-lyase!subunit!beta!(EC!4.4.1.24)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	82.35%
+Cluster 58446
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	ABC-type transporter, ATPase and permease components	ABF10383
+fig|85698.208.peg.4999|GND97_03470!!!ABC!transporter,!permease!protein!2!(cluster!4,!leucine/isoleucine/valine/benzoate)!/!ABC!transporter,!ATP-binding!protein!1!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.69%
+Cluster 469955
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG15999
+fig|85698.208.peg.2919|GND97_30315!!!Energy-dependent!translational!throttle!protein!EttA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.57%
+Cluster 612872
+297	AE008923	Xanthomonas axonopodis pv. citri str. 306, complete genome.	No	Gammaproteobacteria	transcriptional regulator merR family	AAM35210
+fig|85698.208.peg.3312|GND97_01590!!!Transcriptional!regulator,!MerR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.50%
+Cluster 734902
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	transcriptional regulator, XRE family	ABS05753
+fig|85698.208.peg.4077|GND97_13085!!!Transcriptional!regulator,!Xre!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.02%
+Cluster 615393
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ACR01357
+fig|85698.208.peg.722|GND97_06025!!!putative!membrane!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.94%
+Cluster 86221
+17423	CP001089	Geobacter lovleyi SZ, complete genome.	No	Deltaproteobacteria	DegT/DnrJ/EryC1/StrS aminotransferase	ACD95222
+fig|85698.208.peg.2035|GND97_00095!!!Glutamate--UDP-2-acetamido-2-deoxy-D-ribohex-3-uluronic!acid!aminotransferase!(PLP!cofactor)!(EC!2.6.1.98)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.49%
+Cluster 161825
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	Oxygen-independent coproporphyrinogen III oxidase-like protein	ABF07736
+fig|85698.208.peg.494|GND97_05795!!!Oxygen-independent!coproporphyrinogen-III!oxidase-like!protein!YggW!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.39%
+Cluster 412004
+13025	CP000116	Thiobacillus denitrificans ATCC 25259, complete genome.	No	Betaproteobacteria	Two component Heavy metal response Transcriptional regulator, Winged helix family	AAZ97702
+fig|85698.208.peg.5601|GND97_18880!!!Copper-sensing!two-component!system!response!regulator!CusR!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.01%
+fig|85698.208.peg.445|GND97_23535!!!DNA-binding!heavy!metal!response!regulator!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.67%
+Cluster 200994
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	biotin synthase	CAL17668
+fig|85698.208.peg.1719|GND97_27580!!!Biotin!synthase!(EC!2.8.1.6)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.12%
+Cluster 98680
+17343	CP000699	Sphingomonas wittichii RW1, complete genome.	No	Alphaproteobacteria	fumarase	ABQ71009
+fig|85698.208.peg.3447|GND97_10930!!!Fumarate!hydratase!class!I,!aerobic!(EC!4.2.1.2)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	74.36%
+Cluster 74841
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ACY32707
+fig|85698.208.peg.5276|GND97_17825!!!FIG138928:!iron-regulated!membrane!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.38%
+Cluster 296257
+13943	CP000546	Burkholderia mallei NCTC 10229 chromosome I, complete sequence.	Yes	Betaproteobacteria	ompA family protein	ABN03345
+fig|85698.208.peg.1463|GND97_26805!!!Outer!membrane!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.61%
+Cluster 386093
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	Putative thiol:disulfide interchange protein	ABF09273
+fig|85698.208.peg.3201|GND97_01055!!!Thiol:disulfide!interchange!protein!DsbG!precursor!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.67%
+Cluster 236871
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative transmembrane protein	CBG69053
+fig|85698.208.peg.5555!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.00%
+Cluster 560384
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable nadh dehydrogenaseI(chain b) oxidoreductase protein	CAD15768
+fig|85698.208.peg.5041|GND97_03670!!!NADH-ubiquinone!oxidoreductase!chain!B!(EC!1.6.5.3)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	84.81%
+Cluster 253058
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ABE43737
+fig|85698.208.peg.1388|GND97_26435!!!Surface!antigen!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.44%
+Cluster 663249
+19575	CU234118	Bradyrhizobium sp. ORS278,complete sequence.	No	Alphaproteobacteria	putative transcriptional regulatory protein, ArsR family	CAL74463
+fig|85698.208.peg.4188|GND97_13630!!!Transcriptional!regulator,!ArsR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	82.69%
+Cluster 545296
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	tRNA/rRNA methyltransferase (SpoU)	ABM56224
+fig|85698.208.peg.1328|GND97_06955!!!tRNA!(cytidine(34)-2'-O)-methyltransferase!(EC!2.1.1.207)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.54%
+Cluster 181867
+339	AM747721	Burkholderia cenocepacia J2315 chromosome 2, complete genome.	Yes	Betaproteobacteria	putative acetyltransferase	CAR55557
+fig|85698.208.peg.3014|GND97_30585!!!Acetyltransferase,!GNAT!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.03%
+Cluster 43340
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ACC70650
+fig|85698.208.peg.864|GND97_24840!!!Dihydrolipoamide!dehydrogenase!of!pyruvate!dehydrogenase!complex!(EC!1.8.1.4)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	74.75%
+Cluster 372176
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	transcriptional regulator, GntR family	ABM41360
+fig|85698.208.peg.6084|GND97_04940!!!Transcriptional!regulator,!GntR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.94%
+Cluster 312006
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	5,10-methylenetetrahydrofolate reductase	ABF09861
+fig|85698.208.peg.2583|GND97_08990!!!5,10-methylenetetrahydrofolate!reductase!(EC!1.5.1.20)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	74.50%
+Cluster 92973
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	benzoate-CoA ligase	ABM56512
+fig|85698.208.peg.4674|GND97_15425!!!Benzoate--CoA!ligase!(EC!6.2.1.25)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.97%
+Cluster 88018
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	extracellular solute-binding protein, family 5	ABM59994
+fig|85698.208.peg.3581|GND97_11470!!!ABC!transporter,!substrate-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.19%
+Cluster 193465
+18809	CP000943	Methylobacterium sp. 4-46, complete genome.	No	Alphaproteobacteria	Chorismate synthase	ACA14961
+fig|85698.208.peg.1487|GND97_26925!!!Chorismate!synthase!(EC!4.2.3.5)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.54%
+Cluster 434568
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	DnaK suppressor protein	ABF07012
+fig|85698.208.peg.6365|GND97_05275!!!DksA!family!protein!PA5536!(no!Zn-finger)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	72.08%
+Cluster 179987
+17463	CP001053	Burkholderia phytofirmans PsJN chromosome 2, complete sequence.	No	Betaproteobacteria	acyl-CoA dehydrogenase domain protein	ACD21450
+fig|85698.208.peg.2255|GND97_28620!!!Acyl-CoA!dehydrogenase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.44%
+Cluster 324191
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	transcriptional regulator, LysR family	ABV42247
+fig|85698.208.peg.1267|GND97_26150!!!Transcriptional!regulator,!LysR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.03%
+fig|85698.208.peg.3136!!!Transcriptional!regulator,!LysR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.18%
+Cluster 108363
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	ppe family protein	ABK67199
+fig|85698.208.peg.3544!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.43%
+Cluster 412742
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	short-chain dehydrogenase/reductase SDR	ACY30752
+fig|85698.208.peg.5813|GND97_19595!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.81%
+Cluster 376030
+20635	CP001280	Methylocella silvestris BL2, complete genome.	No	Alphaproteobacteria	ABC transporter related	ACK51595
+fig|85698.208.peg.144|GND97_22340!!!ABC!transporter,!ATP-binding!protein!(cluster!1,!maltose/g3p/polyamine/iron);!ABC!transporter,!ATP-binding!protein!(cluster!10,!nitrate/sulfonate/bicarbonate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.35%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|85698.208.peg.2115|GND97_00490!!!Translation!initiation!factor!1!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.06%
+Cluster 343653
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	ribosomal protein L1	ACG65011
+fig|85698.208.peg.2165|GND97_00735!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.95%
+Cluster 315406
+29975	CP001392	Acidovorax ebreus TPSY, complete genome.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ACM31862
+fig|85698.208.peg.742|GND97_06120!!!Glycerol!ABC!transporter,!permease!protein!GlpP!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	84.80%
+Cluster 578155
+13943	CP000545	Burkholderia mallei NCTC 10229 chromosome II, complete sequence.	Yes	Betaproteobacteria	conserved hypothetical protein	ABM99673
+fig|85698.208.peg.680|GND97_24360!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.66%
+Cluster 339247
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	extracellular solute-binding protein family 3	ACS19498
+fig|85698.208.peg.916|GND97_25085!!!ABC!transporter,!substrate-binding!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	78.70%
+Cluster 672429
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	putative regulatory protein, FmdB family	ABM34189
+fig|85698.208.peg.2067|GND97_00255!!!Type!I!antifreeze!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	66.35%
+Cluster 112793
+20477	CP001350	Methylobacterium nodulans ORS 2060 plasmid pMNOD01, complete sequence.	No	Alphaproteobacteria	FAD linked oxidase domain protein	ACL62597
+fig|85698.208.peg.6117|GND97_20740!!!D-2-hydroxyglutarate!dehydrogenase!(EC!1.1.99.2)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.47%
+Cluster 137150
+19	AL591985	Sinorhizobium meliloti 1021 plasmid pSymB.	No	Alphaproteobacteria	glutamate-1-semialdehyde 2,1-aminomutase	CAC48667
+fig|85698.208.peg.5067|GND97_16790!!!Aminotransferase,!class!III!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.04%
+Cluster 510495
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	alkyl hydroperoxide reductase/ Thiol specific antioxidant/ Mal allergen	ACC70957
+fig|85698.208.peg.768|GND97_06245!!!Alkyl!hydroperoxide!reductase!subunit!C-like!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.69%
+Cluster 587242
+29065	CP001085	Candidatus Riesia pediculicola USDA, complete genome.	No	Gammaproteobacteria	ribosomal protein S11	ADD79935
+fig|85698.208.peg.2112|GND97_00475!!!SSU!ribosomal!protein!S11p!(S14e)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.41%
+Cluster 362237
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase	ABF09675
+fig|85698.208.peg.5661|GND97_19170!!!Prolipoprotein!diacylglyceryl!transferase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.45%
+Cluster 353774
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ACS16930
+fig|85698.208.peg.1782|GND97_27885!!!ABC!transporter,!permease!protein!(cluster!10,!nitrate/sulfonate/bicarbonate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	80.34%
+Cluster 86342
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	ABC transporter related	ACS19283
+fig|85698.208.peg.5091|GND97_16910!!!Nucleoside!ABC!transporter,!ATP-binding!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.71%
+Cluster 276750
+12636	XXX	Chromohalobacter salexigens DSM 3043	No	Gammaproteobacteria	XXX	
+fig|85698.208.peg.2457|GND97_08690!!!Hydrolase,!alpha/beta!fold!family!protein,!At1g52510/AT4G12830!homolog,!group3!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.13%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|85698.208.peg.2166|GND97_00740!!!LSU!ribosomal!protein!L11p!(L12e)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.54%
+Cluster 64067
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABM58113
+fig|85698.208.peg.6120|GND97_20755!!!ABC!transporter,!permease!protein!1!(cluster!1,!maltose/g3p/polyamine/iron)!/!ABC!transporter,!permease!protein!2!(cluster!1,!maltose/g3p/polyamine/iron)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.54%
+Cluster 130070
+13953	CP000571	Burkholderia pseudomallei 668 chromosome II, complete sequence.	Yes	Betaproteobacteria	alpha/beta hydrolase family protein	ABN87571
+fig|85698.208.peg.189|GND97_22560!!!Epoxide!hydrolase!(EC!3.3.2.9)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.56%
+Cluster 297522
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	inner-membrane translocator	ABE42562
+fig|85698.208.peg.6301|GND97_04960!!!ABC!transporter,!permease!protein!1!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	78.64%
+Cluster 527177
+15763	CP000453	Alkalilimnicola ehrlichii MLHE-1, complete genome.	No	Gammaproteobacteria	peptide deformylase	ABI57968
+fig|85698.208.peg.1348|GND97_07055!!!Peptide!deformylase!(EC!3.5.1.88)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.35%
+Cluster 432474
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	Kelongation factor GreB	ACY34540
+fig|85698.208.peg.1622|GND97_27340!!!Transcription!elongation!factor!GreB!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.93%
+Cluster 155931
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	oligopeptide/dipeptide ABC transporter, ATPase subunit	ACR02141
+fig|85698.208.peg.5830|GND97_19670!!!ABC!transporter,!ATP-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.37%
+Cluster 185997
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	putative metalloprotease/Xaa-Pro dipeptidase type M24	ABF11916
+fig|85698.208.peg.637|GND97_24145!!!Aminopeptidase!YpdF!(MP-,!MA-,!MS-,!AP-,!NP-!specific)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.66%
+Cluster 523137
+29975	CP001392	Acidovorax ebreus TPSY, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ACM34344
+fig|85698.208.peg.1358|GND97_07105!!!probable!membrane!protein!YPO3302!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.92%
+Cluster 51308
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	3-Oxoacyl-(acyl-carrier-protein (ACP)) synthase III domain protein	ACS18976
+fig|85698.208.peg.2070|GND97_00270!!!3-oxoacyl-[acyl-carrier-protein]!synthase!III!(EC!2.3.1.41)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	76.67%
+Cluster 51305
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	AMP-dependent synthetase and ligase	ACS17490
+fig|85698.208.peg.269|GND97_22660!!!Long-chain-fatty-acid--CoA!ligase!(EC!6.2.1.3)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.39%
+Cluster 51263
+17463	CP001053	Burkholderia phytofirmans PsJN chromosome 2, complete sequence.	No	Betaproteobacteria	X-Pro dipeptidyl-peptidase domain protein	ACD20625
+fig|85698.208.peg.2014|GND97_08290!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.51%
+Cluster 151181
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	conserved hypothetical protein	ABF11308
+fig|85698.208.peg.2309|GND97_08345!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.00%
+Cluster 351644
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	ABC transporter related	ACS16931
+fig|85698.208.peg.4628|GND97_15200!!!ABC!transporter,!ATP-binding!protein!(cluster!10,!nitrate/sulfonate/bicarbonate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	90.20%
+Cluster 584909
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAY93611
+fig|85698.208.peg.6101|GND97_20660!!!Glutaredoxin!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.74%
+Cluster 317963
+31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Yes	Gammaproteobacteria	probable transcriptional regulator	CAW25708
+fig|85698.208.peg.546|GND97_23700!!!Transcriptional!regulator,!LysR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.51%
+Cluster 217508
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	N-acetyl-gamma-glutamyl-phosphate reductase	AAY94804
+fig|85698.208.peg.2354|GND97_28835!!!N-acetyl-gamma-glutamyl-phosphate!reductase!(EC!1.2.1.38)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.15%
+Cluster 213749
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	probable transport system ATP-binding protein	CAI08908
+fig|85698.208.peg.505|GND97_05845!!!Ferric!iron!ABC!transporter,!ATP-binding!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.07%
+Cluster 688820
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	50S ribosomal protein L35	ABX72877
+fig|85698.208.peg.886|GND97_24950!!!LSU!ribosomal!protein!L35p!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.69%
+Cluster 84650
+33241	CP001674	Methylovorus sp. SIP3-4, complete genome.	No	Betaproteobacteria	DEAD/DEAH box helicase domain protein	ACT50382
+fig|85698.208.peg.593!!!ATP-dependent!RNA!helicase!RhlE!(EC!3.6.4.13)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	76.35%
+Cluster 329392
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	nitrate ABC transporter,  ATPase subunits C and D	ABM58337
+fig|85698.208.peg.4839|GND97_16225!!!Nitrate!ABC!transporter,!ATP-binding!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.36%
+Cluster 253856
+13953	CP000571	Burkholderia pseudomallei 668 chromosome II, complete sequence.	Yes	Betaproteobacteria	transcriptional regulator	ABN88448
+fig|85698.208.peg.3674|GND97_11930!!!Transcriptional!regulator,!LysR!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	72.13%
+Cluster 501575
+17823	CP000941	Xylella fastidiosa M12, complete genome.	No	Gammaproteobacteria	response regulator receiver protein	ACA13005
+fig|85698.208.peg.3785|GND97_12485!!!Dna!binding!response!regulator!PrrA!(RegA)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.22%
+Cluster 308751
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	dihydrodipicolinate synthase	ABF07552
+fig|85698.208.peg.2073|GND97_00285!!!Dihydrodipicolinate!synthase!family!protein!PP2639!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.30%
+Cluster 168223
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	cell division protein FtsW	ACS63996
+fig|85698.208.peg.3179|GND97_10520!!!Peptidoglycan!glycosyltransferase!FtsW!(EC!2.4.1.129)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.71%
+Cluster 298919
+17707	CP001124	Geobacter bemidjiensis Bem, complete genome.	No	Deltaproteobacteria	succinyl-CoA synthetase, alpha subunit	ACH38483
+fig|85698.208.peg.3121|GND97_10350!!!Succinyl-CoA!ligase![ADP-forming]!alpha!chain!(EC!6.2.1.5)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.43%
+Cluster 163759
+30453	CP001636	Variovorax paradoxus S110 chromosome 2, complete sequence.	No	Betaproteobacteria	D-amino-acid dehydrogenase	ACS22181
+fig|85698.208.peg.149|GND97_22365!!!D-amino!acid!dehydrogenase!(EC!1.4.99.6)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.34%
+Cluster 231850
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	Extra-cytoplasmic Solute Receptor	ABF08070
+fig|85698.208.peg.708|GND97_05975!!!BUG/TctC!family!periplasmic!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	71.04%
+Cluster 14633
+9635	CP000089	Dechloromonas aromatica RCB, complete genome.	No	Betaproteobacteria	inner-membrane translocator:ABC transporter related	AAZ48824
+fig|85698.208.peg.5811|GND97_19585!!!ABC!transporter,!permease!protein!1!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.74%
+Cluster 269250
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable dipeptide transmembrane abc transporter protein	CAD15584
+fig|85698.208.peg.40|GND97_21845!!!ABC!transporter,!permease!protein!1!(cluster!5,!nickel/peptides/opines)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	80.86%
+Cluster 14581
+9635	CP000089	Dechloromonas aromatica RCB, complete genome.	No	Betaproteobacteria	inner-membrane translocator:ABC transporter related	AAZ45664
+fig|85698.208.peg.5810|GND97_19580!!!ABC!transporter,!permease!protein!2!(cluster!4,!leucine/isoleucine/valine/benzoate)!/!ABC!transporter,!ATP-binding!protein!1!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	73.70%
+Cluster 172883
+18809	CP000943	Methylobacterium sp. 4-46, complete genome.	No	Alphaproteobacteria	Formamidase	ACA15159
+fig|85698.208.peg.66|GND97_21950!!!Formamidase!(EC!3.5.1.49)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	80.93%
+Cluster 111534
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	putative l-carnitine-related dehydratase protein	CAD16864
+fig|85698.208.peg.769|GND97_06250!!!CaiB/BaiF!family!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.02%
+Cluster 82229
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	AMP-dependent synthetase and ligase	ABM58419
+fig|85698.208.peg.5817|GND97_19615!!!Long-chain-fatty-acid--CoA!ligase!(EC!6.2.1.3)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.75%
+Cluster 286778
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative membrane protein	CBJ47455
+fig|85698.208.peg.4071|GND97_13055!!!Inner!membrane!protein!YtfF!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.41%
+Cluster 286771
+58	CP000230	Rhodospirillum rubrum ATCC 11170, complete genome.	No	Alphaproteobacteria	transcriptional regulator, ArsR family	ABC22251
+fig|85698.208.peg.27|GND97_21780!!!Arsenate!reductase!(EC!1.20.4.4)!thioredoxin-coupled,!LMWP!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.84%
+Cluster 538274
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	protein of unknown function DUF336	ACB32425
+fig|85698.208.peg.6042|GND97_04730!!!(Y14336)!putative!extracellular!protein!containing!predicted!35aa!signal!peptide!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.73%
+Cluster 351341
+10695	CP000150	Burkholderia sp. 383 chromosome 3, complete sequence.	Yes	Betaproteobacteria	transcriptional regulator, AraC family	ABB06339
+fig|85698.208.peg.5109|GND97_17000!!!Transcriptional!regulator,!AraC!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	87.73%
+Cluster 255266
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	putative response regulator	ABF10836
+fig|85698.208.peg.1061|GND97_25455!!!Chemotaxis!response!regulator!protein-glutamate!methylesterase!CheB!(EC!3.1.1.61)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.65%
+Cluster 188197
+17409	CP001046	Burkholderia phymatum STM815 plasmid pBPHY02, complete sequence.	No	Betaproteobacteria	FAD dependent oxidoreductase	ACC76682
+fig|85698.208.peg.5459|GND97_18185!!!SoxB-like!sarcosine!oxidase,!subunit!beta!related!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	72.15%
+Cluster 96448
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	putative transporter, IT superfamily	ABF10507
+fig|85698.208.peg.4109|GND97_13245!!!Integral!membrane!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.49%
+Cluster 668755
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	transposase IS3/IS911 family protein	ABM31119
+fig|85698.208.peg.2675!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.29%
+Cluster 148092
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	TRAP dicarboxylate transporter, DctM subunit	ABM42646
+fig|85698.208.peg.463|GND97_05640!!!TRAP!dicarboxylate!transporter,!DctM!subunit,!unknown!substrate!5!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	75.52%
+Cluster 154145
+297	AE008923	Xanthomonas axonopodis pv. citri str. 306, complete genome.	No	Gammaproteobacteria	valine-pyruvate aminotransferase	AAM36720
+fig|85698.208.peg.2075|GND97_00295!!!Alpha-aminoadipate!aminotransferase!(EC!2.6.1.39)!@!Leucine!transaminase!(EC!2.6.1.6)!@!Valine!transaminase!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.25%
+Cluster 390895
+17639	CP000774	Parvibaculum lavamentivorans DS-1, complete genome.	No	Alphaproteobacteria	short-chain dehydrogenase/reductase SDR	ABS63371
+fig|85698.208.peg.1029|GND97_25295!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.32%
+Cluster 25911
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	sulfate adenylyltransferase, large subunit	ACL56789
+fig|85698.208.peg.2811|GND97_09590!!!Sulfate!and!thiosulfate!binding!protein!CysP!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.84%
+Cluster 479893
+28805	CP001196	Oligotropha carboxidovorans OM5 strain OM5, complete genome.	No	Alphaproteobacteria	2-Hydroxychromene-2-carboxylate isomerase	ACI93474
+fig|85698.208.peg.1707|GND97_07700!!!2-hydroxychromene-2-carboxylate!isomerase!family!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.84%
+Cluster 698814
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	Rubredoxin	ABA47922
+fig|85698.208.peg.2280|GND97_28745!!!Rubredoxin!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	81.48%
+Cluster 298683
+17407	CP000868	Burkholderia multivorans ATCC 17616 chromosome 1, complete sequence.	Yes	Betaproteobacteria	ribosomal protein S2	ABX14945
+fig|85698.208.peg.3839|GND97_12740!!!SSU!ribosomal!protein!S2p!(SAe)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	69.88%
+Cluster 503560
+10696	CP000615	Burkholderia vietnamiensis G4 chromosome 2, complete sequence.	Yes	Betaproteobacteria	conserved hypothetical protein	ABO58180
+fig|85698.208.peg.2850|GND97_30180!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.11%
+Cluster 196122
+32551	AP010947	Azospirillum sp. B510 plasmid pAB510a DNA, complete genome.	No	Alphaproteobacteria	hypothetical protein	BAI73928
+fig|85698.208.peg.5090|GND97_16905!!!Nucleoside!ABC!transporter,!substrate-binding!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	67.64%
+Cluster 242187
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	transcriptional regulator, HrcA-family	ABF07886
+fig|85698.208.peg.981|GND97_06545!!!Heat-inducible!transcription!repressor!HrcA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.26%
+Cluster 162352
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	isocitrate dehydrogenase (NADP)	ABM42459
+fig|85698.208.peg.964|GND97_06460!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	86.36%
+Cluster 80312
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	putative oxidoreductase, GMC family	CAK13007
+fig|85698.208.peg.1616|GND97_27315!!!3-hydroxypropionate!dehydrogenase!DddA,!flavin-containing!(EC!1.1.1.59)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.34%
+Cluster 599473
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	integration host factor, beta subunit	ACS62152
+fig|85698.208.peg.2792|GND97_09495!!!Integration!host!factor!beta!subunit!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.87%
+Cluster 193744
+15	CP000050	Xanthomonas campestris pv. campestris str. 8004, complete genome.	No	Gammaproteobacteria	2,3,4,5-tetrahydropyridine-2-carboxylate N-succin	AAY49902
+fig|85698.208.peg.4485|GND97_02810!!!2,3,4,5-tetrahydropyridine-2,6-dicarboxylate!N-succinyltransferase!(EC!2.3.1.117)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.17%
+Cluster 587223
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	protein of unknown function DUF395, YeeE/YedE	ABM35251
+fig|85698.208.peg.6308|GND97_04995!!!Putative!transmembrane!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	63.38%
+Cluster 152737
+13012	CP000096	Chlorobium luteolum DSM 273, complete genome.	No	Chlorobia	cytochrome b-c complex, cytochrome b subunit	ABB24572
+fig|85698.208.peg.5556!!!RND!efflux!system,!membrane!fusion!protein!CmeA!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.29%
+Cluster 259305
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	ABC transporter, substrate binding protein	ABM56613
+fig|85698.208.peg.1781|GND97_27880!!!ABC!transporter,!substrate-binding!protein!(cluster!10,!nitrate/sulfonate/bicarbonate)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	68.36%
+Cluster 142487
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	aminotransferase class-III	ACB34009
+fig|85698.208.peg.2985|GND97_09990!!!Omega-amino!acid--pyruvate!aminotransferase!(EC!2.6.1.18)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.76%
+Cluster 545165
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	NADH dehydrogenase chain E	ABF07817
+fig|85698.208.peg.5038|GND97_03655!!!NADH-ubiquinone!oxidoreductase!chain!E!(EC!1.6.5.3)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.02%
+Cluster 312269
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABM37724
+fig|85698.208.peg.1477|GND97_26875!!!Alkanesulfonate!ABC!transporter!permease!protein!SsuC!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.77%
+Cluster 55329
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	Bile acid-CoA:amino acid N-acyltransferase	ACS63047
+fig|85698.208.peg.46|GND97_21870!!!Cytosolic!acyl!coenzyme!A!thioester!hydrolase,!inducible!(EC!3.1.2.2)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.58%
+Cluster 351220
+65	AE001825	Deinococcus radiodurans R1 chromosome 2, complete sequence.	No	Deinococci	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	AAF12475
+fig|85698.208.peg.4375|GND97_14560!!!2,4-dihydroxyhept-2-ene-1,7-dioic!acid!aldolase!(EC!4.1.2.52)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.79%
+Cluster 369470
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	probable 2-keto-4-pentenoate hydratase / 2-oxohepta-3-ene-1,7-dioic acid hydratase (Catechol pathway) oxidoreductase protein	ABF07165
+fig|85698.208.peg.3102|GND97_10265!!!Fumarylacetoacetate!hydrolase!family!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	64.50%
+fig|85698.208.peg.5128|GND97_17095!!!3-fumarylpyruvate!hydrolase!(EC!3.7.1.20)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.21%
+Cluster 518318
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ABM60064
+fig|85698.208.peg.5021|GND97_03575!!!2-C-methyl-D-erythritol!2,4-cyclodiphosphate!synthase!(EC!4.6.1.12)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.11%
+Cluster 124494
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	cytochrome c assembly protein	ABM35985
+fig|85698.208.peg.2100|GND97_00415!!!Cytochrome!c-type!biogenesis!protein!CcsA/ResC!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.61%
+Cluster 192357
+28921	XXX	Acinetobacter baumannii AYE	Yes	Gammaproteobacteria	XXX	
+fig|85698.208.peg.1703|GND97_07680!!!hypothetical!protein!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	60.49%
+Cluster 90055
+13	AL646053	Ralstonia solanacearum GMI1000 megaplasmid complete sequence.	No	Betaproteobacteria	probable spermidine synthase 2 (putrescineaminopropyltransferase 2) (spdsy 2) protein	CAD18457
+fig|85698.208.peg.2945|GND97_30450!!!Spermidine!synthase!N-terminal!extension!/!Spermidine!synthase!(EC!2.5.1.16)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	65.21%
+Cluster 23296
+285	AE009442	Xylella fastidiosa Temecula1, complete genome.	No	Gammaproteobacteria	ATP-dependent serine proteinase La	AAO28351
+fig|85698.208.peg.4237|GND97_13875!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	61.15%
+Cluster 15241
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	Osmosensitive K channel His kinase sensor	ACS64536
+fig|85698.208.peg.955|GND97_06420!!!Osmosensitive!K+!channel!histidine!kinase!KdpD!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	62.07%
+Cluster 729888
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	SlyX family protein	ACB32337
+fig|85698.208.peg.2545|GND97_29450!!!Protein!SlyX!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	70.42%
+Cluster 146754
+13954	CP000125	Burkholderia pseudomallei 1710b chromosome II, complete sequence.	Yes	Betaproteobacteria	proline iminopeptidase	ABA52921
+fig|85698.208.peg.5371|GND97_03930!!!Proline!iminopeptidase!(EC!3.4.11.5)!!![Achromobacter!xylosoxidans!strain!DN2019!|!85698.208]	72.84%

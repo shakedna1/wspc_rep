@@ -1,0 +1,114 @@
+Cluster 644597
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	single-strand binding protein	ADE81975
+fig|59823.699.peg.54!!!Single-stranded!DNA-binding!protein!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	68.75%
+Cluster 276844
+13461	CP001712	Robiginitalea biformata HTCC2501, complete genome.	No	Flavobacteria	glycosyl transferase, group 2 family protein	EAR14478
+fig|59823.699.peg.1879!!!Glycosyl!transferase!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	60.25%
+Cluster 358070
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative ABC transporter ATP-binding protein	ABR39640
+fig|59823.699.peg.1608!!!ABC!transporter,!ATP-binding!protein!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	64.94%
+Cluster 564813
+16159	CP000159	Salinibacter ruber DSM 13855, complete genome.	No	Sphingobacteria	30S ribosomal protein S11	ABC45438
+fig|59823.699.peg.1777!!!SSU!ribosomal!protein!S11p!(S14e)!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	62.79%
+Cluster 710843
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAG34197
+fig|59823.699.peg.1586!!!FIG00936883:!hypothetical!protein!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	80.82%
+Cluster 344067
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	probable transcriptional regulator AraC family	BAG32601
+fig|59823.699.peg.1316!!!Transcriptional!regulator,!AraC!family!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	84.75%
+Cluster 487718
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	putative IMP cyclohydrolase	ADE83531
+fig|59823.699.peg.1837!!!IMP!cyclohydrolase!(EC!3.5.4.10)!/!Phosphoribosylaminoimidazolecarboxamide!formyltransferase!(EC!2.1.2.3)!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	84.42%
+Cluster 573814
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50251
+fig|59823.699.peg.2133!!!MaoC!family!protein!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	66.88%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|59823.699.peg.1349!!!LSU!ribosomal!protein!L34p!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	76.47%
+Cluster 531611
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	probable anti-restriction protein	BAG32568
+fig|59823.699.peg.565!!!Antirestriction!protein!ArdA!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	62.83%
+Cluster 253624
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	L-rhamnose/H+ symporter	ABR38305
+fig|59823.699.peg.526!!!L-rhamnose-proton!symporter!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	61.61%
+Cluster 769173
+281	CP000031	Ruegeria pomeroyi DSS-3, complete genome.	No	Alphaproteobacteria	ribosomal protein L36	AAV97120
+fig|59823.699.peg.1401!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	63.16%
+Cluster 721691
+54	CP000383	Cytophaga hutchinsonii ATCC 33406, complete genome.	No	Cytophagia	acyl carrier protein	ABG58669
+fig|59823.699.peg.635!!!Acyl!carrier!protein!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	73.08%
+Cluster 449783
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	SSU ribosomal protein S12P	ABG07098
+fig|59823.699.peg.1375!!!SSU!ribosomal!protein!S12p!(S23e)!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	75.40%
+Cluster 473090
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	3-hexulose-6-phosphate synthase (D-arabino-3-hexulose-6-phosphate formaldehyde lyase)	AAK78376
+fig|59823.699.peg.2109!!!DNA!primase,!TraP-type!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	70.00%
+Cluster 523226
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	hypothetical protein	AAQ66121
+fig|59823.699.peg.1317!!!hypothetical!protein!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	65.09%
+Cluster 56104
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative esterase	BAD47174
+fig|59823.699.peg.2016!!!Beta-lactamase!class!C-like!and!penicillin!binding!proteins!(PBPs)!superfamily!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	62.97%
+Cluster 263613
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	putative BatA protein	ADE81983
+fig|59823.699.peg.1553!!!Aerotolerance!protein!BatA!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	75.90%
+Cluster 77887
+32637	CP002116	Spirochaeta smaragdinae DSM 11293, complete genome.	No	Spirochaetales	diphosphate/fructose-6-phosphate1-phosphotransfe rase	ADK81370
+fig|59823.699.peg.699!!!Pyrophosphate-dependent!fructose!6-phosphate-1-kinase!(EC!2.7.1.90)!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	61.06%
+Cluster 91572
+20503	CP001287	Cyanothece sp. PCC 8801, complete genome.	No	Chroococcales	N-6 DNA methylase	ACK66238
+fig|59823.699.peg.1976!!!hypothetical!protein!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	61.54%
+Cluster 169529
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	transposase	ABR41345
+fig|59823.699.peg.1720!!!Integrase!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	85.00%
+Cluster 366759
+192	AE017180	Geobacter sulfurreducens PCA, complete genome.	No	Deltaproteobacteria	hypothetical protein	AAR34180
+fig|59823.699.peg.1402!!!hypothetical!protein!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	63.64%
+Cluster 234040
+32509	AP010956	Escherichia coli O26:H11 str. 11368 plasmid pO2	Yes	Gammaproteobacteria	DNA, complete sequence.	BAI28880
+fig|59823.699.peg.889!!!Integrase!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	70.00%
+Cluster 488960
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	transcriptional regulator	ABR38104
+fig|59823.699.peg.1026!!!Transcriptional!regulator,!AcrR!family!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	62.81%
+Cluster 642187
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAG32612
+fig|59823.699.peg.1323!!!hypothetical!protein!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	64.17%
+Cluster 247296
+32583	CP001857	Archaeoglobus profundus DSM 5631, complete genome.	No	Archaeoglobi	hydroxymethylglutaryl-CoA synthase	ADB57216
+fig|59823.699.peg.157!!!hypothetical!protein!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	68.18%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|59823.699.peg.213!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	70.52%
+Cluster 711951
+13617	CP000552	Prochlorococcus marinus str. MIT 9515, complete genome.	No	Prochlorales	50S Ribosomal protein L33	ABM72158
+fig|59823.699.peg.1481!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	66.13%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|59823.699.peg.1400!!!Translation!initiation!factor!1!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	66.67%
+Cluster 615235
+13423	CP000359	Deinococcus geothermalis DSM 11300, complete genome.	No	Deinococci	ribosomal protein L14	ABF46152
+fig|59823.699.peg.1389!!!LSU!ribosomal!protein!L14p!(L23e)!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	62.81%
+Cluster 591604
+27759	CP001615	Exiguobacterium sp. AT1b, complete genome.	No	Bacillales	ribosomal protein L16	ACQ70552
+fig|59823.699.peg.1386!!!LSU!ribosomal!protein!L16p!(L10e)!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	60.56%
+Cluster 706009
+13570	CP002046	Croceibacter atlanticus HTCC2559, complete genome.	No	Flavobacteria	putative 30S ribosomal protein S17	EAP88241
+fig|59823.699.peg.1388!!!SSU!ribosomal!protein!S17p!(S11e)!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	64.71%
+Cluster 492657
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH08607
+fig|59823.699.peg.1319!!!ThiJ/PfpI!family!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	66.50%
+Cluster 761228
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	hypothetical protein	ADE83267
+fig|59823.699.peg.1480!!!Uncharacterized!protein!Fjoh_4981,!DUF4295-containing!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	88.46%
+Cluster 488301
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX73966
+fig|59823.699.peg.2339!!!NADPH-dependent!7-cyano-7-deazaguanine!reductase!(EC!1.7.1.13)!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	71.90%
+Cluster 149729
+216	CP001037	Nostoc punctiforme PCC 73102, complete genome.	No	Nostocales	extracellular solute-binding protein, family 1	ACC83348
+fig|59823.699.peg.1286!!!hypothetical!protein!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	60.00%
+Cluster 753583
+12606	CP001097	Chlorobium limicola DSM 245, complete genome.	No	Chlorobia	Rubredoxin-type Fe(Cys)4 protein	ACD89276
+fig|59823.699.peg.1276!!!Rubredoxin!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	66.67%
+Cluster 7552
+15755	CP000661	Rhodobacter sphaeroides ATCC 17025, complete genome.	No	Alphaproteobacteria	pyruvate ferredoxin/flavodoxin oxidoreductase	ABP69799
+fig|59823.699.peg.931!!!hypothetical!protein!!![Prevotella!sp.!strain!P-A-F_MAG_00002!|!59823.699]	66.67%

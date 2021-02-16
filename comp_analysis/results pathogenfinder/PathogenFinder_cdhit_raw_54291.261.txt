@@ -1,0 +1,1657 @@
+Cluster 189037
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	Glutamate--tRNA ligase	ACA69736
+fig|54291.261.peg.3806|GOX96_07705!!!Glutamyl-Q!tRNA(Asp)!synthetase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.33%
+Cluster 171481
+54	CP000383	Cytophaga hutchinsonii ATCC 33406, complete genome.	No	Cytophagia	drug resistance transporter, Bcr/CflA family	ABG59422
+fig|54291.261.peg.5175|GOX96_14155!!!membrane!protein!YoeI!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.90%
+Cluster 686324
+12986	CP000020	Vibrio fischeri ES114 chromosome I, complete sequence.	No	Gammaproteobacteria	HU, DNA-binding transcriptional regulator, beta subunit	AAW85294
+fig|54291.261.peg.3112|GOX96_05465!!!DNA-binding!protein!HU-beta!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.33%
+Cluster 196556
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative restriction endonuclease	CBJ46918
+fig|54291.261.peg.4123|GOX96_09185!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.63%
+Cluster 308513
+18789	CP000821	Shewanella sediminis HAW-EB3, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ABV38572
+fig|54291.261.peg.3497|GOX96_25815!!!Transcriptional!regulator,!LysR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.45%
+Cluster 593871
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	heat shock protein HslJ	ABE07100
+fig|54291.261.peg.1410|GOX96_00320!!!Heat!shock!protein!HslJ!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.29%
+Cluster 574492
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YfbV	ADD77810
+fig|54291.261.peg.852|GOX96_19510!!!UPF0208!membrane!protein!YfbV!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.50%
+Cluster 568238
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	co-chaperonin GroES	ACN48531
+fig|54291.261.peg.3406|GOX96_25375!!!Heat!shock!protein!10!kDa!family!chaperone!GroES!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	96.91%
+Cluster 230435
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13781
+fig|54291.261.peg.3057|GOX96_05195!!!Ferrochelatase,!protoheme!ferro-lyase!(EC!4.99.1.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	86.88%
+Cluster 564114
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	conserved bacteriophage protein	CAX55535
+fig|54291.261.peg.1888|GOX96_02555!!!Uncharacterized!protein!YbcO!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	76.00%
+Cluster 511308
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative 6-O-methylguanine DNA methyltransferase family protein	CAH20217
+fig|54291.261.peg.3095|GOX96_05390!!!DNA!base-flipping!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.02%
+Cluster 613553
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	OsmC family protein	ACX89760
+fig|54291.261.peg.4763|GOX96_12175!!!Protein!YhfA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	82.84%
+Cluster 478278
+20361	AP011532	Methanocella paludicola SANAE DNA, complete genome.	No	Methanomicrobia	conserved hypothetical protein	BAI62810
+fig|54291.261.peg.3670|GOX96_07050!!!Succinate-acetate/proton!symporter!SatP!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.64%
+Cluster 267446
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	cysteine synthase	ABM35882
+fig|54291.261.peg.663|GOX96_18560!!!Cysteine!synthase!(EC!2.5.1.47)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.04%
+Cluster 471723
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	Glutathione S-transferase domain protein	ACZ77600
+fig|54291.261.peg.860|GOX96_19550!!!Probable!glutathione!S-transferase!(EC!2.5.1.18),!YfcG!homolog!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.29%
+Cluster 672379
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	histone family protein DNA-binding protein	ABM58439
+fig|54291.261.peg.3382|GOX96_25265!!!DNA-binding!protein!HU-alpha!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.22%
+Cluster 51514
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative transporter	BAH65082
+fig|54291.261.peg.4221|GOX96_09665!!!Membrane!fusion!component!MdtO!of!tripartite!multidrug!resistance!system!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.63%
+Cluster 485186
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	MtnD	ADD76040
+fig|54291.261.peg.2829|GOX96_04110!!!1,2-dihydroxy-3-keto-5-methylthiopentene!dioxygenase!(EC!1.13.11.54)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	76.11%
+Cluster 726615
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63626
+fig|54291.261.peg.1526|GOX96_00865!!!Orphan!toxin!OrtT!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	92.98%
+Cluster 375207
+17053	CP000949	Pseudomonas putida W619, complete genome.	No	Gammaproteobacteria	phenylacetate degradation, enoyl-CoA hydratase paaB	ACA73118
+fig|54291.261.peg.1434|GOX96_00425!!!1,2-epoxyphenylacetyl-CoA!isomerase!(EC!5.3.3.18)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.12%
+Cluster 55228
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	selenocysteinyl-tRNA-specific translation factor	CAL14147
+fig|54291.261.peg.779|GOX96_19150!!!Selenocysteine-specific!translation!elongation!factor!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.76%
+Cluster 367601
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YcdC	ADD79199
+fig|54291.261.peg.157|GOX96_16120!!!Transcriptional!regulator!RutR!of!pyrimidine!catabolism!(TetR!family)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.15%
+Cluster 621999
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12987
+fig|54291.261.peg.1868|GOX96_02475!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	74.80%
+Cluster 603949
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	phenylacetate-CoA oxygenase, PaaH subunit	ABM59653
+fig|54291.261.peg.1429|GOX96_00400!!!1,2-phenylacetyl-CoA!epoxidase,!subunit!B!(EC!1.14.13.149)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.26%
+Cluster 593420
+259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Yes	Gammaproteobacteria	putative DNA packaging protein of prophage CP-933X	AAG55986
+fig|54291.261.peg.4171|GOX96_26120!!!DNA!packaging!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	100.00%
+Cluster 83366
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017
+fig|54291.261.peg.1230|GOX96_21300!!!NAD!kinase!(EC!2.7.1.23)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	93.84%
+Cluster 363186
+16304	CP000740	Sinorhizobium medicae WSM419 plasmid pSMED02, complete sequence.	No	Alphaproteobacteria	beta-lactamase-like protein	ABR64445
+fig|54291.261.peg.2088|GOX96_03490!!!Uncharacterized!protein!YmaE!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.74%
+Cluster 589866
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|54291.261.peg.1943|GOX96_02805!!!Spermidine!export!protein!MdtJ!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.50%
+Cluster 184648
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	cyanate transporter	ACI10202
+fig|54291.261.peg.915|GOX96_19805!!!Cyanate!transport!protein!CynX!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.36%
+Cluster 95869
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Glutathione reductase, putative	ABN44926
+fig|54291.261.peg.4915|GOX96_12890!!!Glutathione!reductase!(EC!1.8.1.7)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.56%
+Cluster 643780
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	HNH endonuclease domain protein	ACI11481
+fig|54291.261.peg.5384|GOX96_15135!!!Phage-associated!homing!endonuclease!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	95.00%
+Cluster 637260
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04930
+fig|54291.261.peg.1227|GOX96_21285!!!UPF0125!protein!RatB!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.25%
+Cluster 579954
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACN44363
+fig|54291.261.peg.3786|GOX96_07610!!!UPF0231!protein!YacL!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	91.67%
+Cluster 116510
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|54291.261.peg.1098|GOX96_20660!!!Chromosomal!replication!initiator!protein!DnaA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.76%
+Cluster 596961
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE75462
+fig|54291.261.peg.761|GOX96_19060!!!Rhodanese-related!sulfurtransferase!YibN!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.83%
+Cluster 625650
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAR05081
+fig|54291.261.peg.4856|GOX96_12620!!!Uncharacterized!protein!YhhL!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.48%
+Cluster 736213
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63725
+fig|54291.261.peg.4972|GOX96_13180!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.41%
+Cluster 144142
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	2,3,4,5-tetrahydropyridine-2-carboxylate N-succin	AAW75239
+fig|54291.261.peg.3843|GOX96_07885!!!2,3,4,5-tetrahydropyridine-2,6-dicarboxylate!N-succinyltransferase!(EC!2.3.1.117)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.87%
+Cluster 645369
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACX86741
+fig|54291.261.peg.2348|GOX96_23025!!!Uncharacterized!protein!STM4441!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	92.50%
+Cluster 679344
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	DNA-damage-inducible protein I	BAH62776
+fig|54291.261.peg.2381|GOX96_23180!!!DNA-damage-inducible!protein!I!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.13%
+Cluster 368650
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CpxR	ADD79041
+fig|54291.261.peg.1312|GOX96_21700!!!Copper-sensing!two-component!system!response!regulator!CpxR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	90.52%
+Cluster 449872
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative phage replication protein	BAB35192
+fig|54291.261.peg.5402|GOX96_15215!!!Phage!DNA!replication!protein!P!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.78%
+Cluster 201069
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	galactokinase	ACI06895
+fig|54291.261.peg.177|GOX96_16235!!!Galactokinase!(EC!2.7.1.6)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	93.72%
+Cluster 492037
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PurE	ADD76220
+fig|54291.261.peg.3031|GOX96_05065!!!N5-carboxyaminoimidazole!ribonucleotide!mutase!(EC!5.4.99.18)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.62%
+Cluster 445037
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Molybdopterin biosynthesis mog protein	CAY73103
+fig|54291.261.peg.3668|GOX96_07040!!!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.44%
+Cluster 18199
+13121	CP000318	Polaromonas sp. JS666 plasmid 2, complete sequence.	No	Betaproteobacteria	conserved hypothetical protein	ABE47222
+fig|54291.261.peg.5124|GOX96_13915!!!ATPase!involved!in!DNA!repair!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.33%
+Cluster 687854
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU75771
+fig|54291.261.peg.4304|GOX96_10035!!!Uncharacterized!lipoprotein!YgdR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.72%
+Cluster 495874
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YgjP	ADD78617
+fig|54291.261.peg.4521|GOX96_11075!!!UTP!pyrophosphatase!(EC!3.6.1.9)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.48%
+Cluster 728249
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	ABB62708
+fig|54291.261.peg.633|GOX96_18415!!!UPF0370!protein!YpfN!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.85%
+Cluster 167877
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	nucleoside permease	BAH64544
+fig|54291.261.peg.926|GOX96_19860!!!Na+!dependent!nucleoside!transporter!NupC!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	98.00%
+Cluster 167876
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	Nucleoside permease NupC	ABE08191
+fig|54291.261.peg.162|GOX96_16145!!!Na+!dependent!nucleoside!transporter!NupC!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.60%
+Cluster 241152
+19989	CP001032	Opitutus terrae PB90-1, complete genome.	No	Opitutae	L-threonine 3-dehydrogenase	ACB76204
+fig|54291.261.peg.755|GOX96_19035!!!L-threonine!3-dehydrogenase!(EC!1.1.1.103)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.58%
+Cluster 68356
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative alpha-glucoside-specific PTS family enzyme IIBC component	BAH65874
+fig|54291.261.peg.1079|GOX96_20575!!!PTS!system,!maltose-specific!IIC!component!/!PTS!system,!maltose-specific!IIB!component!(EC!2.7.1.208)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	95.19%
+Cluster 352568
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	methionine aminopeptidase, type I	ACK54919
+fig|54291.261.peg.3846|GOX96_07895!!!Methionine!aminopeptidase!(EC!3.4.11.18)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.88%
+Cluster 783411
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	thr operon leader peptide	BAB33424
+fig|54291.261.peg.3660|GOX96_07000!!!thr!operon!leader!peptide!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	86.36%
+Cluster 723838
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG69001
+fig|54291.261.peg.3008|GOX96_04975!!!hypothetical!domain!/!Cold!shock!protein!of!CSP!family!=>!CspB/CspG/CspI!(naming!convention!as!in!E.coli)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.52%
+Cluster 63934
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	Heme-binding protein precursor (hemin-binding lipoprotein)	ABE06319
+fig|54291.261.peg.273|GOX96_16695!!!Oligopeptide!transport!substrate-binding!protein!@!Glutathione!ABC!transporter,!substrate-binding!protein!GsiB!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	87.91%
+Cluster 63936
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	PTS system, maltose and glucose-specific IIABC component	ABE07287
+fig|54291.261.peg.2007|GOX96_03105!!!PTS!system,!maltose!and!glucose-specific!IIC!component!/!PTS!system,!maltose!and!glucose-specific!IIB!component!(EC!2.7.1.208)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	89.06%
+Cluster 420478
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	GntR-family transcriptional regulator	CBJ45534
+fig|54291.261.peg.106|GOX96_15880!!!Transcriptional!regulator,!GntR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.59%
+Cluster 388732
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative CTP synthase	BAH62894
+fig|54291.261.peg.5317|GOX96_14825!!!Uncharacterized!protein!Pfl_4311!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.87%
+Cluster 200923
+371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Yes	Gammaproteobacteria	RNA polymerase sigma subunit RpoS	AAO70382
+fig|54291.261.peg.4400|GOX96_10485!!!RNA!polymerase!sigma!factor!RpoS!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	92.73%
+Cluster 407809
+17455	CP000961	Shewanella woodyi ATCC 51908, complete genome.	No	Gammaproteobacteria	RNA methyltransferase, TrmH family, group 3	ACA88472
+fig|54291.261.peg.2477|GOX96_23645!!!23S!rRNA!(guanosine(2251)-2'-O)-methyltransferase!(EC!2.1.1.185)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.73%
+Cluster 186825
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX70363
+fig|54291.261.peg.1321|GOX96_21745!!!Transcriptional!(co)regulator!CytR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.67%
+Cluster 69622
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	periplasmic glucan biosynthesis protein, MdoG	ABQ81020
+fig|54291.261.peg.2370|GOX96_23130!!!Glucans!biosynthesis!protein!G!precursor!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.38%
+Cluster 756983
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE06944
+fig|54291.261.peg.5407!!!Uncharacterized!protein!YdfB!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.50%
+Cluster 51773
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	DNA polymerase III subunit tau	CAO97520
+fig|54291.261.peg.3062|GOX96_05220!!!DNA!polymerase!III!subunits!gamma!and!tau!(EC!2.7.7.7)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.48%
+Cluster 338304
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	pantothenate synthetase	CBJ82791
+fig|54291.261.peg.3802|GOX96_07685!!!Pantoate--beta-alanine!ligase!(EC!6.3.2.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.73%
+Cluster 264549
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	riboflavin biosynthesis protein RibF, putative	ACR67900
+fig|54291.261.peg.3678|GOX96_07090!!!FMN!adenylyltransferase!(EC!2.7.7.2)!/!Riboflavin!kinase!(EC!2.7.1.26)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.47%
+Cluster 301991
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	protein bax	ACF62390
+fig|54291.261.peg.799|GOX96_19250!!!BAX!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.51%
+Cluster 350538
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Hypothetical Protein	ADD78007
+fig|54291.261.peg.2075|GOX96_03440!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.23%
+Cluster 325465
+13960	CP000800	Escherichia coli E24377A, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABV21201
+fig|54291.261.peg.3416|GOX96_25425!!!Protein!YrdA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.15%
+Cluster 213164
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	luciferase-like protein	ACY35168
+fig|54291.261.peg.1601|GOX96_01215!!!Alkanal!monooxygenase!alpha!chain!(EC!1.14.14.3)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.79%
+Cluster 517050
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	transcriptional regulator, MerR family	ABM32854
+fig|54291.261.peg.2120|GOX96_21925!!!Redox-sensitive!transcriptional!activator!SoxR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.40%
+Cluster 565004
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	50S ribosomal protein L16	ABM79044
+fig|54291.261.peg.3450|GOX96_25595!!!LSU!ribosomal!protein!L16p!(L10e)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.03%
+Cluster 221365
+329	CP000112	Desulfovibrio desulfuricans subsp. desulfuricans str. G20, complete genome.	No	Deltaproteobacteria	NAD-dependent epimerase/dehydratase family protein	ABB36834
+fig|54291.261.peg.5195|GOX96_14255!!!UDP-glucuronate!5'-epimerase!(EC!5.1.3.12)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.77%
+Cluster 558460
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Hns	ADD77258
+fig|54291.261.peg.517|GOX96_17850!!!DNA-binding!protein!H-NS!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.48%
+Cluster 464874
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Conserved hypothetical protein YffH	CAO96128
+fig|54291.261.peg.640|GOX96_18445!!!GDP-mannose!pyrophosphatase!NudK!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.17%
+Cluster 212799
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20769
+fig|54291.261.peg.4072|GOX96_08955!!!Glycerol!uptake!facilitator!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.18%
+fig|54291.261.peg.712|GOX96_18825!!!Glycerol!uptake!facilitator!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.12%
+Cluster 545269
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABV41655
+fig|54291.261.peg.2973|GOX96_04820!!!L-2-amino-thiazoline-4-carboxylic!acid!hydrolase!(EC!3.5.2.-)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.12%
+Cluster 595608
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	protein YcgL	ACF62545
+fig|54291.261.peg.3989|GOX96_08560!!!Protein!YcgL!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.97%
+Cluster 261519
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	Protein of unknown function DUF1722	ACZ77874
+fig|54291.261.peg.1821|GOX96_02255!!!COG1683:!Uncharacterized!conserved!protein!/!FIG143828:!Hypothetical!protein!YbgA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.55%
+Cluster 164201
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL10684
+fig|54291.261.peg.3638|GOX96_06895!!!Uncharacterized!protein!YjjU!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.03%
+Cluster 585252
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	acetyltransferase, GNAT family	ACI09173
+fig|54291.261.peg.1718|GOX96_01785!!!Acetyltransferase,!GNAT!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	74.66%
+Cluster 708057
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12267
+fig|54291.261.peg.3944|GOX96_08335!!!DNA!polymerase!III!theta!subunit!(EC!2.7.7.7)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	82.89%
+Cluster 617174
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACT06807
+fig|54291.261.peg.4412|GOX96_10540!!!Uncharacterized!protein!YgbA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.07%
+Cluster 631975
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13700
+fig|54291.261.peg.2917|GOX96_04545!!!Transcriptional!activator!RamA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	92.92%
+Cluster 365291
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Phage shock protein A	CAY74214
+fig|54291.261.peg.2522|GOX96_23855!!!Phage!shock!protein!A!@!Suppressor!of!sigma54-dependent!transcription,!PspA-like!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.71%
+Cluster 75733
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative lipoate-protein ligase A	BAB38768
+fig|54291.261.peg.3645|GOX96_06925!!!Lipoate-protein!ligase!A!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	91.12%
+fig|54291.261.peg.3646|GOX96_06930!!!Protein!Smp!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.31%
+Cluster 386483
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	urease, gamma subunit	ACG72211
+fig|54291.261.peg.4567|GOX96_11280!!!Urease!gamma!subunit!(EC!3.5.1.5)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.00%
+Cluster 323534
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	transposase	BAE73562
+fig|54291.261.peg.2721|GOX96_24790!!!Mobile!element!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.41%
+Cluster 367690
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	phosphotransferase system PTS sorbose-specific IIC subunit	ACZ09849
+fig|54291.261.peg.3690|GOX96_07145!!!PTS!system,!mannose-specific!IIC!component!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.91%
+Cluster 678802
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS60803
+fig|54291.261.peg.2486|GOX96_23690!!!Putative!inner!membrane!protein!YjeT!(clustered!with!HflC)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.85%
+Cluster 531525
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	50S ribosomal protein L19	ACP26950
+fig|54291.261.peg.1238|GOX96_21340!!!LSU!ribosomal!protein!L19p!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.35%
+Cluster 471725
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	thiol:disulfide interchange protein DsbE	ABG70233
+fig|54291.261.peg.383|GOX96_17220!!!Cytochrome!c-type!biogenesis!protein!CcmG/DsbE,!thiol:disulfide!oxidoreductase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.86%
+Cluster 549885
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L10	ABF14049
+fig|54291.261.peg.3363|GOX96_25170!!!LSU!ribosomal!protein!L10p!(P0)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.06%
+Cluster 264986
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	transport system permease protein	ACX86102
+fig|54291.261.peg.4017|GOX96_08695!!!ABC!transporter,!permease!protein!(cluster!8,!B12/iron!complex)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.00%
+Cluster 716529
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13904
+fig|54291.261.peg.3197|GOX96_05880!!!Uncharacterized!protein!YaiZ!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	79.71%
+Cluster 559054
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	IbpA	ADD75249
+fig|54291.261.peg.1083|GOX96_20595!!!16!kDa!heat!shock!protein!A!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.02%
+Cluster 714897
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20298
+fig|54291.261.peg.598|GOX96_18245!!!Uncharacterized!protein!YfgJ!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.11%
+Cluster 706835
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX22766
+fig|54291.261.peg.3699|GOX96_07185!!!Putative!outer!membrane!lipoprotein!STM0080!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.13%
+Cluster 556632
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12997
+fig|54291.261.peg.1877|GOX96_02515!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	79.01%
+Cluster 550024
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved membrane protein	AAS60370
+fig|54291.261.peg.719|GOX96_18860!!!Uncharacterized!protein!YiiR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.49%
+Cluster 229292
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH62542
+fig|54291.261.peg.5015|GOX96_13385!!!L,D-transpeptidase!=>!ErfK!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.46%
+fig|54291.261.peg.257|GOX96_16620!!!L,D-transpeptidase!=>!YbiS!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	94.08%
+Cluster 8034
+17729	CP000769	Anaeromyxobacter sp. Fw109-5, complete genome.	No	Deltaproteobacteria	malate synthase A	ABS27162
+fig|54291.261.peg.2192|GOX96_22250!!!Isocitrate!lyase!(EC!4.1.3.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.64%
+Cluster 247421
+20011	CP001341	Arthrobacter chlorophenolicus A6, complete genome.	No	Actinobacteridae	Luciferase-like monooxygenase	ACL41193
+fig|54291.261.peg.1462|GOX96_00560!!!Alkanal!monooxygenase!alpha!chain!(EC!1.14.14.3)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.40%
+Cluster 180167
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	RsuA protein	AAU37645
+fig|54291.261.peg.5227|GOX96_14410!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.31%
+Cluster 11409
+10700	BX908798	Parachlamydia-related symbiont UWE25, complete genome.	Yes	Chlamydiales	probable glycyl-tRNA synthetase	CAF23417
+fig|54291.261.peg.4975|GOX96_13195!!!Glycyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.14)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.40%
+Cluster 322453
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	5-carboxymethyl-2-hydroxymuconate Delta-isomerase	ACZ77114
+fig|54291.261.peg.4691|GOX96_11815!!!Fumarylacetoacetate!hydrolase!family!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.82%
+Cluster 116413
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	ABC superfamily (bin	AAX68014
+fig|54291.261.peg.2165|GOX96_22125!!!Maltodextrin!ABC!transporter,!substrate-binding!protein!MdxE!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	93.94%
+Cluster 761303
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH61712
+fig|54291.261.peg.3733|GOX96_07350!!!Sugar-phosphate!stress!protein!SgrT!(embedded!in!SgrS)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	92.00%
+Cluster 201049
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	rod shape-determining protein MreC	ACT08634
+fig|54291.261.peg.2273|GOX96_22655!!!Rod!shape-determining!protein!MreC!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.79%
+Cluster 13787
+9633	CP000082	Psychrobacter arcticus 273-4, complete genome.	No	Gammaproteobacteria	Excinuclease ABC subunit A	AAZ19533
+fig|54291.261.peg.2140|GOX96_22015!!!Excinuclease!ABC!subunit!A!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.52%
+Cluster 531069
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	AccB protein	AAU38396
+fig|54291.261.peg.2280|GOX96_22690!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.90%
+Cluster 152940
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative chitinase II	BAH62922
+fig|54291.261.peg.5298|GOX96_14735!!!Chitinase!(EC!3.2.1.14)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	87.53%
+Cluster 423510
+13875	CP000016	Candidatus Blochmannia pennsylvanicus str. BPEN, complete genome.	No	Gammaproteobacteria	NADH dehydrogenase I chain B, binds FeS cluster N2	AAZ41122
+fig|54291.261.peg.844|GOX96_19470!!!NADH-ubiquinone!oxidoreductase!chain!B!(EC!1.6.5.3)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	74.11%
+Cluster 150473
+28805	CP001196	Oligotropha carboxidovorans OM5 strain OM5, complete genome.	No	Alphaproteobacteria	major facilitator superfamily MF	ACI94077
+fig|54291.261.peg.1696|GOX96_01680!!!Uncharacterized!MFS-type!transporter!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.21%
+Cluster 680762
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13578
+fig|54291.261.peg.2761|GOX96_03730!!!Uncharacterized!protein!YbfA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.94%
+Cluster 649350
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH61334
+fig|54291.261.peg.2474|GOX96_23630!!!Putative!uncharacterized!protein!YjfN!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	89.01%
+Cluster 450357
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS60574
+fig|54291.261.peg.3836|GOX96_07850!!!UPF0126!inner!membrane!protein!YadS!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.54%
+Cluster 623823
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15926
+fig|54291.261.peg.4846|GOX96_12570!!!Acetyl-CoA!sensor!PanM,!required!for!maturation!of!L-aspartate!decarboxylase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.93%
+Cluster 708139
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAI24488
+fig|54291.261.peg.5405|GOX96_15230!!!Cro/Cl!family!transcriptional!regulator!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.64%
+Cluster 562196
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein YjcH	CAQ91716
+fig|54291.261.peg.2112|GOX96_21885!!!Inner!membrane!protein!YjcH,!clustering!with!ActP!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	76.92%
+Cluster 90902
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	general secretion pathway protein E	BAJ04171
+fig|54291.261.peg.3821|GOX96_07780!!!General!secretion!pathway!protein!E!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.36%
+Cluster 639975
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	competence protein ComEA homolog	ACI10408
+fig|54291.261.peg.3109|GOX96_05455!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.67%
+Cluster 495973
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	GTP cyclohydrolase subunit MoaC	ABQ80553
+fig|54291.261.peg.217|GOX96_16435!!!Cyclic!pyranopterin!monophosphate!synthase!(EC!4.6.1.17)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.20%
+Cluster 731538
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	carbon storage regulator, CsrA	ADC62041
+fig|54291.261.peg.4458|GOX96_10770!!!Carbon!storage!regulator!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.33%
+Cluster 272454
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	membrane protein alx	CAO97949
+fig|54291.261.peg.4519|GOX96_11065!!!Alkaline!induced!inner!membrane!protein!Alx!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.71%
+Cluster 210655
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	N-succinyl-diaminopimelate deacylase	CBJ81719
+fig|54291.261.peg.634|GOX96_18420!!!N-succinyl-L,L-diaminopimelate!desuccinylase!(EC!3.5.1.18)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.47%
+Cluster 691242
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	cold shock domain protein CspD	ACR13966
+fig|54291.261.peg.336|GOX96_16985!!!Cold!shock!protein!of!CSP!family!=>!CspD!(naming!convention!as!in!E.coli)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.86%
+Cluster 63379
+16708	CP001337	Chloroflexus aggregans DSM 9485, complete genome.	No	Chloroflexales	isocitrate dehydrogenase, NADP-dependent	ACL23964
+fig|54291.261.peg.5357|GOX96_15005!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.00%
+Cluster 701280
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20171
+fig|54291.261.peg.2617!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	93.33%
+Cluster 522072
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	CinA domain protein	ADC62596
+fig|54291.261.peg.4454|GOX96_10750!!!Nicotinamide-nucleotide!amidase!(EC!3.5.1.42)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.00%
+Cluster 302482
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	spfh/band 7 domain protein	ACR14480
+fig|54291.261.peg.3043|GOX96_05125!!!Protein!QmcA!(possibly!involved!in!integral!membrane!quality!control)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.30%
+Cluster 612014
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15491
+fig|54291.261.peg.4580|GOX96_11340!!!Uncharacterized!protein!YqiC!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	82.02%
+Cluster 527527
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Oligoketide cyclase/lipid transport protein	AAS61304
+fig|54291.261.peg.1226|GOX96_21280!!!Ribosome!association!toxin!RatA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	79.31%
+Cluster 722769
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAG75280
+fig|54291.261.peg.3979|GOX96_08510!!!UPF0181!protein!YoaH!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.30%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|54291.261.peg.4747|GOX96_12095!!!SSU!ribosomal!protein!S12p!(S23e)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.81%
+Cluster 663331
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YbeB	ADD76293
+fig|54291.261.peg.2801|GOX96_03970!!!Ribosomal!silencing!factor!RsfA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.95%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|54291.261.peg.1100|GOX96_20665!!!LSU!ribosomal!protein!L34p!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.91%
+Cluster 302781
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	oligopeptide transport system permease protein	AAX88126
+fig|54291.261.peg.511|GOX96_17825!!!Oligopeptide!ABC!transporter,!permease!protein!OppB!(TC!3.A.1.5.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	76.80%
+Cluster 501191
+17415	CP000851	Shewanella pealeana ATCC 700345, complete genome.	No	Gammaproteobacteria	HesB/YadR/YfhF-family protein	ABV89320
+fig|54291.261.peg.4806|GOX96_12380!!![4Fe-4S]!cluster!carrier!protein!NfuA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	76.44%
+Cluster 554386
+13040	CP000376	Silicibacter sp. TM1040 mega plasmid, complete sequence.	No	Alphaproteobacteria	6,7-dimethyl-8-ribityllumazine synthase	ABF62282
+fig|54291.261.peg.4033|GOX96_08775!!!6,7-dimethyl-8-ribityllumazine!synthase!paralog!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.95%
+Cluster 677828
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	Phosphotransferase system, phosphocarrier protein HPr	ACQ92255
+fig|54291.261.peg.662|GOX96_18555!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.29%
+Cluster 714411
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR76825
+fig|54291.261.peg.1897|GOX96_02595!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	98.80%
+Cluster 430650
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	NAD(P)H dehydrogenase (quinone)	ABV40313
+fig|54291.261.peg.1443|GOX96_00470!!!FMN-dependent!NADH-azoreductase!(EC!1.7.1.6)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.66%
+Cluster 608836
+283	AE007870	Agrobacterium tumefaciens str. C58 linear chromosome, complete sequence.	No	Alphaproteobacteria	conserved hypothetical protein	AAK90158
+fig|54291.261.peg.3015|GOX96_04995!!!Protein!of!unknown!function!DUF1304!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.52%
+Cluster 144215
+17629	CP000926	Pseudomonas putida GB-1, complete genome.	No	Gammaproteobacteria	FAD dependent oxidoreductase	ABY98248
+fig|54291.261.peg.4631|GOX96_11565!!!Putative!monooxygenase!PA5393!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	74.58%
+Cluster 116469
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative membrane-bound diguanylate cyclase	ACI07008
+fig|54291.261.peg.1722|GOX96_01800!!!Uncharacterized!GGDEF!domain!protein!YneF!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.59%
+Cluster 346013
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PcaH	ADD78510
+fig|54291.261.peg.1481|GOX96_00645!!!Protocatechuate!3,4-dioxygenase!beta!chain!(EC!1.13.11.3)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.15%
+Cluster 647844
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	50S ribosomal subunit protein L25	ABF04379
+fig|54291.261.peg.1018|GOX96_20295!!!LSU!ribosomal!protein!L25p!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.91%
+Cluster 145190
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative membrane protein	CAG73040
+fig|54291.261.peg.1026|GOX96_20340!!!Uncharacterized!UPF0118!membrane!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	74.80%
+Cluster 244293
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative periplasmic binding protein/LacI transcriptional regulator	ABR76081
+fig|54291.261.peg.2843|GOX96_04180!!!Transcriptional!regulator,!LacI!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.41%
+Cluster 122917
+28471	CP000966	Klebsiella pneumoniae 342 plasmid pKP91, complete sequence.	No	Gammaproteobacteria	amidohydrolase family protein	ACI12277
+fig|54291.261.peg.5051|GOX96_13565!!!Amidohydrolase!family!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	89.03%
+Cluster 205073
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	CAI08474
+fig|54291.261.peg.3863|GOX96_07980!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.64%
+Cluster 72607
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative POT family transport protein	AAX64635
+fig|54291.261.peg.2759|GOX96_03720!!!Dipeptide/H+!symporter!DtpD!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.98%
+Cluster 410344
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeaZ	ADD77302
+fig|54291.261.peg.3982|GOX96_08525!!!tRNA!threonylcarbamoyladenosine!biosynthesis!protein!TsaB!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.56%
+Cluster 541411
+15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Yes	Gammaproteobacteria	periplasmic protein CpxP	ACD09422
+fig|54291.261.peg.1313|GOX96_21705!!!Periplasmic!protein!CpxP!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.86%
+Cluster 492186
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF179	ACS84355
+fig|54291.261.peg.4716|GOX96_11940!!!UPF0301!protein!YqgE!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.98%
+Cluster 764883
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14640
+fig|54291.261.peg.2323|GOX96_22900!!!PyrBI!operon!leader!peptide!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.44%
+Cluster 352148
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Uncharacterized protein ygcF	CAY75451
+fig|54291.261.peg.4382|GOX96_10395!!!7-carboxy-7-deazaguanine!synthase!(EC!4.3.99.3)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.67%
+Cluster 461736
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	chorismate lyase	BAH61178
+fig|54291.261.peg.2160|GOX96_22105!!!Chorismate--pyruvate!lyase!(EC!4.1.3.40)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	86.06%
+Cluster 313924
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	quaternary amine uptake ABC transporter (QAT) family,  periplasmic amine-binding protein	ACI09197
+fig|54291.261.peg.4037|GOX96_08795!!!ABC!transporter,!substrate-binding!protein!(cluster!13,!osmolytes)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.95%
+Cluster 205254
+19	AE006469	Sinorhizobium meliloti 1021 plasmid pSymA, complete sequence.	No	Alphaproteobacteria	Acyl-CoA dehydrogenase	AAK65424
+fig|54291.261.peg.5153|GOX96_14045!!!Acyl-CoA!dehydrogenase,!short-chain!specific!(EC!1.3.8.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.68%
+Cluster 722166
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	major outer membrane lipoprotein	BAE74712
+fig|54291.261.peg.456|GOX96_17570!!!Major!outer!membrane!lipoprotein!Lpp!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	92.31%
+Cluster 505390
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	BAH63317
+fig|54291.261.peg.1775|GOX96_02050!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	82.80%
+Cluster 590626
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	holo-(acyl-carrier-protein) synthase	ABF14256
+fig|54291.261.peg.545|GOX96_17990!!!Holo-[acyl-carrier-protein]!synthase!(EC!2.7.8.7)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.32%
+Cluster 59624
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	serine type site-specific recombinase	BAD47262
+fig|54291.261.peg.4981!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.67%
+Cluster 518144
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR76855
+fig|54291.261.peg.1867|GOX96_02470!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	97.27%
+Cluster 367370
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative 2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	ACI06570
+fig|54291.261.peg.818|GOX96_19340!!!2-keto-3-deoxy-L-rhamnonate!aldolase!(EC!4.1.2.53)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	87.64%
+Cluster 192945
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	D-isomer specific 2-hydroxyacid dehydrogenase family protein	AAY91693
+fig|54291.261.peg.1381|GOX96_00175!!!Cinnamyl!alcohol!dehydrogenase/reductase!(EC!1.1.1.195)!@!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.81%
+Cluster 83794
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable atp-dependent rna helicase protein	CAD14067
+fig|54291.261.peg.231|GOX96_16500!!!ATP-dependent!RNA!helicase!RhlE!(EC!3.6.4.13)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.80%
+Cluster 726201
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative lipoprotein	CAG74905
+fig|54291.261.peg.1414|GOX96_00340!!!Uncharacterized!protein!YnbE!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.57%
+Cluster 399435
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	putative acyl-CoA N-acyltransferase	CAU97437
+fig|54291.261.peg.1533|GOX96_00895!!!L-amino!acid!N-acyltransferase!MnaT!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.14%
+Cluster 298155
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	putative extracellular solute-binding protein, family 3	ACP27013
+fig|54291.261.peg.4645|GOX96_11620!!!L-cystine!ABC!transporter,!substrate-binding!protein!TcyA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.81%
+Cluster 633895
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	histidine triad nucleotide-binding protein 2	ACF64355
+fig|54291.261.peg.2410|GOX96_23320!!!YcfF/hinT!protein:!a!purine!nucleoside!phosphoramidase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	89.83%
+Cluster 490794
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	ribonuclease HII	BAE75204
+fig|54291.261.peg.3861|GOX96_07970!!!Ribonuclease!HII!(EC!3.1.26.4)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.78%
+Cluster 126257
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB61668
+fig|54291.261.peg.5269|GOX96_14615!!!Succinylarginine!dihydrolase!(EC!3.5.3.23)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	74.32%
+Cluster 244813
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	RbsB	ADD77040
+fig|54291.261.peg.5013|GOX96_13375!!!ABC!transporter,!substrate-binding!protein!(cluster!2,!ribose/xylose/arabinose/galactose)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.73%
+Cluster 430878
+33639	CP001383	Shigella flexneri 2002017, complete genome.	Yes	Gammaproteobacteria	IS1 ORF2	ADA74134
+fig|54291.261.peg.3886!!!IS1!protein!InsA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	91.21%
+Cluster 100456
+19	AE006469	Sinorhizobium meliloti 1021 plasmid pSymA, complete sequence.	No	Alphaproteobacteria	ABC transporter, ATP-binding protein	AAK65435
+fig|54291.261.peg.5142|GOX96_13990!!!ABC!transporter,!ATP-binding!protein!(cluster!2,!ribose/xylose/arabinose/galactose)!/!ABC!transporter,!ATP-binding!protein!(cluster!2,!ribose/xylose/arabinose/galactose)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.67%
+Cluster 352813
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	cel operon repressor	CAL11069
+fig|54291.261.peg.5260|GOX96_14570!!!N,N'-diacetylchitobiose-specific!regulator!ChbR,!AraC!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.61%
+Cluster 359252
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein, putative transcriptionnal regulator	CAQ89494
+fig|54291.261.peg.3556|GOX96_06480!!!FIG00733024:!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.11%
+Cluster 33282
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative adenosylmethionine-8-amino-7-oxononanoate aminotransferase	CAH07318
+fig|54291.261.peg.203|GOX96_16365!!!Adenosylmethionine-8-amino-7-oxononanoate!aminotransferase!(EC!2.6.1.62)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.77%
+Cluster 663730
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAH21730
+fig|54291.261.peg.2372|GOX96_23140!!!Putative!outer!membrane!lipoprotein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.00%
+Cluster 734571
+28471	CP000966	Klebsiella pneumoniae 342 plasmid pKP91, complete sequence.	No	Gammaproteobacteria	conserved hypothetical protein	ACI12291
+fig|54291.261.peg.1362|GOX96_00085!!!Tetrapartite!efflux!system!component,!FusD-like!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.20%
+Cluster 516003
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative outer membrane protein	BAH62690
+fig|54291.261.peg.74|GOX96_15720!!!Phospholipid-binding!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.20%
+Cluster 135111
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14881
+fig|54291.261.peg.2110|GOX96_21875!!!Proton/glutamate!symporter!@!Proton/aspartate!symporter!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	94.74%
+Cluster 453308
+15755	CP000661	Rhodobacter sphaeroides ATCC 17025, complete genome.	No	Alphaproteobacteria	Hly-III family protein	ABP70163
+fig|54291.261.peg.4450|GOX96_10730!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.07%
+Cluster 589481
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAQ90569
+fig|54291.261.peg.3562|GOX96_06510!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	82.18%
+Cluster 46799
+13953	CP000571	Burkholderia pseudomallei 668 chromosome II, complete sequence.	Yes	Betaproteobacteria	amino acid permease	ABN86427
+fig|54291.261.peg.3603|GOX96_06715!!!Amino!acid!permease!in!4-hydroxyproline!catabolic!gene!cluster!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.92%
+Cluster 670525
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR78958
+fig|54291.261.peg.4475|GOX96_10865!!!UPF0213!protein!YhbQ!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.91%
+Cluster 602075
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	SoxS	ADD75448
+fig|54291.261.peg.2121|GOX96_21930!!!DNA-binding!transcriptional!dual!regulator!SoxS!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.06%
+Cluster 619453
+19449	CP001322	Desulfatibacillum alkenivorans AK-01, complete genome.	No	Deltaproteobacteria	microcompartments protein	ACL06672
+fig|54291.261.peg.3552|GOX96_06460!!!Ethanolamine!utilization!polyhedral-body-like!protein!EutM!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.37%
+fig|54291.261.peg.4079|GOX96_08990!!!Propanediol!utilization!polyhedral!body!protein!PduA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.42%
+Cluster 511887
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	ACF64245
+fig|54291.261.peg.309|GOX96_16855!!!Inner!membrane!protein!YbjO!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	74.52%
+Cluster 567373
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YbdB	ADD75612
+fig|54291.261.peg.2858|GOX96_04250!!!Proofreading!thioesterase!in!enterobactin!biosynthesis!EntH!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.31%
+fig|54291.261.peg.468|GOX96_17625!!!1,4-dihydroxy-2-naphthoyl-CoA!hydrolase!(EC!3.1.2.28)!in!menaquinone!biosynthesis!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.24%
+Cluster 394149
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative transmembrane protein	BAH61266
+fig|54291.261.peg.2719|GOX96_24780!!!Integral!membrane!protein!TerC!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.33%
+Cluster 337559
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	3-oxoacyl- reductase	AAW74135
+fig|54291.261.peg.2400|GOX96_23270!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.62%
+Cluster 119825
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CoaBC	ADD79072
+fig|54291.261.peg.735|GOX96_18935!!!Phosphopantothenoylcysteine!decarboxylase!(EC!4.1.1.36)!/!Phosphopantothenoylcysteine!synthetase!(EC!6.3.2.5)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.47%
+Cluster 44531
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	transketolase	ABM44065
+fig|54291.261.peg.642|GOX96_18455!!!Transketolase!(EC!2.2.1.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.39%
+Cluster 782011
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63344
+fig|54291.261.peg.1717|GOX96_01780!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.38%
+Cluster 220511
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	pyrimidine specific nucleoside hydrolase	BAH63617
+fig|54291.261.peg.1538|GOX96_00920!!!Pyrimidine-specific!ribonucleoside!hydrolase!RihA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.92%
+Cluster 572212
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	UPF0382 membrane protein SSP2132	CAY75468
+fig|54291.261.peg.4335|GOX96_10185!!!FIG00018398:!hypothetical!regulator!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.47%
+Cluster 993
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	yersiniabactin synthetase, HMWP2 component	ABX85792
+fig|54291.261.peg.5025|GOX96_13430!!!iron!aquisition!yersiniabactin!synthesis!enzyme!(Irp2)!@!Siderophore!biosynthesis!non-ribosomal!peptide!synthetase!modules!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	92.14%
+Cluster 662044
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACN48248
+fig|54291.261.peg.4531|GOX96_11125!!!(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione!isomerase!(EC!5.3.1.32)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.27%
+Cluster 153748
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	tyrosyl-tRNA synthetase, putative	ACR69272
+fig|54291.261.peg.2037|GOX96_03245!!!Tyrosyl-tRNA!synthetase!(EC!6.1.1.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	90.80%
+Cluster 186042
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative membrane protein	CBJ46810
+fig|54291.261.peg.5168|GOX96_14120!!!Inner!membrane!protein!YeeA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.50%
+Cluster 18794
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	ATP-dependent Clp protease ATP-binding subunit clpA	ABA48302
+fig|54291.261.peg.338|GOX96_16995!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.53%
+Cluster 744385
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	phage transcriptional regulator, AlpA	ACT06354
+fig|54291.261.peg.5100|GOX96_13805!!!Transcriptional!regulator!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.94%
+Cluster 462875
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	Mammalian cell entry related domain protein	ACT08606
+fig|54291.261.peg.2220|GOX96_22390!!!Phospholipid!ABC!transporter!substrate-binding!protein!MlaD!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.04%
+Cluster 73735
+65	AE000513	Deinococcus radiodurans R1 chromosome 1, complete sequence.	No	Deinococci	L-lactate permease, putative	AAF11456
+fig|54291.261.peg.769|GOX96_19100!!!L-lactate!permease!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.34%
+Cluster 676379
+10642	CP000117	Anabaena variabilis ATCC 29413, complete genome.	No	Nostocales	Glutaredoxin, GrxC	ABA21763
+fig|54291.261.peg.762|GOX96_19065!!!Glutaredoxin!3!(Grx3)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.06%
+Cluster 273451
+58	CP000230	Rhodospirillum rubrum ATCC 11170, complete genome.	No	Alphaproteobacteria	Binding-protein-dependent transport systems inner membrane component	ABC23158
+fig|54291.261.peg.4951|GOX96_13065!!!Dipeptide!ABC!transporter,!permease!protein!DppC!(TC!3.A.1.5.2)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.33%
+Cluster 734519
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65193
+fig|54291.261.peg.4613!!!Putative!inner!membrane!protein!STM3160!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.24%
+Cluster 434617
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	thiamine-phosphate pyrophosphorylase	AAS63273
+fig|54291.261.peg.3375|GOX96_25230!!!Thiamin-phosphate!pyrophosphorylase!(EC!2.5.1.3)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.14%
+Cluster 697944
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH75215
+fig|54291.261.peg.2462|GOX96_23575!!!Uncharacterized!protein!YjfY!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.64%
+Cluster 767506
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	50S ribosomal protein L36	CAO97529
+fig|54291.261.peg.3077|GOX96_05295!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.26%
+Cluster 132764
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	CDP-diacylglycerol-serine O-phosphatidyltransferase	BAE75186
+fig|54291.261.peg.525|GOX96_17890!!!CDP-diacylglycerol--serine!O-phosphatidyltransferase!(EC!2.7.8.8)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.73%
+Cluster 577567
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62882
+fig|54291.261.peg.618|GOX96_18340!!!Uncharacterized!protein!YfgD,!not!an!arsenate!reductase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.55%
+Cluster 237423
+13943	CP000546	Burkholderia mallei NCTC 10229 chromosome I, complete sequence.	Yes	Betaproteobacteria	putative membrane protein	ABN01987
+fig|54291.261.peg.2754|GOX96_03695!!!FIG015373:!Membrane!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.42%
+Cluster 68959
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	trehalase, periplasmic	ABR77729
+fig|54291.261.peg.4019|GOX96_08705!!!Trehalase!(EC!3.2.1.28)!@!Periplasmic!trehalase!(EC!3.2.1.28)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.85%
+Cluster 105330
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	transcriptional regulator, GntR family with aminotransferase domain	ACS83844
+fig|54291.261.peg.2901|GOX96_04465!!!Transcriptional!regulator,!GntR!family!domain!/!Aspartate!aminotransferase!(EC!2.6.1.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.93%
+Cluster 532816
+13126	CR628337	Legionella pneumophila str. Lens complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S7	CAH14596
+fig|54291.261.peg.4746|GOX96_12090!!!SSU!ribosomal!protein!S7p!(S5e)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.59%
+Cluster 526037
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	Regulatory protein CII (modular protein) from bacteriophage origin; putative coiled-coil	CAU96634
+fig|54291.261.peg.1903|GOX96_02625!!!Phage!activator!protein!cII!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.04%
+Cluster 540802
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH77658
+fig|54291.261.peg.2115|GOX96_21900!!!Holin-like!protein!CidA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.62%
+Cluster 554973
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	pantetheine-phosphate adenylyltransferase	ABF14068
+fig|54291.261.peg.740|GOX96_18960!!!Phosphopantetheine!adenylyltransferase!(EC!2.7.7.3)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.39%
+Cluster 41374
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	transketolase	ABM35122
+fig|54291.261.peg.4743!!!Transketolase!(EC!2.2.1.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.58%
+fig|54291.261.peg.2437!!!Transketolase!(EC!2.2.1.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.22%
+Cluster 132519
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	valine--pyruvate aminotransferase	ABE09542
+fig|54291.261.peg.797|GOX96_19240!!!Valine--pyruvate!aminotransferase!(EC!2.6.1.66)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	89.74%
+Cluster 662026
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX23850
+fig|54291.261.peg.4860|GOX96_12640!!!tRNA!5-methylaminomethyl-2-thiouridine!synthesis!sulfur!carrier!protein!TusA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.19%
+Cluster 555721
+13946	CP000548	Burkholderia mallei NCTC 10247 chromosome I, complete sequence.	Yes	Betaproteobacteria	50S ribosomal protein L28	ABO05945
+fig|54291.261.peg.737|GOX96_18945!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.51%
+Cluster 295523
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ACI10371
+fig|54291.261.peg.1389|GOX96_00215!!!Transcriptional!regulator,!LysR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.89%
+Cluster 150840
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	survival protein SurA precursor	BAE73701
+fig|54291.261.peg.3713|GOX96_07255!!!Periplasmic!chaperone!and!peptidyl-prolyl!cis-trans!isomerase!of!outer!membrane!proteins!SurA!(EC!5.2.1.8)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.73%
+Cluster 709468
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	conserved hypothetical protein	CBJ46349
+fig|54291.261.peg.2049|GOX96_03305!!!Uncharacterized!protein!YdhL!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.82%
+Cluster 232999
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative sulfonate ABC transporter, sulfonate-binding protein	ACI09846
+fig|54291.261.peg.3239|GOX96_06080!!!Alkanesulfonates-binding!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	87.32%
+Cluster 271794
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	L-arabinose-binding periplasmic protein	CAG75176
+fig|54291.261.peg.3901|GOX96_08130!!!L-arabinose!ABC!transporter,!substrate-binding!protein!AraF!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	86.81%
+Cluster 136844
+15713	CR954247	Pseudoalteromonas haloplanktis str. TAC125 chromosome II, complete sequence.	No	Gammaproteobacteria	putative idonate or gluconate permease	CAI89516
+fig|54291.261.peg.4821|GOX96_12455!!!Low-affinity!gluconate/H+!symporter!GntU!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.21%
+Cluster 493192
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	zinc uptake regulation protein	ABG72212
+fig|54291.261.peg.2152|GOX96_22070!!!Zinc!uptake!regulation!protein!Zur!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.30%
+Cluster 166956
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	urea ABC transporter, permease protein UrtC	ACR02516
+fig|54291.261.peg.1797|GOX96_02155!!!Urea!ABC!transporter,!permease!protein!UrtC!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.87%
+Cluster 736407
+17629	CP000926	Pseudomonas putida GB-1, complete genome.	No	Gammaproteobacteria	hypothetical protein	ABY98527
+fig|54291.261.peg.149|GOX96_16080!!!Uncharacterized!protein!YmdF!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.68%
+Cluster 296141
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66324
+fig|54291.261.peg.3318|GOX96_24935!!!DNA-3-methyladenine!glycosylase!II!(EC!3.2.2.21)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.38%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|54291.261.peg.3453|GOX96_25610!!!SSU!ribosomal!protein!S19p!(S15e)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.57%
+Cluster 443458
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	Sua5/YciO/YrdC/YwlC family protein	ACR12471
+fig|54291.261.peg.5229|GOX96_14420!!!YciO!protein,!TsaC/YrdC!paralog!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.59%
+Cluster 204923
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative ribonucleoside-diphosphate reductase beta subunit	AAS58680
+fig|54291.261.peg.811|GOX96_19305!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!beta!subunit!(EC!1.17.4.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.90%
+Cluster 532080
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Cupin family protein	CAO96596
+fig|54291.261.peg.1368|GOX96_00115!!!Cupin!2,!conserved!barrel!domain!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.07%
+Cluster 638084
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	Carboxymuconolactone decarboxylase	ACS63360
+fig|54291.261.peg.1327|GOX96_21775!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.41%
+Cluster 629692
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative cytoplasmic protein	AAX66811
+fig|54291.261.peg.4363|GOX96_10310!!!Uncharacterized!protein!YqcC!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.06%
+Cluster 501227
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	RpoE	ADD76771
+fig|54291.261.peg.193|GOX96_16315!!!RNA!polymerase!sigma-54!factor!RpoN!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.13%
+Cluster 517859
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	lactoylglutathione lyase	ACP05284
+fig|54291.261.peg.2052|GOX96_03320!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.15%
+Cluster 409368
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	response regulator receiver and unknown domain protein	ACQ94150
+fig|54291.261.peg.1959|GOX96_02880!!!Fumarate!respiration!two-component!response!regulator!DcuR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.85%
+fig|54291.261.peg.3928|GOX96_08265!!!Fumarate!respiration!two-component!response!regulator!DcuR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.92%
+Cluster 156930
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	2-dehydro-3-deoxygluconokinase	ABE09487
+fig|54291.261.peg.4926|GOX96_12945!!!2-dehydro-3-deoxygluconokinase!(EC!2.7.1.45)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	86.08%
+Cluster 503114
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	probable glutathione peroxidase	CAY74455
+fig|54291.261.peg.482|GOX96_17680!!!Glutathione!peroxidase!(EC!1.11.1.9)!@!Thioredoxin!peroxidase!(EC!1.11.1.15)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.31%
+Cluster 552793
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82118
+fig|54291.261.peg.3358|GOX96_25145!!!Translation!elongation!factor!Tu!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.37%
+fig|54291.261.peg.3462|GOX96_25655!!!Translation!elongation!factor!Tu!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.37%
+Cluster 401180
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH61398
+fig|54291.261.peg.2337|GOX96_22970!!!Transcriptional!regulator,!RpiR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.81%
+Cluster 335592
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF06037
+fig|54291.261.peg.1341|GOX96_21845!!!Unsaturated!fatty!acid!biosythesis!repressor!FabR,!TetR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	95.26%
+Cluster 399494
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	YheO domain protein	ACS84207
+fig|54291.261.peg.4751|GOX96_12115!!!YheO-like!PAS!domain!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.33%
+Cluster 437770
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	putative DNA-binding transcriptional regulator (Lrp-like)	CAR01791
+fig|54291.261.peg.3102|GOX96_05425!!!DNA-binding!transcriptional!activator!DecR,!AsnC!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.82%
+Cluster 295988
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14038
+fig|54291.261.peg.2967|GOX96_04790!!!Transcriptional!regulator,!LysR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.44%
+Cluster 202396
+13474	CP000115	Nitrobacter winogradskyi Nb-255, complete genome.	No	Alphaproteobacteria	chorismate synthase	ABA03896
+fig|54291.261.peg.896|GOX96_19720!!!Chorismate!synthase!(EC!4.2.3.5)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.71%
+Cluster 357300
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	bacitracin resistance protein	BAE73532
+fig|54291.261.peg.4572|GOX96_11305!!!Undecaprenyl-diphosphatase!(EC!3.6.1.27)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.46%
+Cluster 544402
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	acetyltransferase, GNAT family	ACI10133
+fig|54291.261.peg.2169|GOX96_22145!!!Acetyltransferase,!GNAT!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.15%
+Cluster 782817
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76666
+fig|54291.261.peg.1934!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.33%
+Cluster 98242
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	arginine succinyltransferase	AAX65233
+fig|54291.261.peg.5271|GOX96_14625!!!Arginine!N-succinyltransferase!(EC!2.3.1.109)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.77%
+Cluster 492105
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	NUDIX hydrolase	ACX87994
+fig|54291.261.peg.3977|GOX96_08500!!!Uncharacterized!Nudix!hydrolase!NudL!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.54%
+Cluster 718358
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65442
+fig|54291.261.peg.2282|GOX96_22700!!!Uncharacterized!protein!YhdT!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.75%
+Cluster 401705
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH76545
+fig|54291.261.peg.2940|GOX96_04660!!!Putative!response!regulator!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	76.21%
+Cluster 618080
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative Trp operon repressor	AAS63878
+fig|54291.261.peg.3652|GOX96_06960!!!Transcriptional!repressor!protein!TrpR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	74.07%
+Cluster 273695
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative FNT family, formate transporter (formate channel 1)	AAX64834
+fig|54291.261.peg.18|GOX96_15445!!!Formate!efflux!transporter!FocA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	94.39%
+Cluster 281439
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	tRNA pseudouridine synthase B	BAJ03258
+fig|54291.261.peg.4463|GOX96_10805!!!tRNA!pseudouridine(55)!synthase!(EC!5.4.99.25)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.01%
+Cluster 649577
+15763	CP000453	Alkalilimnicola ehrlichii MLHE-1, complete genome.	No	Gammaproteobacteria	SSU ribosomal protein S16P	ABI56238
+fig|54291.261.peg.1235|GOX96_21325!!!SSU!ribosomal!protein!S16p!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.41%
+Cluster 301372
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S2	ABE05693
+fig|54291.261.peg.3847|GOX96_07900!!!SSU!ribosomal!protein!S2p!(SAe)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	97.10%
+Cluster 233862
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	putative racemase	CAR14333
+fig|54291.261.peg.4293|GOX96_09990!!!Aspartate!racemase!(EC!5.1.1.13)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	79.13%
+Cluster 365243
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF03600
+fig|54291.261.peg.3969|GOX96_08460!!!Putative!manganese!efflux!pump!MntP!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.64%
+Cluster 122210
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	NAD(P) transhydrogenase, beta subunit	BAJ01669
+fig|54291.261.peg.1986|GOX96_03010!!!NAD(P)!transhydrogenase!subunit!beta!(EC!1.6.1.2)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.29%
+Cluster 621055
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	putative acylphosphatase	ABE06520
+fig|54291.261.peg.76|GOX96_15730!!!Acylphosphate!phosphohydrolase!(EC!3.6.1.7)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.52%
+Cluster 3629
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	ATP-dependent helicase	CAV18959
+fig|54291.261.peg.1444|GOX96_00475!!!ATP-dependent!helicase!HrpA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.95%
+Cluster 444387
+19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Yes	Gammaproteobacteria	YfaZ superfamily	ACF90243
+fig|54291.261.peg.823|GOX96_19365!!!Uncharacterized!outer!membrane!protein!YfaZ!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.33%
+Cluster 401804
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	inositol monophosphatase family protein	BAE73625
+fig|54291.261.peg.2448|GOX96_23505!!!3'(2'),5'-bisphosphate!nucleotidase!(EC!3.1.3.7)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.47%
+Cluster 330909
+20063	CP001138	Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.	Yes	Gammaproteobacteria	DNA-binding prophage protein	ACH51693
+fig|54291.261.peg.4675!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.87%
+Cluster 491585
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	putative flavodoxin	CAX56833
+fig|54291.261.peg.1366|GOX96_00105!!!Flavodoxin!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.53%
+Cluster 641939
+19469	CP000971	Escherichia coli SMS-3-5 plasmid pSMS3	No	Gammaproteobacteria	30, complete sequence.	ACB20307
+fig|54291.261.peg.3493|GOX96_25795!!!Programmed!cell!death!toxin!PemK!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	96.36%
+Cluster 507125
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	Resolvase domain protein	ACS86818
+fig|54291.261.peg.1847|GOX96_02370!!!Phage!DNA!invertase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.44%
+Cluster 371030
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	ABC transporter related	ACB24247
+fig|54291.261.peg.1670|GOX96_01555!!!gamma-aminobutyric!acid!ABC!transporter,!ATP-binding!protein!2!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.18%
+Cluster 629969
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU75940
+fig|54291.261.peg.1248|GOX96_21390!!!Ribosome-associated!inhibitor!A!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	90.99%
+Cluster 68368
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	gamma-glutamyltranspeptidase	CBJ47953
+fig|54291.261.peg.4827|GOX96_12485!!!Gamma-glutamyltranspeptidase!(EC!2.3.2.2)!@!Glutathione!hydrolase!(EC!3.4.19.13)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.17%
+Cluster 556921
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	transcriptional repressor NsrR	ACF64326
+fig|54291.261.peg.2484|GOX96_23680!!!Nitrite-sensitive!transcriptional!repressor!NsrR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	92.20%
+Cluster 707990
+42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ADD55311
+fig|54291.261.peg.5390|GOX96_15160!!!Phage!holin/antiholin!component!S!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	87.32%
+Cluster 684128
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881
+fig|54291.261.peg.489|GOX96_17715!!!Integration!host!factor!alpha!subunit!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	94.95%
+Cluster 641819
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13189
+fig|54291.261.peg.4197|GOX96_09550!!!Suppression!of!copper!sensitivity:!putative!copper!binding!protein!ScsA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.07%
+Cluster 274631
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE75288
+fig|54291.261.peg.4176|GOX96_09445!!!Protein!involved!in!stability!of!MscS!mechanosensitive!channel!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.70%
+Cluster 482241
+9635	CP000089	Dechloromonas aromatica RCB, complete genome.	No	Betaproteobacteria	Phenylacetic acid degradation protein PaaY	AAZ45144
+fig|54291.261.peg.1440|GOX96_00455!!!Phenylacetic!acid!degradation!protein!PaaY!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.11%
+Cluster 630154
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative monothiol glutaredoxin ydhD	CBJ81617
+fig|54291.261.peg.2054|GOX96_03330!!!Monothiol!glutaredoxin!GrxD!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	82.61%
+Cluster 355968
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative aromatic ring-opening dioxygenase	CBJ47665
+fig|54291.261.peg.4584|GOX96_11355!!!4,5-DOPA!dioxygenase!extradiol!(EC!1.13.11.29),!but!not!physiological!substrate!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.58%
+Cluster 336008
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative sugar ABC transporter ATP-binding protein	BAG17055
+fig|54291.261.peg.4706|GOX96_11890!!!Various!polyols!ABC!transporter,!ATP-binding!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.07%
+Cluster 709879
+19469	CP000971	Escherichia coli SMS-3-5 plasmid pSMS3	No	Gammaproteobacteria	30, complete sequence.	ACB20363
+fig|54291.261.peg.3494|GOX96_25800!!!Programmed!cell!death!antitoxin!PemI!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	96.47%
+Cluster 353623
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	short-chain dehydrogenase/reductase SDR	ACS86494
+fig|54291.261.peg.2554|GOX96_24000!!!Dehydrogenases!with!different!specificities!(related!to!short-chain!alcohol!dehydrogenases)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	87.68%
+Cluster 260158
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	malate dehydrogenase	ABE09111
+fig|54291.261.peg.2259|GOX96_22585!!!Malate!dehydrogenase!(EC!1.1.1.37)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	93.91%
+Cluster 297970
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	putative iron transport protein, ATP-binding component	ACP26838
+fig|54291.261.peg.4415|GOX96_10555!!!Manganese!ABC!transporter,!ATP-binding!protein!SitB!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.86%
+Cluster 307048
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	acetylesterase	ACI07471
+fig|54291.261.peg.4020|GOX96_08710!!!Twin-arginine!translocation!pathway!signal!sequence!domain!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.73%
+Cluster 541713
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15089
+fig|54291.261.peg.1169|GOX96_21005!!!L-alanine!exporter!AlaE!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.22%
+Cluster 112569
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	putative enzyme	ABF05182
+fig|54291.261.peg.4522|GOX96_11080!!!23S!rRNA!(guanine(1835)-N(2))-methyltransferase!(EC!2.1.1.174)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	89.68%
+Cluster 662778
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	cytochrome O ubiquinol oxidase subunit CyoD	AAS61029
+fig|54291.261.peg.3123|GOX96_05520!!!Cytochrome!O!ubiquinol!oxidase!subunit!IV!(EC!1.10.3.-)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.72%
+Cluster 676503
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Putative sugar fermentation stimulation protein B	CAO95456
+fig|54291.261.peg.2649|GOX96_24460!!!Ner-like!regulatory!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.53%
+Cluster 35586
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	methionyl-tRNA synthetase	ACP05309
+fig|54291.261.peg.949|GOX96_19985!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.94%
+Cluster 715382
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04136
+fig|54291.261.peg.4997|GOX96_13285!!!DsrB!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.48%
+Cluster 46156
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	Beta-galactosidase	ACX88391
+fig|54291.261.peg.2444|GOX96_23485!!!beta-galactosidase!(EC!3.2.1.23)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.33%
+Cluster 724573
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACZ77396
+fig|54291.261.peg.3010|GOX96_04980!!!Uncharacterized!protein,!YnaE!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.12%
+Cluster 103279
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24102
+fig|54291.261.peg.2214|GOX96_22360!!!Octaprenyl!diphosphate!synthase!(EC!2.5.1.90)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	92.88%
+Cluster 476485
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	ferritin	AAS61843
+fig|54291.261.peg.3893|GOX96_08095!!!Bacterial!non-heme!ferritin!(EC!1.16.3.2)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.06%
+Cluster 757748
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	ribosomal protein L36	ABQ76678
+fig|54291.261.peg.3436|GOX96_25525!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	86.84%
+Cluster 365588
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	UgpQ	ADD78878
+fig|54291.261.peg.4829|GOX96_12495!!!Glycerophosphoryl!diester!phosphodiesterase!(EC!3.1.4.46)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.14%
+Cluster 646605
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Putative dihydroneopterin aldolase	CAX54182
+fig|54291.261.peg.4571|GOX96_11300!!!Dihydroneopterin!aldolase!(EC!4.1.2.25)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.63%
+Cluster 216470
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	porphobilinogen deaminase	AAS63365
+fig|54291.261.peg.2558|GOX96_24025!!!Porphobilinogen!deaminase!(EC!2.5.1.61)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	76.73%
+Cluster 598874
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	acid shock protein	CBJ46480
+fig|54291.261.peg.2073|GOX96_03405!!!Acid!shock!protein!precursor!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.00%
+Cluster 449985
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	putative transcriptional repressor	ABE07040
+fig|54291.261.peg.685|GOX96_18695!!!Transcriptional!regulator,!AcrR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.14%
+Cluster 555166
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	putative acetyltransferase, GNAT family	CAK15068
+fig|54291.261.peg.2060|GOX96_03345!!!Acetyltransferase,!GNAT!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.01%
+Cluster 612524
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	putative 6-pyruvoyl tetrahydrobiopterin synthase	CAV18990
+fig|54291.261.peg.4383|GOX96_10400!!!6-carboxy-5,6,7,8-tetrahydropterin!synthase!(EC!4.1.2.50)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.83%
+Cluster 673932
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative outer membrane protein N precursor	BAH64158
+fig|54291.261.peg.5006|GOX96_13330!!!Inner!membrane!protein!YedR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.67%
+Cluster 138705
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU77621
+fig|54291.261.peg.909!!!Type!VI!secretion-related!protein!VasL!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.55%
+Cluster 6960
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	FtsK	ADD76508
+fig|54291.261.peg.1|GOX96_15365!!!DNA!translocase!FtsK!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.21%
+Cluster 49430
+20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	No	Gammaproteobacteria	CP4-6 prophage; predicted dehydratase	ACB01436
+fig|54291.261.peg.2293|GOX96_22760!!!Uncharacterized!dehydratase!YagF!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	93.13%
+Cluster 58566
+13954	CP000125	Burkholderia pseudomallei 1710b chromosome II, complete sequence.	Yes	Betaproteobacteria	ubiquinol oxidase family protein	ABA51670
+fig|54291.261.peg.1505|GOX96_00765!!!Cytochrome!d!ubiquinol!oxidase!subunit!I!(EC!1.10.3.-)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.67%
+Cluster 521187
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	transposase B	ACR68137
+fig|54291.261.peg.296|GOX96_16790!!!Mobile!element!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.73%
+Cluster 340978
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	amino acid ABC transporter, periplasmic amino acid-binding protein	ACI10773
+fig|54291.261.peg.2900|GOX96_04460!!!ABC!transporter,!substrate-binding!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	95.76%
+Cluster 493610
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YtfH	ADD78438
+fig|54291.261.peg.1683|GOX96_01620!!!Transcriptional!regulator,!HxlR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	76.82%
+Cluster 324150
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	phosphoglycerate mutase	ABE42842
+fig|54291.261.peg.175|GOX96_16225!!!Phosphoglycerate!mutase!(EC!5.4.2.11)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.00%
+Cluster 196423
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	nucleotide sugar dehydrogenase	ACQ94435
+fig|54291.261.peg.5196|GOX96_14260!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	76.29%
+Cluster 495869
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	transcription termination/antitermination factor NusG	AAZ25723
+fig|54291.261.peg.3360|GOX96_25155!!!Transcription!antitermination!protein!NusG!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.27%
+Cluster 396417
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15009
+fig|54291.261.peg.1231|GOX96_21305!!!Heat!shock!protein!GrpE!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	93.37%
+Cluster 370205
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	ribonuclease III	AAZ27454
+fig|54291.261.peg.541|GOX96_17970!!!Ribonuclease!III!(EC!3.1.26.3)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.83%
+Cluster 387786
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	ubiquinone biosynthesis methyltransferase	CAK17706
+fig|54291.261.peg.2583|GOX96_24155!!!2-methoxy-6-polyprenyl-1,4-benzoquinol!methylase!(EC!2.1.1.201)!@!Demethylmenaquinone!methyltransferase!(EC!2.1.1.163)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.13%
+Cluster 717945
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative cytoplasmic protein	AAX64486
+fig|54291.261.peg.3027|GOX96_05045!!!Uncharacterized!S4!RNA-binding-domain!protein!YbcJ!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	94.29%
+Cluster 64677
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI06935
+fig|54291.261.peg.3236|GOX96_06065!!!Putative!PQQ!enzyme!repeat!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	90.92%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|54291.261.peg.3447|GOX96_25580!!!LSU!ribosomal!protein!L14p!(L23e)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	74.80%
+Cluster 434120
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	SeqA family protein	BAH62406
+fig|54291.261.peg.2769|GOX96_03770!!!SeqA!protein,!negative!modulator!of!initiation!of!replication!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	90.11%
+Cluster 446474
+28711	CP001804	Haliangium ochraceum DSM 14365, complete genome.	No	Deltaproteobacteria	ribosomal protein L5	ACY16492
+fig|54291.261.peg.3445|GOX96_25570!!!LSU!ribosomal!protein!L5p!(L11e)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.45%
+Cluster 162190
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	phage portal protein, HK97 family	ACI10369
+fig|54291.261.peg.5378|GOX96_15105!!!Phage!portal!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	99.28%
+Cluster 600139
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACZ76921
+fig|54291.261.peg.1662|GOX96_01510!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.96%
+Cluster 282478
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative dienelactone hydrolase	BAH61095
+fig|54291.261.peg.2580|GOX96_24140!!!Dienelactone!hydrolase!family!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	91.48%
+Cluster 769942
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	KdpF	ADD78958
+fig|54291.261.peg.2762|GOX96_03735!!!Protein!KdpF!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.41%
+Cluster 404057
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE74144
+fig|54291.261.peg.2758|GOX96_03715!!!GTP!cyclohydrolase!1!type!2!homolog!YbgI!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.28%
+Cluster 347475
+28245	CP000922	Anoxybacillus flavithermus WK1, complete genome.	No	Bacillales	Sirohydrochlorin cobaltochelatase (CbiXL)	ACJ34538
+fig|54291.261.peg.5178|GOX96_14170!!!his!operon!leader!peptide!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.50%
+Cluster 757664
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	protein of unknown function UPF0057	ACX88726
+fig|54291.261.peg.2652|GOX96_24470!!!UPF0057!membrane!protein!YqaE!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.46%
+Cluster 148765
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	queuine/archaeosine tRNA-ribosyltransferase	BAC93510
+fig|54291.261.peg.3157|GOX96_05690!!!Queuine!tRNA-ribosyltransferase!(EC!2.4.2.29)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.80%
+Cluster 229140
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACX88793
+fig|54291.261.peg.2850|GOX96_04215!!!5-methylthioribose!ABC!transporter,!substrate-binding!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.90%
+Cluster 286557
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	diadenosine tetraphosphatase	ABF06143
+fig|54291.261.peg.2143|GOX96_22030!!!NMN!phosphatase!(EC!3.1.3.5);!Class!B!acid!phosphatase!precursor!(EC!3.1.3.2)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.54%
+Cluster 711939
+16426	CP000362	Roseobacter denitrificans OCh 114, complete genome.	No	Alphaproteobacteria	ribosomal protein L33-related protein	ABG31601
+fig|54291.261.peg.738|GOX96_18950!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.45%
+Cluster 706335
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YfaE	ADD77785
+fig|54291.261.peg.812|GOX96_19310!!!YfaE:!ferredoxin!involved!with!ribonucleotide!reductase!diferric-tyrosyl!radical!(Y*)!cofactor!maintenance!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.10%
+Cluster 492243
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	transposon Tn3 resolvase	AAX87127
+fig|54291.261.peg.3516|GOX96_25895!!!Phage!integrase,!site-specific!serine!recombinase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	100.00%
+Cluster 642063
+28329	CP000934	Cellvibrio japonicus Ueda107, complete genome.	No	Gammaproteobacteria	himD/ihfB	ACE85853
+fig|54291.261.peg.25|GOX96_15480!!!Integration!host!factor!beta!subunit!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.53%
+Cluster 539052
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABE05645
+fig|54291.261.peg.3789|GOX96_07625!!!Predicted!chaperone!lipoprotein!YacC,!potentially!involved!in!protein!secretion!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	87.39%
+Cluster 44395
+28471	CP000966	Klebsiella pneumoniae 342 plasmid pKP91, complete sequence.	No	Gammaproteobacteria	fusaric acid resistance domain protein	ACI12211
+fig|54291.261.peg.1361|GOX96_00080!!!Tetrapartite!efflux!system,!inner!membrane!component!FusBC-like!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.90%
+Cluster 651509
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU77417
+fig|54291.261.peg.5299|GOX96_14740!!!Uncharacterized!protein!YeaC!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.17%
+Cluster 299099
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14536
+fig|54291.261.peg.3572|GOX96_06560!!!Transcriptional!regulator,!LysR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	91.88%
+Cluster 144835
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|54291.261.peg.4187|GOX96_09500!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.83%
+Cluster 208960
+40647	FN554766	Escherichia coli 042 complete genome.	Yes	Gammaproteobacteria	putative zinc-binding dehydrogenase	CBG34403
+fig|54291.261.peg.1535|GOX96_00905!!!Putative!oxidoreductase!YncB!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.97%
+Cluster 474460
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YdaL	ADD77158
+fig|54291.261.peg.1975|GOX96_02960!!!Probable!DNA!endonuclease!SmrA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.96%
+Cluster 580467
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	PEP-dependent phosphotransferase enzyme III	ABF03671
+fig|54291.261.peg.5261|GOX96_14575!!!PTS!system,!N,N'-diacetylchitobiose-specific!IIA!component!(EC!2.7.1.196)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.74%
+Cluster 462764
+20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Yes	Gammaproteobacteria	ribulose-phosphate 3-epimerase	ACF66146
+fig|54291.261.peg.5069|GOX96_13650!!!Ribulose-phosphate!3-epimerase!(EC!5.1.3.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	82.71%
+Cluster 394681
+13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Yes	Gammaproteobacteria	probable bacteriophage integrase	AAV78468
+fig|54291.261.peg.294|GOX96_16785!!!Phage!integrase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.33%
+Cluster 164375
+20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Yes	Gammaproteobacteria	PTS system, galactitol-specific IIC component	ACF67567
+fig|54291.261.peg.5070|GOX96_13655!!!PTS!system,!galactitol-specific!IIC!component!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	92.09%
+Cluster 689689
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	IS1400 transposase A	CAL11218
+fig|54291.261.peg.2639!!!Transposase,!IS3/IS911!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.11%
+Cluster 549571
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable d-tyr-trnatyr deacylase protein	CAD14025
+fig|54291.261.peg.1272|GOX96_21510!!!D-aminoacyl-tRNA!deacylase!(EC!3.1.1.96)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.76%
+Cluster 408003
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12456
+fig|54291.261.peg.514|GOX96_17835!!!UPF0056!inner!membrane!protein!YchE!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	89.77%
+Cluster 95818
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13923
+fig|54291.261.peg.3212|GOX96_05955!!!Two-component!system!sensor!histidine!kinase!KOX_12275!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.69%
+Cluster 113538
+288	AE009952	Yersinia pestis KIM, complete genome.	Yes	Gammaproteobacteria	maltose high-affinity receptor	AAM83627
+fig|54291.261.peg.2162|GOX96_22115!!!Maltoporin!(maltose/maltodextrin!high-affinity!receptor,!phage!lambda!receptor!protein)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	74.08%
+Cluster 689575
+241	AE006468	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.	Yes	Gammaproteobacteria	ssrB-regulated factor	AAL21133
+fig|54291.261.peg.1836|GOX96_02320!!!Virulence!protein!msgA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.50%
+Cluster 505021
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82119
+fig|54291.261.peg.4744|GOX96_12080!!!Translation!elongation!factor!Tu!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	79.78%
+fig|54291.261.peg.3527!!!Translation!elongation!factor!Tu!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	97.30%
+Cluster 249257
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	putative aldo/keto reductase; oxidoreductase protein	CAD13745
+fig|54291.261.peg.1350|GOX96_00025!!!Oxidoreductase,!aldo/keto!reductase!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.79%
+Cluster 675145
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15036
+fig|54291.261.peg.2608|GOX96_24285!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.74%
+Cluster 550032
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	4-hydroxyphenylacetate degradative operon repressor	CAR16087
+fig|54291.261.peg.3595|GOX96_06675!!!Homoprotocatechuate!degradative!operon!repressor!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.46%
+Cluster 723049
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	phage shock protein	ABF03525
+fig|54291.261.peg.2525|GOX96_23870!!!Phage!shock!protein!D!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.33%
+Cluster 330880
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	binding-protein-dependent transport systems inner membrane component	ACZ75570
+fig|54291.261.peg.2603|GOX96_24255!!!N-Acetyl-D-glucosamine!ABC!transport!system,!permease!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	87.93%
+Cluster 713960
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893
+fig|54291.261.peg.3072|GOX96_05270!!!Haemolysin!expression!modulating!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	97.22%
+Cluster 157605
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	putative DHA1 family MFS transporter	CAY75676
+fig|54291.261.peg.1955|GOX96_02860!!!Multidrug!resistance!transporter,!Bcr/CflA!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.00%
+Cluster 720314
+13649	AM039952	Xanthomonas campestris pv. vesicatoria complete genome.	No	Gammaproteobacteria	acyl carrier protein	CAJ22778
+fig|54291.261.peg.2401|GOX96_23275!!!Acyl!carrier!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.77%
+Cluster 238578
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	histidine-binding periplasmic protein of high-affinity histidine transport system	AAS62595
+fig|54291.261.peg.869|GOX96_19595!!!Histidine!ABC!transporter,!substrate-binding!protein!HisJ!(TC!3.A.1.3.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	72.31%
+fig|54291.261.peg.870|GOX96_19600!!!Lysine-arginine-ornithine-binding!ABC!transporter,!substrate-binding!protein!ArgT!(TC!3.A.1.3.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.77%
+Cluster 544636
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04433
+fig|54291.261.peg.824|GOX96_19370!!!Pyrimidine!deoxynucleoside!triphosphate!(dYTP)!pyrophosphohydrolase!NudI!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.82%
+Cluster 367844
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|54291.261.peg.5150|GOX96_14030!!!Electron!transfer!flavoprotein,!beta!subunit!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.25%
+Cluster 97935
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU77246
+fig|54291.261.peg.2034|GOX96_03230!!!Di-tripeptide/H+!symporter!DtpA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	90.82%
+Cluster 567203
+28471	CP000966	Klebsiella pneumoniae 342 plasmid pKP91, complete sequence.	No	Gammaproteobacteria	putative membrane protein	ACI12268
+fig|54291.261.peg.5052|GOX96_13570!!!Integral!membrane!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	89.17%
+Cluster 205429
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CatD	ADD78513
+fig|54291.261.peg.1968|GOX96_02925!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.52%
+Cluster 687158
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG13908
+fig|54291.261.peg.2379|GOX96_23175!!!Biofilm!regulator!BssS!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.10%
+Cluster 469687
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase / 5-ca...	CAH20876
+fig|54291.261.peg.3594|GOX96_06670!!!5-carboxymethyl-2-oxo-hex-3-!ene-1,7-dioate!decarboxylase!(EC!4.1.1.68)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.43%
+Cluster 552622
+33369	CU928144	Escherichia fergusonii str. ATCC 35469T plasmid pEFER, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAQ86955
+fig|54291.261.peg.4260|GOX96_09845!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.02%
+Cluster 576329
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	nickel responsive regulator	ACN47734
+fig|54291.261.peg.4899|GOX96_12820!!!Nickel!responsive!regulator!NikR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.19%
+Cluster 179354
+16	CP001157	Azotobacter vinelandii DJ, complete genome.	No	Gammaproteobacteria	multidrug/chloramphenicol efflux transporter, major facilitator superfamily MF	ACO78285
+fig|54291.261.peg.5134|GOX96_13955!!!Arabinose!efflux!permease!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.85%
+Cluster 243124
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	ATPase, AFG1 family	ACI08180
+fig|54291.261.peg.1626|GOX96_01335!!!ATPase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.98%
+Cluster 774535
+21	AE017282	Methylococcus capsulatus str. Bath, complete genome.	No	Gammaproteobacteria	cyd operon protein YbgT	AAU92604
+fig|54291.261.peg.2737|GOX96_03620!!!Cytochrome!d!ubiquinol!oxidase!subunit!X!(EC!1.10.3.-)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.16%
+Cluster 258694
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	endonuclease III	ABQ77294
+fig|54291.261.peg.2032|GOX96_03225!!!Endonuclease!III!(EC!4.2.99.18)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.25%
+Cluster 685624
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78044
+fig|54291.261.peg.3078|GOX96_05300!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-independent!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.91%
+Cluster 85566
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Thiamine ABC transport system, inner membrane component	CAY73135
+fig|54291.261.peg.3730|GOX96_07335!!!Thiamin!ABC!transporter,!transmembrane!component!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	74.07%
+Cluster 407638
+1421	CP000113	Myxococcus xanthus DK 1622, complete genome.	No	Deltaproteobacteria	conserved hypothetical protein	ABF86283
+fig|54291.261.peg.3090|GOX96_05360!!!Protein!of!unknown!function!DUF1428!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.09%
+Cluster 617285
+216	CP001037	Nostoc punctiforme PCC 73102, complete genome.	No	Nostocales	Cupin 2, conserved barrel domain protein	ACC79342
+fig|54291.261.peg.1544|GOX96_00950!!!Transcriptional!regulator!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.61%
+Cluster 520014
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	conserved uncharacterized protein, putative cytoplasmic protein	CAX54987
+fig|54291.261.peg.893|GOX96_19705!!!Translation!elongation!factor!P!Lys34!hydroxylase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.47%
+Cluster 529937
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	probable FKBX-type 16KD peptidyl-prolyl cis-trans isomerase	AAS63851
+fig|54291.261.peg.3681|GOX96_07105!!!FKBP-type!peptidyl-prolyl!cis-trans!isomerase!SlpA!(EC!5.2.1.8)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.77%
+Cluster 581919
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Acid-induced glycyl radical enzyme	AAS62707
+fig|54291.261.peg.531|GOX96_17920!!!Autonomous!glycyl!radical!cofactor!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.31%
+Cluster 746793
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	entericidin B	ABR79901
+fig|54291.261.peg.3400|GOX96_25345!!!Entericidin!B!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	87.50%
+Cluster 746792
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	putative entericidin A precursor	ACN48537
+fig|54291.261.peg.3401|GOX96_25350!!!Entericidin!A!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.12%
+Cluster 551905
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative membrane protein	CBJ48017
+fig|54291.261.peg.4616|GOX96_11500!!!putative!membrane!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	76.83%
+Cluster 584910
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAU97184
+fig|54291.261.peg.4170!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.00%
+Cluster 169855
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative cytochrome C biogenesis protein	CBJ47509
+fig|54291.261.peg.190|GOX96_16300!!!Cytochrome!c-type!biogenesis!protein!DsbD,!protein-disulfide!reductase!(EC!1.8.1.8)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.56%
+Cluster 525658
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	YfbU domain protein	ACF63247
+fig|54291.261.peg.851|GOX96_19505!!!UPF0304!protein!yfbU!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	91.46%
+Cluster 217347
+18743	CP001828	Legionella pneumophila 2300/99 Alcoy, complete genome.	Yes	Gammaproteobacteria	GTPase - translation elongation factor	ADG23624
+fig|54291.261.peg.3885!!!Translation!elongation!factor!Tu!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	82.80%
+Cluster 705150
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX21343
+fig|54291.261.peg.1807|GOX96_02195!!!Putative!selenium-binding!protein!YdfZ!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.66%
+fig|54291.261.peg.2011|GOX96_03125!!!Putative!selenium-binding!protein!YdfZ!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.19%
+Cluster 139226
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	GTP-binding proten HflX	ACR14113
+fig|54291.261.peg.2489|GOX96_23705!!!Ribosome!LSU-associated!GTP-binding!protein!HflX!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.50%
+Cluster 291797
+12636	XXX	Chromohalobacter salexigens DSM 3043	No	Gammaproteobacteria	XXX	
+fig|54291.261.peg.108|GOX96_15890!!!Uricase!(urate!oxidase)!(EC!1.7.3.3)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.90%
+Cluster 700295
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative plasmid protein	CAG74523
+fig|54291.261.peg.5108|GOX96_13845!!!IncQ!plasmid!conjugative!transfer!protein!TraG!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	82.42%
+Cluster 669854
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	DNA-binding transcriptional activator of maltose metabolism	CAQ90658
+fig|54291.261.peg.2215|GOX96_22365!!!Sugar!fermentation!stimulation!protein!B!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.11%
+Cluster 560488
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	Putative Bacterial microcompartments protein	CAQ89504
+fig|54291.261.peg.3546|GOX96_06430!!!Propanediol!utilization!polyhedral!body!protein!PduA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.64%
+Cluster 708969
+16721	CP000733	Coxiella burnetii Dugway 5J108-111, complete genome.	Yes	Gammaproteobacteria	SSU ribosomal protein S21P	ABS77864
+fig|54291.261.peg.4557|GOX96_11240!!!SSU!ribosomal!protein!S21p!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.56%
+Cluster 726317
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative inner membrane protein	AAX64850
+fig|54291.261.peg.30|GOX96_15505!!!FIG002473:!Protein!YcaR!in!KDO2-Lipid!A!biosynthesis!cluster!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.33%
+Cluster 501180
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Pal	ADD76355
+fig|54291.261.peg.2730|GOX96_03585!!!Tol-Pal!system!peptidoglycan-associated!lipoprotein!PAL!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.63%
+Cluster 84139
+16182	CP000573	Burkholderia pseudomallei 1106a chromosome II, complete sequence.	Yes	Betaproteobacteria	alcohol dehydrogenase, iron-containing	ABN94379
+fig|54291.261.peg.4604|GOX96_11455!!!NADPH-dependent!broad!range!aldehyde!dehydrogenase!YqhD!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.63%
+Cluster 412004
+13025	CP000116	Thiobacillus denitrificans ATCC 25259, complete genome.	No	Betaproteobacteria	Two component Heavy metal response Transcriptional regulator, Winged helix family	AAZ97702
+fig|54291.261.peg.3020|GOX96_05015!!!DNA-binding!heavy!metal!response!regulator!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.09%
+fig|54291.261.peg.2683|GOX96_24605!!!Copper-sensing!two-component!system!response!regulator!CusR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.08%
+Cluster 97020
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative sugar transporter	AAS62832
+fig|54291.261.peg.2243|GOX96_22505!!!Sialic!acid!transporter!(permease)!NanT!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.31%
+Cluster 200994
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	biotin synthase	CAL17668
+fig|54291.261.peg.204|GOX96_16370!!!Biotin!synthase!(EC!2.8.1.6)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.56%
+Cluster 363520
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	putative carbonic anhydrase	CAX54615
+fig|54291.261.peg.3793|GOX96_07645!!!Carbonic!anhydrase,!beta!class!(EC!4.2.1.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.45%
+Cluster 742989
+349	XXX	Vibrio vulnificus CMCP6	Yes	Gammaproteobacteria	XXX	
+fig|54291.261.peg.60|GOX96_15650!!!Ribosome!modulation!factor!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.64%
+Cluster 644544
+16304	CP000738	Sinorhizobium medicae WSM419, complete genome.	No	Alphaproteobacteria	conserved hypothetical protein	ABR59548
+fig|54291.261.peg.1682|GOX96_01615!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.50%
+Cluster 548900
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	NADH dehydrogenase I chain A	AAS62571
+fig|54291.261.peg.845|GOX96_19475!!!NADH!ubiquinone!oxidoreductase!chain!A!(EC!1.6.5.3)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.03%
+Cluster 346002
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	cyclase	AAW75515
+fig|54291.261.peg.5185|GOX96_14205!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.57%
+Cluster 704138
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	4-oxalocrotonate tautomerase	BAH63599
+fig|54291.261.peg.1557|GOX96_01010!!!Tautomerase!PptA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.00%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|54291.261.peg.462|GOX96_17600!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.22%
+Cluster 664489
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	cell division activator	BAH62960
+fig|54291.261.peg.5256|GOX96_14550!!!Cell!division!activator!CedA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.57%
+Cluster 143705
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|54291.261.peg.3926|GOX96_08255!!!Murein!DD-endopeptidase!MepM!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.84%
+Cluster 137645
+31137	AP011149	Acetobacter pasteurianus IFO 3283-26 DNA, complete genome.	No	Alphaproteobacteria	urea short-chain amide or branched-chain amino acid transporter periplasmic substrate-binding protein	BAI12640
+fig|54291.261.peg.1799|GOX96_02165!!!Urea!ABC!transporter,!substrate-binding!protein!UrtA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.78%
+Cluster 127142
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	major facilitator family transporter	AAY95865
+fig|54291.261.peg.1933|GOX96_02765!!!Uncharacterized!MFS-type!transporter!YnfM!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.58%
+Cluster 64005
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	N-acetylmuramoyl-L-alanine amidase	ABV39536
+fig|54291.261.peg.2494|GOX96_23725!!!N-acetylmuramoyl-L-alanine!amidase!(EC!3.5.1.28)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.64%
+Cluster 43340
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ACC70650
+fig|54291.261.peg.3781|GOX96_07585!!!Dihydrolipoamide!dehydrogenase!of!pyruvate!dehydrogenase!complex!(EC!1.8.1.4)!@!Dihydrolipoamide!dehydrogenase!(EC!1.8.1.4)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.09%
+Cluster 312941
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11976
+fig|54291.261.peg.1685|GOX96_01630!!!Transcriptional!regulator,!LysR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.61%
+Cluster 217109
+33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Yes	Gammaproteobacteria	quinone oxidoreductase, NADPH-dependent	CAR20577
+fig|54291.261.peg.2148|GOX96_22050!!!Quinone!oxidoreductase!(EC!1.6.5.5)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	86.85%
+Cluster 325127
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	sugar fermentation stimulation protein	ACA69734
+fig|54291.261.peg.3808|GOX96_07715!!!Sugar!fermentation!stimulation!protein!SfsA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.03%
+Cluster 702345
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YjbJ	ADD75425
+fig|54291.261.peg.2153|GOX96_22075!!!UPF0337!protein!YjbJ!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.26%
+Cluster 560172
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Cysteine desulfuration protein sufE	CAY74434
+fig|54291.261.peg.458|GOX96_17580!!!Sulfur!acceptor!protein!=>!iron-sulfur!cluster!assembly!SufE!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.12%
+Cluster 682521
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative regulator	AAS61388
+fig|54291.261.peg.4672|GOX96_11740!!!Transcriptional!regulator!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.61%
+Cluster 651012
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	tryptophan-specific transport protein	BAH61624
+fig|54291.261.peg.3630|GOX96_06840!!!Putative!inner!membrane!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.35%
+Cluster 702342
+31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	No	Gammaproteobacteria	30S ribosomal protein S17	ACX95195
+fig|54291.261.peg.3448|GOX96_25585!!!SSU!ribosomal!protein!S17p!(S11e)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.67%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|54291.261.peg.339|GOX96_17000!!!Translation!initiation!factor!1!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.67%
+Cluster 343653
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	ribosomal protein L1	ACG65011
+fig|54291.261.peg.3362|GOX96_25165!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	79.49%
+Cluster 716579
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI11576
+fig|54291.261.peg.4242|GOX96_09760!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.31%
+Cluster 12475
+17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	No	Lactobacillales	putative glucan modifying protein	ABX26451
+fig|54291.261.peg.492|GOX96_17730!!!Phenylalanyl--tRNA!ligase!operon!leader!peptide!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.57%
+Cluster 659920
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76309
+fig|54291.261.peg.5367|GOX96_15050!!!Phage!tail!tip,!assembly!protein!M!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.71%
+Cluster 587242
+29065	CP001085	Candidatus Riesia pediculicola USDA, complete genome.	No	Gammaproteobacteria	ribosomal protein S11	ADD79935
+fig|54291.261.peg.3434|GOX96_25515!!!SSU!ribosomal!protein!S11p!(S14e)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.29%
+Cluster 300855
+386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Yes	Gammaproteobacteria	putative transcriptional regulator	ABJ13452
+fig|54291.261.peg.5062|GOX96_13615!!!Transcriptional!regulator,!LysR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.61%
+Cluster 661199
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78094
+fig|54291.261.peg.3117|GOX96_05490!!!Cell!division!protein!BolA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.76%
+Cluster 726414
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR77591
+fig|54291.261.peg.478|GOX96_17660!!!Hemin!uptake!protein!HemP/HmuP!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.71%
+Cluster 664755
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YiiL	ADD77602
+fig|54291.261.peg.1296|GOX96_21620!!!L-rhamnose!mutarotase!(EC!5.1.3.32)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.15%
+Cluster 269876
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	AraH	ADD76994
+fig|54291.261.peg.3903|GOX96_08140!!!L-arabinose!ABC!transporter,!permease!protein!AraH!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.36%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|54291.261.peg.3361|GOX96_25160!!!LSU!ribosomal!protein!L11p!(L12e)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.27%
+Cluster 111457
+27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Yes	Gammaproteobacteria	amino acid-polyamine-organocation (APC) permease family protein	ACI39648
+fig|54291.261.peg.3407|GOX96_25380!!!L-methionine!and!branched-chain!amino!acid!export!protein!YjeH!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	79.76%
+Cluster 130070
+13953	CP000571	Burkholderia pseudomallei 668 chromosome II, complete sequence.	Yes	Betaproteobacteria	alpha/beta hydrolase family protein	ABN87571
+fig|54291.261.peg.1646|GOX96_01430!!!Epoxide!hydrolase!(EC!3.3.2.9)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.00%
+Cluster 56799
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20165
+fig|54291.261.peg.2611!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.65%
+fig|54291.261.peg.2612|GOX96_24300!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	86.25%
+Cluster 662737
+15713	CR954246	Pseudoalteromonas haloplanktis str. TAC125 chromosome I, complete sequence.	No	Gammaproteobacteria	urease beta subunit (Urea amidohydrolase)	CAI86830
+fig|54291.261.peg.4566|GOX96_11275!!!Urease!beta!subunit!(EC!3.5.1.5)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.15%
+Cluster 516018
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|54291.261.peg.1743|GOX96_01895!!!Glutathione!peroxidase!(EC!1.11.1.9)!@!Thioredoxin!peroxidase!(EC!1.11.1.15)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.50%
+Cluster 453585
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE05950
+fig|54291.261.peg.3135|GOX96_05580!!!UPF0234!protein!Yitk!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.96%
+Cluster 527178
+29177	CP001339	Thioalkalivibrio sp. HL-EbGR7, complete genome.	No	Gammaproteobacteria	peptide deformylase	ACL71294
+fig|54291.261.peg.3423|GOX96_25460!!!Peptide!deformylase!(EC!3.5.1.88)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.31%
+Cluster 233056
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative isomerase	ABR76217
+fig|54291.261.peg.187|GOX96_16285!!!6-phosphogluconolactonase!(EC!3.1.1.31)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	91.24%
+Cluster 698850
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76584
+fig|54291.261.peg.3897|GOX96_08115!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.13%
+Cluster 348679
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69942
+fig|54291.261.peg.736|GOX96_18940!!!UPF0758!protein!YicR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.57%
+Cluster 513510
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX65938
+fig|54291.261.peg.646|GOX96_18475!!!Acetyltransferase!YpeA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	92.91%
+Cluster 211607
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	Zinc-containing alcohol dehydrogenase superfamily	AAY37470
+fig|54291.261.peg.699|GOX96_18765!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.05%
+Cluster 595794
+29431	CP001968	Denitrovibrio acetiphilus DSM 12809, complete genome.	No	Deferribacterales	RbsD or FucU transport	ADD68874
+fig|54291.261.peg.4338|GOX96_10200!!!L-fucose!mutarotase!(EC!5.1.3.29)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.71%
+Cluster 740966
+32513	AP010962	Escherichia coli O111:H- str. 11128 plasmid pO11	Yes	Gammaproteobacteria	DNA, complete sequence.	BAI39288
+fig|54291.261.peg.1898|GOX96_02600!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.27%
+Cluster 371401
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76401
+fig|54291.261.peg.938|GOX96_19930!!!Hydroxyethylthiazole!kinase!(EC!2.7.1.50)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.89%
+Cluster 503148
+312	AE013218	Buchnera aphidicola str. Sg (Schizaphis graminum), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L6	AAM68033
+fig|54291.261.peg.3442|GOX96_25555!!!LSU!ribosomal!protein!L6p!(L9e)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.45%
+Cluster 666509
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAV02134
+fig|54291.261.peg.2855|GOX96_04240!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.77%
+fig|54291.261.peg.3582|GOX96_06610!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	91.04%
+Cluster 241776
+33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Yes	Gammaproteobacteria	putative Antirestriction protein ardC	CAR08463
+fig|54291.261.peg.5120|GOX96_13900!!!Antirestriction!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.08%
+Cluster 356342
+33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Yes	Gammaproteobacteria	putative Transcriptional regulator	CAR11105
+fig|54291.261.peg.4377|GOX96_10375!!!Transcriptional!regulator,!RpiR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	90.15%
+Cluster 97407
+13918	CP000459	Burkholderia cenocepacia HI2424 chromosome 2, complete sequence.	Yes	Betaproteobacteria	drug resistance transporter, EmrB/QacA subfamily	ABK11400
+fig|54291.261.peg.688|GOX96_18710!!!Uncharacterized!MFS-type!transporter!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.39%
+Cluster 343173
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	GarL	ADD78250
+fig|54291.261.peg.4497|GOX96_10965!!!2-dehydro-3-deoxyglucarate!aldolase!(EC!4.1.2.20)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.00%
+Cluster 419223
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	FabA	ABJ00363
+fig|54291.261.peg.61|GOX96_15655!!!3-hydroxyacyl-[acyl-carrier-protein]!dehydratase,!FabA!form!(EC!4.2.1.59)!@!Trans-2-decenoyl-[acyl-carrier-protein]!isomerase!(EC!5.3.3.14)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	97.67%
+Cluster 477734
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR75674
+fig|54291.261.peg.3878|GOX96_08055!!!D-glycero-beta-D-manno-heptose-1,7-bisphosphate!7-phosphatase!(EC!3.1.3.82)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	90.96%
+Cluster 150871
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF444	ACT07063
+fig|54291.261.peg.5308|GOX96_14780!!!UPF0229!protein!YeaH!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.84%
+Cluster 261679
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	XylF	ADD75207
+fig|54291.261.peg.803|GOX96_19270!!!D-xylose!ABC!transporter,!substrate-binding!protein!XylF!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.55%
+Cluster 329392
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	nitrate ABC transporter,  ATPase subunits C and D	ABM58337
+fig|54291.261.peg.4157|GOX96_09350!!!Nitrate!ABC!transporter,!ATP-binding!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.98%
+Cluster 638174
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|54291.261.peg.2157|GOX96_22090!!!Diacylglycerol!kinase!(EC!2.7.1.107)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.57%
+Cluster 267702
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11918
+fig|54291.261.peg.5179|GOX96_14175!!!ATP!phosphoribosyltransferase!(EC!2.4.2.17)!=>!HisGl!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	93.98%
+Cluster 44000
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|54291.261.peg.2778|GOX96_03815!!!PTS!system,!N-acetylglucosamine-specific!IIC!component!/!PTS!system,!N-acetylglucosamine-specific!IIB!component!(EC!2.7.1.193)!/!PTS!system,!N-acetylglucosamine-specific!IIA!component!(EC!2.7.1.193)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	75.11%
+Cluster 492488
+29443	CP001707	Kangiella koreensis DSM 16069, complete genome.	No	Gammaproteobacteria	ribosomal protein L21	ACV27086
+fig|54291.261.peg.2213|GOX96_22355!!!LSU!ribosomal!protein!L21p!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.14%
+Cluster 380501
+16306	CP000928	Caulobacter sp. K31 plasmid pCAUL01, complete sequence.	No	Alphaproteobacteria	2-deoxy-D-gluconate 3-dehydrogenase	ABZ74393
+fig|54291.261.peg.5253|GOX96_14535!!!2-dehydro-3-deoxy-D-gluconate!5-dehydrogenase!(EC!1.1.1.127)!@!2-deoxy-D-gluconate!3-dehydrogenase!(EC!1.1.1.125)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.87%
+Cluster 532700
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Aspartate transcarbamylase regulatory subunit PyrI	CAX54135
+fig|54291.261.peg.2325|GOX96_22915!!!Aspartate!carbamoyltransferase!regulatory!chain!(PyrI)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.39%
+Cluster 298919
+17707	CP001124	Geobacter bemidjiensis Bem, complete genome.	No	Deltaproteobacteria	succinyl-CoA synthetase, alpha subunit	ACH38483
+fig|54291.261.peg.2741|GOX96_03635!!!Succinyl-CoA!ligase![ADP-forming]!alpha!chain!(EC!6.2.1.5)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.51%
+Cluster 79709
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Agp	ADD76574
+fig|54291.261.peg.146|GOX96_16065!!!Glucose-1-phosphatase!(EC!3.1.3.10)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.93%
+Cluster 321621
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	Carboxymethylenebutenolidase	AAY37573
+fig|54291.261.peg.4618|GOX96_11510!!!Dienelactone!hydrolase!family!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.86%
+Cluster 706871
+13151	CP000039	Shigella sonnei Ss046 plasmid pS	Yes	Gammaproteobacteria	46, complete sequence.	AAZ91218
+fig|54291.261.peg.3501!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	83.33%
+Cluster 85700
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62104
+fig|54291.261.peg.2386|GOX96_23205!!!Protein!of!unknown!function!YceH!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.93%
+Cluster 760379
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12290
+fig|54291.261.peg.3963|GOX96_08430!!!PhoP/PhoQ!regulator!MgrB!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.21%
+Cluster 3232
+13384	CP000482	Pelobacter propionicus DSM 2379, complete genome.	No	Deltaproteobacteria	DNA-directed RNA polymerase, beta' subunit	ABK98305
+fig|54291.261.peg.3366|GOX96_25185!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.20%
+Cluster 64542
+32551	AP010948	Azospirillum sp. B510 plasmid pAB510b DNA, complete genome.	No	Alphaproteobacteria	PTS system, glucose-specific IIB component	BAI75163
+fig|54291.261.peg.2408|GOX96_23310!!!PTS!system,!glucose-specific!IIC!component!/!PTS!system,!glucose-specific!IIB!component!(EC!2.7.1.199)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.47%
+Cluster 394450
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	LexA	ADD75423
+fig|54291.261.peg.2155|GOX96_22085!!!SOS-response!repressor!and!protease!LexA!(EC!3.4.21.88)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.16%
+Cluster 337669
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	RpiR	ADD77043
+fig|54291.261.peg.5010|GOX96_13360!!!Transcriptional!regulator,!RpiR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	90.88%
+Cluster 783917
+225	U00096	Escherichia coli str. K-12 substr. MG1655, complete genome.	No	Gammaproteobacteria	hypothetical protein	ABP93450
+fig|54291.261.peg.637|GOX96_18430!!!protein!YpfM!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	89.47%
+Cluster 631071
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13032
+fig|54291.261.peg.1905|GOX96_02635!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.96%
+Cluster 417237
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11641
+fig|54291.261.peg.857|GOX96_19535!!!Probable!glutathione!S-transferase!(EC!2.5.1.18),!YfcF!homolog!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	77.10%
+Cluster 744375
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACT07367
+fig|54291.261.peg.1503|GOX96_00755!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	63.41%
+Cluster 144401
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	aminopeptidase B	BAH64649
+fig|54291.261.peg.580|GOX96_18165!!!Peptidase!B!(EC!3.4.11.23)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	93.46%
+Cluster 335990
+28471	CP000966	Klebsiella pneumoniae 342 plasmid pKP91, complete sequence.	No	Gammaproteobacteria	SMP-30/gluconolactonase/LRE family protein	ACI12303
+fig|54291.261.peg.5053|GOX96_13575!!!gluconolactonase!family!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.80%
+Cluster 208642
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein ycfS precursor	AAN79857
+fig|54291.261.peg.2422|GOX96_23375!!!L,D-transpeptidase!=>!YcfS!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.25%
+Cluster 672938
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14100
+fig|54291.261.peg.3368|GOX96_25195!!!PTS!system,!IIA!component!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	86.27%
+Cluster 303848
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeiE	ADD77719
+fig|54291.261.peg.991|GOX96_20180!!!Transcriptional!regulator!YeiE,!LysR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	80.90%
+Cluster 542106
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF336	ACX89827
+fig|54291.261.peg.4081|GOX96_09000!!!Protein!of!unknown!function!DUF336!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.37%
+Cluster 326516
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Dihydrodipicolinate synthase	CAO96112
+fig|54291.261.peg.623|GOX96_18365!!!4-hydroxy-tetrahydrodipicolinate!synthase!(EC!4.3.3.7)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.16%
+Cluster 572789
+12994	AP006840	Symbiobacterium thermophilum IAM 14863 DNA, complete genome.	No	Clostridia	ribose 5-phosphate isomerase	BAD41322
+fig|54291.261.peg.2699|GOX96_24680!!!D-allose-6-phosphate!isomerase!(EC!5.3.1.-)!@!Ribose-5-phosphate!isomerase!B!(EC!5.3.1.6)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.42%
+Cluster 36880
+15750	CP000301	Rhodopseudomonas palustris BisB18, complete genome.	No	Alphaproteobacteria	formate dehydrogenase alpha subunit	ABD90100
+fig|54291.261.peg.2108|GOX96_03575!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!@!selenocysteine-containing!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.81%
+fig|54291.261.peg.2687|GOX96_24620!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!@!selenocysteine-containing!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.37%
+Cluster 36881
+32551	AP010948	Azospirillum sp. B510 plasmid pAB510b DNA, complete genome.	No	Alphaproteobacteria	formate dehydrogenase, alpha subunit	BAI75108
+fig|54291.261.peg.414|GOX96_17370!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.74%
+fig|54291.261.peg.3881|GOX96_26020!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!@!selenocysteine-containing!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.39%
+Cluster 25911
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	sulfate adenylyltransferase, large subunit	ACL56789
+fig|54291.261.peg.714|GOX96_18835!!!Sulfate-binding!protein!Sbp!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.65%
+Cluster 446033
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11187
+fig|54291.261.peg.1058|GOX96_20485!!!Hexose-phosphate!uptake!two-component!transcriptional!response!regulator!UhpA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	93.40%
+Cluster 432439
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	thiopurine S-methyltransferase family protein	ACI10746
+fig|54291.261.peg.5354|GOX96_14990!!!Methyltransferase!type!11!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	71.37%
+Cluster 114214
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative monooxygenase	AAS63755
+fig|54291.261.peg.4189|GOX96_09510!!!2-polyprenylphenol!hydroxylase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.00%
+Cluster 425568
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	ABC transporter, ATP-binding protein	ACI08962
+fig|54291.261.peg.1566|GOX96_01055!!!ABC!transporter,!ATP-binding!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.55%
+Cluster 470661
+13151	CP000038	Shigella sonnei Ss046, complete genome.	Yes	Gammaproteobacteria	IS1 ORF	AAZ90985
+fig|54291.261.peg.3887|GOX96_26050!!!IS1!protein!InsB!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	93.60%
+Cluster 736321
+37877	FN392237	Erwinia pyrifoliae DSM 12163 complete plasmid pEP3.	No	Gammaproteobacteria	RNA one modulator	CAY76371
+fig|54291.261.peg.3529|GOX96_25975!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.90%
+Cluster 162352
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	isocitrate dehydrogenase (NADP)	ABM42459
+fig|54291.261.peg.5415|GOX96_15265!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	74.04%
+Cluster 485412
+245	BA000003	Buchnera aphidicola str. APS (Acyrthosiphon pisum) genomic DNA, complete sequence.	No	Gammaproteobacteria	50S ribosomal protein L4	BAB13216
+fig|54291.261.peg.3456|GOX96_25625!!!LSU!ribosomal!protein!L4p!(L1e)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	73.63%
+Cluster 442629
+32509	AP010955	Escherichia coli O26:H11 str. 11368 plasmid pO2	Yes	Gammaproteobacteria	DNA, complete sequence.	BAI28870
+fig|54291.261.peg.3499!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	100.00%
+Cluster 91189
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12996
+fig|54291.261.peg.1876|GOX96_02510!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	92.35%
+Cluster 639843
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	nitrite reductase (NAD(P)H), small subunit	ACX89776
+fig|54291.261.peg.4775|GOX96_12230!!!Nitrite!reductase![NAD(P)H]!small!subunit!(EC!1.7.1.4)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	66.67%
+Cluster 395767
+225	U00096	Escherichia coli str. K-12 substr. MG1655, complete genome.	No	Gammaproteobacteria	CP4-6 prophage; predicted DNA-binding transcriptional regulator	AAC73375
+fig|54291.261.peg.2290|GOX96_22745!!!Uncharacterized!transcriptional!regulator!YagI,!IclR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.10%
+Cluster 399482
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	transcriptional regulator, GntR family	ACA68277
+fig|54291.261.peg.5289|GOX96_14700!!!Predicted!transcriptional!regulator!of!N-!Acetylglucosamine!utilization,!GntR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.68%
+Cluster 669210
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14200
+fig|54291.261.peg.1290|GOX96_21590!!!Putative!inner!membrane!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	89.72%
+Cluster 20515
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	leucyl-tRNA synthetase	ABF13994
+fig|54291.261.peg.2795|GOX96_03940!!!Leucyl-tRNA!synthetase!(EC!6.1.1.4)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.33%
+Cluster 531534
+12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	No	Gammaproteobacteria	putative membrane protein	ABA76046
+fig|54291.261.peg.1677|GOX96_01590!!!FIG00816212:!Putative!membrane!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.05%
+Cluster 590332
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	transcriptional regulator, HxlR family	ACB33708
+fig|54291.261.peg.2450|GOX96_23515!!!Redox-sensing!transcriptional!regulator!QorR!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	69.29%
+Cluster 614913
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|54291.261.peg.4969|GOX96_13165!!!Antitoxin!to!RelE-like!translational!repressor!toxin!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.83%
+Cluster 525701
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	molybdopterin biosynthesis MoaE protein	ACR01125
+fig|54291.261.peg.219|GOX96_16445!!!Molybdopterin!synthase!catalytic!subunit!MoaE!(EC!2.8.1.12)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.33%
+Cluster 670935
+17445	CP000749	Marinomonas sp. MWYL1, complete genome.	No	Gammaproteobacteria	Cupin 2 conserved barrel domain protein	ABR69714
+fig|54291.261.peg.4292|GOX96_09985!!!Putative!pectin!degradation!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.92%
+Cluster 588263
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65205
+fig|54291.261.peg.4597|GOX96_11420!!!Protein!ygiW!precursor!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	81.48%
+Cluster 95501
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobyric acid synthase	CBJ79977
+fig|54291.261.peg.4326|GOX96_10130!!!Cobyric!acid!synthase!(EC!6.3.5.10)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	67.46%
+Cluster 606383
+17415	CP000851	Shewanella pealeana ATCC 700345, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABV86199
+fig|54291.261.peg.775|GOX96_19130!!!GTPase!(EC!3.6.1.-)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.71%
+Cluster 312269
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABM37724
+fig|54291.261.peg.48|GOX96_15590!!!Alkanesulfonate!ABC!transporter!permease!protein!SsuC!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	64.26%
+Cluster 534402
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69431
+fig|54291.261.peg.2202|GOX96_22300!!!Protein!translocase!membrane!subunit!SecG!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	91.74%
+Cluster 693455
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	cell division topological specificity factor MinE	ACS85798
+fig|54291.261.peg.3986|GOX96_08545!!!Cell!division!topological!specificity!factor!MinE!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	85.39%
+Cluster 182374
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	predicted transporter	BAI28208
+fig|54291.261.peg.4956|GOX96_13100!!!Putative!resistance!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	88.25%
+Cluster 368550
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741
+fig|54291.261.peg.2465|GOX96_23590!!!3-keto-L-gulonate-6-phosphate!decarboxylase!UlaD!(EC!4.1.1.85)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	94.44%
+Cluster 307579
+17053	CP000949	Pseudomonas putida W619, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ACA73190
+fig|54291.261.peg.5043|GOX96_13530!!!Transcriptional!regulator,!LysR!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	68.87%
+Cluster 45638
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13290
+fig|54291.261.peg.19|GOX96_15450!!!Ribosomal!protein!S12p!methylthiotransferase!accessory!factor!YcaO!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	90.44%
+Cluster 289175
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	LD-carboxypeptidase family protein	AAY94654
+fig|54291.261.peg.3506|GOX96_25850!!!RepA!leader!peptide!Tap!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	62.50%
+Cluster 351220
+65	AE001825	Deinococcus radiodurans R1 chromosome 2, complete sequence.	No	Deinococci	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	AAF12475
+fig|54291.261.peg.3588|GOX96_06640!!!2,4-dihydroxyhept-2-ene-1,7-dioic!acid!aldolase!(EC!4.1.2.52)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.28%
+Cluster 669352
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS61209
+fig|54291.261.peg.466|GOX96_17615!!!UPF0410!protein!YeaQ!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.15%
+Cluster 587149
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	acetylase for 30S ribosomal subunit protein S18	BAI28698
+fig|54291.261.peg.3633|GOX96_06870!!!Ribosomal-protein-S18p-alanine!acetyltransferase!(EC!2.3.1.128)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	84.46%
+Cluster 49699
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	3-phosphoshikimate 1-carboxyvinyltransferase	ACR01634
+fig|54291.261.peg.22|GOX96_15465!!!3-phosphoshikimate!1-carboxyvinyltransferase!(EC!2.5.1.19)!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	60.19%
+Cluster 23296
+285	AE009442	Xylella fastidiosa Temecula1, complete genome.	No	Gammaproteobacteria	ATP-dependent serine proteinase La	AAO28351
+fig|54291.261.peg.3113|GOX96_05470!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.18%
+Cluster 604531
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR68071
+fig|54291.261.peg.3865|GOX96_07990!!!Uncharacterized!protein!YaeR!with!similarity!to!glyoxylase!family!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	70.54%
+Cluster 56563
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	hypothetical protein	ABM60588
+fig|54291.261.peg.1358|GOX96_00065!!!hypothetical!protein!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	65.76%
+Cluster 327641
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative DnaJ-like heat shock protein	CAG76753
+fig|54291.261.peg.3715|GOX96_07265!!!DnaJ-like!protein!DjlA!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	61.82%
+Cluster 271395
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	Xylose isomerase domain protein TIM barrel	ACQ93543
+fig|54291.261.peg.5014|GOX96_13380!!!Unknown!pentose!isomerase!ECA1953!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	87.12%
+Cluster 444372
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	Glutathione S-transferase domain protein	ACT07291
+fig|54291.261.peg.5056|GOX96_13590!!!Glutathione!S-transferase!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	90.96%
+Cluster 703025
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L35	AAX88440
+fig|54291.261.peg.494|GOX96_17740!!!LSU!ribosomal!protein!L35p!!![Raoultella!ornithinolytica!strain!Z&Z370!|!54291.261]	78.46%

@@ -1,0 +1,1798 @@
+Cluster 189037
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	Glutamate--tRNA ligase	ACA69736
+fig|35703.89.peg.2756|GT689_09480!!!Glutamyl-Q!tRNA(Asp)!synthetase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.66%
+Cluster 686324
+12986	CP000020	Vibrio fischeri ES114 chromosome I, complete sequence.	No	Gammaproteobacteria	HU, DNA-binding transcriptional regulator, beta subunit	AAW85294
+fig|35703.89.peg.3527|GT689_13205!!!DNA-binding!protein!HU-beta!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.33%
+Cluster 630849
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.123|GT689_19910!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	81.89%
+Cluster 761625
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13040
+fig|35703.89.peg.593|GT689_22285!!!Uncharacterized!phage-associated!protein!YdaE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.77%
+Cluster 668713
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.3050|GT689_10910!!!Putative!uncharacterized!protein!YjfN!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.31%
+Cluster 643863
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH76183
+fig|35703.89.peg.4185|GT689_16375!!!Suppression!of!copper!sensitivity:!putative!copper!binding!protein!ScsA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	82.50%
+Cluster 593872
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Heat shock protein hslJ	AAN80290
+fig|35703.89.peg.1685|GT689_04350!!!Heat!shock!protein!HslJ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.54%
+Cluster 574492
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YfbV	ADD77810
+fig|35703.89.peg.898|GT689_00555!!!UPF0208!membrane!protein!YfbV!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.50%
+Cluster 568238
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	co-chaperonin GroES	ACN48531
+fig|35703.89.peg.3012|GT689_10705!!!Heat!shock!protein!10!kDa!family!chaperone!GroES!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	100.00%
+Cluster 230435
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13781
+fig|35703.89.peg.3568|GT689_13410!!!Ferrochelatase,!protoheme!ferro-lyase!(EC!4.99.1.1)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.50%
+Cluster 624865
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14432
+fig|35703.89.peg.2644|GT689_08940!!!Transcriptional!activatory!protein!CaiF!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.05%
+Cluster 587153
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	acetylase for 30S ribosomal subunit protein S18	CAQ91827
+fig|35703.89.peg.3241|GT689_11845!!!Ribosomal-protein-S18p-alanine!acetyltransferase!(EC!2.3.1.128)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.84%
+Cluster 613553
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	OsmC family protein	ACX89760
+fig|35703.89.peg.1805|GT689_04845!!!Protein!YhfA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	85.07%
+Cluster 45429
+13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAV78633
+fig|35703.89.peg.4716|GT689_18965!!!Hydroxyaromatic!non-oxidative!decarboxylase!protein!C!(EC!4.1.1.-)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	98.11%
+fig|35703.89.peg.4717|GT689_18970!!!Hydroxyaromatic!non-oxidative!decarboxylase!protein!B!(EC!4.1.1.-)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.82%
+Cluster 267446
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	cysteine synthase	ABM35882
+fig|35703.89.peg.669|GT689_22670!!!Cysteine!synthase!(EC!2.5.1.47)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.73%
+Cluster 303676
+17445	CP000749	Marinomonas sp. MWYL1, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ABR70154
+fig|35703.89.peg.1857|GT689_05100!!!Transcriptional!regulator,!LysR!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.90%
+Cluster 584496
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABE08896
+fig|35703.89.peg.2507|GT689_08270!!!Protein!ygiW!precursor!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.23%
+Cluster 672379
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	histone family protein DNA-binding protein	ABM58439
+fig|35703.89.peg.692|GT689_22790!!!DNA-binding!protein!HU-alpha!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.00%
+Cluster 210977
+17629	CP000926	Pseudomonas putida GB-1, complete genome.	No	Gammaproteobacteria	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	ABY99510
+fig|35703.89.peg.4051|GT689_15720!!!tRNA-specific!2-thiouridylase!MnmA!(EC!2.8.1.13)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.12%
+Cluster 688323
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	cell division topological specificity factor MinE	ACT06844
+fig|35703.89.peg.1483|GT689_03370!!!Cell!division!topological!specificity!factor!MinE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.50%
+Cluster 573006
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAH23104
+fig|35703.89.peg.2146|GT689_06485!!!YkfI!toxin!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.90%
+fig|35703.89.peg.3170|GT689_11485!!!YkfI!toxin!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.83%
+Cluster 229065
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical oxidoreductase yihU	AAN83255
+fig|35703.89.peg.4320|GT689_17005!!!3-sulpholactaldehyde!reductase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.58%
+Cluster 683995
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACX88910
+fig|35703.89.peg.1860|GT689_05115!!!Small!uncharacterized!protein!Bpro_4170!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	78.79%
+Cluster 430066
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58667
+fig|35703.89.peg.108|GT689_19835!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.09%
+Cluster 430063
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative ABC transporter ATP-binding protein	AAS58665
+fig|35703.89.peg.110|GT689_19845!!!ABC!transporter,!ATP-binding!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.71%
+Cluster 55228
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	selenocysteinyl-tRNA-specific translation factor	CAL14147
+fig|35703.89.peg.2029|GT689_05935!!!Selenocysteine-specific!translation!elongation!factor!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.37%
+Cluster 367601
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YcdC	ADD79199
+fig|35703.89.peg.4165|GT689_16280!!!Transcriptional!regulator!RutR!of!pyrimidine!catabolism!(TetR!family)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.62%
+Cluster 621999
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12987
+fig|35703.89.peg.1409|GT689_03020!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.31%
+Cluster 67271
+16182	CP000572	Burkholderia pseudomallei 1106a chromosome I, complete sequence.	Yes	Betaproteobacteria	GABA permease	ABN91788
+fig|35703.89.peg.4638|GT689_18565!!!gamma-aminobutyrate!(GABA)!permease!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.30%
+Cluster 83366
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017
+fig|35703.89.peg.4599|GT689_18375!!!NAD!kinase!(EC!2.7.1.23)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	97.60%
+Cluster 542608
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative glutamate mutase S	ABB60864
+fig|35703.89.peg.191|GT689_20245!!!Methylaspartate!mutase,!S!subunit!(EC!5.4.99.1)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.60%
+Cluster 247541
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66384
+fig|35703.89.peg.1142|GT689_01725!!!ATP!phosphoribosyltransferase!(EC!2.4.2.17)!=>!HisGl!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	97.66%
+Cluster 760383
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15925
+fig|35703.89.peg.1899!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.39%
+Cluster 184648
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	cyanate transporter	ACI10202
+fig|35703.89.peg.812|GT689_00140!!!Cyanate!transport!protein!CynX!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.21%
+Cluster 95869
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Glutathione reductase, putative	ABN44926
+fig|35703.89.peg.1953|GT689_05565!!!Glutathione!reductase!(EC!1.8.1.7)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.89%
+Cluster 643780
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	HNH endonuclease domain protein	ACI11481
+fig|35703.89.peg.4021|GT689_15590!!!Phage-associated!homing!endonuclease!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.21%
+Cluster 595964
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.38|GT689_19505!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.10%
+Cluster 637260
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04930
+fig|35703.89.peg.4602|GT689_18390!!!UPF0125!protein!RatB!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.50%
+Cluster 602074
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Regulatory protein SoxS	CAO98125
+fig|35703.89.peg.2886|GT689_10110!!!DNA-binding!transcriptional!dual!regulator!SoxS!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.49%
+Cluster 116510
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|35703.89.peg.2221|GT689_06850!!!Chromosomal!replication!initiator!protein!DnaA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	83.80%
+Cluster 755407
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12740
+fig|35703.89.peg.3771|GT689_14385!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.43%
+Cluster 596961
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE75462
+fig|35703.89.peg.2047|GT689_06025!!!Rhodanese-related!sulfurtransferase!YibN!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.83%
+Cluster 144142
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	2,3,4,5-tetrahydropyridine-2-carboxylate N-succin	AAW75239
+fig|35703.89.peg.2776|GT689_09580!!!2,3,4,5-tetrahydropyridine-2,6-dicarboxylate!N-succinyltransferase!(EC!2.3.1.117)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.60%
+Cluster 645369
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACX86741
+fig|35703.89.peg.3094|GT689_11130!!!Uncharacterized!protein!STM4441!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	97.50%
+Cluster 628804
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.27|GT689_19450!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.06%
+Cluster 659338
+29177	CP001339	Thioalkalivibrio sp. HL-EbGR7, complete genome.	No	Gammaproteobacteria	urease, beta subunit	ACL74172
+fig|35703.89.peg.2472|GT689_08100!!!Urease!beta!subunit!(EC!3.5.1.5)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.26%
+Cluster 368650
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CpxR	ADD79041
+fig|35703.89.peg.4374|GT689_17265!!!Copper-sensing!two-component!system!response!regulator!CpxR!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.81%
+Cluster 201069
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	galactokinase	ACI06895
+fig|35703.89.peg.214|GT689_20380!!!Galactokinase!(EC!2.7.1.6)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.05%
+Cluster 492037
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PurE	ADD76220
+fig|35703.89.peg.3596|GT689_13550!!!N5-carboxyaminoimidazole!ribonucleotide!mutase!(EC!5.4.99.18)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	84.62%
+Cluster 445037
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Molybdopterin biosynthesis mog protein	CAY73103
+fig|35703.89.peg.2614|GT689_08790!!!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	78.46%
+Cluster 624901
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU75934
+fig|35703.89.peg.4590|GT689_18330!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.55%
+Cluster 687853
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15237
+fig|35703.89.peg.4787|GT689_19305!!!Uncharacterized!lipoprotein!YgdI!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.00%
+Cluster 687854
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU75771
+fig|35703.89.peg.3403|GT689_12615!!!Uncharacterized!lipoprotein!YgdR!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.11%
+Cluster 495874
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YgjP	ADD78617
+fig|35703.89.peg.2450|GT689_07980!!!UTP!pyrophosphatase!(EC!3.6.1.9)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.26%
+Cluster 728249
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	ABB62708
+fig|35703.89.peg.4560|GT689_18175!!!UPF0370!protein!YpfN!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	98.48%
+Cluster 167876
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	Nucleoside permease NupC	ABE08191
+fig|35703.89.peg.791|GT689_00040!!!Na+!dependent!nucleoside!transporter!NupC!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	98.00%
+Cluster 241152
+19989	CP001032	Opitutus terrae PB90-1, complete genome.	No	Opitutae	L-threonine 3-dehydrogenase	ACB76204
+fig|35703.89.peg.2052|GT689_06050!!!L-threonine!3-dehydrogenase!(EC!1.1.1.103)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.29%
+Cluster 577587
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58653
+fig|35703.89.peg.121|GT689_19900!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.98%
+Cluster 352568
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	methionine aminopeptidase, type I	ACK54919
+fig|35703.89.peg.2778|GT689_09590!!!Methionine!aminopeptidase!(EC!3.4.11.18)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.74%
+Cluster 783411
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	thr operon leader peptide	BAB33424
+fig|35703.89.peg.2607|GT689_08755!!!Thr!operon!leader!peptide!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	100.00%
+Cluster 372522
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobalt-precorrin-4 C(11)-methyltransferase (Cobalt-precorrin-3 methylase)	CBJ79987
+fig|35703.89.peg.1185|GT689_01935!!!Cobalt-precorrin-4!C(11)-methyltransferase!(EC!2.1.1.271)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.21%
+Cluster 66269
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX67766
+fig|35703.89.peg.4143|GT689_16165!!!Cardiolipin!synthase!(EC!2.7.8.-)!phosphatidylethanolamine-utilizing,!bacterial!type!ClsC!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.66%
+Cluster 393326
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13184
+fig|35703.89.peg.4180|GT689_16355!!!Na(+)-translocating!NADH-quinone!reductase!subunit!C!(EC!1.6.5.8)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.40%
+Cluster 63934
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	Heme-binding protein precursor (hemin-binding lipoprotein)	ABE06319
+fig|35703.89.peg.302|GT689_20800!!!Oligopeptide!transport!substrate-binding!protein!@!Glutathione!ABC!transporter,!substrate-binding!protein!GsiB!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.43%
+Cluster 63936
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	PTS system, maltose and glucose-specific IIABC component	ABE07287
+fig|35703.89.peg.3789|GT689_14465!!!PTS!system,!maltose!and!glucose-specific!IIC!component!/!PTS!system,!maltose!and!glucose-specific!IIB!component!(EC!2.7.1.208)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.85%
+Cluster 247877
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	HemK	ADD76810
+fig|35703.89.peg.1535|GT689_03615!!!Peptide!chain!release!factor!N(5)-glutamine!methyltransferase!(EC!2.1.1.297)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.09%
+Cluster 200923
+371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Yes	Gammaproteobacteria	RNA polymerase sigma subunit RpoS	AAO70382
+fig|35703.89.peg.4719|GT689_18980!!!RNA!polymerase!sigma!factor!RpoS!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	93.94%
+Cluster 460520
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	putative twin-argninine leader-binding protein for anaerobic dehydrogenase	CAQ91605
+fig|35703.89.peg.2951|GT689_10420!!!Anaerobic!respiratory!reductase!chaperone!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.68%
+Cluster 268869
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13780
+fig|35703.89.peg.3569|GT689_13415!!!Acetyl!esterase!(EC!3.1.1.-)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.16%
+Cluster 186825
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX70363
+fig|35703.89.peg.4400|GT689_17390!!!Transcriptional!(co)regulator!CytR!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.56%
+Cluster 69622
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	periplasmic glucan biosynthesis protein, MdoG	ABQ81020
+fig|35703.89.peg.4141|GT689_16155!!!Glucans!biosynthesis!protein!G!precursor!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.96%
+Cluster 595046
+17455	CP000961	Shewanella woodyi ATCC 51908, complete genome.	No	Gammaproteobacteria	transposase IS200-family protein	ACA84768
+fig|35703.89.peg.4452|GT689_17655!!!Mobile!element!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.58%
+Cluster 756983
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE06944
+fig|35703.89.peg.590!!!Uncharacterized!protein!YdfB!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.66%
+Cluster 51773
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	DNA polymerase III subunit tau	CAO97520
+fig|35703.89.peg.3563|GT689_13385!!!DNA!polymerase!III!subunits!gamma!and!tau!(EC!2.7.7.7)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.96%
+Cluster 338304
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	pantothenate synthetase	CBJ82791
+fig|35703.89.peg.2752|GT689_09460!!!Pantoate--beta-alanine!ligase!(EC!6.3.2.1)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.49%
+Cluster 7990
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	malate synthase A	ACG74318
+fig|35703.89.peg.2816|GT689_09780!!!Isocitrate!lyase!(EC!4.1.3.1)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.10%
+Cluster 631952
+17643	CP000753	Shewanella baltica OS185, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABS07212
+fig|35703.89.peg.2033|GT689_05955!!!GTPase!(EC!3.6.1.-)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.83%
+Cluster 284775
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11803
+fig|35703.89.peg.1048|GT689_01270!!!3-hydroxybenzoate!utilization!regulator,!LysR!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.37%
+Cluster 325244
+12608	CP001101	Chlorobium phaeobacteroides BS1, complete genome.	No	Chlorobia	DNA methylase N-4/N-6 domain protein	ACE04178
+fig|35703.89.peg.566|GT689_22160!!!DNA!modification!methylase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.19%
+Cluster 264549
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	riboflavin biosynthesis protein RibF, putative	ACR67900
+fig|35703.89.peg.2627|GT689_08855!!!FMN!adenylyltransferase!(EC!2.7.7.2)!/!Riboflavin!kinase!(EC!2.7.1.26)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.44%
+Cluster 301991
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	protein bax	ACF62390
+fig|35703.89.peg.2017|GT689_05875!!!BAX!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.61%
+Cluster 746448
+13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Yes	Gammaproteobacteria	putative periplasmic protein	AAV79076
+fig|35703.89.peg.2279|GT689_07130!!!Uncharacterized!protein!YhdU!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.04%
+Cluster 462574
+16067	CP000900	Yersinia pestis Angola plasmid pMT-pPCP, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABX84839
+fig|35703.89.peg.53|GT689_19580!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.85%
+Cluster 208955
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	ABB61844
+fig|35703.89.peg.1754|GT689_04680!!!Putative!oxidoreductase!YncB!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.70%
+Cluster 325465
+13960	CP000800	Escherichia coli E24377A, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABV21201
+fig|35703.89.peg.763|GT689_23140!!!Protein!YrdA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.13%
+Cluster 482194
+20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Yes	Gammaproteobacteria	bacteriophage Lambda NinG protein	ACF67531
+fig|35703.89.peg.1390|GT689_02925!!!Phage!recombination!protein!NinG!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.16%
+Cluster 517050
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	transcriptional regulator, MerR family	ABM32854
+fig|35703.89.peg.2887|GT689_10115!!!Redox-sensitive!transcriptional!activator!SoxR!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.99%
+Cluster 779026
+19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACF92855
+fig|35703.89.peg.3930!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	78.38%
+Cluster 565004
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	50S ribosomal protein L16	ABM79044
+fig|35703.89.peg.729|GT689_22970!!!LSU!ribosomal!protein!L16p!(L10e)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.29%
+Cluster 637649
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.587|GT689_22260!!!Phage!activator!protein!cII!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.68%
+Cluster 558460
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Hns	ADD77258
+fig|35703.89.peg.1560|GT689_03755!!!DNA-binding!protein!H-NS!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	81.02%
+Cluster 464874
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Conserved hypothetical protein YffH	CAO96128
+fig|35703.89.peg.4567|GT689_18210!!!GDP-mannose!pyrophosphatase!NudK!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.11%
+Cluster 435908
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.636|GT689_22505!!!Ethanolamine!utilization!polyhedral-body-like!protein!EutM!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.79%
+fig|35703.89.peg.637|GT689_22510!!!Ethanolamine!utilization!polyhedral-body-like!protein!EutN!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.84%
+Cluster 212799
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20769
+fig|35703.89.peg.1177|GT689_01895!!!Propanediol!diffusion!facilitator!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.36%
+fig|35703.89.peg.4393|GT689_17355!!!Glycerol!uptake!facilitator!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.35%
+Cluster 184902
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YdiK	ADD76269
+fig|35703.89.peg.4189|GT689_16395!!!Uncharacterized!UPF0118!membrane!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.70%
+Cluster 301103
+388	CP000947	Haemophilus somnus 2336, complete genome.	Yes	Gammaproteobacteria	Alkaline phosphatase	ACA32357
+fig|35703.89.peg.1566|GT689_03780!!!Oligopeptide!ABC!transporter,!permease!protein!OppB!(TC!3.A.1.5.1)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.16%
+Cluster 595608
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	protein YcgL	ACF62545
+fig|35703.89.peg.1486|GT689_03385!!!Protein!YcgL!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	82.47%
+Cluster 261519
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	Protein of unknown function DUF1722	ACZ77874
+fig|35703.89.peg.151|GT689_20045!!!COG1683:!Uncharacterized!conserved!protein!/!FIG143828:!Hypothetical!protein!YbgA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.83%
+Cluster 695222
+31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	No	Gammaproteobacteria	twin-arginine translocation protein, TatA/E family subunit	ACX94981
+fig|35703.89.peg.3702|GT689_14045!!!Twin-arginine!translocation!protein!TatE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.18%
+Cluster 164201
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL10684
+fig|35703.89.peg.3247|GT689_11870!!!Uncharacterized!protein!YjjU!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.46%
+Cluster 708057
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12267
+fig|35703.89.peg.1346|GT689_02730!!!DNA!polymerase!III!theta!subunit!(EC!2.7.7.7)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.79%
+Cluster 631976
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14991
+fig|35703.89.peg.4580|GT689_18280!!!Ribosome-associated!inhibitor!A!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	99.11%
+Cluster 631975
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13700
+fig|35703.89.peg.3638|GT689_13740!!!Transcriptional!activator!RamA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.92%
+Cluster 365291
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Phage shock protein A	CAY74214
+fig|35703.89.peg.1625|GT689_04060!!!Phage!shock!protein!A!@!Suppressor!of!sigma54-dependent!transcription,!PspA-like!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	82.43%
+Cluster 75733
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative lipoate-protein ligase A	BAB38768
+fig|35703.89.peg.3255|GT689_11910!!!Lipoate-protein!ligase!A!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	93.79%
+fig|35703.89.peg.3256|GT689_11915!!!Protein!Smp!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.64%
+Cluster 386483
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	urease, gamma subunit	ACG72211
+fig|35703.89.peg.2473|GT689_08105!!!Urease!gamma!subunit!(EC!3.5.1.5)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.00%
+Cluster 367690
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	phosphotransferase system PTS sorbose-specific IIC subunit	ACZ09849
+fig|35703.89.peg.2636|GT689_08900!!!PTS!system,!mannose-specific!IIC!component!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.41%
+Cluster 678802
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS60803
+fig|35703.89.peg.3044|GT689_10880!!!Putative!inner!membrane!protein!YjeT!(clustered!with!HflC)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	81.54%
+Cluster 531525
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	50S ribosomal protein L19	ACP26950
+fig|35703.89.peg.4591|GT689_18335!!!LSU!ribosomal!protein!L19p!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.48%
+Cluster 471725
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	thiol:disulfide interchange protein DsbE	ABG70233
+fig|35703.89.peg.997|GT689_01025!!!Cytochrome!c-type!biogenesis!protein!CcmG/DsbE,!thiol:disulfide!oxidoreductase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.68%
+Cluster 125989
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAW73281
+fig|35703.89.peg.525|GT689_21935!!!Enoyl-[acyl-carrier-protein]!reductase![NADH]!(EC!1.3.1.9),!FabV!=>!refractory!to!triclosan!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.26%
+Cluster 160828
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	protein UmuC	CBJ46715
+fig|35703.89.peg.3992!!!Error-prone,!lesion!bypass!DNA!polymerase!V!(UmuC)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.39%
+Cluster 549885
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L10	ABF14049
+fig|35703.89.peg.710|GT689_22880!!!LSU!ribosomal!protein!L10p!(P0)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	66.06%
+Cluster 716529
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13904
+fig|35703.89.peg.3448|GT689_12825!!!Uncharacterized!protein!YaiZ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.71%
+Cluster 243618
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66442
+fig|35703.89.peg.546|GT689_22060!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.42%
+Cluster 559054
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	IbpA	ADD75249
+fig|35703.89.peg.2208|GT689_06785!!!16!kDa!heat!shock!protein!A!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	82.48%
+Cluster 706835
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX22766
+fig|35703.89.peg.2656|GT689_09000!!!Putative!outer!membrane!lipoprotein!STM0080!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.52%
+Cluster 420439
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66443
+fig|35703.89.peg.545|GT689_22055!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.37%
+Cluster 453765
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH64091
+fig|35703.89.peg.1342|GT689_02710!!!FIG004088:!inner!membrane!protein!YebE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.49%
+Cluster 640332
+29541	CP001649	Desulfovibrio salexigens DSM 2638, complete genome.	No	Deltaproteobacteria	protein of unknown function DUF1486	ACS79999
+fig|35703.89.peg.391|GT689_21255!!!FIG00631715:!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.36%
+Cluster 556632
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12997
+fig|35703.89.peg.1401|GT689_02980!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	100.00%
+Cluster 550024
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved membrane protein	AAS60370
+fig|35703.89.peg.4389|GT689_17335!!!Uncharacterized!protein!YiiR!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.27%
+Cluster 189442
+12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	No	Gammaproteobacteria	amino acid ABC transporter, permease protein	AAZ36247
+fig|35703.89.peg.2272|GT689_07100!!!Amino!acid!ABC!transporter,!permease!protein!1,!YhdX!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.34%
+Cluster 229292
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH62542
+fig|35703.89.peg.1199|GT689_02005!!!L,D-transpeptidase!=>!ErfK!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.61%
+fig|35703.89.peg.288|GT689_20730!!!L,D-transpeptidase!=>!YbiS!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.20%
+Cluster 180167
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	RsuA protein	AAU37645
+fig|35703.89.peg.1595|GT689_03920!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.13%
+Cluster 146094
+18	BA000012	Mesorhizobium loti MAFF303099 DNA, complete genome.	No	Alphaproteobacteria	urea/short-chain amide ABC transporter, periplasmic urea/short-chain amide-binding protein	BAB48286
+fig|35703.89.peg.384|GT689_21220!!!Urea!ABC!transporter,!substrate-binding!protein!UrtA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.96%
+Cluster 11409
+10700	BX908798	Parachlamydia-related symbiont UWE25, complete genome.	Yes	Chlamydiales	probable glycyl-tRNA synthetase	CAF23417
+fig|35703.89.peg.2007|GT689_05825!!!Glycyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.14)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.07%
+Cluster 394467
+40647	FN554766	Escherichia coli 042 complete genome.	Yes	Gammaproteobacteria	puative trans-aconitate methyltransferase	CBG34474
+fig|35703.89.peg.408|GT689_21340!!!Trans-aconitate!2-methyltransferase!(EC!2.1.1.144)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.79%
+Cluster 314602
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58663
+fig|35703.89.peg.112|GT689_19855!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	97.97%
+Cluster 116413
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	ABC superfamily (bin	AAX68014
+fig|35703.89.peg.2855|GT689_09970!!!Maltodextrin!ABC!transporter,!substrate-binding!protein!MdxE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	93.43%
+Cluster 752587
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58693
+fig|35703.89.peg.49|GT689_19560!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.27%
+Cluster 372864
+13960	CP000800	Escherichia coli E24377A, complete genome.	Yes	Gammaproteobacteria	transposition helper protein, IS21 family	ABV20617
+fig|35703.89.peg.90|GT689_19750!!!Transposase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	99.24%
+Cluster 568481
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	D-tyr-tRNA(Tyr) deacylase	ABF07304
+fig|35703.89.peg.4326|GT689_17035!!!D-aminoacyl-tRNA!deacylase!(EC!3.1.1.96)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.38%
+Cluster 201049
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	rod shape-determining protein MreC	ACT08634
+fig|35703.89.peg.2297|GT689_07215!!!Rod!shape-determining!protein!MreC!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	77.78%
+Cluster 685413
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.35|GT689_19490!!!putative!lipoprotein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	83.13%
+Cluster 13787
+9633	CP000082	Psychrobacter arcticus 273-4, complete genome.	No	Gammaproteobacteria	Excinuclease ABC subunit A	AAZ19533
+fig|35703.89.peg.2877|GT689_10075!!!Excinuclease!ABC!subunit!A!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	66.49%
+Cluster 531069
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	AccB protein	AAU38396
+fig|35703.89.peg.2291|GT689_07185!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.03%
+Cluster 737333
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR77413
+fig|35703.89.peg.3812|GT689_14580!!!Tetrapartite!efflux!system!component,!FusD-like!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.36%
+Cluster 152940
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative chitinase II	BAH62922
+fig|35703.89.peg.3954|GT689_15280!!!Chitinase!(EC!3.2.1.14)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	84.89%
+Cluster 351726
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58654
+fig|35703.89.peg.120|GT689_19895!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.64%
+Cluster 704685
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58700
+fig|35703.89.peg.41|GT689_19520!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.45%
+Cluster 423510
+13875	CP000016	Candidatus Blochmannia pennsylvanicus str. BPEN, complete genome.	No	Gammaproteobacteria	NADH dehydrogenase I chain B, binds FeS cluster N2	AAZ41122
+fig|35703.89.peg.907|GT689_00595!!!NADH-ubiquinone!oxidoreductase!chain!B!(EC!1.6.5.3)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.91%
+Cluster 680762
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13578
+fig|35703.89.peg.150|GT689_20040!!!Uncharacterized!protein!YbfA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.59%
+Cluster 522679
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	bacteriophage regulatory protein CII	ABG69159
+fig|35703.89.peg.1377|GT689_02865!!!Phage!activator!protein!cII!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.78%
+Cluster 450357
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS60574
+fig|35703.89.peg.2769|GT689_09545!!!UPF0126!inner!membrane!protein!YadS!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	85.99%
+Cluster 320406
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	putative methyltransferase	ACN48509
+fig|35703.89.peg.774|GT689_23185!!!SAM-dependent!methyltransferase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.28%
+Cluster 623823
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15926
+fig|35703.89.peg.1900|GT689_05300!!!Acetyl-CoA!sensor!PanM,!required!for!maturation!of!L-aspartate!decarboxylase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	85.83%
+Cluster 562196
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein YjcH	CAQ91716
+fig|35703.89.peg.2901|GT689_10175!!!Inner!membrane!protein!YjcH,!clustering!with!ActP!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.50%
+Cluster 495973
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	GTP cyclohydrolase subunit MoaC	ABQ80553
+fig|35703.89.peg.248|GT689_20540!!!Cyclic!pyranopterin!monophosphate!synthase!(EC!4.6.1.17)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.35%
+Cluster 731538
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	carbon storage regulator, CsrA	ADC62041
+fig|35703.89.peg.4671|GT689_18745!!!Carbon!storage!regulator!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.33%
+Cluster 670320
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.4619!!!FIG033266:!Phage!DNA!binding!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.64%
+Cluster 272454
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	membrane protein alx	CAO97949
+fig|35703.89.peg.2448|GT689_07970!!!Alkaline!induced!inner!membrane!protein!Alx!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	85.98%
+Cluster 210655
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	N-succinyl-diaminopimelate deacylase	CBJ81719
+fig|35703.89.peg.4561|GT689_18180!!!N-succinyl-L,L-diaminopimelate!desuccinylase!(EC!3.5.1.18)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.53%
+Cluster 691242
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	cold shock domain protein CspD	ACR13966
+fig|35703.89.peg.350|GT689_21040!!!Cold!shock!protein!of!CSP!family!=>!CspD!(naming!convention!as!in!E.coli)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.23%
+Cluster 483314
+13146	CP000036	Shigella boydii Sb227, complete genome.	Yes	Gammaproteobacteria	chorismate lyase	ABB68511
+fig|35703.89.peg.2860|GT689_09990!!!Chorismate--pyruvate!lyase!(EC!4.1.3.40)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.30%
+Cluster 63379
+16708	CP001337	Chloroflexus aggregans DSM 9485, complete genome.	No	Chloroflexales	isocitrate dehydrogenase, NADP-dependent	ACL23964
+fig|35703.89.peg.3989|GT689_15440!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	70.00%
+Cluster 302482
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	spfh/band 7 domain protein	ACR14480
+fig|35703.89.peg.3585|GT689_13495!!!Protein!QmcA!(possibly!involved!in!integral!membrane!quality!control)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.49%
+Cluster 507696
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58682
+fig|35703.89.peg.59|GT689_19605!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.77%
+Cluster 612015
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24208
+fig|35703.89.peg.2488|GT689_08180!!!Uncharacterized!protein!YqiC!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.84%
+Cluster 527527
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Oligoketide cyclase/lipid transport protein	AAS61304
+fig|35703.89.peg.4603|GT689_18395!!!Ribosome!association!toxin!RatA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	79.31%
+Cluster 602555
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	transcriptional regulator, HxlR family	ABM35940
+fig|35703.89.peg.3067|GT689_10995!!!Redox-sensing!transcriptional!regulator!QorR!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.43%
+Cluster 722769
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAG75280
+fig|35703.89.peg.1457|GT689_03245!!!UPF0181!protein!YoaH!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	66.10%
+Cluster 599975
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66432
+fig|35703.89.peg.555|GT689_22105!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.28%
+Cluster 561063
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.99|GT689_19795!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	79.38%
+Cluster 249101
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66430
+fig|35703.89.peg.557|GT689_22115!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.50%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|35703.89.peg.1790|GT689_04770!!!SSU!ribosomal!protein!S12p!(S23e)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.61%
+Cluster 753440
+33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAR10583
+fig|35703.89.peg.516!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.00%
+Cluster 663331
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YbeB	ADD76293
+fig|35703.89.peg.3713|GT689_14095!!!Ribosomal!silencing!factor!RsfA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	81.90%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|35703.89.peg.2222|GT689_06855!!!LSU!ribosomal!protein!L34p!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.09%
+Cluster 501191
+17415	CP000851	Shewanella pealeana ATCC 700345, complete genome.	No	Gammaproteobacteria	HesB/YadR/YfhF-family protein	ABV89320
+fig|35703.89.peg.1848|GT689_05055!!![4Fe-4S]!cluster!carrier!protein!NfuA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.39%
+Cluster 677828
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	Phosphotransferase system, phosphocarrier protein HPr	ACQ92255
+fig|35703.89.peg.667|GT689_22660!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.29%
+Cluster 394505
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	putative ABC transporter permease protein	CAJ60213
+fig|35703.89.peg.3827|GT689_14655!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.07%
+Cluster 633902
+42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ADD55957
+fig|35703.89.peg.4085|GT689_15880!!!YcfF/hinT!protein:!a!purine!nucleoside!phosphoramidase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.67%
+Cluster 584937
+15750	CP000301	Rhodopseudomonas palustris BisB18, complete genome.	No	Alphaproteobacteria	SSU ribosomal protein S13P	ABD88966
+fig|35703.89.peg.744|GT689_23045!!!SSU!ribosomal!protein!S13p!(S18e)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.17%
+Cluster 430650
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	NAD(P)H dehydrogenase (quinone)	ABV40313
+fig|35703.89.peg.1692|GT689_04385!!!FMN-dependent!NADH-azoreductase!(EC!1.7.1.6)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.66%
+Cluster 591736
+29281	CP001807	Rhodothermus marinus DSM 4252, complete genome.	No	Sphingobacteria	thioesterase superfamily protein	ACY48355
+fig|35703.89.peg.3871|GT689_14880!!!1,4-dihydroxy-2-naphthoyl-CoA!hydrolase!(EC!3.1.2.28)!in!menaquinone!biosynthesis!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.24%
+Cluster 123873
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13865
+fig|35703.89.peg.3476|GT689_12965!!!Putative!transmembrane!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.00%
+Cluster 346013
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PcaH	ADD78510
+fig|35703.89.peg.1709|GT689_04465!!!Protocatechuate!3,4-dioxygenase!beta!chain!(EC!1.13.11.3)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	81.71%
+Cluster 647844
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	50S ribosomal subunit protein L25	ABF04379
+fig|35703.89.peg.1004|GT689_01060!!!LSU!ribosomal!protein!L25p!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.30%
+Cluster 599000
+32815	FM954973	Vibrio splendidus LGP32 chromosome 2.	No	Gammaproteobacteria	Hypothetical protein	CAV25915
+fig|35703.89.peg.335|GT689_20965!!!UPF0145!protein!YbjQ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.75%
+Cluster 205073
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	CAI08474
+fig|35703.89.peg.2795|GT689_09675!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.95%
+Cluster 410344
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeaZ	ADD77302
+fig|35703.89.peg.1460|GT689_03260!!!tRNA!threonylcarbamoyladenosine!biosynthesis!protein!TsaB!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	66.67%
+Cluster 541411
+15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Yes	Gammaproteobacteria	periplasmic protein CpxP	ACD09422
+fig|35703.89.peg.4375|GT689_17270!!!Periplasmic!protein!CpxP!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.35%
+Cluster 446596
+20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Yes	Gammaproteobacteria	DNA polymerase V subunit	ACF68010
+fig|35703.89.peg.767|GT689_23155!!!Error-prone!repair!protein!UmuD!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.57%
+Cluster 764883
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14640
+fig|35703.89.peg.3116|GT689_11230!!!PyrBI!operon!leader!peptide!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	93.94%
+Cluster 352148
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Uncharacterized protein ygcF	CAY75451
+fig|35703.89.peg.4746|GT689_19115!!!7-carboxy-7-deazaguanine!synthase!(EC!4.3.99.3)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	79.37%
+Cluster 763979
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14059
+fig|35703.89.peg.601!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.43%
+Cluster 722166
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	major outer membrane lipoprotein	BAE74712
+fig|35703.89.peg.3860|GT689_14825!!!Major!outer!membrane!lipoprotein!Lpp!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.31%
+Cluster 594513
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66433
+fig|35703.89.peg.554|GT689_22100!!!FIG01048991:!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.28%
+Cluster 590626
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	holo-(acyl-carrier-protein) synthase	ABF14256
+fig|35703.89.peg.4467|GT689_17730!!!Holo-[acyl-carrier-protein]!synthase!(EC!2.7.8.7)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.32%
+Cluster 703438
+32571	FM180569	Escherichia coli 0127:H6 E2348/69 plasmid pMAR2, strain E2348/69.	Yes	Gammaproteobacteria	predicted protein	CAS07548
+fig|35703.89.peg.139|GT689_19985!!!FIG032766:!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	79.78%
+Cluster 5358
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	rhsB protein in rhs element	ABB63745
+fig|35703.89.peg.1769!!!Protein!RhsD!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.96%
+Cluster 40879
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	flagellar biosynthesis protein FlhA	ACT06402
+fig|35703.89.peg.1308|GT689_02555!!!Flagellar!biosynthesis!protein!FlhA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	83.38%
+Cluster 603514
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12262
+fig|35703.89.peg.1341|GT689_02705!!!Small!secreted!protein!YebF!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.50%
+Cluster 367370
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative 2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	ACI06570
+fig|35703.89.peg.945|GT689_00780!!!2-keto-3-deoxy-L-rhamnonate!aldolase!(EC!4.1.2.53)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	82.40%
+Cluster 127419
+17227	CP000527	Desulfovibrio vulgaris subsp. vulgaris DP4, complete genome.	No	Deltaproteobacteria	two component, sigma54 specific, transcriptional regulator, Fis family	ABM27041
+fig|35703.89.peg.688|GT689_22770!!!Response!regulator!of!zinc!sigma-54-dependent!two-component!system!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.90%
+Cluster 726201
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative lipoprotein	CAG74905
+fig|35703.89.peg.1688|GT689_04365!!!Uncharacterized!protein!YnbE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.08%
+Cluster 543086
+267	AE015451	Pseudomonas putida KT2440 complete genome.	No	Gammaproteobacteria	ribosomal protein L21	AAN66313
+fig|35703.89.peg.2355|GT689_07500!!!LSU!ribosomal!protein!L21p!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.17%
+Cluster 399435
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	putative acyl-CoA N-acyltransferase	CAU97437
+fig|35703.89.peg.1752|GT689_04670!!!L-amino!acid!N-acyltransferase!MnaT!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.63%
+Cluster 590909
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	proteinase inhibitor	ABA49478
+fig|35703.89.peg.1021|GT689_01140!!!UPF0153!protein!YeiW!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.71%
+Cluster 490794
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	ribonuclease HII	BAE75204
+fig|35703.89.peg.2793|GT689_09665!!!Ribonuclease!HII!(EC!3.1.26.4)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.26%
+Cluster 126257
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB61668
+fig|35703.89.peg.3932|GT689_15175!!!Succinylarginine!dihydrolase!(EC!3.5.3.23)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	83.67%
+Cluster 605092
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	protein UmuD	CBJ46714
+fig|35703.89.peg.1472|GT689_03310!!!Error-prone!repair!protein!UmuD!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.43%
+Cluster 754783
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	protein of unknown function UPF0057	ACT07392
+fig|35703.89.peg.4641|GT689_18580!!!UPF0057!membrane!protein!YqaE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.36%
+Cluster 33281
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BAD48352
+fig|35703.89.peg.238|GT689_20495!!!Adenosylmethionine-8-amino-7-oxononanoate!aminotransferase!(EC!2.6.1.62)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.61%
+Cluster 741719
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58698
+fig|35703.89.peg.43|GT689_19530!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.76%
+Cluster 663730
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAH21730
+fig|35703.89.peg.4139|GT689_16145!!!Putative!outer!membrane!lipoprotein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.33%
+Cluster 229771
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.42|GT689_19525!!!RecA-like!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	98.88%
+Cluster 772232
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	conserved predicted protein	BAI27223
+fig|35703.89.peg.2571|GT689_08575!!!Uncharacterized!protein!YqgB!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.74%
+Cluster 472547
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	Repressor protein C2	CAQ91836
+fig|35703.89.peg.4040|GT689_15670!!!Phage!cI!repressor!(ACLAME!5)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.38%
+Cluster 670525
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR78958
+fig|35703.89.peg.2385|GT689_07660!!!UPF0213!protein!YhbQ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.00%
+Cluster 619453
+19449	CP001322	Desulfatibacillum alkenivorans AK-01, complete genome.	No	Deltaproteobacteria	microcompartments protein	ACL06672
+fig|35703.89.peg.1168|GT689_01855!!!Propanediol!utilization!polyhedral!body!protein!PduJ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.53%
+fig|35703.89.peg.1175|GT689_01890!!!Propanediol!utilization!polyhedral!body!protein!PduA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.53%
+Cluster 514155
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative CI repressor	BAB33723
+fig|35703.89.peg.4620|GT689_18475!!!FIG118045:!Phage!immunity!repressor!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.05%
+Cluster 511887
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	ACF64245
+fig|35703.89.peg.327|GT689_20925!!!Inner!membrane!protein!YbjO!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	79.01%
+Cluster 707853
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein	AAN82098
+fig|35703.89.peg.2131|GT689_06420!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	79.41%
+Cluster 567373
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YbdB	ADD75612
+fig|35703.89.peg.3673|GT689_13910!!!Proofreading!thioesterase!in!enterobactin!biosynthesis!EntH!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.50%
+Cluster 337559
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	3-oxoacyl- reductase	AAW74135
+fig|35703.89.peg.4095|GT689_15930!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.85%
+Cluster 749444
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14762
+fig|35703.89.peg.3018|GT689_10735!!!Entericidin!A!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	84.09%
+Cluster 589165
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	creA protein	AAY94535
+fig|35703.89.peg.2600|GT689_08720!!!Conserved!uncharacterized!protein!CreA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.50%
+Cluster 119825
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CoaBC	ADD79072
+fig|35703.89.peg.2075|GT689_06160!!!Phosphopantothenoylcysteine!decarboxylase!(EC!4.1.1.36)!/!Phosphopantothenoylcysteine!synthetase!(EC!6.3.2.5)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	77.64%
+Cluster 220511
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	pyrimidine specific nucleoside hydrolase	BAH63617
+fig|35703.89.peg.3722|GT689_14135!!!Pyrimidine-specific!ribonucleoside!hydrolase!RihA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.82%
+Cluster 447118
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.109|GT689_19840!!!DNA!modification!methylase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.05%
+Cluster 572212
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	UPF0382 membrane protein SSP2132	CAY75468
+fig|35703.89.peg.4785|GT689_19295!!!FIG00018398:!hypothetical!regulator!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.70%
+Cluster 346389
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	transcriptional regulator, AraC family	ACA67445
+fig|35703.89.peg.3920|GT689_15125!!!N,N'-diacetylchitobiose-specific!regulator!ChbR,!AraC!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.16%
+Cluster 588380
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58705
+fig|35703.89.peg.32|GT689_19475!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.44%
+Cluster 662044
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACN48248
+fig|35703.89.peg.3173|GT689_11500!!!(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione!isomerase!(EC!5.3.1.32)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.79%
+Cluster 588853
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAQ90070
+fig|35703.89.peg.3529|GT689_13215!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.40%
+Cluster 153748
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	tyrosyl-tRNA synthetase, putative	ACR69272
+fig|35703.89.peg.3806|GT689_14550!!!Tyrosyl-tRNA!synthetase!(EC!6.1.1.1)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.80%
+Cluster 186042
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative membrane protein	CBJ46810
+fig|35703.89.peg.1153|GT689_01780!!!Inner!membrane!protein!YeeA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.20%
+Cluster 18794
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	ATP-dependent Clp protease ATP-binding subunit clpA	ABA48302
+fig|35703.89.peg.352|GT689_21050!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.48%
+Cluster 462875
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	Mammalian cell entry related domain protein	ACT08606
+fig|35703.89.peg.2348|GT689_07465!!!Phospholipid!ABC!transporter!substrate-binding!protein!MlaD!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.19%
+Cluster 73735
+65	AE000513	Deinococcus radiodurans R1 chromosome 1, complete sequence.	No	Deinococci	L-lactate permease, putative	AAF11456
+fig|35703.89.peg.2039|GT689_05985!!!L-lactate!permease!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.07%
+Cluster 413709
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein; putative bipartite regulator domain	CAQ90272
+fig|35703.89.peg.3382|GT689_12525!!!Uncharacterized!protein!YqeH!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.81%
+Cluster 750921
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG70875
+fig|35703.89.peg.3280!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.86%
+Cluster 733727
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58720
+fig|35703.89.peg.13|GT689_19390!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.24%
+Cluster 733723
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58691
+fig|35703.89.peg.51|GT689_19570!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	85.71%
+Cluster 676379
+10642	CP000117	Anabaena variabilis ATCC 29413, complete genome.	No	Nostocales	Glutaredoxin, GrxC	ABA21763
+fig|35703.89.peg.2046|GT689_06020!!!Glutaredoxin!3!(Grx3)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.06%
+Cluster 697685
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.106|GT689_19825!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.13%
+Cluster 440286
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	SeqA protein	AAN79247
+fig|35703.89.peg.3752|GT689_14295!!!SeqA!protein,!negative!modulator!of!initiation!of!replication!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.06%
+Cluster 434617
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	thiamine-phosphate pyrophosphorylase	AAS63273
+fig|35703.89.peg.699|GT689_22825!!!Thiamin-phosphate!pyrophosphorylase!(EC!2.5.1.3)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.67%
+Cluster 697943
+13151	CP000038	Shigella sonnei Ss046, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAZ90864
+fig|35703.89.peg.3053|GT689_10925!!!Uncharacterized!protein!YjfY!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.73%
+Cluster 767506
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	50S ribosomal protein L36	CAO97529
+fig|35703.89.peg.3550|GT689_13320!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	78.26%
+Cluster 577567
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62882
+fig|35703.89.peg.4549|GT689_18120!!!Uncharacterized!protein!YfgD,!not!an!arsenate!reductase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.34%
+Cluster 107925
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	transposase	ABX87410
+fig|35703.89.peg.3151!!!Mobile!element!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.75%
+Cluster 43615
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH77166
+fig|35703.89.peg.549|GT689_22075!!!Phage!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.93%
+Cluster 237423
+13943	CP000546	Burkholderia mallei NCTC 10229 chromosome I, complete sequence.	Yes	Betaproteobacteria	putative membrane protein	ABN01987
+fig|35703.89.peg.157|GT689_20075!!!FIG015373:!Membrane!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.46%
+Cluster 530954
+32571	FM180569	Escherichia coli 0127:H6 E2348/69 plasmid pMAR2, strain E2348/69.	Yes	Gammaproteobacteria	predicted protein	CAS07547
+fig|35703.89.peg.138|GT689_19980!!!FIG001353:!Acetyltransferase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.22%
+Cluster 213947
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13490
+fig|35703.89.peg.230|GT689_20455!!!6-phosphogluconolactonase!(EC!3.1.1.31)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	97.58%
+Cluster 2473
+16646	CP000306	Yersinia pestis Nepal516 plasmid pMT, complete sequence.	Yes	Gammaproteobacteria	membrane protein	ABG20325
+fig|35703.89.peg.127|GT689_19930!!!putative!membrane!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.74%
+Cluster 28129
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative porphyrin biosynthetic protein	AAS58709
+fig|35703.89.peg.29|GT689_19460!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.01%
+Cluster 621559
+42729	CP001847	Escherichia coli O55:H7 str. CB9615 plasmid pO55, complete sequence.	Yes	Gammaproteobacteria	Nucleotidyltransferase/DNA polymerase involved in DNA repair	ADD59770
+fig|35703.89.peg.2128|GT689_06405!!!Error-prone,!lesion!bypass!DNA!polymerase!V!(UmuC)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	66.23%
+Cluster 692575
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.97|GT689_19785!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	81.72%
+Cluster 682452
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	DNA damage-inducible protein I, inhibits UmuD processing	AAX65016
+fig|35703.89.peg.4129|GT689_16095!!!DNA-damage-inducible!protein!I!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.59%
+Cluster 307287
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	BAH62865
+fig|35703.89.peg.4036|GT689_15650!!!Phage!DNA!replication!protein!O!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.79%
+Cluster 532816
+13126	CR628337	Legionella pneumophila str. Lens complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S7	CAH14596
+fig|35703.89.peg.1789|GT689_04765!!!SSU!ribosomal!protein!S7p!(S5e)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.59%
+Cluster 540802
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH77658
+fig|35703.89.peg.2898|GT689_10160!!!Holin-like!protein!CidA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.59%
+Cluster 554973
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	pantetheine-phosphate adenylyltransferase	ABF14068
+fig|35703.89.peg.2070|GT689_06135!!!Phosphopantetheine!adenylyltransferase!(EC!2.7.7.3)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.01%
+Cluster 451981
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	adenine-specific DNA methyltransferase	ACI10510
+fig|35703.89.peg.1360|GT689_02795!!!Adenine-specific!DNA!methyltransferase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.04%
+Cluster 567434
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.122|GT689_19905!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	97.45%
+Cluster 662027
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACF63492
+fig|35703.89.peg.1912|GT689_05360!!!tRNA!5-methylaminomethyl-2-thiouridine!synthesis!sulfur!carrier!protein!TusA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.65%
+Cluster 555721
+13946	CP000548	Burkholderia mallei NCTC 10247 chromosome I, complete sequence.	Yes	Betaproteobacteria	50S ribosomal protein L28	ABO05945
+fig|35703.89.peg.2073|GT689_06150!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	70.51%
+Cluster 717944
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF02752
+fig|35703.89.peg.3603|GT689_13585!!!Uncharacterized!S4!RNA-binding-domain!protein!YbcJ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.43%
+Cluster 150840
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	survival protein SurA precursor	BAE73701
+fig|35703.89.peg.2664|GT689_09040!!!Periplasmic!chaperone!and!peptidyl-prolyl!cis-trans!isomerase!of!outer!membrane!proteins!SurA!(EC!5.2.1.8)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.50%
+Cluster 709468
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	conserved hypothetical protein	CBJ46349
+fig|35703.89.peg.3817|GT689_14605!!!Uncharacterized!protein!YdhL!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.29%
+Cluster 438552
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	putative HTH-type transcriptional regulator YhjB	CAQ90980
+fig|35703.89.peg.1958|GT689_05590!!!Uncharacterized!transcriptional!regulator!YhjB,!LuxR!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	78.39%
+Cluster 594763
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.119|GT689_19890!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	79.86%
+Cluster 463953
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.114|GT689_19865!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.84%
+Cluster 290842
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	UDP-glucose:glucosyl LPS a 1, 2-glucosyltransferase	CAQ91354
+fig|35703.89.peg.2064|GT689_06110!!!CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase!(EC!2.4.99.-)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.66%
+Cluster 136844
+15713	CR954247	Pseudoalteromonas haloplanktis str. TAC125 chromosome II, complete sequence.	No	Gammaproteobacteria	putative idonate or gluconate permease	CAI89516
+fig|35703.89.peg.1880|GT689_05210!!!Low-affinity!gluconate/H+!symporter!GntU!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.54%
+Cluster 61734
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Glucose-1-phosphatase	CAX55999
+fig|35703.89.peg.4169|GT689_16300!!!Glucose-1-phosphatase!(EC!3.1.3.10)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.74%
+Cluster 493192
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	zinc uptake regulation protein	ABG72212
+fig|35703.89.peg.2867|GT689_10025!!!Zinc!uptake!regulation!protein!Zur!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.74%
+Cluster 166956
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	urea ABC transporter, permease protein UrtC	ACR02516
+fig|35703.89.peg.386|GT689_21230!!!Urea!ABC!transporter,!permease!protein!UrtC!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.46%
+Cluster 736406
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	hypothetical protein	ABQ78626
+fig|35703.89.peg.1676|GT689_04305!!!Uncharacterized!protein!YmdF!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.21%
+Cluster 736407
+17629	CP000926	Pseudomonas putida GB-1, complete genome.	No	Gammaproteobacteria	hypothetical protein	ABY98527
+fig|35703.89.peg.1585|GT689_03875!!!Uncharacterized!protein!YmdF!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.33%
+fig|35703.89.peg.4166|GT689_16285!!!Uncharacterized!protein!YmdF!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.68%
+Cluster 669507
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14524
+fig|35703.89.peg.3213|GT689_11695!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	100.00%
+Cluster 339687
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein; putative antirestriction protein	CAR06040
+fig|35703.89.peg.2142|GT689_06465!!!Antirestriction!protein!klcA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.50%
+Cluster 296140
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20690
+fig|35703.89.peg.1097|GT689_01500!!!DNA-3-methyladenine!glycosylase!II!(EC!3.2.2.21)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.70%
+Cluster 2889
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.132|GT689_19955!!!Phage!tail!tip,!host!specificity!protein!J!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	77.85%
+Cluster 504471
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Protein yfbU	AAN81289
+fig|35703.89.peg.899|GT689_00560!!!UPF0304!protein!yfbU!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.73%
+Cluster 74375
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	DEAD/DEAH box helicase domain protein	ACS61740
+fig|35703.89.peg.261|GT689_20605!!!ATP-dependent!RNA!helicase!RhlE!(EC!3.6.4.13)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.90%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|35703.89.peg.726|GT689_22955!!!SSU!ribosomal!protein!S19p!(S15e)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.57%
+Cluster 443458
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	Sua5/YciO/YrdC/YwlC family protein	ACR12471
+fig|35703.89.peg.1594|GT689_03915!!!YciO!protein,!TsaC/YrdC!paralog!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.14%
+Cluster 34422
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	formate-dependent nitrite reduCtase; involved in attachment of haem c to cytochrome c552	ACF64683
+fig|35703.89.peg.2908|GT689_10210!!!Formate-dependent!nitrite!reductase!complex!subunit!NrfF!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.15%
+Cluster 34424
+20063	CP001138	Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.	Yes	Gammaproteobacteria	formate-dependent nitrite reductase	ACH51347
+fig|35703.89.peg.2907|GT689_10205!!!Cytochrome!c-type!heme!lyase!subunit!nrfE,!nitrite!reductase!complex!assembly!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	82.09%
+Cluster 402309
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58650
+fig|35703.89.peg.124|GT689_19915!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.53%
+Cluster 204923
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative ribonucleoside-diphosphate reductase beta subunit	AAS58680
+fig|35703.89.peg.954|GT689_00825!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!beta!subunit!(EC!1.17.4.1)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.97%
+Cluster 565315
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58724
+fig|35703.89.peg.10|GT689_19375!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	79.11%
+Cluster 638084
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	Carboxymuconolactone decarboxylase	ACS63360
+fig|35703.89.peg.4408|GT689_17430!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.60%
+Cluster 596227
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Protein P5; Protein V	CAY74597
+fig|35703.89.peg.567|GT689_22165!!!Structural!protein!P5!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.47%
+Cluster 629692
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative cytoplasmic protein	AAX66811
+fig|35703.89.peg.4767|GT689_19210!!!Uncharacterized!protein!YqcC!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	84.40%
+Cluster 517859
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	lactoylglutathione lyase	ACP05284
+fig|35703.89.peg.3820|GT689_14620!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.15%
+Cluster 409368
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	response regulator receiver and unknown domain protein	ACQ94150
+fig|35703.89.peg.2945|GT689_10390!!!Fumarate!respiration!two-component!response!regulator!DcuR!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.62%
+Cluster 156930
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	2-dehydro-3-deoxygluconokinase	ABE09487
+fig|35703.89.peg.1965|GT689_05625!!!2-dehydro-3-deoxygluconokinase!(EC!2.7.1.45)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.29%
+Cluster 617703
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative 6-O-methylguanine DNA methyltransferase-family protein	CBJ45683
+fig|35703.89.peg.3543|GT689_13280!!!DNA!base-flipping!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.90%
+Cluster 503114
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	probable glutathione peroxidase	CAY74455
+fig|35703.89.peg.3896|GT689_15005!!!Glutathione!peroxidase!(EC!1.11.1.9)!@!Thioredoxin!peroxidase!(EC!1.11.1.15)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.93%
+Cluster 552793
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82118
+fig|35703.89.peg.716|GT689_22905!!!Translation!elongation!factor!Tu!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.62%
+Cluster 43853
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	transketolase	ACY35378
+fig|35703.89.peg.2575|GT689_08595!!!Transketolase!(EC!2.2.1.1)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.63%
+Cluster 335592
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF06037
+fig|35703.89.peg.4438|GT689_17580!!!Unsaturated!fatty!acid!biosythesis!repressor!FabR,!TetR!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.76%
+Cluster 163404
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58660
+fig|35703.89.peg.115|GT689_19870!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	97.61%
+Cluster 226121
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative exonuclease subunit 1	AAS58686
+fig|35703.89.peg.55|GT689_19590!!!Phage!exonuclease!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	93.63%
+Cluster 402325
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.58|GT689_19600!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.73%
+Cluster 399494
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	YheO domain protein	ACS84207
+fig|35703.89.peg.1794|GT689_04790!!!YheO-like!PAS!domain!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.33%
+Cluster 437770
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	putative DNA-binding transcriptional regulator (Lrp-like)	CAR01791
+fig|35703.89.peg.3535|GT689_13245!!!DNA-binding!transcriptional!activator!DecR,!AsnC!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.74%
+Cluster 202396
+13474	CP000115	Nitrobacter winogradskyi Nb-255, complete genome.	No	Alphaproteobacteria	chorismate synthase	ABA03896
+fig|35703.89.peg.838|GT689_00270!!!Chorismate!synthase!(EC!4.2.3.5)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.71%
+Cluster 357300
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	bacitracin resistance protein	BAE73532
+fig|35703.89.peg.2481|GT689_08145!!!Undecaprenyl-diphosphatase!(EC!3.6.1.27)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.92%
+Cluster 409563
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	transcriptional regulator, GntR family	ACZ74915
+fig|35703.89.peg.262|GT689_20610!!!Transcriptional!regulator,!GntR!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.95%
+Cluster 459554
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	transposase, probable fragment	CAX54148
+fig|35703.89.peg.3628!!!ISSod13,!transposase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	66.37%
+Cluster 491848
+17729	CP000769	Anaeromyxobacter sp. Fw109-5, complete genome.	No	Deltaproteobacteria	fimbrial protein pilin	ABS24893
+fig|35703.89.peg.3978|GT689_15390!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.50%
+Cluster 98242
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	arginine succinyltransferase	AAX65233
+fig|35703.89.peg.3934|GT689_15185!!!Arginine!N-succinyltransferase!(EC!2.3.1.109)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.45%
+Cluster 532913
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.104|GT689_19815!!!Transcriptional!regulator!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.00%
+Cluster 718358
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65442
+fig|35703.89.peg.2286|GT689_07165!!!Uncharacterized!protein!YhdT!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.25%
+Cluster 618080
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative Trp operon repressor	AAS63878
+fig|35703.89.peg.2596|GT689_08700!!!Transcriptional!repressor!protein!TrpR!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.44%
+Cluster 273695
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative FNT family, formate transporter (formate channel 1)	AAX64834
+fig|35703.89.peg.4289|GT689_16860!!!Formate!efflux!transporter!FocA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.74%
+Cluster 281439
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	tRNA pseudouridine synthase B	BAJ03258
+fig|35703.89.peg.2373|GT689_07600!!!tRNA!pseudouridine(55)!synthase!(EC!5.4.99.25)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.97%
+Cluster 517105
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11886
+fig|35703.89.peg.1114|GT689_01585!!!GDP-mannose!mannosyl!hydrolase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	79.25%
+Cluster 649577
+15763	CP000453	Alkalilimnicola ehrlichii MLHE-1, complete genome.	No	Gammaproteobacteria	SSU ribosomal protein S16P	ABI56238
+fig|35703.89.peg.4594|GT689_18350!!!SSU!ribosomal!protein!S16p!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.41%
+Cluster 301372
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S2	ABE05693
+fig|35703.89.peg.2779|GT689_09595!!!SSU!ribosomal!protein!S2p!(SAe)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	98.76%
+Cluster 129515
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative peptidase	ABB62764
+fig|35703.89.peg.4513|GT689_17950!!!Peptidase!B!(EC!3.4.11.23)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.74%
+Cluster 233862
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	putative racemase	CAR14333
+fig|35703.89.peg.3392|GT689_12575!!!Uncharacterized!protein!YgeA!of!aspartate/glutamate/hydantoin!racemase!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	84.35%
+Cluster 365243
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF03600
+fig|35703.89.peg.1447|GT689_03195!!!Putative!manganese!efflux!pump!MntP!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.49%
+Cluster 122210
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	NAD(P) transhydrogenase, beta subunit	BAJ01669
+fig|35703.89.peg.3773|GT689_14395!!!NAD(P)!transhydrogenase!subunit!beta!(EC!1.6.1.2)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.73%
+Cluster 3629
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	ATP-dependent helicase	CAV18959
+fig|35703.89.peg.1694|GT689_04390!!!ATP-dependent!helicase!HrpA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.54%
+Cluster 654299
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB64478
+fig|35703.89.peg.3237|GT689_11815!!!FIG00510125:!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.23%
+Cluster 133370
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX23224
+fig|35703.89.peg.2910|GT689_10220!!!Proton/glutamate!symporter!@!Proton/aspartate!symporter!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	97.06%
+Cluster 444387
+19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Yes	Gammaproteobacteria	YfaZ superfamily	ACF90243
+fig|35703.89.peg.940|GT689_00755!!!Uncharacterized!outer!membrane!protein!YfaZ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.44%
+Cluster 401804
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	inositol monophosphatase family protein	BAE73625
+fig|35703.89.peg.3069|GT689_11005!!!3'(2'),5'-bisphosphate!nucleotidase!(EC!3.1.3.7)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.36%
+Cluster 507125
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	Resolvase domain protein	ACS86818
+fig|35703.89.peg.765|GT689_23150!!!Phage!DNA!invertase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.41%
+Cluster 68368
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	gamma-glutamyltranspeptidase	CBJ47953
+fig|35703.89.peg.1886|GT689_05240!!!Gamma-glutamyltranspeptidase!(EC!2.3.2.2)!@!Glutathione!hydrolase!(EC!3.4.19.13)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.25%
+Cluster 556921
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	transcriptional repressor NsrR	ACF64326
+fig|35703.89.peg.3046|GT689_10890!!!Nitrite-sensitive!transcriptional!repressor!NsrR!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.04%
+Cluster 684128
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881
+fig|35703.89.peg.3898|GT689_15015!!!Integration!host!factor!alpha!subunit!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.95%
+Cluster 142789
+28539	CP001135	Edwardsiella tarda EIB202, complete genome.	Yes	Gammaproteobacteria	flagellar biosynthetic protein	ACY84062
+fig|35703.89.peg.1307|GT689_02550!!!Flagellar!biosynthesis!protein!FlhB!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.02%
+Cluster 274631
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE75288
+fig|35703.89.peg.2591|GT689_08675!!!Protein!involved!in!stability!of!MscS!mechanosensitive!channel!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.89%
+Cluster 602594
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	anaerobic dimethyl sulfoxide reductase, subunit B	AAX65420
+fig|35703.89.peg.3754!!!Anaerobic!dimethyl!sulfoxide!reductase!chain!B!(EC!1.8.5.3),!iron-sulfur!binding!subunit!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	100.00%
+fig|35703.89.peg.4295!!!Anaerobic!dimethyl!sulfoxide!reductase!chain!B!(EC!1.8.5.3),!iron-sulfur!binding!subunit!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	100.00%
+Cluster 482241
+9635	CP000089	Dechloromonas aromatica RCB, complete genome.	No	Betaproteobacteria	Phenylacetic acid degradation protein PaaY	AAZ45144
+fig|35703.89.peg.2645|GT689_08945!!!Carnitine!operon!protein!CaiE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.11%
+Cluster 625649
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAQ90916
+fig|35703.89.peg.1908|GT689_05340!!!Uncharacterized!protein!YhhL!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.01%
+Cluster 745610
+20585	CU468130	Erwinia tasmaniensis strain ET1/99 complete plasmid pET35.	No	Gammaproteobacteria	Conserved hypothetical protein	CAO94827
+fig|35703.89.peg.98|GT689_19790!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.52%
+Cluster 630154
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative monothiol glutaredoxin ydhD	CBJ81617
+fig|35703.89.peg.3823|GT689_14635!!!Monothiol!glutaredoxin!GrxD!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.09%
+Cluster 84587
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66428
+fig|35703.89.peg.559|GT689_22125!!!glycosyl!transferase!family!51!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.62%
+Cluster 355968
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative aromatic ring-opening dioxygenase	CBJ47665
+fig|35703.89.peg.2493|GT689_08200!!!4,5-DOPA!dioxygenase!extradiol!(EC!1.13.11.29),!but!not!physiological!substrate!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.76%
+Cluster 260158
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	malate dehydrogenase	ABE09111
+fig|35703.89.peg.2311|GT689_07285!!!Malate!dehydrogenase!(EC!1.1.1.37)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.47%
+Cluster 457519
+241	AE006468	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.	Yes	Gammaproteobacteria	formate-dependent nitrite reductase	AAL23102
+fig|35703.89.peg.2904|GT689_10190!!!Cytochrome!c-type!protein!NrfB!precursor!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.17%
+Cluster 297970
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	putative iron transport protein, ATP-binding component	ACP26838
+fig|35703.89.peg.4711|GT689_18940!!!Manganese!ABC!transporter,!ATP-binding!protein!SitB!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.89%
+Cluster 609339
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.2879!!!Transposase,!IS200!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.00%
+Cluster 541713
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15089
+fig|35703.89.peg.4645|GT689_18600!!!L-alanine!exporter!AlaE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.60%
+Cluster 112569
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	putative enzyme	ABF05182
+fig|35703.89.peg.2451|GT689_07985!!!23S!rRNA!(guanine(1835)-N(2))-methyltransferase!(EC!2.1.1.174)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.48%
+Cluster 662778
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	cytochrome O ubiquinol oxidase subunit CyoD	AAS61029
+fig|35703.89.peg.3514|GT689_13150!!!Cytochrome!O!ubiquinol!oxidase!subunit!IV!(EC!1.10.3.-)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.42%
+Cluster 548248
+259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Yes	Gammaproteobacteria	unknown protein associated with Rhs element	AAG56317
+fig|35703.89.peg.630!!!Protein!RhsD!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.28%
+Cluster 35586
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	methionyl-tRNA synthetase	ACP05309
+fig|35703.89.peg.1073|GT689_01395!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.71%
+Cluster 715382
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04136
+fig|35703.89.peg.1225|GT689_02150!!!DsrB!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	93.65%
+Cluster 103278
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15641
+fig|35703.89.peg.2354|GT689_07495!!!Octaprenyl!diphosphate!synthase!(EC!2.5.1.90)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.67%
+Cluster 476485
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	ferritin	AAS61843
+fig|35703.89.peg.1274|GT689_02395!!!Bacterial!non-heme!ferritin!(EC!1.16.3.2)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.45%
+Cluster 757748
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	ribosomal protein L36	ABQ76678
+fig|35703.89.peg.743|GT689_23040!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.84%
+Cluster 365588
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	UgpQ	ADD78878
+fig|35703.89.peg.1888|GT689_05250!!!Glycerophosphoryl!diester!phosphodiesterase!(EC!3.1.4.46)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	70.16%
+Cluster 363196
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU77431
+fig|35703.89.peg.3973|GT689_15365!!!Uncharacterized!protein!Pfl_4311!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.49%
+Cluster 216470
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	porphobilinogen deaminase	AAS63365
+fig|35703.89.peg.495|GT689_21770!!!Porphobilinogen!deaminase!(EC!2.5.1.61)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	78.93%
+Cluster 555166
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	putative acetyltransferase, GNAT family	CAK15068
+fig|35703.89.peg.2150|GT689_06505!!!Acetyltransferase,!GNAT!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.17%
+Cluster 371838
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative phage tail protein	AAS58644
+fig|35703.89.peg.130|GT689_19945!!!Phage!tail!tip,!assembly!protein!K!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.81%
+Cluster 612524
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	putative 6-pyruvoyl tetrahydrobiopterin synthase	CAV18990
+fig|35703.89.peg.4735|GT689_19060!!!6-carboxy-5,6,7,8-tetrahydropterin!synthase!(EC!4.1.2.50)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	77.50%
+Cluster 501925
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Hypothetical Protein	ADD75720
+fig|35703.89.peg.1923|GT689_05415!!!FIG017861:!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.32%
+Cluster 603331
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative lipoprotein	AAS58670
+fig|35703.89.peg.105|GT689_19820!!!putative!lipoprotein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	82.86%
+Cluster 49430
+20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	No	Gammaproteobacteria	CP4-6 prophage; predicted dehydratase	ACB01436
+fig|35703.89.peg.3182|GT689_11545!!!Uncharacterized!dehydratase!YagF!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.72%
+Cluster 58566
+13954	CP000125	Burkholderia pseudomallei 1710b chromosome II, complete sequence.	Yes	Betaproteobacteria	ubiquinol oxidase family protein	ABA51670
+fig|35703.89.peg.1674|GT689_04295!!!Cytochrome!d!ubiquinol!oxidase!subunit!I!(EC!1.10.3.-)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.25%
+fig|35703.89.peg.1734|GT689_04585!!!Cytochrome!d!ubiquinol!oxidase!subunit!I!(EC!1.10.3.-)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.67%
+Cluster 730504
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX21415
+fig|35703.89.peg.3793|GT689_14485!!!beta-lactam!resistance!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	77.78%
+Cluster 13074
+13151	CP000038	Shigella sonnei Ss046, complete genome.	Yes	Gammaproteobacteria	rhsB protein in rhs element	AAZ90355
+fig|35703.89.peg.4573|GT689_18240!!!core!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.47%
+Cluster 324150
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	phosphoglycerate mutase	ABE42842
+fig|35703.89.peg.212|GT689_20370!!!Phosphoglycerate!mutase!(EC!5.4.2.11)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.20%
+Cluster 170609
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.30|GT689_19465!!!CobS-like!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.16%
+Cluster 495869
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	transcription termination/antitermination factor NusG	AAZ25723
+fig|35703.89.peg.713|GT689_22895!!!Transcription!antitermination!protein!NusG!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.27%
+Cluster 266021
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Psp operon transcriptional activator	CAO96684
+fig|35703.89.peg.1624|GT689_04055!!!Psp!operon!transcriptional!activator!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.60%
+Cluster 396417
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15009
+fig|35703.89.peg.4598|GT689_18370!!!Heat!shock!protein!GrpE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.92%
+Cluster 370205
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	ribonuclease III	AAZ27454
+fig|35703.89.peg.4463|GT689_17710!!!Ribonuclease!III!(EC!3.1.26.3)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.83%
+Cluster 530126
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15294
+fig|35703.89.peg.3378|GT689_12505!!!Fimbrial!protein!precursor!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	78.53%
+Cluster 387786
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	ubiquinone biosynthesis methyltransferase	CAK17706
+fig|35703.89.peg.471|GT689_21650!!!2-methoxy-6-polyprenyl-1,4-benzoquinol!methylase!(EC!2.1.1.201)!@!Demethylmenaquinone!methyltransferase!(EC!2.1.1.163)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.53%
+Cluster 322381
+13908	CP000267	Rhodoferax ferrireducens T118, complete genome.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABD69505
+fig|35703.89.peg.4259|GT689_16710!!!Alkanesulfonate!ABC!transporter!permease!protein!SsuC!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.50%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|35703.89.peg.732|GT689_22985!!!LSU!ribosomal!protein!L14p!(L23e)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.80%
+Cluster 556965
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	flagellar basal body-associated protein FliL	ACT06424
+fig|35703.89.peg.1233|GT689_02190!!!Flagellar!basal!body-associated!protein!FliL!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.69%
+Cluster 446474
+28711	CP001804	Haliangium ochraceum DSM 14365, complete genome.	No	Deltaproteobacteria	ribosomal protein L5	ACY16492
+fig|35703.89.peg.734|GT689_22995!!!LSU!ribosomal!protein!L5p!(L11e)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.45%
+Cluster 282478
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative dienelactone hydrolase	BAH61095
+fig|35703.89.peg.474|GT689_21665!!!Dienelactone!hydrolase!family!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	81.78%
+Cluster 769942
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	KdpF	ADD78958
+fig|35703.89.peg.149|GT689_20035!!!Protein!KdpF!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	79.31%
+Cluster 404057
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE74144
+fig|35703.89.peg.153|GT689_20055!!!GTP!cyclohydrolase!1!type!2!homolog!YbgI!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.11%
+Cluster 148765
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	queuine/archaeosine tRNA-ribosyltransferase	BAC93510
+fig|35703.89.peg.3486|GT689_13010!!!Queuine!tRNA-ribosyltransferase!(EC!2.4.2.29)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.80%
+Cluster 286557
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	diadenosine tetraphosphatase	ABF06143
+fig|35703.89.peg.2875|GT689_10065!!!NMN!phosphatase!(EC!3.1.3.5);!Class!B!acid!phosphatase!precursor!(EC!3.1.3.2)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.87%
+Cluster 711939
+16426	CP000362	Roseobacter denitrificans OCh 114, complete genome.	No	Alphaproteobacteria	ribosomal protein L33-related protein	ABG31601
+fig|35703.89.peg.2072|GT689_06145!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.45%
+Cluster 706335
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YfaE	ADD77785
+fig|35703.89.peg.953|GT689_00820!!!YfaE:!ferredoxin!involved!with!ribonucleotide!reductase!diferric-tyrosyl!radical!(Y*)!cofactor!maintenance!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.10%
+Cluster 661828
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58692
+fig|35703.89.peg.50|GT689_19565!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.86%
+Cluster 589918
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YneG	ADD76267
+fig|35703.89.peg.401|GT689_21305!!!Uncharacterized!protein!YneG!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.07%
+Cluster 721325
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB62753
+fig|35703.89.peg.4526|GT689_18015!!!Uncharacterized!protein!YfgJ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.49%
+Cluster 642063
+28329	CP000934	Cellvibrio japonicus Ueda107, complete genome.	No	Gammaproteobacteria	himD/ihfB	ACE85853
+fig|35703.89.peg.4281|GT689_16820!!!Integration!host!factor!beta!subunit!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	66.04%
+Cluster 539056
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAQ87726
+fig|35703.89.peg.2741|GT689_09405!!!Predicted!chaperone!lipoprotein!YacC,!potentially!involved!in!protein!secretion!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.53%
+Cluster 651509
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU77417
+fig|35703.89.peg.3956|GT689_15290!!!Uncharacterized!protein!YeaC!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	78.02%
+Cluster 3688
+259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Yes	Gammaproteobacteria	putative beta-barrel outer membrane protein	AAG54657
+fig|35703.89.peg.1768|GT689_04750!!!Putative!autotransporter!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.06%
+Cluster 299099
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14536
+fig|35703.89.peg.3201|GT689_11635!!!Transcriptional!regulator,!LysR!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	93.83%
+Cluster 664410
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH76380
+fig|35703.89.peg.544|GT689_22050!!!FIG01047481:!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.45%
+Cluster 13099
+28805	CP001196	Oligotropha carboxidovorans OM5 strain OM5, complete genome.	No	Alphaproteobacteria	excinuclease ABC subunit B	ACI94287
+fig|35703.89.peg.244|GT689_20520!!!Excinuclease!ABC!subunit!B!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.03%
+Cluster 144835
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|35703.89.peg.3268|GT689_11975!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.34%
+Cluster 474460
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YdaL	ADD77158
+fig|35703.89.peg.1657|GT689_04215!!!Probable!DNA!endonuclease!SmrA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.43%
+Cluster 580467
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	PEP-dependent phosphotransferase enzyme III	ABF03671
+fig|35703.89.peg.3921|GT689_15130!!!PTS!system,!N,N'-diacetylchitobiose-specific!IIA!component!(EC!2.7.1.196)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	93.04%
+Cluster 226696
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	ribosomal large subunit pseudouridine synthase C	AAZ26427
+fig|35703.89.peg.4102|GT689_15965!!!LSU!rRNA!pseudouridine(955/2504/2580)!synthase!(EC!5.4.99.24)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.09%
+Cluster 353060
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative lipoprotein	AAS58697
+fig|35703.89.peg.44|GT689_19535!!!putative!lipoprotein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.38%
+Cluster 769093
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14394
+fig|35703.89.peg.2680|GT689_09115!!!Sugar-phosphate!stress!protein!SgrT!(embedded!in!SgrS)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.50%
+Cluster 329498
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76586
+fig|35703.89.peg.3003|GT689_10660!!!Transcriptional!regulator,!AraC!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.09%
+Cluster 689689
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	IS1400 transposase A	CAL11218
+fig|35703.89.peg.2541!!!Transposase,!IS3/IS911!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.91%
+Cluster 408003
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12456
+fig|35703.89.peg.1564|GT689_03770!!!UPF0056!inner!membrane!protein!YchE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	93.49%
+Cluster 95819
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative sensor histidine protein kinase	BAB33840
+fig|35703.89.peg.3432|GT689_12750!!!Two-component!system!sensor!histidine!kinase!KOX_12275!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.72%
+Cluster 113538
+288	AE009952	Yersinia pestis KIM, complete genome.	Yes	Gammaproteobacteria	maltose high-affinity receptor	AAM83627
+fig|35703.89.peg.2858|GT689_09980!!!Maltoporin!(maltose/maltodextrin!high-affinity!receptor,!phage!lambda!receptor!protein)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.34%
+Cluster 689575
+241	AE006468	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.	Yes	Gammaproteobacteria	ssrB-regulated factor	AAL21133
+fig|35703.89.peg.3994|GT689_15465!!!Virulence!protein!msgA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	82.05%
+Cluster 505021
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82119
+fig|35703.89.peg.1787|GT689_04755!!!Translation!elongation!factor!Tu!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	98.65%
+fig|35703.89.peg.1776|GT689_23295!!!Translation!elongation!factor!Tu!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	98.65%
+Cluster 347048
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11405
+fig|35703.89.peg.4489!!!FIG00509978:!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.65%
+fig|35703.89.peg.4490|GT689_17840!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.45%
+Cluster 713960
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893
+fig|35703.89.peg.3553|GT689_13335!!!Haemolysin!expression!modulating!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	98.61%
+Cluster 765031
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12152
+fig|35703.89.peg.1240!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.76%
+Cluster 720314
+13649	AM039952	Xanthomonas campestris pv. vesicatoria complete genome.	No	Gammaproteobacteria	acyl carrier protein	CAJ22778
+fig|35703.89.peg.4094|GT689_15925!!!Acyl!carrier!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.77%
+Cluster 238578
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	histidine-binding periplasmic protein of high-affinity histidine transport system	AAS62595
+fig|35703.89.peg.882|GT689_00475!!!Lysine-arginine-ornithine-binding!ABC!transporter,!substrate-binding!protein!ArgT!(TC!3.A.1.3.1)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.23%
+fig|35703.89.peg.883|GT689_00480!!!Histidine!ABC!transporter,!substrate-binding!protein!HisJ!(TC!3.A.1.3.1)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.38%
+Cluster 544636
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04433
+fig|35703.89.peg.939|GT689_00750!!!Pyrimidine!deoxynucleoside!triphosphate!(dYTP)!pyrophosphohydrolase!NudI!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	84.40%
+Cluster 228565
+288	AF074611	Yersinia pestis KIM plasmid pMT-1, complete sequence.	Yes	Gammaproteobacteria	putative regulator	AAC82768
+fig|35703.89.peg.39|GT689_19510!!!Putative!regulatory!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.00%
+Cluster 205429
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CatD	ADD78513
+fig|35703.89.peg.1664|GT689_04250!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.42%
+Cluster 687158
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG13908
+fig|35703.89.peg.4130|GT689_16100!!!Biofilm!regulator!BssS!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.88%
+Cluster 370531
+171	CP000011	Burkholderia mallei ATCC 23344 chromosome 2, complete sequence.	Yes	Betaproteobacteria	ISBma3, transposase, truncation	AAY59267
+fig|35703.89.peg.2114!!!Insertion!element!IS110!(Streptomyces!coelicolor)!transposase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.15%
+Cluster 152016
+21101	CP000874	Rhizobium sp. NGR234 plasmid pNGR234b, complete sequence.	No	Alphaproteobacteria	putative permease component of ABC transporter	ACP21717
+fig|35703.89.peg.1526|GT689_03570!!!Cobalt!ABC!transporter,!permease!protein!CbtK!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.28%
+Cluster 4588
+13151	CP000038	Shigella sonnei Ss046, complete genome.	Yes	Gammaproteobacteria	rhs core protein with extension	AAZ88367
+fig|35703.89.peg.1770!!!Protein!RhsD!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	70.69%
+Cluster 576329
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	nickel responsive regulator	ACN47734
+fig|35703.89.peg.1941|GT689_05505!!!Nickel!responsive!regulator!NikR!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	98.50%
+Cluster 416780
+16646	CP000306	Yersinia pestis Nepal516 plasmid pMT, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABG20416
+fig|35703.89.peg.8|GT689_19365!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.51%
+Cluster 26969
+18809	CP000943	Methylobacterium sp. 4-46, complete genome.	No	Alphaproteobacteria	sulfate adenylyltransferase, large subunit	ACA19795
+fig|35703.89.peg.4378|GT689_17285!!!Sulfate-binding!protein!Sbp!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.05%
+Cluster 336703
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66429
+fig|35703.89.peg.558|GT689_22120!!!FIG01046602:!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.61%
+Cluster 195713
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|35703.89.peg.2623|GT689_08835!!!Na+/H+!antiporter!NhaA!type!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.82%
+Cluster 258694
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	endonuclease III	ABQ77294
+fig|35703.89.peg.3802|GT689_14530!!!Endonuclease!III!(EC!4.2.99.18)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.67%
+Cluster 673092
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58649
+fig|35703.89.peg.125|GT689_19920!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	98.10%
+Cluster 85566
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Thiamine ABC transport system, inner membrane component	CAY73135
+fig|35703.89.peg.2677|GT689_09100!!!Thiamin!ABC!transporter,!transmembrane!component!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.56%
+Cluster 407638
+1421	CP000113	Myxococcus xanthus DK 1622, complete genome.	No	Deltaproteobacteria	conserved hypothetical protein	ABF86283
+fig|35703.89.peg.3548|GT689_13310!!!Protein!of!unknown!function!DUF1428!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.10%
+Cluster 316366
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58658
+fig|35703.89.peg.117|GT689_19880!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.26%
+Cluster 520014
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	conserved uncharacterized protein, putative cytoplasmic protein	CAX54987
+fig|35703.89.peg.841|GT689_00285!!!Translation!elongation!factor!P!Lys34!hydroxylase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.08%
+Cluster 486931
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	BAH62864
+fig|35703.89.peg.4038|GT689_15660!!!Uncharacterized!protein!YmfL!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	77.17%
+Cluster 529937
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	probable FKBX-type 16KD peptidyl-prolyl cis-trans isomerase	AAS63851
+fig|35703.89.peg.2630|GT689_08870!!!FKBP-type!peptidyl-prolyl!cis-trans!isomerase!SlpA!(EC!5.2.1.8)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.77%
+Cluster 115773
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH77189
+fig|35703.89.peg.561|GT689_22135!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	66.02%
+Cluster 581919
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Acid-induced glycyl radical enzyme	AAS62707
+fig|35703.89.peg.4451|GT689_17650!!!Autonomous!glycyl!radical!cofactor!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	81.89%
+Cluster 746793
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	entericidin B	ABR79901
+fig|35703.89.peg.3019|GT689_10740!!!Entericidin!B!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	93.75%
+Cluster 551905
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative membrane protein	CBJ48017
+fig|35703.89.peg.2523|GT689_08345!!!UPF0114!protein!YqhA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	78.05%
+Cluster 776453
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACF63319
+fig|35703.89.peg.3767|GT689_14365!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.07%
+Cluster 373837
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.9|GT689_19370!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.78%
+Cluster 235242
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.1362|GT689_02805!!!Phage!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.67%
+fig|35703.89.peg.4044!!!Phage!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	77.50%
+Cluster 217347
+18743	CP001828	Legionella pneumophila 2300/99 Alcoy, complete genome.	Yes	Gammaproteobacteria	GTPase - translation elongation factor	ADG23624
+fig|35703.89.peg.717|GT689_22910!!!Translation!elongation!factor!Tu!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	82.66%
+Cluster 125270
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13534
+fig|35703.89.peg.190|GT689_20240!!!Uncharacterized!protein!GlmL!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.99%
+Cluster 78533
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	sensory kinase in two component regulatory system with HydG	AAX67960
+fig|35703.89.peg.689|GT689_22775!!!Sensor!protein!of!zinc!sigma-54-dependent!two-component!system!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.32%
+Cluster 88570
+16700	CP000670	Yersinia pestis Pestoides F plasmid MT, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABP42388
+fig|35703.89.peg.116|GT689_19875!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.24%
+Cluster 418995
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative integral membrane protein	CBG74563
+fig|35703.89.peg.3547|GT689_13305!!!Integral!membrane!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.11%
+Cluster 705150
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX21343
+fig|35703.89.peg.375|GT689_21175!!!Putative!selenium-binding!protein!YdfZ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.54%
+Cluster 521603
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	putative ligase	CAU99170
+fig|35703.89.peg.3265|GT689_11955!!!5-formyltetrahydrofolate!cyclo-ligase!(EC!6.3.3.2)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.81%
+Cluster 749786
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX65615
+fig|35703.89.peg.1602|GT689_03955!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	85.71%
+Cluster 139226
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	GTP-binding proten HflX	ACR14113
+fig|35703.89.peg.3041|GT689_10865!!!Ribosome!LSU-associated!GTP-binding!protein!HflX!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.97%
+Cluster 669854
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	DNA-binding transcriptional activator of maltose metabolism	CAQ90658
+fig|35703.89.peg.2353|GT689_07490!!!Sugar!fermentation!stimulation!protein!B!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	85.26%
+Cluster 621056
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Putative acylphosphatase	AAN79574
+fig|35703.89.peg.4232|GT689_16575!!!Acylphosphate!phosphohydrolase!(EC!3.6.1.7)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.19%
+Cluster 708969
+16721	CP000733	Coxiella burnetii Dugway 5J108-111, complete genome.	Yes	Gammaproteobacteria	SSU ribosomal protein S21P	ABS77864
+fig|35703.89.peg.2466|GT689_08070!!!SSU!ribosomal!protein!S21p!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.56%
+Cluster 726317
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative inner membrane protein	AAX64850
+fig|35703.89.peg.4276|GT689_16795!!!FIG002473:!Protein!YcaR!in!KDO2-Lipid!A!biosynthesis!cluster!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.33%
+Cluster 518737
+17407	CP000870	Burkholderia multivorans ATCC 17616 chromosome 3, complete sequence.	Yes	Betaproteobacteria	NUDIX hydrolase	ABX19188
+fig|35703.89.peg.282|GT689_20700!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.43%
+Cluster 501180
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Pal	ADD76355
+fig|35703.89.peg.205|GT689_20310!!!Tol-Pal!system!peptidoglycan-associated!lipoprotein!PAL!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	84.88%
+Cluster 680779
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative C-type natriuretic protein	AAS58718
+fig|35703.89.peg.15|GT689_19395!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.29%
+Cluster 595485
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF05197
+fig|35703.89.peg.2439|GT689_07925!!!Periplasmic!protein!YqjC!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	66.93%
+Cluster 84139
+16182	CP000573	Burkholderia pseudomallei 1106a chromosome II, complete sequence.	Yes	Betaproteobacteria	alcohol dehydrogenase, iron-containing	ABN94379
+fig|35703.89.peg.2513|GT689_08300!!!NADPH-dependent!broad!range!aldehyde!dehydrogenase!YqhD!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.08%
+Cluster 412004
+13025	CP000116	Thiobacillus denitrificans ATCC 25259, complete genome.	No	Betaproteobacteria	Two component Heavy metal response Transcriptional regulator, Winged helix family	AAZ97702
+fig|35703.89.peg.3611|GT689_13625!!!Copper-sensing!two-component!system!response!regulator!CusR!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.20%
+Cluster 97020
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative sugar transporter	AAS62832
+fig|35703.89.peg.2323|GT689_07345!!!Sialic!acid!transporter!(permease)!NanT!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.99%
+Cluster 206530
+312	AE013218	Buchnera aphidicola str. Sg (Schizaphis graminum), complete genome.	No	Gammaproteobacteria	flagellar biosynthetic protein FliP	AAM67645
+fig|35703.89.peg.1229|GT689_02170!!!Flagellar!biosynthesis!protein!FliP!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	70.20%
+Cluster 200994
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	biotin synthase	CAL17668
+fig|35703.89.peg.239|GT689_20500!!!Biotin!synthase!(EC!2.8.1.6)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.40%
+Cluster 363520
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	putative carbonic anhydrase	CAX54615
+fig|35703.89.peg.2746|GT689_09430!!!Carbonic!anhydrase,!beta!class!(EC!4.2.1.1)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.91%
+Cluster 742989
+349	XXX	Vibrio vulnificus CMCP6	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.4247|GT689_16650!!!Ribosome!modulation!factor!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.64%
+Cluster 335479
+19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Yes	Gammaproteobacteria	putative conserved hypothetical protein	ACF89001
+fig|35703.89.peg.2835|GT689_09875!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.29%
+Cluster 460669
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	LysE-family translocator	CAG75688
+fig|35703.89.peg.3205|GT689_11655!!!Threonine!efflux!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.44%
+Cluster 88611
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12676
+fig|35703.89.peg.399|GT689_21295!!!Methyl-accepting!chemotaxis!sensor/transducer!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.37%
+Cluster 346002
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	cyclase	AAW75515
+fig|35703.89.peg.1136|GT689_01695!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.79%
+Cluster 704138
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	4-oxalocrotonate tautomerase	BAH63599
+fig|35703.89.peg.1762|GT689_04720!!!Tautomerase!PptA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.67%
+Cluster 76292
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12778
+fig|35703.89.peg.3803|GT689_14535!!!Di-tripeptide/H+!symporter!DtpA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.82%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|35703.89.peg.3866|GT689_14855!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.63%
+Cluster 664489
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	cell division activator	BAH62960
+fig|35703.89.peg.3916|GT689_15105!!!Cell!division!activator!CedA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.95%
+Cluster 698075
+40647	FN554766	Escherichia coli 042 complete genome.	Yes	Gammaproteobacteria	putative phage-related regulatory protein	CBG37338
+fig|35703.89.peg.3157|GT689_11425!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	79.41%
+Cluster 485333
+290	AE010299	Methanosarcina acetivorans str. C2A, complete genome.	No	Methanomicrobia	Fun34 related protein	AAM07358
+fig|35703.89.peg.2616|GT689_08800!!!Succinate-acetate/proton!symporter!SatP!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.70%
+Cluster 64005
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	N-acetylmuramoyl-L-alanine amidase	ABV39536
+fig|35703.89.peg.3037|GT689_10845!!!N-acetylmuramoyl-L-alanine!amidase!(EC!3.5.1.28)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.43%
+Cluster 43340
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ACC70650
+fig|35703.89.peg.2728|GT689_09345!!!Dihydrolipoamide!dehydrogenase!of!pyruvate!dehydrogenase!complex!(EC!1.8.1.4)!@!Dihydrolipoamide!dehydrogenase!(EC!1.8.1.4)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.16%
+Cluster 217109
+33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Yes	Gammaproteobacteria	quinone oxidoreductase, NADPH-dependent	CAR20577
+fig|35703.89.peg.2871|GT689_10045!!!Quinone!oxidoreductase!(EC!1.6.5.5)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.21%
+Cluster 759667
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH75289
+fig|35703.89.peg.4010|GT689_15540!!!Phage!protein!Mup38!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.04%
+Cluster 325127
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	sugar fermentation stimulation protein	ACA69734
+fig|35703.89.peg.2758|GT689_09490!!!Sugar!fermentation!stimulation!protein!SfsA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.68%
+Cluster 702345
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YjbJ	ADD75425
+fig|35703.89.peg.2866|GT689_10020!!!UPF0337!protein!YjbJ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	82.86%
+Cluster 420029
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14761
+fig|35703.89.peg.3020|GT689_10745!!!Putative!luxR!family!bacterial!regulatory!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	70.41%
+Cluster 519723
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein; Putative antirestriction protein	CAR05798
+fig|35703.89.peg.3166|GT689_11465!!!Antirestriction!protein!klcA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.95%
+Cluster 682521
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative regulator	AAS61388
+fig|35703.89.peg.2998|GT689_10640!!!Ner-like!regulatory!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.23%
+Cluster 561679
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66431
+fig|35703.89.peg.556|GT689_22110!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.75%
+Cluster 133618
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	phospholipase D/Transphosphatidylase	ACX89230
+fig|35703.89.peg.4445|GT689_17620!!!CDP-diacylglycerol--serine!O-phosphatidyltransferase!(EC!2.7.8.8)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.17%
+Cluster 702342
+31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	No	Gammaproteobacteria	30S ribosomal protein S17	ACX95195
+fig|35703.89.peg.731|GT689_22980!!!SSU!ribosomal!protein!S17p!(S11e)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.05%
+Cluster 232483
+13126	CR628337	Legionella pneumophila str. Lens complete genome.	Yes	Gammaproteobacteria	hypothetical protein	CAH14840
+fig|35703.89.peg.4581|GT689_18285!!!Phe!operon!leader!peptide!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.33%
+Cluster 94678
+17675	CP000472	Shewanella piezotolerans WP3, complete genome.	No	Gammaproteobacteria	EAL domain protein	ACJ31407
+fig|35703.89.peg.1095|GT689_01490!!!type!I!toxin-antitoxin!system!Ibs!family!toxin!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.42%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|35703.89.peg.355|GT689_21070!!!Translation!initiation!factor!1!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.06%
+Cluster 343653
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	ribosomal protein L1	ACG65011
+fig|35703.89.peg.711|GT689_22885!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	81.62%
+Cluster 574549
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	peptidyl-tRNA hydrolase domain protein	AAY90903
+fig|35703.89.peg.2803|GT689_09710!!!Peptidyl-tRNA!hydrolase!ArfB!(EC!3.1.1.29)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.43%
+Cluster 748985
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	conserved predicted protein	BAI25806
+fig|35703.89.peg.1470|GT689_03305!!!Protein!YoaG!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.67%
+Cluster 12475
+17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	No	Lactobacillales	putative glucan modifying protein	ABX26451
+fig|35703.89.peg.3901|GT689_15030!!!Phenylalanyl--tRNA!ligase!operon!leader!peptide!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	78.57%
+Cluster 6225
+16645	CP000309	Yersinia pestis Antiqua plasmid pMT, complete sequence.	Yes	Gammaproteobacteria	DNA polymerase III	ABG16195
+fig|35703.89.peg.31|GT689_19470!!!DNA!polymerase!III!alpha!subunit!(EC!2.7.7.7)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.90%
+Cluster 587242
+29065	CP001085	Candidatus Riesia pediculicola USDA, complete genome.	No	Gammaproteobacteria	ribosomal protein S11	ADD79935
+fig|35703.89.peg.745|GT689_23050!!!SSU!ribosomal!protein!S11p!(S14e)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	79.07%
+Cluster 661199
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78094
+fig|35703.89.peg.3522|GT689_13180!!!Cell!division!protein!BolA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	83.81%
+Cluster 271137
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	methyltransferase	ACX87869
+fig|35703.89.peg.1316|GT689_02590!!!tRNA!ho5U(34)!carboxymethyltransferase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.78%
+Cluster 290006
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.40|GT689_19515!!!DNA!polymerase!I!5'-3'!exonuclease!domain!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.36%
+Cluster 664755
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YiiL	ADD77602
+fig|35703.89.peg.4357|GT689_17180!!!L-rhamnose!mutarotase!(EC!5.1.3.32)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.04%
+Cluster 748880
+27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACI37021
+fig|35703.89.peg.3682!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.97%
+Cluster 612595
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	putative prophage Kil protein (modular protein)	CAQ90220
+fig|35703.89.peg.1370|GT689_02835!!!prophage!Kil!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	83.82%
+Cluster 111457
+27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Yes	Gammaproteobacteria	amino acid-polyamine-organocation (APC) permease family protein	ACI39648
+fig|35703.89.peg.3011|GT689_10700!!!L-methionine!and!branched-chain!amino!acid!export!protein!YjeH!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	89.18%
+Cluster 453585
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE05950
+fig|35703.89.peg.3511|GT689_13135!!!UPF0234!protein!Yitk!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.72%
+Cluster 527178
+29177	CP001339	Thioalkalivibrio sp. HL-EbGR7, complete genome.	No	Gammaproteobacteria	peptide deformylase	ACL71294
+fig|35703.89.peg.756|GT689_23105!!!Peptide!deformylase!(EC!3.5.1.88)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.91%
+Cluster 698850
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76584
+fig|35703.89.peg.1280|GT689_02420!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	81.93%
+Cluster 713841
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	Small toxic polypeptide ldrD (modular protein)	CAQ91001
+fig|35703.89.peg.1978|GT689_05690!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.18%
+Cluster 348679
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69942
+fig|35703.89.peg.2074|GT689_06155!!!UPF0758!protein!YicR!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.47%
+Cluster 611823
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58695
+fig|35703.89.peg.47|GT689_19550!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	93.38%
+Cluster 513510
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX65938
+fig|35703.89.peg.650|GT689_22575!!!Acetyltransferase!YpeA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	97.16%
+Cluster 51925
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76737
+fig|35703.89.peg.1502|GT689_03460!!!Trehalase!(EC!3.2.1.28)!@!Periplasmic!trehalase!(EC!3.2.1.28)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.53%
+Cluster 595794
+29431	CP001968	Denitrovibrio acetiphilus DSM 12809, complete genome.	No	Deferribacterales	RbsD or FucU transport	ADD68874
+fig|35703.89.peg.4782|GT689_19280!!!L-fucose!mutarotase!(EC!5.1.3.29)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.14%
+Cluster 587708
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	multidrug resistance protein MdtJ	ABX86248
+fig|35703.89.peg.3770|GT689_14380!!!Spermidine!export!protein!MdtJ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.83%
+Cluster 371401
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76401
+fig|35703.89.peg.1079|GT689_01415!!!Hydroxyethylthiazole!kinase!(EC!2.7.1.50)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.21%
+Cluster 503148
+312	AE013218	Buchnera aphidicola str. Sg (Schizaphis graminum), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L6	AAM68033
+fig|35703.89.peg.737|GT689_23010!!!LSU!ribosomal!protein!L6p!(L9e)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.02%
+Cluster 644868
+13146	CP000036	Shigella boydii Sb227, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB66191
+fig|35703.89.peg.428|GT689_21435!!!Antitoxin!HigA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.49%
+Cluster 666509
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAV02134
+fig|35703.89.peg.3675|GT689_13920!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.73%
+Cluster 356342
+33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Yes	Gammaproteobacteria	putative Transcriptional regulator	CAR11105
+fig|35703.89.peg.4750|GT689_19130!!!Transcriptional!regulator,!RpiR!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	97.08%
+Cluster 343173
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	GarL	ADD78250
+fig|35703.89.peg.2418|GT689_07820!!!2-dehydro-3-deoxyglucarate!aldolase!(EC!4.1.2.20)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.39%
+Cluster 419223
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	FabA	ABJ00363
+fig|35703.89.peg.4246|GT689_16645!!!3-hydroxyacyl-[acyl-carrier-protein]!dehydratase,!FabA!form!(EC!4.2.1.59)!@!Trans-2-decenoyl-[acyl-carrier-protein]!isomerase!(EC!5.3.3.14)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	99.42%
+Cluster 477734
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR75674
+fig|35703.89.peg.2812|GT689_09755!!!D-glycero-beta-D-manno-heptose-1,7-bisphosphate!7-phosphatase!(EC!3.1.3.82)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.49%
+Cluster 261679
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	XylF	ADD75207
+fig|35703.89.peg.2013|GT689_05855!!!D-xylose!ABC!transporter,!substrate-binding!protein!XylF!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	83.64%
+Cluster 638174
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.2863|GT689_10005!!!Diacylglycerol!kinase!(EC!2.7.1.107)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	66.39%
+Cluster 452849
+33639	CP001383	Shigella flexneri 2002017, complete genome.	Yes	Gammaproteobacteria	Protein induced by aluminum	ADA74679
+fig|35703.89.peg.938|GT689_00745!!!Lipopolysaccharide!core!heptose(II)-phosphate!phosphatase!@!Polymyxin!resistance!protein!PmrG!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.17%
+Cluster 44000
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.3739|GT689_14230!!!PTS!system,!N-acetylglucosamine-specific!IIC!component!/!PTS!system,!N-acetylglucosamine-specific!IIB!component!(EC!2.7.1.193)!/!PTS!system,!N-acetylglucosamine-specific!IIA!component!(EC!2.7.1.193)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.43%
+Cluster 380501
+16306	CP000928	Caulobacter sp. K31 plasmid pCAUL01, complete sequence.	No	Alphaproteobacteria	2-deoxy-D-gluconate 3-dehydrogenase	ABZ74393
+fig|35703.89.peg.3913|GT689_15090!!!2-dehydro-3-deoxy-D-gluconate!5-dehydrogenase!(EC!1.1.1.127)!@!2-deoxy-D-gluconate!3-dehydrogenase!(EC!1.1.1.125)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.87%
+Cluster 532700
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Aspartate transcarbamylase regulatory subunit PyrI	CAX54135
+fig|35703.89.peg.3114|GT689_11220!!!Aspartate!carbamoyltransferase!regulatory!chain!(PyrI)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	77.12%
+Cluster 298919
+17707	CP001124	Geobacter bemidjiensis Bem, complete genome.	No	Deltaproteobacteria	succinyl-CoA synthetase, alpha subunit	ACH38483
+fig|35703.89.peg.170|GT689_20140!!!Succinyl-CoA!ligase![ADP-forming]!alpha!chain!(EC!6.2.1.5)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.17%
+Cluster 321621
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	Carboxymethylenebutenolidase	AAY37573
+fig|35703.89.peg.2525|GT689_08355!!!Dienelactone!hydrolase!family!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.83%
+Cluster 85700
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62104
+fig|35703.89.peg.4122|GT689_16065!!!Protein!of!unknown!function!YceH!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.00%
+Cluster 760379
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12290
+fig|35703.89.peg.1441|GT689_03165!!!PhoP/PhoQ!regulator!MgrB!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.23%
+Cluster 642064
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	major cold shock protein	AAW75975
+fig|35703.89.peg.2004|GT689_05810!!!Cold!shock!protein!of!CSP!family!=>!CspA!(naming!convention!as!in!E.coli)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	60.00%
+Cluster 124074
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66435
+fig|35703.89.peg.552|GT689_22090!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	78.02%
+Cluster 64542
+32551	AP010948	Azospirillum sp. B510 plasmid pAB510b DNA, complete genome.	No	Alphaproteobacteria	PTS system, glucose-specific IIB component	BAI75163
+fig|35703.89.peg.4087|GT689_15890!!!PTS!system,!glucose-specific!IIC!component!/!PTS!system,!glucose-specific!IIB!component!(EC!2.7.1.199)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	62.47%
+Cluster 394450
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	LexA	ADD75423
+fig|35703.89.peg.2864|GT689_10010!!!SOS-response!repressor!and!protease!LexA!(EC!3.4.21.88)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	85.64%
+Cluster 660191
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	hypothetical phage protein	CAL12385
+fig|35703.89.peg.1399|GT689_02970!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.79%
+Cluster 289684
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Oxidoreductase ucpA	AAN81410
+fig|35703.89.peg.655|GT689_22600!!!Oxidoreductase!UcpA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.40%
+Cluster 704677
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58662
+fig|35703.89.peg.113|GT689_19860!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	97.73%
+Cluster 251885
+19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Yes	Gammaproteobacteria	tetrathionate reductase complex, subunit C	ACF88938
+fig|35703.89.peg.3854|GT689_14795!!!Tetrathionate!reductase!subunit!C!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.57%
+Cluster 713540
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX21185
+fig|35703.89.peg.1628|GT689_04075!!!Phage!shock!protein!D!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.49%
+Cluster 703593
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	putative bacteriophage protein	ABF02523
+fig|35703.89.peg.4007|GT689_15525!!!Phage!small!tail!protein!E!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	82.02%
+Cluster 691197
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	putative inner membrane protein similar to yedR, putative permease	CAQ89455
+fig|35703.89.peg.1214|GT689_02100!!!FIG00638388:!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.42%
+Cluster 496439
+29975	CP001392	Acidovorax ebreus TPSY, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ACM32738
+fig|35703.89.peg.2990|GT689_10600!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.45%
+Cluster 52343
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative exonuclease subunit 2	AAS58684
+fig|35703.89.peg.57|GT689_19595!!!Phage!recombination!related!exonuclease!(EC!3.1.11.-)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.71%
+Cluster 458542
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.102|GT689_19805!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.83%
+Cluster 756657
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11632
+fig|35703.89.peg.881!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.00%
+Cluster 580965
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	NADH dehydrogenase I chain A	CAL11432
+fig|35703.89.peg.906|GT689_00590!!!NADH!ubiquinone!oxidoreductase!chain!A!(EC!1.6.5.3)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	76.19%
+Cluster 783917
+225	U00096	Escherichia coli str. K-12 substr. MG1655, complete genome.	No	Gammaproteobacteria	hypothetical protein	ABP93450
+fig|35703.89.peg.4563|GT689_18190!!!protein!YpfM!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	100.00%
+Cluster 292630
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66434
+fig|35703.89.peg.553|GT689_22095!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.58%
+Cluster 417237
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11641
+fig|35703.89.peg.892|GT689_00525!!!Probable!glutathione!S-transferase!(EC!2.5.1.18),!YfcF!homolog!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	85.51%
+Cluster 497917
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	Lipocalin family protein	ACX89671
+fig|35703.89.peg.3022|GT689_10755!!!Lipocalin!Blc!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.27%
+Cluster 208642
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein ycfS precursor	AAN79857
+fig|35703.89.peg.4073|GT689_15825!!!L,D-transpeptidase!=>!YcfS!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	87.50%
+Cluster 612087
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB60266
+fig|35703.89.peg.2733|GT689_09365!!!UPF0231!protein!YacL!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	90.83%
+Cluster 672938
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14100
+fig|35703.89.peg.706|GT689_22860!!!PTS!system,!IIA!component!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.38%
+Cluster 303848
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeiE	ADD77719
+fig|35703.89.peg.1033|GT689_01195!!!Transcriptional!regulator!YeiE,!LysR!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	81.88%
+Cluster 326516
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Dihydrodipicolinate synthase	CAO96112
+fig|35703.89.peg.4554|GT689_18145!!!4-hydroxy-tetrahydrodipicolinate!synthase!(EC!4.3.3.7)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.14%
+Cluster 497412
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66437
+fig|35703.89.peg.550|GT689_22080!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.58%
+Cluster 547514
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15453
+fig|35703.89.peg.2522|GT689_08340!!!Putative!ATP-dependent!RNA!helicase-like!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	86.23%
+Cluster 36881
+32551	AP010948	Azospirillum sp. B510 plasmid pAB510b DNA, complete genome.	No	Alphaproteobacteria	formate dehydrogenase, alpha subunit	BAI75108
+fig|35703.89.peg.2912|GT689_10230!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!@!selenocysteine-containing!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.59%
+fig|35703.89.peg.3980|GT689_15400!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.97%
+Cluster 245991
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11805
+fig|35703.89.peg.1050|GT689_01280!!!Gentisate!1,2-dioxygenase!(EC!1.13.11.4)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.01%
+Cluster 446033
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11187
+fig|35703.89.peg.2188|GT689_06685!!!Hexose-phosphate!uptake!two-component!transcriptional!response!regulator!UhpA!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.45%
+Cluster 720821
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	hypothetical phage protein	ABG69148
+fig|35703.89.peg.1354|GT689_02765!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.42%
+Cluster 114214
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative monooxygenase	AAS63755
+fig|35703.89.peg.3270|GT689_11985!!!2-polyprenylphenol!hydroxylase!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	74.00%
+Cluster 722697
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.56!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	66.20%
+Cluster 699562
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.48|GT689_19555!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	82.42%
+Cluster 702958
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58648
+fig|35703.89.peg.126|GT689_19925!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.63%
+Cluster 162352
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	isocitrate dehydrogenase (NADP)	ABM42459
+fig|35703.89.peg.4048|GT689_15705!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.56%
+Cluster 485412
+245	BA000003	Buchnera aphidicola str. APS (Acyrthosiphon pisum) genomic DNA, complete sequence.	No	Gammaproteobacteria	50S ribosomal protein L4	BAB13216
+fig|35703.89.peg.723|GT689_22940!!!LSU!ribosomal!protein!L4p!(L1e)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.63%
+Cluster 147504
+13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Yes	Gammaproteobacteria	putative inner membrane protein	AAV77197
+fig|35703.89.peg.1696|GT689_04400!!!Uncharacterized!SAM-binding!protein!YdcF!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.68%
+Cluster 552782
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	50S ribosomal protein L11	ABM79507
+fig|35703.89.peg.712|GT689_22890!!!LSU!ribosomal!protein!L11p!(L12e)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	61.27%
+Cluster 91189
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12996
+fig|35703.89.peg.1402|GT689_02985!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	99.43%
+Cluster 639843
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	nitrite reductase (NAD(P)H), small subunit	ACX89776
+fig|35703.89.peg.1816|GT689_04895!!!Nitrite!reductase![NAD(P)H]!small!subunit!(EC!1.7.1.4)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.89%
+Cluster 669210
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14200
+fig|35703.89.peg.4353|GT689_17160!!!Putative!inner!membrane!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.52%
+Cluster 20515
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	leucyl-tRNA synthetase	ABF13994
+fig|35703.89.peg.3720|GT689_14125!!!Leucyl-tRNA!synthetase!(EC!6.1.1.4)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.44%
+Cluster 696509
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.83|GT689_19720!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	73.86%
+Cluster 132520
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	valine--pyruvate transaminase	ABF05976
+fig|35703.89.peg.2019|GT689_05885!!!Valine--pyruvate!aminotransferase!(EC!2.6.1.66)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	93.29%
+Cluster 614913
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|35703.89.peg.2003|GT689_05805!!!Antitoxin!to!RelE-like!translational!repressor!toxin!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	84.38%
+Cluster 303132
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13544
+fig|35703.89.peg.181|GT689_20195!!!Transcriptional!regulator,!LysR!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	94.70%
+Cluster 95501
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobyric acid synthase	CBJ79977
+fig|35703.89.peg.1195|GT689_01985!!!Cobyric!acid!synthase!(EC!6.3.5.10)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	67.00%
+Cluster 606383
+17415	CP000851	Shewanella pealeana ATCC 700345, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABV86199
+fig|35703.89.peg.2025|GT689_05915!!!GTPase!(EC!3.6.1.-)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	64.81%
+Cluster 534402
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69431
+fig|35703.89.peg.2366|GT689_07555!!!Protein!translocase!membrane!subunit!SecG!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	95.45%
+Cluster 355915
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66427
+fig|35703.89.peg.560|GT689_22130!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	88.64%
+Cluster 182374
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	predicted transporter	BAI28208
+fig|35703.89.peg.1989|GT689_05740!!!Putative!resistance!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	91.75%
+Cluster 489164
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	sugar isomerase (SIS)	ABV43791
+fig|35703.89.peg.4493|GT689_17855!!!Phosphosugar!isomerase/binding!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.86%
+Cluster 45638
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13290
+fig|35703.89.peg.4288|GT689_16855!!!Ribosomal!protein!S12p!methylthiotransferase!accessory!factor!YcaO!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.38%
+Cluster 511321
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	SufE protein probably involved in Fe-S center assembly	AAS62393
+fig|35703.89.peg.3862|GT689_14835!!!Sulfur!acceptor!protein!=>!iron-sulfur!cluster!assembly!SufE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	69.57%
+Cluster 369470
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	probable 2-keto-4-pentenoate hydratase / 2-oxohepta-3-ene-1,7-dioic acid hydratase (Catechol pathway) oxidoreductase protein	ABF07165
+fig|35703.89.peg.1051|GT689_01285!!!3-fumarylpyruvate!hydrolase!(EC!3.7.1.20)!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.52%
+Cluster 669352
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS61209
+fig|35703.89.peg.1500|GT689_03450!!!UPF0410!protein!YmgE!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	63.10%
+fig|35703.89.peg.3979|GT689_15395!!!UPF0410!protein!YeaQ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	80.49%
+Cluster 23296
+285	AE009442	Xylella fastidiosa Temecula1, complete genome.	No	Gammaproteobacteria	ATP-dependent serine proteinase La	AAO28351
+fig|35703.89.peg.3526|GT689_13200!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	65.05%
+Cluster 627107
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB63363
+fig|35703.89.peg.2350|GT689_07475!!!Phospholipid!ABC!transporter-binding!protein!MlaB!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	75.51%
+Cluster 604531
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR68071
+fig|35703.89.peg.2797|GT689_09685!!!Uncharacterized!protein!YaeR!with!similarity!to!glyoxylase!family!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	68.22%
+Cluster 692199
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13042
+fig|35703.89.peg.594|GT689_22290!!!prophage!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.84%
+Cluster 143229
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative DNA ligase	AAS58722
+fig|35703.89.peg.11|GT689_19380!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	92.73%
+Cluster 734645
+33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAR17757
+fig|35703.89.peg.1613|GT689_04005!!!UPF0509!protein!YciZ!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	71.67%
+Cluster 729880
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20889
+fig|35703.89.peg.1249!!!hypothetical!protein!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	72.50%
+Cluster 729882
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	putative inner membrane protein	ABG69454
+fig|35703.89.peg.1744|GT689_04635!!!Orphan!toxin!OrtT!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	96.49%
+Cluster 703025
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L35	AAX88440
+fig|35703.89.peg.3903|GT689_15040!!!LSU!ribosomal!protein!L35p!!![Citrobacter!amalonaticus!strain!BIOML-A5!|!35703.89]	78.46%

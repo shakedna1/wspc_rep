@@ -1,0 +1,1871 @@
+Cluster 189038
+28745	CP001048	Yersinia pseudotuberculosis PB1/+, complete genome.	Yes	Gammaproteobacteria	glutamyl-tRNA synthetase class Ic	ACC87748
+fig|150053.31.peg.2653|G5S39_12490!!!Glutamyl-Q!tRNA(Asp)!synthetase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.52%
+Cluster 439892
+16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Yes	Gammaproteobacteria	putative twin-argninine leader-binding DmsD	ABS49256
+fig|150053.31.peg.3410|G5S39_15990!!!Anaerobic!dimethyl!sulfoxide!reductase!chaperone!DmsD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	79.10%
+Cluster 686324
+12986	CP000020	Vibrio fischeri ES114 chromosome I, complete sequence.	No	Gammaproteobacteria	HU, DNA-binding transcriptional regulator, beta subunit	AAW85294
+fig|150053.31.peg.1186|G5S39_05645!!!DNA-binding!protein!HU-beta!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	72.22%
+Cluster 574492
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YfbV	ADD77810
+fig|150053.31.peg.2958|G5S39_13915!!!UPF0208!membrane!protein!YfbV!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	78.15%
+Cluster 568238
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	co-chaperonin GroES	ACN48531
+fig|150053.31.peg.74|G5S39_00375!!!Heat!shock!protein!10!kDa!family!chaperone!GroES!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	90.72%
+Cluster 230435
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13781
+fig|150053.31.peg.1135|G5S39_05425!!!Ferrochelatase,!protoheme!ferro-lyase!(EC!4.99.1.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.06%
+Cluster 344645
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	protein tyrosine/serine phosphatase	ACA70212
+fig|150053.31.peg.3732|G5S39_17435!!!Protein!tyrosine!phosphatase!(EC!3.1.3.48)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	81.89%
+Cluster 613554
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAG76960
+fig|150053.31.peg.1970|G5S39_09295!!!Protein!YhfA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.67%
+Cluster 615945
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL11061
+fig|150053.31.peg.3089|G5S39_14495!!!Fluoride!ion!transporter!CrcB!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.51%
+Cluster 267446
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	cysteine synthase	ABM35882
+fig|150053.31.peg.3245|G5S39_15215!!!Cysteine!synthase!(EC!2.5.1.47)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	71.12%
+Cluster 632849
+16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Yes	Gammaproteobacteria	flagellar hook-basal body complex protein FliE	ABS49247
+fig|150053.31.peg.1690|G5S39_07975!!!Flagellar!hook-basal!body!complex!protein!FliE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.67%
+Cluster 671368
+12950	BX936399	Yersinia pseudotuberculosis IP32953 pYV plasmid, complete sequence.	Yes	Gammaproteobacteria	putative transposase remnant	CAF25346
+fig|150053.31.peg.1653|G5S39_07820!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.09%
+Cluster 672379
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	histone family protein DNA-binding protein	ABM58439
+fig|150053.31.peg.4015|G5S39_18765!!!DNA-binding!protein!HU-alpha!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.44%
+Cluster 495738
+36507	CP001585	Yersinia pestis D106004, complete genome.	Yes	Gammaproteobacteria	transposase	ACY57949
+fig|150053.31.peg.3677!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.92%
+fig|150053.31.peg.3757!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.67%
+Cluster 210977
+17629	CP000926	Pseudomonas putida GB-1, complete genome.	No	Gammaproteobacteria	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	ABY99510
+fig|150053.31.peg.914|G5S39_04415!!!tRNA-specific!2-thiouridylase!MnmA!(EC!2.8.1.13)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.61%
+Cluster 573006
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAH23104
+fig|150053.31.peg.4373|G5S39_20480!!!YpjF!toxin!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.07%
+Cluster 485186
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	MtnD	ADD76040
+fig|150053.31.peg.1528|G5S39_07245!!!1,2-dihydroxy-3-keto-5-methylthiopentene!dioxygenase!(EC!1.13.11.54)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	78.33%
+Cluster 755630
+16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABS45960
+fig|150053.31.peg.1420!!!FIG01220197:!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.64%
+Cluster 117134
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL13408
+fig|150053.31.peg.4003|G5S39_18705!!!Inner!membrane!protein!CreD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.73%
+Cluster 239346
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	quinone oxidoreductase	AAS60744
+fig|150053.31.peg.3440|G5S39_16135!!!Quinone!oxidoreductase!(EC!1.6.5.5)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.24%
+Cluster 504729
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	thiol-disulfide interchange protein CcmG	BAC95213
+fig|150053.31.peg.2898|G5S39_13630!!!Cytochrome!c-type!biogenesis!protein!CcmG/DsbE,!thiol:disulfide!oxidoreductase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.77%
+Cluster 55228
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	selenocysteinyl-tRNA-specific translation factor	CAL14147
+fig|150053.31.peg.502|G5S39_02490!!!Selenocysteine-specific!translation!elongation!factor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.14%
+Cluster 367601
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YcdC	ADD79199
+fig|150053.31.peg.759|G5S39_03675!!!Transcriptional!regulator!RutR!of!pyrimidine!catabolism!(TetR!family)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	72.02%
+Cluster 522537
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Uncharacterized protein, homolog of Cu resistance protein CopC	AAS61841
+fig|150053.31.peg.3580|G5S39_16770!!!Copper!resistance!protein!CopC!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	89.84%
+Cluster 573563
+190	AM286416	Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081 complete genome.	Yes	Gammaproteobacteria	type III secretion system translocation protein	CAL10049
+fig|150053.31.peg.3189|G5S39_14940!!!Type!III!secretion!spans!bacterial!envelope!protein!(YscO)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.40%
+Cluster 444962
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	HAD-superfamily subfamily IB hydrolase, TIGR01490	ACS86702
+fig|150053.31.peg.219|G5S39_01105!!!Phosphoserine!phosphatase!(EC!3.1.3.3)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.19%
+Cluster 266513
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	Asparaginase	ACS62531
+fig|150053.31.peg.2372|G5S39_11190!!!leu!operon!leader!peptide!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.96%
+Cluster 659746
+29527	CP001629	Desulfomicrobium baculatum DSM 4028, complete genome.	No	Deltaproteobacteria	nitrogen regulatory protein P-II	ACU91122
+fig|150053.31.peg.1174|G5S39_05590!!!Nitrogen!regulatory!protein!P-II,!GlnK!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.71%
+Cluster 489540
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	membrane protein	CAL13660
+fig|150053.31.peg.1649|G5S39_07805!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.98%
+Cluster 628042
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL13342
+fig|150053.31.peg.3529|G5S39_16545!!!FIG004136:!Prepilin!peptidase!dependent!protein!C!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.88%
+Cluster 637260
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04930
+fig|150053.31.peg.3880|G5S39_18085!!!UPF0125!protein!RatB!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.40%
+Cluster 688355
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|150053.31.peg.3798|G5S39_17735!!!Protein!YcgL!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.44%
+Cluster 116510
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|150053.31.peg.459|G5S39_02275!!!Chromosomal!replication!initiator!protein!DnaA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.93%
+Cluster 711629
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL11904
+fig|150053.31.peg.768|G5S39_03720!!!putative!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.43%
+Cluster 124617
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	glutamate mutase	CAL14059
+fig|150053.31.peg.822|G5S39_03980!!!Uncharacterized!protein!GlmL!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.78%
+Cluster 123398
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	MobA/MobL protein	ACX87534
+fig|150053.31.peg.3866!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	87.12%
+Cluster 144142
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	2,3,4,5-tetrahydropyridine-2-carboxylate N-succin	AAW75239
+fig|150053.31.peg.2913|G5S39_13705!!!2,3,4,5-tetrahydropyridine-2,6-dicarboxylate!N-succinyltransferase!(EC!2.3.1.117)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.87%
+Cluster 770823
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	P2 GpE family protein	ABV39966
+fig|150053.31.peg.3831|G5S39_17865!!!Phage!P2!GpE!family!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.10%
+Cluster 303259
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAH22061
+fig|150053.31.peg.3096|G5S39_14520!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	81.88%
+Cluster 368650
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CpxR	ADD79041
+fig|150053.31.peg.2211|G5S39_10445!!!Copper-sensing!two-component!system!response!regulator!CpxR!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	88.79%
+Cluster 362425
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative copper homeostasis protein	AAS62109
+fig|150053.31.peg.4343|G5S39_20330!!!Cytoplasmic!copper!homeostasis!protein!CutC!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	91.73%
+Cluster 201069
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	galactokinase	ACI06895
+fig|150053.31.peg.377|G5S39_01855!!!Galactokinase!(EC!2.7.1.6)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.50%
+Cluster 491314
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS60689
+fig|150053.31.peg.24|G5S39_00135!!!FIG029138:!Type!III!secretion!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.44%
+Cluster 492037
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PurE	ADD76220
+fig|150053.31.peg.1107|G5S39_05290!!!N5-carboxyaminoimidazole!ribonucleotide!mutase!(EC!5.4.99.18)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.46%
+Cluster 445037
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Molybdopterin biosynthesis mog protein	CAY73103
+fig|150053.31.peg.2279|G5S39_10755!!!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.44%
+Cluster 687853
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15237
+fig|150053.31.peg.4273|G5S39_19990!!!Uncharacterized!lipoprotein!YgdI!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	79.45%
+Cluster 495874
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YgjP	ADD78617
+fig|150053.31.peg.1409|G5S39_06685!!!UTP!pyrophosphatase!(EC!3.6.1.9)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.07%
+Cluster 167877
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	nucleoside permease	BAH64544
+fig|150053.31.peg.3236|G5S39_15150!!!Na+!dependent!nucleoside!transporter!NupC!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.99%
+Cluster 167876
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	Nucleoside permease NupC	ABE08191
+fig|150053.31.peg.2170|G5S39_10260!!!Na+!dependent!nucleoside!transporter!NupC!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.10%
+Cluster 241152
+19989	CP001032	Opitutus terrae PB90-1, complete genome.	No	Opitutae	L-threonine 3-dehydrogenase	ACB76204
+fig|150053.31.peg.2194|G5S39_10375!!!L-threonine!3-dehydrogenase!(EC!1.1.1.103)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.12%
+Cluster 577581
+10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58585
+fig|150053.31.peg.1670!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.55%
+fig|150053.31.peg.4062!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.87%
+Cluster 582935
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL11039
+fig|150053.31.peg.3062|G5S39_14375!!!putative!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.32%
+Cluster 217834
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	Pectinesterase	ACX87042
+fig|150053.31.peg.2755|G5S39_12940!!!Pectinesterase!(EC!3.1.1.11)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.83%
+Cluster 372522
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobalt-precorrin-4 C(11)-methyltransferase (Cobalt-precorrin-3 methylase)	CBJ79987
+fig|150053.31.peg.1736|G5S39_08200!!!Cobalt-precorrin-4!C(11)-methyltransferase!(EC!2.1.1.271)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	78.33%
+Cluster 328290
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative lysR-family transcriptional regulatory protein	AAS64007
+fig|150053.31.peg.2091|G5S39_09860!!!Transcriptional!regulator!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.46%
+Cluster 132996
+16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Yes	Gammaproteobacteria	flagellar hook-length control protein	ABS46258
+fig|150053.31.peg.700|G5S39_03435!!!Flagellar!hook-length!control!protein!FliK!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.61%
+Cluster 63936
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	PTS system, maltose and glucose-specific IIABC component	ABE07287
+fig|150053.31.peg.2579|G5S39_12165!!!PTS!system,!maltose!and!glucose-specific!IIC!component!/!PTS!system,!maltose!and!glucose-specific!IIB!component!(EC!2.7.1.208)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	79.48%
+Cluster 247877
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	HemK	ADD76810
+fig|150053.31.peg.2473|G5S39_11690!!!Peptide!chain!release!factor!N(5)-glutamine!methyltransferase!(EC!2.1.1.297)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.27%
+Cluster 200923
+371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Yes	Gammaproteobacteria	RNA polymerase sigma subunit RpoS	AAO70382
+fig|150053.31.peg.2688|G5S39_12635!!!RNA!polymerase!sigma!factor!RpoS!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	88.86%
+Cluster 382464
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative AraC-family regulatory protein	CAH19555
+fig|150053.31.peg.19|G5S39_00110!!!Type!III!secretion!thermoregulatory!protein!(LcrF,VirF,transcription!regulation!of!virulence!plasmid)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.32%
+Cluster 778560
+12950	BX936399	Yersinia pseudotuberculosis IP32953 pYV plasmid, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	CAF25376
+fig|150053.31.peg.3223!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	94.59%
+Cluster 186825
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX70363
+fig|150053.31.peg.2828|G5S39_13300!!!Transcriptional!(co)regulator!CytR!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.88%
+Cluster 517980
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL12721
+fig|150053.31.peg.1700|G5S39_08025!!!T6SS!secretion!lipoprotein!TssJ!(VasD)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.75%
+Cluster 575139
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	thioesterase superfamily protein	ACZ77661
+fig|150053.31.peg.4152|G5S39_19385!!!1,4-dihydroxy-2-naphthoyl-CoA!hydrolase!(EC!3.1.2.28)!in!menaquinone!biosynthesis!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.14%
+Cluster 618051
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	type III secretion system apparatus protein	AAS60693
+fig|150053.31.peg.30|G5S39_00165!!!Type!III!secretion!spans!bacterial!envelope!protein!(YscO)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.71%
+Cluster 703137
+288	AE009952	Yersinia pestis KIM, complete genome.	Yes	Gammaproteobacteria	DNA polymerase III, theta subunit	AAM86081
+fig|150053.31.peg.3583|G5S39_16780!!!DNA!polymerase!III!theta!subunit!(EC!2.7.7.7)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	89.61%
+Cluster 661814
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS63119
+fig|150053.31.peg.577|G5S39_02855!!!Similar!to:!Y.!pestis!YPO0620!putative!exported!protein!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.49%
+Cluster 541494
+12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	No	Gammaproteobacteria	organic hydroperoxide resistance protein	AAZ33796
+fig|150053.31.peg.4153|G5S39_19390!!!Organic!hydroperoxide!resistance!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.96%
+Cluster 389482
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative tight adherance operon protein	CAL13669
+fig|150053.31.peg.1639|G5S39_07755!!!Flp!pilus!assembly!protein!TadD,!contains!TPR!repeat!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.58%
+Cluster 338304
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	pantothenate synthetase	CBJ82791
+fig|150053.31.peg.2658|G5S39_12510!!!Pantoate--beta-alanine!ligase!(EC!6.3.2.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.96%
+Cluster 736681
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS61481
+fig|150053.31.peg.4121|G5S39_19235!!!gluconate!5-dehydrogenase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.53%
+Cluster 7990
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	malate synthase A	ACG74318
+fig|150053.31.peg.3680|G5S39_17195!!!Isocitrate!lyase!(EC!4.1.3.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.07%
+Cluster 651642
+13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	No	Gammaproteobacteria	small multidrug resistance protein	ABM18153
+fig|150053.31.peg.1031|G5S39_04940!!!small!multidrug!resistance!family!(SMR)!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.00%
+Cluster 718141
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	phage shock protein	AAS62345
+fig|150053.31.peg.1047|G5S39_05010!!!Phage!shock!protein!D!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.68%
+Cluster 670579
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	hypothetical phage protein	CAL11732
+fig|150053.31.peg.3840|G5S39_17905!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	92.45%
+Cluster 264549
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	riboflavin biosynthesis protein RibF, putative	ACR67900
+fig|150053.31.peg.2290|G5S39_10810!!!FMN!adenylyltransferase!(EC!2.7.7.2)!/!Riboflavin!kinase!(EC!2.7.1.26)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	76.60%
+Cluster 325465
+13960	CP000800	Escherichia coli E24377A, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABV21201
+fig|150053.31.peg.4187|G5S39_19555!!!Protein!YrdA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.00%
+Cluster 682447
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE06668
+fig|150053.31.peg.3655|G5S39_17085!!!DNA-damage-inducible!protein!I!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.20%
+Cluster 371836
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative pili chaperone protein	CAL12727
+fig|150053.31.peg.1706|G5S39_08055!!!Chaperone!protein!fimC!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 558460
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Hns	ADD77258
+fig|150053.31.peg.4099|G5S39_19150!!!DNA-binding!protein!H-NS!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	79.41%
+Cluster 700026
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|150053.31.peg.4368|G5S39_20455!!!Death!on!curing!protein,!Doc!toxin!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.93%
+Cluster 464874
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Conserved hypothetical protein YffH	CAO96128
+fig|150053.31.peg.3826|G5S39_17845!!!GDP-mannose!pyrophosphatase!NudK!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.73%
+Cluster 212799
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20769
+fig|150053.31.peg.1745|G5S39_08240!!!Propanediol!diffusion!facilitator!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.07%
+fig|150053.31.peg.2820|G5S39_13260!!!Glycerol!uptake!facilitator!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.12%
+Cluster 240208
+34	AL590842	Yersinia pestis CO92 complete genome.	Yes	Gammaproteobacteria	putative phage protein	CAL20901
+fig|150053.31.peg.4317|G5S39_20205!!!Phage!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.57%
+Cluster 429352
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	flagella basal body P-ring formation protein FlgA	CAH20910
+fig|150053.31.peg.681|G5S39_03340!!!Flagellar!basal-body!P-ring!formation!protein!FlgA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.97%
+Cluster 569428
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	Possible flagellar biogenesis protein.	CAH22559
+fig|150053.31.peg.622|G5S39_03070!!!Possible!flagellar!biogenesis!protein.!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	72.90%
+Cluster 542543
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	D-tyrosyl-tRNA(Tyr) deacylase	ACS61694
+fig|150053.31.peg.3419|G5S39_16040!!!D-aminoacyl-tRNA!deacylase!(EC!3.1.1.96)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.00%
+Cluster 164201
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL10684
+fig|150053.31.peg.3007|G5S39_14120!!!Uncharacterized!protein!YjjU!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.60%
+Cluster 362329
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	DNA adenine methylase	ABV43695
+fig|150053.31.peg.1950|G5S39_09205!!!Methyl-directed!repair!DNA!adenine!methylase!(EC!2.1.1.72)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	84.81%
+Cluster 27567
+16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Yes	Gammaproteobacteria	fimbrial usher protein	ABS45951
+fig|150053.31.peg.2102|G5S39_09915!!!Uncharacterized!outer!membrane!usher!protein!YhcD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.12%
+Cluster 739498
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative lipoprotein	CAL10327
+fig|150053.31.peg.4113|G5S39_19200!!!Diaminopimelate!decarboxylase!and/or!diaminopimelate!epimerase!leader!peptide!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.52%
+Cluster 365291
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Phage shock protein A	CAY74214
+fig|150053.31.peg.1050|G5S39_05025!!!Phage!shock!protein!A!@!Suppressor!of!sigma54-dependent!transcription,!PspA-like!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.54%
+Cluster 75733
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative lipoate-protein ligase A	BAB38768
+fig|150053.31.peg.1503|G5S39_07115!!!Lipoate-protein!ligase!A!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	76.63%
+fig|150053.31.peg.3014|G5S39_14155!!!Protein!Smp!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.00%
+Cluster 678458
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL11569
+fig|150053.31.peg.2544|G5S39_12005!!!Uncharacterized!protein!YbjC!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.04%
+Cluster 18269
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	outer membrane usher protein	CAL12726
+fig|150053.31.peg.1705|G5S39_08050!!!Putative!outer!membrane!fimbrial!usher!porin!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.99%
+Cluster 581807
+288	AE009952	Yersinia pestis KIM, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAM84359
+fig|150053.31.peg.3949|G5S39_18420!!!UPF0231!protein!YacL!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	88.33%
+Cluster 752567
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS61216
+fig|150053.31.peg.302|G5S39_01490!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	81.03%
+Cluster 624669
+10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Yes	Gammaproteobacteria	putative yopE chaperone SycE	AAS58593
+fig|150053.31.peg.3216|G5S39_15065!!!Type!III!secretion!chaperone!protein!for!YopE!(SycE)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.23%
+Cluster 367696
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	chaperone protein	CAL11543
+fig|150053.31.peg.233|G5S39_01165!!!Chaperone!protein!psaB!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.50%
+Cluster 401297
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	YheO domain protein	ACX89743
+fig|150053.31.peg.1990|G5S39_09390!!!YheO-like!PAS!domain!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	91.67%
+Cluster 678802
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS60803
+fig|150053.31.peg.101|G5S39_00520!!!Putative!inner!membrane!protein!YjeT!(clustered!with!HflC)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	93.94%
+Cluster 531525
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	50S ribosomal protein L19	ACP26950
+fig|150053.31.peg.4088|G5S39_19095!!!LSU!ribosomal!protein!L19p!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.17%
+Cluster 747055
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL11214
+fig|150053.31.peg.3120|G5S39_14630!!!Putative!exported!protein!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.83%
+Cluster 559054
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	IbpA	ADD75249
+fig|150053.31.peg.468|G5S39_02320!!!16!kDa!heat!shock!protein!A!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.37%
+Cluster 445839
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS64158
+fig|150053.31.peg.437|G5S39_02175!!!Polymer-forming!bactofilin!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.55%
+Cluster 333681
+190	AM286416	Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081 complete genome.	Yes	Gammaproteobacteria	putative targeted effector protein	CAL10101
+fig|150053.31.peg.4072|G5S39_19030!!!Type!III!secretion!injected!virulence!protein!(YopP,YopJ,!induces!apoptosis,!prevents!cytokine!induction,!inhibits!NFkb!activation)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	94.44%
+Cluster 644607
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	general secretion pathway protein I	CAL13374
+fig|150053.31.peg.3554|G5S39_16650!!!General!secretion!pathway!protein!I!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	90.00%
+Cluster 550024
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved membrane protein	AAS60370
+fig|150053.31.peg.2221|G5S39_10485!!!Uncharacterized!protein!YiiR!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.21%
+Cluster 697671
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11838
+fig|150053.31.peg.977|G5S39_04690!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.91%
+Cluster 552851
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	urease beta subunit	CAL11050
+fig|150053.31.peg.3078|G5S39_14445!!!Urease!beta!subunit!(EC!3.5.1.5)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.78%
+Cluster 224630
+10696	CP000614	Burkholderia vietnamiensis G4 chromosome 1, complete sequence.	Yes	Betaproteobacteria	glycosyl transferase, family 9	ABO55400
+fig|150053.31.peg.1981|G5S39_09345!!!Putative!sugar!transferase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.37%
+Cluster 782716
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABG13842
+fig|150053.31.peg.4268!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.67%
+Cluster 701263
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative phage integrase (partial)	CAH23102
+fig|150053.31.peg.3372|G5S39_15795!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.29%
+Cluster 180167
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	RsuA protein	AAU37645
+fig|150053.31.peg.2789|G5S39_13100!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.46%
+Cluster 244106
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative inner membrane protein	CAL11396
+fig|150053.31.peg.2860|G5S39_13455!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.42%
+Cluster 11409
+10700	BX908798	Parachlamydia-related symbiont UWE25, complete genome.	Yes	Chlamydiales	probable glycyl-tRNA synthetase	CAF23417
+fig|150053.31.peg.481|G5S39_02385!!!Glycyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.14)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.53%
+Cluster 4370
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL12718
+fig|150053.31.peg.1697|G5S39_08010!!!T6SS!component!TssM!(IcmF/VasK)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.51%
+Cluster 196845
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12732
+fig|150053.31.peg.1712|G5S39_08080!!!T6SS!component!TssA!(ImpA)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.93%
+Cluster 116413
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	ABC superfamily (bin	AAX68014
+fig|150053.31.peg.3457|G5S39_16220!!!Maltodextrin!ABC!transporter,!substrate-binding!protein!MdxE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.63%
+Cluster 201049
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	rod shape-determining protein MreC	ACT08634
+fig|150053.31.peg.2069|G5S39_09775!!!Rod!shape-determining!protein!MreC!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.49%
+Cluster 13787
+9633	CP000082	Psychrobacter arcticus 273-4, complete genome.	No	Gammaproteobacteria	Excinuclease ABC subunit A	AAZ19533
+fig|150053.31.peg.2033|G5S39_09605!!!Excinuclease!ABC!subunit!A!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.28%
+Cluster 488971
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	isochorismatase hydrolase	ACS64543
+fig|150053.31.peg.3764|G5S39_17580!!!Isochorismatase!family!protein!YecD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.30%
+Cluster 314468
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative acetyltransferase	AAS61929
+fig|150053.31.peg.3164|G5S39_14835!!!Acetyltransferase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	78.30%
+Cluster 531069
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	AccB protein	AAU38396
+fig|150053.31.peg.2061|G5S39_09740!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.13%
+Cluster 423510
+13875	CP000016	Candidatus Blochmannia pennsylvanicus str. BPEN, complete genome.	No	Gammaproteobacteria	NADH dehydrogenase I chain B, binds FeS cluster N2	AAZ41122
+fig|150053.31.peg.2971|G5S39_13960!!!NADH-ubiquinone!oxidoreductase!chain!B!(EC!1.6.5.3)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.22%
+Cluster 226221
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	methionine aminopeptidase	AAW75237
+fig|150053.31.peg.580|G5S39_02870!!!Methionine!aminopeptidase!(EC!3.4.11.18)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.69%
+Cluster 129469
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	alanine-alpha-ketoisovalerate	AAS64131
+fig|150053.31.peg.471|G5S39_02335!!!Valine--pyruvate!aminotransferase!(EC!2.6.1.66)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.64%
+Cluster 450357
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS60574
+fig|150053.31.peg.2638|G5S39_12425!!!UPF0126!inner!membrane!protein!YadS!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.06%
+Cluster 467844
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	hemophore HasA	CAL10264
+fig|150053.31.peg.2842|G5S39_13365!!!Hemophore!HasA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.59%
+Cluster 623829
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative acetyltransferase	CAL10363
+fig|150053.31.peg.2402|G5S39_11340!!!Acetyl-CoA!sensor!PanM,!required!for!maturation!of!L-aspartate!decarboxylase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.69%
+Cluster 28864
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative exported protein	AAS63419
+fig|150053.31.peg.2392|G5S39_11290!!!Alpha-related!fimbriae!usher!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	68.81%
+Cluster 696810
+13151	CP000038	Shigella sonnei Ss046, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAZ87051
+fig|150053.31.peg.3844|G5S39_17925!!!mRNA!interferase!YafQ!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.65%
+Cluster 495973
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	GTP cyclohydrolase subunit MoaC	ABQ80553
+fig|150053.31.peg.315|G5S39_01555!!!Cyclic!pyranopterin!monophosphate!synthase!(EC!4.6.1.17)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.78%
+Cluster 731538
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	carbon storage regulator, CsrA	ADC62041
+fig|150053.31.peg.4259|G5S39_19905!!!Carbon!storage!regulator!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.61%
+Cluster 210655
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	N-succinyl-diaminopimelate deacylase	CBJ81719
+fig|150053.31.peg.3813|G5S39_17785!!!N-succinyl-L,L-diaminopimelate!desuccinylase!(EC!3.5.1.18)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.07%
+Cluster 681153
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	transposase A	ABA50301
+fig|150053.31.peg.4377!!!Transposase,!IS3/IS911!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.67%
+Cluster 691242
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	cold shock domain protein CspD	ACR13966
+fig|150053.31.peg.2518|G5S39_11875!!!Cold!shock!protein!of!CSP!family!=>!CspD!(naming!convention!as!in!E.coli)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.00%
+Cluster 639716
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	PRD domain protein	ABV43099
+fig|150053.31.peg.1153|G5S39_05500!!!PTS-regulatory!domain-containing!protein!YhfY!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.17%
+Cluster 63379
+16708	CP001337	Chloroflexus aggregans DSM 9485, complete genome.	No	Chloroflexales	isocitrate dehydrogenase, NADP-dependent	ACL23964
+fig|150053.31.peg.925|G5S39_04460!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	68.52%
+Cluster 721808
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS62867
+fig|150053.31.peg.3811|G5S39_17775!!!UPF0370!protein!YpfN!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.54%
+Cluster 302482
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	spfh/band 7 domain protein	ACR14480
+fig|150053.31.peg.1114|G5S39_05325!!!Protein!QmcA!(possibly!involved!in!integral!membrane!quality!control)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.17%
+Cluster 629040
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative phage holin	CAL11746
+fig|150053.31.peg.3860|G5S39_18000!!!Phage!holin/antiholin!component!S!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	91.53%
+Cluster 612015
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24208
+fig|150053.31.peg.1610|G5S39_07615!!!Uncharacterized!protein!YqiC!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.65%
+Cluster 527527
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Oligoketide cyclase/lipid transport protein	AAS61304
+fig|150053.31.peg.3879|G5S39_18080!!!Ribosome!association!toxin!RatA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.30%
+Cluster 555508
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAL18084
+fig|150053.31.peg.533|G5S39_02640!!!Putative!transmembrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.94%
+Cluster 602554
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL13164
+fig|150053.31.peg.1183|G5S39_05635!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.71%
+Cluster 602555
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	transcriptional regulator, HxlR family	ABM35940
+fig|150053.31.peg.942|G5S39_04530!!!Redox-sensing!transcriptional!regulator!QorR!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.76%
+Cluster 571478
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	haemin storage system, HmsS protein	CAL12524
+fig|150053.31.peg.3163|G5S39_14830!!!Biofilm!PGA!synthesis!auxiliary!protein!PgaD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.42%
+Cluster 233487
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12016
+fig|150053.31.peg.740|G5S39_03600!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.46%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|150053.31.peg.1994|G5S39_09410!!!SSU!ribosomal!protein!S12p!(S23e)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.00%
+Cluster 41763
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	PAS/PAC domain	AAS61729
+fig|150053.31.peg.978|G5S39_04695!!!FOG:!PAS/PAC!domain!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.69%
+Cluster 663331
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YbeB	ADD76293
+fig|150053.31.peg.1277|G5S39_06105!!!Ribosomal!silencing!factor!RsfA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.14%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|150053.31.peg.457|G5S39_02270!!!LSU!ribosomal!protein!L34p!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.91%
+Cluster 302781
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	oligopeptide transport system permease protein	AAX88126
+fig|150053.31.peg.2816|G5S39_13240!!!Oligopeptide!ABC!transporter,!permease!protein!OppB!(TC!3.A.1.5.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.51%
+Cluster 501191
+17415	CP000851	Shewanella pealeana ATCC 700345, complete genome.	No	Gammaproteobacteria	HesB/YadR/YfhF-family protein	ABV89320
+fig|150053.31.peg.3969|G5S39_18515!!![4Fe-4S]!cluster!carrier!protein!NfuA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.82%
+Cluster 622478
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Predicted transcriptional regulators	AAS61779
+fig|150053.31.peg.734|G5S39_03575!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	88.62%
+Cluster 677828
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	Phosphotransferase system, phosphocarrier protein HPr	ACQ92255
+fig|150053.31.peg.3246|G5S39_15220!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	72.94%
+Cluster 679601
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX68699
+fig|150053.31.peg.4372|G5S39_20475!!!Uncharacterized!protein!YagB!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.47%
+Cluster 36196
+32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Yes	Gammaproteobacteria	probable replication protein	BAI31875
+fig|150053.31.peg.355|G5S39_01745!!!DNA!primase,!phage!associated!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	72.40%
+Cluster 652299
+190	AM286416	Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081 complete genome.	Yes	Gammaproteobacteria	regulatory protein	CAL10103
+fig|150053.31.peg.4176|G5S39_19500!!!Type!III!secretion!negative!regulator!of!effector!production!protein!(LcrQ,YscM,!YscM1!and!YscM2)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	91.38%
+Cluster 192387
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative potassium channel protein	CAL11059
+fig|150053.31.peg.3088|G5S39_14490!!!Potassium!channel!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 453155
+10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Yes	Gammaproteobacteria	putative outer membrane virulence protein YopE	AAS58592
+fig|150053.31.peg.3217|G5S39_15070!!!Type!III!secretion!injected!virulence!protein!(YopE)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.89%
+Cluster 666552
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	sugar fermentation stimulation protein B	CAX54171
+fig|150053.31.peg.134|G5S39_00685!!!Ner-like!regulatory!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.44%
+Cluster 279467
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL13054
+fig|150053.31.peg.1292|G5S39_06180!!!putative!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.38%
+Cluster 356398
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative tight adherance operon protein	CAL13668
+fig|150053.31.peg.1640|G5S39_07760!!!Type!II/IV!secretion!system!protein!TadC,!associated!with!Flp!pilus!assembly!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.26%
+Cluster 561296
+30453	CP001636	Variovorax paradoxus S110 chromosome 2, complete sequence.	No	Betaproteobacteria	protein of unknown function DUF395 YeeE/YedE	ACS22161
+fig|150053.31.peg.532|G5S39_02635!!!GENE!II!AND!X!PROTEINS!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.59%
+Cluster 430650
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	NAD(P)H dehydrogenase (quinone)	ABV40313
+fig|150053.31.peg.1024|G5S39_04905!!!FMN-dependent!NADH-azoreductase!(EC!1.7.1.6)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.67%
+Cluster 686534
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAS61718
+fig|150053.31.peg.964|G5S39_04625!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	91.14%
+Cluster 502239
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative tight adherance operon protein	CAL13671
+fig|150053.31.peg.1637|G5S39_07745!!!Flp!pilus!assembly!surface!protein!TadF,!ATP/GTP-binding!motif!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.88%
+Cluster 321176
+33241	CP001674	Methylovorus sp. SIP3-4, complete genome.	No	Betaproteobacteria	cysteine synthase B	ACT50186
+fig|150053.31.peg.3253|G5S39_15255!!!Cysteine!synthase!B!(EC!2.5.1.47)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.16%
+Cluster 647844
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	50S ribosomal subunit protein L25	ABF04379
+fig|150053.31.peg.4202|G5S39_19640!!!LSU!ribosomal!protein!L25p!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.47%
+Cluster 673665
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	putative phage protein	ABE07210
+fig|150053.31.peg.4316|G5S39_20200!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	94.29%
+Cluster 233071
+38	AE017143	Haemophilus ducreyi strain 35000HP complete genome.	Yes	Gammaproteobacteria	UDP-N-acetylglucosamine-N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	AAP95721
+fig|150053.31.peg.2353|G5S39_11110!!!UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide)!pyrophosphoryl-undecaprenol!N-acetylglucosamine!transferase!(EC!2.4.1.227)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.28%
+Cluster 9115
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative invasin	CAH20811
+fig|150053.31.peg.2310|G5S39_10910!!!Putative!invasin!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.74%
+Cluster 205073
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	CAI08474
+fig|150053.31.peg.2934|G5S39_13800!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.26%
+Cluster 410344
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeaZ	ADD77302
+fig|150053.31.peg.3790|G5S39_17695!!!tRNA!threonylcarbamoyladenosine!biosynthesis!protein!TsaB!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.66%
+Cluster 726168
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACA67501
+fig|150053.31.peg.364|G5S39_01790!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	87.84%
+Cluster 492186
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF179	ACS84355
+fig|150053.31.peg.539|G5S39_02670!!!UPF0301!protein!YqgE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.01%
+Cluster 352148
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Uncharacterized protein ygcF	CAY75451
+fig|150053.31.peg.2711|G5S39_12750!!!7-carboxy-7-deazaguanine!synthase!(EC!4.3.99.3)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.54%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|150053.31.peg.1997|G5S39_09425!!!Translation!elongation!factor!Tu!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.51%
+fig|150053.31.peg.3919|G5S39_18260!!!Translation!elongation!factor!Tu!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	68.53%
+Cluster 429613
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11415
+fig|150053.31.peg.3736|G5S39_17450!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 723119
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAS61437
+fig|150053.31.peg.2255|G5S39_10645!!!FIG002473:!Protein!YcaR!in!KDO2-Lipid!A!biosynthesis!cluster!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.67%
+Cluster 562916
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12714
+fig|150053.31.peg.2157|G5S39_10195!!!T6SS!lysozyme-like!component!TssE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.11%
+Cluster 722166
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	major outer membrane lipoprotein	BAE74712
+fig|150053.31.peg.4144|G5S39_19345!!!Major!outer!membrane!lipoprotein!Lpp!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	87.18%
+Cluster 416375
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Regulator of competence-specific genes	AAS61571
+fig|150053.31.peg.3326|G5S39_15580!!!DNA!transformation!protein!TfoX!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.36%
+Cluster 562678
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	pH 6 antigen precursor (antigen 4) (adhesin)	CAL11542
+fig|150053.31.peg.234|G5S39_01170!!!pH!6!antigen!adhesin!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 651130
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	Excinuclease ABC C subunit domain protein	ABV39615
+fig|150053.31.peg.170|G5S39_00875!!!UPF0213!protein!YhbQ!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.23%
+Cluster 590626
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	holo-(acyl-carrier-protein) synthase	ABF14256
+fig|150053.31.peg.1877|G5S39_08865!!!Holo-[acyl-carrier-protein]!synthase!(EC!2.7.8.7)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.11%
+Cluster 620430
+10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Yes	Gammaproteobacteria	putative yopT chaperone SycT	AAS58581
+fig|150053.31.peg.4079|G5S39_19055!!!Type!III!secretion!chaperone!protein!for!YopT!(SycT)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.23%
+Cluster 180061
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	general secretion pathway protein	CAL13376
+fig|150053.31.peg.3556|G5S39_16660!!!General!secretion!pathway!protein!F!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.77%
+Cluster 591906
+33319	CP001672	Methylotenera mobilis JLW8, complete genome.	No	Betaproteobacteria	ribosomal protein S16	ACT48976
+fig|150053.31.peg.4085|G5S39_19080!!!SSU!ribosomal!protein!S16p!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.07%
+Cluster 40879
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	flagellar biosynthesis protein FlhA	ACT06402
+fig|150053.31.peg.675|G5S39_03315!!!Flagellar!biosynthesis!protein!FlhA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.98%
+Cluster 592465
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL13416
+fig|150053.31.peg.2616|G5S39_12320!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.62%
+Cluster 192945
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	D-isomer specific 2-hydroxyacid dehydrogenase family protein	AAY91693
+fig|150053.31.peg.1384|G5S39_06580!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.25%
+Cluster 25207
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	probable outer membrane usher protein	CAL11936
+fig|150053.31.peg.1425|G5S39_06760!!!Sigma-fimbriae!usher!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.37%
+Cluster 152145
+388	CP000947	Haemophilus somnus 2336, complete genome.	Yes	Gammaproteobacteria	L-fucose transporter	ACA30942
+fig|150053.31.peg.1000!!!Homolog!of!fucose/glucose/galactose!permeases!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.76%
+Cluster 663057
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YjcH	ADD75458
+fig|150053.31.peg.2|G5S39_00025!!!Inner!membrane!protein!YjcH,!clustering!with!ActP!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.79%
+Cluster 571621
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	gpR [Enterobacteria phage P2] sp|P36933|VP	CAH21089
+fig|150053.31.peg.3857|G5S39_17985!!!Phage!tail!completion!protein!GpR!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	76.77%
+Cluster 543086
+267	AE015451	Pseudomonas putida KT2440 complete genome.	No	Gammaproteobacteria	ribosomal protein L21	AAN66313
+fig|150053.31.peg.137|G5S39_00700!!!LSU!ribosomal!protein!L21p!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.17%
+Cluster 310208
+297	AE008923	Xanthomonas axonopodis pv. citri str. 306, complete genome.	No	Gammaproteobacteria	resolvase	AAM37284
+fig|150053.31.peg.3646|G5S39_17040!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.55%
+Cluster 633895
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	histidine triad nucleotide-binding protein 2	ACF64355
+fig|150053.31.peg.892|G5S39_04310!!!YcfF/hinT!protein:!a!purine!nucleoside!phosphoramidase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.32%
+Cluster 490794
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	ribonuclease HII	BAE75204
+fig|150053.31.peg.2932|G5S39_13790!!!Ribonuclease!HII!(EC!3.1.26.4)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.27%
+Cluster 126257
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB61668
+fig|150053.31.peg.2441|G5S39_11530!!!Succinylarginine!dihydrolase!(EC!3.5.3.23)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.98%
+Cluster 739833
+190	AM286416	Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081 complete genome.	Yes	Gammaproteobacteria	putative type III secretion protein	CAL10062
+fig|150053.31.peg.3202|G5S39_15005!!!Type!III!secretion!protein!(YscE)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.97%
+Cluster 352813
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	cel operon repressor	CAL11069
+fig|150053.31.peg.4285|G5S39_20050!!!N,N'-diacetylchitobiose-specific!regulator!ChbR,!AraC!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.64%
+Cluster 33281
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BAD48352
+fig|150053.31.peg.326|G5S39_01605!!!Adenosylmethionine-8-amino-7-oxononanoate!aminotransferase!(EC!2.6.1.62)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.71%
+Cluster 436329
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL10372
+fig|150053.31.peg.2393|G5S39_11295!!!Alpha-related!fimbriae!chaperone!1!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.33%
+Cluster 663730
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAH21730
+fig|150053.31.peg.4292|G5S39_20085!!!Putative!outer!membrane!lipoprotein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.42%
+Cluster 166917
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	Extracellular ligand-binding receptor	ACS84620
+fig|150053.31.peg.3405|G5S39_15965!!!Urea!ABC!transporter,!substrate-binding!protein!UrtA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	90.98%
+Cluster 16106
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported iron receptor protein	CAL10450
+fig|150053.31.peg.44|G5S39_00225!!!Putative!Ton-B!dependent!hemine!receptor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.46%
+Cluster 528097
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	ADP-ribose pyrophosphatase	AAS61538
+fig|150053.31.peg.240|G5S39_01200!!!Putative!Mut!family!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	84.29%
+Cluster 135111
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14881
+fig|150053.31.peg.4|G5S39_00035!!!Proton/glutamate!symporter!@!Proton/aspartate!symporter!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	81.24%
+Cluster 411063
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Conserved hypothetical protein	CAO97691
+fig|150053.31.peg.4324|G5S39_20240!!!Outer!membrane!beta-barrel!assembly!protein!BamD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.83%
+Cluster 619453
+19449	CP001322	Desulfatibacillum alkenivorans AK-01, complete genome.	No	Deltaproteobacteria	microcompartments protein	ACL06672
+fig|150053.31.peg.1746|G5S39_08245!!!Propanediol!utilization!polyhedral!body!protein!PduA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.47%
+fig|150053.31.peg.1754|G5S39_08280!!!Propanediol!utilization!polyhedral!body!protein!PduJ!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	72.53%
+Cluster 181655
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative drug efflux protein	CAL13622
+fig|150053.31.peg.601|G5S39_02960!!!RND!efflux!system,!membrane!fusion!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.16%
+Cluster 83384
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	putative variable tail fiber protein	CAR04069
+fig|150053.31.peg.3848|G5S39_17940!!!Phage!tail!fiber!protein!GpH!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.12%
+Cluster 337559
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	3-oxoacyl- reductase	AAW74135
+fig|150053.31.peg.875|G5S39_04230!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.57%
+Cluster 119825
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CoaBC	ADD79072
+fig|150053.31.peg.2181|G5S39_10310!!!Phosphopantothenoylcysteine!decarboxylase!(EC!4.1.1.36)!/!Phosphopantothenoylcysteine!synthetase!(EC!6.3.2.5)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.61%
+Cluster 642870
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	glucitol operon activator protein	CAL11190
+fig|150053.31.peg.3101|G5S39_14540!!!Glucitol!operon!activator!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.35%
+Cluster 706614
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12292
+fig|150053.31.peg.2808|G5S39_13200!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.40%
+Cluster 482165
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative LuxR-family regulatory proteins	CAL13053
+fig|150053.31.peg.1291|G5S39_06175!!!Putative!LuxR-family!regulatory!proteins!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.50%
+Cluster 572212
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	UPF0382 membrane protein SSP2132	CAY75468
+fig|150053.31.peg.4275|G5S39_20000!!!FIG00018398:!hypothetical!regulator!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.28%
+Cluster 190584
+17629	CP000926	Pseudomonas putida GB-1, complete genome.	No	Gammaproteobacteria	polar amino acid ABC transporter, inner membrane subunit	ABZ00438
+fig|150053.31.peg.2045|G5S39_09665!!!Amino!acid!ABC!transporter,!permease!protein!1,!YhdX!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.76%
+Cluster 592365
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Membrane proteins related to metalloendopeptidases	AAS63205
+fig|150053.31.peg.1695|G5S39_08000!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.43%
+Cluster 662044
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACN48248
+fig|150053.31.peg.2729|G5S39_12820!!!(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione!isomerase!(EC!5.3.1.32)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.08%
+Cluster 307955
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	Putative flagellar motor switch protein.	CAH22589
+fig|150053.31.peg.1688|G5S39_07965!!!Flagellar!motor!switch!protein!FliM!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.92%
+Cluster 265406
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative exported protein	AAS63191
+fig|150053.31.peg.1681|G5S39_07930!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	78.42%
+Cluster 153748
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	tyrosyl-tRNA synthetase, putative	ACR69272
+fig|150053.31.peg.1072|G5S39_05110!!!Tyrosyl-tRNA!synthetase!(EC!6.1.1.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	87.03%
+Cluster 84246
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative kinase	AAX66588
+fig|150053.31.peg.3883|G5S39_18100!!!NAD!kinase!(EC!2.7.1.23)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	84.30%
+Cluster 18794
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	ATP-dependent Clp protease ATP-binding subunit clpA	ABA48302
+fig|150053.31.peg.2516|G5S39_11865!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.82%
+Cluster 462875
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	Mammalian cell entry related domain protein	ACT08606
+fig|150053.31.peg.1347|G5S39_06420!!!Phospholipid!ABC!transporter!substrate-binding!protein!MlaD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.97%
+Cluster 626663
+10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58580
+fig|150053.31.peg.4080!!!ORF61!(o129)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.71%
+Cluster 163807
+32815	FM954973	Vibrio splendidus LGP32 chromosome 2.	No	Gammaproteobacteria	putative transport protein	CAV25727
+fig|150053.31.peg.2952|G5S39_13885!!!PTS!system,!IIC!component,!UlaA-type!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.40%
+Cluster 273451
+58	CP000230	Rhodospirillum rubrum ATCC 11170, complete genome.	No	Alphaproteobacteria	Binding-protein-dependent transport systems inner membrane component	ABC23158
+fig|150053.31.peg.778|G5S39_03780!!!Dipeptide!ABC!transporter,!permease!protein!DppC!(TC!3.A.1.5.2)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.67%
+Cluster 440285
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	negative modulator of initiation of replication	ABE06185
+fig|150053.31.peg.1241|G5S39_05915!!!SeqA!protein,!negative!modulator!of!initiation!of!replication!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.30%
+Cluster 637778
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	flagellar hook-basal body complex protein FliE	AAS61795
+fig|150053.31.peg.707|G5S39_03465!!!Flagellar!hook-basal!body!complex!protein!FliE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.15%
+Cluster 360046
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	Putative flagella basal body P-ring formation protein	CAH22579
+fig|150053.31.peg.643|G5S39_03170!!!Flagellar!basal-body!P-ring!formation!protein!FlgA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.24%
+Cluster 434617
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	thiamine-phosphate pyrophosphorylase	AAS63273
+fig|150053.31.peg.4022|G5S39_18800!!!Thiamin-phosphate!pyrophosphorylase!(EC!2.5.1.3)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.86%
+Cluster 767506
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	50S ribosomal protein L36	CAO97529
+fig|150053.31.peg.1159|G5S39_05530!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.98%
+Cluster 564483
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Predicted transcriptional regulator	AAS60805
+fig|150053.31.peg.103|G5S39_00530!!!Nitrite-sensitive!transcriptional!repressor!NsrR!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	93.62%
+Cluster 573164
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative tight adherance operon protein	CAL13670
+fig|150053.31.peg.1638!!!Flp!pilus!assembly!membrane!protein!TadE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	91.55%
+Cluster 577567
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62882
+fig|150053.31.peg.3490|G5S39_16365!!!Uncharacterized!protein!YfgD,!not!an!arsenate!reductase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	89.74%
+Cluster 672383
+17415	CP000851	Shewanella pealeana ATCC 700345, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABV87934
+fig|150053.31.peg.318|G5S39_01570!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.98%
+Cluster 672387
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative lipoprotein	CAL12171
+fig|150053.31.peg.1029|G5S39_04930!!!Uncharacterized!protein!YdbJ!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.14%
+Cluster 237423
+13943	CP000546	Burkholderia mallei NCTC 10229 chromosome I, complete sequence.	Yes	Betaproteobacteria	putative membrane protein	ABN01987
+fig|150053.31.peg.1219|G5S39_05810!!!FIG015373:!Membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.55%
+Cluster 609710
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	flagellar switch protein	AAS63197
+fig|150053.31.peg.1687|G5S39_07960!!!Flagellar!motor!switch!protein!FliN!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.54%
+Cluster 753546
+19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Yes	Gammaproteobacteria	phage immunity repressor protein	ACF92651
+fig|150053.31.peg.3378|G5S39_15825!!!FIG01221286:!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.50%
+Cluster 599463
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL11311
+fig|150053.31.peg.3234|G5S39_15140!!!Uncharacterized!protein!YaaX/YpeC!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.08%
+Cluster 532816
+13126	CR628337	Legionella pneumophila str. Lens complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S7	CAH14596
+fig|150053.31.peg.1995|G5S39_09415!!!SSU!ribosomal!protein!S7p!(S5e)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.87%
+Cluster 108676
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	probable outer membrane efflux protein	CAL13271
+fig|150053.31.peg.4226|G5S39_19760!!!Outer!membrane!factor!(OMF)!lipoprotein!associated!wth!EmrAB-OMF!efflux!system!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.90%
+Cluster 259430
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	AraC-family transcriptional regulator	CAL11036
+fig|150053.31.peg.3059|G5S39_14360!!!Transcriptional!regulator,!AraC!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.52%
+Cluster 540802
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH77658
+fig|150053.31.peg.2041|G5S39_09645!!!Holin-like!protein!CidA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.28%
+Cluster 654256
+190	AM286416	Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081 complete genome.	Yes	Gammaproteobacteria	putative type III secretion regulatory protein	CAL10070
+fig|150053.31.peg.3210|G5S39_15045!!!Type!III!secretion!negative!regulator!of!effector!production!protein!(LcrQ,YscM,!YscM1!and!YscM2)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 16912
+16252	CP000240	Synechococcus sp. JA-2-3B'a(2-13), complete genome.	No	Chroococcales	macrocin-O-methyltransferase domain protein	ABD02267
+fig|150053.31.peg.2503!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.67%
+Cluster 350918
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative tight adherance operon protein	CAL13663
+fig|150053.31.peg.1646|G5S39_07790!!!Flp!pilus!assembly!protein!RcpC/CpaB!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	93.86%
+Cluster 432776
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	urease accessory protein	CAL11052
+fig|150053.31.peg.3080|G5S39_14455!!!Urease!accessory!protein!UreE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 611298
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative exported protein	CAH20894
+fig|150053.31.peg.3588|G5S39_16800!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.06%
+Cluster 763466
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACA67028
+fig|150053.31.peg.202!!!FIG01223566:!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.86%
+Cluster 717944
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF02752
+fig|150053.31.peg.1103|G5S39_05270!!!Uncharacterized!S4!RNA-binding-domain!protein!YbcJ!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	72.86%
+Cluster 271792
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	periplasmic binding protein/LacI transcriptional regulator	ACX88099
+fig|150053.31.peg.2587|G5S39_12205!!!L-arabinose!ABC!transporter,!substrate-binding!protein!AraF!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	91.13%
+Cluster 650345
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL13148
+fig|150053.31.peg.1166|G5S39_05550!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	94.87%
+Cluster 479044
+28745	CP001048	Yersinia pseudotuberculosis PB1/+, complete genome.	Yes	Gammaproteobacteria	L-lysine exporter	ACC90280
+fig|150053.31.peg.2724|G5S39_12805!!!Arginine!exporter!protein!ArgO!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.34%
+Cluster 195979
+16067	CP000902	Yersinia pestis Angola plasmid ne	Yes	Gammaproteobacteria	CD, complete sequence.	ABX88786
+fig|150053.31.peg.3173|G5S39_14865!!!Type!III!secretion!possible!injected!virulence!protein!(YopM)!/!internalin,!putative!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	90.21%
+Cluster 166956
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	urea ABC transporter, permease protein UrtC	ACR02516
+fig|150053.31.peg.288|G5S39_01420!!!Urea!ABC!transporter,!permease!protein!UrtC!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.41%
+Cluster 660059
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	protein of unknown function DUF1435	ACA69904
+fig|150053.31.peg.2767|G5S39_12990!!!putative!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.22%
+Cluster 13634
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	phage tail tape measure protein, TP901 family	ACA68580
+fig|150053.31.peg.3829!!!Phage!tail!length!tape-measure!protein!GpT!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	81.65%
+Cluster 13635
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	phage tail tape measure protein, TP901 family	ACA68627
+fig|150053.31.peg.3830!!!Phage!tail!length!tape-measure!protein!GpT!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.54%
+Cluster 176853
+17985	CP001252	Shewanella baltica OS223, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACK45412
+fig|150053.31.peg.2438|G5S39_11515!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.84%
+Cluster 74375
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	DEAD/DEAH box helicase domain protein	ACS61740
+fig|150053.31.peg.306|G5S39_01510!!!ATP-dependent!RNA!helicase!RhlE!(EC!3.6.4.13)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.41%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|150053.31.peg.2005|G5S39_09465!!!SSU!ribosomal!protein!S19p!(S15e)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.65%
+Cluster 443458
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	Sua5/YciO/YrdC/YwlC family protein	ACR12471
+fig|150053.31.peg.2790|G5S39_13105!!!YciO!protein,!TsaC/YrdC!paralog!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.14%
+Cluster 531651
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative fimbrial protein	CAL10300
+fig|150053.31.peg.3468|G5S39_16270!!!Fimbrial!protein!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.30%
+Cluster 204923
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative ribonucleoside-diphosphate reductase beta subunit	AAS58680
+fig|150053.31.peg.3335|G5S39_15625!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!beta!subunit!(EC!1.17.4.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.90%
+Cluster 42423
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	Glycogen/starch/alpha-glucan phosphorylase	ABG15306
+fig|150053.31.peg.865|G5S39_04185!!!Maltodextrin!phosphorylase!(EC!2.4.1.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.94%
+fig|150053.31.peg.4348|G5S39_20355!!!Maltodextrin!phosphorylase!(EC!2.4.1.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	90.20%
+Cluster 517859
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	lactoylglutathione lyase	ACP05284
+fig|150053.31.peg.1088|G5S39_05180!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.37%
+Cluster 711241
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL13227
+fig|150053.31.peg.1566|G5S39_07420!!!putative!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 156930
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	2-dehydro-3-deoxygluconokinase	ABE09487
+fig|150053.31.peg.797|G5S39_03870!!!2-dehydro-3-deoxygluconokinase!(EC!2.7.1.45)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.57%
+Cluster 703543
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11830
+fig|150053.31.peg.969|G5S39_04650!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.77%
+Cluster 563090
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	probable phage antitermination protein Q	CAL11501
+fig|150053.31.peg.2495|G5S39_11780!!!Phage!antitermination!protein!Q!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.78%
+fig|150053.31.peg.3285|G5S39_15385!!!Phage!antitermination!protein!Q!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	94.97%
+Cluster 43853
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	transketolase	ACY35378
+fig|150053.31.peg.525|G5S39_02610!!!Transketolase!(EC!2.2.1.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.50%
+Cluster 335592
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF06037
+fig|150053.31.peg.2852|G5S39_13415!!!Unsaturated!fatty!acid!biosythesis!repressor!FabR,!TetR!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	94.29%
+Cluster 49683
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	peptidase S8 and S53 subtilisin kexin sedolisin	ACT05169
+fig|150053.31.peg.380|G5S39_01870!!!Subtilisin!DY!(EC!3.4.21.62)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.05%
+Cluster 704309
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11249
+fig|150053.31.peg.3822|G5S39_17825!!!Periplasmic!nitrate!reductase!component!NapD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 437770
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	putative DNA-binding transcriptional regulator (Lrp-like)	CAR01791
+fig|150053.31.peg.1177|G5S39_05605!!!DNA-binding!transcriptional!activator!DecR,!AsnC!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.16%
+Cluster 331141
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	inner-membrane translocator	ACS84619
+fig|150053.31.peg.3404|G5S39_15960!!!Urea!ABC!transporter,!permease!protein!UrtB!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	88.24%
+Cluster 331143
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative iron-siderophore uptake ABC transporter ATP-binding protein	BAG22539
+fig|150053.31.peg.1673|G5S39_07895!!!Ferric!enterobactin!transport!ATP-binding!protein!FepC!(TC!3.A.1.14.2)!@!ABC-type!Fe3+-siderophore!transport!system,!ATPase!component!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.28%
+Cluster 23763
+288	AE009952	Yersinia pestis KIM, complete genome.	Yes	Gammaproteobacteria	hypothetical	AAM86222
+fig|150053.31.peg.1791|G5S39_08450!!!putative!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.09%
+Cluster 772209
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein	AAN83597
+fig|150053.31.peg.866!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	90.00%
+fig|150053.31.peg.3515!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.96%
+Cluster 694972
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	Conjugal transfer TraD family protein	ACX87537
+fig|150053.31.peg.3869|G5S39_18035!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.52%
+Cluster 718358
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65442
+fig|150053.31.peg.2059|G5S39_09730!!!Uncharacterized!protein!YhdT!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.25%
+Cluster 32659
+13953	CP000570	Burkholderia pseudomallei 668 chromosome I, complete sequence.	Yes	Betaproteobacteria	prephenate dehydrogenase/3-phosphoshikimate 1-carboxyvinyltransferase	ABN83250
+fig|150053.31.peg.2266|G5S39_10695!!!3-phosphoshikimate!1-carboxyvinyltransferase!(EC!2.5.1.19)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.05%
+Cluster 361320
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	ABC-type dipeptide/oligopeptide/nickel transporter, permease component	ABO89874
+fig|150053.31.peg.3072|G5S39_14420!!!Nickel!ABC!transporter,!permease!protein!NikC2!(TC!3.A.1.5.3)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.43%
+Cluster 618080
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative Trp operon repressor	AAS63878
+fig|150053.31.peg.3028|G5S39_14220!!!Transcriptional!repressor!protein!TrpR!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	78.45%
+Cluster 511310
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	methylated-DNA--protein-cysteine methyltransferase	ACA69484
+fig|150053.31.peg.1170|G5S39_05570!!!DNA!base-flipping!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.17%
+Cluster 519796
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	Putative membrane protein	CAL13998
+fig|150053.31.peg.1943|G5S39_09170!!!Type!IV!pilus!biogenesis!protein!PilN!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	93.96%
+Cluster 301372
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S2	ABE05693
+fig|150053.31.peg.2918|G5S39_13720!!!SSU!ribosomal!protein!S2p!(SAe)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	92.53%
+Cluster 365243
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF03600
+fig|150053.31.peg.980|G5S39_04705!!!Putative!manganese!efflux!pump!MntP!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.14%
+Cluster 122210
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	NAD(P) transhydrogenase, beta subunit	BAJ01669
+fig|150053.31.peg.1011|G5S39_04840!!!NAD(P)!transhydrogenase!subunit!beta!(EC!1.6.1.2)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.43%
+Cluster 568122
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	DNA gyrase inhibitory protein	CAL12144
+fig|150053.31.peg.1004|G5S39_04810!!!DNA!gyrase!inhibitory!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.36%
+Cluster 699554
+10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58589
+fig|150053.31.peg.3219|G5S39_15080!!!ParD!protein!(antitoxin!to!ParE)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.50%
+Cluster 3629
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	ATP-dependent helicase	CAV18959
+fig|150053.31.peg.1023|G5S39_04900!!!ATP-dependent!helicase!HrpA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.65%
+Cluster 531375
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	fimbrial protein	CAL12697
+fig|150053.31.peg.2112|G5S39_09970!!!Fimbrial!protein!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.43%
+Cluster 401804
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	inositol monophosphatase family protein	BAE73625
+fig|150053.31.peg.119|G5S39_00610!!!3'(2'),5'-bisphosphate!nucleotidase!(EC!3.1.3.7)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.58%
+Cluster 751036
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS63867
+fig|150053.31.peg.2277!!!FIG01220791:!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.81%
+Cluster 281718
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	phospholipase A	AAS62708
+fig|150053.31.peg.3888!!!Phospholipase!A!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	72.92%
+fig|150053.31.peg.3889|G5S39_18120!!!Phospholipase!A!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	71.21%
+Cluster 634638
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAS62176
+fig|150053.31.peg.3599|G5S39_16845!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	93.33%
+Cluster 684128
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881
+fig|150053.31.peg.1488|G5S39_07045!!!Integration!host!factor!alpha!subunit!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.94%
+Cluster 4446
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative virulence sensor protein	CAL12696
+fig|150053.31.peg.2111|G5S39_09965!!!Putative!Histidine!protein!kinase!sensor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.22%
+Cluster 142789
+28539	CP001135	Edwardsiella tarda EIB202, complete genome.	Yes	Gammaproteobacteria	flagellar biosynthetic protein	ACY84062
+fig|150053.31.peg.674|G5S39_03310!!!Flagellar!biosynthesis!protein!FlhB!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	72.06%
+Cluster 161304
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL12857
+fig|150053.31.peg.1790|G5S39_08445!!!Putative!exported!protein!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.48%
+Cluster 602041
+20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	No	Gammaproteobacteria	CP4-6 prophage; partial transposase of insertion element IS911A	ACB01424
+fig|150053.31.peg.3298|G5S39_15440!!!Transposase!InsO!for!insertion!sequence!element!IS911!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.91%
+Cluster 641819
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13189
+fig|150053.31.peg.2866|G5S39_13485!!!Suppression!of!copper!sensitivity:!putative!copper!binding!protein!ScsA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.68%
+Cluster 274631
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE75288
+fig|150053.31.peg.4359|G5S39_20410!!!Protein!involved!in!stability!of!MscS!mechanosensitive!channel!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.28%
+Cluster 276319
+27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Yes	Gammaproteobacteria	integrase	ACI35897
+fig|150053.31.peg.1101|G5S39_05255!!!Phage!integrase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.30%
+Cluster 448149
+1430	BA000038	Vibrio vulnificus YJ016 DNA, chromosome II, complete sequence.	Yes	Gammaproteobacteria	arginine ABC transporter, permease protein	BAC97309
+fig|150053.31.peg.2535|G5S39_11960!!!Arginine!ABC!transporter,!permease!protein!ArtM!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.81%
+Cluster 684085
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11829
+fig|150053.31.peg.968|G5S39_04645!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 331769
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative AraC-family transcriptional regulatory protein	CAL12570
+fig|150053.31.peg.718|G5S39_03510!!!Transcriptional!regulator,!AraC!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.96%
+Cluster 632172
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11143
+fig|150053.31.peg.1898|G5S39_08960!!!PTS-regulatory!domain-containing!protein!YhfY!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.41%
+Cluster 625649
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAQ90916
+fig|150053.31.peg.2411|G5S39_11385!!!Uncharacterized!protein!YhhL!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.44%
+Cluster 630154
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative monothiol glutaredoxin ydhD	CBJ81617
+fig|150053.31.peg.1090|G5S39_05190!!!Monothiol!glutaredoxin!GrxD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.21%
+Cluster 240427
+408	AE014073	Shigella flexneri 2a str. 2457T, complete genome.	Yes	Gammaproteobacteria	IS911 orfA	AAP15762
+fig|150053.31.peg.3214!!!Transposase!InsO!for!insertion!sequence!element!IS911!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	79.04%
+Cluster 355968
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative aromatic ring-opening dioxygenase	CBJ47665
+fig|150053.31.peg.1612|G5S39_07625!!!4,5-DOPA!dioxygenase!extradiol!(EC!1.13.11.29),!but!not!physiological!substrate!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.23%
+Cluster 260158
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	malate dehydrogenase	ABE09111
+fig|150053.31.peg.133|G5S39_00680!!!Malate!dehydrogenase!(EC!1.1.1.37)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	89.07%
+Cluster 706161
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL10880
+fig|150053.31.peg.2684|G5S39_12620!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.70%
+Cluster 297970
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	putative iron transport protein, ATP-binding component	ACP26838
+fig|150053.31.peg.1468|G5S39_06960!!!Manganese!ABC!transporter,!ATP-binding!protein!SitB!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.54%
+Cluster 171850
+178	BX571965	Burkholderia pseudomallei strain K96243, chromosome 1, complete sequence.	Yes	Betaproteobacteria	putative exported Metallo-beta-lactamase-family protein	CAH36716
+fig|150053.31.peg.3541|G5S39_16595!!!Metallo-beta-lactamase!superfamily!protein!PA0057!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.34%
+Cluster 541713
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15089
+fig|150053.31.peg.2364|G5S39_11160!!!L-alanine!exporter!AlaE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.81%
+Cluster 778788
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX88328
+fig|150053.31.peg.963!!!FIG01221226:!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.78%
+Cluster 779337
+27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACI38793
+fig|150053.31.peg.4245!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.68%
+Cluster 559844
+34	AL590842	Yersinia pestis CO92 complete genome.	Yes	Gammaproteobacteria	transposase (partial)	CAL22626
+fig|150053.31.peg.4175!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.35%
+Cluster 676503
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Putative sugar fermentation stimulation protein B	CAO95456
+fig|150053.31.peg.3417|G5S39_16030!!!Phage!DNA!binding!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.49%
+Cluster 35586
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	methionyl-tRNA synthetase	ACP05309
+fig|150053.31.peg.1830|G5S39_08640!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.48%
+Cluster 486617
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	MFS family xanthosine permease	ABG13049
+fig|150053.31.peg.1720|G5S39_08115!!!Xanthosine!permease!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.78%
+Cluster 176976
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative peptidase	CAL12528
+fig|150053.31.peg.3158|G5S39_14810!!!Similar!to!a!proline!peptidase!protein!in!Bacillus!subtilis!O31689!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.27%
+Cluster 103278
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15641
+fig|150053.31.peg.136|G5S39_00695!!!Octaprenyl!diphosphate!synthase!(EC!2.5.1.90)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.80%
+Cluster 213138
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL13665
+fig|150053.31.peg.1643|G5S39_07775!!!Type!II/IV!secretion!system!ATPase!TadZ/CpaE,!associated!with!Flp!pilus!assembly!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.24%
+Cluster 627617
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11932
+fig|150053.31.peg.1421|G5S39_06740!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.67%
+Cluster 476485
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	ferritin	AAS61843
+fig|150053.31.peg.3582|G5S39_16775!!!Bacterial!non-heme!ferritin!(EC!1.16.3.2)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	93.49%
+Cluster 757748
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	ribosomal protein L36	ABQ76678
+fig|150053.31.peg.2022|G5S39_09550!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	89.47%
+Cluster 365588
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	UgpQ	ADD78878
+fig|150053.31.peg.2386|G5S39_11260!!!Glycerophosphoryl!diester!phosphodiesterase!(EC!3.1.4.46)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	71.95%
+Cluster 93607
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative proton dependent peptide transporter	AAS62358
+fig|150053.31.peg.1065|G5S39_05080!!!Di-tripeptide/H+!symporter!DtpA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	91.52%
+Cluster 646604
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Putative dihydroneopterin aldolase	CAO95466
+fig|150053.31.peg.1602|G5S39_07575!!!Dihydroneopterin!aldolase!(EC!4.1.2.25)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	78.15%
+Cluster 452643
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11351
+fig|150053.31.peg.3369|G5S39_15780!!!Transcriptional!regulator,!PadR!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.15%
+Cluster 130223
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative outer membrane secretin family protein	CAH22989
+fig|150053.31.peg.1946|G5S39_09185!!!Type!IV!pilus!biogenesis!protein!PilQ!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.84%
+Cluster 643646
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	conserved hypothetical protein	ACZ07823
+fig|150053.31.peg.1307|G5S39_06245!!!Uncharacterized!protein!STM4441!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.46%
+Cluster 216470
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	porphobilinogen deaminase	AAS63365
+fig|150053.31.peg.4117|G5S39_19215!!!Porphobilinogen!deaminase!(EC!2.5.1.61)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	91.69%
+Cluster 714392
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACA68109
+fig|150053.31.peg.1473|G5S39_06980!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	91.57%
+Cluster 598874
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	acid shock protein	CBJ46480
+fig|150053.31.peg.3056|G5S39_14350!!!Acid!shock!protein!2!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.23%
+Cluster 86170
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	Predicted nuclease (RecB family)	ABM79229
+fig|150053.31.peg.3482!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.77%
+Cluster 460512
+16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Yes	Gammaproteobacteria	type III secretion apparatus protein, HrpE/YscL family	ABS46790
+fig|150053.31.peg.25|G5S39_00140!!!Type!III!secretion!protein!SsaK!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.87%
+Cluster 612524
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	putative 6-pyruvoyl tetrahydrobiopterin synthase	CAV18990
+fig|150053.31.peg.2708|G5S39_12730!!!6-carboxy-5,6,7,8-tetrahydropterin!synthase!(EC!4.1.2.50)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.21%
+Cluster 507679
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS62945
+fig|150053.31.peg.1701|G5S39_08030!!!T6SS!component!Hcp!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.03%
+Cluster 763986
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	conserved domain protein	ACF62277
+fig|150053.31.peg.1083|G5S39_05160!!!Uncharacterized!protein!YdhL!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	72.00%
+Cluster 596605
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11324
+fig|150053.31.peg.3902|G5S39_18175!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.50%
+Cluster 191182
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL12022
+fig|150053.31.peg.747|G5S39_03630!!!N-acetylneuraminate!epimerase!(EC!5.1.3.24)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.19%
+Cluster 487866
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative luxR-family regulatory protein	CAL12738
+fig|150053.31.peg.1719|G5S39_08110!!!Transcriptional!regulator,!LuxA!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.50%
+Cluster 661808
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	CAH20961
+fig|150053.31.peg.735|G5S39_03580!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.47%
+Cluster 58566
+13954	CP000125	Burkholderia pseudomallei 1710b chromosome II, complete sequence.	Yes	Betaproteobacteria	ubiquinol oxidase family protein	ABA51670
+fig|150053.31.peg.2446|G5S39_11555!!!Cytochrome!d!ubiquinol!oxidase!subunit!I!(EC!1.10.3.-)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.24%
+Cluster 219648
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	hypothetical protein	CAL11035
+fig|150053.31.peg.3058|G5S39_14355!!!Probable!lipoprotein!signal!peptide!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	94.54%
+Cluster 521187
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	transposase B	ACR68137
+fig|150053.31.peg.4173!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	81.97%
+Cluster 8888
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative autotransporter protein	CAL14075
+fig|150053.31.peg.804|G5S39_03900!!!Putative!pertactin!family!virulence!factor/autotransporter!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.15%
+Cluster 675603
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	IS1669 hypothetical protein	CAL10436
+fig|150053.31.peg.4389|G5S39_20575!!!ISPsy11,!transposase!OrfA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.09%
+Cluster 520313
+190	AM286416	Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081 complete genome.	Yes	Gammaproteobacteria	virulence plasmid protein	CAL10028
+fig|150053.31.peg.4076|G5S39_19045!!!Type!III!secretion!negative!modulator!of!injection!(YopK,YopQ,controls!size!of!translocator!pore)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.45%
+Cluster 710211
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11927
+fig|150053.31.peg.1414|G5S39_06715!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.65%
+Cluster 350525
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL12819
+fig|150053.31.peg.1829|G5S39_08635!!!putative!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	92.75%
+Cluster 495869
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	transcription termination/antitermination factor NusG	AAZ25723
+fig|150053.31.peg.3917|G5S39_18250!!!Transcription!antitermination!protein!NusG!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	71.82%
+Cluster 409779
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	probable pili assembly chaperone	CAL12698
+fig|150053.31.peg.2113|G5S39_09975!!!Chaperone!protein!fimC!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.59%
+Cluster 732037
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS61190
+fig|150053.31.peg.275|G5S39_01355!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.87%
+Cluster 396417
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15009
+fig|150053.31.peg.3884|G5S39_18105!!!Heat!shock!protein!GrpE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.50%
+Cluster 370205
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	ribonuclease III	AAZ27454
+fig|150053.31.peg.1873|G5S39_08845!!!Ribonuclease!III!(EC!3.1.26.3)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.95%
+Cluster 573536
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative yhbH sigma 54 modulator	AAS60919
+fig|150053.31.peg.4323|G5S39_20235!!!Ribosome-associated!inhibitor!A!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.00%
+Cluster 359075
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	undecaprenol kinase	ACX89304
+fig|150053.31.peg.1603|G5S39_07580!!!Undecaprenyl-diphosphatase!(EC!3.6.1.27)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.09%
+Cluster 387786
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	ubiquinone biosynthesis methyltransferase	CAK17706
+fig|150053.31.peg.3728|G5S39_17415!!!2-methoxy-6-polyprenyl-1,4-benzoquinol!methylase!(EC!2.1.1.201)!@!Demethylmenaquinone!methyltransferase!(EC!2.1.1.163)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.52%
+Cluster 64182
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative surface-exposed protein	CAL13259
+fig|150053.31.peg.1533|G5S39_07260!!!Hemolysin!activation/secretion!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	92.63%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|150053.31.peg.2011|G5S39_09495!!!LSU!ribosomal!protein!L14p!(L23e)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.61%
+Cluster 181426
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	flagellin lysine-N-methylase	CAL12563
+fig|150053.31.peg.726|G5S39_03540!!!Lysine-N-methylase!(EC!2.1.1.-)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.25%
+Cluster 282478
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative dienelactone hydrolase	BAH61095
+fig|150053.31.peg.2382|G5S39_11235!!!Dienelactone!hydrolase!family!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.90%
+Cluster 767946
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Conserved uncharacterized protein	CAX57356
+fig|150053.31.peg.1232|G5S39_05870!!!Protein!KdpF!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.07%
+Cluster 693222
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS62695
+fig|150053.31.peg.1231|G5S39_05865!!!Uncharacterized!protein!YbfA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.94%
+Cluster 693227
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAI99984
+fig|150053.31.peg.48|G5S39_00245!!!YoeB!toxin!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.10%
+Cluster 70740
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11336
+fig|150053.31.peg.3353!!!Exoenzymes!regulatory!protein!AepA!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.74%
+fig|150053.31.peg.3893|G5S39_18135!!!Exoenzymes!regulatory!protein!AepA!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.63%
+Cluster 404057
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE74144
+fig|150053.31.peg.1224|G5S39_05830!!!GTP!cyclohydrolase!1!type!2!homolog!YbgI!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.85%
+Cluster 489656
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative cytochrome	AAS62792
+fig|150053.31.peg.3904|G5S39_18185!!!Cytochrome!b561!homolog!1!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	79.89%
+Cluster 359904
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative pilus chaperone, PapD family	AAS63333
+fig|150053.31.peg.3472|G5S39_16290!!!Putative!pilus!chaperone,!PapD!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.81%
+Cluster 148765
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	queuine/archaeosine tRNA-ribosyltransferase	BAC93510
+fig|150053.31.peg.4337|G5S39_20300!!!Queuine!tRNA-ribosyltransferase!(EC!2.4.2.29)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.16%
+Cluster 474524
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	NUDIX hydrolase	ACZ76834
+fig|150053.31.peg.3595|G5S39_16835!!!Uncharacterized!Nudix!hydrolase!NudL!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.56%
+Cluster 711939
+16426	CP000362	Roseobacter denitrificans OCh 114, complete genome.	No	Alphaproteobacteria	ribosomal protein L33-related protein	ABG31601
+fig|150053.31.peg.2185|G5S39_10330!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.45%
+Cluster 664137
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12059
+fig|150053.31.peg.4137|G5S39_19300!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.36%
+Cluster 661822
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Uncharacterized protein, 4-oxalocrotonate tautomerase homolog	AAS63517
+fig|150053.31.peg.798|G5S39_03875!!!2-hydroxymuconate!tautomerase-like!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.45%
+Cluster 483671
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative bacteriophage P2 protein	CAH21083
+fig|150053.31.peg.3849|G5S39_17945!!!Phage!tail!formation!protein!GpI!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	87.29%
+Cluster 780474
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACA69261
+fig|150053.31.peg.1243!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.14%
+Cluster 15843
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	probable exported Zinc protease	CAL10452
+fig|150053.31.peg.46|G5S39_00235!!!Probable!zinc!protease!pqqL!(EC!3.4.99.-)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.31%
+Cluster 13099
+28805	CP001196	Oligotropha carboxidovorans OM5 strain OM5, complete genome.	No	Alphaproteobacteria	excinuclease ABC subunit B	ACI94287
+fig|150053.31.peg.319|G5S39_01575!!!Excinuclease!ABC!subunit!B!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.15%
+Cluster 144835
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|150053.31.peg.2623|G5S39_12350!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.60%
+Cluster 208960
+40647	FN554766	Escherichia coli 042 complete genome.	Yes	Gammaproteobacteria	putative zinc-binding dehydrogenase	CBG34403
+fig|150053.31.peg.657|G5S39_03235!!!Putative!oxidoreductase!YncB!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	68.31%
+Cluster 580467
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	PEP-dependent phosphotransferase enzyme III	ABF03671
+fig|150053.31.peg.3707|G5S39_17315!!!PTS!system,!cellobiose-specific!IIA!component!(EC!2.7.1.205)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.40%
+fig|150053.31.peg.4286|G5S39_20055!!!PTS!system,!N,N'-diacetylchitobiose-specific!IIA!component!(EC!2.7.1.196)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	72.17%
+Cluster 226696
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	ribosomal large subunit pseudouridine synthase C	AAZ26427
+fig|150053.31.peg.868|G5S39_04195!!!LSU!rRNA!pseudouridine(955/2504/2580)!synthase!(EC!5.4.99.24)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.50%
+Cluster 267837
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	Acetamidase/Formamidase	ACS84615
+fig|150053.31.peg.3400|G5S39_15940!!!Acetamidase/Formamidase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	89.97%
+Cluster 226216
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	tetrathionate reductase subunit C	CAL11691
+fig|150053.31.peg.3664|G5S39_17130!!!Tetrathionate!reductase!subunit!C!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.24%
+Cluster 689689
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	IS1400 transposase A	CAL11218
+fig|150053.31.peg.3863!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	76.60%
+Cluster 549573
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	Methylaspartate mutase S chain (Glutamate mutase sigma subunit)	CAQ89874
+fig|150053.31.peg.823|G5S39_03985!!!Methylaspartate!mutase,!S!subunit!(EC!5.4.99.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	76.35%
+Cluster 408003
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12456
+fig|150053.31.peg.4104|G5S39_19165!!!UPF0056!inner!membrane!protein!YchE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.05%
+Cluster 744604
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	pilin protein, major subunit	CAL13661
+fig|150053.31.peg.1648|G5S39_07800!!!FIG01221445:!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	89.06%
+Cluster 113538
+288	AE009952	Yersinia pestis KIM, complete genome.	Yes	Gammaproteobacteria	maltose high-affinity receptor	AAM83627
+fig|150053.31.peg.3454|G5S39_16205!!!Maltoporin!(maltose/maltodextrin!high-affinity!receptor,!phage!lambda!receptor!protein)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	89.35%
+Cluster 607761
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL13380
+fig|150053.31.peg.3560|G5S39_16680!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.28%
+Cluster 604732
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	Transposase (orfA) of insertion sequence ISVisp4 ; IS3 family subgroup IS3	CAV19489
+fig|150053.31.peg.3676!!!ISPsy11,!transposase!OrfA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.67%
+Cluster 249257
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	putative aldo/keto reductase; oxidoreductase protein	CAD13745
+fig|150053.31.peg.1383|G5S39_06575!!!Oxidoreductase,!aldo/keto!reductase!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.75%
+Cluster 191545
+17643	CP000753	Shewanella baltica OS185, complete genome.	No	Gammaproteobacteria	transposase IS3/IS911 family protein	ABS08832
+fig|150053.31.peg.3300|G5S39_15445!!!Transposase!InsN!for!insertion!sequence!element!IS911!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.64%
+Cluster 713960
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893
+fig|150053.31.peg.1168|G5S39_05560!!!Haemolysin!expression!modulating!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.09%
+Cluster 668572
+335	AE014299	Shewanella oneidensis MR-1, complete genome.	Yes	Gammaproteobacteria	thioredoxin 1	AAN53489
+fig|150053.31.peg.3462|G5S39_16240!!!Thioredoxin!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.00%
+Cluster 569418
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAS62998
+fig|150053.31.peg.2909|G5S39_13685!!!Uncharacterized!protein!YqcC!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	76.36%
+Cluster 720314
+13649	AM039952	Xanthomonas campestris pv. vesicatoria complete genome.	No	Gammaproteobacteria	acyl carrier protein	CAJ22778
+fig|150053.31.peg.876|G5S39_04235!!!Acyl!carrier!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.77%
+Cluster 5653
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX86049
+fig|150053.31.peg.2087|G5S39_09850!!!Putative!toxin!subunit!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.67%
+Cluster 261508
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative lipoprotein	CAL11135
+fig|150053.31.peg.1890|G5S39_08920!!!Uncharacterized!protein!YfhG!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.07%
+Cluster 139013
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12734
+fig|150053.31.peg.1715|G5S39_08090!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.97%
+Cluster 551642
+190	AM286416	Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081 complete genome.	Yes	Gammaproteobacteria	putative type III secretion protein	CAL10065
+fig|150053.31.peg.3205|G5S39_15020!!!Type!III!secretion!effector!protein!(YopR,!encoded!by!YscH)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.18%
+Cluster 238578
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	histidine-binding periplasmic protein of high-affinity histidine transport system	AAS62595
+fig|150053.31.peg.3742|G5S39_17485!!!Histidine!ABC!transporter,!substrate-binding!protein!HisJ!(TC!3.A.1.3.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	88.46%
+Cluster 449518
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative regulatory protein	CAL11540
+fig|150053.31.peg.236|G5S39_01180!!!Protein!psaE!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.10%
+Cluster 503407
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative regulator	ABB64402
+fig|150053.31.peg.3445|G5S39_16160!!!Zinc!uptake!regulation!protein!Zur!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	68.82%
+Cluster 605643
+10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58579
+fig|150053.31.peg.3168|G5S39_14855!!!Orf60!(f139)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 605644
+12950	BX936399	Yersinia pseudotuberculosis IP32953 pYV plasmid, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	CAF25387
+fig|150053.31.peg.3169!!!Orf60!(f139)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.02%
+Cluster 687158
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG13908
+fig|150053.31.peg.3656|G5S39_17090!!!Biofilm!regulator!BssS!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	86.90%
+Cluster 270358
+259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Yes	Gammaproteobacteria	putative superoxide dismutase	AAG57201
+fig|150053.31.peg.2712|G5S39_12755!!!Superoxide!dismutase![Cu-Zn]!precursor!(EC!1.15.1.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.92%
+Cluster 720885
+16645	CP000311	Yersinia pestis Antiqua plasmid pCD, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABG16287
+fig|150053.31.peg.4075!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.54%
+Cluster 680036
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAS60624
+fig|150053.31.peg.579|G5S39_02865!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.13%
+Cluster 258694
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	endonuclease III	ABQ77294
+fig|150053.31.peg.2609|G5S39_12290!!!Endonuclease!III!(EC!4.2.99.18)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.61%
+Cluster 343693
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	protein of unknown function RIO1	ACB35257
+fig|150053.31.peg.955|G5S39_04595!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.83%
+Cluster 85566
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Thiamine ABC transport system, inner membrane component	CAY73135
+fig|150053.31.peg.2315|G5S39_10935!!!Thiamin!ABC!transporter,!transmembrane!component!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.39%
+Cluster 520014
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	conserved uncharacterized protein, putative cytoplasmic protein	CAX54987
+fig|150053.31.peg.2882|G5S39_13560!!!Translation!elongation!factor!P!Lys34!hydroxylase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.00%
+Cluster 529937
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	probable FKBX-type 16KD peptidyl-prolyl cis-trans isomerase	AAS63851
+fig|150053.31.peg.2293|G5S39_10825!!!FKBP-type!peptidyl-prolyl!cis-trans!isomerase!SlpA!(EC!5.2.1.8)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	81.93%
+Cluster 27786
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved exported protein	CAL12137
+fig|150053.31.peg.999|G5S39_04780!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.60%
+Cluster 276471
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAB34854
+fig|150053.31.peg.3674|G5S39_17165!!!Multidrug!resistance!protein!MdtG!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.16%
+Cluster 581919
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Acid-induced glycyl radical enzyme	AAS62707
+fig|150053.31.peg.3886|G5S39_18115!!!Autonomous!glycyl!radical!cofactor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	94.49%
+Cluster 603323
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative tight adherance operon protein	CAL13662
+fig|150053.31.peg.1647|G5S39_07795!!!Type!IV!prepilin!peptidase!TadV/CpaA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.88%
+Cluster 674841
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative cytochrome	CAL12533
+fig|150053.31.peg.3153|G5S39_14785!!!Cytochrome!C553!(soluble!cytochrome!f)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.12%
+Cluster 354300
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative fimbrial chaperone	AAS63564
+fig|150053.31.peg.507|G5S39_02515!!!Uncharacterized!fimbrial!chaperone!YbgP!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.35%
+Cluster 265610
+344	AM236081	Rhizobium leguminosarum bv. viciae plasmid pRL7 complete genome, strain 3841.	No	Alphaproteobacteria	putative replication protein B	CAK11620
+fig|150053.31.peg.4188!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.22%
+Cluster 349325
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL11112
+fig|150053.31.peg.1870|G5S39_08830!!!putative!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.04%
+Cluster 487723
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	fimbrial protein	CAL12725
+fig|150053.31.peg.1704|G5S39_08045!!!Fimbrial!protein!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.00%
+Cluster 132363
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative tight adherance operon protein	CAL13664
+fig|150053.31.peg.1645|G5S39_07785!!!Type!II/IV!secretion!system!secretin!RcpA/CpaC,!associated!with!Flp!pilus!assembly!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.27%
+Cluster 525658
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	YfbU domain protein	ACF63247
+fig|150053.31.peg.2960|G5S39_13920!!!UPF0304!protein!yfbU!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	81.71%
+Cluster 759861
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACA68763
+fig|150053.31.peg.960!!!no!significant!database!match!found!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	76.92%
+Cluster 711068
+12751	CR522871	Desulfotalea psychrophila LSv54, large plasmid.	No	Deltaproteobacteria	probable transposase (partial length)	CAG37917
+fig|150053.31.peg.923!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.85%
+Cluster 411870
+20635	CP001280	Methylocella silvestris BL2, complete genome.	No	Alphaproteobacteria	ribosomal protein L5	ACK49540
+fig|150053.31.peg.2013|G5S39_09505!!!LSU!ribosomal!protein!L5p!(L11e)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.45%
+Cluster 195971
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL10587
+fig|150053.31.peg.181|G5S39_00925!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.97%
+Cluster 416865
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12293
+fig|150053.31.peg.2809|G5S39_13205!!!Putative!anti-FlhC(2)FlhD(4)!factor!YdiV!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.92%
+Cluster 717511
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	hemin uptake protein	CAL10462
+fig|150053.31.peg.58|G5S39_00295!!!Hemin!uptake!protein!HemP/HmuP!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.30%
+Cluster 735197
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS61631
+fig|150053.31.peg.1792|G5S39_08455!!!No!significant!database!hits!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.00%
+Cluster 736249
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	Transposase insN for insertion sequence element IS	ACN46901
+fig|150053.31.peg.3299!!!Transposase!InsN!for!insertion!sequence!element!IS911!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.00%
+Cluster 495803
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	hydrogenase-4 component H	CAL12838
+fig|150053.31.peg.1809|G5S39_08540!!!Hydrogenase-4!component!H!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	94.36%
+Cluster 621056
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Putative acylphosphatase	AAN79574
+fig|150053.31.peg.3315|G5S39_15525!!!Acylphosphate!phosphohydrolase!(EC!3.6.1.7)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.13%
+Cluster 708969
+16721	CP000733	Coxiella burnetii Dugway 5J108-111, complete genome.	Yes	Gammaproteobacteria	SSU ribosomal protein S21P	ABS77864
+fig|150053.31.peg.1599|G5S39_07560!!!SSU!ribosomal!protein!S21p!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.56%
+Cluster 501180
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Pal	ADD76355
+fig|150053.31.peg.391|G5S39_01955!!!Tol-Pal!system!peptidoglycan-associated!lipoprotein!PAL!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.33%
+Cluster 201275
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	7-keto-8-aminopelargonic acid synthetase	CBJ80165
+fig|150053.31.peg.324|G5S39_01595!!!8-amino-7-oxononanoate!synthase!(EC!2.3.1.47)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.49%
+Cluster 372750
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative regulatory protein	CAL11343
+fig|150053.31.peg.3361|G5S39_15740!!!Transcriptional!regulator,!MerR!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.33%
+Cluster 84139
+16182	CP000573	Burkholderia pseudomallei 1106a chromosome II, complete sequence.	Yes	Betaproteobacteria	alcohol dehydrogenase, iron-containing	ABN94379
+fig|150053.31.peg.1630|G5S39_07710!!!NADPH-dependent!broad!range!aldehyde!dehydrogenase!YqhD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.86%
+Cluster 538745
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL10370
+fig|150053.31.peg.2395|G5S39_11305!!!Alpha-related!fimbriae!minor!subunit!2!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.53%
+Cluster 97020
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative sugar transporter	AAS62832
+fig|150053.31.peg.3259|G5S39_15280!!!Sialic!acid!transporter!(permease)!NanT!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	95.02%
+Cluster 249032
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	probable formate transporter (formate channel 1)	ABF03127
+fig|150053.31.peg.2272|G5S39_10725!!!Formate!efflux!transporter!FocA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.81%
+Cluster 206530
+312	AE013218	Buchnera aphidicola str. Sg (Schizaphis graminum), complete genome.	No	Gammaproteobacteria	flagellar biosynthetic protein FliP	AAM67645
+fig|150053.31.peg.695|G5S39_03410!!!Flagellar!biosynthesis!protein!FliP!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.60%
+Cluster 346724
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12716
+fig|150053.31.peg.2159|G5S39_10205!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.21%
+Cluster 200994
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	biotin synthase	CAL17668
+fig|150053.31.peg.325|G5S39_01600!!!Biotin!synthase!(EC!2.8.1.6)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.29%
+Cluster 660212
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	hypothetical protein	CAL11040
+fig|150053.31.peg.3063|G5S39_14380!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 59953
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACF63824
+fig|150053.31.peg.2270|G5S39_10715!!!Ribosomal!protein!S12p!methylthiotransferase!accessory!factor!YcaO!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	81.29%
+Cluster 363520
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	putative carbonic anhydrase	CAX54615
+fig|150053.31.peg.3941|G5S39_18380!!!Carbonic!anhydrase,!beta!class!(EC!4.2.1.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.55%
+Cluster 706648
+10695	CP000151	Burkholderia sp. 383 chromosome 1, complete sequence.	Yes	Betaproteobacteria	SpoVT/AbrB-like protein	ABB08388
+fig|150053.31.peg.490|G5S39_02430!!!VapB!protein!(antitoxin!to!VapC)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.67%
+Cluster 60251
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	periplasmic glucan biosynthesis protein MdoG	AAY95822
+fig|150053.31.peg.4294|G5S39_20095!!!Glucans!biosynthesis!protein!G!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.60%
+Cluster 734444
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	hypothetical protein	CAL12794
+fig|150053.31.peg.1779!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.59%
+Cluster 783347
+16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Yes	Gammaproteobacteria	thr operon leader peptide	ABS48787
+fig|150053.31.peg.3036|G5S39_14250!!!thr!operon!leader!peptide!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 742989
+349	XXX	Vibrio vulnificus CMCP6	Yes	Gammaproteobacteria	XXX	
+fig|150053.31.peg.2229|G5S39_10520!!!Ribosome!modulation!factor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.27%
+Cluster 345916
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	probable hydroxyacylglutathione hydrolase	AAS62954
+fig|150053.31.peg.3041|G5S39_14275!!!Hydroxyacylglutathione!hydrolase!(EC!3.1.2.6)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.66%
+Cluster 596682
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	protein of unknown function DUF6, transmembrane	ABP67311
+fig|150053.31.peg.1238|G5S39_05900!!!putative!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.01%
+Cluster 548900
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	NADH dehydrogenase I chain A	AAS62571
+fig|150053.31.peg.2970|G5S39_13955!!!NADH!ubiquinone!oxidoreductase!chain!A!(EC!1.6.5.3)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.28%
+Cluster 638719
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative phage protein	AAS62317
+fig|150053.31.peg.1022|G5S39_04895!!!Toxin!HigB!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.98%
+Cluster 714486
+18267	AP009247	Candidatus Vesicomyosocius okutanii HA DNA, complete genome.	No	Gammaproteobacteria	50S ribosomal protein L28	BAF61994
+fig|150053.31.peg.2184|G5S39_10325!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	71.79%
+Cluster 346002
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	cyclase	AAW75515
+fig|150053.31.peg.1852|G5S39_08745!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.85%
+Cluster 76294
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative OMPA family outer membrane porin	CAH21916
+fig|150053.31.peg.1717|G5S39_08100!!!Outer!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.37%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|150053.31.peg.4150|G5S39_19375!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.43%
+Cluster 169616
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL10582
+fig|150053.31.peg.176|G5S39_00900!!!probable!exported!protein!YPO3473!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.27%
+Cluster 143705
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|150053.31.peg.3777|G5S39_17640!!!Murein!DD-endopeptidase!MepM!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	76.26%
+Cluster 515272
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL11939
+fig|150053.31.peg.1429|G5S39_06775!!!Sigma-fimbriae!uncharacterized!paralogous!subunit!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	94.59%
+Cluster 137645
+31137	AP011149	Acetobacter pasteurianus IFO 3283-26 DNA, complete genome.	No	Alphaproteobacteria	urea short-chain amide or branched-chain amino acid transporter periplasmic substrate-binding protein	BAI12640
+fig|150053.31.peg.290|G5S39_01430!!!Urea!ABC!transporter,!substrate-binding!protein!UrtA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.69%
+Cluster 127142
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	major facilitator family transporter	AAY95865
+fig|150053.31.peg.2567|G5S39_12115!!!Uncharacterized!MFS-type!transporter!YnfM!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.63%
+Cluster 43340
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ACC70650
+fig|150053.31.peg.2326|G5S39_10985!!!Dihydrolipoamide!dehydrogenase!of!pyruvate!dehydrogenase!complex!(EC!1.8.1.4)!@!Dihydrolipoamide!dehydrogenase!(EC!1.8.1.4)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.03%
+Cluster 549031
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	hydrogenase expression/formation protein	ACT06276
+fig|150053.31.peg.613|G5S39_03025!!!Hydrogenase!maturation!protease!HybD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.33%
+Cluster 561055
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS63074
+fig|150053.31.peg.1393|G5S39_06620!!!Periplasmic!protein!YqjC!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.31%
+Cluster 325127
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	sugar fermentation stimulation protein	ACA69734
+fig|150053.31.peg.2651|G5S39_12480!!!Sugar!fermentation!stimulation!protein!SfsA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.00%
+Cluster 303133
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	Putative LysR family transcriptional regulator	CAL14055
+fig|150053.31.peg.827|G5S39_04000!!!Transcriptional!regulator,!LysR!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 622480
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Predicted redox protein, regulator of disulfide bond formation	AAS63395
+fig|150053.31.peg.2416|G5S39_11410!!!tRNA!5-methylaminomethyl-2-thiouridine!synthesis!sulfur!carrier!protein!TusA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	91.67%
+Cluster 702345
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YjbJ	ADD75425
+fig|150053.31.peg.3446|G5S39_16165!!!UPF0337!protein!YjbJ!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.61%
+Cluster 193465
+18809	CP000943	Methylobacterium sp. 4-46, complete genome.	No	Alphaproteobacteria	Chorismate synthase	ACA14961
+fig|150053.31.peg.2885|G5S39_13575!!!Chorismate!synthase!(EC!4.2.3.5)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.99%
+Cluster 741682
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL10863
+fig|150053.31.peg.2703|G5S39_12705!!!Uncharacterized!protein!YP0318!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.48%
+Cluster 404190
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative fimbrial chaperone	AAS60730
+fig|150053.31.peg.2101|G5S39_09910!!!Beta-fimbriae!chaperone!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.28%
+Cluster 682523
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative heme exporter protein D	AAS62632
+fig|150053.31.peg.2901|G5S39_13645!!!Cytochrome!c-type!biogenesis!protein!CcmD,!interacts!with!CcmCE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.39%
+Cluster 133618
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	phospholipase D/Transphosphatidylase	ACX89230
+fig|150053.31.peg.4281|G5S39_20030!!!CDP-diacylglycerol--serine!O-phosphatidyltransferase!(EC!2.7.8.8)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.06%
+Cluster 702342
+31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	No	Gammaproteobacteria	30S ribosomal protein S17	ACX95195
+fig|150053.31.peg.2010|G5S39_09490!!!SSU!ribosomal!protein!S17p!(S11e)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.86%
+Cluster 667851
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL11526
+fig|150053.31.peg.251|G5S39_01250!!!Putative!membrane!protein!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.07%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|150053.31.peg.2515|G5S39_11860!!!Translation!initiation!factor!1!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.67%
+Cluster 343653
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	ribosomal protein L1	ACG65011
+fig|150053.31.peg.3915|G5S39_18240!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.77%
+Cluster 574549
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	peptidyl-tRNA hydrolase domain protein	AAY90903
+fig|150053.31.peg.2942|G5S39_13840!!!Peptidyl-tRNA!hydrolase!ArfB!(EC!3.1.1.29)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.22%
+Cluster 61296
+13943	CP000546	Burkholderia mallei NCTC 10229 chromosome I, complete sequence.	Yes	Betaproteobacteria	ISBma2, transposase	ABN01188
+fig|150053.31.peg.1669!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.67%
+fig|150053.31.peg.2504|G5S39_11810!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.15%
+fig|150053.31.peg.4386!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.11%
+Cluster 459846
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative exported protein	CAH19474
+fig|150053.31.peg.2394|G5S39_11300!!!Alpha-related!fimbriae!chaperone!2!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.86%
+Cluster 587242
+29065	CP001085	Candidatus Riesia pediculicola USDA, complete genome.	No	Gammaproteobacteria	ribosomal protein S11	ADD79935
+fig|150053.31.peg.2024|G5S39_09560!!!SSU!ribosomal!protein!S11p!(S14e)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	78.29%
+Cluster 661199
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78094
+fig|150053.31.peg.1191|G5S39_05670!!!Cell!division!protein!BolA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.55%
+Cluster 271138
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAG75411
+fig|150053.31.peg.3760|G5S39_17560!!!tRNA!ho5U(34)!carboxymethyltransferase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	82.35%
+Cluster 514376
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL11938
+fig|150053.31.peg.1428|G5S39_06770!!!Sigma-fimbriae!uncharacterized!subunit!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.30%
+Cluster 768139
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACX88532
+fig|150053.31.peg.245!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.36%
+Cluster 678990
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15038
+fig|150053.31.peg.3282|G5S39_15375!!!Stress!response!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.00%
+Cluster 85469
+33555	CP001485	Vibrio cholerae MJ-1236 chromosome 1, complete sequence.	Yes	Gammaproteobacteria	RTX toxin transporter	ACQ61058
+fig|150053.31.peg.2593|G5S39_12235!!!Bacteriocin/lantibiotic!efflux!ABC!transporter,!permease/ATP-binding!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.85%
+Cluster 17367
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12717
+fig|150053.31.peg.1696!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.85%
+fig|150053.31.peg.2161!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.40%
+Cluster 65054
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG13574
+fig|150053.31.peg.2594!!!Bacteriocin/lantibiotic!efflux!ABC!transporter,!permease/ATP-binding!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.13%
+Cluster 759065
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL11824
+fig|150053.31.peg.961|G5S39_04615!!!putative!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.15%
+Cluster 559542
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12737
+fig|150053.31.peg.1718|G5S39_08105!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	100.00%
+Cluster 158983
+13018	CP000109	Thiomicrospira crunogena XCL-2, complete genome.	No	Gammaproteobacteria	Glucose-1-phosphate adenylyltransferase	ABB41104
+fig|150053.31.peg.4266!!!Glucose-1-phosphate!adenylyltransferase!(EC!2.7.7.27)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.07%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|150053.31.peg.3916|G5S39_18245!!!LSU!ribosomal!protein!L11p!(L12e)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.08%
+Cluster 111457
+27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Yes	Gammaproteobacteria	amino acid-polyamine-organocation (APC) permease family protein	ACI39648
+fig|150053.31.peg.1609|G5S39_07610!!!L-methionine!and!branched-chain!amino!acid!export!protein!YjeH!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	69.42%
+Cluster 605629
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS63399
+fig|150053.31.peg.2412|G5S39_11390!!!Uncharacterized!protein!YhhM!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	79.55%
+Cluster 57942
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative accessory processing protein	CAL13257
+fig|150053.31.peg.1535|G5S39_07270!!!Putative!accessory!processing!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.40%
+Cluster 48679
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	adenylate/guanylate cyclase with TPR repeats	ACB26664
+fig|150053.31.peg.4239!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.64%
+Cluster 453585
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE05950
+fig|150053.31.peg.1201|G5S39_05720!!!UPF0234!protein!Yitk!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	72.39%
+Cluster 527178
+29177	CP001339	Thioalkalivibrio sp. HL-EbGR7, complete genome.	No	Gammaproteobacteria	peptide deformylase	ACL71294
+fig|150053.31.peg.4181|G5S39_19525!!!Peptide!deformylase!(EC!3.5.1.88)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.71%
+Cluster 559225
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL13763
+fig|150053.31.peg.1363|G5S39_06485!!!Putative!exported!protein!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.76%
+Cluster 698851
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative acid shock protein	CAL12159
+fig|150053.31.peg.1019|G5S39_04880!!!Acid!shock!protein!1!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	94.51%
+Cluster 513510
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX65938
+fig|150053.31.peg.4331|G5S39_20275!!!Acetyltransferase!YpeA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	80.14%
+Cluster 509579
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU79001
+fig|150053.31.peg.1378|G5S39_06550!!!COG3539:!P!pilus!assembly!protein,!pilin!FimA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.22%
+Cluster 98170
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS63116
+fig|150053.31.peg.574|G5S39_02840!!!Putative!outer!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	88.34%
+Cluster 587708
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	multidrug resistance protein MdtJ	ABX86248
+fig|150053.31.peg.3786|G5S39_17675!!!Spermidine!export!protein!MdtJ!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	83.20%
+Cluster 649701
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	integration host factor beta-subunit	CAL17192
+fig|150053.31.peg.2263|G5S39_10680!!!Integration!host!factor!beta!subunit!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	71.28%
+Cluster 237095
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	inner-membrane translocator	ACS84618
+fig|150053.31.peg.3403|G5S39_15955!!!Urea!ABC!transporter,!permease!protein!UrtC!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.00%
+Cluster 503148
+312	AE013218	Buchnera aphidicola str. Sg (Schizaphis graminum), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L6	AAM68033
+fig|150053.31.peg.2016|G5S39_09520!!!LSU!ribosomal!protein!L6p!(L9e)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.58%
+Cluster 755265
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS64015
+fig|150053.31.peg.2081!!!FIG01220313:!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.29%
+Cluster 20315
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative phosphodiesterase	CAL12338
+fig|150053.31.peg.3611|G5S39_16900!!!c-di-GMP!phosphodiesterase!(EC!3.1.4.52)!=>!Heme-regulated,!oxygen!sensor!PdeO!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.84%
+Cluster 648353
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	hypothetical phage protein	CAL12347
+fig|150053.31.peg.3802|G5S39_17755!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.15%
+Cluster 776704
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACA66636
+fig|150053.31.peg.4011!!!FIG01219862:!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.44%
+Cluster 600949
+10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Yes	Gammaproteobacteria	putative yopH targeting protein SycH	AAS58597
+fig|150053.31.peg.3213|G5S39_15055!!!Type!III!secretion!chaperone!protein!for!YopH!(SycH)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.87%
+Cluster 419223
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	FabA	ABJ00363
+fig|150053.31.peg.3331|G5S39_15605!!!3-hydroxyacyl-[acyl-carrier-protein]!dehydratase,!FabA!form!(EC!4.2.1.59)!@!Trans-2-decenoyl-[acyl-carrier-protein]!isomerase!(EC!5.3.3.14)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	88.37%
+Cluster 409388
+16304	CP000741	Sinorhizobium medicae WSM419 plasmid pSMED03, complete genome.	No	Alphaproteobacteria	IstB domain protein ATP-binding protein	ABR65066
+fig|150053.31.peg.1100|G5S39_05250!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.64%
+Cluster 225418
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	ferrichrome-binding periplasmic protein precursor	ABG14853
+fig|150053.31.peg.2646|G5S39_12455!!!Ferric!hydroxamate!ABC!transporter!(TC!3.A.1.14.3),!periplasmic!substrate!binding!protein!FhuD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.46%
+Cluster 477734
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR75674
+fig|150053.31.peg.2951|G5S39_13880!!!D-glycero-beta-D-manno-heptose-1,7-bisphosphate!7-phosphatase!(EC!3.1.3.82)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	79.14%
+Cluster 150871
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF444	ACT07063
+fig|150053.31.peg.3606|G5S39_16875!!!UPF0229!protein!YeaH!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.38%
+Cluster 475020
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative lipoprotein	CAL11794
+fig|150053.31.peg.911|G5S39_04400!!!putative!lipoprotein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.10%
+Cluster 309742
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative LysR-family transcriptional regulatory protein	CAL10605
+fig|150053.31.peg.201|G5S39_01020!!!Transcriptional!regulator,!LysR!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.41%
+Cluster 261679
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	XylF	ADD75207
+fig|150053.31.peg.510|G5S39_02530!!!D-xylose!ABC!transporter,!substrate-binding!protein!XylF!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	81.87%
+Cluster 679321
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	putative lipoprotein	ABX88655
+fig|150053.31.peg.1026|G5S39_04915!!!Uncharacterized!protein!YnbE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.25%
+Cluster 427119
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|150053.31.peg.304|G5S39_01500!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.00%
+Cluster 638174
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|150053.31.peg.3448|G5S39_16175!!!Diacylglycerol!kinase!(EC!2.7.1.107)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	68.85%
+Cluster 354967
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12715
+fig|150053.31.peg.2158|G5S39_10200!!!T6SS!associated!component!TagJ!(ImpE)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.18%
+Cluster 669350
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative ribosomal protein	AAS61062
+fig|150053.31.peg.1158|G5S39_05525!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-independent!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	89.53%
+Cluster 267702
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11918
+fig|150053.31.peg.1858|G5S39_08775!!!ATP!phosphoribosyltransferase!(EC!2.4.2.17)!=>!HisGl!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	87.96%
+Cluster 44000
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|150053.31.peg.1253|G5S39_05965!!!PTS!system,!N-acetylglucosamine-specific!IIC!component!/!PTS!system,!N-acetylglucosamine-specific!IIB!component!(EC!2.7.1.193)!/!PTS!system,!N-acetylglucosamine-specific!IIA!component!(EC!2.7.1.193)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.59%
+Cluster 532700
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Aspartate transcarbamylase regulatory subunit PyrI	CAX54135
+fig|150053.31.peg.1330|G5S39_06345!!!Aspartate!carbamoyltransferase!regulatory!chain!(PyrI)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	76.62%
+Cluster 298919
+17707	CP001124	Geobacter bemidjiensis Bem, complete genome.	No	Deltaproteobacteria	succinyl-CoA synthetase, alpha subunit	ACH38483
+fig|150053.31.peg.1208|G5S39_05755!!!Succinyl-CoA!ligase![ADP-forming]!alpha!chain!(EC!6.2.1.5)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.81%
+Cluster 8455
+33161	CP001965	Sideroxydans lithotrophicus ES-1, complete genome.	No	Betaproteobacteria	heavy metal efflux pump, CzcA family	ADE12094
+fig|150053.31.peg.1652|G5S39_07815!!!Copper/silver!efflux!RND!transporter,!transmembrane!protein!CusA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.89%
+Cluster 85700
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62104
+fig|150053.31.peg.2456|G5S39_11600!!!Virulence!factor!MviM!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	79.87%
+fig|150053.31.peg.2457|G5S39_11605!!!Protein!of!unknown!function!YceH!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.00%
+Cluster 406648
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	probable pili assembly chaperone	CAL12701
+fig|150053.31.peg.2116|G5S39_09990!!!Chaperone!protein!fimC!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.75%
+Cluster 527372
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL13345
+fig|150053.31.peg.3526|G5S39_16530!!!Prepilin!peptidase!dependent!protein!A!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.88%
+Cluster 3232
+13384	CP000482	Pelobacter propionicus DSM 2379, complete genome.	No	Deltaproteobacteria	DNA-directed RNA polymerase, beta' subunit	ABK98305
+fig|150053.31.peg.3911|G5S39_18220!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.53%
+Cluster 614168
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL10862
+fig|150053.31.peg.2704|G5S39_12710!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.26%
+Cluster 432052
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAW76306
+fig|150053.31.peg.1703|G5S39_08040!!!T6SS!component!TssB!(ImpB/VipA)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.07%
+Cluster 555057
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL11541
+fig|150053.31.peg.235|G5S39_01175!!!Protein!psaF!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.77%
+Cluster 148400
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor	ACA67890
+fig|150053.31.peg.262|G5S39_01300!!!Methyl-accepting!chemotaxis!sensor/transducer!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.25%
+Cluster 64542
+32551	AP010948	Azospirillum sp. B510 plasmid pAB510b DNA, complete genome.	No	Alphaproteobacteria	PTS system, glucose-specific IIB component	BAI75163
+fig|150053.31.peg.883|G5S39_04270!!!PTS!system,!glucose-specific!IIC!component!/!PTS!system,!glucose-specific!IIB!component!(EC!2.7.1.199)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.17%
+Cluster 394450
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	LexA	ADD75423
+fig|150053.31.peg.3447|G5S39_16170!!!SOS-response!repressor!and!protease!LexA!(EC!3.4.21.88)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.64%
+Cluster 267601
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU77356
+fig|150053.31.peg.1961|G5S39_09255!!!Transcriptional!regulator!YPDSF_0092,!LacI!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.03%
+Cluster 417237
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11641
+fig|150053.31.peg.1416|G5S39_06725!!!Probable!glutathione!S-transferase!(EC!2.5.1.18),!YfcF!homolog!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.09%
+Cluster 260373
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative fimbrial protein	CAL12733
+fig|150053.31.peg.1713|G5S39_08085!!!Putative!fimbrial!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.90%
+Cluster 178602
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12201
+fig|150053.31.peg.1061!!!Uncharacterized!protein!YciW!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.57%
+fig|150053.31.peg.1062|G5S39_05070!!!Uncharacterized!protein!YciW!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	94.59%
+Cluster 497917
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	Lipocalin family protein	ACX89671
+fig|150053.31.peg.81|G5S39_00410!!!Lipocalin!Blc!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.04%
+Cluster 144401
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	aminopeptidase B	BAH64649
+fig|150053.31.peg.1916|G5S39_09050!!!Peptidase!B!(EC!3.4.11.23)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	76.80%
+Cluster 303848
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeiE	ADD77719
+fig|150053.31.peg.225|G5S39_01135!!!Transcriptional!regulator!YeiE,!LysR!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.24%
+Cluster 251840
+308	BA000039	Thermosynechococcus elongatus BP-1 DNA, complete genome.	No	Chroococcales	UNKNOWN	BAC08950
+fig|150053.31.peg.1859|G5S39_08780!!!his!operon!leader!peptide!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	66.67%
+Cluster 763593
+16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABS46639
+fig|150053.31.peg.1388!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.10%
+Cluster 36881
+32551	AP010948	Azospirillum sp. B510 plasmid pAB510b DNA, complete genome.	No	Alphaproteobacteria	formate dehydrogenase, alpha subunit	BAI75108
+fig|150053.31.peg.1804|G5S39_08515!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.49%
+Cluster 568417
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78433
+fig|150053.31.peg.3944|G5S39_18395!!!Predicted!chaperone!lipoprotein!YacC,!potentially!involved!in!protein!secretion!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.43%
+Cluster 25911
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	sulfate adenylyltransferase, large subunit	ACL56789
+fig|150053.31.peg.2216|G5S39_10465!!!Sulfate-binding!protein!Sbp!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.35%
+Cluster 698811
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	putative regulatory protein, FmdB family	ACY31544
+fig|150053.31.peg.3766|G5S39_17585!!!Type!I!antifreeze!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.53%
+Cluster 446033
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11187
+fig|150053.31.peg.4155|G5S39_19400!!!Hexose-phosphate!uptake!two-component!transcriptional!response!regulator!UhpA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.31%
+Cluster 114214
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative monooxygenase	AAS63755
+fig|150053.31.peg.2621|G5S39_12340!!!2-polyprenylphenol!hydroxylase!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	90.59%
+Cluster 229143
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative exported protein	CAG74315
+fig|150053.31.peg.1828|G5S39_08630!!!5-methylthioribose!ABC!transporter,!substrate-binding!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.20%
+Cluster 616127
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS62478
+fig|150053.31.peg.3662|G5S39_17120!!!putative!membrane!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	67.31%
+Cluster 45204
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL10581
+fig|150053.31.peg.175|G5S39_00895!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.07%
+Cluster 609703
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	repressor of class 3a and 3b operons (RflA activity)	AAS61789
+fig|150053.31.peg.720|G5S39_03515!!!Flagellar!biosynthesis!protein!FliT!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.00%
+Cluster 420831
+111	AE000512	Thermotoga maritima MSB8, complete genome.	No	Thermotogales	conserved hypothetical protein	AAD36741
+fig|150053.31.peg.1485|G5S39_07030!!!pheST!operon!leader!peptide!PheM!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.33%
+Cluster 162352
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	isocitrate dehydrogenase (NADP)	ABM42459
+fig|150053.31.peg.917|G5S39_04430!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	74.58%
+Cluster 485412
+245	BA000003	Buchnera aphidicola str. APS (Acyrthosiphon pisum) genomic DNA, complete sequence.	No	Gammaproteobacteria	50S ribosomal protein L4	BAB13216
+fig|150053.31.peg.2002|G5S39_09450!!!LSU!ribosomal!protein!L4p!(L1e)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	75.12%
+Cluster 716628
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative regulatory protein	AAS63554
+fig|150053.31.peg.516|G5S39_02565!!!Phage!protein!Ogr!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	91.36%
+Cluster 717012
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	hypothetical	CAH21734
+fig|150053.31.peg.4296|G5S39_20105!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.37%
+Cluster 765777
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACT05170
+fig|150053.31.peg.381|G5S39_01875!!!FIG01221800:!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	73.47%
+Cluster 658006
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL11306
+fig|150053.31.peg.3240|G5S39_15190!!!Putative!exported!protein!precursor!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	99.12%
+Cluster 105766
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11395
+fig|150053.31.peg.2862|G5S39_13465!!!Transcriptional!regulator,!GntR!family!domain!/!Aspartate!aminotransferase!(EC!2.6.1.1)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.76%
+Cluster 639844
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	nitrite reductase [NAD(P)H] small subunit	CAG76977
+fig|150053.31.peg.1956|G5S39_09235!!!Nitrite!reductase![NAD(P)H]!small!subunit!(EC!1.7.1.4)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	70.37%
+Cluster 20515
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	leucyl-tRNA synthetase	ABF13994
+fig|150053.31.peg.1273|G5S39_06085!!!Leucyl-tRNA!synthetase!(EC!6.1.1.4)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	68.37%
+Cluster 177911
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative type-III secretion protein, EscD/SpiB	CAH19553
+fig|150053.31.peg.9|G5S39_00060!!!Type!III!secretion!protein!SsaD!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.53%
+Cluster 455219
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	Nitroreductase	ACG65078
+fig|150053.31.peg.753|G5S39_03650!!!Probable!malonic!semialdehyde!reductase!RutE!(EC!1.1.1.298)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.20%
+Cluster 525701
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	molybdopterin biosynthesis MoaE protein	ACR01125
+fig|150053.31.peg.313|G5S39_01545!!!Molybdopterin!synthase!catalytic!subunit!MoaE!(EC!2.8.1.12)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.00%
+Cluster 723593
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11931
+fig|150053.31.peg.1419|G5S39_06735!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	87.01%
+Cluster 573971
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	putative transposase	ABE06576
+fig|150053.31.peg.567|G5S39_02805!!!Mobile!element!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.56%
+Cluster 186039
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	Sucrose operon repressor (Csc operon regulatory protein)	CAR13873
+fig|150053.31.peg.931|G5S39_04490!!!Sucrose!specific!transcriptional!regulator!CscR,!LacI!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.54%
+Cluster 676381
+244	BA000019	Nostoc sp. PCC 7120 DNA, complete genome.	No	Nostocales	glutaredoxin	BAB76572
+fig|150053.31.peg.2204|G5S39_10410!!!Glutaredoxin!3!(Grx3)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	60.98%
+Cluster 534402
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69431
+fig|150053.31.peg.150|G5S39_00765!!!Protein!translocase!membrane!subunit!SecG!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	78.38%
+Cluster 557887
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	flagellar basal body-associated protein FliL	ACZ76400
+fig|150053.31.peg.699|G5S39_03430!!!Flagellar!basal!body-associated!protein!FliL!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.46%
+Cluster 664262
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL12975
+fig|150053.31.peg.397|G5S39_01985!!!Cyd!operon!protein!YbgE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	96.97%
+Cluster 516915
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL11940
+fig|150053.31.peg.1430|G5S39_06780!!!Sigma-fimbriae!uncharacterized!paralogous!subunit!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	88.76%
+Cluster 693455
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	cell division topological specificity factor MinE	ACS85798
+fig|150053.31.peg.3794|G5S39_17715!!!Cell!division!topological!specificity!factor!MinE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	89.89%
+Cluster 653203
+19227	CP000910	Renibacterium salmoninarum ATCC 33209, complete genome.	No	Actinobacteridae	glutaredoxin	ABY25190
+fig|150053.31.peg.3051|G5S39_14330!!!Glutaredoxin-like!protein!NrdH,!required!for!reduction!of!Ribonucleotide!reductase!class!Ib!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.82%
+Cluster 460321
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS61157
+fig|150053.31.peg.3289|G5S39_15405!!!Phage!tail!sheath!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	78.05%
+Cluster 511321
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	SufE protein probably involved in Fe-S center assembly	AAS62393
+fig|150053.31.peg.4146|G5S39_19355!!!Sulfur!acceptor!protein!=>!iron-sulfur!cluster!assembly!SufE!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	85.71%
+Cluster 708389
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL11805
+fig|150053.31.peg.932|G5S39_04495!!!hypothetical!protein!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	98.84%
+Cluster 669352
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS61209
+fig|150053.31.peg.296|G5S39_01460!!!UPF0410!protein!YeaQ!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	93.90%
+Cluster 587149
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	acetylase for 30S ribosomal subunit protein S18	BAI28698
+fig|150053.31.peg.3003|G5S39_14100!!!Ribosomal-protein-S18p-alanine!acetyltransferase!(EC!2.3.1.128)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	77.32%
+Cluster 23296
+285	AE009442	Xylella fastidiosa Temecula1, complete genome.	No	Gammaproteobacteria	ATP-dependent serine proteinase La	AAO28351
+fig|150053.31.peg.1187|G5S39_05650!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.03%
+Cluster 210914
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative periplasmic binding protein/LacI transcriptional regulator	BAH62330
+fig|150053.31.peg.3649|G5S39_17055!!!Transcriptional!regulator,!LacI!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	65.26%
+Cluster 604531
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR68071
+fig|150053.31.peg.2936|G5S39_13810!!!Uncharacterized!protein!YaeR!with!similarity!to!glyoxylase!family!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	63.64%
+Cluster 327641
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative DnaJ-like heat shock protein	CAG76753
+fig|150053.31.peg.2308|G5S39_10900!!!DnaJ-like!protein!DjlA!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	64.73%
+Cluster 258244
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative membrane protein	CAL11935
+fig|150053.31.peg.1424|G5S39_06755!!!Sigma-fimbriae!tip!adhesin!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	97.92%
+Cluster 557963
+18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	No	Bacillales	LSU ribosomal protein L16P	ABK83530
+fig|150053.31.peg.2008|G5S39_09480!!!LSU!ribosomal!protein!L16p!(L10e)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	61.76%
+Cluster 703025
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L35	AAX88440
+fig|150053.31.peg.1483|G5S39_07020!!!LSU!ribosomal!protein!L35p!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	81.54%
+Cluster 146754
+13954	CP000125	Burkholderia pseudomallei 1710b chromosome II, complete sequence.	Yes	Betaproteobacteria	proline iminopeptidase	ABA52921
+fig|150053.31.peg.3584|G5S39_16785!!!Proline!iminopeptidase!(EC!3.4.11.5)!!![Yersinia!enterocolitica!subsp.!palearctica!strain!Ye9N!|!150053.31]	62.58%

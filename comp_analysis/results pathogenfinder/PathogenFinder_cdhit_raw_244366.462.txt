@@ -1,0 +1,2052 @@
+Cluster 189037
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	Glutamate--tRNA ligase	ACA69736
+fig|244366.462.peg.3840!!!Glutamyl-Q!tRNA(Asp)!synthetase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.28%
+Cluster 643115
+254	CP000271	Burkholderia xenovorans LB400 chromosome 2, complete sequence.	Yes	Betaproteobacteria	Conserved hypothetical protein	ABE33780
+fig|244366.462.peg.5653!!!Mannose-6-phosphate!isomerase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.96%
+Cluster 192599
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	peptidase, ArgE/DapE family	ACI07101
+fig|244366.462.peg.3282!!!Uncharacterized!deacetylase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.23%
+Cluster 686324
+12986	CP000020	Vibrio fischeri ES114 chromosome I, complete sequence.	No	Gammaproteobacteria	HU, DNA-binding transcriptional regulator, beta subunit	AAW85294
+fig|244366.462.peg.147!!!DNA-binding!protein!HU-beta!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.33%
+Cluster 210298
+13146	CP000036	Shigella boydii Sb227, complete genome.	Yes	Gammaproteobacteria	putative resistance protein	ABB65139
+fig|244366.462.peg.2472!!!Copper/silver!efflux!RND!transporter,!membrane!fusion!protein!CusB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.19%
+Cluster 726193
+31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80475
+fig|244366.462.peg.654!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.68%
+Cluster 285441
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	D-isomer specific 2-hydroxyacid dehydrogenase family protein	ACI09025
+fig|244366.462.peg.5291!!!D-3-phosphoglycerate!dehydrogenase!(EC!1.1.1.95)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.68%
+Cluster 574492
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YfbV	ADD77810
+fig|244366.462.peg.1747!!!UPF0208!membrane!protein!YfbV!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.83%
+Cluster 568238
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	co-chaperonin GroES	ACN48531
+fig|244366.462.peg.5367!!!Heat!shock!protein!10!kDa!family!chaperone!GroES!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.91%
+Cluster 230435
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13781
+fig|244366.462.peg.90!!!Ferrochelatase,!protoheme!ferro-lyase!(EC!4.99.1.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	85.62%
+Cluster 511308
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative 6-O-methylguanine DNA methyltransferase family protein	CAH20217
+fig|244366.462.peg.131!!!DNA!base-flipping!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.96%
+Cluster 613553
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	OsmC family protein	ACX89760
+fig|244366.462.peg.1031!!!Protein!YhfA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.33%
+Cluster 478278
+20361	AP011532	Methanocella paludicola SANAE DNA, complete genome.	No	Methanomicrobia	conserved hypothetical protein	BAI62810
+fig|244366.462.peg.3596!!!Succinate-acetate/proton!symporter!SatP!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.11%
+Cluster 45429
+13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAV78633
+fig|244366.462.peg.1173!!!Hydroxyaromatic!non-oxidative!decarboxylase!protein!B!(EC!4.1.1.-)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	83.76%
+fig|244366.462.peg.1174!!!Hydroxyaromatic!non-oxidative!decarboxylase!protein!C!(EC!4.1.1.-)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.89%
+Cluster 267446
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	cysteine synthase	ABM35882
+fig|244366.462.peg.4652!!!Cysteine!synthase!(EC!2.5.1.47)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.73%
+Cluster 471723
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	Glutathione S-transferase domain protein	ACZ77600
+fig|244366.462.peg.1754!!!Glutathione!S-transferase!(EC!2.5.1.18)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.77%
+Cluster 317007
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	QbdB protein	ACI06845
+fig|244366.462.peg.5704!!!hypothetical!protein;!putative!signal!peptide!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 672379
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	histone family protein DNA-binding protein	ABM58439
+fig|244366.462.peg.4480!!!DNA-binding!protein!HU-alpha!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.22%
+Cluster 85675
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	peptide ABC transporter, periplasmic peptide-binding protein	ACI07180
+fig|244366.462.peg.4387!!!ABC!transporter,!substrate-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.25%
+Cluster 495738
+36507	CP001585	Yersinia pestis D106004, complete genome.	Yes	Gammaproteobacteria	transposase	ACY57949
+fig|244366.462.peg.1118!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.39%
+Cluster 638387
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	oriT nicking	ABR80382
+fig|244366.462.peg.5342!!!oriT!nicking!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 51514
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative transporter	BAH65082
+fig|244366.462.peg.603!!!Membrane!fusion!component!MdtO!of!tripartite!multidrug!resistance!system!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.42%
+Cluster 309077
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ABO89343
+fig|244366.462.peg.3251!!!Transcriptional!regulator,!LysR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.58%
+Cluster 485186
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	MtnD	ADD76040
+fig|244366.462.peg.5921!!!1,2-dihydroxy-3-keto-5-methylthiopentene!dioxygenase!(EC!1.13.11.54)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.11%
+Cluster 214759
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63791
+fig|244366.462.peg.5463!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.04%
+Cluster 726615
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63626
+fig|244366.462.peg.4184!!!Orphan!toxin!OrtT!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.25%
+Cluster 375207
+17053	CP000949	Pseudomonas putida W619, complete genome.	No	Gammaproteobacteria	phenylacetate degradation, enoyl-CoA hydratase paaB	ACA73118
+fig|244366.462.peg.5196!!!1,2-epoxyphenylacetyl-CoA!isomerase!(EC!5.3.3.18)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.89%
+Cluster 367601
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YcdC	ADD79199
+fig|244366.462.peg.5757!!!Transcriptional!regulator!RutR!of!pyrimidine!catabolism!(TetR!family)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.98%
+Cluster 603949
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	phenylacetate-CoA oxygenase, PaaH subunit	ABM59653
+fig|244366.462.peg.5201!!!1,2-phenylacetyl-CoA!epoxidase,!subunit!B!(EC!1.14.13.149)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.16%
+Cluster 67271
+16182	CP000572	Burkholderia pseudomallei 1106a chromosome I, complete sequence.	Yes	Betaproteobacteria	GABA permease	ABN91788
+fig|244366.462.peg.2265!!!gamma-aminobutyrate!(GABA)!permease!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.09%
+Cluster 83366
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017
+fig|244366.462.peg.4432!!!NAD!kinase!(EC!2.7.1.23)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.86%
+Cluster 589866
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|244366.462.peg.4635!!!Spermidine!export!protein!MdtJ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.67%
+Cluster 598886
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI07018
+fig|244366.462.peg.3310!!!Sulfer!carrier!protein!activating!protease!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 184648
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	cyanate transporter	ACI10202
+fig|244366.462.peg.1859!!!Cyanate!transport!protein!CynX!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 95869
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Glutathione reductase, putative	ABN44926
+fig|244366.462.peg.2110!!!Glutathione!reductase!(EC!1.8.1.7)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.67%
+Cluster 637260
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04930
+fig|244366.462.peg.4429!!!UPF0125!protein!RatB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	83.33%
+Cluster 579951
+13020	CP000491	Paracoccus denitrificans PD1222 plasmid 1, complete sequence.	No	Alphaproteobacteria	hypothetical protein	ABL72750
+fig|244366.462.peg.5631!!!Uncharacterized!protein!YneG!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.48%
+Cluster 116510
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|244366.462.peg.761!!!Chromosomal!replication!initiator!protein!DnaA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	83.94%
+Cluster 292695
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	D-arabitol repressor	CAQ89679
+fig|244366.462.peg.2691!!!D-arabinitol!operon!repressor!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	83.07%
+Cluster 596961
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE75462
+fig|244366.462.peg.925!!!Rhodanese-related!sulfurtransferase!YibN!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.53%
+Cluster 625650
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAR05081
+fig|244366.462.peg.6177!!!Uncharacterized!protein!YhhL!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.23%
+Cluster 736213
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63725
+fig|244366.462.peg.1681!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.96%
+fig|244366.462.peg.576!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.22%
+Cluster 144142
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	2,3,4,5-tetrahydropyridine-2-carboxylate N-succin	AAW75239
+fig|244366.462.peg.3880!!!2,3,4,5-tetrahydropyridine-2,6-dicarboxylate!N-succinyltransferase!(EC!2.3.1.117)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.23%
+Cluster 645369
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACX86741
+fig|244366.462.peg.4001!!!Uncharacterized!protein!STM4441!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.17%
+Cluster 679344
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	DNA-damage-inducible protein I	BAH62776
+fig|244366.462.peg.2445!!!DNA-damage-inducible!protein!I!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.59%
+Cluster 659338
+29177	CP001339	Thioalkalivibrio sp. HL-EbGR7, complete genome.	No	Gammaproteobacteria	urease, beta subunit	ACL74172
+fig|244366.462.peg.3071!!!Urease!beta!subunit!(EC!3.5.1.5)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.09%
+Cluster 368650
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CpxR	ADD79041
+fig|244366.462.peg.1323!!!Copper-sensing!two-component!system!response!regulator!CpxR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	90.09%
+Cluster 201069
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	galactokinase	ACI06895
+fig|244366.462.peg.3498!!!Galactokinase!(EC!2.7.1.6)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.74%
+Cluster 211926
+17409	CP001046	Burkholderia phymatum STM815 plasmid pBPHY02, complete sequence.	No	Betaproteobacteria	Integrase catalytic region	ACC76302
+fig|244366.462.peg.1463!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.20%
+Cluster 111390
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69394
+fig|244366.462.peg.2167!!!Tagatose-6-phosphate!kinase!GatZ!(EC!2.7.1.144)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	85.11%
+Cluster 280319
+212	AE016822	Leifsonia xyli subsp. xyli str. CTCB07, complete genome.	No	Actinobacteridae	NAD dependent epimerase/dehydratase	AAT89282
+fig|244366.462.peg.5568!!!Nucleoside-diphosphate-sugar!epimerases!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.10%
+Cluster 492037
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PurE	ADD76220
+fig|244366.462.peg.69!!!N5-carboxyaminoimidazole!ribonucleotide!mutase!(EC!5.4.99.18)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.02%
+Cluster 140181
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	putative transposase	ABG71811
+fig|244366.462.peg.5356!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	76.64%
+Cluster 445037
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Molybdopterin biosynthesis mog protein	CAY73103
+fig|244366.462.peg.3594!!!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	76.92%
+Cluster 687854
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU75771
+fig|244366.462.peg.532!!!Uncharacterized!lipoprotein!YgdR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.72%
+Cluster 495874
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YgjP	ADD78617
+fig|244366.462.peg.2201!!!UTP!pyrophosphatase!(EC!3.6.1.9)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.69%
+Cluster 728249
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	ABB62708
+fig|244366.462.peg.4702!!!UPF0370!protein!YpfN!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.09%
+Cluster 167877
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	nucleoside permease	BAH64544
+fig|244366.462.peg.1870!!!Na+!dependent!nucleoside!transporter!NupC!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.25%
+fig|244366.462.peg.5764!!!Na+!dependent!nucleoside!transporter!NupC!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.09%
+Cluster 241152
+19989	CP001032	Opitutus terrae PB90-1, complete genome.	No	Opitutae	L-threonine 3-dehydrogenase	ACB76204
+fig|244366.462.peg.920!!!L-threonine!3-dehydrogenase!(EC!1.1.1.103)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.46%
+Cluster 11300
+15756	CP000781	Xanthobacter autotrophicus Py2, complete genome.	No	Alphaproteobacteria	heavy metal translocating P-type ATPase	ABS69810
+fig|244366.462.peg.4823!!!Lead,!cadmium,!zinc!and!mercury!transporting!ATPase!(EC!3.6.3.3)!(EC!3.6.3.5);!Copper-translocating!P-type!ATPase!(EC!3.6.3.4)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.47%
+Cluster 68356
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative alpha-glucoside-specific PTS family enzyme IIBC component	BAH65874
+fig|244366.462.peg.747!!!PTS!system,!maltose-specific!IIC!component!/!PTS!system,!maltose-specific!IIB!component!(EC!2.7.1.208)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.81%
+Cluster 352568
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	methionine aminopeptidase, type I	ACK54919
+fig|244366.462.peg.3882!!!Methionine!aminopeptidase!(EC!3.4.11.18)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.12%
+Cluster 372522
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobalt-precorrin-4 C(11)-methyltransferase (Cobalt-precorrin-3 methylase)	CBJ79987
+fig|244366.462.peg.1478!!!Cobalt-precorrin-4!C(11)-methyltransferase!(EC!2.1.1.271)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.98%
+Cluster 251904
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	sugar binding transcriptional regulator, LacI family	ACI10420
+fig|244366.462.peg.4569!!!Transcriptional!regulator,!LacI!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 63934
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	Heme-binding protein precursor (hemin-binding lipoprotein)	ABE06319
+fig|244366.462.peg.3117!!!Oligopeptide!transport!substrate-binding!protein!@!Glutathione!ABC!transporter,!substrate-binding!protein!GsiB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	87.72%
+Cluster 63936
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	PTS system, maltose and glucose-specific IIABC component	ABE07287
+fig|244366.462.peg.5148!!!PTS!system,!maltose!and!glucose-specific!IIC!component!/!PTS!system,!maltose!and!glucose-specific!IIB!component!(EC!2.7.1.208)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	89.62%
+Cluster 242897
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YjiA	ADD77097
+fig|244366.462.peg.3294!!!Metal!chaperone,!involved!in!Zn!homeostasis!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.94%
+Cluster 247877
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	HemK	ADD76810
+fig|244366.462.peg.2359!!!Peptide!chain!release!factor!N(5)-glutamine!methyltransferase!(EC!2.1.1.297)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.99%
+Cluster 420478
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	GntR-family transcriptional regulator	CBJ45534
+fig|244366.462.peg.2503!!!Transcriptional!regulator,!GntR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.01%
+Cluster 342556
+17445	CP000749	Marinomonas sp. MWYL1, complete genome.	No	Gammaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABR69123
+fig|244366.462.peg.5032!!!ABC!transporter,!permease!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.87%
+Cluster 388732
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative CTP synthase	BAH62894
+fig|244366.462.peg.445!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.22%
+Cluster 200923
+371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Yes	Gammaproteobacteria	RNA polymerase sigma subunit RpoS	AAO70382
+fig|244366.462.peg.1168!!!RNA!polymerase!sigma!factor!RpoS!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	93.03%
+Cluster 407809
+17455	CP000961	Shewanella woodyi ATCC 51908, complete genome.	No	Gammaproteobacteria	RNA methyltransferase, TrmH family, group 3	ACA88472
+fig|244366.462.peg.4364!!!23S!rRNA!(guanosine(2251)-2'-O)-methyltransferase!(EC!2.1.1.185)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.91%
+Cluster 186825
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX70363
+fig|244366.462.peg.1332!!!Transcriptional!(co)regulator!CytR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	88.60%
+Cluster 69622
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	periplasmic glucan biosynthesis protein, MdoG	ABQ81020
+fig|244366.462.peg.2455!!!Glucans!biosynthesis!protein!G!precursor!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.96%
+Cluster 688507
+15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Yes	Gammaproteobacteria	IS66 family element, orf2	ACD08654
+fig|244366.462.peg.2052!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.87%
+Cluster 128131
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR76695
+fig|244366.462.peg.1963!!!hypothetical!protein!Pfl_5213!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.91%
+Cluster 51773
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	DNA polymerase III subunit tau	CAO97520
+fig|244366.462.peg.95!!!DNA!polymerase!III!subunits!gamma!and!tau!(EC!2.7.7.7)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.54%
+Cluster 338304
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	pantothenate synthetase	CBJ82791
+fig|244366.462.peg.3836!!!Pantoate--beta-alanine!ligase!(EC!6.3.2.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.68%
+Cluster 7990
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	malate synthase A	ACG74318
+fig|244366.462.peg.384!!!Isocitrate!lyase!(EC!4.1.3.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.41%
+Cluster 645462
+344	AM236080	Rhizobium leguminosarum bv. viciae chromosome complete genome, strain 3841.	No	Alphaproteobacteria	conserved hypothetical protein	CAK05740
+fig|244366.462.peg.1185!!!NOHBY218;!no!homolog!in!Saccharomyces!cerevisiae!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.82%
+Cluster 32520
+13655	CP000097	Synechococcus sp. CC9902, complete genome.	No	Chroococcales	hypothetical protein	ABB25174
+fig|244366.462.peg.1550!!!Glycosyltransferase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.00%
+Cluster 264549
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	riboflavin biosynthesis protein RibF, putative	ACR67900
+fig|244366.462.peg.3604!!!FMN!adenylyltransferase!(EC!2.7.7.2)!/!Riboflavin!kinase!(EC!2.7.1.26)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.15%
+Cluster 208955
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	ABB61844
+fig|244366.462.peg.4192!!!Putative!oxidoreductase!YncB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.90%
+Cluster 325465
+13960	CP000800	Escherichia coli E24377A, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABV21201
+fig|244366.462.peg.5427!!!Protein!YrdA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.52%
+Cluster 213164
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	luciferase-like protein	ACY35168
+fig|244366.462.peg.4255!!!Alkanal!monooxygenase!alpha!chain!(EC!1.14.14.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.80%
+Cluster 517050
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	transcriptional regulator, MerR family	ABM32854
+fig|244366.462.peg.5037!!!Redox-sensitive!transcriptional!activator!SoxR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.82%
+Cluster 565004
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	50S ribosomal protein L16	ABM79044
+fig|244366.462.peg.5394!!!LSU!ribosomal!protein!L16p!(L10e)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.03%
+Cluster 711287
+31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80548
+fig|244366.462.peg.646!!!DNA!polymerase!III!theta!subunit!(EC!2.7.7.7)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.43%
+Cluster 221365
+329	CP000112	Desulfovibrio desulfuricans subsp. desulfuricans str. G20, complete genome.	No	Deltaproteobacteria	NAD-dependent epimerase/dehydratase family protein	ABB36834
+fig|244366.462.peg.836!!!UDP-glucuronate!5'-epimerase!(EC!5.1.3.12)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.97%
+Cluster 558460
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Hns	ADD77258
+fig|244366.462.peg.2325!!!DNA-binding!protein!H-NS!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	79.26%
+fig|244366.462.peg.5317!!!DNA-binding!protein!H-NS!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.61%
+Cluster 366933
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	putative virulence protein	ABF04119
+fig|244366.462.peg.982!!!Putative!transposase!InsQ!for!insertion!sequence!element!IS609!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	76.33%
+Cluster 464874
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Conserved hypothetical protein YffH	CAO96128
+fig|244366.462.peg.4696!!!GDP-mannose!pyrophosphatase!NudK!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.19%
+Cluster 435908
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|244366.462.peg.4686!!!Ethanolamine!utilization!polyhedral-body-like!protein!EutM!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.79%
+Cluster 212799
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20769
+fig|244366.462.peg.489!!!Propanediol!diffusion!facilitator!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.01%
+fig|244366.462.peg.871!!!Glycerol!uptake!facilitator!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.37%
+fig|244366.462.peg.3093!!!Glycerol!uptake!facilitator!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.54%
+Cluster 174935
+13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Yes	Gammaproteobacteria	putative ethanolamine utilization protein EutA	AAV76420
+fig|244366.462.peg.4680!!!Ethanolamine!utilization!protein!EutA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 184902
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YdiK	ADD76269
+fig|244366.462.peg.1683!!!Uncharacterized!UPF0118!membrane!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.25%
+Cluster 595608
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	protein YcgL	ACF62545
+fig|244366.462.peg.2775!!!Protein!YcgL!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	79.57%
+Cluster 261519
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	Protein of unknown function DUF1722	ACZ77874
+fig|244366.462.peg.4990!!!COG1683:!Uncharacterized!conserved!protein!/!FIG143828:!Hypothetical!protein!YbgA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	79.31%
+Cluster 45156
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	transketolase	ABE46704
+fig|244366.462.peg.4694!!!Transketolase!(EC!2.2.1.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.24%
+Cluster 585252
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	acetyltransferase, GNAT family	ACI09173
+fig|244366.462.peg.5636!!!Acetyltransferase,!GNAT!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 708057
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12267
+fig|244366.462.peg.2822!!!DNA!polymerase!III!theta!subunit!(EC!2.7.7.7)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.89%
+Cluster 153011
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative transporter	ACI08171
+fig|244366.462.peg.4572!!!Manganese!transport!protein!MntH!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 617174
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACT06807
+fig|244366.462.peg.1189!!!Uncharacterized!protein!YgbA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.60%
+Cluster 631976
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14991
+fig|244366.462.peg.4450!!!Ribosome-associated!inhibitor!A!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	93.69%
+Cluster 631975
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13700
+fig|244366.462.peg.4494!!!Transcriptional!activator!RamA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.58%
+Cluster 365291
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Phage shock protein A	CAY74214
+fig|244366.462.peg.2007!!!Phage!shock!protein!A!@!Suppressor!of!sigma54-dependent!transcription,!PspA-like!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.68%
+Cluster 75733
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative lipoate-protein ligase A	BAB38768
+fig|244366.462.peg.3569!!!Lipoate-protein!ligase!A!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	87.87%
+fig|244366.462.peg.3570!!!Protein!Smp!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.65%
+Cluster 386483
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	urease, gamma subunit	ACG72211
+fig|244366.462.peg.3070!!!Urease!gamma!subunit!(EC!3.5.1.5)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.00%
+Cluster 497048
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative lipoprotein	ACI07380
+fig|244366.462.peg.3348!!!putative!lipoprotein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.49%
+Cluster 678802
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS60803
+fig|244366.462.peg.4368!!!Putative!inner!membrane!protein!YjeT!(clustered!with!HflC)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	76.92%
+Cluster 531525
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	50S ribosomal protein L19	ACP26950
+fig|244366.462.peg.4440!!!LSU!ribosomal!protein!L19p!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.35%
+Cluster 471725
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	thiol:disulfide interchange protein DsbE	ABG70233
+fig|244366.462.peg.5475!!!Cytochrome!c-type!biogenesis!protein!CcmG/DsbE,!thiol:disulfide!oxidoreductase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.39%
+Cluster 125989
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAW73281
+fig|244366.462.peg.5776!!!Enoyl-[acyl-carrier-protein]!reductase![NADH]!(EC!1.3.1.9),!FabV!=>!refractory!to!triclosan!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.76%
+Cluster 160828
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	protein UmuC	CBJ46715
+fig|244366.462.peg.438!!!Error-prone,!lesion!bypass!DNA!polymerase!V!(UmuC)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.48%
+Cluster 549885
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L10	ABF14049
+fig|244366.462.peg.4460!!!LSU!ribosomal!protein!L10p!(P0)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.06%
+Cluster 704903
+21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Yes	Gammaproteobacteria	partial of hypothetical orf in IS2	BAH66013
+fig|244366.462.peg.482!!!Transposase!InsD!for!insertion!element!IS2!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.57%
+Cluster 129266
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04608
+fig|244366.462.peg.4679!!!Ethanolamine!utilization!protein!EutA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.45%
+Cluster 716529
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13904
+fig|244366.462.peg.230!!!Uncharacterized!protein!YaiZ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.60%
+Cluster 559054
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	IbpA	ADD75249
+fig|244366.462.peg.752!!!16!kDa!heat!shock!protein!A!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.48%
+Cluster 120752
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	nitrogenase cofactor biosynthesis protein NifB	ACI07460
+fig|244366.462.peg.4878!!!Nitrogenase!FeMo-cofactor!synthesis!FeS!core!scaffold!and!assembly!protein!NifB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.36%
+Cluster 706835
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX22766
+fig|244366.462.peg.3634!!!Putative!outer!membrane!lipoprotein!STM0080!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.53%
+Cluster 510110
+17463	CP001053	Burkholderia phytofirmans PsJN chromosome 2, complete sequence.	No	Betaproteobacteria	conserved hypothetical protein	ACD19852
+fig|244366.462.peg.6080!!!Predicted!membrane!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.61%
+Cluster 550024
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved membrane protein	AAS60370
+fig|244366.462.peg.878!!!Uncharacterized!protein!YiiR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.20%
+Cluster 599195
+12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	No	Gammaproteobacteria	ISPsy2, transposase, truncated	AAZ34278
+fig|244366.462.peg.6083!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.76%
+Cluster 229292
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH62542
+fig|244366.462.peg.3132!!!L,D-transpeptidase!=>!YbiS!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.09%
+fig|244366.462.peg.3303!!!L,D-transpeptidase!=>!ErfK!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.30%
+Cluster 552859
+21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH66034
+fig|244366.462.peg.4842!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.95%
+Cluster 277291
+31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Yes	Gammaproteobacteria	mediator of plasmid stability	ABR80607
+fig|244366.462.peg.656!!!COG0443:!Molecular!chaperone!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.62%
+fig|244366.462.peg.1952!!!COG0443:!Molecular!chaperone!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 194409
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	creatinase/peptidase, M24 family	ACI11381
+fig|244366.462.peg.3284!!!Peptidase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.97%
+Cluster 180167
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	RsuA protein	AAU37645
+fig|244366.462.peg.1966!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.67%
+Cluster 146094
+18	BA000012	Mesorhizobium loti MAFF303099 DNA, complete genome.	No	Alphaproteobacteria	urea/short-chain amide ABC transporter, periplasmic urea/short-chain amide-binding protein	BAB48286
+fig|244366.462.peg.5605!!!Urea!ABC!transporter,!substrate-binding!protein!UrtA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.25%
+Cluster 11409
+10700	BX908798	Parachlamydia-related symbiont UWE25, complete genome.	Yes	Chlamydiales	probable glycyl-tRNA synthetase	CAF23417
+fig|244366.462.peg.967!!!Glycyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.14)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.07%
+Cluster 621764
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	DNA-binding transcriptional regulator	CAX57062
+fig|244366.462.peg.5036!!!DNA-binding!transcriptional!dual!regulator!SoxS!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.97%
+Cluster 751827
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	cellobiose/salicin/arbutin-specific PTS family enzyme IIBC component	BAH63548
+fig|244366.462.peg.4278!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.67%
+Cluster 116413
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	ABC superfamily (bin	AAX68014
+fig|244366.462.peg.3704!!!Maltodextrin!ABC!transporter,!substrate-binding!protein!MdxE!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	93.69%
+Cluster 761303
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH61712
+fig|244366.462.peg.3668!!!Sugar-phosphate!stress!protein!SgrT!(embedded!in!SgrS)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.00%
+Cluster 333977
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative diaminopimelate epimerase	ACI07775
+fig|244366.462.peg.4201!!!Diaminopimelate!epimerase!(EC!5.1.1.7)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 201049
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	rod shape-determining protein MreC	ACT08634
+fig|244366.462.peg.1631!!!Rod!shape-determining!protein!MreC!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	78.79%
+Cluster 13787
+9633	CP000082	Psychrobacter arcticus 273-4, complete genome.	No	Gammaproteobacteria	Excinuclease ABC subunit A	AAZ19533
+fig|244366.462.peg.3727!!!Excinuclease!ABC!subunit!A!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.84%
+Cluster 531069
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	AccB protein	AAU38396
+fig|244366.462.peg.1638!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.90%
+Cluster 152940
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative chitinase II	BAH62922
+fig|244366.462.peg.3236!!!Chitinase!(EC!3.2.1.14)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.20%
+fig|244366.462.peg.2215!!!Chitinase!(EC!3.2.1.14)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.09%
+Cluster 448254
+310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Yes	Gammaproteobacteria	IS150 ORF1(ORF A)	AAN45042
+fig|244366.462.peg.969!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	89.02%
+Cluster 423510
+13875	CP000016	Candidatus Blochmannia pennsylvanicus str. BPEN, complete genome.	No	Gammaproteobacteria	NADH dehydrogenase I chain B, binds FeS cluster N2	AAZ41122
+fig|244366.462.peg.1736!!!NADH-ubiquinone!oxidoreductase!chain!B!(EC!1.6.5.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.11%
+Cluster 680762
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13578
+fig|244366.462.peg.5996!!!Uncharacterized!protein!YbfA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	76.81%
+Cluster 649350
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH61334
+fig|244366.462.peg.4362!!!Putative!inner!membrane!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.80%
+Cluster 381320
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	molecular chaparone; heat shock protein	AAX66589
+fig|244366.462.peg.4433!!!Heat!shock!protein!GrpE!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	88.78%
+Cluster 450357
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS60574
+fig|244366.462.peg.3872!!!UPF0126!inner!membrane!protein!YadS!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.77%
+fig|244366.462.peg.3873!!!UPF0126!inner!membrane!protein!YadS!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	90.28%
+Cluster 623823
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15926
+fig|244366.462.peg.1115!!!Acetyl-CoA!sensor!PanM,!required!for!maturation!of!L-aspartate!decarboxylase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.29%
+Cluster 562196
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein YjcH	CAQ91716
+fig|244366.462.peg.5052!!!Inner!membrane!protein!YjcH,!clustering!with!ActP!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.73%
+Cluster 732521
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	probable nitrogen fixation protein FixT	ACI08158
+fig|244366.462.peg.4893!!!NifT!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.61%
+Cluster 90902
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	general secretion pathway protein E	BAJ04171
+fig|244366.462.peg.3855!!!General!secretion!pathway!protein!E!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.56%
+Cluster 639975
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	competence protein ComEA homolog	ACI10408
+fig|244366.462.peg.145!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.18%
+Cluster 495973
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	GTP cyclohydrolase subunit MoaC	ABQ80553
+fig|244366.462.peg.410!!!Cyclic!pyranopterin!monophosphate!synthase!(EC!4.6.1.17)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.81%
+Cluster 731538
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	carbon storage regulator, CsrA	ADC62041
+fig|244366.462.peg.1246!!!Carbon!storage!regulator!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.33%
+Cluster 508918
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR79871
+fig|244366.462.peg.6116!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.15%
+Cluster 272455
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Membrane protein Alx	CAX54335
+fig|244366.462.peg.2199!!!Alkaline!induced!inner!membrane!protein!Alx!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	85.14%
+Cluster 336433
+12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	No	Gammaproteobacteria	ISPsy22, transposase truncated	AAZ37890
+fig|244366.462.peg.4730!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.00%
+Cluster 210655
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	N-succinyl-diaminopimelate deacylase	CBJ81719
+fig|244366.462.peg.4701!!!N-succinyl-L,L-diaminopimelate!desuccinylase!(EC!3.5.1.18)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.47%
+Cluster 691242
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	cold shock domain protein CspD	ACR13966
+fig|244366.462.peg.6038!!!Cold!shock!protein!of!CSP!family!=>!CspD!(naming!convention!as!in!E.coli)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.49%
+Cluster 63379
+16708	CP001337	Chloroflexus aggregans DSM 9485, complete genome.	No	Chloroflexales	isocitrate dehydrogenase, NADP-dependent	ACL23964
+fig|244366.462.peg.4517!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.23%
+Cluster 302482
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	spfh/band 7 domain protein	ACR14480
+fig|244366.462.peg.80!!!Protein!QmcA!(possibly!involved!in!integral!membrane!quality!control)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.93%
+Cluster 612015
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24208
+fig|244366.462.peg.3057!!!Uncharacterized!protein!YqiC!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.22%
+Cluster 527527
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Oligoketide cyclase/lipid transport protein	AAS61304
+fig|244366.462.peg.4428!!!Ribosome!association!toxin!RatA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	79.31%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|244366.462.peg.1016!!!SSU!ribosomal!protein!S12p!(S23e)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.81%
+Cluster 480443
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	NUDIX hydrolase	ABM32572
+fig|244366.462.peg.2550!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.88%
+Cluster 663331
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YbeB	ADD76293
+fig|244366.462.peg.5948!!!Ribosomal!silencing!factor!RsfA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.90%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|244366.462.peg.762!!!LSU!ribosomal!protein!L34p!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	76.09%
+Cluster 302781
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	oligopeptide transport system permease protein	AAX88126
+fig|244366.462.peg.2317!!!Oligopeptide!ABC!transporter,!permease!protein!OppB!(TC!3.A.1.5.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.82%
+Cluster 501191
+17415	CP000851	Shewanella pealeana ATCC 700345, complete genome.	No	Gammaproteobacteria	HesB/YadR/YfhF-family protein	ABV89320
+fig|244366.462.peg.1075!!![4Fe-4S]!cluster!carrier!protein!NfuA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.92%
+Cluster 354631
+32513	AP010960	Escherichia coli O111:H- str. 11128 DNA, complete genome.	Yes	Gammaproteobacteria	putative serine protease	BAI36313
+fig|244366.462.peg.55!!!Putative!SPFH!domain!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	83.64%
+Cluster 677828
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	Phosphotransferase system, phosphocarrier protein HPr	ACQ92255
+fig|244366.462.peg.4654!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.12%
+Cluster 627512
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|244366.462.peg.3325!!!Programmed!cell!death!toxin!PemK!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.45%
+Cluster 307159
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	ribonuclease BN	ACS18851
+fig|244366.462.peg.2470!!!Ribonuclease!BN!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	87.21%
+Cluster 735982
+21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	BAH66135
+fig|244366.462.peg.3737!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.57%
+Cluster 241723
+302	AE006470	Chlorobium tepidum TLS, complete genome.	No	Chlorobia	CRISPR-associated protein, CT1975 family	AAM73193
+fig|244366.462.peg.5458!!!CRISPR-associated!protein,!Cse4!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.70%
+Cluster 297074
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG15420
+fig|244366.462.peg.714!!!4-oxalmesaconate!hydratase!(EC!4.2.1.83)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.52%
+Cluster 430650
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	NAD(P)H dehydrogenase (quinone)	ABV40313
+fig|244366.462.peg.5187!!!FMN-dependent!NADH-azoreductase!(EC!1.7.1.6)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.16%
+Cluster 608836
+283	AE007870	Agrobacterium tumefaciens str. C58 linear chromosome, complete sequence.	No	Alphaproteobacteria	conserved hypothetical protein	AAK90158
+fig|244366.462.peg.5154!!!Protein!of!unknown!function!DUF1304!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.81%
+Cluster 121008
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	MmgE/PrpD family protein	ACI11799
+fig|244366.462.peg.2022!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.93%
+Cluster 116469
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative membrane-bound diguanylate cyclase	ACI07008
+fig|244366.462.peg.5632!!!Uncharacterized!GGDEF!domain!protein!YneF!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.79%
+Cluster 80215
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	aminotransferase class-III	ACB35859
+fig|244366.462.peg.2624!!!Polyketide!synthase!modules!and!related!proteins!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.86%
+Cluster 346013
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PcaH	ADD78510
+fig|244366.462.peg.4152!!!Protocatechuate!3,4-dioxygenase!beta!chain!(EC!1.13.11.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.93%
+Cluster 647844
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	50S ribosomal subunit protein L25	ABF04379
+fig|244366.462.peg.4861!!!LSU!ribosomal!protein!L25p!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.98%
+Cluster 690985
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH62525
+fig|244366.462.peg.3150!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	90.70%
+Cluster 777800
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACI11848
+fig|244366.462.peg.430!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.37%
+Cluster 244293
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative periplasmic binding protein/LacI transcriptional regulator	ABR76081
+fig|244366.462.peg.5907!!!Transcriptional!regulator,!LacI!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.98%
+Cluster 710934
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative nifW protein	ACI11516
+fig|244366.462.peg.4884!!!Nitrogenase-stabilizing/protective!protein!nifW!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 205073
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	CAI08474
+fig|244366.462.peg.3900!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.26%
+Cluster 72607
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative POT family transport protein	AAX64635
+fig|244366.462.peg.5998!!!Dipeptide/H+!symporter!DtpD!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	87.20%
+fig|244366.462.peg.3379!!!Di-tripeptide/H+!symporter!DtpC!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.08%
+Cluster 410344
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeaZ	ADD77302
+fig|244366.462.peg.2782!!!tRNA!threonylcarbamoyladenosine!biosynthesis!protein!TsaB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.86%
+Cluster 541411
+15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Yes	Gammaproteobacteria	periplasmic protein CpxP	ACD09422
+fig|244366.462.peg.1324!!!Periplasmic!protein!CpxP!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.85%
+Cluster 228533
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	Hypothetical protein	ABR80369
+fig|244366.462.peg.1365!!!Transposase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 587407
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative nifZ protein	ACI09420
+fig|244366.462.peg.4883!!!NifZ!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 361799
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	fructose-specific PTS family enzyme IIA component	BAH65323
+fig|244366.462.peg.2168!!!PTS!system,!tagatose-specific!IIA!component!/!PTS!system,!tagatose-specific!phosphocarrier!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.31%
+Cluster 699388
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	IS1 transposase	ACA70103
+fig|244366.462.peg.5334!!!Insertion!element!iso-IS1n!protein!insB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.51%
+Cluster 492186
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF179	ACS84355
+fig|244366.462.peg.4324!!!UPF0301!protein!YqgE!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.12%
+Cluster 352148
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Uncharacterized protein ygcF	CAY75451
+fig|244366.462.peg.1148!!!7-carboxy-7-deazaguanine!synthase!(EC!4.3.99.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.27%
+Cluster 461736
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	chorismate lyase	BAH61178
+fig|244366.462.peg.3708!!!Chorismate--pyruvate!lyase!(EC!4.1.3.40)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.36%
+Cluster 313924
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	quaternary amine uptake ABC transporter (QAT) family,  periplasmic amine-binding protein	ACI09197
+fig|244366.462.peg.2743!!!ABC!transporter,!substrate-binding!protein!(cluster!13,!osmolytes)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 447076
+18937	CP001645	Ralstonia pickettii 12D chromosome 2, complete sequence.	No	Betaproteobacteria	protein of unknown function DUF161	ACS64851
+fig|244366.462.peg.5243!!!Uncharacterized!UPF0750!membrane!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.25%
+Cluster 771350
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACI08997
+fig|244366.462.peg.1669!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 722166
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	major outer membrane lipoprotein	BAE74712
+fig|244366.462.peg.1402!!!Major!outer!membrane!lipoprotein!Lpp!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	92.31%
+Cluster 505390
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	BAH63317
+fig|244366.462.peg.5610!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.12%
+Cluster 690880
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	thiS family protein	ACI11539
+fig|244366.462.peg.3309!!!FIG038648:!MoaD!and/or!ThiS!families!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 590626
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	holo-(acyl-carrier-protein) synthase	ABF14256
+fig|244366.462.peg.4787!!!Holo-[acyl-carrier-protein]!synthase!(EC!2.7.8.7)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.32%
+Cluster 524404
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI06988
+fig|244366.462.peg.1990!!!Stresses-induced!protein!Ves!(HutD)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.44%
+Cluster 126237
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	nitrogenase molybdenum-iron cofactor biosynthesis protein NifN	ACS84309
+fig|244366.462.peg.4889!!!Nitrogenase!FeMo-cofactor!scaffold!and!assembly!protein!NifN!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.58%
+Cluster 328385
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Transcriptional regulator YeiE	CAO96325
+fig|244366.462.peg.2965!!!Transcriptional!regulator!YeiE,!LysR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.13%
+Cluster 367370
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative 2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	ACI06570
+fig|244366.462.peg.1707!!!2-keto-3-deoxy-L-rhamnonate!aldolase!(EC!4.1.2.53)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 38530
+40647	FN554766	Escherichia coli 042 complete genome.	Yes	Gammaproteobacteria	putative prophage protein	CBG35260
+fig|244366.462.peg.2557!!!DNA!primase,!phage!associated!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.68%
+Cluster 257135
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein; putative exported protein, predicted restriction endonuclease	CAQ90599
+fig|244366.462.peg.4997!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	79.24%
+Cluster 540125
+16689	CP001132	Acidithiobacillus ferrooxidans ATCC 53993, complete genome.	No	Gammaproteobacteria	RNA methyltransferase, TrmH family, group 2	ACH82671
+fig|244366.462.peg.930!!!tRNA!(cytidine(34)-2'-O)-methyltransferase!(EC!2.1.1.207)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.15%
+Cluster 726200
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	putative lipoprotein	ACX88349
+fig|244366.462.peg.5222!!!Uncharacterized!protein!YnbE!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.93%
+Cluster 399435
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	putative acyl-CoA N-acyltransferase	CAU97437
+fig|244366.462.peg.4190!!!L-amino!acid!N-acyltransferase!MnaT!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.40%
+Cluster 633895
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	histidine triad nucleotide-binding protein 2	ACF64355
+fig|244366.462.peg.2418!!!YcfF/hinT!protein:!a!purine!nucleoside!phosphoramidase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	89.83%
+Cluster 106973
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	transposase	ABX87212
+fig|244366.462.peg.5072!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.29%
+Cluster 558722
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	lytic transglycosylase-like protein	ABR80379
+fig|244366.462.peg.5345!!!X!polypeptide!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 126257
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB61668
+fig|244366.462.peg.2946!!!Succinylarginine!dihydrolase!(EC!3.5.3.23)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.92%
+Cluster 476358
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	lipoprotein LolB precursor	BAE75153
+fig|244366.462.peg.2362!!!Outer!membrane!lipoprotein!component!of!lipoprotein!transport!system!LolB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.07%
+Cluster 430878
+33639	CP001383	Shigella flexneri 2002017, complete genome.	Yes	Gammaproteobacteria	IS1 ORF2	ADA74134
+fig|244366.462.peg.5069!!!IS1!protein!InsA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.67%
+fig|244366.462.peg.483!!!InsA!protein!(Fragment)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.48%
+Cluster 129616
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	putative chromate transporter	CAK15799
+fig|244366.462.peg.3191!!!Chromate!transport!protein!ChrA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.05%
+Cluster 688831
+15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Yes	Gammaproteobacteria	IS1 OrfB	ACD07447
+fig|244366.462.peg.5070!!!IS1!protein!InsB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.97%
+Cluster 605092
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	protein UmuD	CBJ46714
+fig|244366.462.peg.437!!!Error-prone!repair!protein!UmuD!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.58%
+Cluster 33281
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BAD48352
+fig|244366.462.peg.3463!!!Adenosylmethionine-8-amino-7-oxononanoate!aminotransferase!(EC!2.6.1.62)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.61%
+Cluster 527563
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB62686
+fig|244366.462.peg.4671!!!Acetyltransferase!YpeA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	92.20%
+Cluster 663730
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAH21730
+fig|244366.462.peg.2453!!!Putative!outer!membrane!lipoprotein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.33%
+Cluster 516003
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative outer membrane protein	BAH62690
+fig|244366.462.peg.338!!!Phospholipid-binding!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.65%
+Cluster 135111
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14881
+fig|244366.462.peg.1130!!!Proton/glutamate!symporter!@!Proton/aspartate!symporter!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.51%
+Cluster 255798
+12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	No	Gammaproteobacteria	putative LysR-family transcriptional regulator	ABA74177
+fig|244366.462.peg.427!!!Transcriptional!regulator,!LysR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.95%
+Cluster 46799
+13953	CP000571	Burkholderia pseudomallei 668 chromosome II, complete sequence.	Yes	Betaproteobacteria	amino acid permease	ABN86427
+fig|244366.462.peg.3528!!!Amino!acid!permease!in!4-hydroxyproline!catabolic!gene!cluster!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.48%
+Cluster 105138
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	nitrogen fixation negative regulator NifL	ACI09760
+fig|244366.462.peg.4880!!!PAS/PAC!sensor!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.80%
+Cluster 670525
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR78958
+fig|244366.462.peg.2151!!!UPF0213!protein!YhbQ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.11%
+Cluster 390003
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR69529
+fig|244366.462.peg.1462!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.62%
+Cluster 619453
+19449	CP001322	Desulfatibacillum alkenivorans AK-01, complete genome.	No	Deltaproteobacteria	microcompartments protein	ACL06672
+fig|244366.462.peg.491!!!Propanediol!utilization!polyhedral!body!protein!PduA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.47%
+fig|244366.462.peg.498!!!Propanediol!utilization!polyhedral!body!protein!PduJ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.53%
+Cluster 119646
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative fimbrial protein	ABR78692
+fig|244366.462.peg.598!!!Fimbrial!adhesin!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	92.34%
+Cluster 43676
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	fusaric acid resistance domain protein	ACI07143
+fig|244366.462.peg.4538!!!Tetrapartite!efflux!system,!inner!membrane!component!FusBC-like!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.10%
+Cluster 511887
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	ACF64245
+fig|244366.462.peg.3801!!!Inner!membrane!protein!YbjO!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	77.16%
+Cluster 567373
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YbdB	ADD75612
+fig|244366.462.peg.5891!!!Proofreading!thioesterase!in!enterobactin!biosynthesis!EntH!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.58%
+fig|244366.462.peg.1426!!!1,4-dihydroxy-2-naphthoyl-CoA!hydrolase!(EC!3.1.2.28)!in!menaquinone!biosynthesis!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.71%
+Cluster 394149
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative transmembrane protein	BAH61266
+fig|244366.462.peg.6122!!!Integral!membrane!protein!TerC!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	93.39%
+Cluster 337559
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	3-oxoacyl- reductase	AAW74135
+fig|244366.462.peg.2427!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.44%
+Cluster 709880
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	protein PemI	ACI08030
+fig|244366.462.peg.3326!!!Programmed!cell!death!antitoxin!PemI!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 261811
+297	AE008923	Xanthomonas axonopodis pv. citri str. 306, complete genome.	No	Gammaproteobacteria	replication protein	AAM37292
+fig|244366.462.peg.4933!!!IncW-like!replication!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.48%
+Cluster 119825
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CoaBC	ADD79072
+fig|244366.462.peg.900!!!Phosphopantothenoylcysteine!decarboxylase!(EC!4.1.1.36)!/!Phosphopantothenoylcysteine!synthetase!(EC!6.3.2.5)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	79.26%
+Cluster 99801
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	protein TprK	ACD71313
+fig|244366.462.peg.5164!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.38%
+fig|244366.462.peg.5968!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.00%
+fig|244366.462.peg.6166!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.73%
+Cluster 384040
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI07207
+fig|244366.462.peg.3290!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.22%
+Cluster 782011
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63344
+fig|244366.462.peg.5637!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	93.75%
+Cluster 220511
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	pyrimidine specific nucleoside hydrolase	BAH63617
+fig|244366.462.peg.4193!!!Pyrimidine-specific!ribonucleoside!hydrolase!RihA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.71%
+Cluster 572212
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	UPF0382 membrane protein SSP2132	CAY75468
+fig|244366.462.peg.1512!!!FIG00018398:!hypothetical!regulator!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.76%
+Cluster 314547
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ACI08669
+fig|244366.462.peg.4918!!!Transcriptional!regulator,!LysR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.31%
+Cluster 346389
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	transcriptional regulator, AraC family	ACA67445
+fig|244366.462.peg.2936!!!N,N'-diacetylchitobiose-specific!regulator!ChbR,!AraC!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.06%
+Cluster 662044
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACN48248
+fig|244366.462.peg.2211!!!(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione!isomerase!(EC!5.3.1.32)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.20%
+Cluster 153748
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	tyrosyl-tRNA synthetase, putative	ACR69272
+fig|244366.462.peg.4123!!!Tyrosyl-tRNA!synthetase!(EC!6.1.1.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	90.80%
+Cluster 186042
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative membrane protein	CBJ46810
+fig|244366.462.peg.3346!!!Inner!membrane!protein!YeeA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.92%
+Cluster 18794
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	ATP-dependent Clp protease ATP-binding subunit clpA	ABA48302
+fig|244366.462.peg.6036!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.79%
+Cluster 462875
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	Mammalian cell entry related domain protein	ACT08606
+fig|244366.462.peg.1574!!!Phospholipid!ABC!transporter!substrate-binding!protein!MlaD!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.41%
+Cluster 683672
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	klebicin B immunity	ABR80241
+fig|244366.462.peg.1460!!!Colicin!immunity!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.47%
+Cluster 73735
+65	AE000513	Deinococcus radiodurans R1 chromosome 1, complete sequence.	No	Deinococci	L-lactate permease, putative	AAF11456
+fig|244366.462.peg.933!!!L-lactate!permease!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.34%
+fig|244366.462.peg.2967!!!L-lactate!permease!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	79.49%
+Cluster 676482
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO90284
+fig|244366.462.peg.5804!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.46%
+Cluster 676379
+10642	CP000117	Anabaena variabilis ATCC 29413, complete genome.	No	Nostocales	Glutaredoxin, GrxC	ABA21763
+fig|244366.462.peg.926!!!Glutaredoxin!3!(Grx3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.27%
+Cluster 273451
+58	CP000230	Rhodospirillum rubrum ATCC 11170, complete genome.	No	Alphaproteobacteria	Binding-protein-dependent transport systems inner membrane component	ABC23158
+fig|244366.462.peg.2076!!!Dipeptide!ABC!transporter,!permease!protein!DppC!(TC!3.A.1.5.2)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.67%
+Cluster 434617
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	thiamine-phosphate pyrophosphorylase	AAS63273
+fig|244366.462.peg.4473!!!Thiamin-phosphate!pyrophosphorylase!(EC!2.5.1.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.67%
+Cluster 767506
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	50S ribosomal protein L36	CAO97529
+fig|244366.462.peg.111!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.91%
+Cluster 432428
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative transcriptional regulatory protein	BAH61298
+fig|244366.462.peg.5870!!!putative!transcriptional!regulatory!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	78.50%
+Cluster 132764
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	CDP-diacylglycerol-serine O-phosphatidyltransferase	BAE75186
+fig|244366.462.peg.4808!!!CDP-diacylglycerol--serine!O-phosphatidyltransferase!(EC!2.7.8.8)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.06%
+Cluster 377993
+259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Yes	Gammaproteobacteria	putative tail component of cryptic prophage CP-933P	AAK16953
+fig|244366.462.peg.1811!!!major!tail!subunit!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.54%
+Cluster 577567
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62882
+fig|244366.462.peg.4714!!!Uncharacterized!protein!YfgD,!not!an!arsenate!reductase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.59%
+Cluster 107925
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	transposase	ABX87410
+fig|244366.462.peg.5073!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.59%
+Cluster 68958
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	periplasmic trehalase	BAH64029
+fig|244366.462.peg.2758!!!Trehalase!(EC!3.2.1.28)!@!Periplasmic!trehalase!(EC!3.2.1.28)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.53%
+Cluster 105330
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	transcriptional regulator, GntR family with aminotransferase domain	ACS83844
+fig|244366.462.peg.4510!!!Transcriptional!regulator,!GntR!family!domain!/!Aspartate!aminotransferase!(EC!2.6.1.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.04%
+Cluster 123751
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	transporter, divalent anion:Na+ symporter (DASS) family	ACI10614
+fig|244366.462.peg.5293!!!anion!transporter!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.78%
+Cluster 236440
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative periplasmic binding protein/LacI transcriptional regulator	BAH63452
+fig|244366.462.peg.5827!!!Transcriptional!regulator,!LacI!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.44%
+Cluster 532816
+13126	CR628337	Legionella pneumophila str. Lens complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S7	CAH14596
+fig|244366.462.peg.1015!!!SSU!ribosomal!protein!S7p!(S5e)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.59%
+Cluster 540802
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH77658
+fig|244366.462.peg.5042!!!Holin-like!protein!CidA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.15%
+Cluster 554973
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	pantetheine-phosphate adenylyltransferase	ABF14068
+fig|244366.462.peg.905!!!Phosphopantetheine!adenylyltransferase!(EC!2.7.7.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.64%
+Cluster 451981
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	adenine-specific DNA methyltransferase	ACI10510
+fig|244366.462.peg.1831!!!MunI-like!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.29%
+Cluster 132519
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	valine--pyruvate aminotransferase	ABE09542
+fig|244366.462.peg.954!!!Valine--pyruvate!aminotransferase!(EC!2.6.1.66)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	90.19%
+Cluster 281755
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	peptide ABC transporter, permease protein	ACI07644
+fig|244366.462.peg.4386!!!ABC!transporter,!permease!protein!1!(cluster!5,!nickel/peptides/opines)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 662026
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX23850
+fig|244366.462.peg.5267!!!tRNA!5-methylaminomethyl-2-thiouridine!synthesis!sulfur!carrier!protein!TusA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.42%
+Cluster 555721
+13946	CP000548	Burkholderia mallei NCTC 10247 chromosome I, complete sequence.	Yes	Betaproteobacteria	50S ribosomal protein L28	ABO05945
+fig|244366.462.peg.902!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.51%
+Cluster 295523
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ACI10371
+fig|244366.462.peg.3262!!!Transcriptional!regulator,!LysR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.36%
+Cluster 150840
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	survival protein SurA precursor	BAE73701
+fig|244366.462.peg.3648!!!Periplasmic!chaperone!and!peptidyl-prolyl!cis-trans!isomerase!of!outer!membrane!proteins!SurA!(EC!5.2.1.8)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.79%
+Cluster 709468
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	conserved hypothetical protein	CBJ46349
+fig|244366.462.peg.4111!!!Uncharacterized!protein!YdhL!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.75%
+Cluster 232999
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative sulfonate ABC transporter, sulfonate-binding protein	ACI09846
+fig|244366.462.peg.2028!!!Alkanesulfonates-binding!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 612094
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein yacL	AAN78642
+fig|244366.462.peg.2575!!!UPF0231!protein!YacL!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	88.33%
+Cluster 136844
+15713	CR954247	Pseudoalteromonas haloplanktis str. TAC125 chromosome II, complete sequence.	No	Gammaproteobacteria	putative idonate or gluconate permease	CAI89516
+fig|244366.462.peg.1093!!!Low-affinity!gluconate/H+!symporter!GntU!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.99%
+Cluster 493192
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	zinc uptake regulation protein	ABG72212
+fig|244366.462.peg.3716!!!Zinc!uptake!regulation!protein!Zur!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.55%
+Cluster 166956
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	urea ABC transporter, permease protein UrtC	ACR02516
+fig|244366.462.peg.5607!!!Urea!ABC!transporter,!permease!protein!UrtC!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.43%
+Cluster 669507
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14524
+fig|244366.462.peg.4071!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.03%
+Cluster 431125
+29529	CP001816	Sulfurospirillum deleyianum DSM 6946, complete genome.	No	Epsilonproteobacteria	ABC transporter related protein	ACZ11516
+fig|244366.462.peg.254!!!ABC!transporter,!ATP-binding!protein!2!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.47%
+Cluster 296140
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20690
+fig|244366.462.peg.3940!!!DNA-3-methyladenine!glycosylase!II!(EC!3.2.2.21)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.73%
+Cluster 248135
+16306	CP000927	Caulobacter sp. K31, complete genome.	No	Alphaproteobacteria	alpha/beta hydrolase fold	ABZ69436
+fig|244366.462.peg.3329!!!Non-heme!chloroperoxidase!(EC!1.11.1.10)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.42%
+Cluster 117792
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	sulfate adenylyltransferase, large subunit	ACQ94138
+fig|244366.462.peg.2552!!!Sulfate!adenylyltransferase!subunit!1!(EC!2.7.7.4)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.49%
+Cluster 74375
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	DEAD/DEAH box helicase domain protein	ACS61740
+fig|244366.462.peg.3155!!!ATP-dependent!RNA!helicase!RhlE!(EC!3.6.4.13)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.63%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|244366.462.peg.5391!!!SSU!ribosomal!protein!S19p!(S15e)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.57%
+Cluster 569921
+33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Yes	Gammaproteobacteria	heat-inducible protein	CAR17831
+fig|244366.462.peg.5226!!!Heat!shock!protein!HslJ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.64%
+Cluster 443458
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	Sua5/YciO/YrdC/YwlC family protein	ACR12471
+fig|244366.462.peg.2905!!!YciO!protein,!TsaC/YrdC!paralog!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.59%
+Cluster 447231
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	stress protein	ACY23869
+fig|244366.462.peg.3759!!!Tellurium!resistance!protein!TerD!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.15%
+fig|244366.462.peg.3760!!!Tellurium!resistance!protein!TerD!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.87%
+Cluster 204923
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative ribonucleoside-diphosphate reductase beta subunit	AAS58680
+fig|244366.462.peg.1700!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!beta!subunit!(EC!1.17.4.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.70%
+Cluster 491928
+241	AE006468	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.	Yes	Gammaproteobacteria	putative integrase	AAL21649
+fig|244366.462.peg.4426!!!Integrase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.84%
+Cluster 629691
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69026
+fig|244366.462.peg.1539!!!Uncharacterized!protein!YqcC!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.47%
+Cluster 517859
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	lactoylglutathione lyase	ACP05284
+fig|244366.462.peg.1654!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.41%
+Cluster 409368
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	response regulator receiver and unknown domain protein	ACQ94150
+fig|244366.462.peg.2837!!!Fumarate!respiration!two-component!response!regulator!DcuR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.50%
+fig|244366.462.peg.4618!!!Fumarate!respiration!two-component!response!regulator!DcuR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.60%
+Cluster 156930
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	2-dehydro-3-deoxygluconokinase	ABE09487
+fig|244366.462.peg.2099!!!2-dehydro-3-deoxygluconokinase!(EC!2.7.1.45)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	83.82%
+Cluster 489216
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	phenylacetic acid degradation protein PaaY	ABQ78609
+fig|244366.462.peg.5190!!!Phenylacetic!acid!degradation!protein!PaaY!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.12%
+Cluster 503114
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	probable glutathione peroxidase	CAY74455
+fig|244366.462.peg.1438!!!Glutathione!peroxidase!(EC!1.11.1.9)!@!Thioredoxin!peroxidase!(EC!1.11.1.15)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.21%
+Cluster 43853
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	transketolase	ACY35378
+fig|244366.462.peg.1955!!!Transketolase!(EC!2.2.1.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.71%
+Cluster 335592
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF06037
+fig|244366.462.peg.1356!!!Unsaturated!fatty!acid!biosythesis!repressor!FabR,!TetR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.68%
+Cluster 599444
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15538
+fig|244366.462.peg.2213!!!Transcriptional!regulator!YqjI,!PadR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.25%
+Cluster 399494
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	YheO domain protein	ACS84207
+fig|244366.462.peg.1020!!!YheO-like!PAS!domain!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	87.50%
+Cluster 531130
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	flavodoxin	ACI10604
+fig|244366.462.peg.4881!!!Flavodoxin!1!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 437770
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	putative DNA-binding transcriptional regulator (Lrp-like)	CAR01791
+fig|244366.462.peg.139!!!DNA-binding!transcriptional!activator!DecR,!AsnC!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	88.16%
+Cluster 553182
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI08632
+fig|244366.462.peg.4531!!!Stress!response!diiron-containing!protein!YciF!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 202396
+13474	CP000115	Nitrobacter winogradskyi Nb-255, complete genome.	No	Alphaproteobacteria	chorismate synthase	ABA03896
+fig|244366.462.peg.1788!!!Chorismate!synthase!(EC!4.2.3.5)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.27%
+Cluster 357300
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	bacitracin resistance protein	BAE73532
+fig|244366.462.peg.3065!!!Undecaprenyl-diphosphatase!(EC!3.6.1.27)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	76.56%
+Cluster 248990
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	phosphotransferase family protein	ACI08419
+fig|244366.462.peg.3207!!!Homoserine!kinase!(EC!2.7.1.39)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.83%
+Cluster 42168
+16263	CP001390	Geobacter sp. FRC-32, complete genome.	No	Deltaproteobacteria	oxaloacetate decarboxylase alpha subunit	ACM18611
+fig|244366.462.peg.3621!!!Oxaloacetate!decarboxylase!Na(+)!pump,!alpha!chain!(EC!4.1.1.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.14%
+fig|244366.462.peg.1609!!!Oxaloacetate!decarboxylase!Na(+)!pump,!alpha!chain!(EC!4.1.1.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.80%
+Cluster 585141
+16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Yes	Gammaproteobacteria	phage antitermination protein Q	ABS49074
+fig|244366.462.peg.1830!!!Phage!antitermination!protein!Q!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.91%
+Cluster 544402
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	acetyltransferase, GNAT family	ACI10133
+fig|244366.462.peg.3700!!!Acetyltransferase,!GNAT!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.63%
+Cluster 414255
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	amino acid ABC transporter, permease protein	ACI08242
+fig|244366.462.peg.3280!!!ABC!transporter,!permease!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 98242
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	arginine succinyltransferase	AAX65233
+fig|244366.462.peg.2948!!!Arginine!N-succinyltransferase!(EC!2.3.1.109)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.90%
+Cluster 35718
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR75588
+fig|244366.462.peg.2572!!!Peptidylprolyl!isomerase,!FKBP-type!(EC!5.2.1.8)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.06%
+Cluster 664259
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG12565
+fig|244366.462.peg.6020!!!Cyd!operon!protein!YbgE!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.00%
+Cluster 492105
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	NUDIX hydrolase	ACX87994
+fig|244366.462.peg.2787!!!Uncharacterized!Nudix!hydrolase!NudL!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.58%
+Cluster 718358
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65442
+fig|244366.462.peg.1640!!!Uncharacterized!protein!YhdT!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	93.75%
+Cluster 672145
+31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80547
+fig|244366.462.peg.645!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 32659
+13953	CP000570	Burkholderia pseudomallei 668 chromosome I, complete sequence.	Yes	Betaproteobacteria	prephenate dehydrogenase/3-phosphoshikimate 1-carboxyvinyltransferase	ABN83250
+fig|244366.462.peg.286!!!3-phosphoshikimate!1-carboxyvinyltransferase!(EC!2.5.1.19)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.42%
+Cluster 726709
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI07586
+fig|244366.462.peg.642!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 7725
+32569	CP001275	Thermomicrobium roseum DSM 5159, complete genome.	No	Thermomicrobiales	B12-dependent ribonucleoside diphosphate reductase	ACM06017
+fig|244366.462.peg.2468!!!Ribonucleotide!reductase!of!class!II!(coenzyme!B12-dependent)!(EC!1.17.4.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.71%
+Cluster 401705
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH76545
+fig|244366.462.peg.5431!!!Monoamine!regulon!transcriptional!regulator!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.89%
+Cluster 618080
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative Trp operon repressor	AAS63878
+fig|244366.462.peg.3576!!!Transcriptional!repressor!protein!TrpR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.64%
+Cluster 695479
+31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Yes	Gammaproteobacteria	putative cytoplasmic protein	ABR80426
+fig|244366.462.peg.5078!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.92%
+Cluster 273695
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative FNT family, formate transporter (formate channel 1)	AAX64834
+fig|244366.462.peg.282!!!Formate!efflux!transporter!FocA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	93.68%
+Cluster 281439
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	tRNA pseudouridine synthase B	BAJ03258
+fig|244366.462.peg.2140!!!tRNA!pseudouridine(55)!synthase!(EC!5.4.99.25)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.74%
+Cluster 103936
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	cysteine desulfurase, SufS family	ACI09323
+fig|244366.462.peg.3306!!!Cysteine!desulfurase!(EC!2.8.1.7)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.80%
+Cluster 649577
+15763	CP000453	Alkalilimnicola ehrlichii MLHE-1, complete genome.	No	Gammaproteobacteria	SSU ribosomal protein S16P	ABI56238
+fig|244366.462.peg.4437!!!SSU!ribosomal!protein!S16p!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.63%
+Cluster 301372
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S2	ABE05693
+fig|244366.462.peg.3883!!!SSU!ribosomal!protein!S2p!(SAe)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.51%
+Cluster 30003
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	klebicin B	ABR80240
+fig|244366.462.peg.5325!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.66%
+fig|244366.462.peg.1557!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.45%
+Cluster 233862
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	putative racemase	CAR14333
+fig|244366.462.peg.545!!!Uncharacterized!protein!YgeA!of!aspartate/glutamate/hydantoin!racemase!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	79.32%
+Cluster 365243
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF03600
+fig|244366.462.peg.2795!!!Putative!manganese!efflux!pump!MntP!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.32%
+Cluster 122210
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	NAD(P) transhydrogenase, beta subunit	BAJ01669
+fig|244366.462.peg.5130!!!NAD(P)!transhydrogenase!subunit!beta!(EC!1.6.1.2)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.16%
+Cluster 206938
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR68115
+fig|244366.462.peg.1258!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	87.10%
+Cluster 621055
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	putative acylphosphatase	ABE06520
+fig|244366.462.peg.340!!!Acylphosphate!phosphohydrolase!(EC!3.6.1.7)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.67%
+Cluster 3629
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	ATP-dependent helicase	CAV18959
+fig|244366.462.peg.5186!!!ATP-dependent!helicase!HrpA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.62%
+Cluster 444386
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	putative inner membrane protein	ACF62772
+fig|244366.462.peg.1712!!!Uncharacterized!outer!membrane!protein!YfaZ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	78.89%
+Cluster 401804
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	inositol monophosphatase family protein	BAE73625
+fig|244366.462.peg.4561!!!3'(2'),5'-bisphosphate!nucleotidase!(EC!3.1.3.7)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.85%
+Cluster 330909
+20063	CP001138	Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.	Yes	Gammaproteobacteria	DNA-binding prophage protein	ACH51693
+fig|244366.462.peg.470!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	89.05%
+Cluster 554934
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAG73528
+fig|244366.462.peg.3213!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.81%
+Cluster 371030
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	ABC transporter related	ACB24247
+fig|244366.462.peg.2729!!!gamma-aminobutyric!acid!ABC!transporter,!ATP-binding!protein!2!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.76%
+Cluster 68368
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	gamma-glutamyltranspeptidase	CBJ47953
+fig|244366.462.peg.1100!!!Gamma-glutamyltranspeptidase!(EC!2.3.2.2)!@!Glutathione!hydrolase!(EC!3.4.19.13)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.53%
+Cluster 376479
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative pyrroline-5-carboxylate reductase	ACI09537
+fig|244366.462.peg.4853!!!Pyrroline-5-carboxylate!reductase!(EC!1.5.1.2)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.62%
+Cluster 556921
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	transcriptional repressor NsrR	ACF64326
+fig|244366.462.peg.4366!!!Nitrite-sensitive!transcriptional!repressor!NsrR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.54%
+Cluster 707990
+42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ADD55311
+fig|244366.462.peg.6048!!!Phage!holin/antiholin!component!S!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	88.73%
+Cluster 684128
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881
+fig|244366.462.peg.1445!!!Integration!host!factor!alpha!subunit!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.95%
+Cluster 438699
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	BAH63790
+fig|244366.462.peg.5464!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.59%
+Cluster 560321
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	protozoan/cyanobacterial globin family protein	ACI08671
+fig|244366.462.peg.5703!!!Cyanoglobin;!Hemoglobin-like!protein!HbN!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 274631
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE75288
+fig|244366.462.peg.3991!!!Protein!involved!in!stability!of!MscS!mechanosensitive!channel!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.86%
+Cluster 732283
+13145	CP000035	Shigella dysenteriae Sd197 plasmid pSD	Yes	Gammaproteobacteria	97, complete sequence.	ABB64594
+fig|244366.462.peg.5310!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.67%
+fig|244366.462.peg.5321!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.60%
+Cluster 630154
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative monothiol glutaredoxin ydhD	CBJ81617
+fig|244366.462.peg.1656!!!Monothiol!glutaredoxin!GrxD!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.74%
+Cluster 355968
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative aromatic ring-opening dioxygenase	CBJ47665
+fig|244366.462.peg.3054!!!4,5-DOPA!dioxygenase!extradiol!(EC!1.13.11.29),!but!not!physiological!substrate!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.72%
+Cluster 353621
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	NAD dependent epimerase/dehydratase family protein	ACI09675
+fig|244366.462.peg.3261!!!Short-chain!dehydrogenase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.28%
+Cluster 260158
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	malate dehydrogenase	ABE09111
+fig|244366.462.peg.1616!!!Malate!dehydrogenase!(EC!1.1.1.37)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.55%
+Cluster 297970
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	putative iron transport protein, ATP-binding component	ACP26838
+fig|244366.462.peg.1192!!!Manganese!ABC!transporter,!ATP-binding!protein!SitB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.60%
+Cluster 753988
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX23928
+fig|244366.462.peg.1042!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.00%
+Cluster 307048
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	acetylesterase	ACI07471
+fig|244366.462.peg.2757!!!Twin-arginine!translocation!pathway!signal!sequence!domain!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.67%
+Cluster 307049
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ACI08883
+fig|244366.462.peg.4088!!!Transcriptional!regulator,!LysR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 541713
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15089
+fig|244366.462.peg.3016!!!L-alanine!exporter!AlaE!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.88%
+Cluster 112569
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	putative enzyme	ABF05182
+fig|244366.462.peg.2202!!!23S!rRNA!(guanine(1835)-N(2))-methyltransferase!(EC!2.1.1.174)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.74%
+Cluster 369363
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	nitrogen fixation protein NifM	ACI11019
+fig|244366.462.peg.4882!!!Protein!nifM!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.37%
+Cluster 662778
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	cytochrome O ubiquinol oxidase subunit CyoD	AAS61029
+fig|244366.462.peg.159!!!Cytochrome!O!ubiquinol!oxidase!subunit!IV!(EC!1.10.3.-)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.64%
+Cluster 35586
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	methionyl-tRNA synthetase	ACP05309
+fig|244366.462.peg.2679!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.53%
+Cluster 479329
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	putative transposase	BAE75178
+fig|244366.462.peg.1138!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.59%
+Cluster 715382
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04136
+fig|244366.462.peg.2889!!!DsrB!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.13%
+Cluster 358860
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	ascBF operon repressor	BAH61576
+fig|244366.462.peg.3508!!!ascBF!operon!repressor!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.15%
+Cluster 46156
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	Beta-galactosidase	ACX88391
+fig|244366.462.peg.4565!!!beta-galactosidase!(EC!3.2.1.23)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	76.83%
+Cluster 103279
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24102
+fig|244366.462.peg.1568!!!Octaprenyl!diphosphate!synthase!(EC!2.5.1.90)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	91.33%
+Cluster 679638
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	B12-dependent methionine synthase	BAH62397
+fig|244366.462.peg.5976!!!B12-dependent!methionine!synthase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.00%
+fig|244366.462.peg.5977!!!B12-dependent!methionine!synthase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.59%
+Cluster 476485
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	ferritin	AAS61843
+fig|244366.462.peg.2870!!!Bacterial!non-heme!ferritin!(EC!1.16.3.2)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.67%
+Cluster 682436
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	integrase	ACF65553
+fig|244366.462.peg.464!!!FIG01046910:!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.83%
+Cluster 757748
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	ribosomal protein L36	ABQ76678
+fig|244366.462.peg.5408!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.84%
+Cluster 365588
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	UgpQ	ADD78878
+fig|244366.462.peg.1102!!!Glycerophosphoryl!diester!phosphodiesterase!(EC!3.1.4.46)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.92%
+Cluster 133411
+29527	CP001629	Desulfomicrobium baculatum DSM 4028, complete genome.	No	Deltaproteobacteria	two component, sigma54 specific, transcriptional regulator, Fis family	ACU91017
+fig|244366.462.peg.4484!!!Response!regulator!of!zinc!sigma-54-dependent!two-component!system!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.17%
+Cluster 116301
+15713	CR954246	Pseudoalteromonas haloplanktis str. TAC125 chromosome I, complete sequence.	No	Gammaproteobacteria	putative mannose-1-phosphate guanyltransferase, colanic acid synthesis	CAI87955
+fig|244366.462.peg.822!!!Mannose-1-phosphate!guanylyltransferase!(EC!2.7.7.13)!/!Mannose-6-phosphate!isomerase!(EC!5.3.1.8)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.00%
+Cluster 570363
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	nifX protein	ACI07093
+fig|244366.462.peg.4888!!!Nitrogenase!FeMo-cofactor!carrier!protein!NifX!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 216470
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	porphobilinogen deaminase	AAS63365
+fig|244366.462.peg.1914!!!Porphobilinogen!deaminase!(EC!2.5.1.61)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	78.62%
+Cluster 598874
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	acid shock protein	CBJ46480
+fig|244366.462.peg.1668!!!Acid!shock!protein!precursor!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.55%
+Cluster 612524
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	putative 6-pyruvoyl tetrahydrobiopterin synthase	CAV18990
+fig|244366.462.peg.1149!!!6-carboxy-5,6,7,8-tetrahydropterin!synthase!(EC!4.1.2.50)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.17%
+Cluster 76804
+20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Yes	Gammaproteobacteria	putative dipeptide/oligopeptide/nickel ABC-type transport system periplasmic component	ACF68919
+fig|244366.462.peg.4418!!!putative!dipeptide/oligopeptide/nickel!ABC-type!transport!system!periplasmic!component!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.98%
+Cluster 673932
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative outer membrane protein N precursor	BAH64158
+fig|244366.462.peg.2898!!!Inner!membrane!protein!YedR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.70%
+Cluster 89847
+13384	CP000482	Pelobacter propionicus DSM 2379, complete genome.	No	Deltaproteobacteria	Exodeoxyribonuclease VII large subunit	ABK97814
+fig|244366.462.peg.2551!!!Sulfate!adenylyltransferase!subunit!2!(EC!2.7.7.4)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.87%
+Cluster 90542
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	Nif-specific regulatory protein	ACI08848
+fig|244366.462.peg.4879!!!Nitrogenase!(molybdenum-iron)-specific!transcriptional!regulator!NifA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.81%
+Cluster 6960
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	FtsK	ADD76508
+fig|244366.462.peg.271!!!DNA!translocase!FtsK!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.56%
+Cluster 231576
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	UNKNOWN	BAC45442
+fig|244366.462.peg.2125!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	77.14%
+Cluster 58566
+13954	CP000125	Burkholderia pseudomallei 1710b chromosome II, complete sequence.	Yes	Betaproteobacteria	ubiquinol oxidase family protein	ABA51670
+fig|244366.462.peg.4172!!!Cytochrome!d!ubiquinol!oxidase!subunit!I!(EC!1.10.3.-)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.88%
+fig|244366.462.peg.4534!!!Cytochrome!d!ubiquinol!oxidase!subunit!I!(EC!1.10.3.-)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.18%
+Cluster 496485
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	tetracycline repressor protein class A from transposon 1721	ACI10979
+fig|244366.462.peg.3274!!!Transcriptional!regulator,!AcrR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 345475
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	amino acid ABC transporter, periplasmic amino acid-binding protein	ACI08408
+fig|244366.462.peg.1991!!!Histidine!ABC!transporter,!substrate-binding!protein!HisJ!(TC!3.A.1.3.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 340978
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	amino acid ABC transporter, periplasmic amino acid-binding protein	ACI10773
+fig|244366.462.peg.4511!!!ABC!transporter,!substrate-binding!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 73570
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63615
+fig|244366.462.peg.4195!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.95%
+Cluster 493610
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YtfH	ADD78438
+fig|244366.462.peg.4142!!!Transcriptional!regulator,!HxlR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	89.61%
+Cluster 324150
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	phosphoglycerate mutase	ABE42842
+fig|244366.462.peg.3500!!!Phosphoglycerate!mutase!(EC!5.4.2.11)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.80%
+Cluster 196423
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	nucleotide sugar dehydrogenase	ACQ94435
+fig|244366.462.peg.833!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	76.03%
+Cluster 609567
+267	AE015451	Pseudomonas putida KT2440 complete genome.	No	Gammaproteobacteria	peptidyl-tRNA hydrolase domain protein	AAN68554
+fig|244366.462.peg.3907!!!Peptidyl-tRNA!hydrolase!ArfB!(EC!3.1.1.29)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.58%
+Cluster 304078
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative cysteine synthase B	ACI07778
+fig|244366.462.peg.3311!!!Cysteine!synthase!(EC!2.5.1.47)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.34%
+Cluster 38779
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAU96156
+fig|244366.462.peg.2049!!!DNA!primase!(EC!2.7.7.-),!phage-associated!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.12%
+Cluster 495869
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	transcription termination/antitermination factor NusG	AAZ25723
+fig|244366.462.peg.4457!!!Transcription!antitermination!protein!NusG!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.82%
+Cluster 266021
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Psp operon transcriptional activator	CAO96684
+fig|244366.462.peg.2006!!!Psp!operon!transcriptional!activator!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.77%
+Cluster 370205
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	ribonuclease III	AAZ27454
+fig|244366.462.peg.4791!!!Ribonuclease!III!(EC!3.1.26.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.27%
+Cluster 387786
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	ubiquinone biosynthesis methyltransferase	CAK17706
+fig|244366.462.peg.1890!!!2-methoxy-6-polyprenyl-1,4-benzoquinol!methylase!(EC!2.1.1.201)!@!Demethylmenaquinone!methyltransferase!(EC!2.1.1.163)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.13%
+Cluster 717945
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative cytoplasmic protein	AAX64486
+fig|244366.462.peg.64!!!Uncharacterized!S4!RNA-binding-domain!protein!YbcJ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.71%
+Cluster 64677
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI06935
+fig|244366.462.peg.2031!!!Putative!PQQ!enzyme!repeat!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.33%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|244366.462.peg.5397!!!LSU!ribosomal!protein!L14p!(L23e)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.80%
+Cluster 434120
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	SeqA family protein	BAH62406
+fig|244366.462.peg.5988!!!SeqA!protein,!negative!modulator!of!initiation!of!replication!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.70%
+Cluster 265390
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Nitrogenase iron protein (Nitrogenase component II) (Nitrogenase Fe protein) (Nitrogenase reductase, Dinitrogenase reductase)	CAJ65436
+fig|244366.462.peg.4896!!!Nitrogenase!(molybdenum-iron)!reductase!and!maturation!protein!NifH!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.40%
+Cluster 446474
+28711	CP001804	Haliangium ochraceum DSM 14365, complete genome.	No	Deltaproteobacteria	ribosomal protein L5	ACY16492
+fig|244366.462.peg.5399!!!LSU!ribosomal!protein!L5p!(L11e)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.01%
+Cluster 162190
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	phage portal protein, HK97 family	ACI10369
+fig|244366.462.peg.6058!!!Phage!portal!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 282478
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative dienelactone hydrolase	BAH61095
+fig|244366.462.peg.1893!!!Dienelactone!hydrolase!family!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.15%
+Cluster 597077
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	putative plasmid SOS inhibition protein B	ABR80365
+fig|244366.462.peg.818!!!Plasmid!SOS!inhibition!protein!PsiB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.30%
+Cluster 503267
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	AroL	ADD76112
+fig|244366.462.peg.220!!!Shikimate!kinase!III!(EC!2.7.1.71)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.02%
+Cluster 404057
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE74144
+fig|244366.462.peg.5999!!!GTP!cyclohydrolase!1!type!2!homolog!YbgI!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.71%
+Cluster 757664
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	protein of unknown function UPF0057	ACX88726
+fig|244366.462.peg.5158!!!UPF0057!membrane!protein!YqaE!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	88.46%
+Cluster 576799
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	heat shock protein Hsp20	ACS61928
+fig|244366.462.peg.6073!!!molecular!chaperone!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.71%
+Cluster 148765
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	queuine/archaeosine tRNA-ribosyltransferase	BAC93510
+fig|244366.462.peg.193!!!Queuine!tRNA-ribosyltransferase!(EC!2.4.2.29)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.07%
+Cluster 605002
+31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80478
+fig|244366.462.peg.651!!!Adenine-specific!methyltransferase!(EC!2.1.1.72)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 286557
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	diadenosine tetraphosphatase	ABF06143
+fig|244366.462.peg.3724!!!NMN!phosphatase!(EC!3.1.3.5);!Class!B!acid!phosphatase!precursor!(EC!3.1.3.2)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.70%
+Cluster 711939
+16426	CP000362	Roseobacter denitrificans OCh 114, complete genome.	No	Alphaproteobacteria	ribosomal protein L33-related protein	ABG31601
+fig|244366.462.peg.903!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.09%
+Cluster 706335
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YfaE	ADD77785
+fig|244366.462.peg.1701!!!YfaE:!ferredoxin!involved!with!ribonucleotide!reductase!diferric-tyrosyl!radical!(Y*)!cofactor!maintenance!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.29%
+Cluster 51034
+310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Yes	Gammaproteobacteria	orf, conserved hypothetical protein	AAN42611
+fig|244366.462.peg.1247!!!Tyrosine-protein!kinase!(EC!2.7.10.2)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.97%
+Cluster 721325
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB62753
+fig|244366.462.peg.4741!!!Uncharacterized!protein!YfgJ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.28%
+Cluster 642063
+28329	CP000934	Cellvibrio japonicus Ueda107, complete genome.	No	Gammaproteobacteria	himD/ihfB	ACE85853
+fig|244366.462.peg.289!!!Integration!host!factor!beta!subunit!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.53%
+Cluster 539052
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABE05645
+fig|244366.462.peg.2570!!!Predicted!chaperone!lipoprotein!YacC,!potentially!involved!in!protein!secretion!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	87.39%
+Cluster 187958
+12986	CP000020	Vibrio fischeri ES114 chromosome I, complete sequence.	No	Gammaproteobacteria	hypothetical protein	AAW86858
+fig|244366.462.peg.2493!!!Outer!membrane!protein/protective!antigen!OMA87!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.50%
+Cluster 651509
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU77417
+fig|244366.462.peg.3238!!!Uncharacterized!protein!YeaC!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	77.17%
+Cluster 41748
+13908	CP000267	Rhodoferax ferrireducens T118, complete genome.	No	Betaproteobacteria	transketolase	ABD71810
+fig|244366.462.peg.4337!!!Transketolase!(EC!2.2.1.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.67%
+Cluster 545312
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative antirestriction protein	AAS58731
+fig|244366.462.peg.648!!!Antirestriction!protein!ArdA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.62%
+Cluster 144835
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|244366.462.peg.3981!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.83%
+Cluster 580467
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	PEP-dependent phosphotransferase enzyme III	ABF03671
+fig|244366.462.peg.1196!!!PTS!system,!IIA!component!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.50%
+fig|244366.462.peg.2937!!!PTS!system,!N,N'-diacetylchitobiose-specific!IIA!component!(EC!2.7.1.196)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.74%
+Cluster 227040
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	uncharacterized protein UPF0065	ABM31377
+fig|244366.462.peg.2623!!!BUG/TctC!family!periplasmic!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.90%
+Cluster 61
+12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	No	Gammaproteobacteria	Large adhesive protein	ABA71877
+fig|244366.462.peg.4525!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.52%
+Cluster 689689
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	IS1400 transposase A	CAL11218
+fig|244366.462.peg.6156!!!Transposase,!IS3/IS911!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.45%
+Cluster 549571
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable d-tyr-trnatyr deacylase protein	CAD14025
+fig|244366.462.peg.1282!!!D-aminoacyl-tRNA!deacylase!(EC!3.1.1.96)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.45%
+Cluster 408003
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12456
+fig|244366.462.peg.2320!!!UPF0056!inner!membrane!protein!YchE!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	90.70%
+Cluster 113538
+288	AE009952	Yersinia pestis KIM, complete genome.	Yes	Gammaproteobacteria	maltose high-affinity receptor	AAM83627
+fig|244366.462.peg.3706!!!Maltoporin!(maltose/maltodextrin!high-affinity!receptor,!phage!lambda!receptor!protein)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.29%
+Cluster 689575
+241	AE006468	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.	Yes	Gammaproteobacteria	ssrB-regulated factor	AAL21133
+fig|244366.462.peg.439!!!Virulence!protein!msgA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.00%
+Cluster 505021
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82119
+fig|244366.462.peg.1013!!!Translation!elongation!factor!Tu!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.50%
+fig|244366.462.peg.1956!!!Translation!elongation!factor!Tu!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.55%
+fig|244366.462.peg.2302!!!Translation!elongation!factor!Tu!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.50%
+Cluster 74948
+31137	AP011149	Acetobacter pasteurianus IFO 3283-26 DNA, complete genome.	No	Alphaproteobacteria	acetolactate synthase large subunit	BAI10728
+fig|244366.462.peg.5562!!!Benzoylformate!decarboxylase!(EC!4.1.1.7)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.60%
+Cluster 550032
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	4-hydroxyphenylacetate degradative operon repressor	CAR16087
+fig|244366.462.peg.3520!!!Homoprotocatechuate!degradative!operon!repressor!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.88%
+Cluster 774636
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACI07244
+fig|244366.462.peg.2319!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 330880
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	binding-protein-dependent transport systems inner membrane component	ACZ75570
+fig|244366.462.peg.5882!!!N-Acetyl-D-glucosamine!ABC!transport!system,!permease!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.90%
+Cluster 713960
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893
+fig|244366.462.peg.106!!!Haemolysin!expression!modulating!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 720314
+13649	AM039952	Xanthomonas campestris pv. vesicatoria complete genome.	No	Gammaproteobacteria	acyl carrier protein	CAJ22778
+fig|244366.462.peg.2426!!!Acyl!carrier!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.77%
+Cluster 106584
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	putative terminase large subunit	BAI25556
+fig|244366.462.peg.2698!!!Phage!terminase,!large!subunit!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.00%
+Cluster 642171
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	conserved hypothetical protein	ACS62067
+fig|244366.462.peg.2308!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.90%
+Cluster 238578
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	histidine-binding periplasmic protein of high-affinity histidine transport system	AAS62595
+fig|244366.462.peg.1762!!!Histidine!ABC!transporter,!substrate-binding!protein!HisJ!(TC!3.A.1.3.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.08%
+fig|244366.462.peg.1763!!!Lysine-arginine-ornithine-binding!ABC!transporter,!substrate-binding!protein!ArgT!(TC!3.A.1.3.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.15%
+Cluster 544636
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04433
+fig|244366.462.peg.1716!!!Pyrimidine!deoxynucleoside!triphosphate!(dYTP)!pyrophosphohydrolase!NudI!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.56%
+Cluster 97935
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU77246
+fig|244366.462.peg.4126!!!Di-tripeptide/H+!symporter!DtpA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	88.62%
+Cluster 382151
+10696	CP000615	Burkholderia vietnamiensis G4 chromosome 2, complete sequence.	Yes	Betaproteobacteria	Integrase, catalytic region	ABO57105
+fig|244366.462.peg.5309!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.00%
+Cluster 205429
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CatD	ADD78513
+fig|244366.462.peg.5113!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	76.74%
+Cluster 94940
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG15079
+fig|244366.462.peg.5836!!!UPF0313![4Fe-4S]!protein!YgiQ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.88%
+Cluster 687158
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG13908
+fig|244366.462.peg.2446!!!Biofilm!regulator!BssS!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.29%
+Cluster 469687
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase / 5-ca...	CAH20876
+fig|244366.462.peg.3519!!!5-carboxymethyl-2-oxo-hex-3-!ene-1,7-dioate!decarboxylase!(EC!4.1.1.68)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.33%
+Cluster 97300
+13151	CP000038	Shigella sonnei Ss046, complete genome.	Yes	Gammaproteobacteria	putative helicase	AAZ89406
+fig|244366.462.peg.40!!!DNA!helicase!(EC!3.6.4.12),!phage-associated!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.83%
+Cluster 552622
+33369	CU928144	Escherichia fergusonii str. ATCC 35469T plasmid pEFER, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAQ86955
+fig|244366.462.peg.4522!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.00%
+Cluster 782166
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR77267
+fig|244366.462.peg.4281!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.65%
+Cluster 576329
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	nickel responsive regulator	ACN47734
+fig|244366.462.peg.5286!!!Nickel!responsive!regulator!NikR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	77.44%
+Cluster 147508
+33639	CP001384	Shigella flexneri 2002017 plasmid pSFx	Yes	Gammaproteobacteria	, complete sequence.	ADA76747
+fig|244366.462.peg.1254!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.65%
+Cluster 670457
+15750	CP000301	Rhodopseudomonas palustris BisB18, complete genome.	No	Alphaproteobacteria	transposase IS3/IS911	ABD87599
+fig|244366.462.peg.4420!!!Insertion!element!IS407!(Burkholderia!multivorans)!transposase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.92%
+fig|244366.462.peg.632!!!Insertion!element!IS407!(Burkholderia!multivorans)!transposase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.07%
+Cluster 161740
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative PTS system, galactitol-specific IIC component	ACI07228
+fig|244366.462.peg.2257!!!PTS!system,!galactitol-specific!IIC!component!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 774534
+13467	CU207211	Herminiimonas arsenicoxydans chromosome, complete sequence.	No	Betaproteobacteria	Conserved hypothetical protein	CAL61548
+fig|244366.462.peg.2383!!!Cytochrome!d!ubiquinol!oxidase!subunit!X!(EC!1.10.3.-)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	89.66%
+Cluster 774535
+21	AE017282	Methylococcus capsulatus str. Bath, complete genome.	No	Gammaproteobacteria	cyd operon protein YbgT	AAU92604
+fig|244366.462.peg.6019!!!Cytochrome!d!ubiquinol!oxidase!subunit!X!(EC!1.10.3.-)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.16%
+Cluster 258694
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	endonuclease III	ABQ77294
+fig|244366.462.peg.4128!!!Endonuclease!III!(EC!4.2.99.18)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.72%
+Cluster 472205
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	tellurium resistance protein	AAS60722
+fig|244366.462.peg.3755!!!Tellurium!resistance!protein!TerD!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.16%
+Cluster 685624
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78044
+fig|244366.462.peg.112!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-independent!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	77.01%
+Cluster 85566
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Thiamine ABC transport system, inner membrane component	CAY73135
+fig|244366.462.peg.3665!!!Thiamin!ABC!transporter,!transmembrane!component!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.25%
+Cluster 520014
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	conserved uncharacterized protein, putative cytoplasmic protein	CAX54987
+fig|244366.462.peg.1785!!!Translation!elongation!factor!P!Lys34!hydroxylase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.73%
+Cluster 662878
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	transcriptional regulator, ArsR family	ACT07303
+fig|244366.462.peg.609!!!Arsenical!resistance!operon!repressor!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.30%
+Cluster 529937
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	probable FKBX-type 16KD peptidyl-prolyl cis-trans isomerase	AAS63851
+fig|244366.462.peg.3607!!!FKBP-type!peptidyl-prolyl!cis-trans!isomerase!SlpA!(EC!5.2.1.8)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.79%
+Cluster 581919
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Acid-induced glycyl radical enzyme	AAS62707
+fig|244366.462.peg.4802!!!Autonomous!glycyl!radical!cofactor!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.31%
+Cluster 746793
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	entericidin B	ABR79901
+fig|244366.462.peg.5866!!!Entericidin!B!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.24%
+Cluster 746792
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	putative entericidin A precursor	ACN48537
+fig|244366.462.peg.5867!!!Entericidin!A!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.12%
+Cluster 551905
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative membrane protein	CBJ48017
+fig|244366.462.peg.5531!!!putative!membrane!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.61%
+Cluster 443278
+17463	CP001053	Burkholderia phytofirmans PsJN chromosome 2, complete sequence.	No	Betaproteobacteria	nitrile hydratase, alpha subunit	ACD21467
+fig|244366.462.peg.5701!!!Cobalt-containing!nitrile!hydratase!subunit!alpha!(EC!4.2.1.84)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.78%
+Cluster 450899
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	NifY protein	ACI08440
+fig|244366.462.peg.4892!!!Nitrogenase!FeMo-cofactor!carrier!protein!NifX!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.64%
+Cluster 576468
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative transcriptional regulator	ACI08427
+fig|244366.462.peg.3187!!!Transcriptional!regulator,!HxlR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.35%
+Cluster 525658
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	YfbU domain protein	ACF63247
+fig|244366.462.peg.1746!!!UPF0304!protein!yfbU!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	93.29%
+Cluster 454005
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative 2-component transcriptional regulator	ABR77026
+fig|244366.462.peg.5577!!!putative!2-component!transcriptional!regulator!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.86%
+Cluster 217347
+18743	CP001828	Legionella pneumophila 2300/99 Alcoy, complete genome.	Yes	Gammaproteobacteria	GTPase - translation elongation factor	ADG23624
+fig|244366.462.peg.4455!!!Translation!elongation!factor!Tu!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.35%
+Cluster 30281
+27777	CP001793	Geobacillus sp. Y412MC10, complete genome.	No	Bacillales	transcriptional regulator, AraC family	ACX65525
+fig|244366.462.peg.4035!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.64%
+Cluster 455783
+33639	CP001383	Shigella flexneri 2002017, complete genome.	Yes	Gammaproteobacteria	IS911 orfA	ADA74228
+fig|244366.462.peg.630!!!Transposase!InsO!for!insertion!sequence!element!IS911!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.29%
+Cluster 78533
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	sensory kinase in two component regulatory system with HydG	AAX67960
+fig|244366.462.peg.4483!!!Sensor!protein!of!zinc!sigma-54-dependent!two-component!system!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.87%
+Cluster 430286
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	alkaline protease family protein	ACI11024
+fig|244366.462.peg.5292!!!Demethylmenaquinone!methyltransferase-like!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 705150
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX21343
+fig|244366.462.peg.5152!!!Putative!selenium-binding!protein!YdfZ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.69%
+Cluster 72950
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	ABC transporter ATP binding protein	CAG73360
+fig|244366.462.peg.4384!!!ABC!transporter,!ATP-binding!protein!(cluster!5,!nickel/peptides/opines)!/!ABC!transporter,!ATP-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.22%
+Cluster 139226
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	GTP-binding proten HflX	ACR14113
+fig|244366.462.peg.4373!!!Ribosome!LSU-associated!GTP-binding!protein!HflX!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.21%
+Cluster 291797
+12636	XXX	Chromohalobacter salexigens DSM 3043	No	Gammaproteobacteria	XXX	
+fig|244366.462.peg.2505!!!Uricase!(urate!oxidase)!(EC!1.7.3.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.87%
+Cluster 90792
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	histidine ammonia-lyase	ACX90246
+fig|244366.462.peg.5300!!!Histidine!ammonia-lyase!(EC!4.3.1.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	78.26%
+Cluster 669854
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	DNA-binding transcriptional activator of maltose metabolism	CAQ90658
+fig|244366.462.peg.1569!!!Sugar!fermentation!stimulation!protein!B!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	77.78%
+Cluster 543625
+16259	CP000244	Escherichia coli UTI89 plasmid pUTI89, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABE10599
+fig|244366.462.peg.6137!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	78.72%
+Cluster 267293
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH76566
+fig|244366.462.peg.2171!!!Tagatose-1,6-bisphosphate!aldolase!GatY!(EC!4.1.2.40)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	78.87%
+Cluster 708969
+16721	CP000733	Coxiella burnetii Dugway 5J108-111, complete genome.	Yes	Gammaproteobacteria	SSU ribosomal protein S21P	ABS77864
+fig|244366.462.peg.3078!!!SSU!ribosomal!protein!S21p!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.56%
+Cluster 726317
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative inner membrane protein	AAX64850
+fig|244366.462.peg.295!!!FIG002473:!Protein!YcaR!in!KDO2-Lipid!A!biosynthesis!cluster!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	85.00%
+Cluster 525409
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	putative transcriptional regulator	ABE42505
+fig|244366.462.peg.375!!!Transcriptional!regulator,!HxlR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.74%
+Cluster 501180
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Pal	ADD76355
+fig|244366.462.peg.6026!!!Tol-Pal!system!peptidoglycan-associated!lipoprotein!PAL!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.78%
+Cluster 683767
+12607	CP000607	Chlorobium phaeovibrioides DSM 265, complete genome.	No	Chlorobia	transposase IS3/IS911 family protein	ABP36659
+fig|244366.462.peg.6168!!!Transposase,!IS3/IS911!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.73%
+Cluster 84139
+16182	CP000573	Burkholderia pseudomallei 1106a chromosome II, complete sequence.	Yes	Betaproteobacteria	alcohol dehydrogenase, iron-containing	ABN94379
+fig|244366.462.peg.5537!!!NADPH-dependent!broad!range!aldehyde!dehydrogenase!YqhD!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.12%
+Cluster 412004
+13025	CP000116	Thiobacillus denitrificans ATCC 25259, complete genome.	No	Betaproteobacteria	Two component Heavy metal response Transcriptional regulator, Winged helix family	AAZ97702
+fig|244366.462.peg.4817!!!Copper-sensing!two-component!system!response!regulator!CusR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.49%
+fig|244366.462.peg.4831!!!Transcriptional!regulator!PcoR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.27%
+fig|244366.462.peg.4974!!!Copper-sensing!two-component!system!response!regulator!CusR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.76%
+Cluster 200994
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	biotin synthase	CAL17668
+fig|244366.462.peg.3462!!!Biotin!synthase!(EC!2.8.1.6)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.56%
+Cluster 59954
+19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACF91718
+fig|244366.462.peg.283!!!Ribosomal!protein!S12p!methylthiotransferase!accessory!factor!YcaO!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	91.29%
+Cluster 363520
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	putative carbonic anhydrase	CAX54615
+fig|244366.462.peg.3830!!!Carbonic!anhydrase,!beta!class!(EC!4.2.1.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.36%
+Cluster 656575
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI07118
+fig|244366.462.peg.3272!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 345916
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	probable hydroxyacylglutathione hydrolase	AAS62954
+fig|244366.462.peg.2293!!!Hydroxyacylglutathione!hydrolase!(EC!3.1.2.6)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.96%
+Cluster 2183
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	glutamate dehydrogenase (NAD)	ABK53521
+fig|244366.462.peg.2385!!!NAD-specific!glutamate!dehydrogenase!(EC!1.4.1.2),!large!form!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.59%
+Cluster 168825
+310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Yes	Gammaproteobacteria	orf, conserved hypothetical protein	AAN44538
+fig|244366.462.peg.5539!!!UPF0313![4Fe-4S]!protein!YgiQ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	92.73%
+Cluster 390287
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	short-chain dehydrogenase/reductase SDR	ACL59252
+fig|244366.462.peg.3158!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.08%
+Cluster 735876
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACI06642
+fig|244366.462.peg.4537!!!FIG00732441:!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.57%
+Cluster 346002
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	cyclase	AAW75515
+fig|244366.462.peg.5741!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.18%
+Cluster 704138
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	4-oxalocrotonate tautomerase	BAH63599
+fig|244366.462.peg.4217!!!Tautomerase!PptA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.67%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|244366.462.peg.1408!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.22%
+Cluster 664489
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	cell division activator	BAH62960
+fig|244366.462.peg.2932!!!Cell!division!activator!CedA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.18%
+Cluster 161967
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI08332
+fig|244366.462.peg.5211!!!Putative!monooxygenase!PA5393!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.52%
+Cluster 143705
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|244366.462.peg.2839!!!Murein!DD-endopeptidase!MepM!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	88.84%
+Cluster 127142
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	major facilitator family transporter	AAY95865
+fig|244366.462.peg.4644!!!Uncharacterized!MFS-type!transporter!YnfM!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.30%
+Cluster 64005
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	N-acetylmuramoyl-L-alanine amidase	ABV39536
+fig|244366.462.peg.4377!!!N-acetylmuramoyl-L-alanine!amidase!(EC!3.5.1.28)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.13%
+Cluster 44026
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	transketolase	ACB32495
+fig|244366.462.peg.2389!!!Transketolase!(EC!2.2.1.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.72%
+Cluster 43340
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ACC70650
+fig|244366.462.peg.2581!!!Dihydrolipoamide!dehydrogenase!of!pyruvate!dehydrogenase!complex!(EC!1.8.1.4)!@!Dihydrolipoamide!dehydrogenase!(EC!1.8.1.4)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.51%
+Cluster 217109
+33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Yes	Gammaproteobacteria	quinone oxidoreductase, NADPH-dependent	CAR20577
+fig|244366.462.peg.3720!!!Quinone!oxidoreductase!(EC!1.6.5.5)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.54%
+Cluster 668075
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	Hypothetical protein	ABR80367
+fig|244366.462.peg.816!!!FIG00641039:!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 325127
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	sugar fermentation stimulation protein	ACA69734
+fig|244366.462.peg.3842!!!Sugar!fermentation!stimulation!protein!SfsA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.18%
+Cluster 662937
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Conserved hypothetical protein	CAO98284
+fig|244366.462.peg.5188!!!RelE-like!translational!repressor!toxin!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.27%
+Cluster 702345
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YjbJ	ADD75425
+fig|244366.462.peg.3715!!!UPF0337!protein!YjbJ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.61%
+Cluster 398969
+33639	CP001383	Shigella flexneri 2002017, complete genome.	Yes	Gammaproteobacteria	IS2 orfB	ADA72856
+fig|244366.462.peg.1957!!!Transposase!InsD!for!insertion!element!IS2!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.12%
+Cluster 106583
+310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Yes	Gammaproteobacteria	putative terminase of prophage CP-933C	AAN42763
+fig|244366.462.peg.3826!!!Phage!terminase,!large!subunit!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.60%
+fig|244366.462.peg.2122!!!Phage!terminase,!large!subunit!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.89%
+Cluster 386223
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACT05828
+fig|244366.462.peg.2526!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.09%
+Cluster 682521
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative regulator	AAS61388
+fig|244366.462.peg.468!!!Phage!DNA!binding!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.00%
+Cluster 651012
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	tryptophan-specific transport protein	BAH61624
+fig|244366.462.peg.3555!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	88.61%
+Cluster 702342
+31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	No	Gammaproteobacteria	30S ribosomal protein S17	ACX95195
+fig|244366.462.peg.5396!!!SSU!ribosomal!protein!S17p!(S11e)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.05%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|244366.462.peg.6035!!!Translation!initiation!factor!1!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.06%
+Cluster 343653
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	ribosomal protein L1	ACG65011
+fig|244366.462.peg.4459!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	79.91%
+Cluster 716579
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI11576
+fig|244366.462.peg.585!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.77%
+Cluster 124297
+13151	CP000038	Shigella sonnei Ss046, complete genome.	Yes	Gammaproteobacteria	putative protein encoded within IS	AAZ89289
+fig|244366.462.peg.6127!!!Mobile!element!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.76%
+Cluster 735095
+17053	CP000949	Pseudomonas putida W619, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACA73134
+fig|244366.462.peg.4275!!!Uncharacterized!protein!YmdF!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.49%
+fig|244366.462.peg.4530!!!Uncharacterized!protein!YmdF!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.49%
+Cluster 137150
+19	AL591985	Sinorhizobium meliloti 1021 plasmid pSymB.	No	Alphaproteobacteria	glutamate-1-semialdehyde 2,1-aminomutase	CAC48667
+fig|244366.462.peg.3258!!!Aminotransferase,!class!III!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.86%
+Cluster 363542
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	amino acid ABC transporter, periplasmic amino acid-binding protein	ACI08049
+fig|244366.462.peg.3279!!!Lysine-arginine-ornithine-binding!ABC!transporter,!substrate-binding!protein!ArgT!(TC!3.A.1.3.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.26%
+Cluster 58940
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	selenocysteine-specific translation elongation factor	ABV39201
+fig|244366.462.peg.943!!!Selenocysteine-specific!translation!elongation!factor!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.93%
+Cluster 659920
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76309
+fig|244366.462.peg.5510!!!Phage!tail!tip,!assembly!protein!M!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.39%
+Cluster 587242
+29065	CP001085	Candidatus Riesia pediculicola USDA, complete genome.	No	Gammaproteobacteria	ribosomal protein S11	ADD79935
+fig|244366.462.peg.5410!!!SSU!ribosomal!protein!S11p!(S14e)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	79.07%
+Cluster 661199
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78094
+fig|244366.462.peg.152!!!Cell!division!protein!BolA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.90%
+Cluster 681512
+19459	CP001125	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 plasmid pCVM1963	Yes	Gammaproteobacteria	10, complete sequence.	ACF88547
+fig|244366.462.peg.1009!!!mRNA!interferase!RelE!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	93.07%
+Cluster 726414
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR77591
+fig|244366.462.peg.1434!!!Hemin!uptake!protein!HemP/HmuP!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.33%
+Cluster 664755
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YiiL	ADD77602
+fig|244366.462.peg.1308!!!L-rhamnose!mutarotase!(EC!5.1.3.32)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.04%
+Cluster 219927
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative membrane protein	ACI10581
+fig|244366.462.peg.2287!!!putative!membrane!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 678991
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24443
+fig|244366.462.peg.1510!!!Uncharacterized!lipoprotein!YgdI!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.26%
+Cluster 525163
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative cell envelope integrity inner membrane protein TolA	BAH63461
+fig|244366.462.peg.661!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.50%
+Cluster 739554
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	small toxic membrane polypeptide	ABR78496
+fig|244366.462.peg.1176!!!Hok/Gef-like!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 269876
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	AraH	ADD76994
+fig|244366.462.peg.2862!!!L-arabinose!ABC!transporter,!permease!protein!AraH!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.97%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|244366.462.peg.4458!!!LSU!ribosomal!protein!L11p!(L12e)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.27%
+Cluster 111457
+27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Yes	Gammaproteobacteria	amino acid-polyamine-organocation (APC) permease family protein	ACI39648
+fig|244366.462.peg.5365!!!L-methionine!and!branched-chain!amino!acid!export!protein!YjeH!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	82.69%
+Cluster 512338
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	outer membrane lipoprotein blc	ACR68124
+fig|244366.462.peg.4980!!!Lipocalin!Blc!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.41%
+Cluster 130070
+13953	CP000571	Burkholderia pseudomallei 668 chromosome II, complete sequence.	Yes	Betaproteobacteria	alpha/beta hydrolase family protein	ABN87571
+fig|244366.462.peg.2481!!!2-hydroxymuconic!semialdehyde!hydrolase!(EC!3.7.1.9)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.52%
+Cluster 357174
+31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80479
+fig|244366.462.peg.650!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.61%
+Cluster 516018
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|244366.462.peg.3247!!!Glutathione!peroxidase!(EC!1.11.1.9)!@!Thioredoxin!peroxidase!(EC!1.11.1.15)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.13%
+Cluster 453585
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE05950
+fig|244366.462.peg.171!!!UPF0234!protein!Yitk!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	93.87%
+Cluster 527178
+29177	CP001339	Thioalkalivibrio sp. HL-EbGR7, complete genome.	No	Gammaproteobacteria	peptide deformylase	ACL71294
+fig|244366.462.peg.5420!!!Peptide!deformylase!(EC!3.5.1.88)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.31%
+Cluster 233056
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative isomerase	ABR76217
+fig|244366.462.peg.3488!!!6-phosphogluconolactonase!(EC!3.1.1.31)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.07%
+Cluster 698850
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76584
+fig|244366.462.peg.2867!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.93%
+Cluster 63754
+204	CP000248	Novosphingobium aromaticivorans DSM 12444, complete genome.	No	Alphaproteobacteria	ABC transporter related	ABD26507
+fig|244366.462.peg.2701!!!Bis-ABC!ATPase!Uup!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.25%
+Cluster 348679
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69942
+fig|244366.462.peg.901!!!UPF0758!protein!YicR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	75.11%
+Cluster 511049
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative ATP-binding protein	ABR79320
+fig|244366.462.peg.956!!!BAX!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.40%
+Cluster 211607
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	Zinc-containing alcohol dehydrogenase superfamily	AAY37470
+fig|244366.462.peg.5802!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.91%
+Cluster 595794
+29431	CP001968	Denitrovibrio acetiphilus DSM 12809, complete genome.	No	Deferribacterales	RbsD or FucU transport	ADD68874
+fig|244366.462.peg.1515!!!L-fucose!mutarotase!(EC!5.1.3.29)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.43%
+Cluster 371401
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76401
+fig|244366.462.peg.2688!!!Hydroxyethylthiazole!kinase!(EC!2.7.1.50)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.54%
+Cluster 348116
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	Fe-S cluster assembly protein NifU	ACI07738
+fig|244366.462.peg.4887!!!Iron-sulfur!cluster!assembly!scaffold!protein!NifU!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 666509
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAV02134
+fig|244366.462.peg.5893!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.85%
+Cluster 602427
+30703	FM178379	Aliivibrio salmonicida LFI1238 chromosome 1 complete genome.	No	Gammaproteobacteria	acyl-CoA thioester hydrolase (p14 protein)	CAQ78831
+fig|244366.462.peg.2926!!!Acyl-CoA!thioesterase!YciA,!involved!in!membrane!biogenesis!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.33%
+Cluster 363562
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Conserved hypothetical protein (DUF81)	CAO96617
+fig|244366.462.peg.3083!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.56%
+Cluster 400464
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	oxidoreductase, short chain dehydrogenase/reductase family	AAY90650
+fig|244366.462.peg.3296!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.79%
+Cluster 97407
+13918	CP000459	Burkholderia cenocepacia HI2424 chromosome 2, complete sequence.	Yes	Betaproteobacteria	drug resistance transporter, EmrB/QacA subfamily	ABK11400
+fig|244366.462.peg.5791!!!Uncharacterized!MFS-type!transporter!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.78%
+Cluster 343173
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	GarL	ADD78250
+fig|244366.462.peg.2176!!!2-dehydro-3-deoxyglucarate!aldolase!(EC!4.1.2.20)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.44%
+Cluster 285701
+19	AL591688	Sinorhizobium meliloti 1021 complete chromosome.	No	Alphaproteobacteria	Probable amidase	CAC46529
+fig|244366.462.peg.5067!!!Acetamidase!(EC!3.5.1.4)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.65%
+Cluster 419223
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	FabA	ABJ00363
+fig|244366.462.peg.324!!!3-hydroxyacyl-[acyl-carrier-protein]!dehydratase,!FabA!form!(EC!4.2.1.59)!@!Trans-2-decenoyl-[acyl-carrier-protein]!isomerase!(EC!5.3.3.14)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.67%
+Cluster 477734
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR75674
+fig|244366.462.peg.3916!!!D-glycero-beta-D-manno-heptose-1,7-bisphosphate!7-phosphatase!(EC!3.1.3.82)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.56%
+Cluster 150871
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF444	ACT07063
+fig|244366.462.peg.3245!!!UPF0229!protein!YeaH!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	83.84%
+Cluster 735693
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative hok/gef cell toxic protein	BAH65700
+fig|244366.462.peg.971!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.71%
+fig|244366.462.peg.2054!!!Hok/Gef-like!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.00%
+Cluster 261679
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	XylF	ADD75207
+fig|244366.462.peg.960!!!D-xylose!ABC!transporter,!substrate-binding!protein!XylF!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.29%
+Cluster 329392
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	nitrate ABC transporter,  ATPase subunits C and D	ABM58337
+fig|244366.462.peg.2345!!!Nitrate!ABC!transporter,!ATP-binding!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.12%
+Cluster 638174
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|244366.462.peg.3711!!!Diacylglycerol!kinase!(EC!2.7.1.107)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.85%
+Cluster 455955
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	nitrile hydratase, beta subunit	ACI08036
+fig|244366.462.peg.5700!!!Cobalt-containing!nitrile!hydratase!subunit!beta!(EC!4.2.1.84)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 461976
+21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Yes	Gammaproteobacteria	partial of hypothetical orf in IS2	BAH66014
+fig|244366.462.peg.481!!!Transposase!InsD!for!insertion!element!IS2!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	85.41%
+Cluster 666606
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80378
+fig|244366.462.peg.5346!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 267702
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11918
+fig|244366.462.peg.5735!!!ATP!phosphoribosyltransferase!(EC!2.4.2.17)!=>!HisGl!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	95.32%
+Cluster 492488
+29443	CP001707	Kangiella koreensis DSM 16069, complete genome.	No	Gammaproteobacteria	ribosomal protein L21	ACV27086
+fig|244366.462.peg.1567!!!LSU!ribosomal!protein!L21p!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.11%
+Cluster 380501
+16306	CP000928	Caulobacter sp. K31 plasmid pCAUL01, complete sequence.	No	Alphaproteobacteria	2-deoxy-D-gluconate 3-dehydrogenase	ABZ74393
+fig|244366.462.peg.2929!!!2-dehydro-3-deoxy-D-gluconate!5-dehydrogenase!(EC!1.1.1.127)!@!2-deoxy-D-gluconate!3-dehydrogenase!(EC!1.1.1.125)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.66%
+Cluster 532700
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Aspartate transcarbamylase regulatory subunit PyrI	CAX54135
+fig|244366.462.peg.4019!!!Aspartate!carbamoyltransferase!regulatory!chain!(PyrI)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	81.05%
+Cluster 298919
+17707	CP001124	Geobacter bemidjiensis Bem, complete genome.	No	Deltaproteobacteria	succinyl-CoA synthetase, alpha subunit	ACH38483
+fig|244366.462.peg.6014!!!Succinyl-CoA!ligase![ADP-forming]!alpha!chain!(EC!6.2.1.5)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.82%
+Cluster 79709
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Agp	ADD76574
+fig|244366.462.peg.376!!!Glucose-1-phosphatase!(EC!3.1.3.10)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.96%
+Cluster 325743
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH64530
+fig|244366.462.peg.1856!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	88.11%
+Cluster 321621
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	Carboxymethylenebutenolidase	AAY37573
+fig|244366.462.peg.5530!!!Dienelactone!hydrolase!family!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.20%
+Cluster 482988
+31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80427
+fig|244366.462.peg.5077!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.98%
+Cluster 85700
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62104
+fig|244366.462.peg.2440!!!Protein!of!unknown!function!YceH!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.59%
+Cluster 454328
+36547	CP001593	Yersinia pestis Z176003, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ADE63221
+fig|244366.462.peg.4303!!!putative!membrane!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.75%
+Cluster 760379
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12290
+fig|244366.462.peg.2802!!!PhoP/PhoQ!regulator!MgrB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	70.21%
+Cluster 642064
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	major cold shock protein	AAW75975
+fig|244366.462.peg.2056!!!Cold!shock!protein!of!CSP!family!=>!CspA!(naming!convention!as!in!E.coli)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.00%
+Cluster 64542
+32551	AP010948	Azospirillum sp. B510 plasmid pAB510b DNA, complete genome.	No	Alphaproteobacteria	PTS system, glucose-specific IIB component	BAI75163
+fig|244366.462.peg.2419!!!PTS!system,!glucose-specific!IIC!component!/!PTS!system,!glucose-specific!IIB!component!(EC!2.7.1.199)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.68%
+Cluster 394450
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	LexA	ADD75423
+fig|244366.462.peg.3712!!!SOS-response!repressor!and!protease!LexA!(EC!3.4.21.88)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.63%
+Cluster 713540
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX21185
+fig|244366.462.peg.2010!!!Phage!shock!protein!D!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	76.39%
+Cluster 99879
+29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Yes	Lactobacillales	L-fucose isomerase	ACF55517
+fig|244366.462.peg.4108!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.18%
+Cluster 378311
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	oxidoreductase, short chain dehydrogenase/reductase family	ACI09559
+fig|244366.462.peg.3277!!!Oxidoreductase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.23%
+Cluster 446718
+31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Yes	Gammaproteobacteria	mediator of plasmid stability	ABR80474
+fig|244366.462.peg.655!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.55%
+Cluster 593953
+13151	CP000038	Shigella sonnei Ss046, complete genome.	Yes	Gammaproteobacteria	IS2 ORF1	AAZ86942
+fig|244366.462.peg.1470!!!Transposase!InsC!for!insertion!element!IS2!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.17%
+Cluster 497152
+15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Yes	Gammaproteobacteria	IS1 protein InsB	ACD09517
+fig|244366.462.peg.5491!!!IS1!protein!InsB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	91.62%
+Cluster 580965
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	NADH dehydrogenase I chain A	CAL11432
+fig|244366.462.peg.1737!!!NADH!ubiquinone!oxidoreductase!chain!A!(EC!1.6.5.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	78.08%
+Cluster 417237
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11641
+fig|244366.462.peg.1753!!!Probable!glutathione!S-transferase!(EC!2.5.1.18),!YfcF!homolog!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	78.04%
+Cluster 508533
+310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Yes	Gammaproteobacteria	hypothetical bacteriophage protein	AAN43461
+fig|244366.462.peg.59!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.73%
+Cluster 714592
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	transcriptional regulator, XRE family	ABV41054
+fig|244366.462.peg.5673!!!Uncharacterized!transcriptional!regulator!YozG,!Cro/CI!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.24%
+Cluster 661973
+302	AE006470	Chlorobium tepidum TLS, complete genome.	No	Chlorobia	CRISPR-associated protein, CT1978 family	AAM73196
+fig|244366.462.peg.5461!!!CRISPR-associated!protein!Cas2!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.32%
+Cluster 159399
+16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Yes	Gammaproteobacteria	phospholipase, patatin family	ABS49861
+fig|244366.462.peg.3563!!!Uncharacterized!protein!YjjU!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	63.59%
+Cluster 430304
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI08019
+fig|244366.462.peg.221!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.13%
+Cluster 144401
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	aminopeptidase B	BAH64649
+fig|244366.462.peg.4758!!!Peptidase!B!(EC!3.4.11.23)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.96%
+Cluster 208642
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein ycfS precursor	AAN79857
+fig|244366.462.peg.2405!!!L,D-transpeptidase!=>!YcfS!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.25%
+Cluster 158942
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	RNA-directed DNA polymerase (Reverse transcriptase)	ABR76615
+fig|244366.462.peg.2046!!!Retron-type!RNA-directed!DNA!polymerase!(EC!2.7.7.49)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+fig|244366.462.peg.2047!!!Retron-type!RNA-directed!DNA!polymerase!(EC!2.7.7.49)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	96.64%
+Cluster 656478
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	detox protein	BAH64585
+fig|244366.462.peg.4685!!!Ethanolamine!utilization!polyhedral-body-like!protein!EutN!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	97.89%
+Cluster 672938
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14100
+fig|244366.462.peg.4465!!!PTS!system,!IIA!component!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.67%
+Cluster 303848
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeiE	ADD77719
+fig|244366.462.peg.2640!!!Transcriptional!regulator!YeiE,!LysR!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	78.47%
+Cluster 326516
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Dihydrodipicolinate synthase	CAO96112
+fig|244366.462.peg.4708!!!4-hydroxy-tetrahydrodipicolinate!synthase!(EC!4.3.3.7)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	80.14%
+Cluster 648370
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative DNA-binding protein	CAL13518
+fig|244366.462.peg.466!!!Transcriptional!regulator,!Xre!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.12%
+Cluster 36881
+32551	AP010948	Azospirillum sp. B510 plasmid pAB510b DNA, complete genome.	No	Alphaproteobacteria	formate dehydrogenase, alpha subunit	BAI75108
+fig|244366.462.peg.4999!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!@!selenocysteine-containing!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.31%
+Cluster 176864
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	transporter, major facilitator family	ACI07613
+fig|244366.462.peg.3186!!!Uncharacterized!MFS-type!transporter!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.26%
+Cluster 25911
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	sulfate adenylyltransferase, large subunit	ACL56789
+fig|244366.462.peg.873!!!Sulfate-binding!protein!Sbp!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.35%
+Cluster 446033
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11187
+fig|244366.462.peg.730!!!Hexose-phosphate!uptake!two-component!transcriptional!response!regulator!UhpA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	93.91%
+Cluster 678283
+17053	CP000949	Pseudomonas putida W619, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF156	ACA75641
+fig|244366.462.peg.3407!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.92%
+Cluster 515548
+55	CP001312	Rhodobacter capsulatus SB 1003, complete genome.	No	Alphaproteobacteria	conserved hypothetical protein	ADE85252
+fig|244366.462.peg.3335!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	62.50%
+Cluster 432439
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	thiopurine S-methyltransferase family protein	ACI10746
+fig|244366.462.peg.4202!!!Methyltransferase!type!11!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.13%
+Cluster 501058
+32027	CP001340	Caulobacter crescentus NA1000, complete genome.	No	Alphaproteobacteria	NADH-quinone oxidoreductase chain I	ACL95485
+fig|244366.462.peg.2220!!!NADH-ubiquinone!oxidoreductase!chain!I!(EC!1.6.5.3)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.67%
+Cluster 114214
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative monooxygenase	AAS63755
+fig|244366.462.peg.3979!!!2-polyprenylphenol!hydroxylase!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.50%
+Cluster 425568
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	ABC transporter, ATP-binding protein	ACI08962
+fig|244366.462.peg.4223!!!ABC!transporter,!ATP-binding!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.57%
+Cluster 470661
+13151	CP000038	Shigella sonnei Ss046, complete genome.	Yes	Gammaproteobacteria	IS1 ORF	AAZ90985
+fig|244366.462.peg.5788!!!IS1!protein!InsB!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.01%
+Cluster 229142
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACZ76110
+fig|244366.462.peg.5900!!!5-methylthioribose!ABC!transporter,!substrate-binding!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.46%
+Cluster 677408
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	hypothetical bacteriophage protein	ABF03368
+fig|244366.462.peg.2121!!!Phage!terminase,!small!subunit!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.06%
+Cluster 736321
+37877	FN392237	Erwinia pyrifoliae DSM 12163 complete plasmid pEP3.	No	Gammaproteobacteria	RNA one modulator	CAY76371
+fig|244366.462.peg.1650!!!RNA!one!modulator-like!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.04%
+Cluster 162352
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	isocitrate dehydrogenase (NADP)	ABM42459
+fig|244366.462.peg.5093!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	74.76%
+Cluster 485412
+245	BA000003	Buchnera aphidicola str. APS (Acyrthosiphon pisum) genomic DNA, complete sequence.	No	Gammaproteobacteria	50S ribosomal protein L4	BAB13216
+fig|244366.462.peg.5388!!!LSU!ribosomal!protein!L4p!(L1e)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	73.13%
+Cluster 639844
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	nitrite reductase [NAD(P)H] small subunit	CAG76977
+fig|244366.462.peg.1044!!!Nitrite!reductase![NAD(P)H]!small!subunit!(EC!1.7.1.4)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.74%
+Cluster 669210
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14200
+fig|244366.462.peg.1302!!!Putative!inner!membrane!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	91.59%
+Cluster 20515
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	leucyl-tRNA synthetase	ABF13994
+fig|244366.462.peg.5953!!!Leucyl-tRNA!synthetase!(EC!6.1.1.4)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.21%
+Cluster 590332
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	transcriptional regulator, HxlR family	ACB33708
+fig|244366.462.peg.4338!!!Redox-sensing!transcriptional!regulator!QorR!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	71.54%
+Cluster 412812
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	putative plasmid SOS inhibition protein A	ABR80366
+fig|244366.462.peg.817!!!Plasmid!SOS!inhibition!protein!PsiA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.35%
+Cluster 614913
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|244366.462.peg.2057!!!Antitoxin!to!RelE-like!translational!repressor!toxin!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.75%
+Cluster 525701
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	molybdopterin biosynthesis MoaE protein	ACR01125
+fig|244366.462.peg.412!!!Molybdopterin!synthase!catalytic!subunit!MoaE!(EC!2.8.1.12)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.00%
+Cluster 588263
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65205
+fig|244366.462.peg.5841!!!Protein!ygiW!precursor!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	93.33%
+Cluster 621375
+31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80457
+fig|244366.462.peg.6147!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	87.79%
+Cluster 95501
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobyric acid synthase	CBJ79977
+fig|244366.462.peg.1488!!!Cobyric!acid!synthase!(EC!6.3.5.10)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	66.07%
+Cluster 99931
+13402	CP000629	Agrobacterium radiobacter K84 chromosome 2, complete sequence.	No	Alphaproteobacteria	amidase protein	ACM29609
+fig|244366.462.peg.5702!!!Amidase!clustered!with!urea!ABC!transporter!and!nitrile!hydratase!functions!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.48%
+Cluster 312269
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABM37724
+fig|244366.462.peg.312!!!Alkanesulfonate!ABC!transporter!permease!protein!SsuC!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.40%
+Cluster 220643
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	mandelate racemase/muconate lactonizing enzyme family protein	ACI07850
+fig|244366.462.peg.3283!!!Muconate!cycloisomerase!(EC!5.5.1.1)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.36%
+Cluster 534402
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69431
+fig|244366.462.peg.2131!!!Protein!translocase!membrane!subunit!SecG!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	90.83%
+Cluster 693455
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	cell division topological specificity factor MinE	ACS85798
+fig|244366.462.peg.2778!!!Cell!division!topological!specificity!factor!MinE!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.52%
+Cluster 368550
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741
+fig|244366.462.peg.4354!!!3-keto-L-gulonate-6-phosphate!decarboxylase!UlaD!(EC!4.1.1.85)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	94.91%
+Cluster 507023
+13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	No	Gammaproteobacteria	heat shock protein Hsp20	ABM20465
+fig|244366.462.peg.6068!!!Small!HspC2!heat!shock!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	88.89%
+Cluster 541163
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	nitrogen fixation protein NifQ	ACI11789
+fig|244366.462.peg.4877!!!Nitrogenase!FeMo-cofactor!synthesis!molybdenum!delivery!protein!NifQ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	98.83%
+Cluster 511321
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	SufE protein probably involved in Fe-S center assembly	AAS62393
+fig|244366.462.peg.1404!!!Sulfur!acceptor!protein!=>!iron-sulfur!cluster!assembly!SufE!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	68.84%
+Cluster 351220
+65	AE001825	Deinococcus radiodurans R1 chromosome 2, complete sequence.	No	Deinococci	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	AAF12475
+fig|244366.462.peg.3513!!!2,4-dihydroxyhept-2-ene-1,7-dioic!acid!aldolase!(EC!4.1.2.52)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	65.28%
+Cluster 669352
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS61209
+fig|244366.462.peg.1425!!!UPF0410!protein!YeaQ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	86.59%
+Cluster 587149
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	acetylase for 30S ribosomal subunit protein S18	BAI28698
+fig|244366.462.peg.3558!!!Ribosomal-protein-S18p-alanine!acetyltransferase!(EC!2.3.1.128)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	84.46%
+Cluster 685774
+16306	CP000927	Caulobacter sp. K31, complete genome.	No	Alphaproteobacteria	protein of unknown function DUF1272	ABZ70166
+fig|244366.462.peg.4527!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	69.33%
+Cluster 23296
+285	AE009442	Xylella fastidiosa Temecula1, complete genome.	No	Gammaproteobacteria	ATP-dependent serine proteinase La	AAO28351
+fig|244366.462.peg.148!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	64.21%
+Cluster 34780
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	Predicted surface-layer protein	EDK33143
+fig|244366.462.peg.3507!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	60.00%
+Cluster 604531
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR68071
+fig|244366.462.peg.3902!!!Uncharacterized!protein!YaeR!with!similarity!to!glyoxylase!family!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	72.09%
+Cluster 734645
+33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAR17757
+fig|244366.462.peg.1985!!!UPF0509!protein!YciZ!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	67.80%
+Cluster 327641
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative DnaJ-like heat shock protein	CAG76753
+fig|244366.462.peg.3650!!!DnaJ-like!protein!DjlA!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	61.09%
+Cluster 730290
+31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80477
+fig|244366.462.peg.652!!!hypothetical!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	100.00%
+Cluster 703025
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L35	AAX88440
+fig|244366.462.peg.1449!!!LSU!ribosomal!protein!L35p!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	78.46%
+Cluster 384010
+31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80476
+fig|244366.462.peg.653!!!Adenine-specific!methyltransferase!(EC!2.1.1.72)!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.57%
+Cluster 380582
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	transcriptional regulator, DeoR family	ACI09539
+fig|244366.462.peg.3205!!!transcriptional!regulator!of!sugar!metabolism!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.62%
+Cluster 444049
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	amino acid ABC transporter, permease protein	ACI10989
+fig|244366.462.peg.2023!!!ABC!transporter!permease!protein!!![Klebsiella!variicola!strain!AS012291!|!244366.462]	99.55%
