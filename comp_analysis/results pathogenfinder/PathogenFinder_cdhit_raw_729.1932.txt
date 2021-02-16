@@ -1,0 +1,631 @@
+Cluster 635972
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted F0F1-type ATP synthase, subunit I	AAX87540
+fig|729.1932.peg.1728!!!ATP!synthase!protein!I!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	93.94%
+Cluster 24820
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	LysC protein	AAU38310
+fig|729.1932.peg.1985!!!Aspartokinase!(EC!2.7.2.4)!/!Homoserine!dehydrogenase!(EC!1.1.1.3)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	85.03%
+Cluster 209589
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	ferrochelatase	ABI25322
+fig|729.1932.peg.975!!!Ferrochelatase,!protoheme!ferro-lyase!(EC!4.99.1.1)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.25%
+Cluster 545889
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88643
+fig|729.1932.peg.1753!!!Phage!head!completion-stabilization!protein!GpL!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	82.14%
+Cluster 568238
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	co-chaperonin GroES	ACN48531
+fig|729.1932.peg.1373!!!Heat!shock!protein!10!kDa!family!chaperone!GroES!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	84.38%
+Cluster 670876
+39	AE004439	Pasteurella multocida subsp. multocida str. Pm70, complete genome.	Yes	Gammaproteobacteria	unknown	AAK03059
+fig|729.1932.peg.1346!!!Chromosome!segregation!ATPases!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.02%
+Cluster 267446
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	cysteine synthase	ABM35882
+fig|729.1932.peg.464!!!Cysteine!synthase!(EC!2.5.1.47)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.46%
+Cluster 239888
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	permease	ABI25278
+fig|729.1932.peg.770!!!Putative!permease!PerM!(=!YfgO)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	73.28%
+Cluster 504729
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	thiol-disulfide interchange protein CcmG	BAC95213
+fig|729.1932.peg.1057!!!Cytochrome!c-type!biogenesis!protein!CcmG/DsbE,!thiol:disulfide!oxidoreductase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.88%
+Cluster 717542
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACX82526
+fig|729.1932.peg.1702!!!hypothetical!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.49%
+Cluster 315947
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical transcriptional regulator	AAX88066
+fig|729.1932.peg.933!!!Transcriptional!regulator,!AraC!family!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.89%
+Cluster 95869
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Glutathione reductase, putative	ABN44926
+fig|729.1932.peg.977!!!Glutathione!reductase!(EC!1.8.1.7)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.31%
+Cluster 659746
+29527	CP001629	Desulfomicrobium baculatum DSM 4028, complete genome.	No	Deltaproteobacteria	nitrogen regulatory protein P-II	ACU91122
+fig|729.1932.peg.647!!!Nitrogen!regulatory!protein!P-II!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.71%
+Cluster 404005
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACX81951
+fig|729.1932.peg.1932!!!3-oxoacyl-[ACP]!synthase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	68.98%
+Cluster 366587
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX88655
+fig|729.1932.peg.1250!!!Orf2!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	78.49%
+Cluster 144142
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	2,3,4,5-tetrahydropyridine-2-carboxylate N-succin	AAW75239
+fig|729.1932.peg.443!!!2,3,4,5-tetrahydropyridine-2,6-dicarboxylate!N-succinyltransferase!(EC!2.3.1.117)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.55%
+Cluster 368650
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CpxR	ADD79041
+fig|729.1932.peg.1360!!!Copper-sensing!two-component!system!response!regulator!CpxR!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	64.26%
+Cluster 426093
+30993	CP001172	Acinetobacter baumannii AB307-0294, complete genome.	Yes	Gammaproteobacteria	Elongation factor Tu (EF-Tu)	ACJ57754
+fig|729.1932.peg.368!!!Translation!elongation!factor!Tu!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	83.82%
+fig|729.1932.peg.572!!!Translation!elongation!factor!Tu!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	83.82%
+Cluster 451131
+38	AE017143	Haemophilus ducreyi strain 35000HP complete genome.	Yes	Gammaproteobacteria	NAD(P)H nitroreductase	AAP96287
+fig|729.1932.peg.1654!!!Oxygen-insensitive!NAD(P)H!nitroreductase!(EC!1.-.-.-)!/!Dihydropteridine!reductase!(EC!1.5.1.34)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.91%
+Cluster 305101
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L27	ACX83235
+fig|729.1932.peg.231!!!Uncharacterized!inner!membrane!transporter!YhbE!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	76.72%
+Cluster 492037
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PurE	ADD76220
+fig|729.1932.peg.397!!!N5-carboxyaminoimidazole!ribonucleotide!mutase!(EC!5.4.99.18)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	76.22%
+Cluster 445037
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Molybdopterin biosynthesis mog protein	CAY73103
+fig|729.1932.peg.646!!!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	70.56%
+Cluster 343280
+13370	CP000746	Actinobacillus succinogenes 130Z, complete genome.	No	Gammaproteobacteria	Patatin	ABR74730
+fig|729.1932.peg.183!!!Patatin-like!phospholipase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	63.21%
+Cluster 581086
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87970
+fig|729.1932.peg.1275!!!hypothetical!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	86.33%
+Cluster 45016
+13337	CP000142	Pelobacter carbinolicus DSM 2380, complete genome.	No	Deltaproteobacteria	outer membrane receptor for ferrienterochelin and colicins	ABA87412
+fig|729.1932.peg.466!!!hypothetical!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	65.00%
+Cluster 46000
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	TonB-dependent receptor	ACX82741
+fig|729.1932.peg.1297!!!TonB-dependent!receptor!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	72.21%
+Cluster 487772
+39	AE004439	Pasteurella multocida subsp. multocida str. Pm70, complete genome.	Yes	Gammaproteobacteria	unknown	AAK03600
+fig|729.1932.peg.276!!!16S!rRNA!(guanine(966)-N(2))-methyltransferase!(EC!2.1.1.171)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	75.26%
+Cluster 378848
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87262
+fig|729.1932.peg.813!!!Protein!HI0205!precursor!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	90.73%
+Cluster 362241
+13370	CP000746	Actinobacillus succinogenes 130Z, complete genome.	No	Gammaproteobacteria	TPR-repeat-containing protein	ABR73418
+fig|729.1932.peg.643!!!Outer!membrane!beta-barrel!assembly!protein!BamD!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.36%
+Cluster 624005
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	hit-related protein	AAC22621
+fig|729.1932.peg.884!!!YcfF/hinT!protein:!a!purine!nucleoside!phosphoramidase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	94.83%
+Cluster 386483
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	urease, gamma subunit	ACG72211
+fig|729.1932.peg.1374!!!Urease!gamma!subunit!(EC!3.5.1.5)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.00%
+Cluster 124809
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	chromosomal replication initiation protein	ACX83440
+fig|729.1932.peg.341!!!FIG140336:!TPR!domain!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.98%
+Cluster 549885
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L10	ABF14049
+fig|729.1932.peg.692!!!LSU!ribosomal!protein!L10p!(P0)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	63.80%
+Cluster 442213
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	helix-turn-helix containing protein	ACX83296
+fig|729.1932.peg.849!!!hypothetical!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	76.06%
+Cluster 153916
+39	AE004439	Pasteurella multocida subsp. multocida str. Pm70, complete genome.	Yes	Gammaproteobacteria	unknown	AAK04033
+fig|729.1932.peg.1090!!!Integrase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	95.09%
+Cluster 577661
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	HTH-type transcriptional regulator	AAX88237
+fig|729.1932.peg.2054!!!Transcriptional!regulator,!MerR!family!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.31%
+Cluster 180167
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	RsuA protein	AAU37645
+fig|729.1932.peg.452!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	75.00%
+Cluster 424559
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	putative 4'-phosphopantetheinyl transferase	AAX87212
+fig|729.1932.peg.1981!!!4'-phosphopantetheinyl!transferase!(EC!2.7.8.-)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	67.11%
+Cluster 437080
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87429
+fig|729.1932.peg.1284!!!Uncharacterized!protein!YbfG!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	79.39%
+Cluster 268746
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	MazG protein	ABI25397
+fig|729.1932.peg.1260!!!Nucleoside!triphosphate!pyrophosphohydrolase!MazG!(EC!3.6.1.8)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	67.18%
+Cluster 669430
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX88474
+fig|729.1932.peg.90!!!Protein!YcgL!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	64.77%
+Cluster 590592
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87708
+fig|729.1932.peg.588!!!Histone!acetyltransferase!HPA2!and!related!acetyltransferases!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	75.00%
+Cluster 13787
+9633	CP000082	Psychrobacter arcticus 273-4, complete genome.	No	Gammaproteobacteria	Excinuclease ABC subunit A	AAZ19533
+fig|729.1932.peg.1088!!!Excinuclease!ABC!subunit!A!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	65.96%
+Cluster 527388
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI0449	AAC22120
+fig|729.1932.peg.837!!!Uncharacterized!protein!HI_0449!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	83.52%
+Cluster 531069
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	AccB protein	AAU38396
+fig|729.1932.peg.1195!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	80.26%
+Cluster 633743
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACP05715
+fig|729.1932.peg.410!!!hypothetical!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	64.52%
+Cluster 31747
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	ribonucleoside-diphosphate reductase 1 alpha subunit	BAE74859
+fig|729.1932.peg.1460!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!alpha!subunit!(EC!1.17.4.1)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	82.14%
+Cluster 495973
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	GTP cyclohydrolase subunit MoaC	ABQ80553
+fig|729.1932.peg.327!!!Cyclic!pyranopterin!monophosphate!synthase!(EC!4.6.1.17)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.22%
+Cluster 588692
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	ribosomal-protein-alanine acetyltransferase	ACX83188
+fig|729.1932.peg.1677!!!Ribosomal-protein-S18p-alanine!acetyltransferase!(EC!2.3.1.128)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	74.07%
+Cluster 136870
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	branched-chain amino acid transport system II carrier protein	ABQ97860
+fig|729.1932.peg.1330!!!Na(+)-dependent!branched-chain!amino!acid!transporter!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	76.44%
+Cluster 245907
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	Bile acid:sodium symporter	ABN52343
+fig|729.1932.peg.335!!!Arsenical-resistance!protein!ACR3!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	65.37%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|729.1932.peg.575!!!SSU!ribosomal!protein!S12p!(S23e)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	77.42%
+Cluster 42249
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	N-acetylglucosamine and glucose PTS, EIICBA	ABJ60976
+fig|729.1932.peg.1982!!!PTS!system,!N-acetylmannosamine-specific!IIC!component!/!PTS!system,!N-acetylmannosamine-specific!IIB!component!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.56%
+Cluster 547749
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	thioredoxin-like protein	AAX88118
+fig|729.1932.peg.1135!!!deoxyribose-phosphate!aldolase(!EC:4.1.2.4!)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	69.46%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|729.1932.peg.891!!!LSU!ribosomal!protein!L34p!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	72.73%
+Cluster 302783
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	oligopeptide ABC transporter, permease protein (oppB)	AAC22777
+fig|729.1932.peg.698!!!Oligopeptide!ABC!transporter,!permease!protein!OppB!(TC!3.A.1.5.1)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	98.69%
+Cluster 677828
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	Phosphotransferase system, phosphocarrier protein HPr	ACQ92255
+fig|729.1932.peg.676!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	76.47%
+Cluster 130296
+16304	CP000738	Sinorhizobium medicae WSM419, complete genome.	No	Alphaproteobacteria	glutamine synthetase catalytic region	ABR61248
+fig|729.1932.peg.1869!!!hypothetical!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.87%
+Cluster 640379
+16082	CP000685	Flavobacterium johnsoniae UW101, complete genome.	No	Flavobacteria	urease, beta subunit	ABQ07835
+fig|729.1932.peg.1375!!!Urease!beta!subunit!(EC!3.5.1.5)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.38%
+Cluster 647844
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	50S ribosomal subunit protein L25	ABF04379
+fig|729.1932.peg.947!!!LSU!ribosomal!protein!L25p!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	63.16%
+Cluster 334957
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	RlpA-like protein	AAX87033
+fig|729.1932.peg.1529!!!Septum-associated!rare!lipoprotein!A!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	63.16%
+Cluster 233071
+38	AE017143	Haemophilus ducreyi strain 35000HP complete genome.	Yes	Gammaproteobacteria	UDP-N-acetylglucosamine-N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	AAP95721
+fig|729.1932.peg.1819!!!UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide)!pyrophosphoryl-undecaprenol!N-acetylglucosamine!transferase!(EC!2.4.1.227)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	68.86%
+Cluster 205073
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	CAI08474
+fig|729.1932.peg.745!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	65.71%
+Cluster 238337
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	iron-utilization ATP-binding protein hFbpC	AAX87162
+fig|729.1932.peg.1417!!!Ferric!iron!ABC!transporter,!ATP-binding!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.86%
+Cluster 588482
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	transport protein ExbD	AAX87311
+fig|729.1932.peg.1978!!!Biopolymer!transport!protein!ExbD/TolR!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	83.45%
+Cluster 591906
+33319	CP001672	Methylotenera mobilis JLW8, complete genome.	No	Betaproteobacteria	ribosomal protein S16	ACT48976
+fig|729.1932.peg.812!!!SSU!ribosomal!protein!S16p!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	69.14%
+Cluster 543086
+267	AE015451	Pseudomonas putida KT2440 complete genome.	No	Gammaproteobacteria	ribosomal protein L21	AAN66313
+fig|729.1932.peg.229!!!LSU!ribosomal!protein!L21p!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	70.87%
+Cluster 696852
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted copper chaperone MerP homolog	AAX88064
+fig|729.1932.peg.2026!!!Copper!chaperone!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	82.61%
+Cluster 312972
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87284
+fig|729.1932.peg.1327!!!Uncharacterized!inner!membrane!protein!RarD!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	72.85%
+Cluster 312974
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88466
+fig|729.1932.peg.784!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	65.62%
+Cluster 471111
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	ferritin	ABK37728
+fig|729.1932.peg.417!!!Bacterial!non-heme!ferritin!(EC!1.16.3.2)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	68.32%
+fig|729.1932.peg.418!!!Bacterial!non-heme!ferritin!(EC!1.16.3.2)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	64.46%
+Cluster 643302
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAC22585
+fig|729.1932.peg.926!!!Putative!DNA!methylase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	93.39%
+Cluster 709893
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	cold shock domain protein CspD	AAY93151
+fig|729.1932.peg.496!!!Cold!shock!protein!of!CSP!family!=>!CspD!(naming!convention!as!in!E.coli)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	68.12%
+Cluster 337559
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	3-oxoacyl- reductase	AAW74135
+fig|729.1932.peg.940!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	63.22%
+Cluster 119825
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CoaBC	ADD79072
+fig|729.1932.peg.906!!!Phosphopantothenoylcysteine!decarboxylase!(EC!4.1.1.36)!/!Phosphopantothenoylcysteine!synthetase!(EC!6.3.2.5)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.75%
+Cluster 651939
+339	AM747720	Burkholderia cenocepacia J2315 chromosome 1, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	CAR51250
+fig|729.1932.peg.223!!!Mannose-6-phosphate!isomerase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	70.19%
+Cluster 644110
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	integration host factor, beta subunit	ADC62576
+fig|729.1932.peg.1888!!!Integration!host!factor!beta!subunit!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.70%
+Cluster 629285
+16217	AP007255	Magnetospirillum magneticum AMB-1 DNA, complete genome.	No	Alphaproteobacteria	Translation initiation factor 1	BAE52143
+fig|729.1932.peg.964!!!Translation!initiation!factor!1!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	68.06%
+Cluster 494439
+39	AE004439	Pasteurella multocida subsp. multocida str. Pm70, complete genome.	Yes	Gammaproteobacteria	MclA	AAK03872
+fig|729.1932.peg.843!!!Sigma!factor!RpoE!negative!regulatory!protein!RseA!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	65.28%
+Cluster 771391
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX87779
+fig|729.1932.peg.1143!!!Diaminopimelate!decarboxylase!and/or!diaminopimelate!epimerase!leader!peptide!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	68.29%
+Cluster 767506
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	50S ribosomal protein L36	CAO97529
+fig|729.1932.peg.233!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	73.33%
+Cluster 246686
+38	AE017143	Haemophilus ducreyi strain 35000HP complete genome.	Yes	Gammaproteobacteria	conserved possible transposase	AAP96390
+fig|729.1932.peg.1470!!!Mobile!element!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	74.78%
+Cluster 200638
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABR00481
+fig|729.1932.peg.919!!!Cytochrome!c-type!heme!lyase!subunit!nrfF,!nitrite!reductase!complex!assembly!/!Cytochrome!c-type!heme!lyase!subunit!nrfG,!nitrite!reductase!complex!assembly!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.54%
+Cluster 561186
+13617	CP000552	Prochlorococcus marinus str. MIT 9515, complete genome.	No	Prochlorales	50S ribosomal protein L16	ABM72940
+fig|729.1932.peg.288!!!LSU!ribosomal!protein!L16p!(L10e)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.03%
+Cluster 350076
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI1427	AAC23074
+fig|729.1932.peg.407!!!ABC-type!Co2+!transport!system,!periplasmic!component!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	76.26%
+Cluster 160778
+46805	FN434113	Erwinia amylovora CFBP1430 complete genome.	No	Gammaproteobacteria	putative O-acetyltransferase SAV0974 )	CBA22810
+fig|729.1932.peg.510!!!Acyltransferase!3!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.67%
+Cluster 274679
+23	AE004969	Neisseria gonorrhoeae FA 1090, complete genome.	Yes	Betaproteobacteria	hypothetical protein	AAW90075
+fig|729.1932.peg.1166!!!ABC!transporter,!substrate-binding!protein!(cluster!10,!nitrate/sulfonate/bicarbonate)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	79.08%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|729.1932.peg.285!!!SSU!ribosomal!protein!S19p!(S15e)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	71.43%
+Cluster 443458
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	Sua5/YciO/YrdC/YwlC family protein	ACR12471
+fig|729.1932.peg.453!!!YciO!protein,!TsaC/YrdC!paralog!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.32%
+Cluster 204923
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative ribonucleoside-diphosphate reductase beta subunit	AAS58680
+fig|729.1932.peg.420!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!beta!subunit!(EC!1.17.4.1)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.23%
+Cluster 498953
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	outer membrane lipoprotein carrier protein LolA	ACX81941
+fig|729.1932.peg.1922!!!FIG027190:!Putative!transmembrane!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.89%
+Cluster 334430
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	putative esterase/lipase	AAX87249
+fig|729.1932.peg.1023!!!Esterase!ybfF!(EC!3.1.-.-)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	70.88%
+Cluster 517859
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	lactoylglutathione lyase	ACP05284
+fig|729.1932.peg.728!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	70.37%
+Cluster 377164
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAC22178
+fig|729.1932.peg.1477!!!Glycyl-radical!enzyme!activating!protein!HI_0520!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	76.34%
+Cluster 552793
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82118
+fig|729.1932.peg.514!!!Translation!elongation!factor!Tu!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	91.56%
+fig|729.1932.peg.513!!!Translation!elongation!factor!Tu!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	91.56%
+Cluster 43853
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	transketolase	ACY35378
+fig|729.1932.peg.211!!!Transketolase!(EC!2.2.1.1)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.65%
+Cluster 316420
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	rarD protein, putative	AAC22339
+fig|729.1932.peg.598!!!Uncharacterized!inner!membrane!protein!RarD!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	80.00%
+Cluster 399494
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	YheO domain protein	ACS84207
+fig|729.1932.peg.625!!!YheO-like!PAS!domain!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	70.59%
+Cluster 202396
+13474	CP000115	Nitrobacter winogradskyi Nb-255, complete genome.	No	Alphaproteobacteria	chorismate synthase	ABA03896
+fig|729.1932.peg.1027!!!Chorismate!synthase!(EC!4.2.3.5)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.06%
+Cluster 432525
+29335	CP001050	Neisseria gonorrhoeae NCCP11945, complete genome.	Yes	Betaproteobacteria	putative ABC transporter, ATP-binding protein	ACF30343
+fig|729.1932.peg.44!!!ABC!transporter,!ATP-binding!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	90.70%
+fig|729.1932.peg.1164!!!ABC!transporter,!ATP-binding!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	88.26%
+Cluster 257991
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88427
+fig|729.1932.peg.1239!!!Transcriptional!factor!MdcH!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.87%
+Cluster 461230
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted uracil-DNA glycosylase	AAX87280
+fig|729.1932.peg.1795!!!Hypothetical!protein!VC0266!(sugar!utilization!related?)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	73.06%
+Cluster 769961
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI1327	AAC22981
+fig|729.1932.peg.526!!!hypothetical!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.90%
+Cluster 301372
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S2	ABE05693
+fig|729.1932.peg.1398!!!SSU!ribosomal!protein!S2p!(SAe)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	82.50%
+Cluster 56331
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	Phosphotransferase system IIC component, glucose/maltose/N-acetylglucosamine-specific	ABP89365
+fig|729.1932.peg.1303!!!PTS!system,!maltose!and!glucose-specific!IIC!component!/!PTS!system,!maltose!and!glucose-specific!IIB!component!(EC!2.7.1.208)!/!PTS!system,!maltose!and!glucose-specific!IIA!component!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	65.88%
+Cluster 122210
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	NAD(P) transhydrogenase, beta subunit	BAJ01669
+fig|729.1932.peg.1468!!!NAD(P)!transhydrogenase!subunit!beta!(EC!1.6.1.2)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	73.86%
+Cluster 258558
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	IS1106 transposase	ABX73115
+fig|729.1932.peg.1094!!!Mobile!element!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	90.53%
+Cluster 326061
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	membrane protein (lapB)	AAC22773
+fig|729.1932.peg.702!!!Membrane!protein!LAPB!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	78.89%
+Cluster 3629
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	ATP-dependent helicase	CAV18959
+fig|729.1932.peg.1447!!!ATP-dependent!helicase!HrpA!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.39%
+Cluster 192327
+308	BA000039	Thermosynechococcus elongatus BP-1 DNA, complete genome.	No	Chroococcales	transaldolase	BAC08019
+fig|729.1932.peg.696!!!Transaldolase!(EC!2.2.1.2)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	63.09%
+Cluster 637472
+33901	CP001503	Burkholderia glumae BGR1 chromosome 1, complete sequence.	No	Betaproteobacteria	Iron-sulfur cluster assembly accessory protein	ACR27765
+fig|729.1932.peg.1107!!!Iron-sulfur!cluster!insertion!protein!ErpA!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	63.48%
+Cluster 240631
+283	AE007870	Agrobacterium tumefaciens str. C58 linear chromosome, complete sequence.	No	Alphaproteobacteria	conserved hypothetical protein	AAK89635
+fig|729.1932.peg.53!!!Protein!QmcA!(possibly!involved!in!integral!membrane!quality!control)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	63.82%
+Cluster 684128
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881
+fig|729.1932.peg.2018!!!Integration!host!factor!alpha!subunit!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.63%
+Cluster 704228
+29443	CP001707	Kangiella koreensis DSM 16069, complete genome.	No	Gammaproteobacteria	ATP synthase F0, C subunit	ACV28041
+fig|729.1932.peg.1730!!!ATP!synthase!F0!sector!subunit!c!(EC!3.6.3.14)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.71%
+Cluster 630154
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative monothiol glutaredoxin ydhD	CBJ81617
+fig|729.1932.peg.551!!!Monothiol!glutaredoxin!GrxD!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	68.52%
+Cluster 555621
+13370	CP000746	Actinobacillus succinogenes 130Z, complete genome.	No	Gammaproteobacteria	YbaK/prolyl-tRNA synthetase associated region	ABR74656
+fig|729.1932.peg.620!!!Uncharacterized!protein!YeaK!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	77.78%
+Cluster 260158
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	malate dehydrogenase	ABE09111
+fig|729.1932.peg.130!!!Malate!dehydrogenase!(EC!1.1.1.37)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	79.74%
+Cluster 187175
+15756	CP000781	Xanthobacter autotrophicus Py2, complete genome.	No	Alphaproteobacteria	GTP-binding protein YchF	ABS67847
+fig|729.1932.peg.1625!!!GTP-binding!and!nucleic!acid-binding!protein!YchF!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.61%
+Cluster 489053
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted phage P2-like baseplate assembly protein	AAX88624
+fig|729.1932.peg.1021!!!Phage!baseplate!assembly!protein!GpV!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.48%
+Cluster 35586
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	methionyl-tRNA synthetase	ACP05309
+fig|729.1932.peg.441!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	69.35%
+Cluster 216334
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	putative integral membrane protein	CAM09791
+fig|729.1932.peg.1163!!!Integral!membrane!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	74.52%
+Cluster 103279
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24102
+fig|729.1932.peg.228!!!Octaprenyl!diphosphate!synthase!(EC!2.5.1.90)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.54%
+Cluster 757748
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	ribosomal protein L36	ABQ76678
+fig|729.1932.peg.302!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	83.78%
+Cluster 216470
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	porphobilinogen deaminase	AAS63365
+fig|729.1932.peg.608!!!Porphobilinogen!deaminase!(EC!2.5.1.61)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	64.84%
+Cluster 99052
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	iron(III)-transport system permease protein FbpB 2	ACX82025
+fig|729.1932.peg.1416!!!Ferric!iron!ABC!transporter,!permease!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	83.60%
+Cluster 361689
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	urease accessory protein UreH	AAX87584
+fig|729.1932.peg.1380!!!Urease!accessory!protein!UreD!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	73.33%
+Cluster 393256
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ98399
+fig|729.1932.peg.1247!!!Serine/threonine!protein!phosphatase!(EC!3.1.3.16)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	94.80%
+Cluster 495869
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	transcription termination/antitermination factor NusG	AAZ25723
+fig|729.1932.peg.1268!!!Transcription!antitermination!protein!NusG!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	67.57%
+Cluster 573536
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative yhbH sigma 54 modulator	AAS60919
+fig|729.1932.peg.213!!!Ribosome-associated!inhibitor!A!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	68.22%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|729.1932.peg.291!!!LSU!ribosomal!protein!L14p!(L23e)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	77.24%
+Cluster 342543
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	lipooligosaccharide biosynthesis protein lex-1	ACX81839
+fig|729.1932.peg.752!!!Lipooligosaccharide!biosynthesis!protein!lex-1!(EC!2.-.-.-)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	76.95%
+Cluster 480831
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	putative NAD(P)H oxidoreductase	ABQ98436
+fig|729.1932.peg.55!!!NAD(P)H!oxidoreductase!YrkL!@!Putative!NADPH-quinone!reductase!(modulator!of!drug!activity!B)!@!Flavodoxin!2!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	76.62%
+Cluster 446474
+28711	CP001804	Haliangium ochraceum DSM 14365, complete genome.	No	Deltaproteobacteria	ribosomal protein L5	ACY16492
+fig|729.1932.peg.293!!!LSU!ribosomal!protein!L5p!(L11e)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.45%
+Cluster 462885
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABI24747
+fig|729.1932.peg.1139!!!Der!GTPase-activating!protein!YihI!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	68.65%
+Cluster 538329
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted phage-related lysozyme	AAX88640
+fig|729.1932.peg.1750!!!Phage!lysozyme!R!(EC!3.2.1.17)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	75.58%
+Cluster 730356
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88641
+fig|729.1932.peg.1751!!!Phage!holin!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	91.78%
+Cluster 148765
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	queuine/archaeosine tRNA-ribosyltransferase	BAC93510
+fig|729.1932.peg.654!!!Queuine!tRNA-ribosyltransferase!(EC!2.4.2.29)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	77.23%
+Cluster 711939
+16426	CP000362	Roseobacter denitrificans OCh 114, complete genome.	No	Alphaproteobacteria	ribosomal protein L33-related protein	ABG31601
+fig|729.1932.peg.909!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.07%
+Cluster 463830
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical transmembrane protein	AAC21887
+fig|729.1932.peg.1248!!!Inner!membrane!protein!RclC!associated!with!response!to!reactive!chlorine!species!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	79.43%
+Cluster 361085
+13370	CP000746	Actinobacillus succinogenes 130Z, complete genome.	No	Gammaproteobacteria	prolipoprotein diacylglyceryl transferase	ABR74098
+fig|729.1932.peg.1551!!!Prolipoprotein!diacylglyceryl!transferase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	64.68%
+Cluster 226696
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	ribosomal large subunit pseudouridine synthase C	AAZ26427
+fig|729.1932.peg.733!!!LSU!rRNA!pseudouridine(955/2504/2580)!synthase!(EC!5.4.99.24)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.58%
+Cluster 279994
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	unknown	AAU37593
+fig|729.1932.peg.1836!!!CRISPR-associated!protein,!Csd2/Csh2!family!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	90.97%
+Cluster 648775
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	transcriptional regulator BolA	ABI25962
+fig|729.1932.peg.1960!!!Cell!division!protein!BolA!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.17%
+Cluster 309782
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	AraC protein	AAU38712
+fig|729.1932.peg.384!!!Transcriptional!regulator,!AraC!family!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	68.29%
+Cluster 688271
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical preprotein translocase subunit YajC	AAX87301
+fig|729.1932.peg.651!!!Protein!translocase!subunit!YajC!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	96.88%
+Cluster 720316
+15763	CP000453	Alkalilimnicola ehrlichii MLHE-1, complete genome.	No	Gammaproteobacteria	acyl carrier protein	ABI56769
+fig|729.1932.peg.941!!!Acyl!carrier!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	80.26%
+Cluster 132705
+29443	CP001707	Kangiella koreensis DSM 16069, complete genome.	No	Gammaproteobacteria	tRNA modification GTPase TrmE	ACV28051
+fig|729.1932.peg.887!!!tRNA-5-carboxymethylaminomethyl-2-thiouridine(34)!synthesis!protein!MnmE!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.61%
+Cluster 741795
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	DNA translocase FtsK	AAX88431
+fig|729.1932.peg.1245!!!DNA!translocase!FtsK!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	74.24%
+Cluster 258694
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	endonuclease III	ABQ77294
+fig|729.1932.peg.483!!!Endonuclease!III!(EC!4.2.99.18)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	72.04%
+Cluster 215194
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	ATP-dependent RNA helicase SrmB	ABQ99992
+fig|729.1932.peg.1072!!!Uncharacterized!tRNA/rRNA!methyltransferase!YfiF!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.50%
+Cluster 581919
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Acid-induced glycyl radical enzyme	AAS62707
+fig|729.1932.peg.1555!!!Autonomous!glycyl!radical!cofactor!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	81.10%
+Cluster 123829
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	putative type IV pilin secretion protein	AAX87352
+fig|729.1932.peg.1546!!!Type!IV!fimbrial!assembly,!ATPase!PilB!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	76.47%
+Cluster 120643
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	tyrosine phenol-lyase	ADL02892
+fig|729.1932.peg.847!!!Tryptophanase!(EC!4.1.99.1)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	71.18%
+Cluster 349641
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	transcriptional regulator	BAC92891
+fig|729.1932.peg.268!!!Unsaturated!fatty!acid!biosythesis!repressor!FabR,!TetR!family!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	64.25%
+Cluster 546896
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABI25259
+fig|729.1932.peg.119!!!Arabinose!efflux!permease!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.90%
+Cluster 456465
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	IS1016C2 transposase	ABI24602
+fig|729.1932.peg.248!!!Mobile!element!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	85.96%
+Cluster 161827
+17985	CP001252	Shewanella baltica OS223, complete genome.	No	Gammaproteobacteria	nucleoside transporter	ACK45653
+fig|729.1932.peg.1478!!!Nucleoside!permease!NupC!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.02%
+Cluster 306028
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	DNA ligase	AAX88181
+fig|729.1932.peg.1233!!!DNA!ligase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	73.23%
+Cluster 59953
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACF63824
+fig|729.1932.peg.58!!!Ribosomal!protein!S12p!methylthiotransferase!accessory!factor!YcaO!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	68.48%
+Cluster 714486
+18267	AP009247	Candidatus Vesicomyosocius okutanii HA DNA, complete genome.	No	Gammaproteobacteria	50S ribosomal protein L28	BAF61994
+fig|729.1932.peg.908!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	74.36%
+Cluster 43340
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ACC70650
+fig|729.1932.peg.1449!!!Dihydrolipoamide!dehydrogenase!of!pyruvate!dehydrogenase!complex!(EC!1.8.1.4)!@!Dihydrolipoamide!dehydrogenase!(EC!1.8.1.4)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	63.50%
+Cluster 702342
+31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	No	Gammaproteobacteria	30S ribosomal protein S17	ACX95195
+fig|729.1932.peg.290!!!SSU!ribosomal!protein!S17p!(S11e)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	65.88%
+Cluster 343653
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	ribosomal protein L1	ACG65011
+fig|729.1932.peg.1270!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	77.73%
+Cluster 587242
+29065	CP001085	Candidatus Riesia pediculicola USDA, complete genome.	No	Gammaproteobacteria	ribosomal protein S11	ADD79935
+fig|729.1932.peg.304!!!SSU!ribosomal!protein!S11p!(S14e)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	78.29%
+Cluster 271137
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	methyltransferase	ACX87869
+fig|729.1932.peg.957!!!tRNA!ho5U(34)!carboxymethyltransferase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.93%
+Cluster 369158
+17445	CP000749	Marinomonas sp. MWYL1, complete genome.	No	Gammaproteobacteria	ABC transporter related	ABR71335
+fig|729.1932.peg.1787!!!Phospholipid!ABC!transporter!ATP-binding!protein!MlaF!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.23%
+Cluster 647174
+16064	CP000155	Hahella chejuensis KCTC 2396, complete genome.	No	Gammaproteobacteria	ribosomal protein L31	ABC32627
+fig|729.1932.peg.982!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-dependent!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	71.43%
+Cluster 36944
+17629	CP000926	Pseudomonas putida GB-1, complete genome.	No	Gammaproteobacteria	type VI secretion system Vgr family protein	ABY99126
+fig|729.1932.peg.512!!!VgrG!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.50%
+Cluster 369774
+39	AE004439	Pasteurella multocida subsp. multocida str. Pm70, complete genome.	Yes	Gammaproteobacteria	unknown	AAK02680
+fig|729.1932.peg.1259!!!Predicted!permeases!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	73.86%
+Cluster 586236
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	excinuclease ABC subunit A	ABQ97842
+fig|729.1932.peg.1350!!!excinuclease!ABC!subunit!A!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	70.83%
+Cluster 405533
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ98412
+fig|729.1932.peg.532!!!hypothetical!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.84%
+Cluster 269873
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	tellurite resistance protein (tehA)	AAC22169
+fig|729.1932.peg.1040!!!Tellurite!resistance!protein!TehA!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	68.15%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|729.1932.peg.1269!!!LSU!ribosomal!protein!L11p!(L12e)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	64.08%
+Cluster 453585
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE05950
+fig|729.1932.peg.208!!!UPF0234!protein!Yitk!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	62.58%
+Cluster 28706
+39	AE004439	Pasteurella multocida subsp. multocida str. Pm70, complete genome.	Yes	Gammaproteobacteria	unknown	AAK02825
+fig|729.1932.peg.364!!!TonB-dependent!hemin,!ferrichrome!receptor!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.11%
+Cluster 503148
+312	AE013218	Buchnera aphidicola str. Sg (Schizaphis graminum), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L6	AAM68033
+fig|729.1932.peg.296!!!LSU!ribosomal!protein!L6p!(L9e)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.58%
+Cluster 419223
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	FabA	ABJ00363
+fig|729.1932.peg.499!!!3-hydroxyacyl-[acyl-carrier-protein]!dehydratase,!FabA!form!(EC!4.2.1.59)!@!Trans-2-decenoyl-[acyl-carrier-protein]!isomerase!(EC!5.3.3.14)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	78.53%
+Cluster 477734
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR75674
+fig|729.1932.peg.684!!!D-glycero-beta-D-manno-heptose-1,7-bisphosphate!7-phosphatase!(EC!3.1.3.82)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.30%
+Cluster 449590
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACX82956
+fig|729.1932.peg.1656!!!hypothetical!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	63.81%
+Cluster 688280
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAC22875
+fig|729.1932.peg.1887!!!probable!membrane!protein!YPO2224!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	87.63%
+Cluster 550373
+15713	CR954246	Pseudoalteromonas haloplanktis str. TAC125 chromosome I, complete sequence.	No	Gammaproteobacteria	ribosome-binding factor A, role in processing of 16S rRNA	CAI86076
+fig|729.1932.peg.522!!!Ribosome-binding!factor!A!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.16%
+Cluster 44000
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|729.1932.peg.901!!!PTS!system,!N-acetylglucosamine-specific!IIC!component!/!PTS!system,!N-acetylglucosamine-specific!IIB!component!(EC!2.7.1.193)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	67.42%
+Cluster 298919
+17707	CP001124	Geobacter bemidjiensis Bem, complete genome.	No	Deltaproteobacteria	succinyl-CoA synthetase, alpha subunit	ACH38483
+fig|729.1932.peg.454!!!Succinyl-CoA!ligase![ADP-forming]!alpha!chain!(EC!6.2.1.5)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	65.05%
+Cluster 594881
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX87361
+fig|729.1932.peg.338!!!hypothetical!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	98.57%
+Cluster 390036
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	molybdenum transport protein	ABQ99486
+fig|729.1932.peg.566!!!DNA-binding!domain!of!ModE!/!Molybdate-binding!domain!of!ModE!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	74.12%
+Cluster 425540
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	heat shock protein (grpE)	AAC21750
+fig|729.1932.peg.1793!!!Heat!shock!protein!GrpE!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	81.68%
+Cluster 394450
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	LexA	ADD75423
+fig|729.1932.peg.764!!!SOS-response!repressor!and!protease!LexA!(EC!3.4.21.88)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.35%
+Cluster 687432
+252	AL157959	Neisseria meningitidis serogroup A strain Z2491 complete genome.	Yes	Betaproteobacteria	hypothetical protein NMA1329	CAM08509
+fig|729.1932.peg.1015!!!hypothetical!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.67%
+Cluster 532821
+39579	FN650140	Legionella longbeachae NSW150, complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S7	CBJ10813
+fig|729.1932.peg.574!!!SSU!ribosomal!protein!S7p!(S5e)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	72.44%
+Cluster 132507
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	AMP-binding enzyme family protein	ACX81945
+fig|729.1932.peg.1926!!!FIGfam138462:!Acyl-CoA!synthetase,!AMP-(fatty)!acid!ligase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	65.52%
+Cluster 614024
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	putative HTH-type transcriptional regulator	AAX87242
+fig|729.1932.peg.1517!!!Transcriptional!regulator!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	91.11%
+Cluster 473364
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	UDP-2,3-diacylglucosamine hydrolase	ABR00296
+fig|729.1932.peg.1503!!!Acetolactate!synthase!small!subunit!(EC!2.2.1.6)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.11%
+Cluster 460929
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	hydrogenase-4 component H	ACX83107
+fig|729.1932.peg.2064!!!Hydrogenase-4!component!H!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	92.09%
+Cluster 177536
+388	CP000947	Haemophilus somnus 2336, complete genome.	Yes	Gammaproteobacteria	efflux transporter, RND family, MFP subunit	ACA32651
+fig|729.1932.peg.1646!!!CzcABC!family!efflux!RND!transporter,!membrane!fusion!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.33%
+Cluster 561721
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	phosphoribosylformylglycinamidine synthase	ACX82637
+fig|729.1932.peg.782!!!Thiol:disulfide!oxidoreductase!associated!with!MetSO!reductase!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	60.13%
+Cluster 36880
+15750	CP000301	Rhodopseudomonas palustris BisB18, complete genome.	No	Alphaproteobacteria	formate dehydrogenase alpha subunit	ABD90100
+fig|729.1932.peg.2060!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!@!selenocysteine-containing!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	63.14%
+Cluster 65483
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	unknown	AAU37594
+fig|729.1932.peg.1837!!!CRISPR-associated!protein,!Csd1!family!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	76.86%
+Cluster 485412
+245	BA000003	Buchnera aphidicola str. APS (Acyrthosiphon pisum) genomic DNA, complete sequence.	No	Gammaproteobacteria	50S ribosomal protein L4	BAB13216
+fig|729.1932.peg.282!!!LSU!ribosomal!protein!L4p!(L1e)!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	73.50%
+Cluster 556460
+13370	CP000746	Actinobacillus succinogenes 130Z, complete genome.	No	Gammaproteobacteria	hydrogenase maturation protease	ABR74641
+fig|729.1932.peg.357!!!Hydrogenase!maturation!protease!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	74.21%
+Cluster 467634
+39	AE004439	Pasteurella multocida subsp. multocida str. Pm70, complete genome.	Yes	Gammaproteobacteria	unknown	AAK03707
+fig|729.1932.peg.1851!!!converved!hypothetical!protein!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	69.67%
+Cluster 591836
+17445	CP000749	Marinomonas sp. MWYL1, complete genome.	No	Gammaproteobacteria	GCN5-related N-acetyltransferase	ABR69899
+fig|729.1932.peg.1997!!!Acetyltransferase,!GNAT!family!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	66.15%
+Cluster 591837
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	GCN5-related N-acetyltransferase	ACS86607
+fig|729.1932.peg.1995!!!Acetyltransferase,!GNAT!family!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.36%
+Cluster 725040
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACX81686
+fig|729.1932.peg.113!!!Uncharacterized!protein!YnbE!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	63.24%
+Cluster 663765
+388	CP000947	Haemophilus somnus 2336, complete genome.	Yes	Gammaproteobacteria	SirA family protein	ACA32086
+fig|729.1932.peg.1911!!!tRNA!5-methylaminomethyl-2-thiouridine!synthesis!sulfur!carrier!protein!TusA!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	74.68%
+Cluster 630109
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	transcriptional regulatory protein	ABQ97771
+fig|729.1932.peg.473!!!Phage!repressor!protein!cI!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	100.00%
+Cluster 23296
+285	AE009442	Xylella fastidiosa Temecula1, complete genome.	No	Gammaproteobacteria	ATP-dependent serine proteinase La	AAO28351
+fig|729.1932.peg.351!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	61.49%
+Cluster 440519
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted diadenosine tetraphosphatase and related serine/threonine protein phosphatase	AAX87810
+fig|729.1932.peg.581!!!Diadenosine!tetraphosphatase!and!related!serine/threonine!protein!phosphatases!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	82.30%
+Cluster 408450
+39	AE004439	Pasteurella multocida subsp. multocida str. Pm70, complete genome.	Yes	Gammaproteobacteria	ModB	AAK03192
+fig|729.1932.peg.1900!!!Molybdenum!ABC!transporter,!substrate-binding!protein!ModA!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	77.87%
+Cluster 703025
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L35	AAX88440
+fig|729.1932.peg.475!!!LSU!ribosomal!protein!L35p!!![Haemophilus!parainfluenzae!strain!COPD-014-E1!O!|!729.1932]	100.00%

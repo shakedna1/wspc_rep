@@ -1,0 +1,936 @@
+Cluster 162432
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	prophage CP4-57-like integrase	AAX88294
+fig|727.2505.peg.1268!!!Phage!integrase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.80%
+Cluster 465893
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	ferritin-like protein	BAC92839
+fig|727.2505.peg.1539!!!Bacterial!non-heme!ferritin!(EC!1.16.3.2)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.21%
+Cluster 24820
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	LysC protein	AAU38310
+fig|727.2505.peg.1442!!!Aspartokinase!(EC!2.7.2.4)!/!Homoserine!dehydrogenase!(EC!1.1.1.3)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	83.80%
+Cluster 524512
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABR00755
+fig|727.2505.peg.1318!!!FOG:!TPR!repeat,!SEL1!subfamily!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.33%
+Cluster 691790
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	outer membrane lipoprotein LolB precursor	ABR00784
+fig|727.2505.peg.1295!!!FIG024746:!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.44%
+Cluster 209589
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	ferrochelatase	ABI25322
+fig|727.2505.peg.75!!!Ferrochelatase,!protoheme!ferro-lyase!(EC!4.99.1.1)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	68.73%
+Cluster 392564
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	putative heme iron utilization protein	AAX87900
+fig|727.2505.peg.357!!!Putative!heme!iron!utilization!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.60%
+Cluster 568238
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	co-chaperonin GroES	ACN48531
+fig|727.2505.peg.1027!!!Heat!shock!protein!10!kDa!family!chaperone!GroES!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	84.38%
+Cluster 150056
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	probable N-acetylmuramoyl-L-alanine amidase AmiB precursor	AAX87069
+fig|727.2505.peg.1418!!!N-acetylmuramoyl-L-alanine!amidase!(EC!3.5.1.28)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.54%
+Cluster 635974
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI0485.1	AAC22145
+fig|727.2505.peg.1078!!!ATP!synthase!protein!I!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 670876
+39	AE004439	Pasteurella multocida subsp. multocida str. Pm70, complete genome.	Yes	Gammaproteobacteria	unknown	AAK03059
+fig|727.2505.peg.937!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	60.00%
+Cluster 267446
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	cysteine synthase	ABM35882
+fig|727.2505.peg.131!!!Cysteine!synthase!(EC!2.5.1.47)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	67.09%
+Cluster 239888
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	permease	ABI25278
+fig|727.2505.peg.820!!!Putative!permease!PerM!(=!YfgO)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	70.77%
+Cluster 463321
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical cytochrome c-type biogenesis protein	AAX88468
+fig|727.2505.peg.1477!!!Cytochrome!c-type!biogenesis!protein!CcdA!homolog,!associated!with!MetSO!reductase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 713439
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	predicted phage anti-repressor protein	ABQ98329
+fig|727.2505.peg.1512!!!Phage!antirepressor!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.80%
+Cluster 517015
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted integral membrane protein	AAX88052
+fig|727.2505.peg.195!!!Cell!division!integral!membrane!protein,!YggT!and!half-length!relatives!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.90%
+Cluster 309120
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	diadenosine tetraphosphatase	ABQ97543
+fig|727.2505.peg.1017!!!Lipooligosaccharide!biosynthesis!protein!lex-1!(EC!2.-.-.-)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.77%
+Cluster 400560
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	L-fucose isomerase	ABR00274
+fig|727.2505.peg.749!!!L-fucose!operon!activator!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 624299
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	phosphate-starvation-inducible protein PsiE	ABQ97867
+fig|727.2505.peg.763!!!Protein!psiE!homolog!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.56%
+fig|727.2505.peg.764!!!PsiE!protein!homolog!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	85.23%
+Cluster 315948
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	transcriptional regulator AraC family protein	ABQ98699
+fig|727.2505.peg.178!!!Transcriptional!regulator,!AraC!family!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 550081
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	B12-dependent methionine synthase	ABR00578
+fig|727.2505.peg.187!!!Ferredoxin-type!protein!NapF!(periplasmic!nitrate!reductase)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 688278
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted membrane protein	AAX88698
+fig|727.2505.peg.1668!!!probable!membrane!protein!YPO2224!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 366588
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ98227
+fig|727.2505.peg.1621!!!SAM-dependent!methyltransferase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.88%
+Cluster 144142
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	2,3,4,5-tetrahydropyridine-2-carboxylate N-succin	AAW75239
+fig|727.2505.peg.1327!!!2,3,4,5-tetrahydropyridine-2,6-dicarboxylate!N-succinyltransferase!(EC!2.3.1.117)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	62.55%
+Cluster 451132
+50	CP000513	Dichelobacter nodosus VCS1703A, complete genome.	Yes	Gammaproteobacteria	nitroreductase family protein	ABQ13727
+fig|727.2505.peg.1616!!!Oxygen-insensitive!NAD(P)H!nitroreductase!(EC!1.-.-.-)!/!Dihydropteridine!reductase!(EC!1.5.1.34)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.36%
+Cluster 492037
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PurE	ADD76220
+fig|727.2505.peg.1309!!!N5-carboxyaminoimidazole!ribonucleotide!mutase!(EC!5.4.99.18)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	74.39%
+Cluster 445037
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Molybdopterin biosynthesis mog protein	CAY73103
+fig|727.2505.peg.959!!!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	71.57%
+Cluster 648656
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88410
+fig|727.2505.peg.976!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	96.61%
+Cluster 303615
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAC22534
+fig|727.2505.peg.341!!!Uncharacterized!inner!membrane!transporter!YhbE!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.71%
+Cluster 581086
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87970
+fig|727.2505.peg.287!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 447669
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99275
+fig|727.2505.peg.1245!!!Putative!DNA-binding!protein!Roi!of!bacteriophage!BP-933W!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.30%
+fig|727.2505.peg.1520!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.75%
+Cluster 119793
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	apo-citrate lyase phosphoribosyl-dephospho-CoA transferase/2-(5-triphosphoribosyl)-3-dephosphocoenzyme- A synthase	ACX82252
+fig|727.2505.peg.1371!!!Citrate!lyase!holo-[acyl-carrier-protein]!synthase!(EC!2.7.7.61)!/!Triphosphoribosyl-dephospho-CoA!synthase!(EC!2.4.2.52)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	73.76%
+Cluster 277915
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted ABC-type transport system, permease component	AAX88672
+fig|727.2505.peg.1643!!!putative!membrane!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.45%
+Cluster 54552
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical transmembrane protein	AAC21819
+fig|727.2505.peg.1759!!!TRAP-type!transport!system,!small!permease!component,!predicted!N-acetylneuraminate!transporter!/!TRAP-type!transport!system,!large!permease!component,!predicted!N-acetylneuraminate!transporter!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.03%
+Cluster 658182
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87176
+fig|727.2505.peg.1462!!!Chain!length!determinant!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.12%
+Cluster 487772
+39	AE004439	Pasteurella multocida subsp. multocida str. Pm70, complete genome.	Yes	Gammaproteobacteria	unknown	AAK03600
+fig|727.2505.peg.440!!!16S!rRNA!(guanine(966)-N(2))-methyltransferase!(EC!2.1.1.171)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	75.65%
+Cluster 454389
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	putative prophage repressor CI	ABQ98319
+fig|727.2505.peg.1517!!!Phage!repressor!protein!cI!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.71%
+Cluster 438857
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI0940	AAC22604
+fig|727.2505.peg.278!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	96.92%
+Cluster 378848
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87262
+fig|727.2505.peg.1700!!!Protein!HI0205!precursor!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.61%
+Cluster 643843
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ97894
+fig|727.2505.peg.1692!!!Inner!membrane!protein!YbaN!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 56501
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	transferrin-binding protein 2 precursor (tbp2)	AAC22657
+fig|727.2505.peg.225!!!Outer!membrane!receptor!for!lactoferrin!or!transferrin,!lipoprotein!B!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	63.45%
+Cluster 327621
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87515
+fig|727.2505.peg.1103!!!Membrane!protein!LAPB!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	96.91%
+Cluster 527691
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	nuclease, putative	AAC22942
+fig|727.2505.peg.1599!!!Micrococcal!nuclease!(thermonuclease)!homologs!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	93.63%
+Cluster 656393
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99937
+fig|727.2505.peg.1254!!!FIG00697486:!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	88.50%
+Cluster 326979
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	lic-1 operon protein	ABQ99144
+fig|727.2505.peg.1178!!!Choline!permease!LicB!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.66%
+Cluster 594882
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	Single-strand binding protein	AAX88303
+fig|727.2505.peg.1260!!!Single-stranded!DNA-binding!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.61%
+Cluster 782341
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	cytidylate kinase	ABQ98543
+fig|727.2505.peg.7!!!Cytidylate!kinase!(EC!2.7.4.25)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 212799
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20769
+fig|727.2505.peg.1803!!!Glycerol!uptake!facilitator!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	67.42%
+Cluster 290093
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	potassium-tellurite ethidium and proflavin transporter	ABR00074
+fig|727.2505.peg.1057!!!Tellurite!resistance!protein!TehA!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.36%
+Cluster 380358
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	8-amino-7-oxononanoate synthase	ABQ99162
+fig|727.2505.peg.1191!!!Malonyl-[acyl-carrier!protein]!O-methyltransferase!(EC!2.1.1.197)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.69%
+Cluster 121911
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	type I restriction/modification specificity protein	ABQ98240
+fig|727.2505.peg.1608!!!Type!I!restriction-modification!system,!specificity!subunit!S!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	68.79%
+Cluster 738028
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	putative cro repressor	ABQ98318
+fig|727.2505.peg.1518!!!Cro!repressor-like!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.53%
+Cluster 386483
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	urease, gamma subunit	ACG72211
+fig|727.2505.peg.1028!!!Urease!gamma!subunit!(EC!3.5.1.5)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	62.00%
+Cluster 401297
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	YheO domain protein	ACX89743
+fig|727.2505.peg.534!!!YheO-like!PAS!domain!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	69.68%
+Cluster 366447
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	Lgt protein	AAU37013
+fig|727.2505.peg.315!!!Prolipoprotein!diacylglyceryl!transferase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	69.78%
+Cluster 100544
+15771	CP000360	Candidatus Koribacter versatilis Ellin345, complete genome.	No	Candidatus Koribacter	fumarase	ABF41743
+fig|727.2505.peg.1775!!!Fumarate!hydratase!class!I,!aerobic!(EC!4.2.1.2)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	76.19%
+Cluster 488496
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI1415	AAC23066
+fig|727.2505.peg.1234!!!Lytic!enzyme!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	94.50%
+Cluster 296762
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	D-xylose transport permease protein	ABR00649
+fig|727.2505.peg.115!!!Membrane!protein!LAPB!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.66%
+Cluster 549885
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L10	ABF14049
+fig|727.2505.peg.664!!!LSU!ribosomal!protein!L10p!(P0)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	63.80%
+Cluster 410049
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI0825	AAC22498
+fig|727.2505.peg.386!!!Membrane!protein!involved!in!the!export!of!O-antigen!and!teichoic!acid!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 24658
+46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Yes	Gammaproteobacteria	heme utilization protein HumA	ADG61571
+fig|727.2505.peg.1840!!!Outer!membrane!receptor!proteins,!mostly!Fe!transport!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.44%
+fig|727.2505.peg.713!!!Outer!membrane!receptor!proteins,!mostly!Fe!transport!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.01%
+Cluster 157736
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99946
+fig|727.2505.peg.1264!!!DNA-cytosine!methyltransferase!(EC!2.1.1.37)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	66.58%
+Cluster 470960
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical lipoprotein	AAX87315
+fig|727.2505.peg.883!!!Outer!membrane!beta-barrel!assembly!protein!BamC!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.04%
+Cluster 249042
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	H+/gluconate symporter	ABO88804
+fig|727.2505.peg.1445!!!D-glycerate!transporter!(predicted)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	73.58%
+Cluster 16634
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L34	ABQ98728
+fig|727.2505.peg.226!!!Outer!membrane!receptor!for!lactoferrin!or!transferrin,!TonB-dependent!protein!A!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	95.49%
+Cluster 776904
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	transposase	ABQ98233
+fig|727.2505.peg.1613!!!Putative!transposase!InsK!for!insertion!sequence!element!IS150!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 269367
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	cell division protein ZipA	ABR00633
+fig|727.2505.peg.133!!!Cell!division!protein!ZipA!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.39%
+Cluster 577661
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	HTH-type transcriptional regulator	AAX88237
+fig|727.2505.peg.1317!!!Transcriptional!regulator,!MerR!family!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.52%
+Cluster 74572
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	heme/hemopexin-binding protein B	AAX87322
+fig|727.2505.peg.890!!!Hemolysin!activation/secretion!protein!associated!with!VreARI!signalling!system!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	96.81%
+Cluster 180167
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	RsuA protein	AAU37645
+fig|727.2505.peg.31!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	74.51%
+Cluster 11409
+10700	BX908798	Parachlamydia-related symbiont UWE25, complete genome.	Yes	Chlamydiales	probable glycyl-tRNA synthetase	CAF23417
+fig|727.2505.peg.291!!!Glycyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.14)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	60.26%
+Cluster 756412
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ98322
+fig|727.2505.peg.1249!!!UPF0339!protein!YegP.N!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	91.07%
+fig|727.2505.peg.1514!!!UPF0339!protein!YegP.N!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 437085
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	acylneuraminate cytidylyltransferase (neuA)	AAC22927
+fig|727.2505.peg.1615!!!N-acylneuraminate!cytidylyltransferase!(EC!2.7.7.43)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.55%
+Cluster 437080
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87429
+fig|727.2505.peg.693!!!Uncharacterized!protein!YbfG!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.56%
+Cluster 268746
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	MazG protein	ABI25397
+fig|727.2505.peg.1104!!!Nucleoside!triphosphate!pyrophosphohydrolase!MazG!(EC!3.6.1.8)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	65.40%
+Cluster 522898
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	RNA polymerase sigma-70 factor	ABQ99328
+fig|727.2505.peg.1473!!!RNA!polymerase!ECF-type!sigma!factor!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 755312
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88465
+fig|727.2505.peg.1474!!!FIG00697159:!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 590592
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87708
+fig|727.2505.peg.1808!!!Histone!acetyltransferase!HPA2!and!related!acetyltransferases!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 13787
+9633	CP000082	Psychrobacter arcticus 273-4, complete genome.	No	Gammaproteobacteria	Excinuclease ABC subunit A	AAZ19533
+fig|727.2505.peg.876!!!Excinuclease!ABC!subunit!A!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	66.17%
+Cluster 16636
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	heme utilization protein	AAX88215
+fig|727.2505.peg.10!!!TonB-dependent!receptor!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	90.24%
+Cluster 531069
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	AccB protein	AAU38396
+fig|727.2505.peg.247!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	77.42%
+Cluster 633743
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACP05715
+fig|727.2505.peg.1509!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	76.67%
+Cluster 589726
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99153
+fig|727.2505.peg.1200!!!Predicted!membrane!protein/domain!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.32%
+Cluster 31747
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	ribonucleoside-diphosphate reductase 1 alpha subunit	BAE74859
+fig|727.2505.peg.1008!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!alpha!subunit!(EC!1.17.4.1)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	81.83%
+Cluster 3357
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	adhesion and penetration protein Hap	AAX87307
+fig|727.2505.peg.875!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	83.67%
+Cluster 57218
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical acyltransferase	AAX87447
+fig|727.2505.peg.1170!!!O-antigen!acetylase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.72%
+fig|727.2505.peg.711!!!O-antigen!acetylase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	74.81%
+Cluster 495973
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	GTP cyclohydrolase subunit MoaC	ABQ80553
+fig|727.2505.peg.727!!!Cyclic!pyranopterin!monophosphate!synthase!(EC!4.6.1.17)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	66.25%
+Cluster 494944
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88320
+fig|727.2505.peg.1242!!!FIG00696369:!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.45%
+Cluster 710245
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX87084
+fig|727.2505.peg.1435!!!FIG00696100:!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.65%
+Cluster 691242
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	cold shock domain protein CspD	ACR13966
+fig|727.2505.peg.1498!!!Cold!shock!protein!of!CSP!family!=>!CspD!(naming!convention!as!in!E.coli)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	62.50%
+Cluster 496871
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted primosomal replication protein N	AAX87384
+fig|727.2505.peg.950!!!Primosomal!replication!protein!N!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 588692
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	ribosomal-protein-alanine acetyltransferase	ACX83188
+fig|727.2505.peg.1360!!!Ribosomal-protein-S18p-alanine!acetyltransferase!(EC!2.3.1.128)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	72.60%
+Cluster 248716
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99935
+fig|727.2505.peg.1253!!!putative!antirepressor!protein!Ant!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	88.27%
+Cluster 8815
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	hemoglobin-binding protein	AAC22369
+fig|727.2505.peg.1835!!!Outer!membrane!receptor!proteins,!mostly!Fe!transport!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	87.56%
+Cluster 428467
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99140
+fig|727.2505.peg.1203!!!Phage!virion!morphogenesis!protein!Mup30,!F!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.28%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|727.2505.peg.541!!!SSU!ribosomal!protein!S12p!(S23e)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	77.42%
+Cluster 547749
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	thioredoxin-like protein	AAX88118
+fig|727.2505.peg.119!!!Thiol-disulfide!isomerase!and!thioredoxins!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|727.2505.peg.223!!!LSU!ribosomal!protein!L34p!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	72.73%
+Cluster 565399
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX88656
+fig|727.2505.peg.1625!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	95.28%
+Cluster 677828
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	Phosphotransferase system, phosphocarrier protein HPr	ACQ92255
+fig|727.2505.peg.482!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	75.29%
+Cluster 640379
+16082	CP000685	Flavobacterium johnsoniae UW101, complete genome.	No	Flavobacteria	urease, beta subunit	ABQ07835
+fig|727.2505.peg.1029!!!Urease!beta!subunit!(EC!3.5.1.5)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	63.37%
+Cluster 502309
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	GlpG	ABR00276
+fig|727.2505.peg.746!!!Rhomboid!protease!GlpG!(EC!3.4.21.105)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.92%
+Cluster 647844
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	50S ribosomal subunit protein L25	ABF04379
+fig|727.2505.peg.1323!!!LSU!ribosomal!protein!L25p!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.05%
+Cluster 334958
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	lipoprotein	ABQ98059
+fig|727.2505.peg.1380!!!Septum-associated!rare!lipoprotein!A!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 233071
+38	AE017143	Haemophilus ducreyi strain 35000HP complete genome.	Yes	Gammaproteobacteria	UDP-N-acetylglucosamine-N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	AAP95721
+fig|727.2505.peg.98!!!UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide)!pyrophosphoryl-undecaprenol!N-acetylglucosamine!transferase!(EC!2.4.1.227)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	66.38%
+Cluster 210414
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99658
+fig|727.2505.peg.1758!!!N-acetylneuraminate!epimerase!(EC!5.1.3.24)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.47%
+Cluster 205073
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	CAI08474
+fig|727.2505.peg.1156!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	66.03%
+Cluster 698281
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ98180
+fig|727.2505.peg.1675!!!Aerobic!respiration!control!sensor!protein!ArcB!(EC!2.7.13.3)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	75.56%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|727.2505.peg.538!!!Translation!elongation!factor!Tu!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	68.78%
+fig|727.2505.peg.794!!!Translation!elongation!factor!Tu!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	68.78%
+Cluster 507257
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI1499	AAC23149
+fig|727.2505.peg.851!!!Phage!terminase,!small!subunit!Mup27,!D!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.16%
+Cluster 487938
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88360
+fig|727.2505.peg.1210!!!Phage!tail!fiber!assembly!protein!G!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	73.50%
+Cluster 182273
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAC22698
+fig|727.2505.peg.193!!!Uncharacterized!ATPase,!AAA!superfamily!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.24%
+Cluster 695694
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	NapD	ABQ97743
+fig|727.2505.peg.966!!!Periplasmic!nitrate!reductase!component!NapD!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.92%
+Cluster 588484
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	biopolymer transport protein	ABQ99764
+fig|727.2505.peg.879!!!Biopolymer!transport!protein!ExbD/TolR!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 652434
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABR00507
+fig|727.2505.peg.257!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.28%
+Cluster 676913
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87946
+fig|727.2505.peg.311!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 591906
+33319	CP001672	Methylotenera mobilis JLW8, complete genome.	No	Betaproteobacteria	ribosomal protein S16	ACT48976
+fig|727.2505.peg.1701!!!SSU!ribosomal!protein!S16p!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	68.29%
+Cluster 642522
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI1632	AAC23284
+fig|727.2505.peg.1325!!!Aspartokinase!(EC!2.7.2.4)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.52%
+Cluster 642527
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX88764
+fig|727.2505.peg.478!!!Protein!ygiW!precursor!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	96.69%
+Cluster 543086
+267	AE015451	Pseudomonas putida KT2440 complete genome.	No	Gammaproteobacteria	ribosomal protein L21	AAN66313
+fig|727.2505.peg.339!!!LSU!ribosomal!protein!L21p!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	69.90%
+Cluster 38337
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	putative type III restriction/modification system modification methylase	ABQ98697
+fig|727.2505.peg.175!!!Type!III!restriction-modification!system!methylation!subunit!(EC!2.1.1.72)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.86%
+Cluster 696852
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted copper chaperone MerP homolog	AAX88064
+fig|727.2505.peg.180!!!Copper!chaperone!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.91%
+Cluster 499534
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87969
+fig|727.2505.peg.288!!!Large!exoproteins!involved!in!heme!utilization!or!adhesion!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 490794
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	ribonuclease HII	BAE75204
+fig|727.2505.peg.174!!!Ribonuclease!HII!(EC!3.1.26.4)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	69.54%
+Cluster 746291
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ97639
+fig|727.2505.peg.1113!!!DNA-directed!RNA!polymerase!specialized!sigma!subunit!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 33281
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BAD48352
+fig|727.2505.peg.1194!!!Adenosylmethionine-8-amino-7-oxononanoate!aminotransferase!(EC!2.6.1.62)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.63%
+Cluster 312974
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88466
+fig|727.2505.peg.1475!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 678882
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX88106
+fig|727.2505.peg.135!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 518745
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99961
+fig|727.2505.peg.708!!!Starvation!lipoprotein!Slp!paralog!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.36%
+Cluster 643301
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	glycyl-tRNA synthetase subunit alpha	ABQ98793
+fig|727.2505.peg.293!!!Putative!DNA!methylase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	94.21%
+Cluster 337559
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	3-oxoacyl- reductase	AAW74135
+fig|727.2505.peg.1750!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	64.05%
+Cluster 99801
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	protein TprK	ACD71313
+fig|727.2505.peg.1324!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.02%
+Cluster 723251
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	L-lactate dehydrogenase	ABQ98098
+fig|727.2505.peg.501!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.70%
+Cluster 644110
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	integration host factor, beta subunit	ADC62576
+fig|727.2505.peg.1669!!!Integration!host!factor!beta!subunit!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.70%
+Cluster 629285
+16217	AP007255	Magnetospirillum magneticum AMB-1 DNA, complete genome.	No	Alphaproteobacteria	Translation initiation factor 1	BAE52143
+fig|727.2505.peg.1021!!!Translation!initiation!factor!1!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	68.06%
+Cluster 537217
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	competence protein C	ABR00004
+fig|727.2505.peg.1127!!!Competence!protein!C;!Chromosome!segregation!ATPases!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	94.80%
+Cluster 277315
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	exopolyphosphatase, putative	AAC22355
+fig|727.2505.peg.1817!!!Exopolyphosphatase!(EC!3.6.1.11)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.76%
+Cluster 146141
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	branched-chain amino acid transport system carrier protein	AAX87287
+fig|727.2505.peg.804!!!Na(+)-dependent!branched-chain!amino!acid!transporter!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 304263
+15757	CP000703	Staphylococcus aureus subsp. aureus JH9, complete genome.	Yes	Bacillales	Bile acid:sodium symporter	ABQ50125
+fig|727.2505.peg.1682!!!Uncharacterized!sodium-dependent!transporter!YocS!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	64.84%
+Cluster 304262
+38	AE017143	Haemophilus ducreyi strain 35000HP complete genome.	Yes	Gammaproteobacteria	Mu phage DNA transposition protein B	AAP95098
+fig|727.2505.peg.871!!!Phage!replication!initiation!ATPase!Mup04,!B!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	65.57%
+Cluster 494439
+39	AE004439	Pasteurella multocida subsp. multocida str. Pm70, complete genome.	Yes	Gammaproteobacteria	MclA	AAK03872
+fig|727.2505.peg.791!!!Sigma!factor!RpoE!negative!regulatory!protein!RseA!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.03%
+Cluster 11509
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hemoglobin-binding protein	ABR00210
+fig|727.2505.peg.639!!!Outer!membrane!receptor!proteins,!mostly!Fe!transport!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	94.67%
+Cluster 771391
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX87779
+fig|727.2505.peg.585!!!Diaminopimelate!decarboxylase!and/or!diaminopimelate!epimerase!leader!peptide!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 343606
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	lipooligosaccharide biosynthesis protein	AAC22423
+fig|727.2505.peg.442!!!Lipopolysaccharide!core!biosynthesis!glycosyltransferase!WadA!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	70.50%
+Cluster 440521
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	murein transglycosylase C	ABR00322
+fig|727.2505.peg.445!!!Diadenosine!tetraphosphatase!and!related!serine/threonine!protein!phosphatases!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.67%
+Cluster 723276
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	unknown	AAU36692
+fig|727.2505.peg.833!!!Phage!tail!protein!GpX!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	80.26%
+Cluster 527387
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87501
+fig|727.2505.peg.1115!!!Uncharacterized!protein!HI_0449!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.43%
+Cluster 371654
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	lic-1 operon protein	ABQ99142
+fig|727.2505.peg.1180!!!Lipopolysaccharide!cholinephosphotransferase!LicD1!(EC!2.7.8.-)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.49%
+Cluster 681026
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	unknown	AAU38567
+fig|727.2505.peg.822!!!Alternative!ribosome-rescue!factor!A!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	65.22%
+Cluster 614036
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	diadenosine tetraphosphate hydrolase	BAC95138
+fig|727.2505.peg.256!!!YcfF/hinT!protein:!a!purine!nucleoside!phosphoramidase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	69.47%
+Cluster 669431
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAC23096
+fig|727.2505.peg.1484!!!Protein!YcgL!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.73%
+Cluster 350074
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	universal stress protein UspE	ABQ98338
+fig|727.2505.peg.1506!!!ABC-type!Co2+!transport!system,!periplasmic!component!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.64%
+Cluster 9531
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	selenocysteine synthase	ABR00250
+fig|727.2505.peg.797!!!Outer!membrane!receptor!proteins,!mostly!Fe!transport!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	86.04%
+Cluster 428470
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	lic-1 operon protein	ABQ99143
+fig|727.2505.peg.1179!!!Choline-phosphate!cytidylyltransferase!(EC!2.7.7.15)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	93.99%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|727.2505.peg.431!!!SSU!ribosomal!protein!S19p!(S15e)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	71.43%
+Cluster 443458
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	Sua5/YciO/YrdC/YwlC family protein	ACR12471
+fig|727.2505.peg.32!!!YciO!protein,!TsaC/YrdC!paralog!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	62.80%
+Cluster 204923
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative ribonucleoside-diphosphate reductase beta subunit	AAS58680
+fig|727.2505.peg.1!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!beta!subunit!(EC!1.17.4.1)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.11%
+fig|727.2505.peg.1007!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!beta!subunit!(EC!1.17.4.1)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	66.67%
+Cluster 219623
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	phospho-2-dehydro-3-heoxyheptonate aldolase	ABQ99175
+fig|727.2505.peg.1177!!!Choline!kinase!(EC!2.7.1.32)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.88%
+Cluster 334431
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	esterase/lipase, putative	AAC21862
+fig|727.2505.peg.1713!!!Esterase!ybfF!(EC!3.1.-.-)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.31%
+Cluster 517859
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	lactoylglutathione lyase	ACP05284
+fig|727.2505.peg.947!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	70.37%
+Cluster 377164
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAC22178
+fig|727.2505.peg.1049!!!Glycyl-radical!enzyme!activating!protein!HI_0520!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.85%
+Cluster 43853
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	transketolase	ACY35378
+fig|727.2505.peg.208!!!Transketolase!(EC!2.2.1.1)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.65%
+Cluster 335592
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF06037
+fig|727.2505.peg.529!!!Unsaturated!fatty!acid!biosythesis!repressor!FabR,!TetR!family!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	65.85%
+Cluster 202396
+13474	CP000115	Nitrobacter winogradskyi Nb-255, complete genome.	No	Alphaproteobacteria	chorismate synthase	ABA03896
+fig|727.2505.peg.1709!!!Chorismate!synthase!(EC!4.2.3.5)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	60.22%
+Cluster 503277
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX88460
+fig|727.2505.peg.631!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	93.72%
+Cluster 461230
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted uracil-DNA glycosylase	AAX87280
+fig|727.2505.peg.1683!!!Hypothetical!protein!VC0266!(sugar!utilization!related?)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	96.92%
+Cluster 150966
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	opacity associated protein OapA	AAX87387
+fig|727.2505.peg.953!!!opacity!associated!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.54%
+Cluster 538808
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87303
+fig|727.2505.peg.815!!!Hemerythrin!domain!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.42%
+Cluster 65290
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	soluble lytic murein transglycosylase, putative	AAC22487
+fig|727.2505.peg.382!!!Soluble!lytic!murein!transglycosylase!(EC!4.2.2.n1)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.65%
+Cluster 301372
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S2	ABE05693
+fig|727.2505.peg.306!!!SSU!ribosomal!protein!S2p!(SAe)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	82.50%
+Cluster 364893
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted permease	AAX87853
+fig|727.2505.peg.405!!!Integral!membrane!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.26%
+Cluster 153429
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	L-fucose permease	AAX87761
+fig|727.2505.peg.754!!!Fucose!permease!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.90%
+Cluster 15279
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	putative type III restriction/modification system enzyme	CAM10541
+fig|727.2505.peg.176!!!Type!III!restriction-modification!system!DNA!endonuclease!res!(EC!3.1.21.5)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	89.88%
+Cluster 3629
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	ATP-dependent helicase	CAV18959
+fig|727.2505.peg.164!!!ATP-dependent!helicase!HrpA!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	66.31%
+Cluster 192327
+308	BA000039	Thermosynechococcus elongatus BP-1 DNA, complete genome.	No	Chroococcales	transaldolase	BAC08019
+fig|727.2505.peg.109!!!Transaldolase!(EC!2.2.1.2)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.20%
+Cluster 658927
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	alkylhydroperoxidase AhpD core	ACX81793
+fig|727.2505.peg.177!!!Carboxymuconolactone!decarboxylase!family!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	83.19%
+Cluster 637472
+33901	CP001503	Burkholderia glumae BGR1 chromosome 1, complete sequence.	No	Betaproteobacteria	Iron-sulfur cluster assembly accessory protein	ACR27765
+fig|727.2505.peg.488!!!Iron-sulfur!cluster!insertion!protein!ErpA!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	63.16%
+Cluster 684128
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881
+fig|727.2505.peg.608!!!Integration!host!factor!alpha!subunit!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	62.50%
+Cluster 704228
+29443	CP001707	Kangiella koreensis DSM 16069, complete genome.	No	Gammaproteobacteria	ATP synthase F0, C subunit	ACV28041
+fig|727.2505.peg.1080!!!ATP!synthase!F0!sector!subunit!c!(EC!3.6.3.14)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	60.71%
+Cluster 678345
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99065
+fig|727.2505.peg.1784!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	95.10%
+Cluster 630154
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative monothiol glutaredoxin ydhD	CBJ81617
+fig|727.2505.peg.70!!!Monothiol!glutaredoxin!GrxD!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	69.16%
+Cluster 532391
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ98463
+fig|727.2505.peg.1204!!!Phage!replication!protein!GpA,!endonuclease!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	96.20%
+Cluster 260158
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	malate dehydrogenase	ABE09111
+fig|727.2505.peg.20!!!Malate!dehydrogenase!(EC!1.1.1.37)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	79.10%
+Cluster 536313
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	translation elongation factor P, putative	ACR67628
+fig|727.2505.peg.1774!!!Translation!elongation!factor!P!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	68.25%
+Cluster 187175
+15756	CP000781	Xanthobacter autotrophicus Py2, complete genome.	No	Alphaproteobacteria	GTP-binding protein YchF	ABS67847
+fig|727.2505.peg.1169!!!GTP-binding!and!nucleic!acid-binding!protein!YchF!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.43%
+Cluster 220772
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99255
+fig|727.2505.peg.1523!!!Phage!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.28%
+Cluster 371919
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	competence protein A	AAX87491
+fig|727.2505.peg.1125!!!Type!IV!pilus!biogenesis!protein!PilM;!Competence!protein!A!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.49%
+Cluster 326448
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99038
+fig|727.2505.peg.1811!!!Uncharacterized!inner!membrane!protein!RarD!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 35586
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	methionyl-tRNA synthetase	ACP05309
+fig|727.2505.peg.1618!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	69.79%
+Cluster 103279
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24102
+fig|727.2505.peg.338!!!Octaprenyl!diphosphate!synthase!(EC!2.5.1.90)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	64.44%
+Cluster 169461
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	Serine transporter	AAX87345
+fig|727.2505.peg.916!!!Serine!transporter!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.03%
+Cluster 757748
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	ribosomal protein L36	ABQ76678
+fig|727.2505.peg.413!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	83.78%
+Cluster 99051
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	iron(III)-transport system permease protein hFbpB	AAX87161
+fig|727.2505.peg.1450!!!Ferric!iron!ABC!transporter,!permease!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.41%
+Cluster 58287
+302	AE006470	Chlorobium tepidum TLS, complete genome.	No	Chlorobia	carbamoyl-phosphate synthase, large subunit	AAM72817
+fig|727.2505.peg.1585!!!Carbamoyl-phosphate!synthase!large!chain!(EC!6.3.5.5)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	64.14%
+Cluster 293721
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	UDP-Gal--lipooligosaccharide galactosyltransferase	AAX87599
+fig|727.2505.peg.509!!!Lipooligosaccharide!biosynthesis!protein!lex-1!(EC!2.-.-.-)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 361689
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	urease accessory protein UreH	AAX87584
+fig|727.2505.peg.1034!!!Urease!accessory!protein!UreD!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	85.61%
+Cluster 393254
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI1310	AAC22961
+fig|727.2505.peg.605!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.56%
+Cluster 468881
+17159	CP000792	Campylobacter concisus 13826, complete genome.	Yes	Epsilonproteobacteria	transporter gate domain protein	EAT97475
+fig|727.2505.peg.1428!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	74.76%
+Cluster 204983
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88276
+fig|727.2505.peg.1286!!!FIG00696301:!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.74%
+Cluster 764998
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	formyltetrahydrofolate deformylase	ABR00794
+fig|727.2505.peg.1280!!!FIG00696675:!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	95.92%
+Cluster 699649
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX87085
+fig|727.2505.peg.1436!!!5-methyltetrahydropteroyltriglutamate--homocysteine!methyltransferase!(EC!2.1.1.14)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	95.24%
+Cluster 755317
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99407
+fig|727.2505.peg.1636!!!FIG00696335:!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.25%
+Cluster 495869
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	transcription termination/antitermination factor NusG	AAZ25723
+fig|727.2505.peg.993!!!Transcription!antitermination!protein!NusG!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	67.03%
+Cluster 340137
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99017
+fig|727.2505.peg.1832!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.59%
+Cluster 232403
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	iron(III) ABC transporter ATP-binding protein	ABQ97997
+fig|727.2505.peg.1451!!!Ferric!iron!ABC!transporter,!ATP-binding!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	95.51%
+Cluster 573536
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative yhbH sigma 54 modulator	AAS60919
+fig|727.2505.peg.884!!!Ribosome-associated!inhibitor!A!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	67.29%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|727.2505.peg.424!!!LSU!ribosomal!protein!L14p!(L23e)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	76.42%
+Cluster 480832
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	putative NAD(P)H oxidoreductase	ABQ99169
+fig|727.2505.peg.1184!!!NAD(P)H!oxidoreductase!YrkL!@!Putative!NADPH-quinone!reductase!(modulator!of!drug!activity!B)!@!Flavodoxin!2!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.53%
+Cluster 462885
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABI24747
+fig|727.2505.peg.589!!!Der!GTPase-activating!protein!YihI!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	67.74%
+Cluster 148765
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	queuine/archaeosine tRNA-ribosyltransferase	BAC93510
+fig|727.2505.peg.812!!!Queuine!tRNA-ribosyltransferase!(EC!2.4.2.29)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	77.49%
+Cluster 711939
+16426	CP000362	Roseobacter denitrificans OCh 114, complete genome.	No	Alphaproteobacteria	ribosomal protein L33-related protein	ABG31601
+fig|727.2505.peg.267!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	66.07%
+Cluster 318104
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	NrfG protein	AAU38427
+fig|727.2505.peg.1729!!!Outer!membrane!beta-barrel!assembly!protein!BamD!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.83%
+Cluster 463835
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	dithiobiotin synthetase	ABQ99163
+fig|727.2505.peg.1190!!!Dethiobiotin!synthase!BioD!(EC!6.3.3.3)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.53%
+Cluster 463830
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical transmembrane protein	AAC21887
+fig|727.2505.peg.1685!!!membrane!protein!ykgB!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.04%
+Cluster 2715
+15771	CP000360	Candidatus Koribacter versatilis Ellin345, complete genome.	No	Candidatus Koribacter	DNA-directed RNA polymerase subunit beta	ABF43676
+fig|727.2505.peg.594!!!DNA-directed!RNA!polymerase!beta!subunit!(EC!2.7.7.6)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	69.16%
+Cluster 546099
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	competence protein B	AAX87490
+fig|727.2505.peg.1126!!!Type!IV!pilus!biogenesis!protein!PilN;!Competence!protein!B!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.21%
+Cluster 569137
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX88469
+fig|727.2505.peg.1478!!!Thiol:disulfide!oxidoreductase!associated!with!MetSO!reductase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 226696
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	ribosomal large subunit pseudouridine synthase C	AAZ26427
+fig|727.2505.peg.1150!!!LSU!rRNA!pseudouridine(955/2504/2580)!synthase!(EC!5.4.99.24)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	60.25%
+Cluster 276455
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	UDP-glcNAc--lipooligosaccharide N-acetylglucosamine glycosyltransferase	AAX88289
+fig|727.2505.peg.1273!!!Glycosyl!transferase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.21%
+Cluster 302782
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	oligopeptide permease ABC transporter membrane component	ABQ98633
+fig|727.2505.peg.111!!!Oligopeptide!ABC!transporter,!permease!protein!OppB!(TC!3.A.1.5.1)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 419801
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI1599	AAC23258
+fig|727.2505.peg.1293!!!FIG005107:!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.16%
+Cluster 688271
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical preprotein translocase subunit YajC	AAX87301
+fig|727.2505.peg.817!!!Protein!translocase!subunit!YajC!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 720316
+15763	CP000453	Alkalilimnicola ehrlichii MLHE-1, complete genome.	No	Gammaproteobacteria	acyl carrier protein	ABI56769
+fig|727.2505.peg.1751!!!Acyl!carrier!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	80.26%
+Cluster 132705
+29443	CP001707	Kangiella koreensis DSM 16069, complete genome.	No	Gammaproteobacteria	tRNA modification GTPase TrmE	ACV28051
+fig|727.2505.peg.219!!!tRNA-5-carboxymethylaminomethyl-2-thiouridine(34)!synthesis!protein!MnmE!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	62.17%
+Cluster 192453
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI0134	AAC21811
+fig|727.2505.peg.767!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.95%
+Cluster 467372
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88321
+fig|727.2505.peg.1243!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	96.68%
+Cluster 258694
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	endonuclease III	ABQ77294
+fig|727.2505.peg.458!!!Endonuclease!III!(EC!4.2.99.18)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	68.72%
+Cluster 459865
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99161
+fig|727.2505.peg.1192!!!Pimeloyl-[acyl-carrier!protein]!methyl!ester!esterase!BioG!(EC!3.1.1.85)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.60%
+Cluster 581919
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Acid-induced glycyl radical enzyme	AAS62707
+fig|727.2505.peg.1367!!!Autonomous!glycyl!radical!cofactor!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	80.31%
+Cluster 92801
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAC22666
+fig|727.2505.peg.217!!!Dca!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.23%
+Cluster 123829
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	putative type IV pilin secretion protein	AAX87352
+fig|727.2505.peg.924!!!Type!IV!fimbrial!assembly,!ATPase!PilB!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.71%
+Cluster 236070
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	lipopolysaccharide biosynthesis protein	AAC23344
+fig|727.2505.peg.467!!!Poly(glycerol-phosphate)!alpha-glucosyltransferase!(EC!2.4.1.52)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.45%
+Cluster 411870
+20635	CP001280	Methylocella silvestris BL2, complete genome.	No	Alphaproteobacteria	ribosomal protein L5	ACK49540
+fig|727.2505.peg.422!!!LSU!ribosomal!protein!L5p!(L11e)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.45%
+Cluster 424560
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	predicted coding region HI0152	AAC21831
+fig|727.2505.peg.1753!!!4'-phosphopantetheinyl!transferase!(EC!2.7.8.-)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.57%
+Cluster 546896
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABI25259
+fig|727.2505.peg.777!!!Arabinose!efflux!permease!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.90%
+Cluster 672505
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted NTP binding protein, contains STAS domain	AAX88092
+fig|727.2505.peg.151!!!Phospholipid!ABC!transporter-binding!protein!MlaB!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 678879
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87740
+fig|727.2505.peg.1834!!!mRNA!interferase!YafQ!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.02%
+Cluster 218798
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	high-affinity zinc uptake system protein ZnuA	ABQ99630
+fig|727.2505.peg.778!!!Zinc!ABC!transporter,!substrate-binding!protein!ZnuA!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	68.80%
+Cluster 501180
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Pal	ADD76355
+fig|727.2505.peg.700!!!Tol-Pal!system!peptidoglycan-associated!lipoprotein!PAL!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	60.78%
+Cluster 306587
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	lipopolysaccharide biosynthesis protein	ABQ99491
+fig|727.2505.peg.468!!!CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase!(EC!2.4.99.-)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.70%
+Cluster 686603
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	DNA-damage-inducible protein J, negative regulator of translation	AAX87739
+fig|727.2505.peg.1833!!!Antitoxin!DinJ!(binds!YafQ!toxin)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 161827
+17985	CP001252	Shewanella baltica OS223, complete genome.	No	Gammaproteobacteria	nucleoside transporter	ACK45653
+fig|727.2505.peg.1050!!!Na+!dependent!nucleoside!transporter!NupC!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	66.43%
+fig|727.2505.peg.1064!!!Na+!dependent!nucleoside!transporter!NupC!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.69%
+Cluster 306028
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	DNA ligase	AAX88181
+fig|727.2505.peg.54!!!DNA!ligase!(ATP)!(EC!6.5.1.1)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.27%
+Cluster 361686
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	iron (chelated) ABC transporter permease protein	ABQ97729
+fig|727.2505.peg.678!!!Manganese!ABC!transporter,!inner!membrane!permease!protein!SitD!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.05%
+Cluster 59953
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACF63824
+fig|727.2505.peg.1626!!!Ribosomal!protein!S12p!methylthiotransferase!accessory!factor!YcaO!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	68.31%
+Cluster 15907
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	probable zinc protease	ABQ98277
+fig|727.2505.peg.1558!!!Zinc!protease!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.70%
+Cluster 714486
+18267	AP009247	Candidatus Vesicomyosocius okutanii HA DNA, complete genome.	No	Gammaproteobacteria	50S ribosomal protein L28	BAF61994
+fig|727.2505.peg.266!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	74.36%
+Cluster 346002
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	cyclase	AAW75515
+fig|727.2505.peg.1089!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	62.40%
+Cluster 1605
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	recombination protein F	ABQ98732
+fig|727.2505.peg.230!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	65.22%
+Cluster 206213
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	Outer membrane protein P2 precursor	ABQ99649
+fig|727.2505.peg.1767!!!outer!membrane!protein!P2!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	86.13%
+Cluster 43340
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ACC70650
+fig|727.2505.peg.1659!!!Dihydrolipoamide!dehydrogenase!of!pyruvate!dehydrogenase!complex!(EC!1.8.1.4)!@!Dihydrolipoamide!dehydrogenase!(EC!1.8.1.4)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	63.71%
+Cluster 702342
+31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	No	Gammaproteobacteria	30S ribosomal protein S17	ACX95195
+fig|727.2505.peg.426!!!SSU!ribosomal!protein!S17p!(S11e)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	67.06%
+Cluster 433796
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	type 4 prepilin-like protein specific leader peptidase (hopD)	AAC21960
+fig|727.2505.peg.922!!!Leader!peptidase!(Prepilin!peptidase)!(EC!3.4.23.43)!/!N-methyltransferase!(EC!2.1.1.-)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.57%
+Cluster 343653
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	ribosomal protein L1	ACG65011
+fig|727.2505.peg.1053!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	77.29%
+Cluster 394516
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88512
+fig|727.2505.peg.1244!!!Phage!DNA!replication!protein!O!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.02%
+Cluster 609810
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	competence protein D	ABR00003
+fig|727.2505.peg.1128!!!Type!IV!pilus!biogenesis!protein!PilQ;!Competence!protein!D!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	93.43%
+Cluster 116188
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical metalloprotease	AAX87463
+fig|727.2505.peg.1153!!!Murein!DD-endopeptidase!MepM!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.89%
+Cluster 587242
+29065	CP001085	Candidatus Riesia pediculicola USDA, complete genome.	No	Gammaproteobacteria	ribosomal protein S11	ADD79935
+fig|727.2505.peg.411!!!SSU!ribosomal!protein!S11p!(S14e)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	78.29%
+Cluster 271137
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	methyltransferase	ACX87869
+fig|727.2505.peg.1575!!!tRNA!ho5U(34)!carboxymethyltransferase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	63.55%
+Cluster 369158
+17445	CP000749	Marinomonas sp. MWYL1, complete genome.	No	Gammaproteobacteria	ABC transporter related	ABR71335
+fig|727.2505.peg.147!!!Phospholipid!ABC!transporter!ATP-binding!protein!MlaF!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	60.23%
+Cluster 647174
+16064	CP000155	Hahella chejuensis KCTC 2396, complete genome.	No	Gammaproteobacteria	ribosomal protein L31	ABC32627
+fig|727.2505.peg.449!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-dependent!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	70.00%
+Cluster 131949
+16187	CP000510	Psychromonas ingrahamii 37, complete genome.	No	Gammaproteobacteria	signal recognition particle-docking protein FtsY	ABM02476
+fig|727.2505.peg.439!!!Signal!recognition!particle!receptor!FtsY!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.75%
+Cluster 79625
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	ribonuclease BN	ABQ97815
+fig|727.2505.peg.904!!!Phosphoglycerol!transferase!and!related!proteins,!alkaline!phosphatase!superfamily!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%
+Cluster 586237
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99754
+fig|727.2505.peg.810!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.32%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|727.2505.peg.1052!!!LSU!ribosomal!protein!L11p!(L12e)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	64.08%
+Cluster 453585
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE05950
+fig|727.2505.peg.197!!!UPF0234!protein!Yitk!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.96%
+Cluster 113001
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	DNA recombination protein RmuC	AAX87551
+fig|727.2505.peg.1066!!!DNA!recombination!protein!RmuC!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.96%
+Cluster 113004
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX88684
+fig|727.2505.peg.1655!!!GTP-binding!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	95.62%
+Cluster 22465
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAC23016
+fig|727.2505.peg.1557!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	92.33%
+Cluster 595794
+29431	CP001968	Denitrovibrio acetiphilus DSM 12809, complete genome.	No	Deferribacterales	RbsD or FucU transport	ADD68874
+fig|727.2505.peg.752!!!L-fucose!mutarotase!(EC!5.1.3.29)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	62.50%
+Cluster 503148
+312	AE013218	Buchnera aphidicola str. Sg (Schizaphis graminum), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L6	AAM68033
+fig|727.2505.peg.419!!!LSU!ribosomal!protein!L6p!(L9e)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	60.45%
+Cluster 267009
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	glycosyl transferase, putative	AAC21924
+fig|727.2505.peg.885!!!Glycosyl!transferase!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	95.30%
+Cluster 476129
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted ABC-type transport system, periplasmic component	AAX88671
+fig|727.2505.peg.1642!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	96.12%
+Cluster 695788
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87159
+fig|727.2505.peg.1448!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.85%
+Cluster 419223
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	FabA	ABJ00363
+fig|727.2505.peg.620!!!3-hydroxyacyl-[acyl-carrier-protein]!dehydratase,!FabA!form!(EC!4.2.1.59)!@!Trans-2-decenoyl-[acyl-carrier-protein]!isomerase!(EC!5.3.3.14)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	76.27%
+Cluster 112151
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ98726
+fig|727.2505.peg.224!!!FIG140336:!TPR!domain!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	96.67%
+Cluster 477734
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR75674
+fig|727.2505.peg.741!!!D-glycero-beta-D-manno-heptose-1,7-bisphosphate!7-phosphatase!(EC!3.1.3.82)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	64.67%
+Cluster 261679
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	XylF	ADD75207
+fig|727.2505.peg.123!!!D-xylose!ABC!transporter,!substrate-binding!protein!XylF!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	72.89%
+Cluster 550373
+15713	CR954246	Pseudoalteromonas haloplanktis str. TAC125 chromosome I, complete sequence.	No	Gammaproteobacteria	ribosome-binding factor A, role in processing of 16S rRNA	CAI86076
+fig|727.2505.peg.1606!!!Ribosome-binding!factor!A!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	64.06%
+Cluster 267702
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11918
+fig|727.2505.peg.1095!!!ATP!phosphoribosyltransferase!(EC!2.4.2.17)!=>!HisGl!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	70.30%
+Cluster 44000
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|727.2505.peg.1757!!!PTS!system,!N-acetylglucosamine-specific!IIC!component!/!PTS!system,!N-acetylglucosamine-specific!IIB!component!(EC!2.7.1.193)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	69.40%
+Cluster 469605
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted cobalt transport protein	AAX88241
+fig|727.2505.peg.1313!!!Transmembrane!component!NikQ!of!energizing!module!of!nickel!ECF!transporter!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.62%
+Cluster 298919
+17707	CP001124	Geobacter bemidjiensis Bem, complete genome.	No	Deltaproteobacteria	succinyl-CoA synthetase, alpha subunit	ACH38483
+fig|727.2505.peg.33!!!Succinyl-CoA!ligase![ADP-forming]!alpha!chain!(EC!6.2.1.5)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	65.19%
+Cluster 28104
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	recombination protein 2	AAX87064
+fig|727.2505.peg.1412!!!DNA!internalization-related!competence!protein!ComEC/Rec2!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	93.65%
+Cluster 390036
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	molybdenum transport protein	ABQ99486
+fig|727.2505.peg.463!!!DNA-binding!domain!of!ModE!/!Molybdate-binding!domain!of!ModE!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.25%
+Cluster 394450
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	LexA	ADD75423
+fig|727.2505.peg.561!!!SOS-response!repressor!and!protease!LexA!(EC!3.4.21.88)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	64.25%
+Cluster 87189
+29335	CP001050	Neisseria gonorrhoeae NCCP11945, complete genome.	Yes	Betaproteobacteria	methionine sulfoxide reductase PilB	ACF30776
+fig|727.2505.peg.1476!!!Peptide-methionine!(S)-S-oxide!reductase!MsrA!(EC!1.8.4.11)!/!Peptide-methionine!(R)-S-oxide!reductase!MsrB!(EC!1.8.4.12)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	60.62%
+Cluster 532821
+39579	FN650140	Legionella longbeachae NSW150, complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S7	CBJ10813
+fig|727.2505.peg.540!!!SSU!ribosomal!protein!S7p!(S5e)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	70.51%
+Cluster 12616
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hemoglobin-haptoglobin binding protein B	AAX87692
+fig|727.2505.peg.1779!!!Outer!membrane!receptor!proteins,!mostly!Fe!transport!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.06%
+fig|727.2505.peg.550!!!Outer!membrane!receptor!proteins,!mostly!Fe!transport!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	88.19%
+Cluster 614024
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	putative HTH-type transcriptional regulator	AAX87242
+fig|727.2505.peg.1720!!!Transcriptional!regulator!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.52%
+Cluster 473364
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	UDP-2,3-diacylglucosamine hydrolase	ABR00296
+fig|727.2505.peg.574!!!Acetolactate!synthase!large!subunit!(EC!2.2.1.6)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	67.69%
+Cluster 16297
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	heme/hemopexin-binding protein A	AAX87323
+fig|727.2505.peg.891!!!Large!exoproteins!involved!in!heme!utilization!or!adhesion!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	90.87%
+Cluster 654549
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87901
+fig|727.2505.peg.356!!!UPF0597!protein!YhaM!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	96.49%
+Cluster 272391
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99866
+fig|727.2505.peg.975!!!CMP-N-acetylneuraminate-beta-galactosamide-alpha-2,3-sialyltransferase!(EC!2.4.99.-)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.02%
+Cluster 177536
+388	CP000947	Haemophilus somnus 2336, complete genome.	Yes	Gammaproteobacteria	efflux transporter, RND family, MFP subunit	ACA32651
+fig|727.2505.peg.324!!!CzcABC!family!efflux!RND!transporter,!membrane!fusion!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	63.57%
+Cluster 237951
+219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Yes	Gammaproteobacteria	rRNA methylase, putative	AAC22080
+fig|727.2505.peg.1141!!!Uncharacterized!tRNA/rRNA!methyltransferase!YfiF!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.01%
+Cluster 503749
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	Mu-like phage gp27	ACX83539
+fig|727.2505.peg.852!!!Phage!terminase,!small!subunit!Mup27,!D!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	79.49%
+Cluster 156486
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	phosphate regulon sensor protein PhoR	ABQ98286
+fig|727.2505.peg.1546!!!Phosphate!regulon!sensor!protein!PhoR!(SphS)!(EC!2.7.13.3)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.76%
+Cluster 319435
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	polynucleotide phosphorylase/polyadenylase	ABQ97863
+fig|727.2505.peg.801!!!Uncharacterized!inner!membrane!protein!RarD!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	98.99%
+Cluster 607278
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAX87608
+fig|727.2505.peg.519!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	95.65%
+Cluster 730352
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX88505
+fig|727.2505.peg.1250!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	97.26%
+Cluster 485412
+245	BA000003	Buchnera aphidicola str. APS (Acyrthosiphon pisum) genomic DNA, complete sequence.	No	Gammaproteobacteria	50S ribosomal protein L4	BAB13216
+fig|727.2505.peg.434!!!LSU!ribosomal!protein!L4p!(L1e)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	74.00%
+Cluster 20515
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	leucyl-tRNA synthetase	ABF13994
+fig|727.2505.peg.297!!!Leucyl-tRNA!synthetase!(EC!6.1.1.4)!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	62.02%
+Cluster 192850
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	putative aspartate aminotransferase	AAX88114
+fig|727.2505.peg.126!!!Bifunctional!PLP-dependent!enzyme!with!beta-cystathionase!and!maltose!regulon!repressor!activities!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	99.49%
+Cluster 676914
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ98584
+fig|727.2505.peg.60!!!Autotransporter!adhesin!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	95.15%
+Cluster 724631
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACX83545
+fig|727.2505.peg.856!!!hypothetical!protein!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	70.13%
+Cluster 663765
+388	CP000947	Haemophilus somnus 2336, complete genome.	Yes	Gammaproteobacteria	SirA family protein	ACA32086
+fig|727.2505.peg.989!!!tRNA!5-methylaminomethyl-2-thiouridine!synthesis!sulfur!carrier!protein!TusA!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	75.95%
+Cluster 23296
+285	AE009442	Xylella fastidiosa Temecula1, complete genome.	No	Gammaproteobacteria	ATP-dependent serine proteinase La	AAO28351
+fig|727.2505.peg.1102!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	61.39%
+Cluster 703025
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L35	AAX88440
+fig|727.2505.peg.614!!!LSU!ribosomal!protein!L35p!!![Haemophilus!influenzae!strain!AS012767!|!727.2505]	100.00%

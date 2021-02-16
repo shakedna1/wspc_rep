@@ -1,0 +1,656 @@
+Cluster 224484
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	3-isopropylmalate dehydrogenase	ABM07291
+fig|1681.836.peg.612|GBA81_01910!!!3-isopropylmalate!dehydrogenase!(EC!1.1.1.85)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	64.43%
+Cluster 396065
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	IS30 family transposase	ACD99087
+fig|1681.836.peg.209|GBA81_00005!!!Mobile!element!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	77.40%
+Cluster 373961
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Orotate phosphoribosyltransferase	ADC85892
+fig|1681.836.peg.885|GBA81_03180!!!Orotate!phosphoribosyltransferase!(EC!2.4.2.10)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	75.86%
+Cluster 96755
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Uracil permease	ADC86064
+fig|1681.836.peg.140|GBA81_08945!!!Pyrimidine!permease!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	78.32%
+Cluster 188567
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	transposase, mutator type	ADG99662
+fig|1681.836.peg.162!!!Mobile!element!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	76.36%
+Cluster 468730
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Putative permease	ACD97952
+fig|1681.836.peg.1033|GBA81_03925!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	76.92%
+Cluster 526973
+19707	CP001964	Cellulomonas flavigena DSM 20109, complete genome.	No	Actinobacteridae	Phosphoribosyl-AMP cyclohydrolase	ADG74888
+fig|1681.836.peg.992|GBA81_03725!!!Phosphoribosyl-AMP!cyclohydrolase!(EC!3.5.4.19)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	67.39%
+Cluster 90412
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical protein with possible DNA binding domain associated with typeI restriction-modification system	AAN25567
+fig|1681.836.peg.1084|GBA81_04180!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	88.43%
+fig|1681.836.peg.158!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	87.34%
+Cluster 270254
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	ATP binding protein of ABC transporter	AAN24803
+fig|1681.836.peg.250|GBA81_00205!!!Zinc!ABC!transporter,!ATP-binding!protein!ZnuC!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	76.35%
+Cluster 5174
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Chromosome segregation ATPase	ACD97665
+fig|1681.836.peg.427|GBA81_01025!!!Chromosome!partition!protein!smc!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.08%
+Cluster 53388
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	FAD-dependent pyridine nucleotide-disulphide oxidoreductase	ACJ51168
+fig|1681.836.peg.1576|GBA81_06595!!!Alkyl!hydroperoxide!reductase!protein!F!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	86.97%
+Cluster 178368
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	hypothetical protein	ACJ51645
+fig|1681.836.peg.1446|GBA81_05935!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	87.23%
+Cluster 200862
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	HipA domain protein	ACJ53016
+fig|1681.836.peg.897|GBA81_03240!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	71.39%
+Cluster 285100
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	tRNA (guanine-N(7)-)-methyltransferase	ADH01081
+fig|1681.836.peg.1447|GBA81_05945!!!tRNA!(guanine(46)-N(7))-methyltransferase!(EC!2.1.1.33)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	67.99%
+Cluster 177305
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	Tn916, transposase	ABP89883
+fig|1681.836.peg.1784|GBA81_07640!!!putative!transposon!integrase;!Tn916!ORF3-like!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	64.90%
+Cluster 64793
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	widely conserved hypothetical protein	AAN24425
+fig|1681.836.peg.1570|GBA81_06570!!!Exoenzymes!regulatory!protein!AepA!precursor!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	77.32%
+Cluster 372989
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	ribonuclease	BAF39015
+fig|1681.836.peg.674|GBA81_02130!!!Ribonuclease!HII!(EC!3.1.26.4)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.95%
+Cluster 124178
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	xanthine/uracil permease	BAF39472
+fig|1681.836.peg.1836|GBA81_07900!!!Xanthine!permease!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	87.14%
+Cluster 237887
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	Uroporphyrin-III C/tetrapyrrole (Corrin/Porphyrin) methyltransferase	ACJ53484
+fig|1681.836.peg.1101|GBA81_04260!!!16S!rRNA!(cytidine(1402)-2'-O)-methyltransferase!(EC!2.1.1.198)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	79.88%
+Cluster 702279
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Xre-type transcriptional regulator	ACD98312
+fig|1681.836.peg.898|GBA81_03245!!!Transcriptional!regulator!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.28%
+Cluster 507145
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	AcrR-type transcriptional regulator	ACD98959
+fig|1681.836.peg.52|GBA81_08510!!!Transcriptional!regulator,!TetR!family!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	82.01%
+Cluster 594074
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	narrowly conserved hypothetical protein	AAN23993
+fig|1681.836.peg.486|GBA81_01300!!!Uncharacterized!protein!YneG!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	72.86%
+Cluster 520304
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Transcriptional regulator	ADC86131
+fig|1681.836.peg.1730|GBA81_07360!!!Transcriptional!regulator!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.59%
+Cluster 35577
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Myosin-crossreactive antigen	ADC85468
+fig|1681.836.peg.492|GBA81_01325!!!Oleate!hydratase!(EC!4.2.1.53)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	69.60%
+Cluster 504760
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	CinA-like protein	BAF39808
+fig|1681.836.peg.1729|GBA81_07355!!!Nicotinamide-nucleotide!amidase!(EC!3.5.1.42)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	61.33%
+Cluster 206567
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Homoserine O-succinyltransferase	ADC84824
+fig|1681.836.peg.1241|GBA81_04935!!!Homoserine!O-succinyltransferase!(EC!2.3.1.46)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	82.27%
+Cluster 530477
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	MarR-type transcriptional regulator	ACD99391
+fig|1681.836.peg.548|GBA81_01600!!!Transcriptional!regulator,!MarR!family!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	83.05%
+Cluster 113804
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	ABC-2 type transporter	ACJ52708
+fig|1681.836.peg.211|GBA81_00015!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	98.12%
+Cluster 383556
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAF38906
+fig|1681.836.peg.1127|GBA81_04380!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	71.14%
+Cluster 273197
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	L-asparagineamidohydrolase	BAF39954
+fig|1681.836.peg.1892|GBA81_08170!!!Isoaspartyl!aminopeptidase!(EC!3.4.19.5)!@!Asp-X!dipeptidase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	68.05%
+Cluster 295374
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Phosphoglycerate mutase	ADC85467
+fig|1681.836.peg.1410|GBA81_05780!!!Phosphoglycerate!mutase!(EC!5.4.2.11)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	87.80%
+Cluster 379270
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	DNA replication protein	ACD98442
+fig|1681.836.peg.105|GBA81_08765!!!Transposase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	75.51%
+Cluster 379271
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	DNA replication protein	ACD99089
+fig|1681.836.peg.207|GBA81_09210!!!Transposase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.13%
+Cluster 82615
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical protein	AAN24516
+fig|1681.836.peg.1026|GBA81_03890!!!FIG149030:!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	73.72%
+Cluster 639321
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	SSU ribosomal protein S19P	ABP89047
+fig|1681.836.peg.1340|GBA81_05430!!!SSU!ribosomal!protein!S19p!(S15e)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.65%
+Cluster 129328
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	NADH:flavin oxidoreductase/NADH oxidase	ADG99926
+fig|1681.836.peg.608|GBA81_01890!!!probable!NADH-dependent!flavin!oxidoreductase!YqjM!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	71.62%
+Cluster 45028
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	possible DO serine protease	AAN24379
+fig|1681.836.peg.18|GBA81_08360!!!FIG00672241:!Uncharacterized!peptidase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	63.88%
+Cluster 522057
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	transcription factor WhiB	ABK02586
+fig|1681.836.peg.263|GBA81_00270!!!Sporulation!regulatory!protein!WhiB!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	60.61%
+Cluster 457588
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	ribosome-binding factor A	ADG32987
+fig|1681.836.peg.1372|GBA81_05595!!!Ribosome-binding!factor!A!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	64.43%
+Cluster 154682
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	UDP-N-acetylmuramyl pentapeptide phosphotransferase/UDP-N-acetylglucosamine-1-phosphate transferase	ACD99343
+fig|1681.836.peg.1508|GBA81_06265!!!Decaprenyl-phosphate!N-acetylglucosaminephosphotransferase!(EC!2.7.8.35)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	82.44%
+Cluster 404749
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	putative transcriptional regulator, MerR family	ACJ51459
+fig|1681.836.peg.733|GBA81_02420!!!Transcriptional!regulator,!MerR!family!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	99.19%
+Cluster 306941
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	chromosome segregation and condensation protein ScpA	ADH00681
+fig|1681.836.peg.404|GBA81_00930!!!Segregation!and!condensation!protein!A!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.42%
+Cluster 356808
+13370	CP000746	Actinobacillus succinogenes 130Z, complete genome.	No	Gammaproteobacteria	Cof-like hydrolase	ABR74342
+fig|1681.836.peg.1174|GBA81_04620!!!Haloacid!dehalogenase-like!hydrolase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	63.31%
+Cluster 337755
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	imidazole glycerol phosphate synthase subunit hisF	ABK52841
+fig|1681.836.peg.993|GBA81_03730!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.43%
+Cluster 404935
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	hypothetical protein	ADG34086
+fig|1681.836.peg.917|GBA81_03345!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	62.04%
+Cluster 150471
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	metallophosphoesterase	ACJ53385
+fig|1681.836.peg.845|GBA81_02985!!!FIG00672316:!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	61.07%
+Cluster 268930
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	ribosomal protein S2	ADB33762
+fig|1681.836.peg.1001|GBA81_03770!!!SSU!ribosomal!protein!S2p!(SAe)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.06%
+Cluster 131613
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	transposase	ADH01329
+fig|1681.836.peg.160!!!Transposase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	68.93%
+Cluster 174018
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	cystathionine beta-synthase	AAN24961
+fig|1681.836.peg.1655|GBA81_06980!!!Cystathionine!beta-synthase!(EC!4.2.1.22)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	91.07%
+Cluster 291832
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Putative DNA uptake protein	ACD98128
+fig|1681.836.peg.1872|GBA81_08080!!!LOG!family!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	72.52%
+Cluster 225441
+17583	CP001750	Bifidobacterium dentium Bd1, complete genome.	Yes	Actinobacteridae	NAD(+) kinase	ADB09896
+fig|1681.836.peg.1071|GBA81_04120!!!NAD!kinase!(EC!2.7.1.23)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	80.86%
+Cluster 606665
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	50S ribosomal protein L23	CBG70780
+fig|1681.836.peg.1338|GBA81_05420!!!LSU!ribosomal!protein!L23p!(L23Ae)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	69.39%
+Cluster 691909
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	transposase IS3/IS911 family protein	ACJ51777
+fig|1681.836.peg.645!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	86.32%
+Cluster 212986
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ADH00423
+fig|1681.836.peg.1484|GBA81_06160!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	76.61%
+Cluster 18813
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative glycogen debranching enzyme	BAC18820
+fig|1681.836.peg.236|GBA81_00135!!!Limit!dextrin!alpha-1,6-maltotetraose-hydrolase!(EC!3.2.1.196)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	62.38%
+Cluster 367438
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	putative carboxymuconolactone decarboxylase	BAF39635
+fig|1681.836.peg.906|GBA81_03285!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	75.49%
+Cluster 241547
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Glycosyltransferase for cell wall membrane	ACD99023
+fig|1681.836.peg.169|GBA81_09075!!!Glycosyltransferase!involved!in!cell!wall!biogenesis!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	62.10%
+Cluster 694649
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Hypothetical protein	ACD98579
+fig|1681.836.peg.1239|GBA81_04915!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	88.00%
+Cluster 332486
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Transcriptional regulator	ACD98340
+fig|1681.836.peg.1665|GBA81_07030!!!Transcriptional!regulator,!RpiR!family!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.39%
+Cluster 37967
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	Unusual protein kinase	ADG32781
+fig|1681.836.peg.1206|GBA81_04780!!!Uncharacterized!ABC1!family!protein!Bbr_0249!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.67%
+Cluster 358791
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Hypothetical phosphoesterase/phosphohydrolase	ACD98109
+fig|1681.836.peg.1792|GBA81_07675!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	75.56%
+Cluster 303055
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	transcriptional regulator, TetR family	ADG99705
+fig|1681.836.peg.1195|GBA81_04725!!!Transcriptional!regulator,!AcrR!family!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	71.26%
+Cluster 97610
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	6-phosphogluconate dehydrogenase, decarboxylating	ACJ51336
+fig|1681.836.peg.1400|GBA81_05725!!!6-phosphogluconate!dehydrogenase,!decarboxylating!(EC!1.1.1.44)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	67.84%
+Cluster 66323
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	glucose-6-phosphate isomerase	BAF39012
+fig|1681.836.peg.693|GBA81_02215!!!Glucose-6-phosphate!isomerase!(EC!5.3.1.9)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	98.05%
+Cluster 136647
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	aminotransferase, class I and II	ADG99510
+fig|1681.836.peg.1222|GBA81_04850!!!Aspartate!aminotransferase!(EC!2.6.1.1)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	72.37%
+Cluster 180290
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	Vesicle-fusing ATPase	ADH00798
+fig|1681.836.peg.531|GBA81_01515!!!Cell!division-associated,!ATP-dependent!zinc!metalloprotease!FtsH!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	87.31%
+Cluster 460866
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	Integrase, catalytic region	ACJ52075
+fig|1681.836.peg.161|GBA81_09040!!!COG2801:!Transposase!and!inactivated!derivatives!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	84.19%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|1681.836.peg.1706|GBA81_07250!!!Translation!elongation!factor!Tu!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	62.91%
+Cluster 17800
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	glycogen operon protein GlgX	ADG32949
+fig|1681.836.peg.1329|GBA81_05375!!!Limit!dextrin!alpha-1,6-maltotetraose-hydrolase!(EC!3.2.1.196)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	60.86%
+Cluster 655773
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	narrowly conserved hypothetical protein in upf 0044	AAN23909
+fig|1681.836.peg.493|GBA81_01330!!!RNA-binding!protein!YhbY!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	73.27%
+Cluster 626579
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical 14.5 kDa translational inhibitor protein	BAF40201
+fig|1681.836.peg.817|GBA81_02855!!!RidA/YER057c/UK114!superfamily!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	87.60%
+Cluster 90375
+16081	CP000518	Mycobacterium sp. KMS, complete genome.	No	Actinobacteridae	Integrase, catalytic region	ABL93572
+fig|1681.836.peg.1275|GBA81_05100!!!Mobile!element!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	67.31%
+Cluster 226671
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Phosphohydrolase (MutT/nudix family protein)	ADC85003
+fig|1681.836.peg.1626|GBA81_06840!!!Diadenosine!hexaphosphate!(Ap6A)!hydrolase;!Bis(5'-nucleosyl)-tetraphosphatase!(Ap4A)!(Asymmetrical)!(EC!3.6.1.17)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	76.04%
+Cluster 591233
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAF40140
+fig|1681.836.peg.100|GBA81_08735!!!Integral!membrane!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.38%
+fig|1681.836.peg.181|GBA81_09120!!!Integral!membrane!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	80.99%
+Cluster 53146
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	ABC-type multidrug transport system ATPase and permease component	ADG32753
+fig|1681.836.peg.865|GBA81_03085!!!Heterodimeric!efflux!ABC!transporter,!permease/ATP-binding!subunit!1!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	72.89%
+Cluster 97095
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	G5 domain protein	ACJ53537
+fig|1681.836.peg.1631|GBA81_06865!!!Cell!wall-binding!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.87%
+Cluster 471899
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Putative HAD superfamily hydrolase	ACD97970
+fig|1681.836.peg.904|GBA81_03275!!!possible!alpha!beta!hydrolase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	79.43%
+Cluster 190585
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	GTP-binding protein YchF	ACJ52765
+fig|1681.836.peg.1900|GBA81_08210!!!GTP-binding!and!nucleic!acid-binding!protein!YchF!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	91.53%
+Cluster 22269
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Excinuclease ABC subunit C	ADC85870
+fig|1681.836.peg.971|GBA81_03635!!!Excinuclease!ABC!subunit!C!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	71.28%
+Cluster 113159
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Hypothetical kinase	ACD98110
+fig|1681.836.peg.1791|GBA81_07670!!!FIG00424055:!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	73.47%
+Cluster 650264
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	LSU ribosomal protein L31P	ADC85534
+fig|1681.836.peg.1503|GBA81_06240!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-dependent!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	90.00%
+Cluster 255672
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Transcriptional regulator, LacI family	ADC85514
+fig|1681.836.peg.1541|GBA81_06430!!!Transcriptional!regulator,!LacI/PurR!family!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	64.69%
+Cluster 173054
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	acyltransferase 3	ACJ53446
+fig|1681.836.peg.1562|GBA81_06530!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	86.75%
+Cluster 92379
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	ATPase, AAA family	ADC85701
+fig|1681.836.peg.325|GBA81_00550!!!Replication-associated!recombination!protein!RarA!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.15%
+Cluster 441451
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAF38976
+fig|1681.836.peg.762|GBA81_02565!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	67.59%
+Cluster 399596
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Cell division protein	ACD97724
+fig|1681.836.peg.1726|GBA81_07340!!!Cell!filamentation!protein!fic!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	73.86%
+Cluster 204360
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Tryptophanyl-tRNA synthetase	ADC85086
+fig|1681.836.peg.1567|GBA81_06555!!!Tryptophanyl-tRNA!synthetase!(EC!6.1.1.2)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	91.78%
+Cluster 481157
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	hypothetical protein	ACJ52756
+fig|1681.836.peg.177|GBA81_09110!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	77.34%
+Cluster 156649
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	N-acetylglucosamine-6-phosphate deacetylase	ADH00721
+fig|1681.836.peg.436|GBA81_01065!!!N-acetylglucosamine-6-phosphate!deacetylase!(EC!3.5.1.25)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	80.38%
+Cluster 683835
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	SSU ribosomal protein S17P	ABN96857
+fig|1681.836.peg.1345|GBA81_05455!!!SSU!ribosomal!protein!S17p!(S11e)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	69.32%
+Cluster 702290
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	SecG	ADC85864
+fig|1681.836.peg.965|GBA81_03605!!!Protein!translocase!membrane!subunit!SecG!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	75.61%
+Cluster 589214
+17583	CP001750	Bifidobacterium dentium Bd1, complete genome.	Yes	Actinobacteridae	large-conductance mechanosensitive channel	ADB08714
+fig|1681.836.peg.1592|GBA81_06680!!!Large-conductance!mechanosensitive!channel!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	75.69%
+Cluster 449783
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	SSU ribosomal protein S12P	ABG07098
+fig|1681.836.peg.1703|GBA81_07235!!!SSU!ribosomal!protein!S12p!(S23e)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	83.74%
+Cluster 134143
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	major facilitator superfamily MF	ADG99525
+fig|1681.836.peg.1574|GBA81_06585!!!Uncharacterized!MFS-type!transporter!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	92.76%
+Cluster 670147
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	RelB antitoxin	ADG99793
+fig|1681.836.peg.737|GBA81_02435!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	97.20%
+Cluster 412097
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical protein in the phosphoglycerate mutase family	AAN24697
+fig|1681.836.peg.1827|GBA81_07855!!!Phosphoglycerate!mutase!family!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.95%
+Cluster 475663
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	protein of unknown function DUF47	ACJ52713
+fig|1681.836.peg.217|GBA81_00045!!!Phosphate!transport!regulator!(distant!homolog!of!PhoU)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	69.57%
+Cluster 689004
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	transposase IS3/IS911 family protein	ADH01385
+fig|1681.836.peg.183!!!Mobile!element!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	85.71%
+Cluster 452398
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	single-stranded DNA-binding protein (SSB) (Helix-destabilizing protein)	BAF40263
+fig|1681.836.peg.780|GBA81_02665!!!Single-stranded!DNA-binding!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	76.17%
+Cluster 1194
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Subtilisin-like serine protease	ACD98703
+fig|1681.836.peg.786|GBA81_02700!!!Endo-alpha-N-acetylgalactosaminidase!(EC!3.2.1.97)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	64.27%
+Cluster 87834
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical protein in upf0013	AAN24269
+fig|1681.836.peg.1201|GBA81_04755!!!Multi!antimicrobial!extrusion!protein!(Na(+)/drug!antiporter),!MATE!family!of!MDR!efflux!pumps!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	72.86%
+Cluster 512181
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	narrowly conserved hypothetical membrane protein	BAF38952
+fig|1681.836.peg.858|GBA81_03050!!!narrowly!conserved!hypothetical!membrane!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	75.14%
+Cluster 360643
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	AbrB family trancriptional regulator	ADG32945
+fig|1681.836.peg.1325|GBA81_05355!!!FIG00672147:!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	64.34%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|1681.836.peg.1346|GBA81_05460!!!LSU!ribosomal!protein!L14p!(L23e)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	80.33%
+Cluster 266301
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	NADPH/quinone reductase	ACD98334
+fig|1681.836.peg.1670|GBA81_07065!!!NADPH:quinone!oxidoreductases!or!alcohol!dehydrogenase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	81.16%
+Cluster 575180
+20011	CP001341	Arthrobacter chlorophenolicus A6, complete genome.	No	Actinobacteridae	ribosomal protein L20	ACL39471
+fig|1681.836.peg.407|GBA81_00945!!!LSU!ribosomal!protein!L20p!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.80%
+Cluster 480316
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	tRNA-specific adenosine deaminase	ADC84984
+fig|1681.836.peg.1649|GBA81_06955!!!tRNA-specific!adenosine-34!deaminase!(EC!3.5.4.33)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.00%
+Cluster 373198
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Transcription regulator, crp family	ADC84746
+fig|1681.836.peg.610|GBA81_01900!!!cAMP-binding!proteins!-!catabolite!gene!activator!and!regulatory!subunit!of!cAMP-dependent!protein!kinases!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.06%
+Cluster 176611
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	putative ABC transporter permease protein	ADH00536
+fig|1681.836.peg.974|GBA81_03650!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	62.69%
+Cluster 215709
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical transmembrane protein with unknown function	AAN25527
+fig|1681.836.peg.558|GBA81_01650!!!Conserved!membrane!spanning!protein!with!endonuclease/exonuclease/phosphatase!domain!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	65.05%
+Cluster 267270
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	ABC transporter related	ACJ52692
+fig|1681.836.peg.1830|GBA81_07870!!!ABC!transporter,!ATP-binding!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	61.62%
+Cluster 7338
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	Carbamoylphosphate synthase large subunit	ADG33191
+fig|1681.836.peg.1714|GBA81_07285!!!Carbamoyl-phosphate!synthase!large!chain!(EC!6.3.5.5)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	89.08%
+Cluster 306874
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAF40241
+fig|1681.836.peg.1211|GBA81_04805!!!rRNA!methylases!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	73.81%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|1681.836.peg.1359|GBA81_05525!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.27%
+Cluster 376618
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	ribonuclease III	BAF39003
+fig|1681.836.peg.702|GBA81_02265!!!Ribonuclease!III!(EC!3.1.26.3)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.20%
+Cluster 345575
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Integral membrane protein	ACD97717
+fig|1681.836.peg.1719|GBA81_07310!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	63.97%
+Cluster 670623
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	ribosomal protein L29	ABM08204
+fig|1681.836.peg.1344|GBA81_05450!!!LSU!ribosomal!protein!L29p!(L35e)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	62.35%
+Cluster 715555
+27833	AP009152	Kocuria rhizophila DC2201 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAG29410
+fig|1681.836.peg.718|GBA81_02345!!!KH!domain!RNA!binding!protein!YlqC!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	65.82%
+Cluster 289766
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	COBF protein	ADC84986
+fig|1681.836.peg.1648|GBA81_06950!!!possible!phospholipase/carboxylesterase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	61.29%
+Cluster 241585
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	hypothetical protein	ADG33721
+fig|1681.836.peg.422|GBA81_01005!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	62.05%
+Cluster 241587
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	glycerophosphoryl diester phosphodiesterase	ACJ53426
+fig|1681.836.peg.787|GBA81_02705!!!Glycerophosphoryl!diester!phosphodiesterase!(EC!3.1.4.46)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	68.22%
+Cluster 240012
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	30S ribosomal protein S3	CAJ59752
+fig|1681.836.peg.1342|GBA81_05440!!!SSU!ribosomal!protein!S3p!(S3e)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	64.34%
+Cluster 207788
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	anthranilate phosphoribosyltransferase 1	BAF39800
+fig|1681.836.peg.1737|GBA81_07400!!!Anthranilate!phosphoribosyltransferase!(EC!2.4.2.18)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	77.59%
+Cluster 538302
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	arginine repressor	BAF39701
+fig|1681.836.peg.155|GBA81_09015!!!Arginine!pathway!regulatory!protein!ArgR,!repressor!of!arg!regulon!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	72.09%
+Cluster 188340
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	DNA polymerase III, beta chain	ADC85017
+fig|1681.836.peg.1613|GBA81_06775!!!DNA!polymerase!III!beta!subunit!(EC!2.7.7.7)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.86%
+Cluster 563
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	possible cell surface protein with gram positive anchor domain	AAN24495
+fig|1681.836.peg.1637|GBA81_06900!!!Lead,!cadmium,!zinc!and!mercury!transporting!ATPase!(EC!3.6.3.3)!(EC!3.6.3.5);!Copper-translocating!P-type!ATPase!(EC!3.6.3.4)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	89.10%
+Cluster 657992
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	phosphoribosyl-ATP pyrophosphatase	ABK03073
+fig|1681.836.peg.928|GBA81_03400!!!Phosphoribosyl-ATP!pyrophosphatase!(EC!3.6.1.31)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.11%
+Cluster 84578
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Hypothetical protein	ACD98913
+fig|1681.836.peg.1638|GBA81_06905!!!Cell!wall!surface!anchor!family!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	82.52%
+Cluster 327732
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	tryptophan synthase alpha chain	AAN24572
+fig|1681.836.peg.931|GBA81_03415!!!Tryptophan!synthase!alpha!chain!(EC!4.2.1.20)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	85.17%
+Cluster 521726
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	transcriptional regulator, PadR-like family	ACJ52971
+fig|1681.836.peg.894|GBA81_03225!!!PadR-like!family!transcriptional!regulator!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	88.51%
+Cluster 155151
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	quinolinate synthetase complex, A subunit	ADH00678
+fig|1681.836.peg.401|GBA81_00915!!!Quinolinate!synthetase!(EC!2.5.1.72)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	90.85%
+Cluster 360427
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Transcriptional regulator	ACD98296
+fig|1681.836.peg.136|GBA81_08925!!!Transcriptional!regulator,!LysR!family!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	80.81%
+Cluster 57661
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	arginyl-tRNA synthetase	ACJ53376
+fig|1681.836.peg.814|GBA81_02840!!!Arginyl-tRNA!synthetase!(EC!6.1.1.19)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	72.24%
+Cluster 702248
+13423	CP000359	Deinococcus geothermalis DSM 11300, complete genome.	No	Deinococci	cold-shock DNA-binding domain protein	ABF45306
+fig|1681.836.peg.351|GBA81_00675!!!Cold!shock!protein!of!CSP!family!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	61.19%
+Cluster 169794
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	sortase family protein	ADG99545
+fig|1681.836.peg.116|GBA81_08820!!!Sortase!(surface!protein!transpeptidase)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	60.39%
+Cluster 179487
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Glycosyltransferase	ADC85639
+fig|1681.836.peg.1701|GBA81_07220!!!Glycosyltransferase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	62.63%
+Cluster 116803
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical protein	AAN25250
+fig|1681.836.peg.1013|GBA81_03830!!!tRNA!threonylcarbamoyladenosine!biosynthesis!protein!TsaB!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	65.62%
+Cluster 302939
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	hypothetical protein	ADH00408
+fig|1681.836.peg.872!!!Lipase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	95.52%
+fig|1681.836.peg.1758|GBA81_07510!!!Esterase/lipase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	97.73%
+Cluster 225376
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	putative nucleoside hydrolase protein	BAF40267
+fig|1681.836.peg.559|GBA81_01660!!!Inosine-uridine!preferring!nucleoside!hydrolase!(EC!3.2.2.1)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	60.92%
+Cluster 434106
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	isochorismatase hydrolase	ACJ52701
+fig|1681.836.peg.1841|GBA81_07925!!!Nicotinamidase!(EC!3.5.1.19)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	89.22%
+Cluster 229376
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	Integrase, catalytic region	ACJ51566
+fig|1681.836.peg.1636|GBA81_06895!!!Mobile!element!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	63.39%
+fig|1681.836.peg.1851!!!Mobile!element!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	79.08%
+Cluster 107719
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	Undecaprenyl-phosphate galactose phosphotransferase	ACJ53176
+fig|1681.836.peg.658|GBA81_02060!!!Undecaprenyl-phosphate!galactosephosphotransferase!(EC!2.7.8.6)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.04%
+Cluster 92730
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAF39943
+fig|1681.836.peg.537|GBA81_01545!!!Collagen!alpha!1(I)!chain!precursor!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.54%
+Cluster 767495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L36	BAC19237
+fig|1681.836.peg.1678|GBA81_07105!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	67.50%
+Cluster 315545
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAF39942
+fig|1681.836.peg.536|GBA81_01540!!!Lon-like!protease!with!PDZ!domain!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	64.18%
+Cluster 365287
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	RNA polymerase, sigma-24 subunit, ECF subfamily	ADH00709
+fig|1681.836.peg.420|GBA81_00995!!!RNA!polymerase!sigma-70!factor!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	71.31%
+Cluster 161740
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative PTS system, galactitol-specific IIC component	ACI07228
+fig|1681.836.peg.680|GBA81_02160!!!PTS!system,!galactitol-specific!IIC!component!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	60.24%
+Cluster 303301
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	translation initiation factor If-3	BAF39857
+fig|1681.836.peg.409|GBA81_00955!!!Translation!initiation!factor!3!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	94.37%
+Cluster 320476
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	possible amidotransferase	AAN24140
+fig|1681.836.peg.709|GBA81_02300!!!Glutamine!amidotransferase,!class!I!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.69%
+Cluster 608862
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	glycine cleavage system H protein	AAN25028
+fig|1681.836.peg.616|GBA81_01925!!!Glycine!cleavage!system!H!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.81%
+Cluster 459023
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Putative esterase	ACD97536
+fig|1681.836.peg.131|GBA81_08895!!!possible!phospholipase/carboxylesterase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	68.51%
+Cluster 217341
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	L-lactate dehydrogenase 2	BAF39898
+fig|1681.836.peg.464|GBA81_01205!!!L-lactate!dehydrogenase!(EC!1.1.1.27)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	90.94%
+Cluster 109274
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	nicotinate phosphoribosyltransferase	ADG32865
+fig|1681.836.peg.697|GBA81_02245!!!Nicotinate!phosphoribosyltransferase!(EC!6.3.4.21)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	78.18%
+Cluster 783249
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Hypothetical protein	ACD99194
+fig|1681.836.peg.1377|GBA81_05620!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	96.55%
+Cluster 158066
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	glucose-1-phosphate adenylyltransferase	ACQ80569
+fig|1681.836.peg.1807|GBA81_07755!!!Glucose-1-phosphate!adenylyltransferase!(EC!2.7.7.27)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	63.86%
+Cluster 591374
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Hypothetical protein	ACD98102
+fig|1681.836.peg.175|GBA81_09100!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	67.81%
+Cluster 345912
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	ABC transporter related	ACJ53076
+fig|1681.836.peg.1550|GBA81_06475!!!ABC!transporter,!ATP-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.54%
+Cluster 358788
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Putative hydrolse	ACD98078
+fig|1681.836.peg.14|GBA81_08335!!!Hydrolase,!alpha/beta!fold!family!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	71.69%
+Cluster 80482
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	putative transcriptional regulator	ADG99528
+fig|1681.836.peg.1575|GBA81_06590!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	75.36%
+Cluster 470337
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	hypothetical protein	ADH01108
+fig|1681.836.peg.1405|GBA81_05750!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	71.92%
+Cluster 106163
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	Transposase	ADH00393
+fig|1681.836.peg.208|GBA81_09215!!!Transposase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	60.35%
+Cluster 250293
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical protein	AAN24142
+fig|1681.836.peg.711|GBA81_02310!!!Cobalt-zinc-cadmium!resistance!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	86.09%
+Cluster 343976
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	protein of unknown function DUF1275	ACJ51322
+fig|1681.836.peg.958|GBA81_03575!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.07%
+Cluster 589472
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	cold shock protein	ADG33226
+fig|1681.836.peg.345|GBA81_00645!!!Cold!shock!protein!of!CSP!family!=>!SCO4325!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	79.07%
+Cluster 365471
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	anaerobic ribonucleoside-triphosphate reductase activating protein	AAN25536
+fig|1681.836.peg.554|GBA81_01630!!!Ribonucleotide!reductase!of!class!III!(anaerobic),!activating!protein!(EC!1.97.1.4)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	85.96%
+Cluster 266429
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ACJ51938
+fig|1681.836.peg.471|GBA81_01230!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.79%
+Cluster 427679
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	ABC-type cobalt transport system permease component	ACD97866
+fig|1681.836.peg.1189!!!Transmembrane!component!BL0694!of!energizing!module!of!predicted!ECF!transporter!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.63%
+Cluster 137457
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Poly-gamma-glutamate biosynthesis protein	ACD99133
+fig|1681.836.peg.1323|GBA81_05345!!!Capsule!biosynthesis!protein!capA!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	75.39%
+Cluster 181601
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	hypothetical protein	ADG32909
+fig|1681.836.peg.1278|GBA81_05110!!!FIG00003370:!Multicopper!polyphenol!oxidase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	64.58%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|1681.836.peg.1358|GBA81_05520!!!Translation!initiation!factor!1!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	79.17%
+Cluster 42014
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	possible efflux transporter protein	BAF40272
+fig|1681.836.peg.102|GBA81_08750!!!Uncharacterized!MFS-type!transporter!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	97.66%
+Cluster 317573
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	PHP C-terminal domain protein	ADH00826
+fig|1681.836.peg.541|GBA81_01565!!!FIG00031715:!Predicted!metal-dependent!phosphoesterases!(PHP!family)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.65%
+Cluster 387226
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAF39907
+fig|1681.836.peg.478|GBA81_01265!!!Hypothetical!protein!BAD_1126!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	63.29%
+Cluster 196691
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Putative virion core protein	ACD98100
+fig|1681.836.peg.1766!!!Putative!membrane-spanning!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	91.84%
+Cluster 318735
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	proline synthetase-associated protein	ADC84874
+fig|1681.836.peg.772|GBA81_02615!!!Pyridoxal!phosphate-containing!protein!YggS!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	68.98%
+Cluster 224660
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	Cobyrinic acid ac-diamide synthase	ABS04602
+fig|1681.836.peg.405|GBA81_00935!!!ParA-like!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	60.93%
+Cluster 78599
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	cell cycle protein	ADG99550
+fig|1681.836.peg.121|GBA81_08845!!!FtsW-like!cell!division!membrane!protein!CA_C0505!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	71.34%
+Cluster 188400
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	D-alanine--D-alanine ligase	ADC85273
+fig|1681.836.peg.788|GBA81_02710!!!D-alanine--D-alanine!ligase!(EC!6.3.2.4)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	69.82%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|1681.836.peg.831|GBA81_02920!!!LSU!ribosomal!protein!L11p!(L12e)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.13%
+Cluster 253156
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAF39642
+fig|1681.836.peg.1015|GBA81_03840!!!DNA!polymerase!III!delta!subunit!(EC!2.7.7.7)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	75.00%
+Cluster 322308
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	extracellular solute-binding protein family 3	ACQ80694
+fig|1681.836.peg.330|GBA81_00575!!!ABC!transporter,!substrate-binding!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	60.57%
+Cluster 229526
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	probable ATP binding protein of ABC transporter	AAN24714
+fig|1681.836.peg.213|GBA81_00025!!!Efflux!ABC!transporter,!ATP-binding!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	95.11%
+Cluster 383648
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative uridylate kinase	BAG18690
+fig|1681.836.peg.997|GBA81_03750!!!Uridylate!kinase!(EC!2.7.4.22)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	64.92%
+Cluster 381377
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Putative phosphatidylethanolamine-binding protein	ADC85248
+fig|1681.836.peg.862|GBA81_03070!!!Phospholipid-binding!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	61.20%
+Cluster 653091
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	glutamyl-tRNA(Gln) amidotransferase, C subunit	ACJ51386
+fig|1681.836.peg.1215|GBA81_04815!!!Aspartyl-tRNA(Asn)!amidotransferase!subunit!C!(EC!6.3.5.6)!@!Glutamyl-tRNA(Gln)!amidotransferase!subunit!C!(EC!6.3.5.7)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	96.97%
+Cluster 71934
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	possible protease or peptidase	AAN24166
+fig|1681.836.peg.1277|GBA81_05105!!!Uncharacterized!protease!YrrO!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	74.77%
+Cluster 482857
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ACJ53110
+fig|1681.836.peg.589|GBA81_01800!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	72.73%
+Cluster 38542
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAF39755
+fig|1681.836.peg.1762|GBA81_07530!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	98.03%
+Cluster 422216
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical protein	AAN24320
+fig|1681.836.peg.1144|GBA81_04460!!!FIG00672068:!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	92.72%
+Cluster 344836
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	Cof-like hydrolase	ACJ52556
+fig|1681.836.peg.1182|GBA81_04660!!!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	73.93%
+Cluster 591605
+29405	CP001727	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446, complete genome.	No	Bacillales	ribosomal protein L16	ACV59708
+fig|1681.836.peg.1343|GBA81_05445!!!LSU!ribosomal!protein!L16p!(L10e)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.91%
+Cluster 266679
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	phospholipid/glycerol acyltransferase	ACJ51443
+fig|1681.836.peg.790|GBA81_02725!!!Acyl-CoA:1-acyl-sn-glycerol-3-phosphate!acyltransferase!(EC!2.3.1.51)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	76.87%
+Cluster 553567
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	ribosomal protein S13p/S18e	ABM09763
+fig|1681.836.peg.1360|GBA81_05530!!!SSU!ribosomal!protein!S13p!(S18e)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	80.80%
+Cluster 481927
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	FHA domain containing protein	ADG99954
+fig|1681.836.peg.590|GBA81_01805!!!FOG:!FHA!domain!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.30%
+Cluster 1766
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	putative CoA-substrate-specific enzyme activase	ACJ51722
+fig|1681.836.peg.552|GBA81_01620!!!Activator!of!(R)-2-hydroxyglutaryl-CoA!dehydratase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	73.12%
+Cluster 342270
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	Haloacid dehalogenase domain protein hydrolase, type 3	ACJ52181
+fig|1681.836.peg.963|GBA81_03595!!!Hydrolase,!haloacid!dehalogenase-like!family!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.50%
+Cluster 12431
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	preprotein translocase SecA subunit	BAF39801
+fig|1681.836.peg.1736|GBA81_07395!!!Protein!translocase!subunit!SecA!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	84.79%
+Cluster 108660
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Chloride channel protein	ACD98134
+fig|1681.836.peg.1866|GBA81_08040!!!Chloride!channel!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	60.39%
+Cluster 82225
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	ABC-type dipeptide transport system periplasmic component	ACD97657
+fig|1681.836.peg.435|GBA81_01060!!!ABC!transporter,!substrate-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	87.27%
+Cluster 645663
+212	AE016822	Leifsonia xyli subsp. xyli str. CTCB07, complete genome.	No	Actinobacteridae	50S ribosomal protein L24	AAT89738
+fig|1681.836.peg.1347|GBA81_05465!!!LSU!ribosomal!protein!L24p!(L26e)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	62.16%
+Cluster 132508
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	dTDP-glucose 4,6-dehydratase	ADH01295
+fig|1681.836.peg.1557|GBA81_06510!!!dTDP-glucose!4,6-dehydratase!(EC!4.2.1.46)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.00%
+fig|1681.836.peg.1563|GBA81_06535!!!dTDP-glucose!4,6-dehydratase!(EC!4.2.1.46)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	68.04%
+Cluster 517659
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical protein with acyl transferase domain	AAN24581
+fig|1681.836.peg.1030|GBA81_03910!!!Acetyltransferase,!GNAT!family!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	77.53%
+Cluster 250704
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Hypothetical protein	ACD97957
+fig|1681.836.peg.1046|GBA81_03985!!!putative!membrane!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	81.82%
+Cluster 139364
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Isocitrate dehydrogenase [NADP]	ADC85788
+fig|1681.836.peg.1006|GBA81_03795!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	86.70%
+Cluster 277329
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	binding-protein-dependent transport systems inner membrane component	ACJ53237
+fig|1681.836.peg.989|GBA81_03710!!!ABC!transporter,!permease!protein!1!(cluster!1,!maltose/g3p/polyamine/iron)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	90.40%
+Cluster 111351
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	possible glycosyltransferase	BAF39532
+fig|1681.836.peg.1772|GBA81_07580!!!Predicted!glycogen!synthase,!ADP-glucose!transglucosylase!(EC!2.4.1.21),!Actinobacterial!type!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	88.94%
+Cluster 628205
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical protein	AAN24057
+fig|1681.836.peg.1485|GBA81_06165!!!FIG00426715:!hypothetical!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	65.08%
+Cluster 469086
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	narrowly conserved hypothetical protein	AAN25031
+fig|1681.836.peg.620|GBA81_01945!!!ADP-ribose!pyrophosphatase!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	83.17%
+Cluster 381510
+12738	CP000509	Nocardioides sp. JS614, complete genome.	No	Actinobacteridae	LSU ribosomal protein L1P	ABL80222
+fig|1681.836.peg.830|GBA81_02915!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	67.83%
+Cluster 46841
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Lipopolysaccharide biosynthesis protein	ACD99017
+fig|1681.836.peg.168|GBA81_09070!!!Alpha-L-Rha!alpha-1,2-L-rhamnosyltransferase/alpha-L-Rha!alpha-1,3-L-!rhamnosyltransferase!(EC!2.4.1.-)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	75.68%
+Cluster 401337
+17583	CP001750	Bifidobacterium dentium Bd1, complete genome.	Yes	Actinobacteridae	Phosphoglycerate mutase family protein	ADB09855
+fig|1681.836.peg.1057|GBA81_04045!!!Glucosyl-3-phosphoglycerate!phosphatase!(EC!3.1.3.85)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	63.75%
+Cluster 441404
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Imidazole glycerol phosphate synthase, glutamine amidotransferase subunit	ADC84606
+fig|1681.836.peg.477|GBA81_01260!!!Imidazole!glycerol!phosphate!synthase!amidotransferase!subunit!HisH!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	70.37%
+Cluster 18509
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	copper-translocating P-type ATPase	ACJ51379
+fig|1681.836.peg.1207|GBA81_04785!!!Lead,!cadmium,!zinc!and!mercury!transporting!ATPase!(EC!3.6.3.3)!(EC!3.6.3.5);!Copper-translocating!P-type!ATPase!(EC!3.6.3.4)!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.10%
+Cluster 422338
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical integral membrane with weak similarity to proteins in BioY family	AAN25326
+fig|1681.836.peg.1255|GBA81_05000!!!Substrate-specific!component!BioY!of!biotin!ECF!transporter!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	66.84%
+Cluster 357276
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	probable DeoR-type transcriptional regulator	BAF40114
+fig|1681.836.peg.606|GBA81_01880!!!Transcriptional!regulator,!DeoR!family!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	93.26%
+Cluster 90050
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical protein	AAN24162
+fig|1681.836.peg.1281|GBA81_05125!!!Cell!division!initiation!protein!DivIVA!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	65.45%
+Cluster 407367
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	Vitamin K epoxide reductase	ACJ51873
+fig|1681.836.peg.542|GBA81_01570!!!Integral!membrane!protein!!![Bifidobacterium!bifidum!strain!BIOML-A20!|!1681.836]	68.95%

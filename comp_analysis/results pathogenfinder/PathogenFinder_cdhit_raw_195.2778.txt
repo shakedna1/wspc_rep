@@ -1,0 +1,927 @@
+Cluster 331896
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	tRNA delta(2)-isopentenylpyrophosphate transferase	AAW34756
+fig|195.2778.peg.1430!!!tRNA!dimethylallyltransferase!(EC!2.5.1.75)!!![Campylobacter!coli!strain!202823!|!195.2778]	79.58%
+Cluster 139588
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	trigger factor (peptidyl-prolyl cis /trans isomerase, chaperone)	ABV51781
+fig|195.2778.peg.1648!!!Cell!division!trigger!factor!(EC!5.2.1.8)!!![Campylobacter!coli!strain!202823!|!195.2778]	92.36%
+Cluster 469984
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein TIGR00044	ABS43994
+fig|195.2778.peg.661!!!Pyridoxal!phosphate-containing!protein!YggS!!![Campylobacter!coli!strain!202823!|!195.2778]	90.48%
+Cluster 380453
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	disulfide bond formation protein B	ABV52411
+fig|195.2778.peg.79!!!Inner!membrane!thiol:disulfide!oxidoreductase,!DsbB-like!!![Campylobacter!coli!strain!202823!|!195.2778]	66.23%
+Cluster 221306
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	methyl-accepting chemotaxis protein	EAQ73068
+fig|195.2778.peg.905!!!Putative!MCP-type!signal!transduction!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	87.36%
+Cluster 56208
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	motility accessory factor	AAW35963
+fig|195.2778.peg.512!!!Motility!accessory!factor!!![Campylobacter!coli!strain!202823!|!195.2778]	98.24%
+Cluster 611544
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ73313
+fig|195.2778.peg.260!!!Integral!membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	86.03%
+Cluster 176186
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	peptidase, putative	EAQ72972
+fig|195.2778.peg.920!!!FIG015287:!Zinc!protease!!![Campylobacter!coli!strain!202823!|!195.2778]	77.83%
+Cluster 727120
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72565
+fig|195.2778.peg.552!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 60379
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	cytochrome c552	AAW35982
+fig|195.2778.peg.1806!!!Cytochrome!c552!precursor!(EC!1.7.2.2)!!![Campylobacter!coli!strain!202823!|!195.2778]	92.79%
+Cluster 427416
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	NAD-dependent deacetylase	EAQ72226
+fig|195.2778.peg.995!!!NAD-dependent!protein!deacetylase!of!SIR2!family!!![Campylobacter!coli!strain!202823!|!195.2778]	98.71%
+Cluster 597022
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	flagellar basal-body rod protein FlgB	ABS43835
+fig|195.2778.peg.981!!!Flagellar!basal-body!rod!protein!FlgB!!![Campylobacter!coli!strain!202823!|!195.2778]	98.60%
+Cluster 41205
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	ferric enterobactin uptake receptor	CAL34884
+fig|195.2778.peg.1149!!!Ferric!receptor!CfrA!!![Campylobacter!coli!strain!202823!|!195.2778]	99.14%
+Cluster 508170
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative membrane protein	CAL34602
+fig|195.2778.peg.911!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	65.12%
+Cluster 245612
+32593	CP001999	Arcobacter nitrofigilis DSM 7299, complete genome.	No	Epsilonproteobacteria	aspartate-semialdehyde dehydrogenase	ADG93884
+fig|195.2778.peg.1685!!!Aspartate-semialdehyde!dehydrogenase!(EC!1.2.1.11)!!![Campylobacter!coli!strain!202823!|!195.2778]	61.22%
+Cluster 415190
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved domain protein	EAQ73297
+fig|195.2778.peg.404!!!SrpA-related!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	69.91%
+Cluster 48310
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative N-acetylmuramoyl-L-alanine amidase	ABV52812
+fig|195.2778.peg.1612!!!N-acetylmuramoyl-L-alanine!amidase!(EC!3.5.1.28)!!![Campylobacter!coli!strain!202823!|!195.2778]	74.85%
+Cluster 198578
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	ATP-sulfurylase family protein	ABS43413
+fig|195.2778.peg.333!!!Sulfate!adenylyltransferase!(EC!2.7.7.4)!!![Campylobacter!coli!strain!202823!|!195.2778]	81.61%
+Cluster 92265
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	HAD-superfamily phosphatase, subfamily IIIC	EAQ72583
+fig|195.2778.peg.550!!!HAD-superfamily!phosphatase,!subfamily!IIIC!!![Campylobacter!coli!strain!202823!|!195.2778]	99.42%
+Cluster 740390
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	ABS44067
+fig|195.2778.peg.188!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	89.55%
+Cluster 729355
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	small hydrophobic protein	CAL34947
+fig|195.2778.peg.1055!!!Small!hydrophobic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 391726
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV53175
+fig|195.2778.peg.195!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	64.03%
+Cluster 422296
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	peptide ABC transporter, ATP-binding protein	EAQ72646
+fig|195.2778.peg.1524!!!Putative!peptide!ABC-transport!system!ATP-binding!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	71.19%
+Cluster 90975
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	mechanosensitive ion channel family protein	EAQ72239
+fig|195.2778.peg.1706!!!Uncharacterized!integral!membrane!protein!HP0284!!![Campylobacter!coli!strain!202823!|!195.2778]	82.60%
+Cluster 40475
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	methyl-accepting chemotaxis protein	AAW36112
+fig|195.2778.peg.1294!!!Methyl-accepting!chemotaxis!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	99.57%
+Cluster 540690
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV52206
+fig|195.2778.peg.275!!!Lipopolysaccharide!export!system!protein!LptC!!![Campylobacter!coli!strain!202823!|!195.2778]	73.53%
+Cluster 601631
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	acetyltransferase, GNAT family	EAQ72183
+fig|195.2778.peg.1541!!!Acetyltransferase!!![Campylobacter!coli!strain!202823!|!195.2778]	96.61%
+Cluster 538855
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	NADH-quinone oxidoreductase, J subunit	AAW36166
+fig|195.2778.peg.1395!!!NADH-ubiquinone!oxidoreductase!chain!J!(EC!1.6.5.3)!!![Campylobacter!coli!strain!202823!|!195.2778]	86.55%
+Cluster 294632
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative pyridine nucleotide-disulphide oxidoreductase	CAL34705
+fig|195.2778.peg.1630!!!Thioredoxin!reductase!(EC!1.8.1.9)!!![Campylobacter!coli!strain!202823!|!195.2778]	93.57%
+Cluster 443105
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative methyltransferase	CAL35439
+fig|195.2778.peg.520!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	98.32%
+Cluster 451972
+20083	CP000776	Campylobacter hominis ATCC BAA-381, complete genome.	No	Epsilonproteobacteria	peptidyl-tRNA hydrolase	ABS51477
+fig|195.2778.peg.679!!!Peptidyl-tRNA!hydrolase!(EC!3.1.1.29)!!![Campylobacter!coli!strain!202823!|!195.2778]	63.89%
+Cluster 314441
+17159	CP000792	Campylobacter concisus 13826, complete genome.	Yes	Epsilonproteobacteria	geranyltranstransferase (Farnesyl-diphosphate synthase)(FPP synthase)	EAT98115
+fig|195.2778.peg.1343!!!(2E,6E)-farnesyl!diphosphate!synthase!(EC!2.5.1.10)!!![Campylobacter!coli!strain!202823!|!195.2778]	60.93%
+Cluster 619013
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	TOBE domain protein	AAW34936
+fig|195.2778.peg.690!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	96.99%
+Cluster 269927
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72603
+fig|195.2778.peg.1139!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	79.82%
+Cluster 38933
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	haemin uptake system outer membrane receptor	CAL35711
+fig|195.2778.peg.328!!!Haemin!uptake!system!outer!membrane!receptor!!![Campylobacter!coli!strain!202823!|!195.2778]	76.14%
+Cluster 432258
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABS44036
+fig|195.2778.peg.1091!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	65.80%
+Cluster 128135
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	alginate O-acetyltransferase AlgI	AAW35776
+fig|195.2778.peg.1591!!!Probable!poly(beta-D-mannuronate)!O-acetylase!(EC!2.3.1.-)!!![Campylobacter!coli!strain!202823!|!195.2778]	90.83%
+Cluster 614499
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	ABS44064
+fig|195.2778.peg.894!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	81.48%
+Cluster 667068
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	ABS44630
+fig|195.2778.peg.716!!!Ribosomal!silencing!factor!RsfA!!![Campylobacter!coli!strain!202823!|!195.2778]	91.67%
+Cluster 290587
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative peptide ABC-transport system permease protein	CAL35680
+fig|195.2778.peg.1275!!!Putative!peptide!ABC-transport!system!permease!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	89.44%
+Cluster 165431
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	EAQ72558
+fig|195.2778.peg.1821!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	75.24%
+Cluster 483611
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	lysine decarboxylase family protein	ABS44176
+fig|195.2778.peg.152!!!Predicted!Rossmann!fold!nucleotide-binding!protein,!possible!lysine!decarboxylase!!![Campylobacter!coli!strain!202823!|!195.2778]	88.56%
+Cluster 36130
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	GTP-binding protein	EAQ73461
+fig|195.2778.peg.401!!!ATP/GTP-binding!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	73.76%
+Cluster 125126
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	NADH-quinone oxidoreductase, N subunit	EAQ72698
+fig|195.2778.peg.1391!!!NADH-ubiquinone!oxidoreductase!chain!N!(EC!1.6.5.3)!!![Campylobacter!coli!strain!202823!|!195.2778]	73.96%
+Cluster 126780
+12517	CP000932	Campylobacter lari RM2100, complete genome.	Yes	Epsilonproteobacteria	cysteinyl-tRNA synthetase	ACM63959
+fig|195.2778.peg.430!!!Cysteinyl-tRNA!synthetase!(EC!6.1.1.16)!!![Campylobacter!coli!strain!202823!|!195.2778]	64.78%
+Cluster 562401
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	methionine-R-sulfoxide reductase	ACU02910
+fig|195.2778.peg.811!!!Peptide-methionine!(R)-S-oxide!reductase!MsrB!(EC!1.8.4.12)!!![Campylobacter!coli!strain!202823!|!195.2778]	66.10%
+Cluster 138876
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	signal recognition particle protein	AAW34594
+fig|195.2778.peg.651!!!Signal!recognition!particle!protein!Ffh!!![Campylobacter!coli!strain!202823!|!195.2778]	88.54%
+Cluster 762971
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	small hydrophobic protein	CAL35822
+fig|195.2778.peg.1288!!!Small!hydrophobic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	90.91%
+Cluster 382589
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	periplasmic protein	ABV51703
+fig|195.2778.peg.1517!!!TolA!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	77.91%
+Cluster 64864
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	para-aminobenzoate synthase glutamine amidotransferase, component I	ABV52408
+fig|195.2778.peg.77!!!Para-aminobenzoate!synthase,!aminase!component!(EC!2.6.1.85)!/!Aminodeoxychorismate!lyase!(EC!4.1.3.38)!!![Campylobacter!coli!strain!202823!|!195.2778]	65.37%
+Cluster 331938
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV53130
+fig|195.2778.peg.1663!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	98.76%
+Cluster 716248
+29529	CP001816	Sulfurospirillum deleyianum DSM 6946, complete genome.	No	Epsilonproteobacteria	phosphoribosylformylglycinamidine synthase, purS	ACZ12421
+fig|195.2778.peg.969!!!Phosphoribosylformylglycinamidine!synthase,!PurS!subunit!(EC!6.3.5.3)!!![Campylobacter!coli!strain!202823!|!195.2778]	60.49%
+Cluster 361954
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	possible periplasmic protein	CAL35403
+fig|195.2778.peg.561!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	75.28%
+Cluster 660149
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	NapD	AAW35213
+fig|195.2778.peg.448!!!Periplasmic!nitrate!reductase!component!NapD!!![Campylobacter!coli!strain!202823!|!195.2778]	80.18%
+Cluster 539682
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	transformation system protein	AAW35969
+fig|195.2778.peg.1820!!!Type!II!secretion!envelope!pseudopilin!protein!(PulG,guides!folded!protein!to!PulD!in!outer!membrane)!!![Campylobacter!coli!strain!202823!|!195.2778]	81.29%
+Cluster 404649
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72924
+fig|195.2778.peg.310!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	77.55%
+Cluster 341433
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	signal peptidase I	ABS43476
+fig|195.2778.peg.642!!!Signal!peptidase!I!(EC!3.4.21.89)!!![Campylobacter!coli!strain!202823!|!195.2778]	88.30%
+Cluster 726593
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	putative acyl carrier protein	ABS43381
+fig|195.2778.peg.541!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 122301
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	trkA domain protein	EAQ72229
+fig|195.2778.peg.1704!!!TrkA!domain!protein!HP0282!!![Campylobacter!coli!strain!202823!|!195.2778]	78.33%
+Cluster 599258
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative transcriptional regulator	ABV53058
+fig|195.2778.peg.1774!!!Transcriptional!regulator!!![Campylobacter!coli!strain!202823!|!195.2778]	97.89%
+Cluster 178801
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	drug resistance transporter, Bcr/CflA family	EAQ71913
+fig|195.2778.peg.140!!!Multidrug!resistance!transporter,!Bcr/CflA!family!!![Campylobacter!coli!strain!202823!|!195.2778]	87.06%
+Cluster 366882
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative periplasmic protein	ABV52736
+fig|195.2778.peg.1229!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	71.91%
+Cluster 366885
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	hemin ABC transporter, periplasmic hemin-binding protein, putative	EAQ72929
+fig|195.2778.peg.325!!!Haemin!uptake!system!periplasmic!haemin-binding!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	79.10%
+Cluster 125249
+16135	CP000549	Campylobacter jejuni subsp. jejuni 81-176 plasmid pTet, partial sequence.	Yes	Epsilonproteobacteria	cpp17	EAQ71823
+fig|195.2778.peg.355!!!IncQ!plasmid!conjugative!transfer!DNA!nicking!endonuclease!TraR!(pTi!VirD2!homolog)!!![Campylobacter!coli!strain!202823!|!195.2778]	97.40%
+Cluster 604003
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV51997
+fig|195.2778.peg.409!!!Integral!membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	97.86%
+Cluster 253308
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	A/G-specific adenine glycosylase	EAQ72844
+fig|195.2778.peg.322!!!A/G-specific!adenine!glycosylase!(EC!3.2.2.-)!!![Campylobacter!coli!strain!202823!|!195.2778]	81.12%
+Cluster 371963
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative transmembrane protein	CAL34503
+fig|195.2778.peg.1103!!!Probable!transmembrane!protein!Cj0352!!![Campylobacter!coli!strain!202823!|!195.2778]	73.76%
+Cluster 391456
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	cysQ protein	EAQ72611
+fig|195.2778.peg.196!!!3'(2'),5'-bisphosphate!nucleotidase!(EC!3.1.3.7)!!![Campylobacter!coli!strain!202823!|!195.2778]	73.23%
+Cluster 186542
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative molybdopterin biosynthesis protein	ABV53020
+fig|195.2778.peg.1724!!!Molybdopterin!molybdenumtransferase!(EC!2.10.1.1)!!![Campylobacter!coli!strain!202823!|!195.2778]	96.97%
+Cluster 356520
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative glucosyltransferase	CAL35262
+fig|195.2778.peg.1184!!!Beta-1,3-galactosyltransferase!/!Beta-1,4-galactosyltransferase!!![Campylobacter!coli!strain!202823!|!195.2778]	76.19%
+Cluster 191412
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	general secretory pathway protein F	ABS43624
+fig|195.2778.peg.775!!!Type!II!secretion!system!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	61.64%
+Cluster 46883
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	methyl-accepting chemotaxis protein	EAQ73158
+fig|195.2778.peg.229!!!Methyl-accepting!chemotaxis!signal!transduction!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	92.79%
+fig|195.2778.peg.1645!!!Methyl-accepting!chemotaxis!signal!transduction!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 16156
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	oxidoreductase, FAD-binding, iron-sulfur cluster-binding	ABS43573
+fig|195.2778.peg.1273!!!Predicted!D-lactate!dehydrogenase,!Fe-S!protein,!FAD/FMN-containing!!![Campylobacter!coli!strain!202823!|!195.2778]	98.05%
+Cluster 407969
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	cysteine-rich domain protein	ABV51668
+fig|195.2778.peg.1562!!!Predicted!L-lactate!dehydrogenase,!Fe-S!oxidoreductase!subunit!YkgE!!![Campylobacter!coli!strain!202823!|!195.2778]	93.06%
+Cluster 59285
+17449	CP000575	Staphylothermus marinus F1, complete genome.	No	Thermoprotei	threonyl-tRNA synthetase	ABN70077
+fig|195.2778.peg.842!!!Protein!translocase!subunit!YajC!!![Campylobacter!coli!strain!202823!|!195.2778]	66.67%
+Cluster 391870
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	AAW34642
+fig|195.2778.peg.149!!!Hemerythrin!domain!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	90.38%
+Cluster 548087
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	possible lipoprotein thioredoxin	ABV53164
+fig|195.2778.peg.874!!!Possible!lipoprotein!thiredoxin!!![Campylobacter!coli!strain!202823!|!195.2778]	83.83%
+Cluster 713931
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	EAQ72966
+fig|195.2778.peg.822!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	79.52%
+Cluster 594413
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV52083
+fig|195.2778.peg.976!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	80.56%
+Cluster 519056
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	MAF-like protein	ABV52070
+fig|195.2778.peg.963!!!Septum!formation!protein!Maf!!![Campylobacter!coli!strain!202823!|!195.2778]	72.68%
+Cluster 150995
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	UDP-N-acetylmuramate--alanine ligase	AAW35523
+fig|195.2778.peg.991!!!UDP-N-acetylmuramate--L-alanine!ligase!(EC!6.3.2.8)!!![Campylobacter!coli!strain!202823!|!195.2778]	96.52%
+Cluster 197057
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative transmembrane transport protein	ABV52576
+fig|195.2778.peg.1668!!!Putative!transmembrane!transport!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	80.31%
+Cluster 433161
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	NADH dehydrogenase I chain F	ABV53069
+fig|195.2778.peg.1531!!!FIG00010922:!Possible!NADH-ubiquinone!oxidoreductase!subunit!!![Campylobacter!coli!strain!202823!|!195.2778]	81.74%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|195.2778.peg.947!!!SSU!ribosomal!protein!S12p!(S23e)!!![Campylobacter!coli!strain!202823!|!195.2778]	71.88%
+Cluster 594573
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	cytochrome c family protein	EAQ72181
+fig|195.2778.peg.1688!!!Putative!cytochrome!c!!![Campylobacter!coli!strain!202823!|!195.2778]	84.62%
+Cluster 207223
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	flagellin modification protein, PseA	EAQ72845
+fig|195.2778.peg.530!!!Pseudaminic!acid!biosynthesis!protein!PseA,!possible!Pse5Ac7Ac!acetamidino!synthase!!![Campylobacter!coli!strain!202823!|!195.2778]	99.74%
+Cluster 554655
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72041
+fig|195.2778.peg.9!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	82.21%
+Cluster 153482
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative arsenical pump membrane protein	ABV52730
+fig|195.2778.peg.1223!!!putative!anion!permease!!![Campylobacter!coli!strain!202823!|!195.2778]	67.30%
+Cluster 333793
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	oxidoreductase, Gfo/Idh/MocA family	ABS43930
+fig|195.2778.peg.959!!!Predicted!dehydrogenases!and!related!proteins!!![Campylobacter!coli!strain!202823!|!195.2778]	75.35%
+Cluster 458629
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	potassium uptake protein TrkA, putative	EAQ72893
+fig|195.2778.peg.566!!!KtrAB!potassium!uptake!system,!peripheral!membrane!component!KtrA!!![Campylobacter!coli!strain!202823!|!195.2778]	93.06%
+Cluster 468258
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	ABS44023
+fig|195.2778.peg.712!!!FIG022708:!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	81.04%
+Cluster 673244
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	folB domain protein	EAQ73221
+fig|195.2778.peg.1107!!!Dihydroneopterin!aldolase!(EC!4.1.2.25)!!![Campylobacter!coli!strain!202823!|!195.2778]	66.67%
+Cluster 490234
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative peptidase C39 family protein	CAL34232
+fig|195.2778.peg.156!!!Bacteriocin!resistance!protein;!peptidase!C39!!![Campylobacter!coli!strain!202823!|!195.2778]	97.27%
+Cluster 658277
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	multidrug resistance protein, SMR family	EAQ72058
+fig|195.2778.peg.1209!!!Spermidine!export!protein!MdtJ!!![Campylobacter!coli!strain!202823!|!195.2778]	86.73%
+Cluster 264321
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	lipoprotein, putative	ABV51970
+fig|195.2778.peg.386!!!putative!lipoprotein!!![Campylobacter!coli!strain!202823!|!195.2778]	73.49%
+Cluster 741504
+12517	CP000932	Campylobacter lari RM2100, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	ACM64112
+fig|195.2778.peg.886!!!FIG00469923:!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	74.24%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|195.2778.peg.927!!!Translation!elongation!factor!Tu!!![Campylobacter!coli!strain!202823!|!195.2778]	63.41%
+Cluster 20223
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	flagellar hook subunit protein	CAL35823
+fig|195.2778.peg.1289!!!Paralog!of!flagellar!hook!protein!FlgE!!![Campylobacter!coli!strain!202823!|!195.2778]	74.74%
+Cluster 485898
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	thiamine-phosphate pyrophosphorylase, putative	EAQ72165
+fig|195.2778.peg.1665!!!Thiazole!tautomerase!TenI!(EC!5.3.99.10)!!![Campylobacter!coli!strain!202823!|!195.2778]	82.59%
+Cluster 471135
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	uroporphyrinogen-III synthase	ABS43409
+fig|195.2778.peg.856!!!Uroporphyrinogen-III!synthase!(EC!4.2.1.75)!!![Campylobacter!coli!strain!202823!|!195.2778]	68.90%
+Cluster 741858
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ71894
+fig|195.2778.peg.45!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Campylobacter!coli!strain!202823!|!195.2778]	91.11%
+Cluster 401447
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	AAW35463
+fig|195.2778.peg.128!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	88.57%
+Cluster 384067
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	membrane protein, putative	AAW35621
+fig|195.2778.peg.1202!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	87.98%
+Cluster 50715
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	motility accessory factor (function unknown)	CAL35432
+fig|195.2778.peg.511!!!Motility!accessory!factor!!![Campylobacter!coli!strain!202823!|!195.2778]	82.34%
+Cluster 486541
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	nitroreductase family protein	ABS43211
+fig|195.2778.peg.1543!!!Oxygen-insensitive!NAD(P)H!nitroreductase!(EC!1.-.-.-)!/!Dihydropteridine!reductase!(EC!1.5.1.34)!!![Campylobacter!coli!strain!202823!|!195.2778]	85.07%
+Cluster 248011
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	polyA polymerase family protein	AAW35217
+fig|195.2778.peg.441!!!CCA!tRNA!nucleotidyltransferase!(EC!2.7.7.72)!!![Campylobacter!coli!strain!202823!|!195.2778]	79.53%
+Cluster 403013
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	TonB-dependent colicin receptor protein, putative	AAW34769
+fig|195.2778.peg.1415!!!putative!TonB-dependent!receptor!!![Campylobacter!coli!strain!202823!|!195.2778]	93.95%
+Cluster 59345
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	DNA primase	EAQ72538
+fig|195.2778.peg.1140!!!DNA!primase!DnaG!!![Campylobacter!coli!strain!202823!|!195.2778]	77.63%
+Cluster 211563
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	Ser/Thr protein phosphatase family protein	EAQ72397
+fig|195.2778.peg.632!!!Predicted!phosphohydrolase!!![Campylobacter!coli!strain!202823!|!195.2778]	79.14%
+Cluster 669995
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	EAQ71921
+fig|195.2778.peg.144!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	71.96%
+Cluster 537273
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	ATP synthase F1, delta subunit	EAQ71908
+fig|195.2778.peg.175!!!ATP!synthase!delta!chain!(EC!3.6.3.14)!!![Campylobacter!coli!strain!202823!|!195.2778]	67.05%
+Cluster 553573
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	membrane protein, putative	EAQ73402
+fig|195.2778.peg.278!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	65.85%
+Cluster 705473
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	cytochrome c oxidase, cbb3-type, subunit IV	EAQ72682
+fig|195.2778.peg.1117!!!Cytochrome!c!oxidase!(cbb3-type)!subunit!CcoQ!(EC!1.9.3.1)!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 705476
+16135	CP000549	Campylobacter jejuni subsp. jejuni 81-176 plasmid pTet, partial sequence.	Yes	Epsilonproteobacteria	cpp13	EAQ71806
+fig|195.2778.peg.359!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 222969
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	PDZ domain protein	ABV53142
+fig|195.2778.peg.1342!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	82.64%
+Cluster 447959
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	TenA/Thi-4 family protein	ABS44668
+fig|195.2778.peg.895!!!Thiaminase!II!(EC!3.5.99.2)!involved!in!salvage!of!thiamin!pyrimidine!moiety,!TenA!subgroup!with!Cys!in!active!site!!![Campylobacter!coli!strain!202823!|!195.2778]	73.30%
+Cluster 213922
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	capsular polysaccharide ABC transporter	EAQ72952
+fig|195.2778.peg.1066!!!Capsular!polysaccharide!export!system!inner!membrane!protein!KpsE!!![Campylobacter!coli!strain!202823!|!195.2778]	78.71%
+Cluster 159721
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	citrate synthase	ABV53177
+fig|195.2778.peg.197!!!Citrate!synthase!(si)!(EC!2.3.3.1)!!![Campylobacter!coli!strain!202823!|!195.2778]	94.79%
+Cluster 134429
+12517	CP000932	Campylobacter lari RM2100, complete genome.	Yes	Epsilonproteobacteria	sodium- and chloride-dependent transporter, SNF family	ACM64522
+fig|195.2778.peg.26!!!Sodium-dependent!transporter,!SNF!family!!![Campylobacter!coli!strain!202823!|!195.2778]	68.24%
+Cluster 54001
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	motility accessory factor	AAW35965
+fig|195.2778.peg.510!!!Motility!accessory!factor!!![Campylobacter!coli!strain!202823!|!195.2778]	97.48%
+Cluster 642952
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	flagellar protein FlaG	EAQ72996
+fig|195.2778.peg.1496!!!Flagellar!protein!FlaG!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 751466
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	EAQ72612
+fig|195.2778.peg.866!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	80.00%
+Cluster 631407
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved domain protein	EAQ73182
+fig|195.2778.peg.414!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	72.00%
+Cluster 768104
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	EAQ72394
+fig|195.2778.peg.81!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	63.04%
+Cluster 528444
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	hydrogenase maturation protease HydD	AAW35719
+fig|195.2778.peg.1607!!!Hydrogenase!maturation!protease!!![Campylobacter!coli!strain!202823!|!195.2778]	78.92%
+Cluster 455091
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	conserved domain protein	AAW34664
+fig|195.2778.peg.170!!!Predicted!L-lactate!dehydrogenase,!hypothetical!protein!subunit!YkgG!!![Campylobacter!coli!strain!202823!|!195.2778]	83.49%
+Cluster 157341
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	major outer membrane protein	CAL35374
+fig|195.2778.peg.1602!!!Major!outer!membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	75.96%
+Cluster 252837
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative periplasmic protein	CAL34904
+fig|195.2778.peg.1029!!!Probable!periplasmic!protein!Cj0776c!!![Campylobacter!coli!strain!202823!|!195.2778]	96.18%
+Cluster 659243
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	multidrug resistance protein, SMR family	AAW34944
+fig|195.2778.peg.681!!!Broad-specificity!multidrug!efflux!pump!YkkC!!![Campylobacter!coli!strain!202823!|!195.2778]	92.59%
+Cluster 251059
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative sugar-phosphate nucleotide transferase	CAL35442
+fig|195.2778.peg.517!!!Glucosamine-1-phosphate!guanylyltransferase!!![Campylobacter!coli!strain!202823!|!195.2778]	99.71%
+Cluster 98206
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative ATP/GTP binding protein	ABV51617
+fig|195.2778.peg.464!!!ATP/GTP-binding!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	94.06%
+Cluster 476077
+16135	CP000549	Campylobacter jejuni subsp. jejuni 81-176 plasmid pTet, partial sequence.	Yes	Epsilonproteobacteria	cpp47	EAQ71790
+fig|195.2778.peg.372!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 334046
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein Cj1069	CAL35186
+fig|195.2778.peg.1548!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	78.72%
+Cluster 646120
+20319	CP000806	Cyanothece sp. ATCC 51142 circular chromosome, complete sequence.	No	Chroococcales	30s ribosomal protein S6	ACB52073
+fig|195.2778.peg.1552!!!SSU!ribosomal!protein!S6p!!![Campylobacter!coli!strain!202823!|!195.2778]	64.00%
+Cluster 366605
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	AAW34742
+fig|195.2778.peg.1444!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	76.12%
+Cluster 176878
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	hypothetical protein Cj1305c (617 family)	CAL35419
+fig|195.2778.peg.546!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	82.09%
+Cluster 608275
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	AAW35412
+fig|195.2778.peg.1709!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	76.09%
+Cluster 135752
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	ABS44400
+fig|195.2778.peg.141!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	95.10%
+Cluster 533866
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	thermonuclease family protein	ABS43163
+fig|195.2778.peg.19!!!Thermonuclease!family!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	73.71%
+Cluster 310026
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	dihydrodipicolinate synthase, putative	AAW35119
+fig|195.2778.peg.938!!!Dihydrodipicolinate!synthase!family!!![Campylobacter!coli!strain!202823!|!195.2778]	94.37%
+Cluster 396270
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72665
+fig|195.2778.peg.329!!!Putative!heme!oxygenase!!![Campylobacter!coli!strain!202823!|!195.2778]	80.08%
+Cluster 592382
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72071
+fig|195.2778.peg.800!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	79.31%
+Cluster 129988
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV51776
+fig|195.2778.peg.1403!!!NAD(P)H-hydrate!epimerase!(EC!5.1.99.6)!/!ADP-dependent!(S)-NAD(P)H-hydrate!dehydratase!(EC!4.2.1.136)!!![Campylobacter!coli!strain!202823!|!195.2778]	85.53%
+Cluster 252688
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	hypothetical protein Cj0760	CAL34888
+fig|195.2778.peg.1155!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	83.53%
+Cluster 172990
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative amidohydrolase family protein	CAL34241
+fig|195.2778.peg.165!!!Adenosine!deaminase!(EC!3.5.4.4),!alternative!form!!![Campylobacter!coli!strain!202823!|!195.2778]	80.20%
+Cluster 754302
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABS44640
+fig|195.2778.peg.1011!!!Highly!acidic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	72.00%
+Cluster 222246
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	lipid-A-disaccharide synthase	ABV51863
+fig|195.2778.peg.710!!!Lipid-A-disaccharide!synthase!(EC!2.4.1.182)!!![Campylobacter!coli!strain!202823!|!195.2778]	85.95%
+Cluster 503388
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	putative cytochrome C-type haem-binding periplasmic protein	EAQ73191
+fig|195.2778.peg.235!!!putative!cytochrome!C-type!haem-binding!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	85.79%
+Cluster 703544
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72012
+fig|195.2778.peg.1564!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	76.32%
+Cluster 588509
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	membrane protein, putative	AAW34975
+fig|195.2778.peg.505!!!Integral!membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	85.03%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|195.2778.peg.1719!!!SSU!ribosomal!protein!S11p!(S14e)!!![Campylobacter!coli!strain!202823!|!195.2778]	61.54%
+Cluster 657510
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72819
+fig|195.2778.peg.781!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	92.92%
+Cluster 599268
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	conserved domain protein	AAW36103
+fig|195.2778.peg.1652!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	99.30%
+Cluster 528227
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	ABS43479
+fig|195.2778.peg.579!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	90.40%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|195.2778.peg.211!!!LSU!ribosomal!protein!L14p!(L23e)!!![Campylobacter!coli!strain!202823!|!195.2778]	70.49%
+Cluster 386055
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative periplasmic beta-lactamase	ABV51875
+fig|195.2778.peg.693!!!Class!D!beta-lactamase!(EC!3.5.2.6)!=>!OXA-61!family!!![Campylobacter!coli!strain!202823!|!195.2778]	99.61%
+Cluster 642963
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	response regulator receiver protein	ADL52289
+fig|195.2778.peg.1161!!!Chemotaxis!regulator!-!transmits!chemoreceptor!signals!to!flagellar!motor!components!CheY!!![Campylobacter!coli!strain!202823!|!195.2778]	70.00%
+Cluster 325532
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	transcriptional regulator, LysR family	ABV52536
+fig|195.2778.peg.2!!!Transcriptional!regulator,!LysR!family!!![Campylobacter!coli!strain!202823!|!195.2778]	80.20%
+Cluster 156765
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative lipoprotein	CAL34645
+fig|195.2778.peg.953!!!Uncharacterized!protein!HP0275!!![Campylobacter!coli!strain!202823!|!195.2778]	71.53%
+Cluster 187377
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	major facilitator family protein	EAQ72293
+fig|195.2778.peg.636!!!Uncharacterized!MFS-type!transporter!!![Campylobacter!coli!strain!202823!|!195.2778]	87.56%
+Cluster 321655
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	lipid A biosynthesis lauroyl acyltransferase	ABS44115
+fig|195.2778.peg.1175!!!Lipid!A!biosynthesis!lauroyl!acyltransferase!(EC!2.3.1.241)!!![Campylobacter!coli!strain!202823!|!195.2778]	65.08%
+Cluster 48305
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	methyl-accepting chemotaxis signal transduction protein	ABV51737
+fig|195.2778.peg.1451!!!Methyl-accepting!chemotaxis!signal!transduction!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	84.37%
+Cluster 510350
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	cvpA family protein	EAQ73236
+fig|195.2778.peg.389!!!Putative!integral!membrane!protein!HP_0181!!![Campylobacter!coli!strain!202823!|!195.2778]	81.18%
+Cluster 350123
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ73388
+fig|195.2778.peg.394!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	80.36%
+Cluster 153146
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	AAW35438
+fig|195.2778.peg.124!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	86.68%
+Cluster 458413
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	DNA/RNA non-specific endonuclease	ABS43341
+fig|195.2778.peg.589!!!DNA/RNA!non-specific!endonuclease!!![Campylobacter!coli!strain!202823!|!195.2778]	75.93%
+Cluster 198404
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	hypothetical protein Cj0254	CAL34408
+fig|195.2778.peg.1014!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	89.15%
+Cluster 594936
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72790
+fig|195.2778.peg.779!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 601628
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	cytochrome c family protein	ABV51754
+fig|195.2778.peg.1437!!!Putative!haem-binding!lipoprotein!!![Campylobacter!coli!strain!202823!|!195.2778]	62.86%
+Cluster 376985
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	peptide ABC transporter, permease protein	ABV53077
+fig|195.2778.peg.1523!!!ABC!transporter,!permease!protein!2!(cluster!5,!nickel/peptides/opines)!!![Campylobacter!coli!strain!202823!|!195.2778]	81.27%
+Cluster 33007
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative flagellin	CAL35008
+fig|195.2778.peg.90!!!Flagellar!hook-associated!protein!FlgL!!![Campylobacter!coli!strain!202823!|!195.2778]	95.07%
+Cluster 24382
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative transmembrane protein	ABV51964
+fig|195.2778.peg.1362!!!Uncharacterized!membrane!anchored!protein!HP_1479!!![Campylobacter!coli!strain!202823!|!195.2778]	85.61%
+Cluster 505762
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ73127
+fig|195.2778.peg.406!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	87.89%
+Cluster 473418
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	endonuclease III	ABV52156
+fig|195.2778.peg.590!!!Endonuclease!III!(EC!4.2.99.18)!!![Campylobacter!coli!strain!202823!|!195.2778]	92.79%
+Cluster 730408
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	acyl carrier protein, putative	AAW35934
+fig|195.2778.peg.548!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	98.63%
+Cluster 706732
+16135	CP000549	Campylobacter jejuni subsp. jejuni 81-176 plasmid pTet, partial sequence.	Yes	Epsilonproteobacteria	cmgB2	EAQ71791
+fig|195.2778.peg.1334!!!Major!pilus!subunit!of!type!IV!secretion!complex,!VirB2!!![Campylobacter!coli!strain!202823!|!195.2778]	97.70%
+Cluster 366876
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	DnaJ domain protein	EAQ72144
+fig|195.2778.peg.1674!!!Possible!dnaJ-like!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 465743
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative integral membrane protein	ABV52651
+fig|195.2778.peg.810!!!MarC!family!integral!membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	86.79%
+Cluster 231329
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV52963
+fig|195.2778.peg.785!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	73.95%
+Cluster 387965
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative DnaJ-like protein	CAL35074
+fig|195.2778.peg.111!!!DnaJ-like!protein!DjlA!!![Campylobacter!coli!strain!202823!|!195.2778]	91.02%
+Cluster 630395
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72535
+fig|195.2778.peg.784!!!JHP0747!family!!![Campylobacter!coli!strain!202823!|!195.2778]	77.17%
+Cluster 425318
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	acylneuraminate cytidylyltransferase (flagellin modification)	CAL35444
+fig|195.2778.peg.515!!!CMP-N,N'-diacetyllegionaminic!acid!synthase!(EC!2.7.7.82)!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 323508
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative flagellar hook assembly protein	ABV51646
+fig|195.2778.peg.146!!!Flagellar!basal-body!rod!modification!protein!FlgD!!![Campylobacter!coli!strain!202823!|!195.2778]	87.76%
+Cluster 449396
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	peptide ABC transporter, ATP-binding protein	ABS43339
+fig|195.2778.peg.1525!!!ABC!transporter,!ATP-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Campylobacter!coli!strain!202823!|!195.2778]	78.28%
+Cluster 423105
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72871
+fig|195.2778.peg.1786!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	89.41%
+Cluster 298661
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ73177
+fig|195.2778.peg.1628!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	77.35%
+Cluster 463261
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	thiol:disulfide interchange protein DsbA, putative	ABV52413
+fig|195.2778.peg.80!!!Periplasmic!thiol:disulfide!interchange!protein,!DsbA-like!!![Campylobacter!coli!strain!202823!|!195.2778]	80.66%
+Cluster 101142
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	amino acid adenylation domain protein	AAW35937
+fig|195.2778.peg.545!!!Putative!amino!acid!activating!enzyme!(EC!6.3.2.-)!!![Campylobacter!coli!strain!202823!|!195.2778]	97.81%
+Cluster 342544
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	DNA ligase, ATP-dependent	EAQ72936
+fig|195.2778.peg.186!!!DNA!ligase!(ATP)!(EC!6.5.1.1)!!![Campylobacter!coli!strain!202823!|!195.2778]	67.03%
+Cluster 59598
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	oxidoreductase, FAD-dependent	ABV52811
+fig|195.2778.peg.1611!!!tRNA!(5-methylaminomethyl-2-thiouridylate)-methyltransferase!(EC!2.1.1.61)!/!FAD-dependent!cmnm(5)s(2)U34!oxidoreductase!!![Campylobacter!coli!strain!202823!|!195.2778]	72.50%
+Cluster 330738
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	integral membrane protein	AAW35284
+fig|195.2778.peg.75!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Campylobacter!coli!strain!202823!|!195.2778]	72.38%
+Cluster 1205
+16135	CP000549	Campylobacter jejuni subsp. jejuni 81-176 plasmid pTet, partial sequence.	Yes	Epsilonproteobacteria	cpp14	EAQ71802
+fig|195.2778.peg.358!!!helicase,!Snf2!family!!![Campylobacter!coli!strain!202823!|!195.2778]	99.02%
+Cluster 477280
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	HAD-superfamily hydrolase, subfamily IA, variant 1 family protein	EAQ72671
+fig|195.2778.peg.1373!!!Predicted!phosphatase!!![Campylobacter!coli!strain!202823!|!195.2778]	88.83%
+Cluster 52433
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	flagellar hook-associated protein	CAL34694
+fig|195.2778.peg.1495!!!Flagellar!cap!protein!FliD!!![Campylobacter!coli!strain!202823!|!195.2778]	99.06%
+Cluster 537581
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV53122
+fig|195.2778.peg.314!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	88.82%
+Cluster 150047
+19023	AP009389	Pelotomaculum thermopropionicum SI DNA, complete genome.	No	Clostridia	thiamine biosynthesis protein	BAF58825
+fig|195.2778.peg.910!!!Phosphomethylpyrimidine!synthase!ThiC!(EC!4.1.99.17)!!![Campylobacter!coli!strain!202823!|!195.2778]	62.56%
+Cluster 288711
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	permease, putative	AAW36156
+fig|195.2778.peg.1769!!!Uncharacterized!membrane!protein,!YraQ!family!!![Campylobacter!coli!strain!202823!|!195.2778]	79.05%
+Cluster 142359
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	apolipoprotein N-acyltransferase	EAQ72160
+fig|195.2778.peg.792!!!Apolipoprotein!N-acyltransferase!/!Copper!homeostasis!protein!CutE!!![Campylobacter!coli!strain!202823!|!195.2778]	80.18%
+Cluster 232285
+13019	CP000153	Sulfurimonas denitrificans DSM 1251, complete genome.	No	Epsilonproteobacteria	conserved hypothetical protein	ABB45367
+fig|195.2778.peg.227!!!23S!rRNA!(adenine(2503)-C(2))-methyltransferase!@!tRNA!(adenine(37)-C(2))-methyltransferase!(EC!2.1.1.192)!!![Campylobacter!coli!strain!202823!|!195.2778]	60.96%
+Cluster 166441
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	CjaB protein	EAQ72077
+fig|195.2778.peg.17!!!Transmembrane!transport!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	86.02%
+Cluster 589092
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	ribosomal protein L22	EAQ72756
+fig|195.2778.peg.216!!!LSU!ribosomal!protein!L22p!(L17e)!!![Campylobacter!coli!strain!202823!|!195.2778]	97.16%
+Cluster 343056
+12517	CP000932	Campylobacter lari RM2100, complete genome.	Yes	Epsilonproteobacteria	fructose-1,6-biphosphatase	ACM64051
+fig|195.2778.peg.627!!!Fructose-1,6-bisphosphatase,!type!I!(EC!3.1.3.11)!!![Campylobacter!coli!strain!202823!|!195.2778]	71.43%
+Cluster 673784
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	arsenical resistance operon repressor	ABV53055
+fig|195.2778.peg.1770!!!Arsenical!resistance!operon!repressor!!![Campylobacter!coli!strain!202823!|!195.2778]	95.24%
+Cluster 478980
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	phosphatidylserine decarboxylase-related protein	EAQ72092
+fig|195.2778.peg.814!!!Phosphatidylserine!decarboxylase-related!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	62.25%
+Cluster 145048
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	MATE efflux family protein	AAW35769
+fig|195.2778.peg.1583!!!Na+-driven!multidrug!efflux!pump!!![Campylobacter!coli!strain!202823!|!195.2778]	98.40%
+Cluster 61801
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	motility accessory factor	AAW35966
+fig|195.2778.peg.1777!!!Motility!accessory!factor!!![Campylobacter!coli!strain!202823!|!195.2778]	98.78%
+Cluster 4875
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	type II restriction-modification enzyme	EAQ71930
+fig|195.2778.peg.136!!!Putative!type!IIS!restriction!/modification!enzyme,!N-terminal!half!!![Campylobacter!coli!strain!202823!|!195.2778]	92.60%
+Cluster 225239
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	phosphate ABC transporter, permease protein PstA, putative	ABV52176
+fig|195.2778.peg.1586!!!Phosphate!ABC!transporter,!permease!protein!PstA!(TC!3.A.1.7.1)!!![Campylobacter!coli!strain!202823!|!195.2778]	99.72%
+Cluster 418033
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	formyl transferase domain protein	AAW35939
+fig|195.2778.peg.542!!!formyl!transferase!domain!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+fig|195.2778.peg.543!!!formyl!transferase!domain!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	94.77%
+Cluster 488826
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	non-heme iron protein, hemerythrin family	ABV52766
+fig|195.2778.peg.1314!!!Hemerythrin!domain!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	87.94%
+Cluster 599386
+12517	CP000932	Campylobacter lari RM2100, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein, putative flavohemoprotein	ACM64831
+fig|195.2778.peg.1272!!!Putative!bacterial!haemoglobin!!![Campylobacter!coli!strain!202823!|!195.2778]	95.07%
+Cluster 489589
+17159	CP000792	Campylobacter concisus 13826, complete genome.	Yes	Epsilonproteobacteria	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	EAT97623
+fig|195.2778.peg.1544!!!CDP-diacylglycerol--glycerol-3-phosphate!3-phosphatidyltransferase!(EC!2.7.8.5)!!![Campylobacter!coli!strain!202823!|!195.2778]	64.04%
+Cluster 438669
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	possible DNA methylase	ABV52965
+fig|195.2778.peg.783!!!16S!rRNA!(guanine(966)-N(2))-methyltransferase!(EC!2.1.1.171)!!![Campylobacter!coli!strain!202823!|!195.2778]	75.22%
+Cluster 743086
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV52968
+fig|195.2778.peg.780!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 638310
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV52500
+fig|195.2778.peg.116!!!Membrane!protein!insertion!efficiency!factor!YidD!!![Campylobacter!coli!strain!202823!|!195.2778]	75.21%
+Cluster 393719
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	transcriptional regulator, IclR family	ABS43641
+fig|195.2778.peg.937!!!Transcriptional!regulator,!IclR!family!!![Campylobacter!coli!strain!202823!|!195.2778]	89.72%
+Cluster 393717
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	TonB system transport protein ExbB	AAW34767
+fig|195.2778.peg.1418!!!Ferric!siderophore!transport!system,!biopolymer!transport!protein!ExbB!!![Campylobacter!coli!strain!202823!|!195.2778]	97.23%
+Cluster 660151
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	EAQ72624
+fig|195.2778.peg.1815!!!Putative!coiled-coil!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	95.54%
+Cluster 300240
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	L-lactate dehydrogenase	EAQ72273
+fig|195.2778.peg.1203!!!L-lactate!dehydrogenase!(EC!1.1.1.27)!!![Campylobacter!coli!strain!202823!|!195.2778]	93.51%
+Cluster 452658
+12517	CP000933	Campylobacter lari RM2100 megaplasmid pCL2100, complete sequence.	Yes	Epsilonproteobacteria	conserved hypothetical protein	ACM64907
+fig|195.2778.peg.351!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	77.63%
+Cluster 551723
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	shikimate kinase	ABS43468
+fig|195.2778.peg.1359!!!Shikimate!kinase!I!(EC!2.7.1.71)!!![Campylobacter!coli!strain!202823!|!195.2778]	75.76%
+Cluster 752955
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	EAQ72407
+fig|195.2778.peg.60!!!Small!hydrophobic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	60.87%
+Cluster 45764
+233	AE000511	Helicobacter pylori 26695, complete genome.	Yes	Epsilonproteobacteria	RNA polymerase sigma-70 factor (rpoD)	AAD07156
+fig|195.2778.peg.1712!!!RNA!polymerase!sigma!factor!RpoD!!![Campylobacter!coli!strain!202823!|!195.2778]	68.67%
+Cluster 21723
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative periplasmic protein	CAL35334
+fig|195.2778.peg.1257!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	72.22%
+Cluster 509018
+16135	CP000549	Campylobacter jejuni subsp. jejuni 81-176 plasmid pTet, partial sequence.	Yes	Epsilonproteobacteria	cpp32	EAQ71794
+fig|195.2778.peg.1336!!!Phage!Rha!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	85.41%
+Cluster 483446
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV51664
+fig|195.2778.peg.320!!!Hemerythrin!domain!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	68.75%
+Cluster 331233
+17161	CP000767	Campylobacter curvus 525.92, complete genome.	Yes	Epsilonproteobacteria	ribosomal protein S2	EAU00943
+fig|195.2778.peg.1218!!!SSU!ribosomal!protein!S2p!(SAe)!!![Campylobacter!coli!strain!202823!|!195.2778]	84.03%
+Cluster 71797
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	flagellin subunit protein FlaA	AAW36297
+fig|195.2778.peg.1723!!!Flagellin!!![Campylobacter!coli!strain!202823!|!195.2778]	99.06%
+fig|195.2778.peg.1776!!!Flagellin!!![Campylobacter!coli!strain!202823!|!195.2778]	100.00%
+Cluster 148121
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	AAW35222
+fig|195.2778.peg.1058!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	84.69%
+Cluster 311393
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	hypothetical protein Cj1330	CAL35443
+fig|195.2778.peg.516!!!Glutamine--fructose-6-phosphate!transaminase!(isomerizing),!isomerase!subunit!(EC!2.6.1.16)!!![Campylobacter!coli!strain!202823!|!195.2778]	99.34%
+Cluster 613776
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	membrane protein, putative	EAQ73069
+fig|195.2778.peg.1438!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	77.04%
+Cluster 157749
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein, authentic frameshift	EAQ72261
+fig|195.2778.peg.1677!!!Multidrug!efflux!system,!outer!membrane!factor!lipoprotein!=>!CmeD!!![Campylobacter!coli!strain!202823!|!195.2778]	99.76%
+Cluster 430649
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	Undecaprenyl-phosphate galactose phosphotransferase	ABN53546
+fig|195.2778.peg.1165!!!Undecaprenyl!phosphate!N,N'-diacetylbacillosamine!1-phosphate!transferase!(EC!2.7.8.36)!!![Campylobacter!coli!strain!202823!|!195.2778]	63.00%
+Cluster 537280
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV51711
+fig|195.2778.peg.1478!!!Nicotinamidase!(EC!3.5.1.19)!!![Campylobacter!coli!strain!202823!|!195.2778]	89.02%
+Cluster 293753
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV52258
+fig|195.2778.peg.303!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	73.56%
+Cluster 754930
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	lipoprotein, putative	EAQ72124
+fig|195.2778.peg.20!!!putative!lipoprotein!!![Campylobacter!coli!strain!202823!|!195.2778]	87.72%
+Cluster 612609
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	biopolymer transport protein, ExbD/TolR family	AAW34768
+fig|195.2778.peg.1417!!!Ferric!siderophore!transport!system,!biopolymer!transport!protein!ExbD!!![Campylobacter!coli!strain!202823!|!195.2778]	91.78%
+Cluster 298720
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	general glycosylation pathway protein	ABV52667
+fig|195.2778.peg.1169!!!GalNAc(5)-diNAcBac-PP-undecaprenol!beta-1,3-glucosyltransferase!(EC!2.4.1.293)!!![Campylobacter!coli!strain!202823!|!195.2778]	85.76%
+Cluster 235890
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	3-oxoacyl-(acyl-carrier-protein) synthase, putative	EAQ72510
+fig|195.2778.peg.549!!!3-oxoacyl-[acyl-carrier-protein]!synthase,!KASIII!(EC!2.3.1.180)!!![Campylobacter!coli!strain!202823!|!195.2778]	98.58%
+Cluster 82760
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	cyclic peptide ABC transporter, ATP-binding protein/permease	EAQ72827
+fig|195.2778.peg.1270!!!ABC-type!siderophore!export!system,!fused!ATPase!and!permease!components!!![Campylobacter!coli!strain!202823!|!195.2778]	96.49%
+Cluster 738232
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	4-oxalocrotonate tautomerase family protein	EAQ73280
+fig|195.2778.peg.760!!!2-hydroxymuconate!tautomerase-like!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	92.65%
+Cluster 290583
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	peptide ABC transporter, permease protein	EAQ72953
+fig|195.2778.peg.1522!!!Putative!peptide!ABC-transport!system!permease!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	88.83%
+Cluster 584152
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	AAW35495
+fig|195.2778.peg.1683!!!Flagellar-associated!protein!FlgQ!!![Campylobacter!coli!strain!202823!|!195.2778]	79.87%
+Cluster 110586
+41467	CP002028	Thermincola sp. JR, complete genome.	No	Clostridia	inosine-5'-monophosphate dehydrogenase	ADG82179
+fig|195.2778.peg.1538!!!Inosine-5'-monophosphate!dehydrogenase!(EC!1.1.1.205)!/!CBS!domain!!![Campylobacter!coli!strain!202823!|!195.2778]	61.57%
+Cluster 340675
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative periplasmic protein	CAL34231
+fig|195.2778.peg.155!!!FIG00973752:!TolA-like!membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	99.65%
+Cluster 755080
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	exodeoxyribonuclease VII, small subunit, putative	EAQ72164
+fig|195.2778.peg.1539!!!Exodeoxyribonuclease!VII!small!subunit!(EC!3.1.11.6)!!![Campylobacter!coli!strain!202823!|!195.2778]	84.21%
+Cluster 98994
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	EAQ73074
+fig|195.2778.peg.1581!!!Protein!hydE!!![Campylobacter!coli!strain!202823!|!195.2778]	97.43%
+Cluster 557223
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	thiredoxin, homolog	EAQ72532
+fig|195.2778.peg.873!!!Possible!periplasmic!thiredoxin!!![Campylobacter!coli!strain!202823!|!195.2778]	77.16%
+Cluster 738329
+13025	CP000116	Thiobacillus denitrificans ATCC 25259, complete genome.	No	Betaproteobacteria	Ribosomal protein L31	AAZ95992
+fig|195.2778.peg.1440!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-dependent!!![Campylobacter!coli!strain!202823!|!195.2778]	62.12%
+Cluster 578410
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative acetyltransferase	ABV51871
+fig|195.2778.peg.697!!!Putative!acetyltransferase!(EC!2.3.1.-)!!![Campylobacter!coli!strain!202823!|!195.2778]	99.26%
+Cluster 109596
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV52791
+fig|195.2778.peg.605!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	93.21%
+Cluster 522866
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative dTDP-4-dehydrorhamnose 3,5-epimerase	CAL35539
+fig|195.2778.peg.1554!!!dTDP-4-dehydrorhamnose!3,5-epimerase!(EC!5.1.3.13)!!![Campylobacter!coli!strain!202823!|!195.2778]	87.22%
+Cluster 579255
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	low molecular weight phosphotyrosine protein phosphatase family protein	EAQ72863
+fig|195.2778.peg.596!!!Low!molecular!weight!protein!tyrosine!phosphatase!(EC!3.1.3.48)!!![Campylobacter!coli!strain!202823!|!195.2778]	83.44%
+Cluster 462093
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	outer membrane liproprotein MapA	EAQ72125
+fig|195.2778.peg.1679!!!Outer!membrane!liproprotein!mapA!precursor!!![Campylobacter!coli!strain!202823!|!195.2778]	77.10%
+Cluster 462092
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative outer membrane protein	CAL35815
+fig|195.2778.peg.1280!!!Putative!outer!membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	86.45%
+Cluster 380845
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	capsular polysaccharide ABC transporter, permease protein	EAQ72939
+fig|195.2778.peg.1068!!!Capsular!polysaccharide!ABC!transporter,!permease!protein!KpsM!!![Campylobacter!coli!strain!202823!|!195.2778]	76.92%
+Cluster 417171
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72584
+fig|195.2778.peg.553!!!GDP-4-amino-4,6-dideoxy-alpha-D-acetylglucosamine!N-acetyltransferase!!![Campylobacter!coli!strain!202823!|!195.2778]	99.16%
+Cluster 149162
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	sigma-54 dependent DNA-binding response regulator	ABS44247
+fig|195.2778.peg.1684!!!Signal-transduction!regulatory!protein!FlgR!!![Campylobacter!coli!strain!202823!|!195.2778]	84.72%
+Cluster 436650
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	biotin biosynthesis protein BioC	EAQ73337
+fig|195.2778.peg.688!!!Malonyl-[acyl-carrier!protein]!O-methyltransferase!(EC!2.1.1.197)!!![Campylobacter!coli!strain!202823!|!195.2778]	97.81%
+Cluster 581636
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	AAW35708
+fig|195.2778.peg.603!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	78.67%
+Cluster 167550
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	response regulator/GGDEF domain protein	EAQ73194
+fig|195.2778.peg.270!!!Two-component!system!response!regulator!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	78.99%
+Cluster 631673
+233	AE000511	Helicobacter pylori 26695, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical secreted protein	AAD08591
+fig|195.2778.peg.791!!!Protein!translocase!subunit!YajC!!![Campylobacter!coli!strain!202823!|!195.2778]	61.11%
+Cluster 28891
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	GlnD family protein	ABV52883
+fig|195.2778.peg.1797!!![Protein-PII]!uridylyltransferase!(EC!2.7.7.59)!/![Protein-PII]-UMP!uridylyl-removing!enzyme!!![Campylobacter!coli!strain!202823!|!195.2778]	76.34%
+Cluster 528658
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved domain protein	EAQ73157
+fig|195.2778.peg.1386!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	76.14%
+Cluster 211570
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	ubiquinol--cytochrome c reductase, cytochrome c1 subunit	AAW35639
+fig|195.2778.peg.1220!!!Ubiquinol-cytochrome!C!reductase,!cytochrome!C1!subunit!!![Campylobacter!coli!strain!202823!|!195.2778]	81.82%
+Cluster 406053
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	major antigenic peptide PEB2	EAQ72423
+fig|195.2778.peg.1026!!!Major!antigenic!peptide!PEB2!!![Campylobacter!coli!strain!202823!|!195.2778]	80.85%
+fig|195.2778.peg.1027!!!Major!antigenic!peptide!PEB2!!![Campylobacter!coli!strain!202823!|!195.2778]	75.86%
+Cluster 484058
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	DNA polymerase, bacteriophage-type	ABV52504
+fig|195.2778.peg.120!!!DNA!polymerase,!bacteriophage-type!(EC!2.7.7.7)!!![Campylobacter!coli!strain!202823!|!195.2778]	67.82%
+Cluster 409996
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	conserved domain protein	ABS44747
+fig|195.2778.peg.102!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	77.16%
+Cluster 168963
+20083	CP000776	Campylobacter hominis ATCC BAA-381, complete genome.	No	Epsilonproteobacteria	diaminopimelate decarboxylase	ABS50892
+fig|195.2778.peg.677!!!Diaminopimelate!decarboxylase!(EC!4.1.1.20)!!![Campylobacter!coli!strain!202823!|!195.2778]	67.58%
+Cluster 511422
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	EAQ72520
+fig|195.2778.peg.1070!!!ATP/GTP-binding!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	93.05%
+Cluster 573680
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	membrane protein, putative	EAQ72131
+fig|195.2778.peg.1696!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	74.83%
+Cluster 421821
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV53015
+fig|195.2778.peg.1301!!!Putative!formate!dehydrogenase-specific!chaperone!!![Campylobacter!coli!strain!202823!|!195.2778]	75.11%
+Cluster 342499
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative iron transport protein	CAL34346
+fig|195.2778.peg.1420!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	92.14%
+Cluster 61325
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	motility accessory factor (function unknown)	CAL35453
+fig|195.2778.peg.1822!!!Motility!accessory!factor!!![Campylobacter!coli!strain!202823!|!195.2778]	97.52%
+fig|195.2778.peg.1780!!!Motility!accessory!factor!!![Campylobacter!coli!strain!202823!|!195.2778]	98.07%
+Cluster 343615
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	putative ribosomal protein L11 methyltransferase	ABS43619
+fig|195.2778.peg.816!!!Ribosomal!protein!L11!methyltransferase!!![Campylobacter!coli!strain!202823!|!195.2778]	76.95%
+Cluster 749436
+12517	CP000932	Campylobacter lari RM2100, complete genome.	Yes	Epsilonproteobacteria	50S ribosomal protein L29	ACM63433
+fig|195.2778.peg.213!!!LSU!ribosomal!protein!L29p!(L35e)!!![Campylobacter!coli!strain!202823!|!195.2778]	93.44%
+Cluster 485475
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	dethiobiotin synthetase	EAQ73363
+fig|195.2778.peg.683!!!Dethiobiotin!synthase!BioD!(EC!6.3.3.3)!!![Campylobacter!coli!strain!202823!|!195.2778]	99.00%
+Cluster 482176
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ73418
+fig|195.2778.peg.687!!!Pimeloyl-[acyl-carrier!protein]!methyl!ester!esterase!BioG!(EC!3.1.1.85)!!![Campylobacter!coli!strain!202823!|!195.2778]	95.57%
+Cluster 532286
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative integral membrane protein	ABV51843
+fig|195.2778.peg.763!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	75.00%
+Cluster 152714
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative sensory trasnduction histidine kinase	ABV52425
+fig|195.2778.peg.71!!!Two-component!system!sensor!histidine!kinase!!![Campylobacter!coli!strain!202823!|!195.2778]	77.99%
+Cluster 129982
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	outer membrane efflux protein	ABS44352
+fig|195.2778.peg.1594!!!Efflux!transport!system,!outer!membrane!factor!(OMF)!lipoprotein!!![Campylobacter!coli!strain!202823!|!195.2778]	79.07%
+Cluster 197596
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	cystathionine beta-lyase	ABV52906
+fig|195.2778.peg.1084!!!Cystathionine!beta-lyase!(EC!4.4.1.8)!!![Campylobacter!coli!strain!202823!|!195.2778]	96.12%
+Cluster 534148
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ73079
+fig|195.2778.peg.912!!!putative!membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	69.54%
+Cluster 451777
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	AAW35768
+fig|195.2778.peg.1582!!!Predicted!metal-dependent!hydrolase!!![Campylobacter!coli!strain!202823!|!195.2778]	97.21%
+Cluster 196035
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV51819
+fig|195.2778.peg.1005!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	77.58%
+Cluster 246508
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72801
+fig|195.2778.peg.1733!!!Putative!helix-turn-helix!containsing!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	80.29%
+Cluster 378518
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	hypothetical protein Cj0380c	CAL34530
+fig|195.2778.peg.838!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	88.03%
+Cluster 184701
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	membrane protein, putative	EAQ72703
+fig|195.2778.peg.611!!!Membrane!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	67.51%
+Cluster 506239
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative two-component response regulator (SirA-like protein)	CAL35611
+fig|195.2778.peg.1293!!!Hypothetical!protein!Cj1505c!!![Campylobacter!coli!strain!202823!|!195.2778]	98.55%
+Cluster 569850
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	conserved hypothetical protein	EAQ72474
+fig|195.2778.peg.53!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	68.04%
+Cluster 661954
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	hypothetical protein Cj0427	CAL34577
+fig|195.2778.peg.413!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	93.64%
+Cluster 645971
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	protein of unknown function	ABS43397
+fig|195.2778.peg.473!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	94.96%
+Cluster 610199
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	thioesterase family protein	EAQ71877
+fig|195.2778.peg.46!!!Putative!acyl-CoA!thioester!hydrolase!(EC!3.1.2.-)!!![Campylobacter!coli!strain!202823!|!195.2778]	93.43%
+Cluster 209787
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	putative aminotransferase (DegT family)	ABV52836
+fig|195.2778.peg.556!!!UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine!transaminase!(EC!2.6.1.92)!!![Campylobacter!coli!strain!202823!|!195.2778]	97.07%
+Cluster 163713
+17163	CP000768	Campylobacter jejuni subsp. doylei 269.97, complete genome.	Yes	Epsilonproteobacteria	L-fucose permease	ABS44031
+fig|195.2778.peg.943!!!Fucose!permease!!![Campylobacter!coli!strain!202823!|!195.2778]	93.46%
+Cluster 582066
+12517	CP000932	Campylobacter lari RM2100, complete genome.	Yes	Epsilonproteobacteria	putative Blc-like protein	ACM63702
+fig|195.2778.peg.1751!!!Homolog!of!BLC!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	70.67%
+Cluster 285646
+303	CP000025	Campylobacter jejuni RM1221, complete genome.	Yes	Epsilonproteobacteria	chemotaxis protein MotB, putative	AAW35788
+fig|195.2778.peg.594!!!Putative!periplasmic!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	91.46%
+Cluster 12033
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	AcrB/AcrD/AcrF family protein	EAQ72191
+fig|195.2778.peg.1675!!!Multidrug!efflux!system,!inner!membrane!proton/drug!antiporter!(RND!type)!=>!CmeF!!![Campylobacter!coli!strain!202823!|!195.2778]	99.20%
+Cluster 330498
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	putative transcriptional regulator	CAL34717
+fig|195.2778.peg.1260!!!Transcriptional!regulator,!YafY!family!!![Campylobacter!coli!strain!202823!|!195.2778]	68.61%
+Cluster 478614
+17953	CP000814	Campylobacter jejuni subsp. jejuni 81116, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	ABV52369
+fig|195.2778.peg.1051!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	80.00%
+Cluster 103099
+13019	CP000153	Sulfurimonas denitrificans DSM 1251, complete genome.	No	Epsilonproteobacteria	Malate dehydrogenase (acceptor)	ABB44783
+fig|195.2778.peg.383!!!Malate:quinone!oxidoreductase!(EC!1.1.5.4)!!![Campylobacter!coli!strain!202823!|!195.2778]	66.67%
+Cluster 671305
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	EAQ72909
+fig|195.2778.peg.614!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	79.61%
+Cluster 423
+185	AE017125	Helicobacter hepaticus ATCC 51449, complete genome.	Yes	Epsilonproteobacteria	DNA-dependent RNA polymerase beta subunit	AAP76958
+fig|195.2778.peg.935!!!DNA-directed!RNA!polymerase!beta!subunit!(EC!2.7.7.6)!!![Campylobacter!coli!strain!202823!|!195.2778]	71.64%
+fig|195.2778.peg.936!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Campylobacter!coli!strain!202823!|!195.2778]	70.45%
+Cluster 471226
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	hypothetical protein	EAQ71918
+fig|195.2778.peg.1279!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	93.30%
+Cluster 557963
+18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	No	Bacillales	LSU ribosomal protein L16P	ABK83530
+fig|195.2778.peg.214!!!LSU!ribosomal!protein!L16p!(L10e)!!![Campylobacter!coli!strain!202823!|!195.2778]	63.12%
+Cluster 307788
+16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Yes	Epsilonproteobacteria	ABC transporter, permease protein	EAQ72351
+fig|195.2778.peg.1032!!!Methionine!ABC!transporter!permease!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	84.05%
+Cluster 177939
+8	AL111168	Campylobacter jejuni subsp. jejuni NCTC 11168 complete genome.	Yes	Epsilonproteobacteria	hypothetical protein Cj1310c (617 family)	CAL35424
+fig|195.2778.peg.536!!!hypothetical!protein!!![Campylobacter!coli!strain!202823!|!195.2778]	90.32%

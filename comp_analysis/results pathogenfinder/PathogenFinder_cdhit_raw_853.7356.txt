@@ -1,0 +1,211 @@
+Cluster 721771
+21047	CP000860	Candidatus Desulforudis audaxviator MP104C, complete genome.	No	Clostridia	ribosomal protein L33	ACA58769
+fig|853.7356.peg.916|GKD92_11765!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-dependent!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	71.43%
+Cluster 631772
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL02939
+fig|853.7356.peg.2527|GKD92_03950!!!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	65.25%
+Cluster 562026
+64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Yes	Bacillales	transposase, IS200 family	AAW54530
+fig|853.7356.peg.3271|GKD92_06295!!!Transposase,!IS200!family!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	66.04%
+Cluster 4738
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DNA-directed RNA polymerase, beta' subunit	ABX44033
+fig|853.7356.peg.1089|GKD92_00650!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	63.87%
+Cluster 755023
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	4Fe-4S ferredoxin iron-sulfur binding domain protein	ADB47738
+fig|853.7356.peg.1869|GKD92_14085!!!Ferredoxin!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	64.29%
+Cluster 285104
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	permease of ABC transporter possibly for oligosaccharides	AAN24002
+fig|853.7356.peg.2523|GKD92_03930!!!ABC!transporter,!permease!protein!1!(cluster!1,!maltose/g3p/polyamine/iron)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	62.19%
+Cluster 751721
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	Conserved hypothetical protein	EDK32332
+fig|853.7356.peg.1604|GKD92_12810!!!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	60.00%
+Cluster 585
+16366	CP000262	Streptococcus pyogenes MGAS10750, complete genome.	Yes	Lactobacillales	Superfamily II DNA and RNA helicase	ABF38648
+fig|853.7356.peg.2829!!!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	62.27%
+fig|853.7356.peg.3097!!!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	65.11%
+Cluster 182777
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	LL-diaminopimelate aminotransferase	ADB46739
+fig|853.7356.peg.3234|GKD92_06225!!!L,L-diaminopimelate!aminotransferase!(EC!2.6.1.83)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	61.52%
+Cluster 124802
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	extracellular solute-binding protein family 1	ABX42162
+fig|853.7356.peg.1396|GKD92_02125!!!ABC!transporter,!substrate-binding!protein!(cluster!1,!maltose/g3p/polyamine/iron)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	64.11%
+Cluster 56420
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	site-specific recombinase, resolvase family, putative	CBE04532
+fig|853.7356.peg.1673|GKD92_13150!!!Phage!integrase!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	98.08%
+Cluster 670589
+32569	CP001275	Thermomicrobium roseum DSM 5159, complete genome.	No	Thermomicrobiales	30S ribosomal protein S18	ACM04840
+fig|853.7356.peg.1620|GKD92_12880!!!SSU!ribosomal!protein!S18p!@!SSU!ribosomal!protein!S18p,!zinc-dependent!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	62.35%
+Cluster 57893
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ammonium transporter Amt	ADL32871
+fig|853.7356.peg.476|GKD92_09680!!!Ammonium!transporter!/!Nitrogen!regulatory!protein!P-II!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	61.49%
+Cluster 682514
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	stress responsive alpha-beta barrel domain-containing protein	ADL35412
+fig|853.7356.peg.2761|GKD92_04515!!!Dabb!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	78.00%
+Cluster 226229
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	aspartate-semialdehyde dehydrogenase	ACL76919
+fig|853.7356.peg.995|GKD92_00220!!!Aspartate-semialdehyde!dehydrogenase!(EC!1.2.1.11)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	67.50%
+Cluster 103860
+16366	CP000262	Streptococcus pyogenes MGAS10750, complete genome.	Yes	Lactobacillales	Site-specific recombinase	ABF38669
+fig|853.7356.peg.2822!!!Site-specific!recombinase!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	70.37%
+fig|853.7356.peg.3259!!!Site-specific!recombinase!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	70.37%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|853.7356.peg.1088|GKD92_00645!!!SSU!ribosomal!protein!S12p!(S23e)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	65.49%
+Cluster 565989
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	ribosomal protein L22	ACL75141
+fig|853.7356.peg.3352|GKD92_06680!!!LSU!ribosomal!protein!L22p!(L17e)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	60.36%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|853.7356.peg.830|GKD92_11375!!!LSU!ribosomal!protein!L34p!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	63.64%
+Cluster 587752
+15721	CP000158	Hyphomonas neptunium ATCC 15444, complete genome.	No	Alphaproteobacteria	ribosomal protein S16	ABI77788
+fig|853.7356.peg.42|GKD92_07680!!!SSU!ribosomal!protein!S16p!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	62.50%
+Cluster 591885
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	biotin/lipoyl attachment domain-containing protein	ADB48189
+fig|853.7356.peg.1043|GKD92_00440!!!Biotin!carboxyl!carrier!protein!@!Biotin!carboxyl!carrier!protein!=>!methylmalonyl-CoA!decarboxylase!@!Biotin!carboxyl!carrier!protein!of!oxaloacetate!decarboxylase!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	60.32%
+Cluster 638123
+16871	CR954253	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 complete genome.	No	Lactobacillales	Conserved hypothetical protein	CAI97139
+fig|853.7356.peg.749|GKD92_11005!!!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	73.33%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|853.7356.peg.1085|GKD92_00630!!!Translation!elongation!factor!Tu!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	63.25%
+Cluster 624602
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hypothetical protein	ADL35387
+fig|853.7356.peg.2686|GKD92_04180!!!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	65.12%
+Cluster 693923
+12994	AP006840	Symbiobacterium thermophilum IAM 14863 DNA, complete genome.	No	Clostridia	30S ribosomal protein S17	BAD42048
+fig|853.7356.peg.3348|GKD92_06660!!!SSU!ribosomal!protein!S17p!(S11e)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	69.41%
+Cluster 144258
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Dinitrogenase iron-molybdenum cofactor biosynthesis protein	ABX43374
+fig|853.7356.peg.2456|GKD92_03625!!!Iron-sulfur!cluster!carrier!protein,!CA_C2982!type!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	62.45%
+Cluster 184535
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	transposase IS116/IS110/IS902 family protein	ABR35684
+fig|853.7356.peg.1211|GKD92_01215!!!transposase!IS116/IS110/IS902!family!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	61.11%
+Cluster 47423
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	2-isopropylmalate synthase LeuA	ADL34988
+fig|853.7356.peg.63|GKD92_07770!!!2-isopropylmalate!synthase!(EC!2.3.3.13)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	62.73%
+Cluster 382318
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative lantibiotic abc transporter, permease protein	CBE04547
+fig|853.7356.peg.346|GKD92_09095!!!Efflux!ABC!transporter,!permease!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	99.61%
+Cluster 297033
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	molybdenum cofactor synthesis domain protein	ABX41855
+fig|853.7356.peg.3021|GKD92_05345!!!FIG060329:!MOSC!domain!protein!/!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	62.58%
+Cluster 312489
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S2	ABP90946
+fig|853.7356.peg.1047|GKD92_00460!!!SSU!ribosomal!protein!S2p!(SAe)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	62.92%
+Cluster 574744
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	FeS cluster assembly scaffold protein NifU	ACL76279
+fig|853.7356.peg.712|GKD92_10820!!!Iron-sulfur!cluster!assembly!scaffold!protein!IscU/NifU-like!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	61.90%
+Cluster 743333
+20207	CP001034	Natranaerobius thermophilus JW/NM-WN-LF, complete genome.	No	Clostridia	LSU ribosomal protein L29P	ACB83801
+fig|853.7356.peg.3349|GKD92_06665!!!LSU!ribosomal!protein!L29p!(L35e)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	60.66%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|853.7356.peg.3353|GKD92_06685!!!SSU!ribosomal!protein!S19p!(S15e)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	76.14%
+Cluster 569920
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	acetyltransferase GNAT family	ADL34246
+fig|853.7356.peg.1387|GKD92_02080!!!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	66.67%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|853.7356.peg.3330|GKD92_06575!!!SSU!ribosomal!protein!S11p!(S14e)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	66.91%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|853.7356.peg.3347|GKD92_06655!!!LSU!ribosomal!protein!L14p!(L23e)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	66.39%
+Cluster 378449
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative lantibiotic abc transporter, permease protein	CBE04545
+fig|853.7356.peg.345|GKD92_09090!!!FIG00516595:!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	99.23%
+Cluster 680284
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	branched-chain amino acid transport	ADL03681
+fig|853.7356.peg.964|GKD92_00070!!!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	61.39%
+Cluster 709542
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	protein of unknown function DUF1653	ABM43509
+fig|853.7356.peg.3281|GKD92_06350!!!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	61.33%
+Cluster 618387
+16313	CP000255	Staphylococcus aureus subsp. aureus USA30	Yes	Bacillales	PR3757, complete genome.	ABD21511
+fig|853.7356.peg.2181|GKD92_14525!!!Transposase,!IS200!family!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	66.15%
+Cluster 73403
+30767	FM204884	Streptococcus equi subsp. zooepidemicus H70, complete genome.	Yes	Lactobacillales	DNA topoisomerase	CAW99799
+fig|853.7356.peg.2647|GKD92_15775!!!DNA!topoisomerase!III!(EC!5.99.1.2)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	60.22%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|853.7356.peg.3332|GKD92_06585!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	83.78%
+Cluster 530141
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	Tripartite ATP-independent periplasmic transporter, DctQ component	ABR49906
+fig|853.7356.peg.2447|GKD92_03590!!!TRAP-type!transport!system,!small!permease!component,!predicted!N-acetylneuraminate!transporter!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	76.30%
+Cluster 135807
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative mobilization protein	CAJ67947
+fig|853.7356.peg.2854|GKD92_04700!!!FIG00647030:!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	60.63%
+fig|853.7356.peg.328|GKD92_09015!!!FIG00647030:!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	62.30%
+Cluster 161503
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hydroxypyruvate reductase	ADL32880
+fig|853.7356.peg.3211|GKD92_06125!!!D-glycerate!2-kinase!(EC!2.7.1.165)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	72.36%
+Cluster 18575
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	magnesium transporting ATPase, P-type 1	CAJ70279
+fig|853.7356.peg.2346|GKD92_15270!!!Mg(2+)!transport!ATPase,!P-type!(EC!3.6.3.2)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	73.62%
+Cluster 178012
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	Orn/DAP/Arg decarboxylase 2	ADB48238
+fig|853.7356.peg.2372|GKD92_03255!!!Carboxynorspermidine!decarboxylase!(EC!4.1.1.96)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	70.47%
+Cluster 221558
+32587	CP001997	Aminobacterium colombiense DSM 12261, complete genome.	No	Synergistia	uracil phosphoribosyltransferase	ADE57013
+fig|853.7356.peg.37|GKD92_07655!!!Uracil!phosphoribosyltransferase!(EC!2.4.2.9)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	60.58%
+Cluster 116862
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	gluconate transporter	ABX44178
+fig|853.7356.peg.1522|GKD92_12390!!!Low-affinity!gluconate/H+!symporter!GntU!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	70.29%
+Cluster 507827
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	3-isopropylmalate dehydratase, small subunit	ABN53412
+fig|853.7356.peg.65|GKD92_07780!!!3-isopropylmalate!dehydratase!small!subunit!(EC!4.2.1.33)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	62.80%
+Cluster 680308
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	protein of unknown function DUF370	ABP67672
+fig|853.7356.peg.1037|GKD92_00420!!!UPF0296!protein!YlzA!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	65.22%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|853.7356.peg.3331|GKD92_06580!!!SSU!ribosomal!protein!S13p!(S18e)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	72.36%
+Cluster 41759
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	ferrous iron transport protein B	ADB47261
+fig|853.7356.peg.803|GKD92_11265!!!Ferrous!iron!transporter!FeoB!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	71.58%
+Cluster 408274
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAF39283
+fig|853.7356.peg.1723|GKD92_13430!!!Acetyltransferase,!GNAT!family!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	61.25%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|853.7356.peg.1644|GKD92_12985!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	65.09%
+Cluster 647174
+16064	CP000155	Hahella chejuensis KCTC 2396, complete genome.	No	Gammaproteobacteria	ribosomal protein L31	ABC32627
+fig|853.7356.peg.1200|GKD92_01170!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-dependent!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	69.70%
+Cluster 303790
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hypothetical protein	ADL34703
+fig|853.7356.peg.3061|GKD92_05495!!!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	66.11%
+Cluster 135441
+29543	CP001959	Brachyspira murdochii DSM 12563, complete genome.	No	Spirochaetales	acetyl-CoA hydrolase/transferase	ADG72102
+fig|853.7356.peg.1104|GKD92_00720!!!4-hydroxybutyrate!coenzyme!A!transferase!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	71.88%
+Cluster 587322
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	ribosomal protein L16	ABR50543
+fig|853.7356.peg.3350|GKD92_06670!!!LSU!ribosomal!protein!L16p!(L10e)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	77.40%
+Cluster 212032
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	phage integrase	ABI24702
+fig|853.7356.peg.949|GKD92_00005!!!Integrase,!superantigen-encoding!pathogenicity!islands!SaPI!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	71.11%
+Cluster 750815
+29405	CP001727	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446, complete genome.	No	Bacillales	ribosomal protein S21	ACV59001
+fig|853.7356.peg.247|GKD92_08620!!!SSU!ribosomal!protein!S21p!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	63.79%
+Cluster 187061
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Rubrerythrin	ADL05267
+fig|853.7356.peg.1808|GKD92_13815!!!Rubrerythrin!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	70.56%
+Cluster 473787
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Adenine-specific methyltransferase	ABF36180
+fig|853.7356.peg.2832|GKD92_16015!!!MunI-like!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	63.24%
+fig|853.7356.peg.3093|GKD92_16225!!!MunI-like!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	65.66%
+Cluster 210603
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	glycosyl hydrolase, family 88	ABR32637
+fig|853.7356.peg.311|GKD92_08925!!!Rhamnogalacturonides!degradation!protein!RhiN!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	68.27%
+Cluster 679976
+30983	CP002131	Thermosediminibacter oceani DSM 16646, complete genome.	No	Clostridia	conserved hypothetical protein	ADL08315
+fig|853.7356.peg.1950|GKD92_02320!!!Zinc-ribbon!domain!Caur_1000.N!/!CxxC-x17-CxxC!domain!Caur_1000.C!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	68.42%
+Cluster 552782
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	50S ribosomal protein L11	ABM79507
+fig|853.7356.peg.913|GKD92_11750!!!LSU!ribosomal!protein!L11p!(L12e)!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	62.41%
+Cluster 427336
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	protein of unknown function UPF0066	ACL20270
+fig|853.7356.peg.639|GKD92_10470!!!tRNA!(adenine(37)-N6)-methyltransferase!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	61.64%
+Cluster 626051
+30767	FM204884	Streptococcus equi subsp. zooepidemicus H70, complete genome.	Yes	Lactobacillales	putative conjugative transposon membrane protein	CAW99807
+fig|853.7356.peg.3091!!!hypothetical!protein!!![Faecalibacterium!prausnitzii!strain!BIOML-B10!|!853.7356]	80.00%

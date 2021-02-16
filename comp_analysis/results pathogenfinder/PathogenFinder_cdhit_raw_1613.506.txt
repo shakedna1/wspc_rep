@@ -1,0 +1,807 @@
+Cluster 519669
+402	CP000423	Lactobacillus casei ATCC 334, complete genome.	No	Lactobacillales	RNase P protein component	ABJ71616
+fig|1613.506.peg.1347|G9Q30_08265!!!Ribonuclease!P!protein!component!(EC!3.1.26.5)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.53%
+Cluster 46601
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	ABC-type antimicrobial peptide transport system, ATPase component	ABJ64026
+fig|1613.506.peg.137|G9Q30_05115!!!Macrolide!export!ATP-binding/permease!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.82%
+Cluster 342173
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	NLPA lipoprotein	ABQ83456
+fig|1613.506.peg.2310|G9Q30_04090!!!Methionine!ABC!transporter!substrate-binding!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.34%
+Cluster 342170
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	Integrase, catalytic region	ABQ83593
+fig|1613.506.peg.1431!!!Transposase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.16%
+Cluster 18302
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	metalloendopeptidase, glycoprotease family	ACV56800
+fig|1613.506.peg.290!!!N(6)-L-threonylcarbamoyladenine!synthase!(EC!2.3.1.234)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	63.16%
+Cluster 434098
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	conserved hypothetical protein	BAG25103
+fig|1613.506.peg.23|G9Q30_04590!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.07%
+Cluster 457249
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	two component response regulator	BAG25463
+fig|1613.506.peg.1172|G9Q30_01355!!!Oxygen-sensing!two-component!transcriptional!response!regulator!NreC!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.35%
+Cluster 394710
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	IstB domain protein ATP-binding protein	ABQ83306
+fig|1613.506.peg.1081|G9Q30_07900!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.48%
+Cluster 338928
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	methionine aminopeptidase, type I	ABQ83634
+fig|1613.506.peg.2102|G9Q30_09725!!!Methionine!aminopeptidase!(EC!3.4.11.18)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	86.67%
+Cluster 249699
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	6-phosphogluconolactonase	ABQ82845
+fig|1613.506.peg.53|G9Q30_04740!!!6-phosphogluconolactonase!(EC!3.1.1.31)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.84%
+Cluster 384615
+16871	CR954253	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 complete genome.	No	Lactobacillales	Putative hydrolase (NUDIX family)	CAI97164
+fig|1613.506.peg.737|G9Q30_06700!!!Nudix-related!transcriptional!regulator!NrtR!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	63.40%
+Cluster 616700
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	hypothetical protein	ABQ83062
+fig|1613.506.peg.628|G9Q30_00480!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.39%
+Cluster 214600
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	CamS sex pheromone cAM373 family protein	ABQ83689
+fig|1613.506.peg.2058|G9Q30_03270!!!Putative!pheromone!cAM373!precursor!lipoprotein!CamS!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	71.62%
+Cluster 99897
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	hypothetical protein	ADC84615
+fig|1613.506.peg.1049!!!Cell!division!initiation!protein!DivIVA!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	74.07%
+Cluster 712930
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	protein of unknown function DUF896	ABQ82943
+fig|1613.506.peg.2413|G9Q30_04410!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	80.72%
+Cluster 636517
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	Predicted transcriptional regulator	ABJ64144
+fig|1613.506.peg.605|G9Q30_00370!!!Transcriptional!regulator,!MarR!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.45%
+Cluster 270255
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	ribonuclease H	AAN25412
+fig|1613.506.peg.1|G9Q30_10150!!!Ribonuclease!HI!(EC!3.1.26.4)!/!Domain!of!unknown!function!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.16%
+Cluster 266059
+16062	DQ489736	Leuconostoc citreum KM20, complete genome.	No	Lactobacillales	Inosine-uridine nucleoside N-ribohydrolase	ACA82121
+fig|1613.506.peg.256|G9Q30_05595!!!Inosine-uridine!preferring!nucleoside!hydrolase!(EC!3.2.2.1)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.82%
+Cluster 170454
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	multidrug transport protein	BAG25542
+fig|1613.506.peg.1109|G9Q30_01055!!!Uncharacterized!MFS-type!transporter!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	73.53%
+Cluster 722342
+16871	CR954253	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 complete genome.	No	Lactobacillales	Hypothetical protein	CAI98839
+fig|1613.506.peg.2358|G9Q30_04195!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	80.26%
+Cluster 599872
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	nucleoside 2-deoxyribosyltransferase	ACJ51714
+fig|1613.506.peg.989|G9Q30_11145!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.22%
+Cluster 316080
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	hypothetical phage protein	BAG25590
+fig|1613.506.peg.642|G9Q30_00550!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.90%
+Cluster 103977
+20829	CP001619	Dyadobacter fermentans DSM 18053, complete genome.	No	Cytophagia	Mannitol dehydrogenase domain	ACT95331
+fig|1613.506.peg.1484!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.87%
+Cluster 53388
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	FAD-dependent pyridine nucleotide-disulphide oxidoreductase	ACJ51168
+fig|1613.506.peg.186!!!Alkyl!hydroperoxide!reductase!protein!F!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	83.52%
+Cluster 292960
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	Ppx/GppA phosphatase	ABQ82475
+fig|1613.506.peg.349|G9Q30_05920!!!Exopolyphosphatase!(EC!3.6.1.11)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	77.24%
+Cluster 129937
+10687	AE016823	Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130, chromosome I, complete sequence.	Yes	Spirochaetales	conserved hypothetical protein	AAS69664
+fig|1613.506.peg.944!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.00%
+fig|1613.506.peg.1665!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.00%
+fig|1613.506.peg.1666!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.00%
+fig|1613.506.peg.2222!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.00%
+Cluster 389792
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	hypothetical protein	ABQ83626
+fig|1613.506.peg.1393|G9Q30_08410!!!Glycosyltransferase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.59%
+Cluster 5217
+43535	CP002034	Lactobacillus salivarius CECT 5713, complete genome.	No	Lactobacillales	DNA-directed RNA polymerase subunit beta' (RNAP subunit beta') (Transcriptase subunit beta') (RNA polymerase subunit beta')	ADJ78520
+fig|1613.506.peg.2009|G9Q30_03025!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	78.44%
+Cluster 210959
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Prephenate dehydratase	ADC84530
+fig|1613.506.peg.763|G9Q30_10810!!!Prephenate!dehydratase!(EC!4.2.1.51)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	63.43%
+Cluster 729262
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	hypothetical protein	ABQ82741
+fig|1613.506.peg.428|G9Q30_06250!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.22%
+Cluster 298877
+32195	FM179322	Lactobacillus rhamnosus GG whole genome sequence, strain GG (ATCC 53103).	No	Lactobacillales	Hydrolase of the alpha/beta superfamily protein	CAR88802
+fig|1613.506.peg.2361!!!Hydrolase,!alpha/beta!fold!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	64.49%
+Cluster 479330
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	GtrA family protein	ACJ51312
+fig|1613.506.peg.67!!!narrowly!conserved!hypothetical!membrane!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	73.10%
+Cluster 443363
+43535	CP002034	Lactobacillus salivarius CECT 5713, complete genome.	No	Lactobacillales	ABC transporter, ATP-binding protein	ADJ79411
+fig|1613.506.peg.2086|G9Q30_09655!!!ABC!transporter,!ATP-binding!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.61%
+Cluster 103461
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	phospholipase D/Transphosphatidylase	ABQ84032
+fig|1613.506.peg.403|G9Q30_06125!!!Cardiolipin!synthase,!bacterial!type!ClsA!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.47%
+Cluster 5991
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	conserved hypothetical myosin-like protein with unknown function	ACJ52171
+fig|1613.506.peg.913!!!FIG007317:!Chromosome!segregation!protein!SMC-like!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	81.43%
+Cluster 585414
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	transcriptional regulator, MarR family	ABQ83253
+fig|1613.506.peg.1787|G9Q30_02340!!!Transcriptional!regulator!of!fatty!acid!biosynthesis!FabT!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.81%
+Cluster 302423
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	cation diffusion facilitator family transporter	ABQ83752
+fig|1613.506.peg.1985|G9Q30_02880!!!Cobalt/zinc/cadmium!resistance!protein!CzcD!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.43%
+Cluster 346455
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	degV family protein	ABQ83036
+fig|1613.506.peg.1582|G9Q30_01965!!!DegV!family!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	75.36%
+Cluster 480032
+9638	AE017198	Lactobacillus johnsonii NCC 533, complete genome.	No	Lactobacillales	galactoside O-acetyltransferase	AAS08990
+fig|1613.506.peg.1846|G9Q30_02630!!!Sugar!O-acetyltransferase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.76%
+Cluster 526552
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	conserved hypothetical protein	BAG25974
+fig|1613.506.peg.150|G9Q30_05180!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	64.33%
+Cluster 454175
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	uridine kinase	ABQ83472
+fig|1613.506.peg.608|G9Q30_00385!!!Uridine!kinase!(EC!2.7.1.48)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	81.48%
+Cluster 184682
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	major facilitator superfamily MF	ABQ82465
+fig|1613.506.peg.353|G9Q30_05940!!!Uncharacterized!MFS-type!transporter!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.47%
+Cluster 287083
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	60 kDa inner membrane insertion protein	ABQ83480
+fig|1613.506.peg.601|G9Q30_00350!!!Inner!membrane!protein!translocase!and!chaperone!YidC,!OxaA!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.00%
+Cluster 94196
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	Chloride channel, core	ABQ82660
+fig|1613.506.peg.193|G9Q30_05335!!!Voltage-gated!H(+)/2Cl(-)!exchange!transporter!ClcA!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.02%
+Cluster 28097
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	excinuclease ABC subunit C	AAN24522
+fig|1613.506.peg.389|G9Q30_10640!!!Excinuclease!ABC!subunit!C!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	86.72%
+fig|1613.506.peg.765!!!Excinuclease!ABC!subunit!C!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	91.84%
+Cluster 509182
+315	CP000414	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete genome.	No	Lactobacillales	Predicted dinucleotide-binding enzyme	ABJ62050
+fig|1613.506.peg.963|G9Q30_07480!!!oxidoreductase(!EC:1.-!)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	73.57%
+Cluster 666076
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	hypothetical protein	ABQ82702
+fig|1613.506.peg.397|G9Q30_06090!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.47%
+Cluster 349188
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	Integrase, catalytic region	ABQ82515
+fig|1613.506.peg.1670!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	88.83%
+Cluster 728206
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	hypothetical protein	ABQ84020
+fig|1613.506.peg.84|G9Q30_04925!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	74.32%
+Cluster 379271
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	DNA replication protein	ACD99089
+fig|1613.506.peg.804|G9Q30_10860!!!Transposase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	78.69%
+fig|1613.506.peg.849|G9Q30_10925!!!Transposase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.46%
+Cluster 209618
+13921	CP000108	Chlorobium chlorochromatii CaD3, complete genome.	No	Chlorobia	hypothetical protein	ABB29060
+fig|1613.506.peg.1435!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	71.43%
+Cluster 29985
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	DNA helicase	BAG24707
+fig|1613.506.peg.348|G9Q30_05915!!!DNA!helicase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.69%
+Cluster 445391
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	ABC transporter related	ABQ82487
+fig|1613.506.peg.361|G9Q30_05980!!!Zinc!ABC!transporter,!ATP-binding!protein!ZnuC!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.58%
+Cluster 639321
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	SSU ribosomal protein S19P	ABP89047
+fig|1613.506.peg.2021|G9Q30_03085!!!SSU!ribosomal!protein!S19p!(S15e)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	84.95%
+Cluster 458221
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	glycine betaine/choline ABC transporter permease component	BAG24692
+fig|1613.506.peg.1511|G9Q30_01650!!!ABC!transporter,!permease!protein!(cluster!13,!osmolytes)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.56%
+Cluster 34903
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	kup system potassium uptake protein	AAN24048
+fig|1613.506.peg.128!!!Kup!system!potassium!uptake!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	82.29%
+Cluster 279295
+298	AE005673	Caulobacter crescentus CB15, complete genome.	No	Alphaproteobacteria	glycosyl transferase, putative	AAK24824
+fig|1613.506.peg.881|G9Q30_10970!!!Endonuclease!NucS!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.71%
+Cluster 162925
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	transposase, IS605 OrfB family	ABQ82348
+fig|1613.506.peg.2387!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	80.61%
+fig|1613.506.peg.237|G9Q30_10455!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	75.00%
+fig|1613.506.peg.1258|G9Q30_11360!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	92.13%
+fig|1613.506.peg.1337|G9Q30_11490!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	75.86%
+fig|1613.506.peg.1357|G9Q30_11530!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	82.50%
+fig|1613.506.peg.1380|G9Q30_11590!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	84.52%
+fig|1613.506.peg.1386|G9Q30_11620!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	84.52%
+fig|1613.506.peg.1623|G9Q30_11760!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	75.86%
+Cluster 242278
+315	CP000414	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete genome.	No	Lactobacillales	ABC-type antimicrobial peptide transport system, permease component	ABJ62148
+fig|1613.506.peg.2090|G9Q30_09675!!!ABC-type!antimicrobial!peptide!transport!system,!permease!component!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	96.26%
+Cluster 304000
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	protein of unknown function DUF6, transmembrane	ABQ83181
+fig|1613.506.peg.868|G9Q30_07155!!!Transport!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.94%
+Cluster 1134
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	narrowly conserved hypothetical protein	AAN24297
+fig|1613.506.peg.884|G9Q30_10990!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.42%
+Cluster 498
+30359	FM177140	Lactobacillus casei BL23 complete genome, strain BL23.	No	Lactobacillales	Predicted outer membrane protein	CAQ67744
+fig|1613.506.peg.1218!!!Putative!peptidoglycan!bound!protein!(LPXTG!motif)!Lmo2178!homolog!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	84.96%
+Cluster 129403
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	Chloride channel protein EriC	ABJ59791
+fig|1613.506.peg.1550!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.00%
+Cluster 45345
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	glycoside hydrolase, family 20	ACJ51575
+fig|1613.506.peg.1054!!!beta-glycosyl!hydrolase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	64.18%
+Cluster 668226
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	hypothetical protein	ABQ84021
+fig|1613.506.peg.88|G9Q30_04945!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.19%
+Cluster 499355
+404	CP000418	Lactobacillus brevis ATCC 367 plasmid 2, complete sequence.	No	Lactobacillales	Site-specific recombinase, DNA invertase Pin related protein	ABJ65378
+fig|1613.506.peg.1699|G9Q30_08930!!!Site-specific!recombinase,!DNA!invertase!Pin!related!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	96.26%
+fig|1613.506.peg.2092|G9Q30_09685!!!Site-specific!recombinase,!DNA!invertase!Pin!related!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	95.34%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|1613.506.peg.1348|G9Q30_08270!!!LSU!ribosomal!protein!L34p!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	63.64%
+Cluster 639194
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	protein of unknown function DUF964	ABQ83525
+fig|1613.506.peg.562|G9Q30_00155!!!Hypothetical!protein!SAV1845!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.83%
+Cluster 10380
+19949	AP010806	Sphingobium japonicum UT26S plasmid pUT1 DNA, complete genome.	No	Alphaproteobacteria	conjugal transfer protein TraA	BAI99210
+fig|1613.506.peg.851!!!Mobilization!protein!MobA!@!Conjugal!transfer!protein!TraA!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	80.42%
+Cluster 496025
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	Integrase	ABJ64236
+fig|1613.506.peg.1503|G9Q30_01610!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.04%
+Cluster 66323
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	glucose-6-phosphate isomerase	BAF39012
+fig|1613.506.peg.176!!!Glucose-6-phosphate!isomerase!(EC!5.3.1.9)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	93.94%
+fig|1613.506.peg.177!!!Glucose-6-phosphate!isomerase!(EC!5.3.1.9)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	98.13%
+fig|1613.506.peg.955!!!Glucose-6-phosphate!isomerase!(EC!5.3.1.9)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	99.28%
+Cluster 302130
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	Transposase, IS30 family	ABJ63219
+fig|1613.506.peg.1079|G9Q30_07895!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	95.61%
+fig|1613.506.peg.1080!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	88.89%
+fig|1613.506.peg.1686!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.73%
+fig|1613.506.peg.1701|G9Q30_08940!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	96.01%
+fig|1613.506.peg.2205|G9Q30_09795!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	94.75%
+fig|1613.506.peg.2330|G9Q30_10060!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	95.44%
+fig|1613.506.peg.808|G9Q30_10875!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	95.24%
+fig|1613.506.peg.1281|G9Q30_11375!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	95.24%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|1613.506.peg.462|G9Q30_06370!!!Translation!elongation!factor!Tu!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.36%
+Cluster 337371
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	conserved hypothetical protein	BAG26073
+fig|1613.506.peg.267|G9Q30_05645!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.84%
+Cluster 309967
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	AzlC family protein	ABQ82391
+fig|1613.506.peg.840|G9Q30_07070!!!branched-chain!amino!acid!transport!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.43%
+Cluster 30665
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	Superfamily I DNA and RNA helicase-like protein	ABQ83865
+fig|1613.506.peg.931|G9Q30_07390!!!DNA!helicase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.88%
+Cluster 340575
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	short-chain dehydrogenase/reductase SDR	ABQ82925
+fig|1613.506.peg.452|G9Q30_06320!!!short-chain!dehydrogenase/oxidoreductase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	71.68%
+Cluster 294647
+177	CP000148	Geobacter metallireducens GS-15, complete genome.	No	Deltaproteobacteria	Methionine sulfoxide reductase A/B	ABB30468
+fig|1613.506.peg.1564|G9Q30_01875!!!Peptide-methionine!(R)-S-oxide!reductase!MsrB!(EC!1.8.4.12)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.70%
+Cluster 491281
+403	CP000412	Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365, complete genome.	No	Lactobacillales	hypothetical protein	ABJ59379
+fig|1613.506.peg.1297|G9Q30_08135!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	69.59%
+Cluster 488239
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	transcriptional regulator, TetR family	ABQ83739
+fig|1613.506.peg.2007|G9Q30_03015!!!Transcriptional!regulator,!AcrR!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.02%
+Cluster 101759
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	amino acid permease-associated region	ABQ83631
+fig|1613.506.peg.785|G9Q30_06875!!!Inner!membrane!transporter!YjeM!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	80.24%
+Cluster 748432
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	protein translocase subunit secE/sec61 gamma	ABQ82576
+fig|1613.506.peg.1833|G9Q30_02565!!!Protein!translocase!subunit!SecE!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.69%
+Cluster 715711
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	hypothetical protein	ABQ82599
+fig|1613.506.peg.1811|G9Q30_02460!!!FIG015094:!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	63.41%
+Cluster 411075
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	transcriptional regulator, GntR family	ABQ83926
+fig|1613.506.peg.790|G9Q30_06895!!!Transcriptional!regulator!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.31%
+Cluster 381344
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	Predicted membrane protein	ABJ65212
+fig|1613.506.peg.2124|G9Q30_03390!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.53%
+Cluster 99801
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	protein TprK	ACD71313
+fig|1613.506.peg.2081!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	69.05%
+Cluster 354375
+43535	CP002037	Lactobacillus salivarius CECT 5713 plasmid pHN3, complete sequence.	No	Lactobacillales	Transposase ISLasa15, IS3 family	ADJ79778
+fig|1613.506.peg.1402|G9Q30_08450!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	64.33%
+Cluster 355621
+32197	FM179323	Lactobacillus rhamnosus Lc 705 whole genome sequence, strain Lc 705.	No	Lactobacillales	Hydrolase of the HAD superfamily	CAR89320
+fig|1613.506.peg.2083!!!Hydrolase,!HAD!superfamily!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	89.58%
+fig|1613.506.peg.2084|G9Q30_09645!!!Hydrolase,!HAD!superfamily!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	83.76%
+Cluster 629285
+16217	AP007255	Magnetospirillum magneticum AMB-1 DNA, complete genome.	No	Alphaproteobacteria	Translation initiation factor 1	BAE52143
+fig|1613.506.peg.2039|G9Q30_03175!!!Translation!initiation!factor!1!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.83%
+Cluster 2732
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	dextransucrase	BAG25784
+fig|1613.506.peg.1331|G9Q30_08240!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.53%
+Cluster 635326
+16871	CR954253	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 complete genome.	No	Lactobacillales	Conserved hypothetical protein	CAI97612
+fig|1613.506.peg.493|G9Q30_06475!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.29%
+Cluster 127735
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	hypothetical protein	BAG25674
+fig|1613.506.peg.599|G9Q30_00340!!!Multi!antimicrobial!extrusion!protein!(Na(+)/drug!antiporter),!MATE!family!of!MDR!efflux!pumps!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.10%
+Cluster 399596
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Cell division protein	ACD97724
+fig|1613.506.peg.487|G9Q30_10725!!!Cell!filamentation!protein!fic!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	77.78%
+Cluster 128182
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	permease for cytosine/purines, uracil, thiamine, allantoin	ABQ82527
+fig|1613.506.peg.1561|G9Q30_01860!!!Predicted!hydroxymethylpyrimidine!transporter!CytX!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	75.00%
+Cluster 596429
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	ATP synthase F1, epsilon subunit	ABQ82736
+fig|1613.506.peg.423|G9Q30_06225!!!ATP!synthase!epsilon!chain!(EC!3.6.3.14)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.14%
+Cluster 695405
+32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Yes	Gammaproteobacteria	predicted protein	CAS08530
+fig|1613.506.peg.2340!!!Phage!protein!ea8.5!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	100.00%
+Cluster 312489
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S2	ABP90946
+fig|1613.506.peg.2418|G9Q30_04435!!!SSU!ribosomal!protein!S2p!(SAe)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	71.81%
+Cluster 437891
+40837	CP001758	Leuconostoc kimchii IMSNU 11154, complete genome.	No	Lactobacillales	ribosomal protein L3	ADG40842
+fig|1613.506.peg.2017|G9Q30_03065!!!LSU!ribosomal!protein!L3p!(L3e)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	69.55%
+Cluster 583493
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	transposase IS200-family protein	ABQ83921
+fig|1613.506.peg.1751|G9Q30_02165!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	81.25%
+fig|1613.506.peg.378|G9Q30_06050!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	79.17%
+fig|1613.506.peg.1894|G9Q30_09310!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	81.82%
+fig|1613.506.peg.331|G9Q30_10550!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	83.45%
+fig|1613.506.peg.1336!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	77.50%
+fig|1613.506.peg.1358!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	86.96%
+fig|1613.506.peg.1624!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	86.96%
+fig|1613.506.peg.1627!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	84.00%
+fig|1613.506.peg.1631!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	84.93%
+Cluster 308122
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	periplasmic solute binding protein	ABQ82486
+fig|1613.506.peg.360|G9Q30_05975!!!Zinc!ABC!transporter,!substrate-binding!protein!ZnuA!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.13%
+Cluster 449783
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	SSU ribosomal protein S12P	ABG07098
+fig|1613.506.peg.2013|G9Q30_03045!!!SSU!ribosomal!protein!S12p!(S23e)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.42%
+Cluster 134143
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	major facilitator superfamily MF	ADG99525
+fig|1613.506.peg.954|G9Q30_11115!!!Uncharacterized!MFS-type!transporter!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	84.62%
+Cluster 499870
+317	CP000411	Oenococcus oeni PSU-1, complete genome.	No	Lactobacillales	Transcriptional regulator	ABJ56688
+fig|1613.506.peg.1700|G9Q30_08935!!!Transcriptional!regulator,!AcrR!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	80.10%
+Cluster 419485
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	conserved hypothetical protein	BAG25699
+fig|1613.506.peg.574|G9Q30_00215!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.88%
+Cluster 213013
+18737	CP000837	Streptococcus suis GZ1, complete genome.	Yes	Lactobacillales	glucose-6-phosphate isomerase	ADE32318
+fig|1613.506.peg.390!!!Glucose-6-phosphate!isomerase!(EC!5.3.1.9)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.29%
+fig|1613.506.peg.1277!!!Glucose-6-phosphate!isomerase!(EC!5.3.1.9)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.29%
+fig|1613.506.peg.2392|G9Q30_10115!!!Glucose-6-phosphate!isomerase!(EC!5.3.1.9)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.79%
+fig|1613.506.peg.1321!!!Glucose-6-phosphate!isomerase!(EC!5.3.1.9)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	76.47%
+Cluster 369858
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	ABC-type phosphate transport system, ATPase component	ABJ59947
+fig|1613.506.peg.857|G9Q30_07100!!!Phosphate!ABC!transporter,!ATP-binding!protein!PstB!(TC!3.A.1.7.1)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.71%
+Cluster 160617
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	TPR repeat-containing protein	ABQ83030
+fig|1613.506.peg.1589|G9Q30_02000!!!TPR-repeat-containing!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.38%
+Cluster 213475
+17583	CP001750	Bifidobacterium dentium Bd1, complete genome.	Yes	Actinobacteridae	tRNA-dihydrouridine synthase	ADB10187
+fig|1613.506.peg.949!!!tRNA-dihydrouridine!synthase!DusB!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	93.53%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|1613.506.peg.2042|G9Q30_03190!!!SSU!ribosomal!protein!S11p!(S14e)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	71.32%
+Cluster 320107
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	protein of unknown function DUF6, transmembrane	ABQ83260
+fig|1613.506.peg.1153|G9Q30_01260!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.93%
+Cluster 192626
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	transposase, IS605 OrfB family	ABQ82497
+fig|1613.506.peg.1954!!!Transposase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	87.76%
+Cluster 192629
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	transposase	BAG25523
+fig|1613.506.peg.1864|G9Q30_02725!!!Transposase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	84.81%
+Cluster 360643
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	AbrB family trancriptional regulator	ADG32945
+fig|1613.506.peg.12|G9Q30_10200!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.84%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|1613.506.peg.2027|G9Q30_03115!!!LSU!ribosomal!protein!L14p!(L23e)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	73.77%
+Cluster 569038
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	transcriptional regulator, AsnC family	ABQ84009
+fig|1613.506.peg.1680|G9Q30_08835!!!Transcriptional!regulator,!AsnC!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	79.47%
+Cluster 713804
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	Acyl carrier protein	ABJ64087
+fig|1613.506.peg.714|G9Q30_00910!!!Acyl!carrier!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	69.14%
+Cluster 363380
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	Hydratase/decarboxylase	ABQ84141
+fig|1613.506.peg.447|G9Q30_06295!!!2-oxo-hept-3-ene-1,7-dioate!hydratase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.97%
+fig|1613.506.peg.1951|G9Q30_09585!!!2-oxo-hept-3-ene-1,7-dioate!hydratase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	77.32%
+Cluster 95726
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	Protein of unknown function DUF1975	ABQ82355
+fig|1613.506.peg.295|G9Q30_05705!!!Poly(glycerol-phosphate)!alpha-glucosyltransferase!(EC!2.4.1.52)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.52%
+Cluster 373198
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Transcription regulator, crp family	ADC84746
+fig|1613.506.peg.126|G9Q30_10305!!!cAMP-binding!proteins!-!catabolite!gene!activator!and!regulatory!subunit!of!cAMP-dependent!protein!kinases!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.06%
+Cluster 633781
+17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	No	Lactobacillales	hypothetical protein	ABX27873
+fig|1613.506.peg.1910|G9Q30_09370!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.04%
+Cluster 108632
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	cell envelope-related transcriptional attenuator	ABQ83602
+fig|1613.506.peg.972|G9Q30_07520!!!Cell!envelope-associated!transcriptional!attenuator!LytR-CpsA-Psr,!subfamily!F2!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	63.96%
+Cluster 241103
+40837	CP001758	Leuconostoc kimchii IMSNU 11154, complete genome.	No	Lactobacillales	phenylalanine--tRNA ligase, alpha chain	ADG40640
+fig|1613.506.peg.606|G9Q30_00375!!!Phenylalanyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.20)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.64%
+Cluster 239469
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	secreted protein containing a PDZ domain-like protein	ABQ82907
+fig|1613.506.peg.472|G9Q30_06420!!!Lon-like!protease!with!PDZ!domain!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	71.06%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|1613.506.peg.2040|G9Q30_03180!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	63.16%
+Cluster 643799
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	DivIVA family protein	ABQ83185
+fig|1613.506.peg.872|G9Q30_07175!!!Cell!division!protein!GpsB,!coordinates!the!switch!between!cylindrical!and!septal!cell!wall!synthesis!by!re-localization!of!PBP1!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	84.03%
+Cluster 660493
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	hypothetical protein	ABQ82981
+fig|1613.506.peg.2291|G9Q30_04010!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	74.29%
+Cluster 108737
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	cardiolipin synthetase 2	ABQ82324
+fig|1613.506.peg.2356|G9Q30_04185!!!Cardiolipin!synthase,!bacterial!type!ClsA!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.02%
+Cluster 334130
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	narrowly conserved hypothetical protein	AAN25323
+fig|1613.506.peg.880|G9Q30_10965!!!Regulator!of!polyketide!synthase!expression!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	80.70%
+Cluster 360502
+20745	CP001854	Conexibacter woesei DSM 14684, complete genome.	No	Rubrobacteridae	short-chain dehydrogenase/reductase SDR	ADB53298
+fig|1613.506.peg.1995|G9Q30_02955!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.71%
+Cluster 465003
+317	CP000411	Oenococcus oeni PSU-1, complete genome.	No	Lactobacillales	Transcriptional regulator, xre family	ABJ56879
+fig|1613.506.peg.2412|G9Q30_04405!!!SOS-response!repressor!and!protease!LexA!(EC!3.4.21.88)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.54%
+Cluster 662223
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	hypothetical protein	BAG25554
+fig|1613.506.peg.1893|G9Q30_09305!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	73.08%
+Cluster 426941
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	phosphate uptake regulator, PhoU	ABQ83807
+fig|1613.506.peg.1710|G9Q30_08980!!!Phosphate!transport!system!regulatory!protein!PhoU!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.52%
+Cluster 15551
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	Cation transport ATPase	ABJ59939
+fig|1613.506.peg.1415|G9Q30_08460!!!Mg(2+)!transport!ATPase,!P-type!(EC!3.6.3.2)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	71.72%
+fig|1613.506.peg.1416!!!Mg(2+)!transport!ATPase,!P-type!(EC!3.6.3.2)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.84%
+Cluster 587290
+16871	CR954253	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 complete genome.	No	Lactobacillales	50S ribosomal protein L16	CAI97238
+fig|1613.506.peg.2024|G9Q30_03100!!!LSU!ribosomal!protein!L16p!(L10e)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	75.69%
+Cluster 312163
+20391	CP000813	Bacillus pumilus SAFR-032, complete genome.	No	Bacillales	L-serine ammonia-lyase alpha chain	ABV62168
+fig|1613.506.peg.2402|G9Q30_04355!!!L-serine!dehydratase,!alpha!subunit!(EC!4.3.1.17)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.34%
+Cluster 360400
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	ABJ65152
+fig|1613.506.peg.2298|G9Q30_04035!!!Hydroxymethylpyrimidine!kinase!(EC!2.7.1.49)!@!Hydroxymethylpyrimidine!phosphate!kinase!ThiD!(EC!2.7.4.7)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.55%
+Cluster 84578
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Hypothetical protein	ACD98913
+fig|1613.506.peg.723|G9Q30_10770!!!Cell!wall!surface!anchor!family!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	86.75%
+Cluster 490432
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	hypothetical protein	ABJ61162
+fig|1613.506.peg.973|G9Q30_07525!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.20%
+Cluster 758148
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	hypothetical protein	ABQ83560
+fig|1613.506.peg.1945|G9Q30_09545!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	63.46%
+Cluster 118296
+398	CP000422	Pediococcus pentosaceus ATCC 25745, complete genome.	No	Lactobacillales	Amino acid transporter	ABJ68649
+fig|1613.506.peg.1795|G9Q30_02385!!!Arginine/ornithine!antiporter!ArcD!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	82.84%
+Cluster 424503
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	Uncharacterized membrane protein	ABJ64941
+fig|1613.506.peg.1984|G9Q30_02875!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.83%
+Cluster 17526
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Cation transport ATPase	ACD98657
+fig|1613.506.peg.291!!!Lead,!cadmium,!zinc!and!mercury!transporting!ATPase!(EC!3.6.3.3)!(EC!3.6.3.5);!Copper-translocating!P-type!ATPase!(EC!3.6.3.4)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.88%
+Cluster 571885
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	NUDIX hydrolase	ABQ83048
+fig|1613.506.peg.875|G9Q30_07195!!!ADP-ribose!pyrophosphatase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	63.76%
+Cluster 631209
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	30S ribosomal subunit protein S8, and regulator	CAJ59760
+fig|1613.506.peg.1019|G9Q30_11190!!!SSU!ribosomal!protein!S8p!(S15Ae)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.86%
+Cluster 113756
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	major facilitator superfamily MF	ABQ83556
+fig|1613.506.peg.1942|G9Q30_09530!!!Uncharacterized!MFS-type!transporter!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.54%
+Cluster 538007
+20739	CP001682	Cryptobacterium curtum DSM 15641, complete genome.	Yes	Coriobacteridae	G:T/U mismatch-specific DNA glycosylase	ACU94880
+fig|1613.506.peg.234|G9Q30_10440!!!G:T/U!mismatch-specific!uracil/thymine!DNA-glycosylase!(EC!3.2.2.27)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.38%
+Cluster 400991
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	conserved hypothetical protein	BAG26088
+fig|1613.506.peg.575|G9Q30_00220!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.27%
+Cluster 221558
+32587	CP001997	Aminobacterium colombiense DSM 12261, complete genome.	No	Synergistia	uracil phosphoribosyltransferase	ADE57013
+fig|1613.506.peg.412|G9Q30_06170!!!Uracil!phosphoribosyltransferase!(EC!2.4.2.9)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.61%
+Cluster 568508
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	LSU ribosomal protein L21P	ABJ60136
+fig|1613.506.peg.684|G9Q30_00760!!!LSU!ribosomal!protein!L21p!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.63%
+Cluster 15575
+104	AE000782	Archaeoglobus fulgidus DSM 4304, complete genome.	No	Archaeoglobi	leucyl-tRNA synthetase (leuS)	AAB91241
+fig|1613.506.peg.1922!!!ISSth1,!transposase!(orf1),!IS3!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.90%
+Cluster 210785
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	GMP reductase	ABP89781
+fig|1613.506.peg.2347|G9Q30_04140!!!GMP!reductase!(EC!1.7.1.7)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	69.44%
+Cluster 677316
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	hypothetical protein	ABQ82680
+fig|1613.506.peg.208|G9Q30_05410!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.96%
+Cluster 55755
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	glycoside hydrolase family 2, TIM barrel	ABQ82558
+fig|1613.506.peg.1852|G9Q30_02655!!!beta-galactosidase!large!subunit!(EC!3.2.1.23)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.73%
+Cluster 77492
+18891	CP001130	Hydrogenobaculum sp. Y04AAS1, complete genome.	No	Aquificales	transposase, IS605 OrfB family	ACG58209
+fig|1613.506.peg.1734|G9Q30_09095!!!transposase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.87%
+fig|1613.506.peg.2333|G9Q30_10070!!!transposase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.87%
+Cluster 574044
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	transposase	BAG24586
+fig|1613.506.peg.2386|G9Q30_04335!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	84.00%
+fig|1613.506.peg.531|G9Q30_06655!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	79.31%
+fig|1613.506.peg.922|G9Q30_07345!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	77.27%
+fig|1613.506.peg.1309|G9Q30_08195!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	73.91%
+fig|1613.506.peg.1750|G9Q30_09170!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	77.27%
+fig|1613.506.peg.2227|G9Q30_09945!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	73.91%
+fig|1613.506.peg.1341!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	92.13%
+fig|1613.506.peg.1403|G9Q30_11625!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	95.29%
+fig|1613.506.peg.1629!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	97.33%
+Cluster 578912
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	ferric uptake regulator, Fur family	ABQ83557
+fig|1613.506.peg.1943|G9Q30_09535!!!Peroxide!stress!regulator!PerR,!FUR!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.89%
+Cluster 565832
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	UspA domain protein	ABQ83755
+fig|1613.506.peg.1982|G9Q30_02865!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	78.48%
+Cluster 544065
+29543	CP001959	Brachyspira murdochii DSM 12563, complete genome.	No	Spirochaetales	flavodoxin	ADG70548
+fig|1613.506.peg.2094!!!ISSth1,!transposase!(orf1),!IS3!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.00%
+fig|1613.506.peg.2328!!!ISSth1,!transposase!(orf1),!IS3!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.00%
+fig|1613.506.peg.2331!!!ISSth1,!transposase!(orf1),!IS3!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.00%
+fig|1613.506.peg.1409!!!ISSth1,!transposase!(orf1),!IS3!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.00%
+fig|1613.506.peg.1411!!!ISSth1,!transposase!(orf1),!IS3!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.00%
+Cluster 385891
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	YibE/F family protein	ABQ82727
+fig|1613.506.peg.414|G9Q30_06180!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.48%
+Cluster 294022
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	Alpha/beta hydrolase fold-3 domain protein	ABQ83239
+fig|1613.506.peg.1528|G9Q30_01730!!!Esterase/lipase/thioesterase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	74.65%
+Cluster 774732
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	hypothetical protein	ABJ64555
+fig|1613.506.peg.49|G9Q30_04720!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	63.16%
+Cluster 465665
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	carbohydrate kinase, YjeF related protein	ABQ84084
+fig|1613.506.peg.103|G9Q30_05020!!!NAD(P)H-hydrate!epimerase!(EC!5.1.99.6)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.83%
+Cluster 135257
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	FAD-dependent pyridine nucleotide-disulphide oxidoreductase	ABQ82342
+fig|1613.506.peg.2087|G9Q30_09660!!!NADH!peroxidase!Npx!(EC!1.11.1.1)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	94.43%
+Cluster 587839
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	nucleoside diphosphate kinase	ABQ82472
+fig|1613.506.peg.1228|G9Q30_07925!!!Nucleoside!diphosphate!kinase!(EC!2.7.4.6)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	71.03%
+Cluster 52800
+43535	CP002034	Lactobacillus salivarius CECT 5713, complete genome.	No	Lactobacillales	PTS system, trehalose-specific IIBC component	ADJ79511
+fig|1613.506.peg.1937|G9Q30_09505!!!PTS!system,!trehalose-specific!IIA!component!(EC!2.7.1.201)!/!PTS!system,!trehalose-specific!IIB!component!(EC!2.7.1.201)!/!PTS!system,!trehalose-specific!IIC!component!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	76.53%
+Cluster 451189
+15771	CP000360	Candidatus Koribacter versatilis Ellin345, complete genome.	No	Candidatus Koribacter	LSU ribosomal protein L5P	ABF40240
+fig|1613.506.peg.2029|G9Q30_03125!!!LSU!ribosomal!protein!L5p!(L11e)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.11%
+Cluster 303301
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	translation initiation factor If-3	BAF39857
+fig|1613.506.peg.853!!!Translation!initiation!factor!3!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	92.68%
+fig|1613.506.peg.854!!!Translation!initiation!factor!3!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	91.43%
+Cluster 288055
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	mevalonate kinase	ABQ83177
+fig|1613.506.peg.861|G9Q30_07120!!!Mevalonate!kinase!(EC!2.7.1.36)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.74%
+Cluster 625297
+16871	CR954253	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 complete genome.	No	Lactobacillales	FMN-binding protein	CAI98805
+fig|1613.506.peg.1303|G9Q30_08165!!!FMN-binding!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.00%
+Cluster 2785
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	LPXTG-motif cell wall anchor domain protein	ACJ51637
+fig|1613.506.peg.184!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	98.36%
+Cluster 54917
+403	CP000412	Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365, complete genome.	No	Lactobacillales	Shikimate 5-dehydrogenase and FAD-dependent oxidase domain	ABJ57787
+fig|1613.506.peg.1296|G9Q30_08130!!!redox!proteins!related!to!the!succinate!dehydrogenases!and!fumarate!reductases!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.64%
+Cluster 736720
+28245	CP000922	Anoxybacillus flavithermus WK1, complete genome.	No	Bacillales	Ribosomal protein L28	ACJ34142
+fig|1613.506.peg.709|G9Q30_00885!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.74%
+Cluster 722994
+17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	No	Lactobacillales	H+-transporting ATP synthase subunit c	ABX26934
+fig|1613.506.peg.417|G9Q30_06195!!!ATP!synthase!F0!sector!subunit!c!(EC!3.6.3.14)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.86%
+Cluster 208210
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	protein of unknown function DUF795	ABQ83488
+fig|1613.506.peg.594|G9Q30_00315!!!UPF0348!protein!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.27%
+Cluster 165606
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	conserved hypothetical protein	ABQ83219
+fig|1613.506.peg.1231|G9Q30_07935!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.40%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|1613.506.peg.2041|G9Q30_03185!!!SSU!ribosomal!protein!S13p!(S18e)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.77%
+Cluster 371729
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	ABC-3 protein	ABQ82488
+fig|1613.506.peg.362|G9Q30_05985!!!Zinc!ABC!transporter,!permease!protein!ZnuB!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	78.41%
+Cluster 525899
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	deoxyuridine 5'-triphosphate nucleotidohydrolase	ABJ63722
+fig|1613.506.peg.1843|G9Q30_02615!!!Deoxyuridine!5'-triphosphate!nucleotidohydrolase!(EC!3.6.1.23)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.48%
+Cluster 37839
+12733	CP000264	Jannaschia sp. CCS1, complete genome.	No	Alphaproteobacteria	histidine kinase	ABD53182
+fig|1613.506.peg.1015|G9Q30_11170!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.54%
+Cluster 448245
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAF39520
+fig|1613.506.peg.988|G9Q30_11140!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.12%
+Cluster 101259
+9638	AE017198	Lactobacillus johnsonii NCC 533, complete genome.	No	Lactobacillales	amino acid transporter	AAS09241
+fig|1613.506.peg.903|G9Q30_07295!!!Inner!membrane!transporter!YjeM!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.66%
+Cluster 202941
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	D-alanine--D-alanine ligase	BAG24981
+fig|1613.506.peg.432|G9Q30_06270!!!D-alanine--D-alanine!ligase!(EC!6.3.2.4)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	76.92%
+Cluster 154021
+21071	CP001189	Gluconacetobacter diazotrophicus PAl 5, complete genome.	No	Alphaproteobacteria	Uracil-DNA glycosylase superfamily	ACI52924
+fig|1613.506.peg.125!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.71%
+Cluster 279430
+315	CP000414	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete genome.	No	Lactobacillales	glucokinase	ABJ61786
+fig|1613.506.peg.616|G9Q30_00425!!!Glucokinase!(EC!2.7.1.2)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.50%
+Cluster 87413
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	putative autolysin	BAG25800
+fig|1613.506.peg.759|G9Q30_06810!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	71.15%
+Cluster 176471
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	1,2-diacylglycerol 3-glucosyltransferase	ABQ83580
+fig|1613.506.peg.732|G9Q30_06675!!!Glycosyltransferase!LafA,!responsible!for!the!formation!of!Glc-DAG!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	69.63%
+Cluster 406507
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	DivIVA family protein	ABQ82864
+fig|1613.506.peg.34|G9Q30_04645!!!Cell!division!initiation!protein!DivIVA!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.86%
+Cluster 513255
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	peptidyl-tRNA hydrolase	ABQ82531
+fig|1613.506.peg.1004|G9Q30_07645!!!Peptidyl-tRNA!hydrolase!(EC!3.1.1.29)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	74.19%
+Cluster 106163
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	Transposase	ADH00393
+fig|1613.506.peg.279|G9Q30_10460!!!Transposase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.67%
+Cluster 343978
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	ABC-type molybdenum transport system ATPase component	ACD98007
+fig|1613.506.peg.332|G9Q30_10555!!!ABC!transporter,!ATP-binding!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	85.71%
+Cluster 413733
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	Nicotinamide mononucleotide transporter	ABJ64179
+fig|1613.506.peg.926|G9Q30_07365!!!Ribosyl!nicotinamide!transporter,!PnuC-like!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.50%
+Cluster 516218
+17189	CP001095	Bifidobacterium longum subsp. infantis ATCC 15697, complete genome.	No	Actinobacteridae	ribosomal-protein-alanine acetyltransferase	ACJ52114
+fig|1613.506.peg.289|G9Q30_10505!!!Ribosomal-protein-S18p-alanine!acetyltransferase!(EC!2.3.1.128)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.73%
+Cluster 32462
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	penicillin-binding protein, 1A family	ABQ83182
+fig|1613.506.peg.869|G9Q30_07160!!!Multimodular!transpeptidase-transglycosylase!(EC!2.4.1.129)!(EC!3.4.-.-)!/!Penicillin-binding!protein!1A/1B!(PBP1)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.30%
+Cluster 137457
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Poly-gamma-glutamate biosynthesis protein	ACD99133
+fig|1613.506.peg.1020!!!Capsule!biosynthesis!protein!capA!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	88.89%
+Cluster 647938
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	protein of unknown function DUF1304	ABQ83905
+fig|1613.506.peg.1668|G9Q30_08780!!!Protein!of!unknown!function!DUF1304!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.94%
+Cluster 356581
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	protein of unknown function DUF34	ABQ83011
+fig|1613.506.peg.1608|G9Q30_02095!!!GTP!cyclohydrolase!1!type!2!homolog!YbgI!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.13%
+Cluster 338921
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	rod shape-determining protein MreC	ABQ82781
+fig|1613.506.peg.2145|G9Q30_03490!!!Rod!shape-determining!protein!MreC!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	74.20%
+Cluster 16068
+18797	AM406671	Lactococcus lactis subsp. cremoris MG1363, complete genome.	No	Lactobacillales	conserved hypothetical protein	CAL99029
+fig|1613.506.peg.1650!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.61%
+Cluster 223142
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	conserved hypothetical protein	BAG26210
+fig|1613.506.peg.1268|G9Q30_08055!!!Conserved!protein!YngD!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.95%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|1613.506.peg.1831|G9Q30_02555!!!LSU!ribosomal!protein!L11p!(L12e)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.67%
+fig|1613.506.peg.179|G9Q30_10360!!!LSU!ribosomal!protein!L11p!(L12e)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	73.08%
+Cluster 318274
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	conserved hypothetical protein	BAG25645
+fig|1613.506.peg.622|G9Q30_00450!!!ATP-binding!cassette!domain!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.34%
+Cluster 318273
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	conserved hypothetical protein	BAG25448
+fig|1613.506.peg.1294|G9Q30_08120!!!Predicted!esterase!of!the!alpha-beta!hydrolase!superfamily!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.75%
+Cluster 326082
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	putative lipase/esterase	BAG24796
+fig|1613.506.peg.1848|G9Q30_02640!!!Esterase/lipase/thioesterase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	63.92%
+Cluster 288613
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	RpoA	EDK32306
+fig|1613.506.peg.2043|G9Q30_03195!!!DNA-directed!RNA!polymerase!alpha!subunit!(EC!2.7.7.6)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.83%
+Cluster 322308
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	extracellular solute-binding protein family 3	ACQ80694
+fig|1613.506.peg.2397!!!ABC!transporter,!substrate-binding!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	64.37%
+Cluster 597642
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	hypothetical protein	ABQ83266
+fig|1613.506.peg.1186|G9Q30_01425!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.27%
+Cluster 361555
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	phosphomethylpyrimidine kinase	ABQ83528
+fig|1613.506.peg.2300|G9Q30_04045!!!Hydroxymethylpyrimidine!kinase!(EC!2.7.1.49)!@!Hydroxymethylpyrimidine!phosphate!kinase!ThiD!(EC!2.7.4.7)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	71.48%
+Cluster 620938
+315	CP000414	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete genome.	No	Lactobacillales	phosphoribosyl-AMP cyclohydrolase	ABJ62641
+fig|1613.506.peg.510|G9Q30_06550!!!Phosphoribosyl-AMP!cyclohydrolase!(EC!3.5.4.19)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.71%
+Cluster 32924
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	polyphosphate kinase	BAG24842
+fig|1613.506.peg.1802|G9Q30_02420!!!Polyphosphate!kinase!(EC!2.7.4.1)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	71.56%
+Cluster 261805
+403	CP000412	Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365, complete genome.	No	Lactobacillales	Lactate dehydrogenase	ABJ57770
+fig|1613.506.peg.448|G9Q30_06300!!!D-lactate!dehydrogenase!(EC!1.1.1.28)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	81.63%
+Cluster 337155
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	sugar transport family protein	ABQ82687
+fig|1613.506.peg.224|G9Q30_05495!!!Sugar:proton!symporter!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.28%
+Cluster 320158
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	hypothetical protein	ADG99860
+fig|1613.506.peg.2395|G9Q30_10130!!!FIG00814129:!Possible!chaperone!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	86.67%
+Cluster 668460
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	hypothetical protein	ABJ60472
+fig|1613.506.peg.1426|G9Q30_08495!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	72.64%
+Cluster 307424
+9638	AE017198	Lactobacillus johnsonii NCC 533, complete genome.	No	Lactobacillales	hypothetical protein	AAS09721
+fig|1613.506.peg.1114|G9Q30_01080!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.87%
+Cluster 194502
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	major facilitator superfamily MF	ABQ83911
+fig|1613.506.peg.158|G9Q30_05225!!!Putative!transport!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.21%
+Cluster 264774
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Hypothetical protein	ACD97666
+fig|1613.506.peg.725!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	76.51%
+Cluster 279051
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	Effector of nucleoid occlusion Noc	ABQ82377
+fig|1613.506.peg.320|G9Q30_05830!!!Chromosome!(plasmid)!partitioning!protein!ParB-2!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	66.24%
+Cluster 164929
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	transposase, IS605 OrfB family	ABQ83922
+fig|1613.506.peg.948|G9Q30_11085!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	88.37%
+fig|1613.506.peg.1257!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	94.57%
+fig|1613.506.peg.1259|G9Q30_11365!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	93.60%
+fig|1613.506.peg.1278|G9Q30_11370!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	68.80%
+fig|1613.506.peg.1333!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	96.49%
+fig|1613.506.peg.1335!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	94.74%
+fig|1613.506.peg.1356|G9Q30_11525!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	95.24%
+fig|1613.506.peg.1381!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	75.00%
+fig|1613.506.peg.1382!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	97.56%
+fig|1613.506.peg.1385!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	75.00%
+fig|1613.506.peg.1459|G9Q30_11705!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	95.18%
+fig|1613.506.peg.1460|G9Q30_11710!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	93.98%
+fig|1613.506.peg.1462|G9Q30_11720!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	92.50%
+fig|1613.506.peg.1468|G9Q30_11750!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	94.87%
+fig|1613.506.peg.1622|G9Q30_11755!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	93.67%
+Cluster 468355
+17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	No	Lactobacillales	Carbonate dehydratase	ABX27797
+fig|1613.506.peg.1654|G9Q30_08720!!!Carbonic!anhydrase,!alpha!class!(EC!4.2.1.1)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	100.00%
+Cluster 595948
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	heat shock protein Hsp20	ABQ83564
+fig|1613.506.peg.2225|G9Q30_09935!!!Small!heat!shock!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.14%
+Cluster 286916
+13967	CR931997	Corynebacterium jeikeium K411 complete genome.	Yes	Actinobacteridae	NAD-synthetase	CAI36631
+fig|1613.506.peg.1855|G9Q30_02675!!!NAD!synthetase!(EC!6.3.1.5)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.68%
+Cluster 25150
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Dipeptidyl aminopeptidase/acylaminoacyl-peptidase	ACD98821
+fig|1613.506.peg.180|G9Q30_10365!!!Peptidase!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	89.42%
+Cluster 517354
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	5-formyltetrahydrofolate cyclo-ligase	ABQ83466
+fig|1613.506.peg.613|G9Q30_00410!!!5-formyltetrahydrofolate!cyclo-ligase!(EC!6.3.3.2)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	69.57%
+Cluster 273142
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	glycoside hydrolase family 42 domain 5 loop region	ABX42394
+fig|1613.506.peg.1851|G9Q30_02650!!!beta-galactosidase!small!subunit!(EC!3.2.1.23)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.94%
+Cluster 111351
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	possible glycosyltransferase	BAF39532
+fig|1613.506.peg.333!!!Predicted!glycogen!synthase,!ADP-glucose!transglucosylase!(EC!2.4.1.21),!Actinobacterial!type!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	73.08%
+Cluster 126085
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase	ABJ63661
+fig|1613.506.peg.1010|G9Q30_07675!!!UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine!ligase!(EC!6.3.2.10)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.00%
+Cluster 499904
+16871	CR954253	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 complete genome.	No	Lactobacillales	Phosphoribosylglycinamide formyltransferase	CAI98238
+fig|1613.506.peg.818|G9Q30_06975!!!Phosphoribosylglycinamide!formyltransferase!(EC!2.1.2.2)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	69.43%
+Cluster 426937
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	sortase family protein	ABQ82506
+fig|1613.506.peg.1014|G9Q30_07695!!!Sortase!A,!LPXTG!specific!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.24%
+Cluster 13754
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	conserved hypothetical protein	BAG25345
+fig|1613.506.peg.1123|G9Q30_01120!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.56%
+Cluster 439871
+43535	CP002034	Lactobacillus salivarius CECT 5713, complete genome.	No	Lactobacillales	Anaerobic ribonucleoside-triphosphate reductase activating protein	ADJ79372
+fig|1613.506.peg.1720|G9Q30_09030!!!Ribonucleotide!reductase!of!class!III!(anaerobic),!activating!protein!(EC!1.97.1.4)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	78.57%
+Cluster 615611
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	molybdenum cofactor biosynthesis protein E	BAG25469
+fig|1613.506.peg.1161|G9Q30_01300!!!Molybdopterin!synthase!catalytic!subunit!MoaE!(EC!2.8.1.12)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	76.69%
+Cluster 693632
+315	CP000414	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete genome.	No	Lactobacillales	SSU ribosomal protein S18P	ABJ63039
+fig|1613.506.peg.2383|G9Q30_04320!!!SSU!ribosomal!protein!S18p!@!SSU!ribosomal!protein!S18p,!zinc-independent!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	82.05%
+Cluster 522089
+19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	No	Lactobacillales	conserved hypothetical protein	BAG25400
+fig|1613.506.peg.1092|G9Q30_00975!!!Acetyltransferase,!GNAT!family!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.11%
+Cluster 22749
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	Excinuclease ATPase subunit	ABJ64604
+fig|1613.506.peg.993|G9Q30_11165!!!Excinuclease!ABC!subunit!A!paralog!of!unknown!function!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	65.05%
+Cluster 247879
+398	CP000422	Pediococcus pentosaceus ATCC 25745, complete genome.	No	Lactobacillales	Predicted integral membrane protein	ABJ67701
+fig|1613.506.peg.730|G9Q30_06665!!!Integral!membrane!protein!LafC,!accessory!function!in!glycolipid!and!LTA!synthesis!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	60.47%
+Cluster 130638
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	protein of unknown function DUF1212	ABQ83772
+fig|1613.506.peg.1964|G9Q30_02770!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.34%
+Cluster 466340
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	binding-protein-dependent transport systems inner membrane component	ABQ82457
+fig|1613.506.peg.1513|G9Q30_01660!!!ABC!transporter,!permease!protein!(cluster!13,!osmolytes)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.68%
+Cluster 663146
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S16	ABP89762
+fig|1613.506.peg.1709|G9Q30_08975!!!SSU!ribosomal!protein!S16p!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	67.03%
+Cluster 768921
+28537	CP001084	Lactobacillus casei str. Zhang, complete genome.	No	Lactobacillales	conserved hypothetical protein	ADK18259
+fig|1613.506.peg.2243|G9Q30_03780!!!hypothetical!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	69.57%
+Cluster 16346
+16871	CR954253	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 complete genome.	No	Lactobacillales	CRISPR-associated helicase Cas3	CAI97689
+fig|1613.506.peg.1703!!!CRISPR-associated!helicase!Cas3,!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	64.52%
+Cluster 676750
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	protein of unknown function UPF0044	ABQ83493
+fig|1613.506.peg.589|G9Q30_00290!!!RNA-binding!protein!YhbY!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.87%
+Cluster 3612
+33191	CP001678	Hirschia baltica ATCC 49814, complete genome.	No	Alphaproteobacteria	plasmid maintenance system antidote protein, XRE family	ACT58356
+fig|1613.506.peg.135!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.00%
+fig|1613.506.peg.1906!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.00%
+fig|1613.506.peg.2113!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.00%
+fig|1613.506.peg.2215!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.00%
+fig|1613.506.peg.2319!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.00%
+fig|1613.506.peg.1408!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.00%
+fig|1613.506.peg.1438!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.00%
+fig|1613.506.peg.1440!!!Mobile!element!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	70.00%
+Cluster 215154
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	YibE/F family protein	ABQ82726
+fig|1613.506.peg.413|G9Q30_06175!!!YibE/F!family!protein!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	62.93%
+Cluster 293601
+17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	No	Lactobacillales	ribonuclease Z	ABX27104
+fig|1613.506.peg.453|G9Q30_06325!!!Ribonuclease!Z!(EC!3.1.26.11)!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	61.61%
+Cluster 714071
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S Ribosomal protein S21	ABP90399
+fig|1613.506.peg.2260|G9Q30_03865!!!SSU!ribosomal!protein!S21p!!![Lactobacillus!fermentum!strain!CVM-347!|!1613.506]	77.42%

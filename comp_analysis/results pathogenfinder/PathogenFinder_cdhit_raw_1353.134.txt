@@ -1,0 +1,445 @@
+Cluster 95040
+13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	No	Bacillales	transposase	BAD62787
+fig|1353.134.peg.2484!!!Mobile!element!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.04%
+Cluster 617219
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	AAO80336
+fig|1353.134.peg.2924|GV845_09405!!!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	81.95%
+Cluster 72460
+29147	AP008955	Brevibacillus brevis NBRC 100599 DNA, complete genome.	No	Bacillales	arginyl-tRNA synthetase	BAH43174
+fig|1353.134.peg.838|GV845_03990!!!Arginyl-tRNA!synthetase!(EC!6.1.1.19)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.10%
+Cluster 156774
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	permease, putative	AAO81624
+fig|1353.134.peg.2897|GV845_09295!!!ABC!transporter!membrane-spanning!permease,!Pep!export,!Vex1!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	99.29%
+Cluster 518511
+315	CP000415	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293 plasmid pLEUM1, complete sequence.	No	Lactobacillales	DNA-binding ferritin-like protein	ABJ63147
+fig|1353.134.peg.2468|GV845_15735!!!DNA!protection!during!starvation!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	87.43%
+Cluster 5236
+32195	FM179322	Lactobacillus rhamnosus GG whole genome sequence, strain GG (ATCC 53103).	No	Lactobacillales	DNA-directed RNA polymerase, beta chain	CAR88392
+fig|1353.134.peg.3327|GV845_11320!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	78.62%
+Cluster 433404
+315	CP000415	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293 plasmid pLEUM1, complete sequence.	No	Lactobacillales	Crp-like transcriptional regulator	ABJ63148
+fig|1353.134.peg.2469|GV845_15740!!!Transcriptional!regulator,!Crp/Fnr!family!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	83.91%
+Cluster 312435
+27777	CP001793	Geobacillus sp. Y412MC10, complete genome.	No	Bacillales	transcriptional regulator, ArsR family	ACX64397
+fig|1353.134.peg.1712|GV845_14290!!!Transcriptional!regulator,!ArsR!family!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	68.58%
+Cluster 49583
+111	AE000512	Thermotoga maritima MSB8, complete genome.	No	Thermotogales	phosphoglycerate kinase/triose-phosphate isomerase	AAD35771
+fig|1353.134.peg.2869|GV845_09175!!!Phosphoglycerate!kinase!(EC!2.7.2.3)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	63.13%
+Cluster 645369
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACX86741
+fig|1353.134.peg.1373|GV845_12700!!!Uncharacterized!protein!STM4441!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	70.34%
+Cluster 128590
+28537	CP001084	Lactobacillus casei str. Zhang, complete genome.	No	Lactobacillales	PTS system, galactitol-specific IIC subunit	ADK19820
+fig|1353.134.peg.2206|GV845_15565!!!PTS!system,!IIC!component!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	81.76%
+Cluster 598986
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	transcriptional regulator, MarR family	AAO81446
+fig|1353.134.peg.1938|GV845_06275!!!Transcriptional!regulator,!MarR!family!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	66.20%
+Cluster 291013
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	hypothetical protein	ABX42575
+fig|1353.134.peg.1461!!!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.00%
+Cluster 285384
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	ABC-type phosphate transport system, permease component	ABJ64926
+fig|1353.134.peg.607|GV845_02820!!!Phosphate!ABC!transporter,!permease!protein!PstC!(TC!3.A.1.7.1)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	65.03%
+Cluster 177305
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	Tn916, transposase	ABP89883
+fig|1353.134.peg.1350|GV845_12590!!!putative!transposon!integrase;!Tn916!ORF3-like!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	100.00%
+fig|1353.134.peg.2170|GV845_15390!!!putative!transposon!integrase;!Tn916!ORF3-like!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	63.98%
+Cluster 748122
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	ribosomal protein L29	AAO80083
+fig|1353.134.peg.1889|GV845_06035!!!LSU!ribosomal!protein!L29p!(L35e)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	95.16%
+Cluster 564152
+27759	CP001615	Exiguobacterium sp. AT1b, complete genome.	No	Bacillales	protein of unknown function DUF305	ACQ70184
+fig|1353.134.peg.545|GV845_02525!!!FIG00628036:!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	66.89%
+Cluster 165851
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	dTDP-glucose 4,6-dehydratase	AAN25045
+fig|1353.134.peg.478|GV845_02225!!!dTDP-glucose!4,6-dehydratase!(EC!4.2.1.46)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.11%
+Cluster 201964
+29409	CP001175	Listeria monocytogenes HCC23, complete genome.	Yes	Bacillales	aspartate aminotransferase	ACK38650
+fig|1353.134.peg.1661|GV845_14055!!!Aspartate!aminotransferase!(EC!2.6.1.1)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.23%
+Cluster 118383
+29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Yes	Lactobacillales	Tn5251 transcriptional regulator Cro/CI family	ACF55955
+fig|1353.134.peg.2797|GV845_08815!!!Tn916,!transcriptional!regulator,!putative!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	68.97%
+fig|1353.134.peg.2084|GV845_15000!!!Transcriptional!regulator,!Xre!family!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.41%
+Cluster 633002
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	cold-shock DNA-binding domain protein	ABF12030
+fig|1353.134.peg.898|GV845_04285!!!Cold!shock!protein!of!CSP!family!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.61%
+Cluster 587090
+32195	FM179322	Lactobacillus rhamnosus GG whole genome sequence, strain GG (ATCC 53103).	No	Lactobacillales	Diadenosine tetraphosphate (Ap4A) hydrolase related HIT family hydrolase	CAR87460
+fig|1353.134.peg.2284!!!HIT!family!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	69.30%
+Cluster 635530
+19619	CP000817	Lysinibacillus sphaericus C3-41, complete genome.	No	Bacillales	Chemotaxis protein cheY-like protein	ACA39162
+fig|1353.134.peg.3131|GV845_10380!!!Chemotaxis!regulator!-!transmits!chemoreceptor!signals!to!flagellar!motor!components!CheY!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	69.17%
+Cluster 783731
+330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Yes	Lactobacillales	Tn916, hypothetical protein	AAM99806
+fig|1353.134.peg.1355|GV845_12615!!!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	95.65%
+Cluster 206624
+76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	No	Bacillales	L-alanine dehydrogenase	CAB15181
+fig|1353.134.peg.2778|GV845_08725!!!Alanine!dehydrogenase!(EC!1.4.1.1)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.52%
+Cluster 655686
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	transcriptional regulator, PadR family	ABN53140
+fig|1353.134.peg.2444|GV845_07340!!!Transcriptional!regulator,!PadR!family!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.00%
+Cluster 586329
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	protein of unknown function DUF956	ABR32898
+fig|1353.134.peg.588|GV845_02730!!!Putative!regulator!of!the!mannose!operon,!ManO!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	78.51%
+Cluster 488678
+18797	AM406671	Lactococcus lactis subsp. cremoris MG1363, complete genome.	No	Lactobacillales	putative serine acetyltransferase	CAL98609
+fig|1353.134.peg.1299|GV845_12345!!!Serine!acetyltransferase!(EC!2.3.1.30)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.09%
+Cluster 276461
+16304	CP000739	Sinorhizobium medicae WSM419 plasmid pSMED01, complete genome.	No	Alphaproteobacteria	Membrane dipeptidase	ABR62546
+fig|1353.134.peg.1932|GV845_06245!!!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.61%
+Cluster 640332
+29541	CP001649	Desulfovibrio salexigens DSM 2638, complete genome.	No	Deltaproteobacteria	protein of unknown function DUF1486	ACS79999
+fig|1353.134.peg.961|GV845_04585!!!FIG00631715:!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	74.36%
+Cluster 639321
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	SSU ribosomal protein S19P	ABP89047
+fig|1353.134.peg.1893|GV845_06055!!!SSU!ribosomal!protein!S19p!(S15e)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	93.48%
+Cluster 349353
+401	CP000425	Lactococcus lactis subsp. cremoris SK11, complete genome.	No	Lactobacillales	ABC-type maltose transport system, permease component	ABJ72986
+fig|1353.134.peg.2147|GV845_15285!!!ABC!transporter,!permease!protein!2!(cluster!1,!maltose/g3p/polyamine/iron)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	68.25%
+Cluster 502623
+16062	DQ489736	Leuconostoc citreum KM20, complete genome.	No	Lactobacillales	Beta-glucosidase/6-phospho-beta- glucosidase/beta- galactosidase	ACA82764
+fig|1353.134.peg.1056!!!6-phospho-beta-glucosidase!(EC!3.2.1.86)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	71.05%
+Cluster 141738
+18797	AM406671	Lactococcus lactis subsp. cremoris MG1363, complete genome.	No	Lactobacillales	glycosyltransferase	CAL98241
+fig|1353.134.peg.165|GV845_00790!!!Glycosyl!transferase!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	75.61%
+Cluster 60274
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	Predicted hydrolase of the metallo-beta-lactamase superfamily	ABJ64489
+fig|1353.134.peg.2128|GV845_15195!!!Ribonuclease!J2!(endoribonuclease!in!RNA!processing)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.61%
+Cluster 531061
+27777	CP001793	Geobacillus sp. Y412MC10, complete genome.	No	Bacillales	intracellular protease, PfpI family	ACX64195
+fig|1353.134.peg.1462|GV845_13125!!!Intracellular!protease!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	63.79%
+Cluster 110873
+402	CP000423	Lactobacillus casei ATCC 334, complete genome.	No	Lactobacillales	Glutamate racemase with xanthosine/inosine pyrophosphatase of HAM1 family	ABJ69635
+fig|1353.134.peg.2393|GV845_07100!!!Glutamate!racemase!(EC!5.1.1.3)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	63.33%
+Cluster 81498
+32197	FM179323	Lactobacillus rhamnosus Lc 705 whole genome sequence, strain Lc 705.	No	Lactobacillales	Pyruvate dehydrogenase complex E2 component, dihydrolipoyllysine-residue acetyltransferase	CAR90175
+fig|1353.134.peg.1465|GV845_13140!!!Dihydrolipoamide!acetyltransferase!component!of!pyruvate!dehydrogenase!complex!(EC!2.3.1.12)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.72%
+Cluster 50181
+36571	CP001939	Thermosphaera aggregans DSM 11486, complete genome.	No	Thermoprotei	glyceraldehyde-3-phosphate ferredoxin oxidoreductase	ADG90727
+fig|1353.134.peg.1!!!Transposase!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	70.00%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|1353.134.peg.1906|GV845_06120!!!SSU!ribosomal!protein!S12p!(S23e)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.96%
+Cluster 427605
+315	CP000414	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete genome.	No	Lactobacillales	Glucosamine-6-phosphate isomerase	ABJ61477
+fig|1353.134.peg.1243|GV845_12090!!!Glucosamine-6-phosphate!deaminase!(EC!3.5.99.6)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.09%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|1353.134.peg.1326|GV845_12470!!!LSU!ribosomal!protein!L34p!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	63.64%
+Cluster 678461
+13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	No	Bacillales	50S ribosomal protein L21	BAD65137
+fig|1353.134.peg.573|GV845_02655!!!LSU!ribosomal!protein!L21p!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	69.61%
+Cluster 189264
+16062	DQ489736	Leuconostoc citreum KM20, complete genome.	No	Lactobacillales	Glycoside hydrolase, family 1	ACA82788
+fig|1353.134.peg.2212|GV845_15595!!!6-phospho-beta-glucosidase!(EC!3.2.1.86)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	70.45%
+Cluster 726161
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	ferredoxin	AAO81330
+fig|1353.134.peg.794|GV845_03770!!!Ferredoxin!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.97%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|1353.134.peg.780|GV845_03700!!!Translation!elongation!factor!Tu!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.81%
+fig|1353.134.peg.1903|GV845_06105!!!Translation!elongation!factor!Tu!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.30%
+Cluster 348663
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ADL53742
+fig|1353.134.peg.432|GV845_02015!!!Alpha-arabinosides!ABC!transport!system,!permease!protein!AraQ!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.90%
+Cluster 345032
+30359	FM177140	Lactobacillus casei BL23 complete genome, strain BL23.	No	Lactobacillales	RmlD	CAQ67287
+fig|1353.134.peg.479|GV845_02230!!!dTDP-4-dehydrorhamnose!reductase!(EC!1.1.1.133)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	62.82%
+Cluster 506686
+315	CP000414	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete genome.	No	Lactobacillales	Uncharacterized domain/protein associated with RNAses G and E	ABJ61783
+fig|1353.134.peg.686|GV845_03190!!!DUF402!family!nucleoside!diphosphatase!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	78.53%
+Cluster 661532
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	conserved hypothetical protein	AAV61555
+fig|1353.134.peg.2787|GV845_08770!!!UPF0473!protein!YrzB!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	63.55%
+Cluster 596409
+29147	AP008955	Brevibacillus brevis NBRC 100599 DNA, complete genome.	No	Bacillales	protein MraZ	BAH44823
+fig|1353.134.peg.1168|GV845_11725!!!Transcriptional!regulator!MraZ!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	62.24%
+Cluster 589552
+82	CP000033	Lactobacillus acidophilus NCFM, complete genome.	No	Lactobacillales	50S ribosomal protein L16	AAV42191
+fig|1353.134.peg.1890|GV845_06040!!!LSU!ribosomal!protein!L16p!(L10e)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	82.64%
+Cluster 336181
+28245	CP000922	Anoxybacillus flavithermus WK1, complete genome.	No	Bacillales	Calcineurin-like phosphoesterase	ACJ33894
+fig|1353.134.peg.1829|GV845_05740!!!2',3'-cyclic-nucleotide!2'-phosphodiesterase,!Bsub!YmdB!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.15%
+Cluster 134223
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	ribonuclease PH/Ham1 protein	AAO80922
+fig|1353.134.peg.2392|GV845_07095!!!Ribonuclease!PH!(EC!2.7.7.56)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	75.33%
+Cluster 198468
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	putative iron-containing alcohol dehydrogenase	ADK13465
+fig|1353.134.peg.1392|GV845_12795!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.16%
+Cluster 317308
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ADL53741
+fig|1353.134.peg.431|GV845_02010!!!ABC!transporter,!permease!protein!1!(cluster!1,!maltose/g3p/polyamine/iron)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	68.73%
+Cluster 312489
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S2	ABP90946
+fig|1353.134.peg.840|GV845_04000!!!SSU!ribosomal!protein!S2p!(SAe)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	75.57%
+Cluster 683835
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	SSU ribosomal protein S17P	ABN96857
+fig|1353.134.peg.1888|GV845_06030!!!SSU!ribosomal!protein!S17p!(S11e)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.36%
+Cluster 254409
+13932	CP000133	Rhizobium etli CFN 42, complete genome.	No	Alphaproteobacteria	UDP-glucuronic acid epimerase protein	ABC92011
+fig|1353.134.peg.2917!!!Mobile!element!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	62.07%
+Cluster 439994
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	CBS domain containing protein	ABJ59676
+fig|1353.134.peg.997|GV845_04765!!!CBS!domain!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	65.57%
+Cluster 517623
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	signal peptidase I	AAO81456
+fig|1353.134.peg.920|GV845_04385!!!Signal!peptidase!I!(EC!3.4.21.89)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.44%
+Cluster 21232
+235	BA000004	Bacillus halodurans C-125 DNA, complete genome.	No	Bacillales	ribonucleoside-diphosphate reductase (major subunit)	BAB06529
+fig|1353.134.peg.1438|GV845_13020!!!Ribonucleotide!reductase!of!class!II!(coenzyme!B12-dependent)!(EC!1.17.4.1)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.67%
+Cluster 129443
+20209	AP009484	Macrococcus caseolyticus JCSC5402 DNA, complete genome.	No	Bacillales	branched-chain amino acid transport system carrier protein	BAH16757
+fig|1353.134.peg.1796|GV845_05595!!!Na(+)-dependent!branched-chain!amino!acid!transporter!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	62.25%
+Cluster 422304
+19619	CP000817	Lysinibacillus sphaericus C3-41, complete genome.	No	Bacillales	Cell division ATP-binding protein	ACA38793
+fig|1353.134.peg.1163|GV845_11700!!!Cell-division-associated,!ABC-transporter-like!signaling!protein!FtsE!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	71.93%
+Cluster 77682
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	peptide ABC transporter, peptide-binding protein	AAO80715
+fig|1353.134.peg.189|GV845_00900!!!ABC!transporter,!substrate-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	66.18%
+fig|1353.134.peg.2575|GV845_07685!!!ABC!transporter,!substrate-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	68.72%
+Cluster 58654
+315	CP000415	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293 plasmid pLEUM1, complete sequence.	No	Lactobacillales	Cation transport ATPase	ABJ63145
+fig|1353.134.peg.2466|GV845_15725!!!Probable!cadmium-transporting!ATPase!(EC!3.6.3.3)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	84.23%
+Cluster 308662
+27777	CP001793	Geobacillus sp. Y412MC10, complete genome.	No	Bacillales	binding-protein-dependent transport systems inner membrane component	ACX64400
+fig|1353.134.peg.1715|GV845_14305!!!ABC!transporter,!permease!protein!2!(cluster!1,!maltose/g3p/polyamine/iron)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	72.79%
+Cluster 510405
+13887	CP000056	Streptococcus pyogenes MGAS6180, complete genome.	Yes	Lactobacillales	GAF domain-containing proteins	AAX72219
+fig|1353.134.peg.2944|GV845_09485!!!Free!methionine-(R)-sulfoxide!reductase,!contains!GAF!domain!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	62.75%
+Cluster 155398
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ABX42250
+fig|1353.134.peg.1156|GV845_11675!!!Maltodextrin!ABC!transporter,!permease!protein!MdxG!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.90%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|1353.134.peg.1872|GV845_05950!!!SSU!ribosomal!protein!S11p!(S14e)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	70.54%
+Cluster 739428
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	excisionase	CAJ67936
+fig|1353.134.peg.1351|GV845_12595!!!putative!transposon!excisionase;!Tn916!ORF1-like!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	76.12%
+fig|1353.134.peg.2171|GV845_15395!!!Mobile!element!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	76.12%
+Cluster 368723
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	formate/nitrite transporter family protein	AAO82751
+fig|1353.134.peg.1834|GV845_05765!!!Formate/nitrite!family!of!transporters!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	75.47%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|1353.134.peg.1887|GV845_06025!!!LSU!ribosomal!protein!L14p!(L23e)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	77.05%
+Cluster 97280
+12469	CP000003	Streptococcus pyogenes MGAS10394, complete genome.	Yes	Lactobacillales	Portal protein	AAT86178
+fig|1353.134.peg.2014|GV845_14675!!!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.83%
+Cluster 241106
+9638	AE017198	Lactobacillus johnsonii NCC 533, complete genome.	No	Lactobacillales	phenylalanyl-tRNA synthetase alpha chain	AAS09397
+fig|1353.134.peg.2401|GV845_07140!!!Phenylalanyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.20)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.52%
+Cluster 596126
+40837	CP001758	Leuconostoc kimchii IMSNU 11154, complete genome.	No	Lactobacillales	glycerol-3-phosphate cytidylyltransferase	ADG41327
+fig|1353.134.peg.899|GV845_04290!!!Glycerol-3-phosphate!cytidylyltransferase!(EC!2.7.7.39)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	87.22%
+Cluster 17603
+72	AE005176	Lactococcus lactis subsp. lactis Il1403, complete genome.	No	Lactobacillales	phage infection protein	AAK05768
+fig|1353.134.peg.1710|GV845_14280!!!phage!infection!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	63.49%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|1353.134.peg.1874|GV845_05960!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	78.95%
+Cluster 283007
+20209	AP009486	Macrococcus caseolyticus JCSC5402 plasmid pMCCL2 DNA, complete sequence.	No	Bacillales	transposase	BAH18715
+fig|1353.134.peg.2494|GV845_15840!!!Integrase,!catalytic!region!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	62.33%
+Cluster 283006
+20209	AP009484	Macrococcus caseolyticus JCSC5402 DNA, complete genome.	No	Bacillales	transposase	BAH16944
+fig|1353.134.peg.1598|GV845_13780!!!Integrase,!catalytic!region!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.29%
+Cluster 777896
+28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Yes	Lactobacillales	Tetracycline resistance determinant leader peptide	ACA37321
+fig|1353.134.peg.1359|GV845_12635!!!tetracycline!resistance!determinant!leader!peptide!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	100.00%
+Cluster 465003
+317	CP000411	Oenococcus oeni PSU-1, complete genome.	No	Lactobacillales	Transcriptional regulator, xre family	ABJ56879
+fig|1353.134.peg.2372|GV845_07000!!!SOS-response!repressor!and!protease!LexA!(EC!3.4.21.88)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.56%
+Cluster 141741
+72	AE005176	Lactococcus lactis subsp. lactis Il1403, complete genome.	No	Lactobacillales	glycosyl transferase	AAK04974
+fig|1353.134.peg.164!!!Glycosyl!transferase!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	70.56%
+Cluster 464922
+19619	CP000817	Lysinibacillus sphaericus C3-41, complete genome.	No	Bacillales	Uridine kinase	ACA41339
+fig|1353.134.peg.2601|GV845_07800!!!Uridine!kinase!(EC!2.7.1.48)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	66.51%
+Cluster 722338
+315	CP000415	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293 plasmid pLEUM1, complete sequence.	No	Lactobacillales	Copper chaperone	ABJ63146
+fig|1353.134.peg.2467|GV845_15730!!!Copper!chaperone!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	88.46%
+Cluster 131662
+30731	CP001146	Dictyoglomus thermophilum H-6-12, complete genome.	No	Dictyoglomales	sensory box protein	ACI18748
+fig|1353.134.peg.2892!!!Mobile!element!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	66.67%
+fig|1353.134.peg.1364!!!Mobile!element!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	66.67%
+Cluster 465344
+13376	CP001791	Bacillus selenitireducens MLS10, complete genome.	No	Bacillales	ribosome biogenesis GTP-binding protein YsxC	ADH98930
+fig|1353.134.peg.3226|GV845_10830!!!GTP-binding!protein!EngB!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	63.08%
+Cluster 495142
+20745	CP001854	Conexibacter woesei DSM 14684, complete genome.	No	Rubrobacteridae	ribosomal protein L19	ADB52095
+fig|1353.134.peg.2072|GV845_14945!!!LSU!ribosomal!protein!L19p!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.74%
+Cluster 221558
+32587	CP001997	Aminobacterium colombiense DSM 12261, complete genome.	No	Synergistia	uracil phosphoribosyltransferase	ADE57013
+fig|1353.134.peg.2616|GV845_07875!!!Uracil!phosphoribosyltransferase!(EC!2.4.2.9)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	66.03%
+Cluster 210786
+17155	CP000408	Streptococcus suis 98HAH33, complete genome.	Yes	Lactobacillales	GMP reductase	ABP91973
+fig|1353.134.peg.1477|GV845_13200!!!GMP!reductase!(EC!1.7.1.7)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	80.49%
+Cluster 162483
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Protein-N(pi)-phosphohistidine--sugar phosphotransferase	ADL02652
+fig|1353.134.peg.2135|GV845_15230!!!PTS!system,!cellobiose-specific!IIC!component!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	66.83%
+Cluster 16523
+20209	AP009484	Macrococcus caseolyticus JCSC5402 DNA, complete genome.	No	Bacillales	ATP-dependent Clp protease ATP-binding subunit ClpB	BAH17308
+fig|1353.134.peg.2238|GV845_06380!!!Chaperone!protein!ClpB!(ATP-dependent!unfoldase)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.25%
+Cluster 51029
+29409	CP001175	Listeria monocytogenes HCC23, complete genome.	Yes	Bacillales	bifunctional protein TilS/hprT	ACK40759
+fig|1353.134.peg.3171|GV845_10575!!!Hypoxanthine-guanine!phosphoribosyltransferase!(EC!2.4.2.8)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	69.06%
+Cluster 374356
+43535	CP002034	Lactobacillus salivarius CECT 5713, complete genome.	No	Lactobacillales	Methionine aminopeptidase	ADJ79319
+fig|1353.134.peg.1194|GV845_11855!!!Methionine!aminopeptidase!(EC!3.4.11.18)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	70.87%
+fig|1353.134.peg.1449|GV845_13075!!!Methionine!aminopeptidase!(EC!3.4.11.18)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	69.69%
+Cluster 567047
+330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Yes	Lactobacillales	Tn916, hypothetical protein	AAM99805
+fig|1353.134.peg.1354|GV845_12610!!!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	100.00%
+Cluster 54227
+43535	CP002037	Lactobacillus salivarius CECT 5713 plasmid pHN3, complete sequence.	No	Lactobacillales	Lead, cadmium, zinc and mercury transporting ATPase	ADJ79777
+fig|1353.134.peg.2465|GV845_15720!!!Copper-translocating!P-type!ATPase!(EC!3.6.3.4)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	98.90%
+Cluster 633859
+29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Yes	Lactobacillales	ribosome-binding factor A	ACB89772
+fig|1353.134.peg.748|GV845_03490!!!Ribosome-binding!factor!A!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	62.93%
+Cluster 226699
+29147	AP008955	Brevibacillus brevis NBRC 100599 DNA, complete genome.	No	Bacillales	O-sialoglycoprotein endopeptidase	BAH41492
+fig|1353.134.peg.836|GV845_03980!!!N(6)-L-threonylcarbamoyladenine!synthase!(EC!2.3.1.234)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.36%
+Cluster 381771
+216	CP001037	Nostoc punctiforme PCC 73102, complete genome.	No	Nostocales	manganese and iron superoxide dismutase	ACC83785
+fig|1353.134.peg.897|GV845_04280!!!Superoxide!dismutase![Mn]!(EC!1.15.1.1)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	63.37%
+Cluster 652091
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative mobilization protein	CAJ67249
+fig|1353.134.peg.2893|GV845_09275!!!FIG00514634:!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	80.00%
+Cluster 451189
+15771	CP000360	Candidatus Koribacter versatilis Ellin345, complete genome.	No	Candidatus Koribacter	LSU ribosomal protein L5P	ABF40240
+fig|1353.134.peg.1885|GV845_06015!!!LSU!ribosomal!protein!L5p!(L11e)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.34%
+Cluster 199786
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conserved domain protein	CAJ68745
+fig|1353.134.peg.2894|GV845_09280!!!Thioredoxin!family!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	94.12%
+Cluster 199785
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative exported protein	CBE04631
+fig|1353.134.peg.2895|GV845_09285!!!Thioredoxin!family!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	86.96%
+Cluster 736720
+28245	CP000922	Anoxybacillus flavithermus WK1, complete genome.	No	Bacillales	Ribosomal protein L28	ACJ34142
+fig|1353.134.peg.1864|GV845_05910!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	72.58%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|1353.134.peg.1873|GV845_05955!!!SSU!ribosomal!protein!S13p!(S18e)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.46%
+Cluster 286019
+401	CP000425	Lactococcus lactis subsp. cremoris SK11, complete genome.	No	Lactobacillales	ABC-type sugar transport system, permease component	ABJ72987
+fig|1353.134.peg.2146|GV845_15280!!!ABC!transporter,!permease!protein!1!(cluster!1,!maltose/g3p/polyamine/iron)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	67.87%
+Cluster 87532
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	ABC transporter, ATP-binding/permease protein	AAO80900
+fig|1353.134.peg.2091!!!Efflux!ABC!transporter,!permease/ATP-binding!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.00%
+Cluster 635664
+28921	XXX	Acinetobacter baumannii AYE	Yes	Gammaproteobacteria	XXX	
+fig|1353.134.peg.1201!!!Lead,!cadmium,!zinc!and!mercury!transporting!ATPase!(EC!3.6.3.3)!(EC!3.6.3.5);!Copper-translocating!P-type!ATPase!(EC!3.6.3.4)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	74.36%
+Cluster 726313
+398	CP000422	Pediococcus pentosaceus ATCC 25745, complete genome.	No	Lactobacillales	hypothetical protein	ABJ67957
+fig|1353.134.peg.356|GV845_01655!!!Uncharacterized!membrane!protein!YuzA!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.79%
+Cluster 329181
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	transcriptional regulator, AraC family	ACL20243
+fig|1353.134.peg.1554|GV845_13570!!!Uncharacterized!transcriptional!regulator!YdeE,!AraC!family!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.42%
+Cluster 528778
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	AAO80229
+fig|1353.134.peg.2110|GV845_15120!!!Hydrolase,!HAD!superfamily!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.00%
+Cluster 279430
+315	CP000414	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete genome.	No	Lactobacillales	glucokinase	ABJ61786
+fig|1353.134.peg.825|GV845_03925!!!Glucokinase!(EC!2.7.1.2)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.17%
+Cluster 315500
+18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	No	Bacillales	L-serine ammonia-lyase	ABK86980
+fig|1353.134.peg.1003|GV845_04795!!!L-serine!dehydratase,!alpha!subunit!(EC!4.3.1.17)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	62.20%
+Cluster 173222
+72	AE005176	Lactococcus lactis subsp. lactis Il1403, complete genome.	No	Lactobacillales	betaine ABC transporter ATP binding protein	AAK05550
+fig|1353.134.peg.2845|GV845_09055!!!Betaine!ABC!transporter,!ATP-binding!protein!BusAA!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	71.22%
+Cluster 532533
+29403	CP001632	Capnocytophaga ochracea DSM 7271, complete genome.	Yes	Flavobacteria	D-tyrosyl-tRNA(Tyr) deacylase	ACU92127
+fig|1353.134.peg.2657|GV845_08075!!!D-aminoacyl-tRNA!deacylase!(EC!3.1.1.96)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.81%
+Cluster 725122
+28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	ACA36408
+fig|1353.134.peg.1353|GV845_12605!!!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	100.00%
+Cluster 478690
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	conserved domain protein	AAO81986
+fig|1353.134.peg.7|GV845_00030!!!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	91.71%
+Cluster 715744
+16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Yes	Lactobacillales	conserved hypothetical protein	CBJ21307
+fig|1353.134.peg.1341|GV845_12545!!!Uncharacterized!protein!CAC3725!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.52%
+Cluster 376038
+20739	CP001682	Cryptobacterium curtum DSM 15641, complete genome.	Yes	Coriobacteridae	exodeoxyribonuclease III	ACU94851
+fig|1353.134.peg.2753|GV845_08610!!!Exodeoxyribonuclease!III!(EC!3.1.11.2)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.40%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|1353.134.peg.1875|GV845_05965!!!Translation!initiation!factor!1!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	76.39%
+Cluster 700529
+28997	AP010655	Streptococcus mutans NN2025 DNA, complete genome.	Yes	Lactobacillales	hypothetical protein	BAH87033
+fig|1353.134.peg.3167|GV845_10555!!!Ribosome-associated!heat!shock!protein!implicated!in!the!recycling!of!the!50S!subunit!(S4!paralog)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	68.18%
+Cluster 708859
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	RNA-binding protein, KH domain	ABJ64077
+fig|1353.134.peg.2066|GV845_14915!!!KH!domain!RNA!binding!protein!YlqC!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.49%
+Cluster 106288
+33329	CP002032	Thermoanaerobacter mathranii subsp. mathranii str. A3, complete genome.	No	Clostridia	alpha-L-arabinofuranosidase domain protein	ADH61396
+fig|1353.134.peg.1719|GV845_14325!!!alpha-L-arabinofuranosidase!(EC!3.2.1.55)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	62.79%
+Cluster 107604
+72	AE005176	Lactococcus lactis subsp. lactis Il1403, complete genome.	No	Lactobacillales	conserved hypothetical protein	AAK05708
+fig|1353.134.peg.346|GV845_01615!!!Hemerythrin!domain!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	63.30%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|1353.134.peg.1005|GV845_04805!!!LSU!ribosomal!protein!L11p!(L12e)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	65.00%
+Cluster 288613
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	RpoA	EDK32306
+fig|1353.134.peg.1871|GV845_05945!!!DNA-directed!RNA!polymerase!alpha!subunit!(EC!2.7.7.6)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.42%
+Cluster 394178
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	triosephosphate isomerase	AAV60198
+fig|1353.134.peg.2870|GV845_09180!!!Triosephosphate!isomerase!(EC!5.3.1.1)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	68.13%
+Cluster 247956
+13376	CP001791	Bacillus selenitireducens MLS10, complete genome.	No	Bacillales	dihydrouridine synthase DuS	ADH98106
+fig|1353.134.peg.1405|GV845_12860!!!tRNA-dihydrouridine!synthase!2!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	70.92%
+Cluster 696728
+32195	FM179322	Lactobacillus rhamnosus GG whole genome sequence, strain GG (ATCC 53103).	No	Lactobacillales	Conserved cytosolic protein	CAR86724
+fig|1353.134.peg.711|GV845_03305!!!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	67.11%
+Cluster 506418
+43535	CP002037	Lactobacillus salivarius CECT 5713 plasmid pHN3, complete sequence.	No	Lactobacillales	Non-specific DNA-binding protein / Iron-binding ferritin-like antioxidant protein / Ferroxidase	ADJ79797
+fig|1353.134.peg.2458|GV845_15685!!!DNA!protection!during!starvation!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	97.96%
+Cluster 473900
+18797	AM406671	Lactococcus lactis subsp. cremoris MG1363, complete genome.	No	Lactobacillales	hypothetical protein predicted by Glimmer/Critica	CAL97431
+fig|1353.134.peg.2009|GV845_14650!!!Phage!prohead!assembly!(scaffolding)!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.87%
+Cluster 539419
+28997	AP010655	Streptococcus mutans NN2025 DNA, complete genome.	Yes	Lactobacillales	putative flavodoxin	BAH87791
+fig|1353.134.peg.1193|GV845_11850!!!Flavodoxin!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	76.03%
+Cluster 596433
+32195	FM179322	Lactobacillus rhamnosus GG whole genome sequence, strain GG (ATCC 53103).	No	Lactobacillales	ATP synthase E chain	CAR87080
+fig|1353.134.peg.1128|GV845_11535!!!ATP!synthase!epsilon!chain!(EC!3.6.3.14)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.71%
+Cluster 642064
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	major cold shock protein	AAW75975
+fig|1353.134.peg.872|GV845_04155!!!Cold!shock!protein!of!CSP!family!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	60.61%
+Cluster 436119
+315	CP000414	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete genome.	No	Lactobacillales	LSU ribosomal protein L3P	ABJ61327
+fig|1353.134.peg.1897|GV845_06075!!!LSU!ribosomal!protein!L3p!(L3e)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	70.33%
+Cluster 626958
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	AAO81632
+fig|1353.134.peg.2509|GV845_15910!!!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	99.22%
+Cluster 39271
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	membrane protein, putative	AAO81630
+fig|1353.134.peg.2502|GV845_15875!!!putative!membrane!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	99.86%
+Cluster 262257
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	carbohydrate kinase, pfkB family	AAO81993
+fig|1353.134.peg.1072|GV845_05125!!!2-dehydro-3-deoxygluconokinase!(EC!2.7.1.45)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	63.06%
+Cluster 758701
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	AAO81640
+fig|1353.134.peg.2083|GV845_14995!!!hypothetical!protein!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	100.00%
+Cluster 263646
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	sugar isomerase (SIS)	ABR33143
+fig|1353.134.peg.1955|GV845_14400!!!Putative!glucosamine-fructose-6-phosphate!aminotransferase!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.76%
+Cluster 439871
+43535	CP002034	Lactobacillus salivarius CECT 5713, complete genome.	No	Lactobacillales	Anaerobic ribonucleoside-triphosphate reductase activating protein	ADJ79372
+fig|1353.134.peg.1031|GV845_04925!!!Ribonucleotide!reductase!of!class!III!(anaerobic),!activating!protein!(EC!1.97.1.4)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	66.67%
+Cluster 467410
+16062	DQ489736	Leuconostoc citreum KM20, complete genome.	No	Lactobacillales	Transcription termination/antitermination factor NusG	ACA83349
+fig|1353.134.peg.1000|GV845_04780!!!Transcription!antitermination!protein!NusG!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	61.11%
+Cluster 693631
+16062	DQ489736	Leuconostoc citreum KM20, complete genome.	No	Lactobacillales	Ribosomal protein S18	ACA82004
+fig|1353.134.peg.1317|GV845_12425!!!SSU!ribosomal!protein!S18p!@!SSU!ribosomal!protein!S18p,!zinc-independent!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	79.49%
+Cluster 663146
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S16	ABP89762
+fig|1353.134.peg.2065|GV845_14910!!!SSU!ribosomal!protein!S16p!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	74.73%
+Cluster 445073
+30537	CP001794	Geobacillus sp. Y412MC61, complete genome.	No	Bacillales	deoxyribose-phosphate aldolase	ACX77683
+fig|1353.134.peg.1920|GV845_06190!!!Deoxyribose-phosphate!aldolase!(EC!4.1.2.4)!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	64.09%
+Cluster 714071
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S Ribosomal protein S21	ABP90399
+fig|1353.134.peg.668|GV845_03105!!!SSU!ribosomal!protein!S21p!!![Enterococcus!gallinarum!strain!EGR748!|!1353.134]	91.38%

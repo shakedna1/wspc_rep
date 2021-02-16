@@ -1,0 +1,1125 @@
+Cluster 466224
+16708	CP001337	Chloroflexus aggregans DSM 9485, complete genome.	No	Chloroflexales	CDP-alcohol phosphatidyltransferase	ACL25025
+fig|648.157.peg.2977|GR302_01735!!!potassium-transporting!ATPase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.00%
+Cluster 686324
+12986	CP000020	Vibrio fischeri ES114 chromosome I, complete sequence.	No	Gammaproteobacteria	HU, DNA-binding transcriptional regulator, beta subunit	AAW85294
+fig|648.157.peg.3858|GR302_12505!!!DNA-binding!protein!HU-beta!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.56%
+fig|648.157.peg.778|GR302_17325!!!DNA-binding!protein!HU-alpha!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.00%
+Cluster 568238
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	co-chaperonin GroES	ACN48531
+fig|648.157.peg.611|GR302_16715!!!Heat!shock!protein!10!kDa!family!chaperone!GroES!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.26%
+Cluster 243972
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	membrane protein	ABK36616
+fig|648.157.peg.2013|GR302_06230!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	88.20%
+Cluster 653961
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO88994
+fig|648.157.peg.941|GR302_17900!!!Ribonuclease!E!inhibitor!RraB!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	86.96%
+Cluster 267446
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	cysteine synthase	ABM35882
+fig|648.157.peg.2097|GR302_06470!!!Cysteine!synthase!(EC!2.5.1.47)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	73.29%
+Cluster 312651
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ABO91367
+fig|648.157.peg.3718|GR302_11805!!!Transcriptional!regulator,!LysR!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	85.00%
+Cluster 609349
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	arsenic resistance transcriptional regulator	ACF65587
+fig|648.157.peg.1405|GR302_19440!!!Arsenical!resistance!operon!repressor!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.14%
+Cluster 495738
+36507	CP001585	Yersinia pestis D106004, complete genome.	Yes	Gammaproteobacteria	transposase	ACY57949
+fig|648.157.peg.1872!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.86%
+fig|648.157.peg.2604!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.86%
+Cluster 210977
+17629	CP000926	Pseudomonas putida GB-1, complete genome.	No	Gammaproteobacteria	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	ABY99510
+fig|648.157.peg.3376|GR302_10555!!!tRNA-specific!2-thiouridylase!MnmA!(EC!2.8.1.13)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.03%
+Cluster 289958
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	iron complex transport system, periplasmic binding protein	ABO89921
+fig|648.157.peg.4172|GR302_02875!!!Iron(III)!dicitrate!transport!system,!periplasmic!iron-binding!protein!FecB!(TC!3.A.1.14.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	83.33%
+Cluster 258542
+18789	CP000821	Shewanella sediminis HAW-EB3, complete genome.	No	Gammaproteobacteria	permease	ABV37794
+fig|648.157.peg.1500|GR302_19685!!!Uncharacterized!membrane!protein,!YraQ!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.66%
+Cluster 309077
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ABO89343
+fig|648.157.peg.3357|GR302_10465!!!Transcriptional!regulator,!LysR!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	81.46%
+Cluster 504729
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	thiol-disulfide interchange protein CcmG	BAC95213
+fig|648.157.peg.3783|GR302_12140!!!Cytochrome!c-type!biogenesis!protein!CcmG/DsbE,!thiol:disulfide!oxidoreductase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.80%
+Cluster 68660
+15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Yes	Gammaproteobacteria	putative L-lactate permease	ABQ18645
+fig|648.157.peg.2775|GR302_08335!!!L-lactate!permease!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	78.41%
+Cluster 477156
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	AAZ25171
+fig|648.157.peg.2986|GR302_09015!!!Flavin!prenyltransferase!UbiX!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.55%
+Cluster 132872
+19469	CP000970	Escherichia coli SMS-3-5, complete genome.	No	Gammaproteobacteria	SMC domain protein	ACB20143
+fig|648.157.peg.3040|GR302_09280!!!ATP-binding!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.75%
+Cluster 74760
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	decarboxylase, group II	ABK36070
+fig|648.157.peg.1035|GR302_04475!!!Glutamate!decarboxylase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	94.97%
+fig|648.157.peg.1038!!!Glutamate!decarboxylase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	94.76%
+Cluster 710163
+17415	CP000851	Shewanella pealeana ATCC 700345, complete genome.	No	Gammaproteobacteria	4Fe-4S ferredoxin iron-sulfur binding domain protein	ABV88333
+fig|648.157.peg.1985|GR302_20860!!!Uncharacterized!ferredoxin-like!protein!YfhL!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.51%
+Cluster 116510
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|648.157.peg.2958|GR302_01645!!!Chromosomal!replication!initiator!protein!DnaA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	81.58%
+Cluster 254443
+16064	CP000155	Hahella chejuensis KCTC 2396, complete genome.	No	Gammaproteobacteria	ABC-type nitrate/sulfonate/bicarbonate transport system, permease component	ABC33335
+fig|648.157.peg.2700|GR302_08070!!!Nitrate!ABC!transporter,!permease!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.38%
+Cluster 598144
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	putative transcriptional regulator	ABO91220
+fig|648.157.peg.62|GR302_00310!!!FIG002994:!Putative!transcriptional!regulator!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.35%
+Cluster 243470
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO90465
+fig|648.157.peg.3579|GR302_11475!!!Membrane!protein!YcjF!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	87.03%
+Cluster 144142
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	2,3,4,5-tetrahydropyridine-2-carboxylate N-succin	AAW75239
+fig|648.157.peg.2529|GR302_07480!!!2,3,4,5-tetrahydropyridine-2,6-dicarboxylate!N-succinyltransferase!(EC!2.3.1.117)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.91%
+Cluster 368650
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CpxR	ADD79041
+fig|648.157.peg.4468|GR302_14530!!!Copper-sensing!two-component!system!response!regulator!CpxR!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.17%
+Cluster 201069
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	galactokinase	ACI06895
+fig|648.157.peg.1831|GR302_05790!!!Galactokinase!(EC!2.7.1.6)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.99%
+Cluster 241152
+19989	CP001032	Opitutus terrae PB90-1, complete genome.	No	Opitutae	L-threonine 3-dehydrogenase	ACB76204
+fig|648.157.peg.3768|GR302_12055!!!L-threonine!3-dehydrogenase!(EC!1.1.1.103)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.64%
+Cluster 91343
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	pyridoxal-dependent decarboxylase	ABO88972
+fig|648.157.peg.3018|GR302_09180!!!Glutamate!decarboxylase,!eukaryotic!type!(EC!4.1.1.15)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	88.02%
+Cluster 492297
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	Ribonuclease H	ACQ93696
+fig|648.157.peg.2546|GR302_07565!!!Ribonuclease!HII!(EC!3.1.26.4)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.45%
+Cluster 52939
+9634	CP000300	Methanococcoides burtonii DSM 6242, complete genome.	No	Methanomicrobia	Hydantoinase/oxoprolinase	ABE52847
+fig|648.157.peg.2523!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.50%
+fig|648.157.peg.2829!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.50%
+Cluster 200923
+371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Yes	Gammaproteobacteria	RNA polymerase sigma subunit RpoS	AAO70382
+fig|648.157.peg.1299|GR302_04895!!!RNA!polymerase!sigma!factor!RpoS!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.48%
+Cluster 561342
+13932	CP000137	Rhizobium etli CFN 42 plasmid p42e, complete sequence.	No	Alphaproteobacteria	hypothetical conserved protein	ABC93659
+fig|648.157.peg.932!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+Cluster 483370
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	putative NADPH-quinone reductase	ABO91513
+fig|648.157.peg.2139!!!NAD(P)H!dehydrogenase!(quinone)!family!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.75%
+Cluster 109639
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	peptidase, M23/M37 family	ABO89314
+fig|648.157.peg.633|GR302_16825!!!Peptidase,!M23/M37!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	79.59%
+Cluster 631952
+17643	CP000753	Shewanella baltica OS185, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABS07212
+fig|648.157.peg.514|GR302_16480!!!GTPase!(EC!3.6.1.-)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.92%
+Cluster 311585
+13943	CP000546	Burkholderia mallei NCTC 10229 chromosome I, complete sequence.	Yes	Betaproteobacteria	putative curli production assembly/transport component CsgG	ABN02550
+fig|648.157.peg.620|GR302_16760!!!putative!lipoprotein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.06%
+Cluster 651642
+13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	No	Gammaproteobacteria	small multidrug resistance protein	ABM18153
+fig|648.157.peg.2607|GR302_21775!!!Small!multidrug!resistance!(SMR)!efflux!transporter!=>!QacE!delta!1,!quaternary!ammonium!compounds!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.00%
+Cluster 675631
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	cell division protein FtsL	ABO88571
+fig|648.157.peg.3154|GR302_09815!!!Cell!division!protein!FtsL!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	90.38%
+Cluster 325465
+13960	CP000800	Escherichia coli E24377A, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABV21201
+fig|648.157.peg.4461|GR302_14495!!!Protein!YrdA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.80%
+Cluster 221365
+329	CP000112	Desulfovibrio desulfuricans subsp. desulfuricans str. G20, complete genome.	No	Deltaproteobacteria	NAD-dependent epimerase/dehydratase family protein	ABB36834
+fig|648.157.peg.1752|GR302_05705!!!UDP-glucuronate!5'-epimerase!(EC!5.1.3.12)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.75%
+fig|648.157.peg.948|GR302_17930!!!UDP-glucuronate!5'-epimerase!(EC!5.1.3.12)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.75%
+Cluster 205682
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	aminotransferase	ABO91111
+fig|648.157.peg.3469|GR302_10995!!!Cystathionine!beta-lyase,!type!II!(EC!4.4.1.8)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	91.56%
+Cluster 434119
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	SeqA protein	ABK38632
+fig|648.157.peg.3248|GR302_10250!!!SeqA!protein,!negative!modulator!of!initiation!of!replication!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	87.05%
+Cluster 143383
+13960	CP000800	Escherichia coli E24377A, complete genome.	Yes	Gammaproteobacteria	phage integrase family protein	ABV17149
+fig|648.157.peg.2232|GR302_06835!!!Prophage!CP4-57!integrase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.25%
+Cluster 366933
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	putative virulence protein	ABF04119
+fig|648.157.peg.4460|GR302_03235!!!Putative!transposase!InsQ!for!insertion!sequence!element!IS609!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	79.10%
+fig|648.157.peg.2883|GR302_08855!!!Putative!transposase!InsQ!for!insertion!sequence!element!IS609!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.19%
+fig|648.157.peg.3184|GR302_09940!!!Putative!transposase!InsQ!for!insertion!sequence!element!IS609!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.52%
+fig|648.157.peg.2720|GR302_21895!!!Putative!transposase!InsQ!for!insertion!sequence!element!IS609!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.25%
+Cluster 178582
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|648.157.peg.2572|GR302_07605!!!L-amino!acid!ABC!transporter!(Glu/Asp/His/...),!permease!protein!1!AapQ!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.03%
+Cluster 733194
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABK37077
+fig|648.157.peg.531|GR302_16560!!!Uncharacterized!protein!SO_0334!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	95.59%
+Cluster 551210
+335	AE014299	Shewanella oneidensis MR-1, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAN57233
+fig|648.157.peg.2943|GR302_01570!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.87%
+Cluster 640851
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO88931
+fig|648.157.peg.2991|GR302_09040!!!Antibiotic!biosynthesis!monooxygenase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	87.83%
+Cluster 13913
+298	AE005673	Caulobacter crescentus CB15, complete genome.	No	Alphaproteobacteria	TonB-dependent receptor	AAK23785
+fig|648.157.peg.4276!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.00%
+Cluster 542543
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	D-tyrosyl-tRNA(Tyr) deacylase	ACS61694
+fig|648.157.peg.3045|GR302_09305!!!D-aminoacyl-tRNA!deacylase!(EC!3.1.1.96)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.14%
+Cluster 502892
+329	CP000112	Desulfovibrio desulfuricans subsp. desulfuricans str. G20, complete genome.	No	Deltaproteobacteria	ISxcd1 transposase	ABB40555
+fig|648.157.peg.2367!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.89%
+Cluster 336616
+59	CP000909	Chloroflexus aurantiacus J-10-fl, complete genome.	No	Chloroflexales	phosphoribulokinase/uridine kinase	ABY36005
+fig|648.157.peg.175|GR302_03475!!!ATP-dependent!DNA!helicase!UvrD/PcrA!(EC!3.6.4.12)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.89%
+Cluster 235978
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	type IV pilus biogenesis protein tapM	ABO89241
+fig|648.157.peg.342!!!Type!IV!pilus!biogenesis!protein!PilM!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	78.97%
+Cluster 366729
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|648.157.peg.1141|GR302_18620!!!Two-component!transcriptional!response!regulator,!LuxR!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.82%
+Cluster 75733
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative lipoate-protein ligase A	BAB38768
+fig|648.157.peg.1039|GR302_04495!!!Lipoate-protein!ligase!A!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	73.00%
+Cluster 461038
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF161	ACZ74917
+fig|648.157.peg.1366|GR302_19280!!!Uncharacterized!UPF0750!membrane!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.30%
+Cluster 496163
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	fructose-2;6-bisphosphatase	ABK39087
+fig|648.157.peg.4319|GR302_14155!!!Phosphoglycerate!mutase!family!4!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	89.74%
+Cluster 696918
+12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	No	Gammaproteobacteria	ribosomal protein S20	AAZ35333
+fig|648.157.peg.896|GR302_04355!!!SSU!ribosomal!protein!S20p!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.22%
+Cluster 349180
+13454	CP000388	Pseudoalteromonas atlantica T6c, complete genome.	No	Gammaproteobacteria	chromosome segregation ATPase	ABG42803
+fig|648.157.peg.2923|GR302_01480!!!Chromosome!(plasmid)!partitioning!protein!ParA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	78.28%
+Cluster 125989
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAW73281
+fig|648.157.peg.506|GR302_16440!!!Enoyl-[acyl-carrier-protein]!reductase![NADH]!(EC!1.3.1.9),!FabV!=>!refractory!to!triclosan!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.54%
+Cluster 549885
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L10	ABF14049
+fig|648.157.peg.665|GR302_16970!!!LSU!ribosomal!protein!L10p!(P0)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.24%
+Cluster 172180
+13454	CP000388	Pseudoalteromonas atlantica T6c, complete genome.	No	Gammaproteobacteria	methylitaconate delta2-delta3-isomerase	ABG39945
+fig|648.157.peg.575|GR302_03930!!!2-methylaconitate!isomerase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.18%
+Cluster 169362
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	transporter transmembrane protein	ABO89927
+fig|648.157.peg.4166|GR302_02845!!!Uncharacterized!MFS-type!transporter!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	85.16%
+Cluster 8034
+17729	CP000769	Anaeromyxobacter sp. Fw109-5, complete genome.	No	Deltaproteobacteria	malate synthase A	ABS27162
+fig|648.157.peg.4551|GR302_14920!!!Isocitrate!lyase!(EC!4.1.3.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.33%
+Cluster 118822
+13040	CP000377	Silicibacter sp. TM1040, complete genome.	No	Alphaproteobacteria	SSU ribosomal protein S6P modification protein	ABF63502
+fig|648.157.peg.1075|GR302_18315!!!Ribosomal!protein!S6--L-glutamate!ligase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.07%
+Cluster 116413
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	ABC superfamily (bin	AAX68014
+fig|648.157.peg.3835|GR302_12395!!!Maltodextrin!ABC!transporter,!substrate-binding!protein!MdxE!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.34%
+Cluster 514882
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	cytochrome b561	ABO91708
+fig|648.157.peg.3955|GR302_12705!!!Cytochrome!b!(EC!1.10.2.2)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	79.46%
+Cluster 13787
+9633	CP000082	Psychrobacter arcticus 273-4, complete genome.	No	Gammaproteobacteria	Excinuclease ABC subunit A	AAZ19533
+fig|648.157.peg.3525|GR302_11235!!!Excinuclease!ABC!subunit!A!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.41%
+Cluster 469387
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	toluene tolerance protein Ttg2D	ABO88490
+fig|648.157.peg.2656|GR302_07935!!!Phospholipid!ABC!transporter!shuttle!protein!MlaC!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	92.86%
+Cluster 531069
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	AccB protein	AAU38396
+fig|648.157.peg.4209|GR302_13615!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	71.90%
+Cluster 175685
+16304	CP000738	Sinorhizobium medicae WSM419, complete genome.	No	Alphaproteobacteria	phosphopentomutase	ABR62166
+fig|648.157.peg.3973|GR302_12780!!!Phosphopentomutase!(EC!5.4.2.7)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.70%
+Cluster 181634
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	regulatory components of sensory transduction system	ABK39902
+fig|648.157.peg.3432|GR302_10820!!!Response!regulator!c-di-GMP!phosphodiesterase,!RpfG!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	99.20%
+Cluster 424876
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	transposase subunit 2	ABO89414
+fig|648.157.peg.3043|GR302_09295!!!ATP-binding!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	96.15%
+fig|648.157.peg.1883|GR302_20585!!!ATP-binding!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	98.08%
+fig|648.157.peg.2310!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.18%
+Cluster 423510
+13875	CP000016	Candidatus Blochmannia pennsylvanicus str. BPEN, complete genome.	No	Gammaproteobacteria	NADH dehydrogenase I chain B, binds FeS cluster N2	AAZ41122
+fig|648.157.peg.4575|GR302_15035!!!NADH-ubiquinone!oxidoreductase!chain!B!(EC!1.6.5.3)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.54%
+Cluster 246757
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	LysM domain protein	ABK37531
+fig|648.157.peg.325|GR302_15850!!!L,D-transpeptidase!=>!YbiS!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	71.43%
+fig|648.157.peg.658|GR302_16930!!!L,D-transpeptidase!=>!YbiS!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	94.16%
+Cluster 687440
+277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Yes	Lactobacillales	6-phospho-beta-glucosidase, truncation	ABC75789
+fig|648.157.peg.280|GR302_15640!!!6-phospho-beta-glucosidase!(EC!3.2.1.86)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+Cluster 129469
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	alanine-alpha-ketoisovalerate	AAS64131
+fig|648.157.peg.2968|GR302_01690!!!Valine--pyruvate!aminotransferase!(EC!2.6.1.66)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.98%
+Cluster 31747
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	ribonucleoside-diphosphate reductase 1 alpha subunit	BAE74859
+fig|648.157.peg.2759|GR302_08265!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!alpha!subunit!(EC!1.17.4.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	81.46%
+Cluster 562196
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein YjcH	CAQ91716
+fig|648.157.peg.3854|GR302_12485!!!Inner!membrane!protein!YjcH,!clustering!with!ActP!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.17%
+Cluster 705393
+15667	CP000626	Vibrio cholerae O395 chromosome 1, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABQ19219
+fig|648.157.peg.1046|GR302_04530!!!Uncharacterized!membrane!protein!RSP_0589!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.85%
+Cluster 495973
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	GTP cyclohydrolase subunit MoaC	ABQ80553
+fig|648.157.peg.3401|GR302_10670!!!Cyclic!pyranopterin!monophosphate!synthase!(EC!4.6.1.17)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.68%
+Cluster 731538
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	carbon storage regulator, CsrA	ADC62041
+fig|648.157.peg.1534|GR302_05340!!!Carbon!storage!regulator!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	83.87%
+Cluster 272454
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	membrane protein alx	CAO97949
+fig|648.157.peg.3174|GR302_09890!!!Alkaline!induced!inner!membrane!protein!Alx!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.15%
+Cluster 522072
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	CinA domain protein	ADC62596
+fig|648.157.peg.1539|GR302_05365!!!Nicotinamide-nucleotide!amidase!(EC!3.5.1.42)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.74%
+Cluster 161690
+18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Yes	Gammaproteobacteria	transposase InsC3 for insertion sequence ISEc9	ABO41047
+fig|648.157.peg.1465|GR302_19525!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	100.00%
+Cluster 722983
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	thiamine biosynthesis protein ThiS	ABK36503
+fig|648.157.peg.3546|GR302_11330!!!Sulfur!carrier!protein!ThiS!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.73%
+Cluster 250462
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	ferrochelatase	ABK38925
+fig|648.157.peg.1353|GR302_19205!!!Ferrochelatase,!protoheme!ferro-lyase!(EC!4.99.1.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	92.90%
+Cluster 612015
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24208
+fig|648.157.peg.4202|GR302_13580!!!Uncharacterized!protein!YqiC!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.53%
+Cluster 527527
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Oligoketide cyclase/lipid transport protein	AAS61304
+fig|648.157.peg.459|GR302_16215!!!Ribosome!association!toxin!RatA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.36%
+Cluster 535874
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO88752
+fig|648.157.peg.2820|GR302_08555!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.54%
+Cluster 280983
+29177	CP001339	Thioalkalivibrio sp. HL-EbGR7, complete genome.	No	Gammaproteobacteria	tRNA delta(2)-isopentenylpyrophosphate transferase	ACL71987
+fig|648.157.peg.2291|GR302_07020!!!tRNA!dimethylallyltransferase!(EC!2.5.1.75)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.71%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|648.157.peg.1609|GR302_20020!!!SSU!ribosomal!protein!S12p!(S23e)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.61%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|648.157.peg.2954|GR302_01625!!!LSU!ribosomal!protein!L34p!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.27%
+Cluster 302781
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	oligopeptide transport system permease protein	AAX88126
+fig|648.157.peg.3169|GR302_09870!!!Oligopeptide!ABC!transporter,!permease!protein!OppB!(TC!3.A.1.5.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	71.24%
+Cluster 501192
+17675	CP000472	Shewanella piezotolerans WP3, complete genome.	No	Gammaproteobacteria	HesB/YadR/YfhF:Nitrogen-fixing NifU	ACJ31464
+fig|648.157.peg.3066|GR302_09400!!![4Fe-4S]!cluster!carrier!protein!NfuA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.92%
+Cluster 677828
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	Phosphotransferase system, phosphocarrier protein HPr	ACQ92255
+fig|648.157.peg.2098|GR302_06475!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	84.71%
+Cluster 230138
+17643	CP000753	Shewanella baltica OS185, complete genome.	No	Gammaproteobacteria	sugar transferase	ABS09035
+fig|648.157.peg.4591|GR302_15110!!!FIG071646:!Sugar!transferase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.22%
+Cluster 599000
+32815	FM954973	Vibrio splendidus LGP32 chromosome 2.	No	Gammaproteobacteria	Hypothetical protein	CAV25915
+fig|648.157.peg.2786|GR302_08390!!!UPF0145!protein!YbjQ!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.81%
+Cluster 205073
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	CAI08474
+fig|648.157.peg.2548|GR302_07575!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	65.51%
+Cluster 455481
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABK38229
+fig|648.157.peg.168|GR302_03440!!!putative!lipoprotein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	91.74%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|648.157.peg.2425!!!Translation!elongation!factor!Tu!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.36%
+Cluster 416374
+17227	CP000527	Desulfovibrio vulgaris subsp. vulgaris DP4, complete genome.	No	Deltaproteobacteria	antibiotic acetyltransferase	ABM28201
+fig|648.157.peg.2044|GR302_20900!!!Chloramphenicol!O-acetyltransferase!(EC!2.3.1.28)!=>!CatB!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.48%
+Cluster 183062
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	Nucleoside permease	CAV17896
+fig|648.157.peg.4238|GR302_13755!!!Na+!dependent!nucleoside!transporter!NupC!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.10%
+Cluster 591906
+33319	CP001672	Methylotenera mobilis JLW8, complete genome.	No	Betaproteobacteria	ribosomal protein S16	ACT48976
+fig|648.157.peg.910|GR302_04425!!!SSU!ribosomal!protein!S16p!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.29%
+Cluster 756367
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO91617
+fig|648.157.peg.3970|GR302_12765!!!XapX-like!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	96.43%
+Cluster 132215
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	nitrate transport ATP-binding protein	CAL16299
+fig|648.157.peg.2699|GR302_08065!!!Nitrate!ABC!transporter,!substrate-binding!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.91%
+Cluster 661704
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	transcriptional regulator, XRE family	ABM38298
+fig|648.157.peg.3976|GR302_12795!!!Transcriptional!regulator,!Xre!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	81.08%
+Cluster 716678
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO90654
+fig|648.157.peg.1913|GR302_05925!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.84%
+Cluster 542606
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO89594
+fig|648.157.peg.1593|GR302_19940!!!GcvR-like!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	90.59%
+Cluster 121129
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	O-succinylbenzoate-CoA ligase	ABO91694
+fig|648.157.peg.3606|GR302_02130!!!O-succinylbenzoic!acid--CoA!ligase!(EC!6.2.1.26)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.39%
+Cluster 471111
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	ferritin	ABK37728
+fig|648.157.peg.3230|GR302_10165!!!Bacterial!non-heme!ferritin!(EC!1.16.3.2)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	98.28%
+Cluster 169363
+13454	CP000388	Pseudoalteromonas atlantica T6c, complete genome.	No	Gammaproteobacteria	DEAD/DEAH box helicase-like	ABG41790
+fig|648.157.peg.4291|GR302_14015!!!ATP-dependent!RNA!helicase!SrmB!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.10%
+Cluster 639810
+15	CP000050	Xanthomonas campestris pv. campestris str. 8004, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAY50109
+fig|648.157.peg.986|GR302_18090!!!Protein!of!unknown!function!DUF1428!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.03%
+Cluster 509146
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	ATP-dependent protease La (LON) domain protein	ABO88397
+fig|648.157.peg.1837|GR302_05820!!!Uncharacterized!protein,!similar!to!the!N-terminal!domain!of!Lon!protease!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	84.04%
+Cluster 518163
+18	BA000012	Mesorhizobium loti MAFF303099 DNA, complete genome.	No	Alphaproteobacteria	UNKNOWN	BAB49455
+fig|648.157.peg.167|GR302_03435!!!Ligand-binding!SRPBCC!domain!protein!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.81%
+Cluster 119825
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CoaBC	ADD79072
+fig|648.157.peg.3742|GR302_11920!!!Phosphopantothenoylcysteine!decarboxylase!(EC!4.1.1.36)!/!Phosphopantothenoylcysteine!synthetase!(EC!6.3.2.5)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.25%
+Cluster 435587
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	ABC-type antimicrobial peptide transporter, ATP binding protein	ABO91481
+fig|648.157.peg.1782|GR302_20285!!!ABC-type!antimicrobial!peptide!transport!system,!ATPase!component!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	92.54%
+Cluster 490594
+12530	CP000435	Synechococcus sp. CC9311, complete genome.	No	Chroococcales	para-aminobenzoate synthase component II	ABI47771
+fig|648.157.peg.3673|GR302_11595!!!Para-aminobenzoate!synthase,!amidotransferase!component!(EC!2.6.1.85)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.14%
+Cluster 220511
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	pyrimidine specific nucleoside hydrolase	BAH63617
+fig|648.157.peg.467|GR302_16250!!!Pyrimidine-specific!ribonucleoside!hydrolase!RihA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.10%
+Cluster 174612
+28127	CP000967	Xanthomonas oryzae pv. oryzae PXO99A, complete genome.	No	Gammaproteobacteria	UDP-glucose dehydrogenase	ACD59466
+fig|648.157.peg.1751|GR302_05700!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.86%
+Cluster 749762
+59	CP000909	Chloroflexus aurantiacus J-10-fl, complete genome.	No	Chloroflexales	hypothetical protein	ABY35063
+fig|648.157.peg.601|GR302_16665!!!Uncharacterized!protein!Caur_1846!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.39%
+Cluster 18794
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	ATP-dependent Clp protease ATP-binding subunit clpA	ABA48302
+fig|648.157.peg.4341|GR302_14260!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.73%
+Cluster 163807
+32815	FM954973	Vibrio splendidus LGP32 chromosome 2.	No	Gammaproteobacteria	putative transport protein	CAV25727
+fig|648.157.peg.3758|GR302_12010!!!PTS!system,!IIC!component,!UlaA-type!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.72%
+Cluster 676482
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO90284
+fig|648.157.peg.1992|GR302_06125!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	79.41%
+Cluster 11779
+17985	CP001253	Shewanella baltica OS223 plasmid pS22301, complete sequence.	No	Gammaproteobacteria	transposase Tn3 family protein	ACK48814
+fig|648.157.peg.751|GR302_04200!!!Transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	74.36%
+Cluster 147823
+17643	CP000753	Shewanella baltica OS185, complete genome.	No	Gammaproteobacteria	RNA-directed DNA polymerase (Reverse transcriptase)	ABS08322
+fig|648.157.peg.3536|GR302_11285!!!Retron-type!RNA-directed!DNA!polymerase!(EC!2.7.7.49)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.75%
+Cluster 172766
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	major facilitator superfamily MF	ABO90273
+fig|648.157.peg.2888|GR302_08880!!!Uncharacterized!MFS-type!transporter!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	90.22%
+Cluster 378224
+19989	CP001032	Opitutus terrae PB90-1, complete genome.	No	Opitutae	Superoxide dismutase	ACB75647
+fig|648.157.peg.3609|GR302_02145!!!Superoxide!dismutase![Mn]!(EC!1.15.1.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.68%
+Cluster 463452
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO90691
+fig|648.157.peg.4011|GR302_12960!!!Membrane!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	86.38%
+Cluster 224355
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	transporter, 10 TMS drug/metabolite exporter (DME) family	ABK39443
+fig|648.157.peg.1980|GR302_20830!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	93.27%
+Cluster 767506
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	50S ribosomal protein L36	CAO97529
+fig|648.157.peg.3188|GR302_09960!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.61%
+Cluster 534172
+16217	AP007255	Magnetospirillum magneticum AMB-1 DNA, complete genome.	No	Alphaproteobacteria	Predicted membrane protein	BAE52624
+fig|648.157.peg.1892|GR302_20630!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+Cluster 15898
+28329	CP000934	Cellvibrio japonicus Ueda107, complete genome.	No	Gammaproteobacteria	alpha-amylase, putative, amy13G	ACE86338
+fig|648.157.peg.1367|GR302_19285!!!Alpha-amylase!precursor!(EC!3.2.1.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	78.01%
+Cluster 615126
+16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Yes	Gammaproteobacteria	Fe-S-cluster domain	ABR85134
+fig|648.157.peg.2660|GR302_07955!!!UPF0153!protein!YeiW!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.65%
+Cluster 577567
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62882
+fig|648.157.peg.1472|GR302_19560!!!Uncharacterized!protein!YfgD,!not!an!arsenate!reductase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.10%
+Cluster 438157
+56	CP000146	Rhodobacter sphaeroides 2.4.1 plasmid C, complete sequence.	No	Alphaproteobacteria	periplasmic nitrate reductase subunit NapC	ABA81593
+fig|648.157.peg.3403|GR302_10680!!!Cytochrome!c-type!protein!NapC!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.71%
+Cluster 193171
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	major facilitator family transporter	ABO90737
+fig|648.157.peg.4370|GR302_14385!!!Uncharacterized!MFS-type!transporter!YtbD!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	94.09%
+Cluster 59207
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	signal peptide peptidase	ABO89081
+fig|648.157.peg.3460|GR302_10955!!!Signal!peptide!peptidase!SppA!(protease!4)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	91.04%
+Cluster 532816
+13126	CR628337	Legionella pneumophila str. Lens complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S7	CAH14596
+fig|648.157.peg.1610|GR302_20025!!!SSU!ribosomal!protein!S7p!(S5e)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.87%
+Cluster 509331
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	isochorismatase family protein	ABK38740
+fig|648.157.peg.391|GR302_03745!!!Isochorismatase!(EC!3.3.2.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	88.30%
+Cluster 602476
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	CBS domain protein	ABO90149
+fig|648.157.peg.1288|GR302_19110!!!CBS!domain!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	89.29%
+Cluster 554973
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	pantetheine-phosphate adenylyltransferase	ABF14068
+fig|648.157.peg.3735|GR302_11885!!!Phosphopantetheine!adenylyltransferase!(EC!2.7.7.3)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.25%
+Cluster 615994
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|648.157.peg.247|GR302_15495!!!Uncharacterized!membrane!protein,!DoxX/SURF4!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.85%
+Cluster 555721
+13946	CP000548	Burkholderia mallei NCTC 10247 chromosome I, complete sequence.	Yes	Betaproteobacteria	50S ribosomal protein L28	ABO05945
+fig|648.157.peg.3740|GR302_11910!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.95%
+Cluster 695089
+17643	CP000753	Shewanella baltica OS185, complete genome.	No	Gammaproteobacteria	helix-turn-helix domain protein	ABS06535
+fig|648.157.peg.2933|GR302_01530!!!HipB!protein!@!Antitoxin!HigA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.62%
+Cluster 271794
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	L-arabinose-binding periplasmic protein	CAG75176
+fig|648.157.peg.4132|GR302_02695!!!L-arabinose!ABC!transporter,!substrate-binding!protein!AraF!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	82.26%
+Cluster 270506
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	alpha/beta hydrolase fold family protein	ABO91285
+fig|648.157.peg.1728|GR302_05590!!!Putative!esterase!YheT!functionally!coupled!to!phosphoribulokinase!homolog!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	85.32%
+Cluster 273151
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	iron/ascorbate-dependent oxidoreductase	ABX88121
+fig|648.157.peg.793|GR302_17410!!!2-Oxobutyrate!oxidase,!putative!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.00%
+Cluster 522835
+15713	CR954246	Pseudoalteromonas haloplanktis str. TAC125 chromosome I, complete sequence.	No	Gammaproteobacteria	putative orphan protein ; putative transposase (partial)	CAI85503
+fig|648.157.peg.261|GR302_15555!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	71.14%
+Cluster 540898
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	predicted membrane protein	BAC95677
+fig|648.157.peg.1241|GR302_18870!!!Uncharacterized!membrane!protein!SO_4740!/!Uncharacterized!membrane!protein!SO_4740!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.11%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|648.157.peg.4252|GR302_13825!!!SSU!ribosomal!protein!S19p!(S15e)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.57%
+Cluster 692214
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO90755
+fig|648.157.peg.4321|GR302_14165!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.79%
+Cluster 204923
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative ribonucleoside-diphosphate reductase beta subunit	AAS58680
+fig|648.157.peg.2758|GR302_08260!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!beta!subunit!(EC!1.17.4.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.48%
+Cluster 615104
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	NADH dehydrogenase I, A subunit	ABO89816
+fig|648.157.peg.4576|GR302_15040!!!NADH!ubiquinone!oxidoreductase!chain!A!(EC!1.6.5.3)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	92.54%
+Cluster 126639
+17463	CP001052	Burkholderia phytofirmans PsJN chromosome 1, complete sequence.	No	Betaproteobacteria	integrase family protein	ACD14642
+fig|648.157.peg.1154|GR302_18685!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	65.00%
+fig|648.157.peg.2439!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.08%
+Cluster 527013
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	adenylate cyclase, class 2	ABF07454
+fig|648.157.peg.1982|GR302_20840!!!Adenylate!cyclase!(EC!4.6.1.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.44%
+Cluster 517859
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	lactoylglutathione lyase	ACP05284
+fig|648.157.peg.335|GR302_15895!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.59%
+Cluster 552793
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82118
+fig|648.157.peg.660|GR302_16940!!!Translation!elongation!factor!Tu!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	86.96%
+fig|648.157.peg.2431|GR302_21630!!!Translation!elongation!factor!Tu!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	86.96%
+Cluster 43853
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	transketolase	ACY35378
+fig|648.157.peg.684|GR302_17045!!!Transketolase!(EC!2.2.1.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.78%
+Cluster 335592
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF06037
+fig|648.157.peg.4101|GR302_13360!!!Unsaturated!fatty!acid!biosythesis!repressor!FabR,!TetR!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.29%
+Cluster 599446
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO89107
+fig|648.157.peg.1459|GR302_05285!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	65.88%
+Cluster 387183
+21	AE017282	Methylococcus capsulatus str. Bath, complete genome.	No	Gammaproteobacteria	molybdenum ABC transporter, periplasmic molybdate-binding protein	AAU92383
+fig|648.157.peg.1206|GR302_18705!!!Molybdenum!ABC!transporter,!substrate-binding!protein!ModA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	81.64%
+Cluster 570103
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO89569
+fig|648.157.peg.1873|GR302_20535!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	90.00%
+Cluster 589670
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|648.157.peg.993!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.15%
+Cluster 490735
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO91505
+fig|648.157.peg.1239|GR302_18865!!!lipoprotein,!putative!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.86%
+fig|648.157.peg.1240!!!lipoprotein,!putative!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	79.82%
+Cluster 202396
+13474	CP000115	Nitrobacter winogradskyi Nb-255, complete genome.	No	Alphaproteobacteria	chorismate synthase	ABA03896
+fig|648.157.peg.2743|GR302_08195!!!Chorismate!synthase!(EC!4.2.3.5)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.33%
+Cluster 492368
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	Hypothetical protein	CAV20254
+fig|648.157.peg.2402|GR302_07365!!!Hypothetical!protein!VC0266!(sugar!utilization!related?)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.22%
+Cluster 552116
+171	CP000010	Burkholderia mallei ATCC 23344 chromosome 1, complete sequence.	Yes	Betaproteobacteria	ISBma1, transposase, interruption-C	AAU47505
+fig|648.157.peg.1640|GR302_00610!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.50%
+fig|648.157.peg.2792|GR302_08420!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.50%
+fig|648.157.peg.2828|GR302_08590!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.32%
+fig|648.157.peg.2858|GR302_08735!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.50%
+fig|648.157.peg.3687|GR302_11665!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.50%
+fig|648.157.peg.4112|GR302_13415!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.92%
+fig|648.157.peg.4299|GR302_14055!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.50%
+fig|648.157.peg.327|GR302_15855!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.12%
+fig|648.157.peg.500|GR302_16415!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.92%
+fig|648.157.peg.545|GR302_16620!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.50%
+fig|648.157.peg.670|GR302_16995!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.50%
+fig|648.157.peg.815|GR302_17525!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.92%
+fig|648.157.peg.955|GR302_17960!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.50%
+fig|648.157.peg.1118|GR302_18515!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.50%
+fig|648.157.peg.1513|GR302_19765!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.32%
+fig|648.157.peg.1779|GR302_20270!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.32%
+fig|648.157.peg.1966|GR302_20770!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.50%
+fig|648.157.peg.2317|GR302_21460!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.92%
+fig|648.157.peg.2365|GR302_21525!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.50%
+fig|648.157.peg.2372|GR302_21555!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.92%
+Cluster 716373
+15637	CP001062	Shigella boydii CDC 3083-94 plasmid pBS51	Yes	Gammaproteobacteria	11, complete sequence.	ACD06171
+fig|648.157.peg.2613!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+Cluster 449433
+13146	CP000036	Shigella boydii Sb227, complete genome.	Yes	Gammaproteobacteria	catabolic regulation response regulator	ABB68868
+fig|648.157.peg.1254|GR302_18930!!!Response!regulator!CreB!of!two-component!signal!transduction!system!CreBC!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.49%
+Cluster 281439
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	tRNA pseudouridine synthase B	BAJ03258
+fig|648.157.peg.1425|GR302_05110!!!tRNA!pseudouridine(55)!synthase!(EC!5.4.99.25)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.34%
+Cluster 301372
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S2	ABE05693
+fig|648.157.peg.2532|GR302_07495!!!SSU!ribosomal!protein!S2p!(SAe)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	81.82%
+Cluster 206938
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR68115
+fig|648.157.peg.2055|GR302_20950!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.74%
+Cluster 3629
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	ATP-dependent helicase	CAV18959
+fig|648.157.peg.1289|GR302_19115!!!ATP-dependent!helicase!HrpA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.56%
+Cluster 130881
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	nucleoside permease NupC	ABK37802
+fig|648.157.peg.2605|GR302_21765!!!Na+!dependent!nucleoside!transporter!NupC!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	96.59%
+Cluster 490479
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	putative IS609 transposase	BAI28508
+fig|648.157.peg.1259|GR302_18950!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	65.52%
+Cluster 318071
+13	AL646053	Ralstonia solanacearum GMI1000 megaplasmid complete sequence.	No	Betaproteobacteria	putative permeases of the drug/metabolite transporter (dmt) superfamily transmembrane protein	CAD18789
+fig|648.157.peg.3354|GR302_10450!!!putative!membrane!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.02%
+Cluster 637472
+33901	CP001503	Burkholderia glumae BGR1 chromosome 1, complete sequence.	No	Betaproteobacteria	Iron-sulfur cluster assembly accessory protein	ACR27765
+fig|648.157.peg.3012|GR302_09150!!!Iron-sulfur!cluster!insertion!protein!ErpA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.24%
+Cluster 371030
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	ABC transporter related	ACB24247
+fig|648.157.peg.4195|GR302_13550!!!Branched-chain!amino!acid!ABC!transporter,!ATP-binding!protein!LivF!(TC!3.A.1.4.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.09%
+Cluster 708965
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABK36946
+fig|648.157.peg.4051|GR302_13150!!!Uncharacterized!protein!VC1707!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	91.67%
+Cluster 125773
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	metal-dependent phosphohydrolase, HD domain	ABO91088
+fig|648.157.peg.866|GR302_17770!!!HD-GYP!domain!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	89.93%
+Cluster 240631
+283	AE007870	Agrobacterium tumefaciens str. C58 linear chromosome, complete sequence.	No	Alphaproteobacteria	conserved hypothetical protein	AAK89635
+fig|648.157.peg.267|GR302_15585!!!Protein!QmcA!(possibly!involved!in!integral!membrane!quality!control)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.54%
+Cluster 684128
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881
+fig|648.157.peg.1005|GR302_18185!!!Integration!host!factor!alpha!subunit!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	78.57%
+Cluster 268856
+17409	CP001045	Burkholderia phymatum STM815 plasmid pBPHY01, complete sequence.	No	Betaproteobacteria	Indigoidine synthase A family protein	ACC75630
+fig|648.157.peg.2705|GR302_08095!!!Pseudouridine!5'-phosphate!glycosidase!(EC!4.2.1.70)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.59%
+Cluster 317134
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	HAD-superfamily (subfamily iiib) phosphatase	ABK39054
+fig|648.157.peg.3426|GR302_10795!!!NMN!phosphatase!(EC!3.1.3.5);!Class!B!acid!phosphatase!precursor!(EC!3.1.3.2)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	74.56%
+fig|648.157.peg.3427!!!NMN!phosphatase!(EC!3.1.3.5);!Class!B!acid!phosphatase!precursor!(EC!3.1.3.2)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.78%
+Cluster 33204
+28537	CP001084	Lactobacillus casei str. Zhang, complete genome.	No	Lactobacillales	Cation transport ATPase	ADK18961
+fig|648.157.peg.2522!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+fig|648.157.peg.867!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+fig|648.157.peg.800!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+fig|648.157.peg.1007!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+fig|648.157.peg.1129!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+fig|648.157.peg.1258!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+fig|648.157.peg.1276!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+fig|648.157.peg.1508!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+fig|648.157.peg.1514!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+fig|648.157.peg.2438!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+fig|648.157.peg.2669!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+fig|648.157.peg.2764!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+Cluster 525230
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAU97192
+fig|648.157.peg.3240|GR302_10210!!!Transposase,!Avin_45320!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.58%
+fig|648.157.peg.4242|GR302_13775!!!Transposase,!Avin_45320!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.58%
+Cluster 630154
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative monothiol glutaredoxin ydhD	CBJ81617
+fig|648.157.peg.3788|GR302_12165!!!Monothiol!glutaredoxin!GrxD!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	73.68%
+Cluster 381618
+17643	CP000753	Shewanella baltica OS185, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF540	ABS08817
+fig|648.157.peg.4041|GR302_13100!!!Sulfate!transporter,!CysZ-type!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.81%
+Cluster 69952
+15763	CP000453	Alkalilimnicola ehrlichii MLHE-1, complete genome.	No	Gammaproteobacteria	type IV-A pilus assembly ATPase PilB	ABI57421
+fig|648.157.peg.3131|GR302_09705!!!Type!IV!fimbrial!assembly,!ATPase!PilB!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.87%
+Cluster 203422
+12986	CP000020	Vibrio fischeri ES114 chromosome I, complete sequence.	No	Gammaproteobacteria	predicted Fe-containing alcohol dehydrogenase	AAW85683
+fig|648.157.peg.463|GR302_16235!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	71.51%
+Cluster 147019
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	short-chain alcohol dehydrogenase family protein	ABO88257
+fig|648.157.peg.3228|GR302_10155!!!Enoyl-[acyl-carrier-protein]!reductase![NADH]!(EC!1.3.1.9),!FabV!=>!refractory!to!triclosan!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	90.13%
+Cluster 662778
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	cytochrome O ubiquinol oxidase subunit CyoD	AAS61029
+fig|648.157.peg.989|GR302_18105!!!Cytochrome!O!ubiquinol!oxidase!subunit!IV!(EC!1.10.3.-)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	78.90%
+Cluster 470179
+17827	CP000863	Acinetobacter baumannii ACICU, complete genome.	Yes	Gammaproteobacteria	aminoglycoside 6'-N-acetyl transferase type Ib	ACC55535
+fig|648.157.peg.2045|GR302_20905!!!Aminoglycoside!N(6')-acetyltransferase!(EC!2.3.1.82)!=>!AAC(6')-Ib/AAC(6')-II!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	100.00%
+Cluster 35586
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	methionyl-tRNA synthetase	ACP05309
+fig|648.157.peg.3503|GR302_11145!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.01%
+Cluster 258973
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO89329
+fig|648.157.peg.4037|GR302_13080!!!ABC!transporter!or!sensor!sytem!substrate-binding!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.28%
+Cluster 596101
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	predicted metal-binding protein	ABO91934
+fig|648.157.peg.4078|GR302_13265!!!CopG!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	92.31%
+Cluster 103278
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15641
+fig|648.157.peg.2285|GR302_06990!!!Octaprenyl!diphosphate!synthase!(EC!2.5.1.90)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.23%
+Cluster 397626
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	radical activating enzyme	ABO89855
+fig|648.157.peg.1156|GR302_04640!!!7-carboxy-7-deazaguanine!synthase!(EC!4.3.99.3)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	83.88%
+Cluster 169462
+16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Yes	Gammaproteobacteria	serine transporter	ABQ97803
+fig|648.157.peg.4059|GR302_13180!!!Serine!transporter!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.34%
+Cluster 757748
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	ribosomal protein L36	ABQ76678
+fig|648.157.peg.4269|GR302_13910!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	86.49%
+Cluster 514767
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO90718
+fig|648.157.peg.217|GR302_15350!!!Hypothetical!protein!in!cluster!with!HutR,!VCA0067!homolog!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	83.24%
+Cluster 216470
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	porphobilinogen deaminase	AAS63365
+fig|648.157.peg.3652|GR302_02355!!!Porphobilinogen!deaminase!(EC!2.5.1.61)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.94%
+Cluster 95852
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	methyl-accepting chemotaxis protein	ABO90553
+fig|648.157.peg.579!!!Aerotaxis!sensor!receptor!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	79.45%
+fig|648.157.peg.580!!!Methyl-accepting!chemotaxis!sensor/transducer!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.26%
+fig|648.157.peg.581|GR302_03955!!!Methyl-accepting!chemotaxis!sensor/transducer!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	83.00%
+fig|648.157.peg.4391|GR302_14490!!!Methyl-accepting!chemotaxis!sensor/transducer!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	83.00%
+fig|648.157.peg.4392!!!Methyl-accepting!chemotaxis!sensor/transducer!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.26%
+Cluster 161245
+16723	CP000646	Aeromonas salmonicida subsp. salmonicida A449 plasmid 5, complete sequence.	No	Gammaproteobacteria	IS element transposase	ABO92483
+fig|648.157.peg.1862|GR302_20480!!!IS4!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	73.08%
+fig|648.157.peg.2058|GR302_20960!!!IS4!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.59%
+Cluster 369287
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	protein DedD	ABK38197
+fig|648.157.peg.566|GR302_03885!!!Septum-associated!cell!division!protein!DedD!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	84.73%
+Cluster 212122
+13370	CP000746	Actinobacillus succinogenes 130Z, complete genome.	No	Gammaproteobacteria	pseudouridine synthase	ABR75053
+fig|648.157.peg.2221|GR302_06790!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.17%
+Cluster 488862
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	glutathione-regulated potassium-efflux system ancillary protein KefG	ABO91936
+fig|648.157.peg.4082|GR302_13285!!!Glutathione-regulated!potassium-efflux!system!ancillary!protein!KefF/G!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	89.45%
+Cluster 315367
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	predicted pyrophosphatase	BAC95584
+fig|648.157.peg.1310|GR302_04950!!!Nucleoside!triphosphate!pyrophosphohydrolase!MazG!(EC!3.6.1.8)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.26%
+Cluster 431422
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	acyl carrier protein phosphodiesterase	ABK36483
+fig|648.157.peg.809|GR302_17495!!!FMN-dependent!NADH-azoreductase!(EC!1.7.1.6)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	89.45%
+Cluster 209071
+13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	No	Gammaproteobacteria	succinyldiaminopimelate desuccinylase	ABM19629
+fig|648.157.peg.3930|GR302_02645!!!N-succinyl-L,L-diaminopimelate!desuccinylase!(EC!3.5.1.18)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.27%
+Cluster 352376
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	formamidopyrimidine-DNA glycosylase	ACQ91761
+fig|648.157.peg.3737|GR302_11895!!!Formamidopyrimidine-DNA!glycosylase!(EC!3.2.2.23)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	65.19%
+Cluster 196423
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	nucleotide sugar dehydrogenase	ACQ94435
+fig|648.157.peg.4581|GR302_15060!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	79.12%
+Cluster 685445
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	cell division topological specificity factor MinE	ACQ93174
+fig|648.157.peg.1485|GR302_19620!!!Cell!division!topological!specificity!factor!MinE!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	74.16%
+Cluster 495869
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	transcription termination/antitermination factor NusG	AAZ25723
+fig|648.157.peg.662|GR302_16955!!!Transcription!antitermination!protein!NusG!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.96%
+Cluster 359076
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	bacitracin resistance protein	CAG76487
+fig|648.157.peg.1834|GR302_05805!!!Undecaprenyl-diphosphatase!(EC!3.6.1.27)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.85%
+Cluster 387786
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	ubiquinone biosynthesis methyltransferase	CAK17706
+fig|648.157.peg.232|GR302_15425!!!2-methoxy-6-polyprenyl-1,4-benzoquinol!methylase!(EC!2.1.1.201)!@!Demethylmenaquinone!methyltransferase!(EC!2.1.1.163)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.80%
+Cluster 639885
+17407	CP000869	Burkholderia multivorans ATCC 17616 chromosome 2, complete sequence.	Yes	Betaproteobacteria	Transposase and inactivated derivatives-like protein	ABX18449
+fig|648.157.peg.2177|GR302_06695!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.05%
+fig|648.157.peg.3241|GR302_10215!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	78.38%
+fig|648.157.peg.3804|GR302_12230!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	78.38%
+fig|648.157.peg.3844|GR302_12440!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	78.38%
+fig|648.157.peg.289|GR302_15685!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	80.00%
+fig|648.157.peg.646|GR302_16880!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.32%
+fig|648.157.peg.669|GR302_16990!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	78.38%
+fig|648.157.peg.1355|GR302_19215!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	78.38%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|648.157.peg.4258|GR302_13855!!!LSU!ribosomal!protein!L14p!(L23e)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	81.15%
+Cluster 428868
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	transporter, LysE family	ABK37477
+fig|648.157.peg.103|GR302_00505!!!Transporter,!LysE!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	92.61%
+Cluster 657699
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	antibiotic biosynthesis monooxygenase	ABO90326
+fig|648.157.peg.2027|GR302_06295!!!Uncharacterized!protein!YczJ!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.55%
+Cluster 693222
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAS62695
+fig|648.157.peg.3114|GR302_09640!!!Uncharacterized!protein!YbfA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.12%
+Cluster 109077
+13454	CP000388	Pseudoalteromonas atlantica T6c, complete genome.	No	Gammaproteobacteria	cell division protein FtsW	ABG42022
+fig|648.157.peg.3148|GR302_09785!!!Peptidoglycan!glycosyltransferase!FtsW!(EC!2.4.1.129)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.41%
+Cluster 148765
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	queuine/archaeosine tRNA-ribosyltransferase	BAC93510
+fig|648.157.peg.1919|GR302_05955!!!Queuine!tRNA-ribosyltransferase!(EC!2.4.2.29)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	79.10%
+Cluster 711939
+16426	CP000362	Roseobacter denitrificans OCh 114, complete genome.	No	Alphaproteobacteria	ribosomal protein L33-related protein	ABG31601
+fig|648.157.peg.3739|GR302_11905!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	76.36%
+Cluster 492243
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	transposon Tn3 resolvase	AAX87127
+fig|648.157.peg.3992|GR302_12870!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	98.38%
+Cluster 672540
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ABM36592
+fig|648.157.peg.1280|GR302_19080!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	65.85%
+Cluster 384557
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	ABC-type amino acid transporter, periplasmic binding protein	ABO90448
+fig|648.157.peg.4140|GR302_02730!!!Lysine-arginine-ornithine-binding!ABC!transporter,!substrate-binding!protein!ArgT!(TC!3.A.1.3.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	94.14%
+Cluster 516275
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	transcriptional regulator, TetR family	ABO88325
+fig|648.157.peg.3304|GR302_01930!!!Transcriptional!regulator,!AcrR!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	79.33%
+Cluster 72256
+16723	CP000646	Aeromonas salmonicida subsp. salmonicida A449 plasmid 5, complete sequence.	No	Gammaproteobacteria	transposase subunit 1	ABO92564
+fig|648.157.peg.3537!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	93.48%
+fig|648.157.peg.833!!!Transposase!/!Integrase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	92.55%
+fig|648.157.peg.1148!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	93.48%
+fig|648.157.peg.1463|GR302_19515!!!Transposase!/!Integrase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	80.70%
+fig|648.157.peg.2309|GR302_21430!!!Transposase!/!Integrase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	96.89%
+Cluster 105382
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	ABC-type sugar transport system, periplasmic component	ABK36077
+fig|648.157.peg.3519|GR302_11220!!!N-acetyl-D-glucosamine!ABC!transporter,!substrate-binding!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	85.83%
+Cluster 719200
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	conserved domain protein	ABK35889
+fig|648.157.peg.4026|GR302_13030!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	85.51%
+Cluster 48356
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	methyl-accepting chemotaxis protein	ABK39284
+fig|648.157.peg.3520|GR302_11225!!!N-acetylglucosamine!regulated!methyl-accepting!chemotaxis!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	87.57%
+fig|648.157.peg.3521!!!N-acetylglucosamine!regulated!methyl-accepting!chemotaxis!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+Cluster 505021
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82119
+fig|648.157.peg.3805!!!Translation!elongation!factor!Tu!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	86.21%
+fig|648.157.peg.1612!!!Translation!elongation!factor!Tu!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	89.09%
+Cluster 65957
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	outer membrane protein	ABO90819
+fig|648.157.peg.3263|GR302_10320!!!Outer!membrane!component!of!TAM!transport!system!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	86.80%
+Cluster 605969
+271	AE003851	Xylella fastidiosa 9a5c plasmid pXF51, complete sequence.	No	Gammaproteobacteria	conserved hypothetical protein	AAF85603
+fig|648.157.peg.3975|GR302_12790!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	87.29%
+Cluster 370805
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	exodeoxyribonuclease IX	ABO91175
+fig|648.157.peg.15|GR302_00075!!!Flap!endonuclease!Xni!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	85.66%
+Cluster 182368
+13146	CP000036	Shigella boydii Sb227, complete genome.	Yes	Gammaproteobacteria	putative resistance protein	ABB68031
+fig|648.157.peg.3239|GR302_10205!!!Putative!resistance!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.03%
+Cluster 668572
+335	AE014299	Shewanella oneidensis MR-1, complete genome.	Yes	Gammaproteobacteria	thioredoxin 1	AAN53489
+fig|648.157.peg.1132|GR302_18580!!!Thioredoxin!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.78%
+Cluster 420368
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	dihydroxyacetone kinase, phosphotransferase subunit	ABO91996
+fig|648.157.peg.4529|GR302_14825!!!Phosphoenolpyruvate-dihydroxyacetone!phosphotransferase!(EC!2.7.1.121),!subunit!DhaM;!DHA-specific!IIA!component!/!DHA-specific!phosphocarrier!protein!HPr!/!DHA-specific!EI!component!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	90.34%
+Cluster 412127
+9635	CP000089	Dechloromonas aromatica RCB, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	AAZ47832
+fig|648.157.peg.3715|GR302_11790!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.17%
+Cluster 633901
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	HIT-like protein ycfF	AAN79846
+fig|648.157.peg.1578|GR302_19885!!!YcfF/hinT!protein:!a!purine!nucleoside!phosphoramidase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.59%
+Cluster 681722
+28539	CP001135	Edwardsiella tarda EIB202, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACY82865
+fig|648.157.peg.301|GR302_15745!!!tRNA!5-methylaminomethyl-2-thiouridine!synthesis!sulfur!carrier!protein!TusA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	71.60%
+Cluster 783407
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	thr operon leader peptide	ABK36847
+fig|648.157.peg.2079|GR302_06375!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	100.00%
+Cluster 258694
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	endonuclease III	ABQ77294
+fig|648.157.peg.334|GR302_15890!!!Endonuclease!III!(EC!4.2.99.18)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.48%
+Cluster 581919
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Acid-induced glycyl radical enzyme	AAS62707
+fig|648.157.peg.1857|GR302_20455!!!Autonomous!glycyl!radical!cofactor!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	73.02%
+Cluster 640302
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	ribosomal L25p family	ABK37736
+fig|648.157.peg.1291|GR302_19125!!!LSU!ribosomal!protein!L25p!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	90.53%
+Cluster 468491
+271	AE003849	Xylella fastidiosa 9a5c, complete genome.	No	Gammaproteobacteria	carbonic anhydrase	AAF84894
+fig|648.157.peg.1901|GR302_20665!!!Carbonic!anhydrase-like!protein!PA5540!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.43%
+Cluster 411870
+20635	CP001280	Methylocella silvestris BL2, complete genome.	No	Alphaproteobacteria	ribosomal protein L5	ACK49540
+fig|648.157.peg.4260|GR302_13865!!!LSU!ribosomal!protein!L5p!(L11e)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.01%
+Cluster 495257
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	ecotin	ABK39862
+fig|648.157.peg.218|GR302_15355!!!Proteinase!inhibitor!I11,!ecotin!precursor!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	93.12%
+Cluster 72952
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	Cytochrome-c oxidase	ABM34108
+fig|648.157.peg.2512|GR302_01375!!!Cytochrome!c!oxidase!polypeptide!I!(EC!1.9.3.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.35%
+Cluster 706818
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	cold-shock protein CspD	CAK15025
+fig|648.157.peg.4343|GR302_14270!!!Cold!shock!protein!of!CSP!family!=>!CspD!(naming!convention!as!in!E.coli)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.83%
+Cluster 708969
+16721	CP000733	Coxiella burnetii Dugway 5J108-111, complete genome.	Yes	Gammaproteobacteria	SSU ribosomal protein S21P	ABS77864
+fig|648.157.peg.1297|GR302_04885!!!SSU!ribosomal!protein!S21p!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.97%
+Cluster 490480
+32513	AP010960	Escherichia coli O111:H- str. 11128 DNA, complete genome.	Yes	Gammaproteobacteria	putative IS609 transposase TnpA	BAI38738
+fig|648.157.peg.1037|GR302_04485!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	74.59%
+fig|648.157.peg.2119|GR302_21070!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.13%
+Cluster 84139
+16182	CP000573	Burkholderia pseudomallei 1106a chromosome II, complete sequence.	Yes	Betaproteobacteria	alcohol dehydrogenase, iron-containing	ABN94379
+fig|648.157.peg.4480|GR302_14590!!!NADPH-dependent!broad!range!aldehyde!dehydrogenase!YqhD!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.47%
+Cluster 536233
+19989	CP001032	Opitutus terrae PB90-1, complete genome.	No	Opitutae	3-demethylubiquinone-9 3-methyltransferase	ACB75538
+fig|648.157.peg.1911|GR302_05915!!!3-demethylubiquinone-9!3-methyltransferase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.94%
+Cluster 249032
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	probable formate transporter (formate channel 1)	ABF03127
+fig|648.157.peg.4350|GR302_14295!!!Formate!efflux!transporter!FocA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	65.60%
+Cluster 47685
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	flavodoxin reductase family 1 protein	ABK36690
+fig|648.157.peg.3914|GR302_02565!!!Flavodoxin!reductases!(ferredoxin-NADPH!reductases)!family!1!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	88.33%
+Cluster 200994
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	biotin synthase	CAL17668
+fig|648.157.peg.3919|GR302_02590!!!Biotin!synthase!(EC!2.8.1.6)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.68%
+Cluster 98680
+17343	CP000699	Sphingomonas wittichii RW1, complete genome.	No	Alphaproteobacteria	fumarase	ABQ71009
+fig|648.157.peg.4055|GR302_13165!!!Fumarate!hydratase!class!I,!aerobic!(EC!4.2.1.2)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.26%
+Cluster 377814
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	transposase and inactivated derivative	AAW76060
+fig|648.157.peg.2725|GR302_21920!!!Transposase,!Avin_45320!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.27%
+Cluster 671761
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO90178
+fig|648.157.peg.2354|GR302_07235!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	80.19%
+Cluster 528432
+60	BA000022	Synechocystis sp. PCC 6803 DNA, complete genome.	No	Chroococcales	UNKNOWN	BAA18154
+fig|648.157.peg.3563|GR302_11405!!!Histone!acetyltransferase!HPA2!and!related!acetyltransferases!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.01%
+Cluster 346002
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	cyclase	AAW75515
+fig|648.157.peg.2352|GR302_07225!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.59%
+Cluster 525474
+15	CP000050	Xanthomonas campestris pv. campestris str. 8004, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAY47167
+fig|648.157.peg.166!!!Ligand-binding!SRPBCC!domain!protein!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.11%
+Cluster 43340
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ACC70650
+fig|648.157.peg.1562|GR302_05495!!!Dihydrolipoamide!dehydrogenase!of!pyruvate!dehydrogenase!complex!(EC!1.8.1.4)!@!Dihydrolipoamide!dehydrogenase!(EC!1.8.1.4)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.84%
+Cluster 67043
+13454	CP000388	Pseudoalteromonas atlantica T6c, complete genome.	No	Gammaproteobacteria	polysaccharide export protein	ABG41747
+fig|648.157.peg.1418|GR302_19505!!!Capsular!polysaccharide!export!system!periplasmic!protein!KpsD!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.45%
+Cluster 662937
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Conserved hypothetical protein	CAO98284
+fig|648.157.peg.2313|GR302_21450!!!RelE-like!translational!repressor!toxin!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.09%
+Cluster 398969
+33639	CP001383	Shigella flexneri 2002017, complete genome.	Yes	Gammaproteobacteria	IS2 orfB	ADA72856
+fig|648.157.peg.260!!!Transposase!InsD!for!insertion!element!IS2!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	71.63%
+Cluster 702342
+31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	No	Gammaproteobacteria	30S ribosomal protein S17	ACX95195
+fig|648.157.peg.4257|GR302_13850!!!SSU!ribosomal!protein!S17p!(S11e)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.73%
+Cluster 43640
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	glutamyl-tRNA	ACR14072
+fig|648.157.peg.2625|GR302_07785!!!Ubiquinol-cytochrome!C!reductase,!cytochrome!B!subunit!(EC!1.10.2.2)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.42%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|648.157.peg.4340|GR302_14255!!!Translation!initiation!factor!1!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	65.28%
+Cluster 343653
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	ribosomal protein L1	ACG65011
+fig|648.157.peg.664|GR302_16965!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	82.83%
+Cluster 587724
+17455	CP000961	Shewanella woodyi ATCC 51908, complete genome.	No	Gammaproteobacteria	glutathione-dependent formaldehyde-activating GFA	ACA85839
+fig|648.157.peg.521|GR302_16515!!!Gfa-like!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.15%
+Cluster 328843
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	site-specific recombinase	AAW77486
+fig|648.157.peg.753|GR302_04210!!!Integron!integrase!IntI1!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.54%
+Cluster 292193
+16064	CP000155	Hahella chejuensis KCTC 2396, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABC28318
+fig|648.157.peg.1866!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.45%
+fig|648.157.peg.2719!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.31%
+Cluster 592840
+33161	CP001965	Sideroxydans lithotrophicus ES-1, complete genome.	No	Betaproteobacteria	3-demethylubiquinone-9 3-methyltransferase	ADE12559
+fig|648.157.peg.117|GR302_00575!!!PhnB!protein;!putative!DNA!binding!3-demethylubiquinone-9!3-methyltransferase!domain!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.34%
+Cluster 587242
+29065	CP001085	Candidatus Riesia pediculicola USDA, complete genome.	No	Gammaproteobacteria	ribosomal protein S11	ADD79935
+fig|648.157.peg.4271|GR302_13920!!!SSU!ribosomal!protein!S11p!(S14e)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	78.29%
+Cluster 94017
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	flagellin	AAZ27748
+fig|648.157.peg.4001!!!Flagellin!protein!FlaA!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.42%
+Cluster 271137
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	methyltransferase	ACX87869
+fig|648.157.peg.3894|GR302_02465!!!tRNA!ho5U(34)!carboxymethyltransferase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.92%
+Cluster 369158
+17445	CP000749	Marinomonas sp. MWYL1, complete genome.	No	Gammaproteobacteria	ABC transporter related	ABR71335
+fig|648.157.peg.2653|GR302_07920!!!Phospholipid!ABC!transporter!ATP-binding!protein!MlaF!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.53%
+Cluster 647174
+16064	CP000155	Hahella chejuensis KCTC 2396, complete genome.	No	Gammaproteobacteria	ribosomal protein L31	ABC32627
+fig|648.157.peg.3302|GR302_01920!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-dependent!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.56%
+Cluster 708623
+13239	CP000515	Marinobacter aquaeolei VT8 plasmid pMAQU01, complete sequence.	No	Gammaproteobacteria	transcriptional regulator/antitoxin, MazE	ABM21076
+fig|648.157.peg.4441|GR302_03150!!!Programmed!cell!death!antitoxin!MazE!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.91%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|648.157.peg.663|GR302_16960!!!LSU!ribosomal!protein!L11p!(L12e)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.08%
+Cluster 319178
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	phosphonate ABC transporter, periplasmic phosphonate-binding protein	ABM41882
+fig|648.157.peg.3321|GR302_02015!!!ABC!transporter,!substrate-binding!protein!(cluster!12,!methionine/phosphonates)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.97%
+Cluster 619940
+15753	CP000691	Acidiphilium cryptum JF-5 plasmid pACRY03, complete sequence.	No	Alphaproteobacteria	hypothetical protein	ABQ29097
+fig|648.157.peg.123|GR302_00605!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.54%
+fig|648.157.peg.2268|GR302_06905!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.54%
+fig|648.157.peg.2324|GR302_07085!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.54%
+fig|648.157.peg.3422|GR302_10775!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.54%
+fig|648.157.peg.4111|GR302_13410!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.54%
+fig|648.157.peg.4184|GR302_13495!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.89%
+fig|648.157.peg.246|GR302_15490!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.16%
+fig|648.157.peg.954|GR302_17955!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.86%
+fig|648.157.peg.1137|GR302_18605!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.86%
+fig|648.157.peg.1527|GR302_19825!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.89%
+fig|648.157.peg.1613|GR302_20040!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.54%
+fig|648.157.peg.2041|GR302_20885!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.54%
+fig|648.157.peg.2202|GR302_21260!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.16%
+fig|648.157.peg.2260|GR302_21360!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.54%
+fig|648.157.peg.2321|GR302_21480!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.16%
+fig|648.157.peg.2427|GR302_21615!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.54%
+fig|648.157.peg.2610|GR302_21785!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.16%
+fig|648.157.peg.2672|GR302_21855!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.16%
+fig|648.157.peg.2724|GR302_21915!!!IS1595!family!transposase!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.54%
+Cluster 453585
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE05950
+fig|648.157.peg.40|GR302_00200!!!UPF0234!protein!Yitk!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.38%
+Cluster 527178
+29177	CP001339	Thioalkalivibrio sp. HL-EbGR7, complete genome.	No	Gammaproteobacteria	peptide deformylase	ACL71294
+fig|648.157.peg.145|GR302_03335!!!Peptide!deformylase!(EC!3.5.1.88)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.35%
+Cluster 510080
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	ferredoxin-type protein NapF	ABO90791
+fig|648.157.peg.3412|GR302_10725!!!Ferredoxin-type!protein!NapF!(periplasmic!nitrate!reductase)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	74.56%
+Cluster 574381
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACQ93971
+fig|648.157.peg.1585|GR302_19915!!!FIG001826:!putative!inner!membrane!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.83%
+Cluster 606754
+28329	CP000934	Cellvibrio japonicus Ueda107, complete genome.	No	Gammaproteobacteria	glyoxylase I family protein	ACE83391
+fig|648.157.peg.3002|GR302_09095!!!Uncharacterized!protein!YaeR!with!similarity!to!glyoxylase!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.68%
+Cluster 649701
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	integration host factor beta-subunit	CAL17192
+fig|648.157.peg.1163|GR302_04675!!!Integration!host!factor!beta!subunit!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.15%
+Cluster 602427
+30703	FM178379	Aliivibrio salmonicida LFI1238 chromosome 1 complete genome.	No	Gammaproteobacteria	acyl-CoA thioester hydrolase (p14 protein)	CAQ78831
+fig|648.157.peg.4303|GR302_14075!!!Acyl-CoA!thioesterase!YciA,!involved!in!membrane!biogenesis!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.83%
+Cluster 300731
+16723	CP000645	Aeromonas salmonicida subsp. salmonicida A449 plasmid 4, complete sequence.	No	Gammaproteobacteria	putative exonuclease involved in removal of stalled replication fork	ABO92343
+fig|648.157.peg.2105|GR302_06510!!!DNA!recombination-dependent!growth!factor!RdgC!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	85.15%
+Cluster 156595
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Tyrosyl-tRNA synthetase	CAO96833
+fig|648.157.peg.2451|GR302_01055!!!Tyrosyl-tRNA!synthetase!(EC!6.1.1.1)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.28%
+Cluster 150871
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF444	ACT07063
+fig|648.157.peg.4064|GR302_13200!!!UPF0229!protein!YeaH!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	72.58%
+Cluster 596399
+20319	CP000806	Cyanothece sp. ATCC 51142 circular chromosome, complete sequence.	No	Chroococcales	transposase	ACB51134
+fig|648.157.peg.2726|GR302_08125!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.2910|GR302_08990!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.3072|GR302_09430!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.3130|GR302_09700!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.3566|GR302_11420!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.3845|GR302_12445!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.4375|GR302_14410!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.4609|GR302_15185!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.18%
+fig|648.157.peg.215|GR302_15340!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.682|GR302_17040!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.814|GR302_17520!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.1017|GR302_18235!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.1203|GR302_18690!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.1249|GR302_18910!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	66.67%
+fig|648.157.peg.1293|GR302_19135!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.1385|GR302_19350!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.1395|GR302_19395!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.1590|GR302_19925!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.1887|GR302_20605!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.1979|GR302_20825!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.2070|GR302_21020!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.2430|GR302_21625!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+fig|648.157.peg.2559|GR302_21695!!!Transposase,!IS200!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.00%
+Cluster 501391
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	RNA polymerase, sigma-24 subunit, ECF subfamily	ACQ92103
+fig|648.157.peg.1836|GR302_05815!!!RNA!polymerase!ECF-type!sigma!factor!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	65.61%
+Cluster 130272
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	filamentation induced by cAMP protein Fic	ABM38854
+fig|648.157.peg.2857!!!Huntingtin!interacting!protein!E-like!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	74.04%
+Cluster 45094
+17343	CP000699	Sphingomonas wittichii RW1, complete genome.	No	Alphaproteobacteria	Amidase	ABQ69593
+fig|648.157.peg.427|GR302_16050!!!Putative!amidase!PA4163!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.02%
+Cluster 451637
+17463	CP001052	Burkholderia phytofirmans PsJN chromosome 1, complete sequence.	No	Betaproteobacteria	alpha/beta hydrolase fold	ACD14644
+fig|648.157.peg.1152|GR302_18675!!!Hydrolase,!alpha/beta!fold!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.93%
+Cluster 669350
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative ribosomal protein	AAS61062
+fig|648.157.peg.3189|GR302_09965!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-independent!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.80%
+Cluster 267702
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11918
+fig|648.157.peg.2343|GR302_07180!!!ATP!phosphoribosyltransferase!(EC!2.4.2.17)!=>!HisGl!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	73.49%
+Cluster 44000
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|648.157.peg.3884|GR302_02415!!!PTS!system,!N-acetylglucosamine-specific!IIC!component!/!PTS!system,!N-acetylglucosamine-specific!IIB!component!(EC!2.7.1.193)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	74.17%
+Cluster 492488
+29443	CP001707	Kangiella koreensis DSM 16069, complete genome.	No	Gammaproteobacteria	ribosomal protein L21	ACV27086
+fig|648.157.peg.2284|GR302_06985!!!LSU!ribosomal!protein!L21p!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.90%
+Cluster 298919
+17707	CP001124	Geobacter bemidjiensis Bem, complete genome.	No	Deltaproteobacteria	succinyl-CoA synthetase, alpha subunit	ACH38483
+fig|648.157.peg.3210|GR302_10065!!!Succinyl-CoA!ligase![ADP-forming]!alpha!chain!(EC!6.2.1.5)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	65.86%
+Cluster 43920
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAW73469
+fig|648.157.peg.124!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.18%
+fig|648.157.peg.1339!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.18%
+fig|648.157.peg.3157!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.18%
+fig|648.157.peg.683!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.18%
+fig|648.157.peg.825!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.18%
+fig|648.157.peg.1076!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.18%
+fig|648.157.peg.1368!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.18%
+Cluster 680251
+31137	AP011149	Acetobacter pasteurianus IFO 3283-26 DNA, complete genome.	No	Alphaproteobacteria	transposase	BAI12200
+fig|648.157.peg.2368!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.50%
+Cluster 421270
+33901	CP001504	Burkholderia glumae BGR1 chromosome 2, complete sequence.	No	Betaproteobacteria	Negative transcriptional regulator	ACR32286
+fig|648.157.peg.2821|GR302_08560!!!Transcriptional!regulator!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.98%
+Cluster 642064
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	major cold shock protein	AAW75975
+fig|648.157.peg.1877|GR302_20555!!!Cold!shock!protein!of!CSP!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.87%
+Cluster 394450
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	LexA	ADD75423
+fig|648.157.peg.4474|GR302_14560!!!SOS-response!repressor!and!protease!LexA!(EC!3.4.21.88)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	71.15%
+Cluster 508254
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	putative acyltransferase, GNAT family	CAK16805
+fig|648.157.peg.2022|GR302_06270!!!Histone!acetyltransferase!HPA2!and!related!acetyltransferases!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.38%
+Cluster 593953
+13151	CP000038	Shigella sonnei Ss046, complete genome.	Yes	Gammaproteobacteria	IS2 ORF1	AAZ86942
+fig|648.157.peg.4013!!!Transposase!InsC!for!insertion!element!IS2!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	77.10%
+Cluster 690684
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO91389
+fig|648.157.peg.4512|GR302_14740!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	80.21%
+Cluster 150854
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	ATP-dependent RNA helicase, DEAD box family	ABO89740
+fig|648.157.peg.2148|GR302_06565!!!ATP-dependent!RNA!helicase!VVA0939!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	92.58%
+Cluster 91812
+15713	CR954246	Pseudoalteromonas haloplanktis str. TAC125 chromosome I, complete sequence.	No	Gammaproteobacteria	General secretion pathway protein E (Type II traffic warden ATPase)	CAI85336
+fig|648.157.peg.2463|GR302_01110!!!General!secretion!pathway!protein!E!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	69.66%
+Cluster 20036
+17463	CP001052	Burkholderia phytofirmans PsJN chromosome 1, complete sequence.	No	Betaproteobacteria	integrase family protein	ACD14643
+fig|648.157.peg.1153|GR302_18680!!!putative!membrane!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.97%
+Cluster 390895
+17639	CP000774	Parvibaculum lavamentivorans DS-1, complete genome.	No	Alphaproteobacteria	short-chain dehydrogenase/reductase SDR	ABS63371
+fig|648.157.peg.541!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.32%
+fig|648.157.peg.542|GR302_16605!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	73.77%
+Cluster 774082
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	hypothetical protein	ABO89064
+fig|648.157.peg.1587!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	60.98%
+Cluster 378258
+285	AE009442	Xylella fastidiosa Temecula1, complete genome.	No	Gammaproteobacteria	hypothetical protein	AAO28582
+fig|648.157.peg.172|GR302_03460!!!hypothetical!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.58%
+Cluster 548171
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	50S ribosomal protein L19	AAW74582
+fig|648.157.peg.907|GR302_04410!!!LSU!ribosomal!protein!L19p!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.35%
+Cluster 236263
+15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Yes	Gammaproteobacteria	malate dehydrogenase	ABQ20378
+fig|648.157.peg.4225|GR302_13690!!!Malate!dehydrogenase!(EC!1.1.1.37)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	81.35%
+Cluster 680486
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABO91168
+fig|648.157.peg.8|GR302_00040!!!conserved!protein!of!unknown!function!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	79.21%
+Cluster 162352
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	isocitrate dehydrogenase (NADP)	ABM42459
+fig|648.157.peg.3387|GR302_10600!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	75.06%
+Cluster 485412
+245	BA000003	Buchnera aphidicola str. APS (Acyrthosiphon pisum) genomic DNA, complete sequence.	No	Gammaproteobacteria	50S ribosomal protein L4	BAB13216
+fig|648.157.peg.4249|GR302_13810!!!LSU!ribosomal!protein!L4p!(L1e)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	71.64%
+Cluster 20515
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	leucyl-tRNA synthetase	ABF13994
+fig|648.157.peg.185|GR302_15195!!!Leucyl-tRNA!synthetase!(EC!6.1.1.4)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.00%
+Cluster 247980
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	two-component system response regulator	ABO89834
+fig|648.157.peg.1177|GR302_04740!!!Chemotaxis!protein!CheC!--!inhibitor!of!MCP!methylation!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	82.06%
+Cluster 534402
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69431
+fig|648.157.peg.1430|GR302_05145!!!Protein!translocase!membrane!subunit!SecG!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.81%
+Cluster 45638
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13290
+fig|648.157.peg.4348|GR302_14290!!!Ribosomal!protein!S12p!methylthiotransferase!accessory!factor!YcaO!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.99%
+Cluster 669352
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS61209
+fig|648.157.peg.2183|GR302_06720!!!UPF0410!protein!YeaQ!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	67.07%
+Cluster 253531
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	transposase	ABO89649
+fig|648.157.peg.75|GR302_00370!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.54%
+fig|648.157.peg.4012|GR302_12965!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	100.00%
+fig|648.157.peg.1384|GR302_19345!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	89.25%
+fig|648.157.peg.1762|GR302_20185!!!Mobile!element!protein!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	64.14%
+fig|648.157.peg.1770|GR302_20225!!!Integrase,!catalytic!region!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	62.28%
+Cluster 23296
+285	AE009442	Xylella fastidiosa Temecula1, complete genome.	No	Gammaproteobacteria	ATP-dependent serine proteinase La	AAO28351
+fig|648.157.peg.3859|GR302_12510!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	63.78%
+Cluster 192138
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	Sec-independent protein translocase, TatC subunit	ADC63702
+fig|648.157.peg.237|GR302_15450!!!Twin-arginine!translocation!protein!TatC!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	61.60%
+Cluster 718799
+13018	CP000109	Thiomicrospira crunogena XCL-2, complete genome.	No	Gammaproteobacteria	hypothetical protein	ABB42711
+fig|648.157.peg.2848|GR302_08685!!!Transcription-repair!coupling!factor!(superfamily!II!helicase)!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	68.12%
+Cluster 443141
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABK35858
+fig|648.157.peg.3166|GR302_09860!!!UPF0056!inner!membrane!protein!YchE!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	87.95%
+Cluster 703025
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L35	AAX88440
+fig|648.157.peg.1001|GR302_18165!!!LSU!ribosomal!protein!L35p!!![Aeromonas!caviae!strain!ScAc2001!|!648.157]	70.77%

@@ -1,0 +1,1196 @@
+Cluster 388812
+29309	CP001779	Streptobacillus moniliformis DSM 12112, complete genome.	Yes	Fusobacteriales	protein of unknown function DUF34	ACZ01572
+fig|588.149.peg.544!!!Phosphoglucosamine!mutase!(EC!5.4.2.10)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.71%
+Cluster 697556
+18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABO41204
+fig|588.149.peg.4754!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	97.83%
+Cluster 103178
+15747	CP000250	Rhodopseudomonas palustris HaA2, complete genome.	No	Alphaproteobacteria	6-hydroxynicotinate reductase	ABD06375
+fig|588.149.peg.3196!!!Amidophosphoribosyltransferase!(EC!2.4.2.14)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.87%
+Cluster 686324
+12986	CP000020	Vibrio fischeri ES114 chromosome I, complete sequence.	No	Gammaproteobacteria	HU, DNA-binding transcriptional regulator, beta subunit	AAW85294
+fig|588.149.peg.598!!!DNA-binding!protein!HU-beta!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.23%
+fig|588.149.peg.2538!!!DNA-binding!protein!HU-beta!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.22%
+Cluster 574492
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YfbV	ADD77810
+fig|588.149.peg.501!!!UPF0208!membrane!protein!YfbV!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.24%
+Cluster 568238
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	co-chaperonin GroES	ACN48531
+fig|588.149.peg.447!!!Heat!shock!protein!10!kDa!family!chaperone!GroES!!![Providencia!stuartii!strain!AS012498!|!588.149]	88.66%
+Cluster 613554
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAG76960
+fig|588.149.peg.1360!!!Protein!YhfA!!![Providencia!stuartii!strain!AS012498!|!588.149]	82.84%
+Cluster 478278
+20361	AP011532	Methanocella paludicola SANAE DNA, complete genome.	No	Methanomicrobia	conserved hypothetical protein	BAI62810
+fig|588.149.peg.3014!!!Succinate-acetate/proton!symporter!SatP!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.38%
+Cluster 267446
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	cysteine synthase	ABM35882
+fig|588.149.peg.340!!!Cysteine!synthase!(EC!2.5.1.47)!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.88%
+Cluster 5925
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	condensin subunit Smc	ABQ83415
+fig|588.149.peg.2701!!!ATP!synthase!alpha!chain!(EC!3.6.3.14)!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.67%
+Cluster 210977
+17629	CP000926	Pseudomonas putida GB-1, complete genome.	No	Gammaproteobacteria	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	ABY99510
+fig|588.149.peg.751!!!tRNA-specific!2-thiouridylase!MnmA!(EC!2.8.1.13)!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.21%
+Cluster 688323
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	cell division topological specificity factor MinE	ACT06844
+fig|588.149.peg.1401!!!Cell!division!topological!specificity!factor!MinE!!![Providencia!stuartii!strain!AS012498!|!588.149]	83.70%
+Cluster 239346
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	quinone oxidoreductase	AAS60744
+fig|588.149.peg.3283!!!Quinone!oxidoreductase!(EC!1.6.5.5)!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.17%
+Cluster 55228
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	selenocysteinyl-tRNA-specific translation factor	CAL14147
+fig|588.149.peg.4892!!!Selenocysteine-specific!translation!elongation!factor!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.13%
+Cluster 522537
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Uncharacterized protein, homolog of Cu resistance protein CopC	AAS61841
+fig|588.149.peg.3987!!!Copper!resistance!protein!CopC!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.72%
+Cluster 641683
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	transposase, orf B	CAX55093
+fig|588.149.peg.63!!!Transposase!!![Providencia!stuartii!strain!AS012498!|!588.149]	81.54%
+Cluster 112736
+28805	CP001196	Oligotropha carboxidovorans OM5 strain OM5, complete genome.	No	Alphaproteobacteria	porin	ACI92952
+fig|588.149.peg.3425!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.11%
+Cluster 603949
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	phenylacetate-CoA oxygenase, PaaH subunit	ABM59653
+fig|588.149.peg.1689!!!1,2-phenylacetyl-CoA!epoxidase,!subunit!B!(EC!1.14.13.149)!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.21%
+Cluster 235856
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative phenazine antibiotic biosynthesis protein	CAG75597
+fig|588.149.peg.1571!!!EhpF!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.17%
+Cluster 589866
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.3373!!!Spermidine!export!protein!MdtJ!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.72%
+Cluster 601820
+297	AE008923	Xanthomonas axonopodis pv. citri str. 306, complete genome.	No	Gammaproteobacteria	protein-export membrane protein	AAM37551
+fig|588.149.peg.3800!!!Protein!translocase!membrane!subunit!SecG!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.07%
+Cluster 429175
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	transcriptional regulator, GntR family	ACS87057
+fig|588.149.peg.484!!!Transcriptional!regulator,!GntR!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.82%
+Cluster 95869
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Glutathione reductase, putative	ABN44926
+fig|588.149.peg.2461!!!Glutathione!reductase!(EC!1.8.1.7)!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.33%
+Cluster 637260
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04930
+fig|588.149.peg.4872!!!UPF0125!protein!RatB!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.16%
+Cluster 688355
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.1398!!!Protein!YcgL!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.67%
+Cluster 116514
+16306	CP000927	Caulobacter sp. K31, complete genome.	No	Alphaproteobacteria	seryl-tRNA synthetase	ABZ72242
+fig|588.149.peg.4589!!!Seryl-tRNA!synthetase!(EC!6.1.1.11)!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.29%
+Cluster 116510
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.4510!!!Chromosomal!replication!initiator!protein!DnaA!!![Providencia!stuartii!strain!AS012498!|!588.149]	84.88%
+Cluster 395599
+16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Yes	Gammaproteobacteria	probable short-chain dehydrogenase	ABR86247
+fig|588.149.peg.3429!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 124617
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	glutamate mutase	CAL14059
+fig|588.149.peg.935!!!Uncharacterized!protein!GlmL!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.55%
+Cluster 144142
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	2,3,4,5-tetrahydropyridine-2-carboxylate N-succin	AAW75239
+fig|588.149.peg.2082!!!2,3,4,5-tetrahydropyridine-2,6-dicarboxylate!N-succinyltransferase!(EC!2.3.1.117)!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.99%
+Cluster 654934
+13943	CP000545	Burkholderia mallei NCTC 10229 chromosome II, complete sequence.	Yes	Betaproteobacteria	conserved hypothetical protein	ABM99689
+fig|588.149.peg.3580!!!Uncharacterized!membrane!protein!VF_0575!!![Providencia!stuartii!strain!AS012498!|!588.149]	87.50%
+Cluster 368650
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CpxR	ADD79041
+fig|588.149.peg.398!!!Copper-sensing!two-component!system!response!regulator!CpxR!!![Providencia!stuartii!strain!AS012498!|!588.149]	87.50%
+Cluster 492037
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PurE	ADD76220
+fig|588.149.peg.1539!!!N5-carboxyaminoimidazole!ribonucleotide!mutase!(EC!5.4.99.18)!!![Providencia!stuartii!strain!AS012498!|!588.149]	78.36%
+Cluster 691265
+15757	CP000703	Staphylococcus aureus subsp. aureus JH9, complete genome.	Yes	Bacillales	hypothetical protein	ABQ50286
+fig|588.149.peg.3913!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 445037
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Molybdopterin biosynthesis mog protein	CAY73103
+fig|588.149.peg.3015!!!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Providencia!stuartii!strain!AS012498!|!588.149]	75.98%
+Cluster 249364
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.3753!!!Tetrathionate!reductase!subunit!C!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.45%
+Cluster 167877
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	nucleoside permease	BAH64544
+fig|588.149.peg.344!!!Nucleoside!permease!NupC!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.59%
+Cluster 496526
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.4415!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	78.97%
+Cluster 186630
+17827	CP000863	Acinetobacter baumannii ACICU, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACC55599
+fig|588.149.peg.3730!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 450941
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	Putative Transposase within prophage	ABB60468
+fig|588.149.peg.605!!!Transposase!!![Providencia!stuartii!strain!AS012498!|!588.149]	78.57%
+fig|588.149.peg.1879!!!Transposase!!![Providencia!stuartii!strain!AS012498!|!588.149]	73.47%
+fig|588.149.peg.3200!!!Transposase!!![Providencia!stuartii!strain!AS012498!|!588.149]	75.70%
+Cluster 420698
+19989	CP001032	Opitutus terrae PB90-1, complete genome.	No	Opitutae	ABC transporter related	ACB73364
+fig|588.149.peg.1544!!!Uncharacterized!metabolite!ABC!transporter!in!Enterobacteriaceae,!ATP-binding!protein!EC-YbbA!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.00%
+Cluster 372522
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobalt-precorrin-4 C(11)-methyltransferase (Cobalt-precorrin-3 methylase)	CBJ79987
+fig|588.149.peg.373!!!Cobalt-precorrin-4!C(11)-methyltransferase!(EC!2.1.1.271)!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.04%
+Cluster 421665
+13020	CP000491	Paracoccus denitrificans PD1222 plasmid 1, complete sequence.	No	Alphaproteobacteria	periplasmic nitrate reductase subunit NapC	ABL72784
+fig|588.149.peg.2383!!!Cytochrome!c-type!protein!NapC!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.50%
+Cluster 200923
+371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Yes	Gammaproteobacteria	RNA polymerase sigma subunit RpoS	AAO70382
+fig|588.149.peg.1617!!!RNA!polymerase!sigma!factor!RpoS!!![Providencia!stuartii!strain!AS012498!|!588.149]	75.61%
+Cluster 186825
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX70363
+fig|588.149.peg.2474!!!Transcriptional!(co)regulator!CytR!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.87%
+Cluster 110121
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative aminopeptidase	AAX66437
+fig|588.149.peg.1763!!!Peptidase!B!(EC!3.4.11.23)!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.82%
+Cluster 8219
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.3479!!!hypothetical!protein;!Some!weak!similarities!with!DNA!helicase!related!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.67%
+Cluster 51773
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	DNA polymerase III subunit tau	CAO97520
+fig|588.149.peg.20!!!DNA!polymerase!III!subunits!gamma!and!tau!(EC!2.7.7.7)!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.25%
+Cluster 726108
+408	AE014073	Shigella flexneri 2a str. 2457T, complete genome.	Yes	Gammaproteobacteria	IS911 orfA	AAP17415
+fig|588.149.peg.2270!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.98%
+Cluster 580977
+13242	CR555308	Azoarcus sp. EbN1 plasmid 2.	No	Betaproteobacteria	transposase, fragment	CAI10671
+fig|588.149.peg.1246!!!Mobile!element!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.04%
+Cluster 620830
+15753	CP000697	Acidiphilium cryptum JF-5, complete genome.	No	Alphaproteobacteria	flagellar motor switch protein FliN	ABQ30681
+fig|588.149.peg.3915!!!Flagellar!motor!switch!protein!FliN!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.97%
+Cluster 264549
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	riboflavin biosynthesis protein RibF, putative	ACR67900
+fig|588.149.peg.2199!!!FMN!adenylyltransferase!(EC!2.7.7.2)!/!Riboflavin!kinase!(EC!2.7.1.26)!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.55%
+Cluster 325465
+13960	CP000800	Escherichia coli E24377A, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABV21201
+fig|588.149.peg.1419!!!Protein!YrdA!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.27%
+Cluster 550742
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	putative transactivation protein	BAI28093
+fig|588.149.peg.2588!!!Phage!transcriptional!activator!Ogr/delta!(ACLAME!74)!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+fig|588.149.peg.3157!!!Phage!protein!Ogr!!![Providencia!stuartii!strain!AS012498!|!588.149]	99.35%
+Cluster 565004
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	50S ribosomal protein L16	ABM79044
+fig|588.149.peg.183!!!LSU!ribosomal!protein!L16p!(L10e)!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.03%
+Cluster 305223
+18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABO41041
+fig|588.149.peg.4740!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 558460
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Hns	ADD77258
+fig|588.149.peg.4021!!!DNA-binding!protein!H-NS!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.85%
+Cluster 206569
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	putative Antirestriction protein ardC	CAR13490
+fig|588.149.peg.2123!!!Antirestriction!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.22%
+fig|588.149.peg.2124!!!Antirestriction!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	77.59%
+Cluster 104977
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	putative sodium:solute symporter, fragment	CAX57054
+fig|588.149.peg.846!!!Acetate!permease!ActP!(cation/acetate!symporter)!!![Providencia!stuartii!strain!AS012498!|!588.149]	80.41%
+Cluster 14248
+13875	CP000016	Candidatus Blochmannia pennsylvanicus str. BPEN, complete genome.	No	Gammaproteobacteria	valine tRNA synthetase	AAZ40682
+fig|588.149.peg.2682!!!Valyl-tRNA!synthetase!(EC!6.1.1.9)!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.31%
+Cluster 190349
+15754	CP000579	Rhodobacter sphaeroides ATCC 17029 plasmid pRSPH01, complete sequence.	No	Alphaproteobacteria	Mandelate racemase/muconate lactonizing enzyme, C-terminal domain protein	ABN79220
+fig|588.149.peg.656!!!Gluconate!dehydratase!(EC!4.2.1.39)!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.36%
+Cluster 435908
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.946!!!Ethanolamine!utilization!polyhedral-body-like!protein!EutM!!![Providencia!stuartii!strain!AS012498!|!588.149]	89.69%
+fig|588.149.peg.2013!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	73.68%
+Cluster 431373
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	regulatory protein GntR HTH	ACT08907
+fig|588.149.peg.2260!!!Transcriptional!regulator,!GntR!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.46%
+Cluster 98851
+36545	CP001589	Yersinia pestis D182038, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACY60810
+fig|588.149.peg.349!!!Transcription!accessory!protein!(S1!RNA-binding!domain)!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.04%
+Cluster 495011
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.790!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 542543
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	D-tyrosyl-tRNA(Tyr) deacylase	ACS61694
+fig|588.149.peg.4594!!!D-aminoacyl-tRNA!deacylase!(EC!3.1.1.96)!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.14%
+Cluster 147226
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	replicative DNA helicase; part of primosome	ABF06146
+fig|588.149.peg.3285!!!Replicative!DNA!helicase!(DnaB)!(EC!3.6.4.12)!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.60%
+fig|588.149.peg.792!!!Replicative!DNA!helicase!(DnaB)!(EC!3.6.4.12)!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.76%
+fig|588.149.peg.3125!!!Replicative!DNA!helicase!(DnaB)!(EC!3.6.4.12)!!![Providencia!stuartii!strain!AS012498!|!588.149]	95.97%
+Cluster 708057
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12267
+fig|588.149.peg.3989!!!DNA!polymerase!III!theta!subunit!(EC!2.7.7.7)!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.47%
+Cluster 278577
+13040	CP000377	Silicibacter sp. TM1040, complete genome.	No	Alphaproteobacteria	Twin-arginine translocation pathway signal	ABF64210
+fig|588.149.peg.3859!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.00%
+Cluster 337607
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative membrane protein	CBJ79408
+fig|588.149.peg.2288!!!Inner!membrane!protein!YhjD!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.23%
+Cluster 617174
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACT06807
+fig|588.149.peg.156!!!Uncharacterized!protein!YgbA!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.71%
+Cluster 365291
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Phage shock protein A	CAY74214
+fig|588.149.peg.1389!!!Phage!shock!protein!A!@!Suppressor!of!sigma54-dependent!transcription,!PspA-like!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.75%
+Cluster 75733
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative lipoate-protein ligase A	BAB38768
+fig|588.149.peg.2400!!!Lipoate-protein!ligase!A!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.23%
+Cluster 373243
+21111	CP001182	Acinetobacter baumannii AB0057, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACJ42149
+fig|588.149.peg.4221!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	76.47%
+Cluster 401297
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	YheO domain protein	ACX89743
+fig|588.149.peg.149!!!YheO-like!PAS!domain!!![Providencia!stuartii!strain!AS012498!|!588.149]	82.05%
+Cluster 696918
+12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	No	Gammaproteobacteria	ribosomal protein S20	AAZ35333
+fig|588.149.peg.2202!!!SSU!ribosomal!protein!S20p!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.95%
+Cluster 531525
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	50S ribosomal protein L19	ACP26950
+fig|588.149.peg.4050!!!LSU!ribosomal!protein!L19p!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.54%
+Cluster 471725
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	thiol:disulfide interchange protein DsbE	ABG70233
+fig|588.149.peg.2921!!!Cytochrome!c-type!biogenesis!protein!CcmG/DsbE,!thiol:disulfide!oxidoreductase!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.49%
+Cluster 549885
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L10	ABF14049
+fig|588.149.peg.1652!!!LSU!ribosomal!protein!L10p!(P0)!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.45%
+Cluster 565785
+15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Yes	Gammaproteobacteria	integrase, truncation	ABQ22057
+fig|588.149.peg.2868!!!Integrase!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.03%
+Cluster 550026
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU75489
+fig|588.149.peg.4959!!!Nitrite-sensitive!transcriptional!repressor!NsrR!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.09%
+Cluster 36917
+180	AE008918	Brucella melitensis 16M chromosome II, complete sequence.	Yes	Alphaproteobacteria	imidazolonepropionase / histidine ammonia-lyase	AAL53610
+fig|588.149.peg.3676!!!Imidazolonepropionase!(EC!3.5.2.7)!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.24%
+Cluster 8034
+17729	CP000769	Anaeromyxobacter sp. Fw109-5, complete genome.	No	Deltaproteobacteria	malate synthase A	ABS27162
+fig|588.149.peg.1450!!!Isocitrate!lyase!(EC!4.1.3.1)!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.75%
+Cluster 175309
+18637	CP000908	Methylobacterium extorquens PA1, complete genome.	No	Alphaproteobacteria	hypothetical protein	ABY32994
+fig|588.149.peg.3402!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	75.56%
+Cluster 759858
+32513	AP010961	Escherichia coli O111:H- str. 11128 plasmid pO11	Yes	Gammaproteobacteria	DNA, complete sequence.	K
+fig|588.149.peg.1261!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.74%
+Cluster 180167
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	RsuA protein	AAU37645
+fig|588.149.peg.3566!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.61%
+Cluster 11409
+10700	BX908798	Parachlamydia-related symbiont UWE25, complete genome.	Yes	Chlamydiales	probable glycyl-tRNA synthetase	CAF23417
+fig|588.149.peg.1265!!!Glycyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.14)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.60%
+Cluster 484170
+50	CP000513	Dichelobacter nodosus VCS1703A, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABQ13095
+fig|588.149.peg.4626!!!CRISPR-associated!protein,!Csy4!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.75%
+Cluster 345668
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.3297!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.22%
+Cluster 4596
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	respiratory nitrate reductase alpha subunit apoprotein	ABM40687
+fig|588.149.peg.885!!!Respiratory!nitrate!reductase!alpha!chain!(EC!1.7.99.4)!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.72%
+Cluster 201049
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	rod shape-determining protein MreC	ACT08634
+fig|588.149.peg.3175!!!Rod!shape-determining!protein!MreC!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.67%
+Cluster 13787
+9633	CP000082	Psychrobacter arcticus 273-4, complete genome.	No	Gammaproteobacteria	Excinuclease ABC subunit A	AAZ19533
+fig|588.149.peg.1559!!!Excinuclease!ABC!subunit!A!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.42%
+Cluster 531069
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	AccB protein	AAU38396
+fig|588.149.peg.3170!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.82%
+Cluster 423510
+13875	CP000016	Candidatus Blochmannia pennsylvanicus str. BPEN, complete genome.	No	Gammaproteobacteria	NADH dehydrogenase I chain B, binds FeS cluster N2	AAZ41122
+fig|588.149.peg.2850!!!NADH-ubiquinone!oxidoreductase!chain!B!(EC!1.6.5.3)!!![Providencia!stuartii!strain!AS012498!|!588.149]	75.00%
+Cluster 633344
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L25	ABE07930
+fig|588.149.peg.4489!!!LSU!ribosomal!protein!L25p!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.59%
+Cluster 484387
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.1210!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	84.12%
+Cluster 495973
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	GTP cyclohydrolase subunit MoaC	ABQ80553
+fig|588.149.peg.1636!!!Cyclic!pyranopterin!monophosphate!synthase!(EC!4.6.1.17)!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.55%
+Cluster 731538
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	carbon storage regulator, CsrA	ADC62041
+fig|588.149.peg.3434!!!Carbon!storage!regulator!!![Providencia!stuartii!strain!AS012498!|!588.149]	81.97%
+Cluster 670320
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.2590!!!FIG033266:!Phage!DNA!binding!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.77%
+Cluster 272455
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Membrane protein Alx	CAX54335
+fig|588.149.peg.2217!!!Alkaline!induced!inner!membrane!protein!Alx!!![Providencia!stuartii!strain!AS012498!|!588.149]	73.04%
+Cluster 721808
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS62867
+fig|588.149.peg.671!!!UPF0370!protein!YpfN!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.84%
+Cluster 150994
+13932	CP000133	Rhizobium etli CFN 42, complete genome.	No	Alphaproteobacteria	putative GTP-binding protein	ABC91798
+fig|588.149.peg.2694!!!GTP-binding!and!nucleic!acid-binding!protein!YchF!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.32%
+Cluster 612014
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15491
+fig|588.149.peg.2499!!!Uncharacterized!protein!YqiC!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.77%
+Cluster 527527
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Oligoketide cyclase/lipid transport protein	AAS61304
+fig|588.149.peg.4871!!!Ribosome!association!toxin!RatA!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.31%
+Cluster 722769
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAG75280
+fig|588.149.peg.3991!!!UPF0181!protein!YoaH!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.93%
+Cluster 577327
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.454!!!Small!heat!shock!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	84.21%
+Cluster 597870
+18937	CP001645	Ralstonia pickettii 12D chromosome 2, complete sequence.	No	Betaproteobacteria	conserved hypothetical protein	ACS65464
+fig|588.149.peg.3488!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	97.83%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|588.149.peg.153!!!SSU!ribosomal!protein!S12p!(S23e)!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.19%
+Cluster 42247
+36507	CP001585	Yersinia pestis D106004, complete genome.	Yes	Gammaproteobacteria	ATP-dependent protease La	ACY59673
+fig|588.149.peg.2175!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Providencia!stuartii!strain!AS012498!|!588.149]	87.61%
+Cluster 480440
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative RhtB/LysE family threonine efflux pump	CAH19865
+fig|588.149.peg.276!!!L-lysine!permease!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.16%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|588.149.peg.4512!!!LSU!ribosomal!protein!L34p!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.47%
+fig|588.149.peg.3426!!!LSU!ribosomal!protein!L34p!!![Providencia!stuartii!strain!AS012498!|!588.149]	79.55%
+Cluster 302781
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	oligopeptide transport system permease protein	AAX88126
+fig|588.149.peg.4015!!!Oligopeptide!ABC!transporter,!permease!protein!OppB!(TC!3.A.1.5.1)!!![Providencia!stuartii!strain!AS012498!|!588.149]	76.14%
+Cluster 677828
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	Phosphotransferase system, phosphocarrier protein HPr	ACQ92255
+fig|588.149.peg.339!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.94%
+Cluster 325916
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	PHP C-terminal domain protein	ABM43547
+fig|588.149.peg.3672!!!FIG00031715:!Predicted!metal-dependent!phosphoesterases!(PHP!family)!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.24%
+Cluster 584937
+15750	CP000301	Rhodopseudomonas palustris BisB18, complete genome.	No	Alphaproteobacteria	SSU ribosomal protein S13P	ABD88966
+fig|588.149.peg.198!!!SSU!ribosomal!protein!S13p!(S18e)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.17%
+Cluster 508588
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.1848!!!Type-1!fimbrial!protein,!A!chain!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.38%
+Cluster 321176
+33241	CP001674	Methylovorus sp. SIP3-4, complete genome.	No	Betaproteobacteria	cysteine synthase B	ACT50186
+fig|588.149.peg.336!!!Cysteine!synthase!B!(EC!2.5.1.47)!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.27%
+Cluster 205073
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	CAI08474
+fig|588.149.peg.2534!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.64%
+Cluster 410344
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeaZ	ADD77302
+fig|588.149.peg.1405!!!tRNA!threonylcarbamoyladenosine!biosynthesis!protein!TsaB!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.78%
+Cluster 352148
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Uncharacterized protein ygcF	CAY75451
+fig|588.149.peg.1596!!!7-carboxy-7-deazaguanine!synthase!(EC!4.3.99.3)!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.65%
+Cluster 742893
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CBJ83514
+fig|588.149.peg.4514!!!Membrane!protein!insertion!efficiency!factor!YidD!!![Providencia!stuartii!strain!AS012498!|!588.149]	83.78%
+Cluster 217110
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.1044!!!Macrolide-specific!efflux!protein!MacA!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.66%
+Cluster 723119
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAS61437
+fig|588.149.peg.4559!!!FIG002473:!Protein!YcaR!in!KDO2-Lipid!A!biosynthesis!cluster!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.88%
+Cluster 722166
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	major outer membrane lipoprotein	BAE74712
+fig|588.149.peg.2106!!!Major!outer!membrane!lipoprotein!Lpp!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.54%
+Cluster 591906
+33319	CP001672	Methylotenera mobilis JLW8, complete genome.	No	Betaproteobacteria	ribosomal protein S16	ACT48976
+fig|588.149.peg.4047!!!SSU!ribosomal!protein!S16p!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.07%
+Cluster 40879
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	flagellar biosynthesis protein FlhA	ACT06402
+fig|588.149.peg.4701!!!Flagellar!biosynthesis!protein!FlhA!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.50%
+Cluster 490282
+180	AE008918	Brucella melitensis 16M chromosome II, complete sequence.	Yes	Alphaproteobacteria	hypothetical cytosolic protein	AAL54014
+fig|588.149.peg.3846!!!Nitroreductase!family!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.33%
+Cluster 593980
+30351	XXX	Stenotrophomonas maltophilia K279a	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.4145!!!Lactoylglutathione!lyase!and!related!lyases!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.71%
+Cluster 663057
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YjcH	ADD75458
+fig|588.149.peg.847!!!Inner!membrane!protein!YjcH,!clustering!with!ActP!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.99%
+Cluster 683877
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.531!!!Ner-like!regulatory!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.56%
+Cluster 490794
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	ribonuclease HII	BAE75204
+fig|588.149.peg.3802!!!Ribonuclease!HII!(EC!3.1.26.4)!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.08%
+Cluster 157058
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.2776!!!3-oxo-tetronate!kinase!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.47%
+Cluster 33282
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative adenosylmethionine-8-amino-7-oxononanoate aminotransferase	CAH07318
+fig|588.149.peg.1519!!!Adenosylmethionine-8-amino-7-oxononanoate!aminotransferase!(EC!2.6.1.62)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.52%
+Cluster 527563
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB62686
+fig|588.149.peg.1434!!!Acetyltransferase!YpeA!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.54%
+Cluster 701316
+13151	CP000039	Shigella sonnei Ss046 plasmid pS	Yes	Gammaproteobacteria	46, complete sequence.	AAZ91090
+fig|588.149.peg.2002!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 114055
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	hypothetical protein	ABF10537
+fig|588.149.peg.4222!!!Putative!peptidase!!![Providencia!stuartii!strain!AS012498!|!588.149]	94.12%
+Cluster 563339
+18937	CP001645	Ralstonia pickettii 12D chromosome 2, complete sequence.	No	Betaproteobacteria	Hpt protein	ACS65635
+fig|588.149.peg.3757!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	97.26%
+Cluster 120526
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative phenazine antibiotic biosynthesis protein	CAG75596
+fig|588.149.peg.2915!!!EhpG!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.35%
+Cluster 3000
+10695	CP000152	Burkholderia sp. 383 chromosome 2, complete sequence.	Yes	Betaproteobacteria	Rhs family protein	ABB10762
+fig|588.149.peg.3501!!!Rhs-family!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	73.24%
+Cluster 333332
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR68490
+fig|588.149.peg.4503!!!Transcriptional!regulator!YeiE,!LysR!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.69%
+Cluster 457737
+359	AE016853	Pseudomonas syringae pv. tomato str. DC3000, complete genome.	No	Gammaproteobacteria	FtsJ cell division protein	AAO57946
+fig|588.149.peg.541!!!23S!rRNA!(uridine(2552)-2'-O)-methyltransferase!(EC!2.1.1.166)!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.20%
+Cluster 406837
+15721	CP000158	Hyphomonas neptunium ATCC 15444, complete genome.	No	Alphaproteobacteria	superoxide dismutase, Mn	ABI76996
+fig|588.149.peg.4156!!!Superoxide!dismutase![Mn]!(EC!1.15.1.1)!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.79%
+Cluster 205730
+28329	CP000934	Cellvibrio japonicus Ueda107, complete genome.	No	Gammaproteobacteria	Uncharacterised protein family (UPF0075) superfamily	ACE83411
+fig|588.149.peg.3493!!!Anhydro-N-acetylmuramic!acid!kinase!(EC!2.7.1.170)!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.22%
+Cluster 707853
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein	AAN82098
+fig|588.149.peg.2137!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.82%
+fig|588.149.peg.4410!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.62%
+Cluster 337559
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	3-oxoacyl- reductase	AAW74135
+fig|588.149.peg.1799!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.26%
+Cluster 119825
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CoaBC	ADD79072
+fig|588.149.peg.4815!!!Phosphopantothenoylcysteine!decarboxylase!(EC!4.1.1.36)!/!Phosphopantothenoylcysteine!synthetase!(EC!6.3.2.5)!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.07%
+Cluster 99801
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	protein TprK	ACD71313
+fig|588.149.peg.3235!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.38%
+fig|588.149.peg.378!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.38%
+fig|588.149.peg.1298!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.18%
+Cluster 314547
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ACI08669
+fig|588.149.peg.4290!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	80.95%
+Cluster 629285
+16217	AP007255	Magnetospirillum magneticum AMB-1 DNA, complete genome.	No	Alphaproteobacteria	Translation initiation factor 1	BAE52143
+fig|588.149.peg.1993!!!Translation!initiation!factor!1!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.67%
+Cluster 153748
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	tyrosyl-tRNA synthetase, putative	ACR69272
+fig|588.149.peg.236!!!Tyrosyl-tRNA!synthetase!(EC!6.1.1.1)!!![Providencia!stuartii!strain!AS012498!|!588.149]	85.14%
+Cluster 84246
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative kinase	AAX66588
+fig|588.149.peg.2451!!!NAD!kinase!(EC!2.7.1.23)!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.49%
+Cluster 18794
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	ATP-dependent Clp protease ATP-binding subunit clpA	ABA48302
+fig|588.149.peg.2000!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpA!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.18%
+Cluster 744385
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	phage transcriptional regulator, AlpA	ACT06354
+fig|588.149.peg.2050!!!Transcriptional!regulator!!![Providencia!stuartii!strain!AS012498!|!588.149]	90.32%
+Cluster 134223
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	ribonuclease PH/Ham1 protein	AAO80922
+fig|588.149.peg.4819!!!Ribonuclease!PH!(EC!2.7.7.56)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.34%
+Cluster 163807
+32815	FM954973	Vibrio splendidus LGP32 chromosome 2.	No	Gammaproteobacteria	putative transport protein	CAV25727
+fig|588.149.peg.3076!!!PTS!system,!IIC!component,!UlaA-type!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.35%
+Cluster 201560
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein; putative exported protein	CBJ82879
+fig|588.149.peg.576!!!Outer!membrane!protein/protective!antigen!OMA87!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.02%
+Cluster 661041
+16064	CP000155	Hahella chejuensis KCTC 2396, complete genome.	No	Gammaproteobacteria	predicted protein tyrosine phosphatase	ABC27331
+fig|588.149.peg.3186!!!cellular!communication/signal!transduction!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.45%
+Cluster 150390
+13509	CP002156	Parvularcula bermudensis HTCC2503 strain HTCC2503, complete genome.	No	Alphaproteobacteria	hypothetical protein	ADM08923
+fig|588.149.peg.3793!!!tRNA-i(6)A37!methylthiotransferase!(EC!2.8.4.3)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.00%
+Cluster 273451
+58	CP000230	Rhodospirillum rubrum ATCC 11170, complete genome.	No	Alphaproteobacteria	Binding-protein-dependent transport systems inner membrane component	ABC23158
+fig|588.149.peg.1457!!!Dipeptide!ABC!transporter,!permease!protein!DppC!(TC!3.A.1.5.2)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.33%
+Cluster 443299
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein YebB	ABE07542
+fig|588.149.peg.2563!!!Uncharacterized!protein!YebB!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.32%
+Cluster 440285
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	negative modulator of initiation of replication	ABE06185
+fig|588.149.peg.4570!!!SeqA!protein,!negative!modulator!of!initiation!of!replication!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.03%
+Cluster 434617
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	thiamine-phosphate pyrophosphorylase	AAS63273
+fig|588.149.peg.1081!!!Thiamin-phosphate!pyrophosphorylase!(EC!2.5.1.3)!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.81%
+Cluster 767506
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	50S ribosomal protein L36	CAO97529
+fig|588.149.peg.2948!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Providencia!stuartii!strain!AS012498!|!588.149]	73.91%
+Cluster 577567
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62882
+fig|588.149.peg.794!!!Uncharacterized!protein!YfgD,!not!an!arsenate!reductase!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.64%
+Cluster 629717
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACA67208
+fig|588.149.peg.562!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.18%
+Cluster 449090
+32551	AP010951	Azospirillum sp. B510 plasmid pAB510e DNA, complete genome.	No	Alphaproteobacteria	isoquinoline 1-oxidoreductase, alpha subunit	BAI76672
+fig|588.149.peg.3829!!!Uncharacterized!aldehyde!oxidase,!2Fe-2S!subunit!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.52%
+Cluster 532816
+13126	CR628337	Legionella pneumophila str. Lens complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S7	CAH14596
+fig|588.149.peg.154!!!SSU!ribosomal!protein!S7p!(S5e)!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.87%
+Cluster 73136
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.4542!!!Efflux!ABC!transporter,!permease/ATP-binding!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.13%
+Cluster 555721
+13946	CP000548	Burkholderia mallei NCTC 10247 chromosome I, complete sequence.	Yes	Betaproteobacteria	50S ribosomal protein L28	ABO05945
+fig|588.149.peg.4813!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.36%
+Cluster 448332
+30703	FM178379	Aliivibrio salmonicida LFI1238 chromosome 1 complete genome.	No	Gammaproteobacteria	DNA mismatch repair protein MutH	CAQ78253
+fig|588.149.peg.2427!!!DNA!mismatch!repair!endonuclease!MutH!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.04%
+Cluster 218557
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	Xylose isomerase domain protein TIM barrel	ACA69313
+fig|588.149.peg.2390!!!Inosose!dehydratase!(EC!4.2.1.44)!!![Providencia!stuartii!strain!AS012498!|!588.149]	75.76%
+Cluster 294922
+16304	CP000738	Sinorhizobium medicae WSM419, complete genome.	No	Alphaproteobacteria	ABC transporter related	ABR61744
+fig|588.149.peg.4342!!!Manganese!ABC!transporter,!ATP-binding!protein!SitB!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.84%
+Cluster 709468
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	conserved hypothetical protein	CBJ46349
+fig|588.149.peg.231!!!Uncharacterized!protein!YdhL!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.03%
+Cluster 683658
+33901	CP001503	Burkholderia glumae BGR1 chromosome 1, complete sequence.	No	Betaproteobacteria	Hypothetical protein	ACR29493
+fig|588.149.peg.4267!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.86%
+Cluster 479043
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	L-lysine exporter	ACA67156
+fig|588.149.peg.815!!!Arginine!exporter!protein!ArgO!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.88%
+Cluster 163363
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	aminotransferase class I and II	ACZ74936
+fig|588.149.peg.1268!!!Valine--pyruvate!aminotransferase!(EC!2.6.1.66)!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.97%
+Cluster 504471
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Protein yfbU	AAN81289
+fig|588.149.peg.500!!!UPF0304!protein!yfbU!!![Providencia!stuartii!strain!AS012498!|!588.149]	82.93%
+Cluster 74375
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	DEAD/DEAH box helicase domain protein	ACS61740
+fig|588.149.peg.2766!!!ATP-dependent!RNA!helicase!RhlE!(EC!3.6.4.13)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.00%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|588.149.peg.180!!!SSU!ribosomal!protein!S19p!(S15e)!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.74%
+Cluster 443458
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	Sua5/YciO/YrdC/YwlC family protein	ACR12471
+fig|588.149.peg.3567!!!YciO!protein,!TsaC/YrdC!paralog!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.08%
+Cluster 447231
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	stress protein	ACY23869
+fig|588.149.peg.4454!!!Tellurium!resistance!protein!TerD!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.45%
+fig|588.149.peg.4455!!!Tellurium!resistance!protein!TerD!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.10%
+Cluster 204923
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative ribonucleoside-diphosphate reductase beta subunit	AAS58680
+fig|588.149.peg.1630!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!beta!subunit!(EC!1.17.4.1)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.58%
+Cluster 67561
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.4662!!!Exoenzymes!regulatory!protein!AepA!precursor!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.96%
+Cluster 517859
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	lactoylglutathione lyase	ACP05284
+fig|588.149.peg.230!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.89%
+Cluster 370600
+18937	CP001646	Ralstonia pickettii 12D plasmid pRp12D01, complete sequence.	No	Betaproteobacteria	Integrase catalytic region	ACS65924
+fig|588.149.peg.4067!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	83.56%
+Cluster 552793
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82118
+fig|588.149.peg.3288!!!Translation!elongation!factor!Tu!!![Providencia!stuartii!strain!AS012498!|!588.149]	91.26%
+Cluster 43853
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	transketolase	ACY35378
+fig|588.149.peg.4825!!!Transketolase!(EC!2.2.1.1)!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.60%
+Cluster 335592
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF06037
+fig|588.149.peg.2034!!!Unsaturated!fatty!acid!biosythesis!repressor!FabR,!TetR!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	86.24%
+Cluster 618982
+21111	CP001182	Acinetobacter baumannii AB0057, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACJ40495
+fig|588.149.peg.3773!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.00%
+Cluster 696539
+32513	AP010960	Escherichia coli O111:H- str. 11128 DNA, complete genome.	Yes	Gammaproteobacteria	predicted antirepressor protein Cro	BAI36472
+fig|588.149.peg.1959!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.33%
+Cluster 437770
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	putative DNA-binding transcriptional regulator (Lrp-like)	CAR01791
+fig|588.149.peg.593!!!DNA-binding!transcriptional!activator!DecR,!AsnC!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.55%
+Cluster 202396
+13474	CP000115	Nitrobacter winogradskyi Nb-255, complete genome.	No	Alphaproteobacteria	chorismate synthase	ABA03896
+fig|588.149.peg.1000!!!Chorismate!synthase!(EC!4.2.3.5)!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.01%
+Cluster 718358
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65442
+fig|588.149.peg.3166!!!Uncharacterized!protein!YhdT!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.75%
+Cluster 618080
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative Trp operon repressor	AAS63878
+fig|588.149.peg.3030!!!Transcriptional!repressor!protein!TrpR!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.92%
+Cluster 416408
+16646	CP000305	Yersinia pestis Nepal516, complete genome.	Yes	Gammaproteobacteria	transposase	ABG17769
+fig|588.149.peg.607!!!Mobile!element!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.94%
+fig|588.149.peg.1306!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.19%
+Cluster 25922
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.2520!!!Type!IV!secretory!pathway,!VirB4!components!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.41%
+fig|588.149.peg.3557!!!Type!IV!secretory!pathway,!VirB4!components!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.53%
+Cluster 273695
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative FNT family, formate transporter (formate channel 1)	AAX64834
+fig|588.149.peg.4583!!!Formate!efflux!transporter!FocA!!![Providencia!stuartii!strain!AS012498!|!588.149]	75.09%
+Cluster 281439
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	tRNA pseudouridine synthase B	BAJ03258
+fig|588.149.peg.1089!!!tRNA!pseudouridine(55)!synthase!(EC!5.4.99.25)!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.42%
+Cluster 422925
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative transposase	ABB64350
+fig|588.149.peg.606!!!Mobile!element!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	85.00%
+Cluster 301372
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S2	ABE05693
+fig|588.149.peg.3817!!!SSU!ribosomal!protein!S2p!(SAe)!!![Providencia!stuartii!strain!AS012498!|!588.149]	91.70%
+Cluster 122210
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	NAD(P) transhydrogenase, beta subunit	BAJ01669
+fig|588.149.peg.1194!!!NAD(P)!transhydrogenase!subunit!beta!(EC!1.6.1.2)!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.84%
+Cluster 206938
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR68115
+fig|588.149.peg.3553!!!Mobile!element!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.18%
+Cluster 3629
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	ATP-dependent helicase	CAV18959
+fig|588.149.peg.1184!!!ATP-dependent!helicase!HrpA!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.36%
+Cluster 133370
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX23224
+fig|588.149.peg.488!!!Proton/glutamate!symporter!@!Proton/aspartate!symporter!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.18%
+Cluster 401804
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	inositol monophosphatase family protein	BAE73625
+fig|588.149.peg.216!!!3'(2'),5'-bisphosphate!nucleotidase!(EC!3.1.3.7)!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.04%
+Cluster 379424
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH75354
+fig|588.149.peg.1684!!!L-Proline/Glycine!betaine!transporter!ProP!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.97%
+Cluster 371030
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	ABC transporter related	ACB24247
+fig|588.149.peg.2654!!!Branched-chain!amino!acid!ABC!transporter,!ATP-binding!protein!LivF!(TC!3.A.1.4.1)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.52%
+Cluster 100130
+13509	CP002156	Parvularcula bermudensis HTCC2503 strain HTCC2503, complete genome.	No	Alphaproteobacteria	type I restriction-modification system, M subunit	ADM09237
+fig|588.149.peg.1238!!!Type!I!restriction-modification!system,!DNA-methyltransferase!subunit!M!(EC!2.1.1.72)!!![Providencia!stuartii!strain!AS012498!|!588.149]	77.33%
+Cluster 358622
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative phosphatase	CBJ47723
+fig|588.149.peg.315!!!Histidinol-phosphatase![alternative!form]!(EC!3.1.3.15)!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.60%
+Cluster 94222
+16313	CP000255	Staphylococcus aureus subsp. aureus USA30	Yes	Bacillales	PR3757, complete genome.	ABD20437
+fig|588.149.peg.4188!!!Zinc!ABC!transporter,!substrate-binding!lipoprotein!AdcA!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 634638
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	AAS62176
+fig|588.149.peg.3958!!!Uncharacterized!protein!YeaC!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.33%
+Cluster 776772
+371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAO70284
+fig|588.149.peg.4040!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	85.00%
+Cluster 240631
+283	AE007870	Agrobacterium tumefaciens str. C58 linear chromosome, complete sequence.	No	Alphaproteobacteria	conserved hypothetical protein	AAK89635
+fig|588.149.peg.2832!!!Protein!QmcA!(possibly!involved!in!integral!membrane!quality!control)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.51%
+Cluster 684128
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881
+fig|588.149.peg.4361!!!Integration!host!factor!alpha!subunit!!![Providencia!stuartii!strain!AS012498!|!588.149]	92.86%
+Cluster 489552
+13146	CP000036	Shigella boydii Sb227, complete genome.	Yes	Gammaproteobacteria	putative bacteriophage protein	ABB68595
+fig|588.149.peg.2591!!!FIG118045:!Phage!immunity!repressor!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	87.76%
+Cluster 317134
+16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Yes	Gammaproteobacteria	HAD-superfamily (subfamily iiib) phosphatase	ABK39054
+fig|588.149.peg.910!!!NMN!phosphatase!(EC!3.1.3.5);!Class!B!acid!phosphatase!precursor!(EC!3.1.3.2)!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.71%
+Cluster 25799
+16297	AP008229	Xanthomonas oryzae pv. oryzae MAFF 311018 DNA, complete genome.	No	Gammaproteobacteria	VGR-related protein	BAE68097
+fig|588.149.peg.3496!!!VgrG!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.11%
+Cluster 455430
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.497!!!Phage!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.79%
+fig|588.149.peg.3293!!!Phage!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.49%
+Cluster 482241
+9635	CP000089	Dechloromonas aromatica RCB, complete genome.	No	Betaproteobacteria	Phenylacetic acid degradation protein PaaY	AAZ45144
+fig|588.149.peg.1674!!!Phenylacetic!acid!degradation!protein!PaaY!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.41%
+Cluster 200180
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative glutamyl-tRNA synthetase	AAS60562
+fig|588.149.peg.50!!!Glutamyl-Q!tRNA(Asp)!synthetase!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.47%
+Cluster 630154
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative monothiol glutaredoxin ydhD	CBJ81617
+fig|588.149.peg.2675!!!Monothiol!glutaredoxin!GrxD!!![Providencia!stuartii!strain!AS012498!|!588.149]	86.09%
+Cluster 240427
+408	AE014073	Shigella flexneri 2a str. 2457T, complete genome.	Yes	Gammaproteobacteria	IS911 orfA	AAP15762
+fig|588.149.peg.2053!!!Transposase!InsO!for!insertion!sequence!element!IS911!!![Providencia!stuartii!strain!AS012498!|!588.149]	82.49%
+fig|588.149.peg.2055!!!Transposase!InsO!for!insertion!sequence!element!IS911!!![Providencia!stuartii!strain!AS012498!|!588.149]	87.88%
+Cluster 355968
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative aromatic ring-opening dioxygenase	CBJ47665
+fig|588.149.peg.2497!!!4,5-DOPA!dioxygenase!extradiol!(EC!1.13.11.29),!but!not!physiological!substrate!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.83%
+Cluster 492204
+29381	CP001338	Candidatus Methanosphaerula palustris E1-9c, complete genome.	No	Methanomicrobia	GPR1/FUN34/yaaH family protein	ACL15865
+fig|588.149.peg.1899!!!Succinate-acetate/proton!symporter!SatP!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.41%
+Cluster 260158
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	malate dehydrogenase	ABE09111
+fig|588.149.peg.530!!!Malate!dehydrogenase!(EC!1.1.1.37)!!![Providencia!stuartii!strain!AS012498!|!588.149]	83.65%
+Cluster 457519
+241	AE006468	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.	Yes	Gammaproteobacteria	formate-dependent nitrite reductase	AAL23102
+fig|588.149.peg.252!!!Cytochrome!c-type!protein!NrfB!precursor!!![Providencia!stuartii!strain!AS012498!|!588.149]	78.72%
+Cluster 32333
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable rna polymerase sigma d (sigma-70) factor transcription regulator protein	CAD15922
+fig|588.149.peg.3766!!!RNA!polymerase!sigma!factor!RpoD!!![Providencia!stuartii!strain!AS012498!|!588.149]	78.33%
+Cluster 236448
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	thioredoxin reductase	ABF07949
+fig|588.149.peg.4037!!!Thioredoxin!reductase!(EC!1.8.1.9)!!![Providencia!stuartii!strain!AS012498!|!588.149]	79.73%
+Cluster 662778
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	cytochrome O ubiquinol oxidase subunit CyoD	AAS61029
+fig|588.149.peg.3935!!!Cytochrome!O!ubiquinol!oxidase!subunit!IV!(EC!1.10.3.-)!!![Providencia!stuartii!strain!AS012498!|!588.149]	77.27%
+Cluster 353307
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Glycerophosphoryl diester phosphodiesterase	AAS62097
+fig|588.149.peg.3222!!!Glycerophosphoryl!diester!phosphodiesterase!(EC!3.1.4.46)!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.29%
+Cluster 35585
+15667	CP000627	Vibrio cholerae O395 chromosome 2, complete genome.	Yes	Gammaproteobacteria	methionyl-tRNA synthetase	ABQ19760
+fig|588.149.peg.2728!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Providencia!stuartii!strain!AS012498!|!588.149]	73.04%
+Cluster 486617
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	MFS family xanthosine permease	ABG13049
+fig|588.149.peg.4907!!!Xanthosine!permease!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.19%
+Cluster 564485
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	homoprotocatechuate degradative operon repressor	AAS61864
+fig|588.149.peg.2896!!!Homoprotocatechuate!degradative!operon!repressor!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.33%
+Cluster 103279
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24102
+fig|588.149.peg.534!!!Octaprenyl!diphosphate!synthase!(EC!2.5.1.90)!!![Providencia!stuartii!strain!AS012498!|!588.149]	75.54%
+Cluster 397621
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved domain protein	ACI07185
+fig|588.149.peg.695!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.24%
+Cluster 476485
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	ferritin	AAS61843
+fig|588.149.peg.3988!!!Bacterial!non-heme!ferritin!(EC!1.16.3.2)!!![Providencia!stuartii!strain!AS012498!|!588.149]	75.45%
+Cluster 757748
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	ribosomal protein L36	ABQ76678
+fig|588.149.peg.197!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Providencia!stuartii!strain!AS012498!|!588.149]	92.11%
+Cluster 365588
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	UgpQ	ADD78878
+fig|588.149.peg.2907!!!Glycerophosphoryl!diester!phosphodiesterase!(EC!3.1.4.46)!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.67%
+Cluster 646604
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Putative dihydroneopterin aldolase	CAO95466
+fig|588.149.peg.2505!!!Dihydroneopterin!aldolase!(EC!4.1.2.25)!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.75%
+Cluster 643646
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	conserved hypothetical protein	ACZ07823
+fig|588.149.peg.3149!!!Uncharacterized!protein!STM4441!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.12%
+Cluster 216470
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	porphobilinogen deaminase	AAS63365
+fig|588.149.peg.4649!!!Porphobilinogen!deaminase!(EC!2.5.1.61)!!![Providencia!stuartii!strain!AS012498!|!588.149]	77.07%
+Cluster 612524
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	putative 6-pyruvoyl tetrahydrobiopterin synthase	CAV18990
+fig|588.149.peg.1597!!!6-carboxy-5,6,7,8-tetrahydropterin!synthase!(EC!4.1.2.50)!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.17%
+Cluster 118298
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative flavin-containing amine oxidase	CAG75592
+fig|588.149.peg.4530!!!Amine!oxidase,!flavin-containing!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.36%
+Cluster 58566
+13954	CP000125	Burkholderia pseudomallei 1710b chromosome II, complete sequence.	Yes	Betaproteobacteria	ubiquinol oxidase family protein	ABA51670
+fig|588.149.peg.2433!!!Cytochrome!d!ubiquinol!oxidase!subunit!I!(EC!1.10.3.-)!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.72%
+Cluster 295860
+27731	CP001197	Desulfovibrio vulgaris str. 'Miyazaki F', complete genome.	No	Deltaproteobacteria	parB-like partition protein	ACL08988
+fig|588.149.peg.4187!!!Chromosome!(plasmid)!partitioning!protein!ParB!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.00%
+Cluster 521187
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	transposase B	ACR68137
+fig|588.149.peg.764!!!Mobile!element!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.87%
+fig|588.149.peg.3040!!!Mobile!element!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.78%
+Cluster 778817
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	ribonuclease P protein component	ABX88580
+fig|588.149.peg.4513!!!Ribonuclease!P!protein!component!(EC!3.1.26.5)!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.97%
+Cluster 421712
+13393	CP000681	Shewanella putrefaciens CN-32, complete genome.	Yes	Gammaproteobacteria	NUDIX hydrolase	ABP76049
+fig|588.149.peg.3894!!!Nudix-related!transcriptional!regulator!NrtR!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.89%
+Cluster 196423
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	nucleotide sugar dehydrogenase	ACQ94435
+fig|588.149.peg.4775!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Providencia!stuartii!strain!AS012498!|!588.149]	77.06%
+fig|588.149.peg.4900!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Providencia!stuartii!strain!AS012498!|!588.149]	77.06%
+Cluster 350528
+18937	CP001645	Ralstonia pickettii 12D chromosome 2, complete sequence.	No	Betaproteobacteria	conserved hypothetical protein	ACS65155
+fig|588.149.peg.3400!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	76.67%
+Cluster 495869
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	transcription termination/antitermination factor NusG	AAZ25723
+fig|588.149.peg.1649!!!Transcription!antitermination!protein!NusG!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.72%
+Cluster 370205
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	ribonuclease III	AAZ27454
+fig|588.149.peg.1730!!!Ribonuclease!III!(EC!3.1.26.3)!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.50%
+Cluster 573536
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative yhbH sigma 54 modulator	AAS60919
+fig|588.149.peg.4056!!!Ribosome-associated!inhibitor!A!!![Providencia!stuartii!strain!AS012498!|!588.149]	77.06%
+Cluster 387786
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	ubiquinone biosynthesis methyltransferase	CAK17706
+fig|588.149.peg.2786!!!2-methoxy-6-polyprenyl-1,4-benzoquinol!methylase!(EC!2.1.1.201)!@!Demethylmenaquinone!methyltransferase!(EC!2.1.1.163)!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.33%
+Cluster 717945
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative cytoplasmic protein	AAX64486
+fig|588.149.peg.1119!!!Uncharacterized!S4!RNA-binding-domain!protein!YbcJ!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.29%
+Cluster 599828
+288	AE009952	Yersinia pestis KIM, complete genome.	Yes	Gammaproteobacteria	putative transposase	AAM85704
+fig|588.149.peg.4132!!!Transposase,!IS200!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	83.12%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|588.149.peg.186!!!LSU!ribosomal!protein!L14p!(L23e)!!![Providencia!stuartii!strain!AS012498!|!588.149]	73.17%
+Cluster 683456
+19459	CP001125	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 plasmid pCVM1963	Yes	Gammaproteobacteria	10, complete sequence.	ACF88538
+fig|588.149.peg.1378!!!Phosphoglucosamine!mutase!(EC!5.4.2.10)!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 446474
+28711	CP001804	Haliangium ochraceum DSM 14365, complete genome.	No	Deltaproteobacteria	ribosomal protein L5	ACY16492
+fig|588.149.peg.188!!!LSU!ribosomal!protein!L5p!(L11e)!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.01%
+Cluster 722054
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX21279
+fig|588.149.peg.4445!!!Orphan!toxin!OrtT!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.47%
+Cluster 126795
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	argininosuccinate lyase	ACG64846
+fig|588.149.peg.2029!!!Argininosuccinate!lyase!(EC!4.3.2.1)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.00%
+Cluster 404057
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE74144
+fig|588.149.peg.3119!!!GTP!cyclohydrolase!1!type!2!homolog!YbgI!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.99%
+Cluster 201135
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	periplasmic binding protein	ACX89805
+fig|588.149.peg.1067!!!ABC!transporter,!substrate-binding!protein!(cluster!8,!B12/iron!complex)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.38%
+Cluster 472102
+31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Yes	Gammaproteobacteria	hypothetical protein	CAW29110
+fig|588.149.peg.3455!!!Diadenosine!tetraphosphate!(Ap4A)!hydrolase!and!other!HIT!family!hydrolases!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 148765
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	queuine/archaeosine tRNA-ribosyltransferase	BAC93510
+fig|588.149.peg.714!!!Queuine!tRNA-ribosyltransferase!(EC!2.4.2.29)!!![Providencia!stuartii!strain!AS012498!|!588.149]	79.20%
+Cluster 303227
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	guanine-specific ribonuclease N1 and T1	ACX86210
+fig|588.149.peg.3000!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	84.54%
+Cluster 711939
+16426	CP000362	Roseobacter denitrificans OCh 114, complete genome.	No	Alphaproteobacteria	ribosomal protein L33-related protein	ABG31601
+fig|588.149.peg.4812!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.27%
+Cluster 306124
+13151	CP000039	Shigella sonnei Ss046 plasmid pS	Yes	Gammaproteobacteria	46, complete sequence.	AAZ91089
+fig|588.149.peg.2001!!!Mobile!element!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	98.25%
+Cluster 580964
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.2851!!!NADH!ubiquinone!oxidoreductase!chain!A!(EC!1.6.5.3)!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.11%
+Cluster 144835
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.825!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.13%
+fig|588.149.peg.2314!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Providencia!stuartii!strain!AS012498!|!588.149]	81.90%
+Cluster 580467
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	PEP-dependent phosphotransferase enzyme III	ABF03671
+fig|588.149.peg.1217!!!PTS!system,!N,N'-diacetylchitobiose-specific!IIA!component!(EC!2.7.1.196)!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.49%
+Cluster 200605
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative transcriptional regulatory protein	AAS62098
+fig|588.149.peg.3223!!!Putative!transcriptional!regulatory!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.31%
+Cluster 58060
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	suppressor of ompF assembly mutants	CBJ80072
+fig|588.149.peg.2917!!!AsmA!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	86.36%
+Cluster 549573
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	Methylaspartate mutase S chain (Glutamate mutase sigma subunit)	CAQ89874
+fig|588.149.peg.934!!!Methylaspartate!mutase,!S!subunit!(EC!5.4.99.1)!!![Providencia!stuartii!strain!AS012498!|!588.149]	76.71%
+Cluster 408003
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12456
+fig|588.149.peg.4018!!!UPF0056!inner!membrane!protein!YchE!!![Providencia!stuartii!strain!AS012498!|!588.149]	75.23%
+Cluster 582611
+33261	CP002083	Hyphomicrobium denitrificans ATCC 51888, complete genome.	No	Alphaproteobacteria	Biopolymer transport protein ExbD/TolR	ADJ22106
+fig|588.149.peg.933!!!TonB-ExbBD!energy!transducing!system,!ExbD!subunit!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.05%
+Cluster 62977
+17463	CP001052	Burkholderia phytofirmans PsJN chromosome 1, complete sequence.	No	Betaproteobacteria	potassium-transporting ATPase, A subunit	ACD15723
+fig|588.149.peg.1909!!!Potassium-transporting!ATPase!A!chain!(EC!3.6.3.12)!(TC!3.A.3.7.1)!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.91%
+Cluster 191545
+17643	CP000753	Shewanella baltica OS185, complete genome.	No	Gammaproteobacteria	transposase IS3/IS911 family protein	ABS08832
+fig|588.149.peg.2667!!!Transposase!InsO!for!insertion!sequence!element!IS911!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.98%
+fig|588.149.peg.2668!!!Transposase!InsN!for!insertion!sequence!element!IS911!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.87%
+fig|588.149.peg.4830!!!Putative!transposase!(ACLAME!33)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.29%
+Cluster 713960
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893
+fig|588.149.peg.2372!!!Haemolysin!expression!modulating!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	86.57%
+Cluster 668572
+335	AE014299	Shewanella oneidensis MR-1, complete genome.	Yes	Gammaproteobacteria	thioredoxin 1	AAN53489
+fig|588.149.peg.1862!!!Thioredoxin!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.44%
+Cluster 720314
+13649	AM039952	Xanthomonas campestris pv. vesicatoria complete genome.	No	Gammaproteobacteria	acyl carrier protein	CAJ22778
+fig|588.149.peg.1798!!!Acyl!carrier!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	84.62%
+Cluster 97935
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU77246
+fig|588.149.peg.1709!!!Di-tripeptide/H+!symporter!DtpA!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.75%
+Cluster 118463
+19	AL591985	Sinorhizobium meliloti 1021 plasmid pSymB.	No	Alphaproteobacteria	putative imidazolonepropionase protein	CAC49232
+fig|588.149.peg.3733!!!Imidazolonepropionase!(EC!3.5.2.7)!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.37%
+Cluster 687158
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG13908
+fig|588.149.peg.3747!!!Biofilm!regulator!BssS!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.86%
+Cluster 469687
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase / 5-ca...	CAH20876
+fig|588.149.peg.2895!!!5-carboxymethyl-2-oxo-hex-3-!ene-1,7-dioate!decarboxylase!(EC!4.1.1.68)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.29%
+Cluster 552622
+33369	CU928144	Escherichia fergusonii str. ATCC 35469T plasmid pEFER, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAQ86955
+fig|588.149.peg.3513!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 681722
+28539	CP001135	Edwardsiella tarda EIB202, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACY82865
+fig|588.149.peg.4977!!!tRNA!5-methylaminomethyl-2-thiouridine!synthesis!sulfur!carrier!protein!TusA!!![Providencia!stuartii!strain!AS012498!|!588.149]	77.38%
+Cluster 161740
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative PTS system, galactitol-specific IIC component	ACI07228
+fig|588.149.peg.3478!!!PTS!system,!galactitol-specific!IIC!component!!![Providencia!stuartii!strain!AS012498!|!588.149]	81.10%
+Cluster 490263
+17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Yes	Gammaproteobacteria	3-demethylubiquinone-9 3-methyltransferase and 2-octaprenyl-6-hydroxy phenol methylase	ABO10531
+fig|588.149.peg.3826!!!3-demethylubiquinol!3-O-methyltransferase!(EC!2.1.1.64)!@!2-polyprenyl-6-hydroxyphenyl!methylase!(EC!2.1.1.222)!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.15%
+Cluster 258694
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	endonuclease III	ABQ77294
+fig|588.149.peg.3355!!!Endonuclease!III!(EC!4.2.99.18)!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.54%
+Cluster 472205
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	tellurium resistance protein	AAS60722
+fig|588.149.peg.4459!!!Tellurium!resistance!protein!TerD!!![Providencia!stuartii!strain!AS012498!|!588.149]	73.10%
+Cluster 520014
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	conserved uncharacterized protein, putative cytoplasmic protein	CAX54987
+fig|588.149.peg.998!!!Translation!elongation!factor!P!Lys34!hydroxylase!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.43%
+Cluster 529937
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	probable FKBX-type 16KD peptidyl-prolyl cis-trans isomerase	AAS63851
+fig|588.149.peg.4451!!!FKBP-type!peptidyl-prolyl!cis-trans!isomerase!SlpA!(EC!5.2.1.8)!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.10%
+fig|588.149.peg.2196!!!FKBP-type!peptidyl-prolyl!cis-trans!isomerase!SlpA!(EC!5.2.1.8)!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.65%
+Cluster 581919
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Acid-induced glycyl radical enzyme	AAS62707
+fig|588.149.peg.2455!!!Autonomous!glycyl!radical!cofactor!!![Providencia!stuartii!strain!AS012498!|!588.149]	86.61%
+Cluster 551905
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative membrane protein	CBJ48017
+fig|588.149.peg.4884!!!putative!membrane!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.52%
+Cluster 217347
+18743	CP001828	Legionella pneumophila 2300/99 Alcoy, complete genome.	Yes	Gammaproteobacteria	GTPase - translation elongation factor	ADG23624
+fig|588.149.peg.1646!!!Translation!elongation!factor!Tu!!![Providencia!stuartii!strain!AS012498!|!588.149]	95.24%
+fig|588.149.peg.3042!!!Translation!elongation!factor!Tu!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.23%
+Cluster 132763
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	phosphatidylserine synthase (CDP-diacylglycerol-serine O-phosphatidyltransferase)	CBJ82372
+fig|588.149.peg.410!!!CDP-diacylglycerol--serine!O-phosphatidyltransferase!(EC!2.7.8.8)!!![Providencia!stuartii!strain!AS012498!|!588.149]	73.61%
+Cluster 452621
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Predicted membrane protein	CAO96420
+fig|588.149.peg.2902!!!probable!membrane!protein!yetF!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.83%
+Cluster 71244
+15713	CR954247	Pseudoalteromonas haloplanktis str. TAC125 chromosome II, complete sequence.	No	Gammaproteobacteria	putative Cell volume regulation protein A	CAI89155
+fig|588.149.peg.3534!!!K(+)/H(+)!antiporter!NhaP2!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.91%
+Cluster 152039
+17675	CP000472	Shewanella piezotolerans WP3, complete genome.	No	Gammaproteobacteria	S-adenosylhomocysteine hydrolase	ACJ28603
+fig|588.149.peg.4629!!!Adenosylhomocysteinase!(EC!3.3.1.1)!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.66%
+Cluster 267292
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	class II aldolase, tagatose bisphosphate family	ACF61891
+fig|588.149.peg.1906!!!Tagatose!1,6-bisphosphate!aldolase!(EC!4.1.2.40)!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.73%
+Cluster 708969
+16721	CP000733	Coxiella burnetii Dugway 5J108-111, complete genome.	Yes	Gammaproteobacteria	SSU ribosomal protein S21P	ABS77864
+fig|588.149.peg.2635!!!SSU!ribosomal!protein!S21p!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.56%
+Cluster 490483
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein; putative exported protein	CAQ89483
+fig|588.149.peg.2523!!!T6SS!component!TssB!(ImpB/VipA)!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.64%
+Cluster 218679
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	hypothetical protein	CAG76018
+fig|588.149.peg.2142!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	90.22%
+fig|588.149.peg.2143!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	85.78%
+Cluster 501180
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Pal	ADD76355
+fig|588.149.peg.3097!!!Tol-Pal!system!peptidoglycan-associated!lipoprotein!PAL!!![Providencia!stuartii!strain!AS012498!|!588.149]	77.58%
+Cluster 201275
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	7-keto-8-aminopelargonic acid synthetase	CBJ80165
+fig|588.149.peg.1645!!!8-amino-7-oxononanoate!synthase!(EC!2.3.1.47)!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.25%
+Cluster 620020
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX21672
+fig|588.149.peg.1791!!!YcfF/hinT!protein:!a!purine!nucleoside!phosphoramidase!!![Providencia!stuartii!strain!AS012498!|!588.149]	84.48%
+Cluster 84139
+16182	CP000573	Burkholderia pseudomallei 1106a chromosome II, complete sequence.	Yes	Betaproteobacteria	alcohol dehydrogenase, iron-containing	ABN94379
+fig|588.149.peg.3602!!!NADPH-dependent!broad!range!aldehyde!dehydrogenase!YqhD!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.19%
+Cluster 206530
+312	AE013218	Buchnera aphidicola str. Sg (Schizaphis graminum), complete genome.	No	Gammaproteobacteria	flagellar biosynthetic protein FliP	AAM67645
+fig|588.149.peg.2601!!!Flagellar!biosynthesis!protein!FliP!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.37%
+fig|588.149.peg.2676!!!Flagellar!biosynthesis!protein!FliP!!![Providencia!stuartii!strain!AS012498!|!588.149]	82.86%
+Cluster 200994
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	biotin synthase	CAL17668
+fig|588.149.peg.1518!!!Biotin!synthase!(EC!2.8.1.6)!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.48%
+fig|588.149.peg.3012!!!Biotin!synthase!(EC!2.8.1.6)!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.78%
+Cluster 363520
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	putative carbonic anhydrase	CAX54615
+fig|588.149.peg.2067!!!Carbonic!anhydrase,!beta!class!(EC!4.2.1.1)!!![Providencia!stuartii!strain!AS012498!|!588.149]	70.51%
+Cluster 742989
+349	XXX	Vibrio vulnificus CMCP6	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.4448!!!Ribosome!modulation!factor!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.64%
+Cluster 141850
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	D-tagatose-bisphosphate aldolase, class II, non-catalytic subunit	ACF62260
+fig|588.149.peg.2926!!!D-tagatose-1,6-bisphosphate!aldolase!subunit!KbaZ!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.74%
+Cluster 346002
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	cyclase	AAW75515
+fig|588.149.peg.1013!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.02%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|588.149.peg.2422!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.73%
+Cluster 698075
+40647	FN554766	Escherichia coli 042 complete genome.	Yes	Gammaproteobacteria	putative phage-related regulatory protein	CBG37338
+fig|588.149.peg.4414!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.94%
+Cluster 564031
+36507	CP001585	Yersinia pestis D106004, complete genome.	Yes	Gammaproteobacteria	3-oxoacyl-(acyl-carrier protein) reductase	ACY59037
+fig|588.149.peg.3792!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.50%
+Cluster 43340
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ACC70650
+fig|588.149.peg.4759!!!Dihydrolipoamide!dehydrogenase!of!pyruvate!dehydrogenase!complex!(EC!1.8.1.4)!@!Dihydrolipoamide!dehydrogenase!(EC!1.8.1.4)!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.11%
+Cluster 3775
+12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	No	Gammaproteobacteria	Rhs family protein	AAZ33388
+fig|588.149.peg.602!!!T6SS!PAAR-repeat!protein!/!RhaS!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.65%
+Cluster 325127
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	sugar fermentation stimulation protein	ACA69734
+fig|588.149.peg.48!!!Sugar!fermentation!stimulation!protein!SfsA!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.17%
+Cluster 303133
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	Putative LysR family transcriptional regulator	CAL14055
+fig|588.149.peg.1512!!!Transcriptional!regulator,!LysR!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	76.57%
+Cluster 445646
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.3296!!!Phage!baseplate!assembly!protein!V!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.01%
+Cluster 164080
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	NAD-dependent formate dehydrogenase, beta subunit, putative	AAO81180
+fig|588.149.peg.3764!!!NAD-dependent!formate!dehydrogenase!beta!subunit!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 134397
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.2336!!!Na(+)-dependent!branched-chain!amino!acid!transporter!!![Providencia!stuartii!strain!AS012498!|!588.149]	75.17%
+Cluster 702342
+31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	No	Gammaproteobacteria	30S ribosomal protein S17	ACX95195
+fig|588.149.peg.185!!!SSU!ribosomal!protein!S17p!(S11e)!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.86%
+Cluster 335318
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	transcriptional regulator, AraC family	ABV39943
+fig|588.149.peg.1218!!!N,N'-diacetylchitobiose-specific!regulator!ChbR,!AraC!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.84%
+Cluster 343653
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	ribosomal protein L1	ACG65011
+fig|588.149.peg.1651!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Providencia!stuartii!strain!AS012498!|!588.149]	81.12%
+Cluster 210993
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative type III secretion apparatus protein	CAL13561
+fig|588.149.peg.1468!!!Type!III!secretion!inner!membrane!protein!(YscU,SpaS,EscU,HrcU,SsaU,!homologous!to!flagellar!export!components)!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.66%
+Cluster 173125
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.2890!!!Multidrug!resistance!transporter,!Bcr/CflA!family!/!5-carboxymethyl-2-hydroxymuconate!semialdehyde!dehydrogenase!(EC!1.2.1.60)!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.38%
+Cluster 587242
+29065	CP001085	Candidatus Riesia pediculicola USDA, complete genome.	No	Gammaproteobacteria	ribosomal protein S11	ADD79935
+fig|588.149.peg.199!!!SSU!ribosomal!protein!S11p!(S14e)!!![Providencia!stuartii!strain!AS012498!|!588.149]	79.84%
+Cluster 271137
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	methyltransferase	ACX87869
+fig|588.149.peg.71!!!tRNA!ho5U(34)!carboxymethyltransferase!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.92%
+Cluster 1006
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.2042!!!Polyketide!synthase!modules!and!related!proteins!!![Providencia!stuartii!strain!AS012498!|!588.149]	99.95%
+Cluster 131949
+16187	CP000510	Psychromonas ingrahamii 37, complete genome.	No	Gammaproteobacteria	signal recognition particle-docking protein FtsY	ABM02476
+fig|588.149.peg.2644!!!Signal!recognition!particle!receptor!FtsY!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.29%
+Cluster 488886
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	Mammalian cell entry related domain protein	ACZ75191
+fig|588.149.peg.4718!!!Phospholipid!ABC!transporter!substrate-binding!protein!MlaD!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.09%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|588.149.peg.1650!!!LSU!ribosomal!protein!L11p!(L12e)!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.08%
+Cluster 100739
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.3303!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	73.36%
+Cluster 453585
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE05950
+fig|588.149.peg.3932!!!UPF0234!protein!Yitk!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.78%
+Cluster 527178
+29177	CP001339	Thioalkalivibrio sp. HL-EbGR7, complete genome.	No	Gammaproteobacteria	peptide deformylase	ACL71294
+fig|588.149.peg.1413!!!Peptide!deformylase!(EC!3.5.1.88)!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.22%
+Cluster 518370
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	3-isopropylmalate dehydratase small subunit 1 (Isopropylmalate isomerase 1) (Alpha-IPM isomerase 1) (IPMI 1)	CBJ80586
+fig|588.149.peg.2286!!!3-isopropylmalate!dehydratase!small!subunit!(EC!4.2.1.33)!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.33%
+Cluster 247799
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.1836!!!Chromosome!partitioning!ATPase!in!PFGI-1-like!cluster,!ParA-like!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.17%
+Cluster 649701
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	integration host factor beta-subunit	CAL17192
+fig|588.149.peg.4564!!!Integration!host!factor!beta!subunit!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.74%
+Cluster 448548
+33369	CU928144	Escherichia fergusonii str. ATCC 35469T plasmid pEFER, complete genome.	Yes	Gammaproteobacteria	TetC, putative Transcriptional regulator	CAQ86951
+fig|588.149.peg.3517!!!Transcriptional!regulator,!AcrR!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 2938
+16	CP001157	Azotobacter vinelandii DJ, complete genome.	No	Gammaproteobacteria	Cellulose synthase subunit AB	ACO76762
+fig|588.149.peg.2882!!!Cellulose!synthase!catalytic!subunit![UDP-forming]!(EC!2.4.1.12)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.68%
+Cluster 503148
+312	AE013218	Buchnera aphidicola str. Sg (Schizaphis graminum), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L6	AAM68033
+fig|588.149.peg.191!!!LSU!ribosomal!protein!L6p!(L9e)!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.15%
+Cluster 56810
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative lipase protein	CBJ80630
+fig|588.149.peg.759!!!Lipase!TseL!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.83%
+Cluster 666509
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAV02134
+fig|588.149.peg.1331!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Providencia!stuartii!strain!AS012498!|!588.149]	80.60%
+fig|588.149.peg.651!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Providencia!stuartii!strain!AS012498!|!588.149]	73.85%
+Cluster 689314
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative exported protein	CAG76555
+fig|588.149.peg.667!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.04%
+Cluster 124918
+30817	CP001154	Laribacter hongkongensis HLHK9, complete genome.	Yes	Betaproteobacteria	probable drug efflux pump transmembrane protein	ACO74277
+fig|588.149.peg.2349!!!Multidrug!efflux!system!MdtABC-TolC,!inner-membrane!proton/drug!antiporter!MdtB!(RND!type)!!![Providencia!stuartii!strain!AS012498!|!588.149]	66.52%
+Cluster 419223
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	FabA	ABJ00363
+fig|588.149.peg.4447!!!3-hydroxyacyl-[acyl-carrier-protein]!dehydratase,!FabA!form!(EC!4.2.1.59)!@!Trans-2-decenoyl-[acyl-carrier-protein]!isomerase!(EC!5.3.3.14)!!![Providencia!stuartii!strain!AS012498!|!588.149]	86.05%
+Cluster 409386
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative lipoprotein with tetratricopeptide repeats (TPR) domain	CBJ82378
+fig|588.149.peg.4058!!!Outer!membrane!beta-barrel!assembly!protein!BamD!!![Providencia!stuartii!strain!AS012498!|!588.149]	71.31%
+Cluster 477734
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR75674
+fig|588.149.peg.1227!!!D-glycero-beta-D-manno-heptose-1,7-bisphosphate!7-phosphatase!(EC!3.1.3.82)!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.96%
+Cluster 669350
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative ribosomal protein	AAS61062
+fig|588.149.peg.2947!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-independent!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.44%
+Cluster 267702
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11918
+fig|588.149.peg.1019!!!ATP!phosphoribosyltransferase!(EC!2.4.2.17)!=>!HisGl!!![Providencia!stuartii!strain!AS012498!|!588.149]	85.95%
+Cluster 549785
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAY93832
+fig|588.149.peg.4383!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.01%
+Cluster 44000
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.1937!!!PTS!system,!N-acetylglucosamine-specific!IIC!component!/!PTS!system,!N-acetylglucosamine-specific!IIB!component!(EC!2.7.1.193)!/!PTS!system,!N-acetylglucosamine-specific!IIA!component!(EC!2.7.1.193)!!![Providencia!stuartii!strain!AS012498!|!588.149]	78.37%
+Cluster 492488
+29443	CP001707	Kangiella koreensis DSM 16069, complete genome.	No	Gammaproteobacteria	ribosomal protein L21	ACV27086
+fig|588.149.peg.535!!!LSU!ribosomal!protein!L21p!!![Providencia!stuartii!strain!AS012498!|!588.149]	65.69%
+Cluster 532700
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Aspartate transcarbamylase regulatory subunit PyrI	CAX54135
+fig|588.149.peg.991!!!Aspartate!carbamoyltransferase!regulatory!chain!(PyrI)!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.18%
+Cluster 298919
+17707	CP001124	Geobacter bemidjiensis Bem, complete genome.	No	Deltaproteobacteria	succinyl-CoA synthetase, alpha subunit	ACH38483
+fig|588.149.peg.3107!!!Succinyl-CoA!ligase![ADP-forming]!alpha!chain!(EC!6.2.1.5)!!![Providencia!stuartii!strain!AS012498!|!588.149]	67.93%
+Cluster 221265
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU75923
+fig|588.149.peg.4875!!!DNA!repair!protein!RecN!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.73%
+Cluster 436459
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.4537!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.14%
+Cluster 642064
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	major cold shock protein	AAW75975
+fig|588.149.peg.3740!!!Cold!shock!protein!of!CSP!family!=>!CspC!(naming!convention!as!in!E.coli)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.00%
+Cluster 3232
+13384	CP000482	Pelobacter propionicus DSM 2379, complete genome.	No	Deltaproteobacteria	DNA-directed RNA polymerase, beta' subunit	ABK98305
+fig|588.149.peg.1073!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Providencia!stuartii!strain!AS012498!|!588.149]	60.31%
+Cluster 394450
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	LexA	ADD75423
+fig|588.149.peg.4403!!!SOS-response!repressor!and!protease!LexA!(EC!3.4.21.88)!!![Providencia!stuartii!strain!AS012498!|!588.149]	82.13%
+Cluster 616766
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	hypothetical phage protein	BAE74943
+fig|588.149.peg.556!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	76.69%
+Cluster 283962
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	regulatory protein, LysR:LysR, substrate-binding	AAY35109
+fig|588.149.peg.3828!!!Transcriptional!regulator,!LysR!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.41%
+Cluster 507333
+17407	CP000870	Burkholderia multivorans ATCC 17616 chromosome 3, complete sequence.	Yes	Betaproteobacteria	Tripartite ATP-independent periplasmic transporter DctQ component	ABX19638
+fig|588.149.peg.3430!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.90%
+Cluster 42135
+386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Yes	Gammaproteobacteria	putative tail fiber protein	ABJ15584
+fig|588.149.peg.3798!!!pyocin!R2_PP,!tail!fiber!protein,!putative!!![Providencia!stuartii!strain!AS012498!|!588.149]	98.75%
+Cluster 461778
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.4262!!!MunI-like!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.00%
+Cluster 481359
+31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Yes	Gammaproteobacteria	hypothetical protein	CAW28844
+fig|588.149.peg.3796!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	88.75%
+Cluster 25911
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	sulfate adenylyltransferase, large subunit	ACL56789
+fig|588.149.peg.392!!!Sulfate-binding!protein!Sbp!!![Providencia!stuartii!strain!AS012498!|!588.149]	61.26%
+Cluster 114214
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative monooxygenase	AAS63755
+fig|588.149.peg.2312!!!2-polyprenylphenol!hydroxylase!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.44%
+Cluster 162352
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	isocitrate dehydrogenase (NADP)	ABM42459
+fig|588.149.peg.754!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.58%
+Cluster 485412
+245	BA000003	Buchnera aphidicola str. APS (Acyrthosiphon pisum) genomic DNA, complete sequence.	No	Gammaproteobacteria	50S ribosomal protein L4	BAB13216
+fig|588.149.peg.177!!!LSU!ribosomal!protein!L4p!(L1e)!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.63%
+Cluster 20515
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	leucyl-tRNA synthetase	ABF13994
+fig|588.149.peg.4949!!!Leucyl-tRNA!synthetase!(EC!6.1.1.4)!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.88%
+Cluster 95501
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobyric acid synthase	CBJ79977
+fig|588.149.peg.1517!!!Cobyric!acid!synthase!(EC!6.3.5.10)!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.53%
+fig|588.149.peg.2827!!!Cobyric!acid!synthase!(EC!6.3.5.10)!!![Providencia!stuartii!strain!AS012498!|!588.149]	92.31%
+Cluster 534402
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69431
+fig|588.149.peg.1084!!!Protein!translocase!membrane!subunit!SecG!!![Providencia!stuartii!strain!AS012498!|!588.149]	78.57%
+Cluster 45638
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13290
+fig|588.149.peg.4582!!!Ribosomal!protein!S12p!methylthiotransferase!accessory!factor!YcaO!!![Providencia!stuartii!strain!AS012498!|!588.149]	79.45%
+Cluster 511321
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	SufE protein probably involved in Fe-S center assembly	AAS62393
+fig|588.149.peg.2108!!!Sulfur!acceptor!protein!=>!iron-sulfur!cluster!assembly!SufE!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.49%
+Cluster 351220
+65	AE001825	Deinococcus radiodurans R1 chromosome 2, complete sequence.	No	Deinococci	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	AAF12475
+fig|588.149.peg.2887!!!2,4-dihydroxyhept-2-ene-1,7-dioic!acid!aldolase!(EC!4.1.2.52)!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.93%
+Cluster 669352
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS61209
+fig|588.149.peg.2764!!!UPF0410!protein!YeaQ!!![Providencia!stuartii!strain!AS012498!|!588.149]	72.29%
+Cluster 124499
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	UNKNOWN	BAC51406
+fig|588.149.peg.3949!!!Metal-dependent!phosphohydrolase,!HD!subdomain!!![Providencia!stuartii!strain!AS012498!|!588.149]	63.64%
+Cluster 313423
+17827	CP000863	Acinetobacter baumannii ACICU, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACC55625
+fig|588.149.peg.4217!!!hypothetical!protein!!![Providencia!stuartii!strain!AS012498!|!588.149]	100.00%
+Cluster 23296
+285	AE009442	Xylella fastidiosa Temecula1, complete genome.	No	Gammaproteobacteria	ATP-dependent serine proteinase La	AAO28351
+fig|588.149.peg.599!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Providencia!stuartii!strain!AS012498!|!588.149]	62.36%
+Cluster 604531
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR68071
+fig|588.149.peg.2648!!!Uncharacterized!protein!YaeR!with!similarity!to!glyoxylase!family!!![Providencia!stuartii!strain!AS012498!|!588.149]	64.84%
+Cluster 125040
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR12859
+fig|588.149.peg.3407!!!Putative!DNA!processing!chain!A!!![Providencia!stuartii!strain!AS012498!|!588.149]	73.05%
+Cluster 600991
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|588.149.peg.2130!!!Antirestriction!protein!klcA!!![Providencia!stuartii!strain!AS012498!|!588.149]	68.84%
+fig|588.149.peg.4419!!!Antirestriction!protein!klcA!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.49%
+fig|588.149.peg.2026!!!Antirestriction!protein!klcA!!![Providencia!stuartii!strain!AS012498!|!588.149]	69.41%
+fig|588.149.peg.2027!!!Antirestriction!protein!klcA!!![Providencia!stuartii!strain!AS012498!|!588.149]	92.31%
+Cluster 703025
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L35	AAX88440
+fig|588.149.peg.4357!!!LSU!ribosomal!protein!L35p!!![Providencia!stuartii!strain!AS012498!|!588.149]	83.08%
+Cluster 650300
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|588.149.peg.4009!!!Antitoxin!HigA!!![Providencia!stuartii!strain!AS012498!|!588.149]	74.07%

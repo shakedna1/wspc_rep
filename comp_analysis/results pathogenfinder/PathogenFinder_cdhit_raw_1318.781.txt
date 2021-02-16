@@ -1,0 +1,513 @@
+Cluster 627005
+27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Yes	Lactobacillales	24 DNA, complete genome.	BAH80871
+fig|1318.781.peg.1732|GMC66_08665!!!RNA-binding!protein!YhbY!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	84.47%
+Cluster 155286
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	membrane protein, putative	ABV09846
+fig|1318.781.peg.1562|GMC66_07750!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	60.94%
+Cluster 5236
+32195	FM179322	Lactobacillus rhamnosus GG whole genome sequence, strain GG (ATCC 53103).	No	Lactobacillales	DNA-directed RNA polymerase, beta chain	CAR88392
+fig|1318.781.peg.1015|GMC66_05045!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	72.47%
+Cluster 423948
+13163	CP000024	Streptococcus thermophilus CNRZ1066, complete genome.	No	Lactobacillales	cell division ATP-binding protein	AAV62693
+fig|1318.781.peg.854|GMC66_04190!!!Cell-division-associated,!ABC-transporter-like!signaling!protein!FtsE!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	74.35%
+Cluster 151895
+13773	CP000419	Streptococcus thermophilus LMD-9, complete genome.	No	Lactobacillales	cellobiose-specific PTS system IIC component	ABJ66499
+fig|1318.781.peg.25|GMC66_00090!!!PTS!system,!cellobiose-specific!IIC!component!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	73.02%
+Cluster 204117
+16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Yes	Lactobacillales	ABC transporter permease protein	CBJ21670
+fig|1318.781.peg.821|GMC66_04025!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	93.96%
+Cluster 356959
+16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Yes	Lactobacillales	conserved hypothetical protein	CBJ22354
+fig|1318.781.peg.297|GMC66_01440!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	91.19%
+fig|1318.781.peg.306|GMC66_01485!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	89.69%
+fig|1318.781.peg.312|GMC66_01510!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	90.08%
+fig|1318.781.peg.318|GMC66_01535!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	91.09%
+Cluster 734774
+12469	CP000003	Streptococcus pyogenes MGAS10394, complete genome.	Yes	Lactobacillales	Hypothetical cytosolic protein	AAT86650
+fig|1318.781.peg.880|GMC66_04315!!!bacterial!seryl-tRNA!synthetase!related!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	85.71%
+Cluster 603947
+17155	CP000408	Streptococcus suis 98HAH33, complete genome.	Yes	Lactobacillales	Predicted transcriptional regulator	ABP91322
+fig|1318.781.peg.1591|GMC66_07890!!!Transcriptional!regulator,!repressor!of!the!glutamine!synthetase,!MerR!family!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	68.07%
+Cluster 95869
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Glutathione reductase, putative	ABN44926
+fig|1318.781.peg.876|GMC66_04295!!!Glutathione!reductase!(EC!1.8.1.7)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	83.74%
+Cluster 499964
+16363	CP000259	Streptococcus pyogenes MGAS9429, complete genome.	Yes	Lactobacillales	hypothetical cytosolic protein	ABF32775
+fig|1318.781.peg.1564|GMC66_07760!!!Transcriptional!regulator!OrfX!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	76.22%
+Cluster 285384
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	ABC-type phosphate transport system, permease component	ABJ64926
+fig|1318.781.peg.219|GMC66_01060!!!Phosphate!ABC!transporter,!permease!protein!PstC!(TC!3.A.1.7.1)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	60.07%
+Cluster 415031
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	response regulator	AAV60250
+fig|1318.781.peg.226|GMC66_01095!!!Response!regulator!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	80.93%
+Cluster 248948
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	DTDP-4-dehydrorhamnose 3,5-epimerase, putative	ABN45706
+fig|1318.781.peg.470|GMC66_02305!!!FIG036672:!Nucleoside-diphosphate-sugar!epimerase!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	61.85%
+Cluster 506781
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	peptidyl-tRNA hydrolase	AAV59735
+fig|1318.781.peg.1706|GMC66_08465!!!Peptidyl-tRNA!hydrolase!(EC!3.1.1.29)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	70.37%
+Cluster 351242
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	aminoglycoside adenylyltransferase	ABV09589
+fig|1318.781.peg.399|GMC66_01940!!!weak!similarity!to!aminoglycoside!nucleotidyltransferase!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	69.12%
+Cluster 376422
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	MutT/nudix family protein	ABV09739
+fig|1318.781.peg.1978|GMC66_09895!!!Nudix-related!transcriptional!regulator!NrtR!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	78.68%
+Cluster 8779
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	LPXTG cell wall surface protein, zinc carboxypeptidase family	ABV10650
+fig|1318.781.peg.1160|GMC66_05775!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	67.81%
+Cluster 715593
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	ABV10110
+fig|1318.781.peg.1119|GMC66_05570!!!Putative!secretion!accessory!protein!EsaB/YukD!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.50%
+Cluster 731575
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	ABV11026
+fig|1318.781.peg.1239|GMC66_06180!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	85.92%
+Cluster 619336
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved hypothetical protein	ABN45729
+fig|1318.781.peg.1690|GMC66_08370!!!Uncharacterized!S4!RNA-binding-domain!protein!YbcJ!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	61.67%
+Cluster 312450
+401	CP000425	Lactococcus lactis subsp. cremoris SK11, complete genome.	No	Lactobacillales	ABC-type sugar transport system, permease component	ABJ72320
+fig|1318.781.peg.773|GMC66_03785!!!ABC!transporter,!permease!protein!2!(cluster!1,!maltose/g3p/polyamine/iron)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	71.81%
+Cluster 386295
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved hypothetical protein	ABN44110
+fig|1318.781.peg.1783|GMC66_08920!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	66.54%
+Cluster 134693
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Cationic amino acid transporter, putative	ABN43880
+fig|1318.781.peg.1469|GMC66_07310!!!Uncharacterized!amino!acid!permease,!GabP!family!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	75.84%
+Cluster 531525
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	50S ribosomal protein L19	ACP26950
+fig|1318.781.peg.351|GMC66_01695!!!LSU!ribosomal!protein!L19p!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	61.74%
+Cluster 206624
+76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	No	Bacillales	L-alanine dehydrogenase	CAB15181
+fig|1318.781.peg.1274|GMC66_06350!!!Alanine!dehydrogenase!(EC!1.4.1.1)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.97%
+Cluster 242672
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved hypothetical protein	ABN45473
+fig|1318.781.peg.1096|GMC66_05455!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	70.57%
+Cluster 379956
+72	AE005176	Lactococcus lactis subsp. lactis Il1403, complete genome.	No	Lactobacillales	dihydrodipicolinate reductase	AAK05659
+fig|1318.781.peg.593|GMC66_02900!!!4-hydroxy-tetrahydrodipicolinate!reductase!(EC!1.17.1.8)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	66.67%
+Cluster 355279
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved hypothetical protein	ABN45687
+fig|1318.781.peg.1483|GMC66_07380!!!Hydrolase,!haloacid!dehalogenase-like!family!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	64.31%
+Cluster 639321
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	SSU ribosomal protein S19P	ABP89047
+fig|1318.781.peg.1923|GMC66_09620!!!SSU!ribosomal!protein!S19p!(S15e)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	100.00%
+Cluster 290940
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	3-oxoacyl-[acyl-carrier-protein] synthase III, putative	ABN45703
+fig|1318.781.peg.473|GMC66_02320!!!3-oxoacyl-[acyl-carrier-protein]!synthase!(EC!2.3.1.41)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	77.07%
+Cluster 154865
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Glycosyl transferase, putative	ABN44721
+fig|1318.781.peg.396|GMC66_01925!!!Glycosyltransferase!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	73.77%
+Cluster 50073
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	amylase-binding protein B	ABV10415
+fig|1318.781.peg.1951|GMC66_09760!!!Probable!dipeptidase!B!(EC!3.4.-.-)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	82.25%
+Cluster 254363
+28997	AP010655	Streptococcus mutans NN2025 DNA, complete genome.	Yes	Lactobacillales	hypothetical protein	BAH88394
+fig|1318.781.peg.72|GMC66_00325!!!UPF0213!protein!YazA!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.07%
+Cluster 734882
+28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Yes	Lactobacillales	ferredoxin	ACO22297
+fig|1318.781.peg.253|GMC66_01230!!!Ferredoxin!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	69.70%
+Cluster 265806
+16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Yes	Lactobacillales	sugar-binding transcriptional regulator, LacI family protein	ABJ53841
+fig|1318.781.peg.1785|GMC66_08930!!!Sucrose!operon!repressor!(SCR!operon!regulatory!protein)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	64.35%
+Cluster 126361
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	D-Alanyl-D-Alanine carboxypeptidase	ABV11076
+fig|1318.781.peg.94|GMC66_00435!!!D-alanyl-D-alanine!carboxypeptidase!(EC!3.4.16.4)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	65.62%
+Cluster 88760
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	Non-ribosomal peptide synthetase modules and related proteins	ABP89604
+fig|1318.781.peg.1656|GMC66_08205!!!D-alanine--poly(phosphoribitol)!ligase!subunit!1!(EC!6.1.1.13)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	72.48%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|1318.781.peg.932|GMC66_04560!!!SSU!ribosomal!protein!S12p!(S23e)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	66.42%
+Cluster 608693
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	hypothetical protein	ABV10671
+fig|1318.781.peg.1458|GMC66_07255!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	67.41%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|1318.781.peg.944|GMC66_04630!!!LSU!ribosomal!protein!L34p!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	68.18%
+Cluster 652786
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Transcriptional regulator, XRE family, putative	ABN43753
+fig|1318.781.peg.1487|GMC66_07395!!!Transcriptional!regulator,!MerR!family!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	98.28%
+Cluster 416584
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	ABC transporter membrane-spanning protein	AAV60253
+fig|1318.781.peg.228|GMC66_01105!!!ABC!transporter,!permease!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	78.75%
+Cluster 504172
+16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Yes	Lactobacillales	transcriptional regulator, TetR family	CBJ21668
+fig|1318.781.peg.823|GMC66_04035!!!Transcriptional!regulator,!TetR!family!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	97.38%
+Cluster 539853
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved hypothetical protein	ABN45180
+fig|1318.781.peg.1359|GMC66_06775!!!putative!arylalkylamine!n-acetyltransferase!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	65.29%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|1318.781.peg.865|GMC66_04245!!!Translation!elongation!factor!Tu!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.81%
+Cluster 604367
+30767	FM204884	Streptococcus equi subsp. zooepidemicus H70, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	CAX00566
+fig|1318.781.peg.354|GMC66_01715!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.86%
+Cluster 604365
+30767	FM204884	Streptococcus equi subsp. zooepidemicus H70, complete genome.	Yes	Lactobacillales	hypothetical protein	CAX00541
+fig|1318.781.peg.746|GMC66_03650!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	60.87%
+Cluster 14634
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	cbxX/cfqX family protein	ABV10351
+fig|1318.781.peg.1135|GMC66_05650!!!Stage!V!sporulation!protein!K!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	83.58%
+Cluster 523785
+28041	CP000920	Streptococcus pneumoniae P1031, complete genome.	Yes	Lactobacillales	prophage LambdaSa2, site-specific recombinase, phage integrase family	ACO20379
+fig|1318.781.peg.174|GMC66_00830!!!Phage!integrase!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	96.11%
+Cluster 506687
+40837	CP001758	Leuconostoc kimchii IMSNU 11154, complete genome.	No	Lactobacillales	hypothetical protein	ADG41316
+fig|1318.781.peg.1716|GMC66_08585!!!DUF402!family!nucleoside!diphosphatase!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	75.14%
+Cluster 661532
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	conserved hypothetical protein	AAV61555
+fig|1318.781.peg.1619|GMC66_08030!!!UPF0473!protein!YrzB!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	84.16%
+Cluster 421974
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	ribonucleoside-triphosphate reductase class III activase subunit	ABJ59551
+fig|1318.781.peg.1610|GMC66_07985!!!Ribonucleotide!reductase!of!class!III!(anaerobic),!activating!protein!(EC!1.97.1.4)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	63.18%
+Cluster 692413
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved uncharacterized protein	ABN45644
+fig|1318.781.peg.1116|GMC66_05555!!!6!kDa!early!secretory!antigenic!target!ESAT-6!(EsxA)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	81.05%
+Cluster 647210
+16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Yes	Lactobacillales	conserved hypothetical protein	CBJ23113
+fig|1318.781.peg.1188|GMC66_05915!!!ACT!domain!protein!CAC_0478!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	82.95%
+Cluster 548830
+9638	AE017198	Lactobacillus johnsonii NCC 533, complete genome.	No	Lactobacillales	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIB, probable mannose specific	AAS09428
+fig|1318.781.peg.1046|GMC66_05200!!!PTS!system,!fructose-!and!mannose-inducible!IIB!component!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	65.85%
+Cluster 568714
+28997	AP010655	Streptococcus mutans NN2025 DNA, complete genome.	Yes	Lactobacillales	putative cytidine deaminase	BAH87945
+fig|1318.781.peg.666|GMC66_03250!!!Cytidine!deaminase!(EC!3.5.4.5)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	68.22%
+Cluster 67590
+16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Yes	Lactobacillales	ABC transporter, permease and ATP-binding protein, multidrug export	CBJ23074
+fig|1318.781.peg.1434|GMC66_07135!!!Heterodimeric!efflux!ABC!transporter,!permease/ATP-binding!subunit!2!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	66.55%
+Cluster 705213
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	component involved in D-alanylation of teichoic acids, putative	AAV60451
+fig|1318.781.peg.1657|GMC66_08210!!!Component!involved!in!D-alanylation!of!teichoic!acids!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	69.05%
+Cluster 293355
+13163	CP000024	Streptococcus thermophilus CNRZ1066, complete genome.	No	Lactobacillales	ABC transporter permease protein, putative malate permease	AAV61802
+fig|1318.781.peg.1501|GMC66_07465!!!Malate!permease!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	87.82%
+Cluster 572174
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	ABV09674
+fig|1318.781.peg.977|GMC66_04795!!!Amidase!from!nicotinamidase!family!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	83.44%
+Cluster 186903
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Ceramide glucosyltransferase, putative	ABN44723
+fig|1318.781.peg.394|GMC66_01915!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	82.11%
+Cluster 260327
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Competence protein ComYB, putative	ABN43647
+fig|1318.781.peg.1023|GMC66_05080!!!Late!competence!protein!ComGB,!access!of!DNA!to!ComEA!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	71.00%
+Cluster 18654
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	magnesium-translocating P-type ATPase	ABV09442
+fig|1318.781.peg.1310|GMC66_06530!!!Mg(2+)!transport!ATPase,!P-type!(EC!3.6.3.2)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	84.09%
+Cluster 651186
+401	CP000425	Lactococcus lactis subsp. cremoris SK11, complete genome.	No	Lactobacillales	DNA-directed RNA polymerase, subunit K/omega	ABJ73630
+fig|1318.781.peg.2019|GMC66_10105!!!DNA-directed!RNA!polymerase!omega!subunit!(EC!2.7.7.6)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	61.54%
+Cluster 624207
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved hypothetical protein	ABN44339
+fig|1318.781.peg.14|GMC66_00040!!!Probable!type!II!DNA!modification!enzyme!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	67.20%
+Cluster 761096
+28997	AP010655	Streptococcus mutans NN2025 DNA, complete genome.	Yes	Lactobacillales	hypothetical protein	BAH87693
+fig|1318.781.peg.1018!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	69.57%
+Cluster 569190
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	Conserved  hypothetical, predicted membrane protein (TMS4)	AAV59804
+fig|1318.781.peg.1989|GMC66_09950!!!small!multidrug!export!protein!(qacE)!homolog!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	82.05%
+Cluster 42046
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	bacteriocin-associated integral membrane protein subfamily	ABV10887
+fig|1318.781.peg.502|GMC66_02450!!!immunity!protein,!probable!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	78.18%
+Cluster 437891
+40837	CP001758	Leuconostoc kimchii IMSNU 11154, complete genome.	No	Lactobacillales	ribosomal protein L3	ADG40842
+fig|1318.781.peg.1919|GMC66_09600!!!LSU!ribosomal!protein!L3p!(L3e)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	69.71%
+Cluster 683838
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	30S ribosomal protein S17	ADB77048
+fig|1318.781.peg.1928|GMC66_09645!!!SSU!ribosomal!protein!S17p!(S11e)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	60.47%
+Cluster 204020
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved hypothetical protein	ABN43747
+fig|1318.781.peg.1495|GMC66_07435!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	86.35%
+Cluster 140854
+72	AE005176	Lactococcus lactis subsp. lactis Il1403, complete genome.	No	Lactobacillales	polysacharide biosynthesis protein	AAK05892
+fig|1318.781.peg.1245|GMC66_06210!!!Undecaprenyl-phosphate!alpha-N-acetylglucosaminyl!1-phosphate!transferase!(EC!2.7.8.33)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.08%
+Cluster 213013
+18737	CP000837	Streptococcus suis GZ1, complete genome.	Yes	Lactobacillales	glucose-6-phosphate isomerase	ADE32318
+fig|1318.781.peg.1962|GMC66_09815!!!Glucose-6-phosphate!isomerase!(EC!5.3.1.9)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	88.24%
+Cluster 71007
+17155	CP000408	Streptococcus suis 98HAH33, complete genome.	Yes	Lactobacillales	ABC-type multidrug transport system, ATPase and permease component	ABP92577
+fig|1318.781.peg.1271|GMC66_06335!!!Heterodimeric!efflux!ABC!transporter,!multidrug!resistance!=>!BmrC!subunit!of!BmrCD!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	60.63%
+Cluster 198549
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved hypothetical protein	ABN44156
+fig|1318.781.peg.83|GMC66_00380!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	65.22%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|1318.781.peg.1944|GMC66_09725!!!SSU!ribosomal!protein!S11p!(S14e)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	71.65%
+Cluster 108654
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	Homoserine dehydrogenase	ABP89768
+fig|1318.781.peg.728|GMC66_03560!!!Homoserine!dehydrogenase!(EC!1.1.1.3)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	75.70%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|1318.781.peg.1929|GMC66_09650!!!LSU!ribosomal!protein!L14p!(L23e)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	77.05%
+Cluster 616836
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	Predicted membrane protein	ABP90101
+fig|1318.781.peg.1906|GMC66_09535!!!putative!membrane!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	68.33%
+Cluster 461230
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	predicted uracil-DNA glycosylase	AAX87280
+fig|1318.781.peg.678|GMC66_03310!!!Hypothetical!protein!VC0266!(sugar!utilization!related?)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	64.95%
+Cluster 501768
+28041	CP000920	Streptococcus pneumoniae P1031, complete genome.	Yes	Lactobacillales	prophage pi2 protein 39	ACO20156
+fig|1318.781.peg.190|GMC66_00910!!!prophage!pi2!protein!39!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	72.11%
+Cluster 300529
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	cysteine synthase	ABQ84031
+fig|1318.781.peg.2007|GMC66_10045!!!Cysteine!synthase!(EC!2.5.1.47)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	65.15%
+Cluster 392165
+286	AE009949	Streptococcus pyogenes MGAS8232, complete genome.	Yes	Lactobacillales	hypothetical phage protein	AAL97101
+fig|1318.781.peg.163|GMC66_00775!!!Phage!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	66.80%
+Cluster 677405
+16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	ABJ53845
+fig|1318.781.peg.1173|GMC66_05840!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	94.57%
+Cluster 338854
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	sortase B	ABV11136
+fig|1318.781.peg.1823|GMC66_09120!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	69.15%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|1318.781.peg.1942|GMC66_09715!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	78.95%
+Cluster 439046
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	SatD-like protein	ABV10802
+fig|1318.781.peg.513|GMC66_02505!!!SatD!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	73.78%
+Cluster 281614
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	ABV10442
+fig|1318.781.peg.946|GMC66_04640!!!RNA-binding!protein!Jag!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	77.46%
+Cluster 464922
+19619	CP000817	Lysinibacillus sphaericus C3-41, complete genome.	No	Bacillales	Uridine kinase	ACA41339
+fig|1318.781.peg.781|GMC66_03825!!!Uridine!kinase!(EC!2.7.1.48)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	61.32%
+Cluster 587290
+16871	CR954253	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 complete genome.	No	Lactobacillales	50S ribosomal protein L16	CAI97238
+fig|1318.781.peg.1926|GMC66_09635!!!LSU!ribosomal!protein!L16p!(L10e)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	82.48%
+Cluster 433519
+28997	AP010655	Streptococcus mutans NN2025 DNA, complete genome.	Yes	Lactobacillales	putative response regulator	BAH88021
+fig|1318.781.peg.1514|GMC66_07525!!!Two-component!transcriptional!response!regulator,!OmpR!family!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	69.87%
+Cluster 312163
+20391	CP000813	Bacillus pumilus SAFR-032, complete genome.	No	Bacillales	L-serine ammonia-lyase alpha chain	ABV62168
+fig|1318.781.peg.1680|GMC66_08320!!!L-serine!dehydratase,!alpha!subunit!(EC!4.3.1.17)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.07%
+Cluster 532953
+28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Yes	Lactobacillales	transposase	ACO19605
+fig|1318.781.peg.745|GMC66_03645!!!Mobile!element!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	90.52%
+Cluster 560522
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	conserved hypothetical protein TIGR00150	ABV10119
+fig|1318.781.peg.2066|GMC66_10350!!!tRNA!threonylcarbamoyladenosine!biosynthesis!protein!TsaE!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	68.87%
+Cluster 517261
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	acetyltransferase, GNAT family	ABV09676
+fig|1318.781.peg.430|GMC66_02110!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	88.59%
+Cluster 667231
+18797	AM406671	Lactococcus lactis subsp. cremoris MG1363, complete genome.	No	Lactobacillales	conserved hypothetical protein	CAL98366
+fig|1318.781.peg.2055|GMC66_10295!!!COG2740:!Predicted!nucleic-acid-binding!protein!implicated!in!transcription!termination!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	60.20%
+Cluster 221558
+32587	CP001997	Aminobacterium colombiense DSM 12261, complete genome.	No	Synergistia	uracil phosphoribosyltransferase	ADE57013
+fig|1318.781.peg.1309|GMC66_06525!!!Uracil!phosphoribosyltransferase!(EC!2.4.2.9)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	65.07%
+Cluster 568508
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	LSU ribosomal protein L21P	ABJ60136
+fig|1318.781.peg.712|GMC66_03480!!!LSU!ribosomal!protein!L21p!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	66.35%
+Cluster 210785
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	GMP reductase	ABP89781
+fig|1318.781.peg.452|GMC66_02215!!!GMP!reductase!(EC!1.7.1.7)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	89.91%
+Cluster 73159
+13163	CP000024	Streptococcus thermophilus CNRZ1066, complete genome.	No	Lactobacillales	polysaccharide biosynthesis protein/putative glycosyltransferase	AAV63004
+fig|1318.781.peg.249|GMC66_01210!!!putative!glycosyltransferase!-!possibly!involved!in!cell!wall!localization!and!side!chain!formation!of!rhamnose-glucose!polysaccharide!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	92.93%
+Cluster 605771
+28041	CP000920	Streptococcus pneumoniae P1031, complete genome.	Yes	Lactobacillales	prophage pi2 protein 40	ACO20726
+fig|1318.781.peg.191|GMC66_00915!!!Phage!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	65.15%
+Cluster 618248
+13773	CP000419	Streptococcus thermophilus LMD-9, complete genome.	No	Lactobacillales	Ribonuclease III family protein	ABJ65467
+fig|1318.781.peg.1156|GMC66_05755!!!Mini-ribonuclease!III!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	78.03%
+Cluster 740441
+16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	ABJ54199
+fig|1318.781.peg.1184|GMC66_05895!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	71.64%
+Cluster 633859
+29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Yes	Lactobacillales	ribosome-binding factor A	ACB89772
+fig|1318.781.peg.2052|GMC66_10280!!!Ribosome-binding!factor!A!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	92.24%
+Cluster 720422
+18797	AM406671	Lactococcus lactis subsp. cremoris MG1363, complete genome.	No	Lactobacillales	exodeoxyribonuclease VII, small subunit	CAL98265
+fig|1318.781.peg.1792|GMC66_08965!!!Exodeoxyribonuclease!VII!small!subunit!(EC!3.1.11.6)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	60.00%
+Cluster 560223
+29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Yes	Lactobacillales	mutT/nudix family protein	ACB89374
+fig|1318.781.peg.1674|GMC66_08295!!!MutT/Nudix!family!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	71.52%
+Cluster 336544
+16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Yes	Lactobacillales	regulatory protein RecX	CBJ21759
+fig|1318.781.peg.1717|GMC66_08590!!!Regulatory!protein!RecX!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	67.31%
+Cluster 321447
+28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Yes	Lactobacillales	sugar ABC transporter, permease protein	ACA36279
+fig|1318.781.peg.1870|GMC66_09350!!!ABC!transporter,!predicted!N-acetylneuraminate!transport!system!permease!protein!1!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	91.53%
+Cluster 157823
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	conserved hypothetical protein	AAV61546
+fig|1318.781.peg.568|GMC66_02780!!!Arylsulfatase!regulator!(Fe-S!oxidoreductase)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	82.21%
+Cluster 378077
+315	CP000414	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete genome.	No	Lactobacillales	ABC-type branched-chain amino acid transport systems, ATPase component	ABJ61599
+fig|1318.781.peg.1302|GMC66_06490!!!Branched-chain!amino!acid!ABC!transporter,!ATP-binding!protein!LivG!(TC!3.A.1.4.1)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	64.96%
+Cluster 137764
+13163	CP000024	Streptococcus thermophilus CNRZ1066, complete genome.	No	Lactobacillales	rRNA methyltransferase, putative	AAV62578
+fig|1318.781.peg.217|GMC66_01050!!!tRNA/rRNA!cytosine-C5-methyltransferase!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	67.05%
+Cluster 398321
+12469	CP000003	Streptococcus pyogenes MGAS10394, complete genome.	Yes	Lactobacillales	Phage-associated cell wall hydrolase	AAT87679
+fig|1318.781.peg.199|GMC66_00955!!!Phage!peptidoglycan!hydrolase!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	61.69%
+Cluster 705986
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	ABV11011
+fig|1318.781.peg.1722|GMC66_08615!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	75.00%
+Cluster 703700
+27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Yes	Lactobacillales	24 DNA, complete genome.	BAH80702
+fig|1318.781.peg.1810|GMC66_09050!!!Uncharacterized!transcriptional!regulator!YozG,!Cro/CI!family!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	67.65%
+Cluster 545470
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	Predicted transcriptional regulator	ABP89903
+fig|1318.781.peg.555|GMC66_02715!!!Epsilon!antitoxin!to!Zeta!toxin!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	82.91%
+Cluster 451189
+15771	CP000360	Candidatus Koribacter versatilis Ellin345, complete genome.	No	Candidatus Koribacter	LSU ribosomal protein L5P	ABF40240
+fig|1318.781.peg.1931|GMC66_09660!!!LSU!ribosomal!protein!L5p!(L11e)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	60.00%
+Cluster 114405
+16364	CP000260	Streptococcus pyogenes MGAS10270, complete genome.	Yes	Lactobacillales	hypothetical protein	ABF34976
+fig|1318.781.peg.1177|GMC66_05860!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	84.31%
+Cluster 298409
+16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Yes	Lactobacillales	acid phosphatase	CBJ23259
+fig|1318.781.peg.1095|GMC66_05450!!!Acid!phosphatase!(EC!3.1.3.2)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	82.11%
+Cluster 251457
+27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Yes	Lactobacillales	24 DNA, complete genome.	BAH82517
+fig|1318.781.peg.2000|GMC66_10010!!!Similar!to!ribosomal!large!subunit!pseudouridine!synthase!D,!Bacillus!subtilis!YhcT!type!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.37%
+Cluster 736720
+28245	CP000922	Anoxybacillus flavithermus WK1, complete genome.	No	Bacillales	Ribosomal protein L28	ACJ34142
+fig|1318.781.peg.1223|GMC66_06105!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	69.35%
+Cluster 495252
+27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Yes	Lactobacillales	24 DNA, complete genome.	BAH82059
+fig|1318.781.peg.1725|GMC66_08630!!!Acetyltransferase!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	61.86%
+Cluster 479184
+13887	CP000056	Streptococcus pyogenes MGAS6180, complete genome.	Yes	Lactobacillales	hypothetical cytosolic protein	AAX72200
+fig|1318.781.peg.446|GMC66_02185!!!FIG01197404:!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	71.22%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|1318.781.peg.1943|GMC66_09720!!!SSU!ribosomal!protein!S13p!(S18e)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	66.12%
+Cluster 430524
+20739	CP001682	Cryptobacterium curtum DSM 15641, complete genome.	Yes	Coriobacteridae	uncharacterized conserved protein	ACU93904
+fig|1318.781.peg.1207|GMC66_06010!!!FIG01115585:!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	61.04%
+Cluster 10472
+326	CP000114	Streptococcus agalactiae A909, complete genome.	Yes	Lactobacillales	prophage LambdaSa04, tail tape measure protein, TP901 family	ABA44395
+fig|1318.781.peg.192|GMC66_00920!!!Phage!tail!length!tape-measure!protein!T!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	61.46%
+Cluster 279430
+315	CP000414	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293, complete genome.	No	Lactobacillales	glucokinase	ABJ61786
+fig|1318.781.peg.589|GMC66_02880!!!Glucokinase!(EC!2.7.1.2)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	60.82%
+Cluster 446857
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	Predicted membrane protein	ABP89722
+fig|1318.781.peg.397|GMC66_01930!!!Acyl-phosphate:glycerol-3-phosphate!O-acyltransferase!PlsY!(EC!2.3.1.n3)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	68.22%
+Cluster 477586
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	conserved domain protein	ABV10932
+fig|1318.781.peg.779|GMC66_03815!!!Free!methionine-(R)-sulfoxide!reductase,!contains!GAF!domain!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	75.00%
+Cluster 588967
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Acetyltransferase, GNAT family, putative	ABN44355
+fig|1318.781.peg.208|GMC66_01005!!!Acetyltransferase,!GNAT!family!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	93.88%
+Cluster 715744
+16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Yes	Lactobacillales	conserved hypothetical protein	CBJ21307
+fig|1318.781.peg.1703|GMC66_08450!!!Uncharacterized!protein!CAC3725!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	79.37%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|1318.781.peg.1941|GMC66_09710!!!Translation!initiation!factor!1!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	69.44%
+Cluster 700529
+28997	AP010655	Streptococcus mutans NN2025 DNA, complete genome.	Yes	Lactobacillales	hypothetical protein	BAH87033
+fig|1318.781.peg.1708|GMC66_08475!!!Ribosome-associated!heat!shock!protein!implicated!in!the!recycling!of!the!50S!subunit!(S4!paralog)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	84.09%
+Cluster 563668
+16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Yes	Lactobacillales	acetyltransferase, GNAT family protein	ABJ54366
+fig|1318.781.peg.459|GMC66_02250!!!Spermine/spermidine!acetyltransferase!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	73.58%
+Cluster 648965
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved hypothetical protein	ABN44930
+fig|1318.781.peg.881|GMC66_04320!!!FIG01114497:!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.86%
+Cluster 722482
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	hypothetical protein	ABP90464
+fig|1318.781.peg.840|GMC66_04120!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	70.49%
+Cluster 683266
+16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	ABJ53983
+fig|1318.781.peg.1145|GMC66_05700!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	75.68%
+Cluster 77659
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	DNA repair and genetic recombination protein	AAV60847
+fig|1318.781.peg.1796|GMC66_08985!!!DNA!repair!protein!RecN!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	72.10%
+Cluster 78282
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Dipeptidase, putative	ABN44982
+fig|1318.781.peg.1555|GMC66_07715!!!Probable!dipeptidase!B!(EC!3.4.-.-)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	70.89%
+Cluster 394178
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	triosephosphate isomerase	AAV60198
+fig|1318.781.peg.864|GMC66_04240!!!Triosephosphate!isomerase!(EC!5.3.1.1)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	96.83%
+Cluster 51598
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Hypothetical protein	ABN44675
+fig|1318.781.peg.2013|GMC66_10075!!!Choline!binding!protein!A!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	68.28%
+Cluster 261801
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved uncharacterized protein	ABN45471
+fig|1318.781.peg.1098|GMC66_05465!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	77.48%
+Cluster 334362
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	conserved hypothetical protein	AAV60984
+fig|1318.781.peg.26|GMC66_00095!!!Cell!surface!hydrolase!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	80.00%
+Cluster 539419
+28997	AP010655	Streptococcus mutans NN2025 DNA, complete genome.	Yes	Lactobacillales	putative flavodoxin	BAH87791
+fig|1318.781.peg.348|GMC66_01680!!!Flavodoxin!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	76.19%
+Cluster 582425
+16363	CP000259	Streptococcus pyogenes MGAS9429, complete genome.	Yes	Lactobacillales	hypothetical cytosolic protein	ABF32671
+fig|1318.781.peg.2073|GMC66_10385!!!Putative!regulator!of!the!mannose!operon,!ManO!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.30%
+Cluster 362813
+27731	CP001197	Desulfovibrio vulgaris str. 'Miyazaki F', complete genome.	No	Deltaproteobacteria	zinc/iron permease	ACL08859
+fig|1318.781.peg.788!!!Metal!transporter,!ZIP!family!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.90%
+Cluster 312490
+17155	CP000408	Streptococcus suis 98HAH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S2	ABP93142
+fig|1318.781.peg.1991|GMC66_09960!!!SSU!ribosomal!protein!S2p!(SAe)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	91.15%
+Cluster 679202
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved hypothetical protein	ABN45025
+fig|1318.781.peg.48|GMC66_00205!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	82.35%
+Cluster 469508
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	4-methyl-5(beta-hydroxyethyl)-thiazole monophosphate synthesis protein	ABV09364
+fig|1318.781.peg.1196|GMC66_05955!!!Intracellular!protease!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	72.86%
+Cluster 585959
+13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	No	Lactobacillales	H+-translocating ATPase epsilon subunit	AAV60195
+fig|1318.781.peg.120|GMC66_00565!!!ATP!synthase!epsilon!chain!(EC!3.6.3.14)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	66.19%
+Cluster 360876
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Inositol monophosphatase (Mg++ dependent), putative	ABN44361
+fig|1318.781.peg.216|GMC66_01045!!!Inositol-1-monophosphatase!(EC!3.1.3.25)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.11%
+Cluster 709448
+16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	ABJ54726
+fig|1318.781.peg.37|GMC66_00150!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	97.62%
+Cluster 126761
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Enzyme of poly-gamma-glutamate biosynthesis (capsule formation), putative	ABN43832
+fig|1318.781.peg.1527|GMC66_07585!!!Capsule!biosynthesis!protein!capA!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	62.86%
+Cluster 570518
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	putative hydrolase (MutT family)	ABP89457
+fig|1318.781.peg.1778|GMC66_08895!!!Mutator!MutT!protein!(7,8-dihydro-8-oxoguanine-triphosphatase)!(EC!3.6.1.-)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	73.15%
+Cluster 429220
+30781	CP001129	Streptococcus equi subsp. zooepidemicus MGCS10565, complete genome.	Yes	Lactobacillales	thymidylate kinase Tmk	ACG62942
+fig|1318.781.peg.1298|GMC66_06470!!!Thymidylate!kinase!(EC!2.7.4.9)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	64.62%
+Cluster 552782
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	50S ribosomal protein L11	ABM79507
+fig|1318.781.peg.1281|GMC66_06385!!!LSU!ribosomal!protein!L11p!(L12e)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	63.83%
+Cluster 722385
+28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Yes	Lactobacillales	ribbon-helix-helix protein, CopG family	ACA36219
+fig|1318.781.peg.2094|GMC66_10490!!!RelB/StbD!replicon!stabilization!protein!(antitoxin!to!RelE/StbE)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	76.92%
+Cluster 347659
+29859	CP001581	Clostridium botulinum A2 str. Kyoto, complete genome.	Yes	Clostridia	acetyl-CoA carboxylase, carboxyl transferase, alpha subunit	ACO85046
+fig|1318.781.peg.2076|GMC66_10395!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	61.33%
+Cluster 664085
+16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Yes	Lactobacillales	conserved hypothetical protein	CBJ22076
+fig|1318.781.peg.604|GMC66_02955!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	87.27%
+Cluster 547274
+401	CP000425	Lactococcus lactis subsp. cremoris SK11, complete genome.	No	Lactobacillales	Predicted Fe-S-cluster oxidoreductase	ABJ73909
+fig|1318.781.peg.608|GMC66_02975!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	72.56%
+Cluster 693631
+16062	DQ489736	Leuconostoc citreum KM20, complete genome.	No	Lactobacillales	Ribosomal protein S18	ACA82004
+fig|1318.781.peg.1453|GMC66_07230!!!SSU!ribosomal!protein!S18p!@!SSU!ribosomal!protein!S18p,!zinc-independent!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	77.22%
+Cluster 151049
+13773	CP000419	Streptococcus thermophilus LMD-9, complete genome.	No	Lactobacillales	Predicted signal transduction protein with a C-terminal HATPase domain	ABJ65852
+fig|1318.781.peg.225|GMC66_01090!!!Two-component!system!sensor!histidine!kinase!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	71.53%
+Cluster 379682
+66	CP000725	Streptococcus gordonii str. Challis substr. CH1, complete genome.	Yes	Lactobacillales	DNA methyltransferase signature protein	ABV09505
+fig|1318.781.peg.73|GMC66_00330!!!tRNA(1)(Val)!(adenine(37)-N(6))-methyltransferase!(EC!2.1.1.223)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	81.05%
+Cluster 753639
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	hypothetical protein	ABP89718
+fig|1318.781.peg.139|GMC66_00660!!!hypothetical!protein!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	77.78%
+Cluster 663146
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S16	ABP89762
+fig|1318.781.peg.606|GMC66_02965!!!SSU!ribosomal!protein!S16p!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	84.44%
+Cluster 420815
+17155	CP000408	Streptococcus suis 98HAH33, complete genome.	Yes	Lactobacillales	orotate phosphoribosyltransferase	ABP92176
+fig|1318.781.peg.376|GMC66_01825!!!Orotate!phosphoribosyltransferase!(EC!2.4.2.10)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	77.62%
+Cluster 684158
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Conserved hypothetical protein	ABN44785
+fig|1318.781.peg.1126|GMC66_05605!!!Putative!EsaC!protein!analog!(Listeria!type!3)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	64.29%
+Cluster 445073
+30537	CP001794	Geobacillus sp. Y412MC61, complete genome.	No	Bacillales	deoxyribose-phosphate aldolase	ACX77683
+fig|1318.781.peg.667|GMC66_03255!!!Deoxyribose-phosphate!aldolase!(EC!4.1.2.4)!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	69.09%
+Cluster 714071
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S Ribosomal protein S21	ABP90399
+fig|1318.781.peg.146|GMC66_00690!!!SSU!ribosomal!protein!S21p!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	98.28%
+Cluster 585594
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Multiple antibiotic resistance operon transcription repressor (MarR), putative	ABN44783
+fig|1318.781.peg.650|GMC66_03165!!!Transcriptional!regulator,!MarR!family!!![Streptococcus!parasanguinis!strain!BIOML-A16!|!1318.781]	65.54%

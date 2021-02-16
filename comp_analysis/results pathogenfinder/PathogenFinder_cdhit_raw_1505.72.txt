@@ -1,0 +1,853 @@
+Cluster 721771
+21047	CP000860	Candidatus Desulforudis audaxviator MP104C, complete genome.	No	Clostridia	ribosomal protein L33	ACA58769
+fig|1505.72.peg.2974|GKD08_01980!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-dependent!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	75.51%
+Cluster 178641
+12521	CP000312	Clostridium perfringens SM101, complete genome.	Yes	Clostridia	putative cytochrome C-type biogenesis protein	ABG86647
+fig|1505.72.peg.1744|GKD08_17105!!!Cytochrome!c-type!biogenesis!protein!CcdA!(DsbD!analog)!/!Cytochrome!c-type!biogenesis!protein!ResA!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.52%
+Cluster 485044
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative 3-methyladenine DNA glycosylase	CBE03828
+fig|1505.72.peg.1611|GKD08_05800!!!DNA-3-methyladenine!glycosylase!II!(EC!3.2.2.21)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.36%
+Cluster 691137
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE04811
+fig|1505.72.peg.2618|GKD08_08550!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	75.00%
+Cluster 598706
+20399	CP001656	Paenibacillus sp. JDR-2, complete genome.	No	Bacillales	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ	ACT04394
+fig|1505.72.peg.1897|GKD08_01010!!!3-hydroxyacyl-[acyl-carrier-protein]!dehydratase,!FabZ!form!(EC!4.2.1.59)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.68%
+Cluster 126720
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	glycoside hydrolase family 28	ACX88965
+fig|1505.72.peg.1325!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.67%
+Cluster 704216
+13424	CP000612	Desulfotomaculum reducens MI-1, complete genome.	No	Clostridia	SSU ribosomal protein S17P	ABO48773
+fig|1505.72.peg.2950|GKD08_01860!!!SSU!ribosomal!protein!S17p!(S11e)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	69.05%
+Cluster 739252
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE03070
+fig|1505.72.peg.871|GKD08_15285!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.29%
+Cluster 252966
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative methyltransferase	CBE04333
+fig|1505.72.peg.858!!!methylcobamide:CoM!methyltransferase-related!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	81.63%
+Cluster 674063
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE03213
+fig|1505.72.peg.503|GKD08_03745!!!FIG139598:!Potential!ribosomal!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	80.00%
+Cluster 724651
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	4Fe-4S ferredoxin iron-sulfur binding domain protein	ABW19943
+fig|1505.72.peg.3104|GKD08_10315!!!2-oxoglutarate/2-oxoacid!ferredoxin!oxidoreductase,!delta!subunit,!ferredoxin-like!4Fe-4S!binding!protein!(EC!1.2.7.-)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.20%
+Cluster 724904
+13012	CP000096	Chlorobium luteolum DSM 273, complete genome.	No	Chlorobia	Rubredoxin-like	ABB24820
+fig|1505.72.peg.2275|GKD08_07530!!!Rubredoxin!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.96%
+Cluster 236498
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative Sodium:dicarboxylate symporter	CBE05120
+fig|1505.72.peg.3390!!!Proton/sodium-glutamate!symport!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.99%
+Cluster 621992
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE01536
+fig|1505.72.peg.2980|GKD08_02010!!!Mini-ribonuclease!III!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.94%
+Cluster 162787
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative aspartate aminotransferase	CBE05458
+fig|1505.72.peg.397|GKD08_03580!!!Biosynthetic!Aromatic!amino!acid!aminotransferase!alpha!(EC!2.6.1.57)!@!Aspartate!aminotransferase!(EC!2.6.1.1)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.96%
+Cluster 4738
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DNA-directed RNA polymerase, beta' subunit	ABX44033
+fig|1505.72.peg.2966|GKD08_01940!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.34%
+Cluster 407066
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	ABC-type multidrug transport system (daunorubicin resistance), ATPase component	AAK78809
+fig|1505.72.peg.297|GKD08_13530!!!Efflux!ABC!transporter,!ATP-binding!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.53%
+Cluster 46623
+9638	AE017198	Lactobacillus johnsonii NCC 533, complete genome.	No	Lactobacillales	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIABC, probable beta-glucoside specific	AAS09765
+fig|1505.72.peg.1793!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.50%
+Cluster 334502
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	conserved hypothetical protein	ABW20141
+fig|1505.72.peg.342|GKD08_13750!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.03%
+Cluster 388347
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative aliphatic sulfonate ABC transporter, ATP-binding protein	CBE05421
+fig|1505.72.peg.382|GKD08_03505!!!ABC!transporter,!ATP-binding!protein!(cluster!1,!maltose/g3p/polyamine/iron);!ABC!transporter,!ATP-binding!protein!(cluster!10,!nitrate/sulfonate/bicarbonate)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	75.10%
+Cluster 621408
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE03462
+fig|1505.72.peg.1443|GKD08_05420!!!Spore!protein!GerW!(YtfJ),!not!involved!in!spore!germination!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.52%
+Cluster 636471
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	conserved hypothetical protein 103	ABR37056
+fig|1505.72.peg.180|GKD08_13165!!!Nucleoid-associated!protein!YaaK!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	68.14%
+fig|1505.72.peg.1690|GKD08_16990!!!Nucleoid-associated!protein!YaaK!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	86.79%
+Cluster 183229
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative exported protein	CBE06556
+fig|1505.72.peg.209|GKD08_13325!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.82%
+Cluster 366584
+19543	CP000969	Thermotoga sp. RQ2, complete genome.	No	Thermotogales	Cof-like hydrolase	ACB08637
+fig|1505.72.peg.2452!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.00%
+Cluster 546918
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative DNA polymerase III, epsilon chain	CBE05485
+fig|1505.72.peg.259|GKD08_03350!!!DNA!polymerase!III!polC-type!(EC!2.7.7.7)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	75.60%
+Cluster 39376
+41467	CP002028	Thermincola sp. JR, complete genome.	No	Clostridia	diguanylate cyclase/phosphodiesterase with PAS/PAC sensor(s)	ADG81859
+fig|1505.72.peg.656!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.87%
+Cluster 443764
+28857	CP001056	Clostridium botulinum B str. Eklund 17B, complete genome.	No	Clostridia	sulfite reductase, assimilatory-type	ACD24207
+fig|1505.72.peg.3071|GKD08_10125!!!Sulfite!reductase,!assimilatory-type!(EC!1.8.-.-)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.73%
+Cluster 85359
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	ABC transporter related	ACV63592
+fig|1505.72.peg.1644!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.00%
+Cluster 372522
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobalt-precorrin-4 C(11)-methyltransferase (Cobalt-precorrin-3 methylase)	CBJ79987
+fig|1505.72.peg.2069|GKD08_06950!!!Cobalt-precorrin-4!C(11)-methyltransferase!(EC!2.1.1.271)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.80%
+Cluster 428371
+216	CP001037	Nostoc punctiforme PCC 73102, complete genome.	No	Nostocales	conserved hypothetical protein	ACC79625
+fig|1505.72.peg.50!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.00%
+Cluster 386685
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	DNA repair protein	CBE05562
+fig|1505.72.peg.1771|GKD08_06290!!!DNA!recombination!and!repair!protein!RecO!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	74.32%
+Cluster 134180
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	proton-dependent oligopeptide transporter	CBE06511
+fig|1505.72.peg.3098!!!Di-tripeptide/cation!symporter!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	75.32%
+fig|1505.72.peg.950|GKD08_15515!!!Di-tripeptide/cation!symporter!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	74.51%
+Cluster 41245
+304	CP000246	Clostridium perfringens ATCC 13124, complete genome.	Yes	Clostridia	[Fe] hydrogenase	ABG83453
+fig|1505.72.peg.582|GKD08_14500!!!Rubrerythrin!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	79.86%
+Cluster 627830
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative oxidative stress regulatory protein	CAJ67660
+fig|1505.72.peg.2160|GKD08_07225!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.78%
+Cluster 337294
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative membrane protein	CBE04758
+fig|1505.72.peg.2807|GKD08_09175!!!Uncharacterized!UPF0750!membrane!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.19%
+Cluster 187122
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative D-alanine transferase	CAJ69742
+fig|1505.72.peg.1449|GKD08_05450!!!Poly(glycerophosphate!chain)!D-alanine!transfer!protein!DltD!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.92%
+Cluster 133323
+33271	AP009049	Clostridium kluyveri NBRC 12016 DNA, complete genome.	No	Clostridia	hypothetical protein	BAH05435
+fig|1505.72.peg.1922!!!Aspartate!aminotransferase!(AspB-4)!(EC!2.6.1.1)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.21%
+Cluster 179495
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	stage III sporulation-related protein	CAJ68050
+fig|1505.72.peg.196|GKD08_13260!!!Stage!III!sporulation!protein!AE!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.12%
+Cluster 222668
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative membrane protein	CBE05245
+fig|1505.72.peg.1301|GKD08_05100!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	69.70%
+Cluster 423881
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	hypothetical protein	CBE07475
+fig|1505.72.peg.3180|GKD08_02205!!!FIG00512732:!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.81%
+Cluster 64663
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	ABC transporter related	ACB25396
+fig|1505.72.peg.2263|GKD08_17950!!!FIG00555279:!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.17%
+Cluster 689445
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	sporulation transcriptional regulator SpoIIID	ABX40597
+fig|1505.72.peg.1899|GKD08_01020!!!Stage!III!sporulation!protein!D!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.23%
+Cluster 92702
+12749	CP001108	Prosthecochloris aestuarii DSM 271, complete genome.	No	Chlorobia	sodium ion-translocating decarboxylase, beta subunit	ACF45960
+fig|1505.72.peg.3333|GKD08_11115!!!Oxaloacetate!decarboxylase!Na(+)!pump,!beta!chain!(EC!4.1.1.3)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	69.83%
+Cluster 704149
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	ATP synthase F0, C subunit	ABW20096
+fig|1505.72.peg.2684|GKD08_01455!!!ATP!synthase!F0!sector!subunit!c!(EC!3.6.3.14)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.71%
+Cluster 427297
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	GntR-family transcriptional regulator	CBE06356
+fig|1505.72.peg.1615|GKD08_05820!!!Transcriptional!regulator,!GntR!family!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	76.07%
+Cluster 106591
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	sirohydrochlorin cobaltochelatase	CBE07180
+fig|1505.72.peg.2064|GKD08_06925!!!Cobalt-precorrin-2!C(20)-methyltransferase!(EC!2.1.1.151)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.88%
+fig|1505.72.peg.2065|GKD08_06930!!!Sirohydrochlorin!cobaltochelatase!CbiK!(EC!4.99.1.3)!@!Sirohydrochlorin!ferrochelatase!activity!of!CbiK!(EC!4.99.1.4)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.67%
+Cluster 10638
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	Isoleucyl-tRNA synthetase	AAK80978
+fig|1505.72.peg.2493!!!Isoleucyl-tRNA!synthetase!(EC!6.1.1.5)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	73.13%
+Cluster 552634
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	probale sensory protein	CBE05580
+fig|1505.72.peg.1762|GKD08_06240!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.21%
+Cluster 212282
+13901	CP000924	Thermoanaerobacter pseudethanolicus ATCC 33223, complete genome.	No	Clostridia	Thiamin pyrophosphokinase, catalytic region	ABY94765
+fig|1505.72.peg.3600|GKD08_11945!!!FIG005773:!conserved!membrane!protein!ML1361!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.93%
+Cluster 185139
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	D-alanyl-D-alanine carboxypeptidase	CBE05068
+fig|1505.72.peg.3244|GKD08_10710!!!D-alanyl-D-alanine!carboxypeptidase!(EC!3.4.16.4)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	68.19%
+Cluster 58338
+33165	CP002171	Thermoanaerobacterium thermosaccharolyticum DSM 571, complete genome.	No	Clostridia	deoxyxylulose-5-phosphate synthase	ADL68828
+fig|1505.72.peg.489!!!1-deoxy-D-xylulose!5-phosphate!synthase!(EC!2.2.1.7)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.87%
+Cluster 582850
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	MarR-family transcriptional regulator	CBE03531
+fig|1505.72.peg.2626|GKD08_08590!!!Transcriptional!regulator,!MarR!family!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.00%
+Cluster 332679
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE06463
+fig|1505.72.peg.1414|GKD08_16425!!!ErfK/YbiS/YcfS/YnhG!family!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.38%
+Cluster 587824
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	putative tRNA binding protein	ABW18786
+fig|1505.72.peg.1761|GKD08_06235!!!Transamidase!GatB!domain!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.59%
+Cluster 179496
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative phospholipase	CBE06132
+fig|1505.72.peg.909|GKD08_04490!!!Patatin!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	68.83%
+Cluster 444981
+29405	CP001727	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446, complete genome.	No	Bacillales	RNA polymerase, sigma-24 subunit, ECF subfamily	ACV59732
+fig|1505.72.peg.2976|GKD08_01990!!!RNA!polymerase!sporulation!specific!sigma!factor!SigH!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.51%
+Cluster 220590
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	ABW18923
+fig|1505.72.peg.975|GKD08_15640!!!UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide)!pyrophosphoryl-undecaprenol!N-acetylglucosamine!transferase!(EC!2.4.1.227)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.04%
+Cluster 216897
+13901	CP000924	Thermoanaerobacter pseudethanolicus ATCC 33223, complete genome.	No	Clostridia	spore germination protein	ABY93979
+fig|1505.72.peg.1512!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.07%
+Cluster 639321
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	SSU ribosomal protein S19P	ABP89047
+fig|1505.72.peg.2955|GKD08_01885!!!SSU!ribosomal!protein!S19p!(S15e)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.52%
+Cluster 481378
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative iron-sulfur flavoprotein	CAJ69570
+fig|1505.72.peg.2652|GKD08_08725!!!Iron-sulfur!flavoprotein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	69.00%
+Cluster 182975
+13424	CP000612	Desulfotomaculum reducens MI-1, complete genome.	No	Clostridia	glucose-1-phosphate adenylyltransferase	ABO49985
+fig|1505.72.peg.1880|GKD08_00925!!!Glucose-1-phosphate!adenylyltransferase!(EC!2.7.7.27)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.37%
+Cluster 11409
+10700	BX908798	Parachlamydia-related symbiont UWE25, complete genome.	Yes	Chlamydiales	probable glycyl-tRNA synthetase	CAF23417
+fig|1505.72.peg.1773|GKD08_06300!!!Glycyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.14)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.64%
+Cluster 225545
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	hypothetical protein	CBE02007
+fig|1505.72.peg.1801|GKD08_06360!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.67%
+Cluster 488652
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conserved hypothetical protein	CAJ69320
+fig|1505.72.peg.1772|GKD08_06295!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.50%
+Cluster 204498
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	glycoprotease family protein	ADL33316
+fig|1505.72.peg.1882|GKD08_00935!!!N(6)-L-threonylcarbamoyladenine!synthase!(EC!2.3.1.234)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.50%
+Cluster 121248
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative C4-dicarboxylate anaerobic carrier	CAJ69992
+fig|1505.72.peg.3695|GKD08_12420!!!Arginine/ornithine!antiporter!ArcD!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.09%
+Cluster 731536
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	carbon storage regulator, CsrA	ABR36405
+fig|1505.72.peg.1345|GKD08_16220!!!Carbon!storage!regulator!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.43%
+Cluster 724707
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	acyl carrier protein	ABR47431
+fig|1505.72.peg.869|GKD08_15275!!!Acyl!carrier!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.67%
+Cluster 554798
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	polysaccharide biosynthesis protein CpsF	ABN52592
+fig|1505.72.peg.1905|GKD08_17230!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.11%
+Cluster 439543
+12390	CP001785	Ammonifex degensii KC4, complete genome.	No	Clostridia	transaldolase	ACX52947
+fig|1505.72.peg.3432|GKD08_11360!!!Transaldolase!(EC!2.2.1.2)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.28%
+Cluster 619777
+32569	CP001275	Thermomicrobium roseum DSM 5159, complete genome.	No	Thermomicrobiales	spoVS-related protein	ACM05586
+fig|1505.72.peg.1677|GKD08_06010!!!Spore!core!dehydratation!and!coat!assembly!protein!SpoVS!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.12%
+Cluster 712605
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE07334
+fig|1505.72.peg.2706|GKD08_01560!!!FIG007421:!forespore!shell!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.86%
+Cluster 502647
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ABX43679
+fig|1505.72.peg.2985|GKD08_02035!!!2-C-methyl-D-erythritol!2,4-cyclodiphosphate!synthase!(EC!4.6.1.12)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.22%
+Cluster 589444
+79	BA000016	Clostridium perfringens str. 13 DNA, complete genome.	Yes	Clostridia	phage-related hypothetical protein	BAB80831
+fig|1505.72.peg.724|GKD08_04165!!!phage!protein,!HK97!gp10!family!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.92%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|1505.72.peg.2964|GKD08_01930!!!SSU!ribosomal!protein!S12p!(S23e)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.38%
+Cluster 158056
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative 30S ribosomal protein S1	CBE02927
+fig|1505.72.peg.3124|GKD08_10420!!!SSU!ribosomal!protein!S1p!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.12%
+Cluster 633761
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative glyoxalase	CBE07546
+fig|1505.72.peg.1354|GKD08_05170!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	76.92%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|1505.72.peg.1939|GKD08_06560!!!LSU!ribosomal!protein!L34p!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.91%
+fig|1505.72.peg.2091|GKD08_17610!!!LSU!ribosomal!protein!L34p!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.91%
+Cluster 494738
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	pyruvate ferredoxin/flavodoxin oxidoreductase	ABW17620
+fig|1505.72.peg.395|GKD08_03570!!!Indolepyruvate!oxidoreductase!subunit!IorB!(EC!1.2.7.8)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	69.79%
+Cluster 145191
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative transcriptional regulator	CBE07686
+fig|1505.72.peg.1927|GKD08_06500!!!Xre!family!DNA-binding!domain!and!TPR-repeat-containing!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.56%
+Cluster 622115
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	Uncharacterized consrved protein, containing Zn finger	AAK80942
+fig|1505.72.peg.3223|GKD08_10605!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.83%
+Cluster 290836
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	protein of unknown function DUF362	ABR49730
+fig|1505.72.peg.452!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.06%
+Cluster 714532
+13902	CP000503	Shewanella sp. W3-18-1, complete genome.	Yes	Gammaproteobacteria	LSU ribosomal protein L35P	ABM24830
+fig|1505.72.peg.1143|GKD08_00140!!!LSU!ribosomal!protein!L35p!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.00%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|1505.72.peg.2961|GKD08_01915!!!Translation!elongation!factor!Tu!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.72%
+fig|1505.72.peg.2975|GKD08_01985!!!Translation!elongation!factor!Tu!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.72%
+Cluster 171021
+20207	CP001034	Natranaerobius thermophilus JW/NM-WN-LF, complete genome.	No	Clostridia	Electron transfer flavoprotein alpha/beta-subunit	ACB85451
+fig|1505.72.peg.1085|GKD08_04880!!!Electron-bifurcating!caffeyl-CoA!reductase-Etf!complex,!electron!transfer!flavoprotein!subunit!alpha!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.00%
+Cluster 390393
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	SagB-type dehydrogenase domain	ADL53269
+fig|1505.72.peg.1653|GKD08_05895!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.67%
+Cluster 88701
+29147	AP008955	Brevibacillus brevis NBRC 100599 DNA, complete genome.	No	Bacillales	putative glycine dehydrogenase [decarboxylating] subunit 2	BAH46742
+fig|1505.72.peg.3093|GKD08_10230!!!Glycine!dehydrogenase![decarboxylating]!(glycine!cleavage!system!P2!protein)!(EC!1.4.4.2)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.69%
+Cluster 697904
+33271	AP009049	Clostridium kluyveri NBRC 12016 DNA, complete genome.	No	Clostridia	hypothetical protein	BAH08396
+fig|1505.72.peg.2417|GKD08_18075!!!Transition!state!regulatory!protein!AbrB!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	88.75%
+Cluster 741003
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	hypothetical protein	CBE05059
+fig|1505.72.peg.3239|GKD08_10685!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.67%
+Cluster 8912
+79	BA000016	Clostridium perfringens str. 13 DNA, complete genome.	Yes	Clostridia	hypothetical protein	BAB81813
+fig|1505.72.peg.1365|GKD08_05225!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.69%
+Cluster 91868
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	extracellular solute-binding protein, family 5	ABR49059
+fig|1505.72.peg.1778!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.50%
+Cluster 195162
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	NLP/P60 protein	ACV56099
+fig|1505.72.peg.1742!!!Secreted!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.70%
+Cluster 105510
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	NusA antitermination factor	ACL21696
+fig|1505.72.peg.158|GKD08_13055!!!Transcription!termination!protein!NusA!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	68.12%
+Cluster 149338
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	transposase IS116/IS110/IS902 family protein	ABR32908
+fig|1505.72.peg.1645|GKD08_16895!!!Mobile!element!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	75.75%
+Cluster 241707
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative protein translocase	CBE07011
+fig|1505.72.peg.2358|GKD08_01120!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.35%
+Cluster 714436
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	hypothetical protein	CBE02064
+fig|1505.72.peg.1103|GKD08_04970!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	84.15%
+Cluster 160556
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	MDR-type permease, probably tetracycline resistance protein	AAK79415
+fig|1505.72.peg.2786|GKD08_09070!!!Tetracycline!resistance,!MFS!efflux!pump!=>!TetA(P)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	81.90%
+Cluster 672171
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE04746
+fig|1505.72.peg.3345|GKD08_11175!!!HesB-like!domain!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	70.48%
+Cluster 435195
+304	CP000246	Clostridium perfringens ATCC 13124, complete genome.	Yes	Clostridia	putative membrane protein	ABG83932
+fig|1505.72.peg.1367|GKD08_05235!!!Putative!membrane-spanning!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	77.97%
+Cluster 605099
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	conserved hypothetical protein	ABR48195
+fig|1505.72.peg.1181|GKD08_00330!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.01%
+Cluster 164834
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	two-component sensor kinase	CBE03777
+fig|1505.72.peg.1263|GKD08_15955!!!ABC!transporter-coupled!two-component!system,!signal!transduction!histidine!kinase!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	68.28%
+Cluster 205458
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	integrase	CBE04934
+fig|1505.72.peg.3342|GKD08_11160!!!Phage!integrase!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.23%
+Cluster 470343
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative membrane protein	CAJ68804
+fig|1505.72.peg.1670|GKD08_05975!!!Putative!periplasmic!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	70.05%
+Cluster 101350
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	trigger factor	ACV55893
+fig|1505.72.peg.2265|GKD08_17960!!!Cell!division!trigger!factor!(EC!5.2.1.8)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.73%
+Cluster 217471
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative competence protein	CAJ68129
+fig|1505.72.peg.400|GKD08_03595!!!Rossmann!fold!nucleotide-binding!protein!Smf!possibly!involved!in!DNA!uptake!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.77%
+Cluster 629285
+16217	AP007255	Magnetospirillum magneticum AMB-1 DNA, complete genome.	No	Alphaproteobacteria	Translation initiation factor 1	BAE52143
+fig|1505.72.peg.2935|GKD08_01785!!!Translation!initiation!factor!1!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.22%
+Cluster 271684
+79	BA000016	Clostridium perfringens str. 13 DNA, complete genome.	Yes	Clostridia	probable penicillin acylase	BAB80798
+fig|1505.72.peg.2131!!!choloylglycine!hydrolase!family!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	86.78%
+fig|1505.72.peg.230|GKD08_13430!!!choloylglycine!hydrolase!family!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	82.35%
+fig|1505.72.peg.240|GKD08_13470!!!choloylglycine!hydrolase!family!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	86.53%
+Cluster 232360
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	radical SAM-superfamily protein	CBE03373
+fig|1505.72.peg.417|GKD08_03680!!!Radical!SAM!domain!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.63%
+Cluster 78544
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	probable ubiquinone biosynthesis protein	CBE06116
+fig|1505.72.peg.1231|GKD08_00585!!!ABC1!family!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.09%
+Cluster 719595
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE05576
+fig|1505.72.peg.1763|GKD08_06245!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	73.08%
+Cluster 399783
+18633	CP000825	Prochlorococcus marinus str. MIT 9215, complete genome.	No	Prochlorales	3-oxoacyl-(acyl-carrier protein) reductase	ABV50149
+fig|1505.72.peg.189|GKD08_13225!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.24%
+Cluster 258514
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative RNA-binding protein	CBE03489
+fig|1505.72.peg.153|GKD08_13030!!!3'-to-5'!oligoribonuclease!A,!Bacillus!type!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.95%
+Cluster 255289
+304	CP000246	Clostridium perfringens ATCC 13124, complete genome.	Yes	Clostridia	C4-dicarboxylate transporter family protein	ABG85015
+fig|1505.72.peg.3466|GKD08_11505!!!Tellurite!resistance!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	78.34%
+Cluster 312489
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S2	ABP90946
+fig|1505.72.peg.3243|GKD08_10705!!!SSU!ribosomal!protein!S2p!(SAe)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.67%
+Cluster 137592
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative stage IV sporulation protein	CAJ69328
+fig|1505.72.peg.1764|GKD08_06250!!!Uncharacterized!protein!YqfD!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.59%
+Cluster 574744
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	FeS cluster assembly scaffold protein NifU	ACL76279
+fig|1505.72.peg.248|GKD08_03295!!!Iron-sulfur!cluster!assembly!scaffold!protein!IscU/NifU-like!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.33%
+Cluster 546092
+108	AE006641	Sulfolobus solfataricus P2, complete genome.	No	Thermoprotei	Hypothetical protein	AAK41982
+fig|1505.72.peg.1315!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.90%
+Cluster 65397
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conserved hypothetical protein	CAJ68188
+fig|1505.72.peg.3564|GKD08_02655!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.45%
+Cluster 160774
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	probable peptidase	CBE05959
+fig|1505.72.peg.2896|GKD08_09620!!!FIG001621:!Zinc!protease!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.43%
+Cluster 180491
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	type IV pilus assembly protein	CBE07364
+fig|1505.72.peg.2723|GKD08_01645!!!Type!IV!fimbrial!assembly!protein!PilC!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.45%
+Cluster 13857
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	FtsK/SpoIIIE family protein	ADL34039
+fig|1505.72.peg.3557|GKD08_02620!!!DNA!translocase!FtsK!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.49%
+Cluster 117767
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	ribonuclease g	CAJ68013
+fig|1505.72.peg.505|GKD08_03755!!!Ribonuclease!G!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.09%
+Cluster 214267
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative amidohydrolase	CBE06883
+fig|1505.72.peg.2405|GKD08_01350!!!Amidohydrolase!family!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.37%
+Cluster 357261
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	tRNA (guanine-N1)-methyltransferase TrmD	ADL34300
+fig|1505.72.peg.409|GKD08_03640!!!tRNA!(guanine(37)-N(1))-methyltransferase!(EC!2.1.1.228)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.30%
+Cluster 724710
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	acyl carrier protein	ABW19000
+fig|1505.72.peg.190|GKD08_13230!!!Acyl!carrier!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.97%
+Cluster 607243
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative exported protein	CAJ70360
+fig|1505.72.peg.360|GKD08_13840!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.67%
+Cluster 742704
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	hypothetical protein	CBE05433
+fig|1505.72.peg.390|GKD08_03545!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	80.00%
+Cluster 742706
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative membrane protein	CBE06389
+fig|1505.72.peg.895|GKD08_15395!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.90%
+Cluster 734654
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	hypothetical protein	CBE06976
+fig|1505.72.peg.2367|GKD08_01165!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.40%
+Cluster 381388
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative nitroreductase	CAJ70016
+fig|1505.72.peg.32!!!Ferredoxin-like!domain!fused!to!nitroreductase-like!domain!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	77.78%
+Cluster 133396
+20399	CP001656	Paenibacillus sp. JDR-2, complete genome.	No	Bacillales	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	ACT04406
+fig|1505.72.peg.3111|GKD08_10350!!!UDP-N-acetylglucosamine!1-carboxyvinyltransferase!(EC!2.5.1.7)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.11%
+Cluster 123771
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative C4-dicarboxylate anaerobic carrier	CAJ68575
+fig|1505.72.peg.3361|GKD08_11255!!!Arginine/ornithine!antiporter!ArcD!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	70.56%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|1505.72.peg.2932|GKD08_01770!!!SSU!ribosomal!protein!S11p!(S14e)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.91%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|1505.72.peg.2949|GKD08_01855!!!LSU!ribosomal!protein!L14p!(L23e)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	78.69%
+Cluster 709393
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	ATP synthase epsilon chain	CBE07284
+fig|1505.72.peg.2678|GKD08_01425!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.63%
+Cluster 687582
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative protein translocase subunit	CBE06213
+fig|1505.72.peg.1226|GKD08_00560!!!Protein!translocase!subunit!YajC!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	69.89%
+Cluster 51409
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	phosphoglycerate kinase	ACL76599
+fig|1505.72.peg.2413!!!Phosphoglycerate!kinase!(EC!2.7.2.3)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.85%
+Cluster 81307
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	sigma-54-dependent transcriptional regulator	CAJ67223
+fig|1505.72.peg.1084|GKD08_04875!!!sigma-L-dependent!transcriptional!regulator!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.45%
+Cluster 94102
+12607	CP000607	Chlorobium phaeovibrioides DSM 265, complete genome.	No	Chlorobia	sodium ion-translocating decarboxylase, beta subunit	ABP37031
+fig|1505.72.peg.2145|GKD08_07155!!!Oxaloacetate!decarboxylase!beta!chain!(EC!4.1.1.3)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.45%
+Cluster 156766
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative cytochrome C biogenesis protein	CBE06467
+fig|1505.72.peg.1053|GKD08_15740!!!Cytochrome!c-type!biogenesis!protein!CcdA!(DsbD!analog)!/!Cytochrome!c-type!biogenesis!protein!ResA!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	75.61%
+Cluster 411370
+12751	CR522870	Desulfotalea psychrophila LSv54 chromosome.	No	Deltaproteobacteria	conserved hypothetical protein	CAG37045
+fig|1505.72.peg.862|GKD08_15240!!!Multimeric!flavodoxin!WrbA!family!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.88%
+Cluster 582073
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE05222
+fig|1505.72.peg.2814|GKD08_09210!!!probable!beta-D-galactosidase!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	73.33%
+Cluster 468654
+29531	CP001818	Thermanaerovibrio acidaminovorans DSM 6589, complete genome.	No	Synergistia	Undecaprenyl-phosphate galactose phosphotransferase	ACZ18278
+fig|1505.72.peg.2463|GKD08_07840!!!Lipid!carrier!:!UDP-N-acetylgalactosaminyltransferase!(EC!2.4.1.-)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.18%
+Cluster 213116
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative cell wall biosynthesis protein	CBE03548
+fig|1505.72.peg.836|GKD08_04430!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.53%
+Cluster 316900
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative cobalamin biosynthesis kinase	CAJ70334
+fig|1505.72.peg.2074|GKD08_06975!!!L-threonine!kinase!in!B12!biosynthesis!(EC!2.7.1.177)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.03%
+Cluster 50458
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	phosphoglycerate kinase / triosephosphate isomerase	ABP67537
+fig|1505.72.peg.1700|GKD08_06030!!!Phosphoglycerate!kinase!(EC!2.7.2.3)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.03%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|1505.72.peg.2934|GKD08_01780!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	81.08%
+Cluster 429141
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE03206
+fig|1505.72.peg.506|GKD08_03760!!!FIG017108:!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	73.71%
+Cluster 506481
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative metal dependent phosphohydrolase	CBE05716
+fig|1505.72.peg.3424|GKD08_02600!!!Hydrolase!(HAD!superfamily),!YqeK!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.32%
+Cluster 506483
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	TetR-family trancscriptional regulator	CBE05869
+fig|1505.72.peg.2005|GKD08_17440!!!Transcriptional!regulator,!AcrR!family!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	69.23%
+Cluster 110888
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative aminotransferase	CAJ67914
+fig|1505.72.peg.2505|GKD08_07985!!!Transcriptional!regulator,!GntR!family!domain!/!Aspartate!aminotransferase!(EC!2.6.1.1)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.88%
+Cluster 137925
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative amino acid permease	CAJ69984
+fig|1505.72.peg.1832|GKD08_00685!!!Uncharacterized!amino!acid!permease,!GabP!family!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.72%
+Cluster 583604
+13424	CP000612	Desulfotomaculum reducens MI-1, complete genome.	No	Clostridia	(2Fe-2S)-binding domain protein	ABO51279
+fig|1505.72.peg.141|GKD08_12970!!!Aerobic!carbon!monoxide!dehydrogenase!(quinone),!small!chain!(EC!1.2.5.3)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	68.46%
+Cluster 655541
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	hypothetical protein	CAJ68756
+fig|1505.72.peg.2585|GKD08_08390!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	70.18%
+Cluster 236977
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	sulfite reductase, dissimilatory-type beta subunit	ACL18321
+fig|1505.72.peg.1789|GKD08_17190!!!Dissimilatory!sulfite!reductase,!beta!subunit!(EC!1.8.99.5)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.36%
+Cluster 203422
+12986	CP000020	Vibrio fischeri ES114 chromosome I, complete sequence.	No	Gammaproteobacteria	predicted Fe-containing alcohol dehydrogenase	AAW85683
+fig|1505.72.peg.2217|GKD08_07400!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.85%
+Cluster 347591
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE02972
+fig|1505.72.peg.1619|GKD08_05840!!!Uncharacterized!S1!RNA!binding!domain!protein!YitL!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.29%
+Cluster 347594
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE05867
+fig|1505.72.peg.1583|GKD08_16765!!!DegV!family!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.43%
+Cluster 107676
+284	BA000028	Oceanobacillus iheyensis HTE831 DNA, complete genome.	No	Bacillales	inosine-5'-monophosphate dehydrogenase	BAC11966
+fig|1505.72.peg.1852|GKD08_00785!!!Inosine-5'-monophosphate!dehydrogenase!(EC!1.1.1.205)!/!CBS!domain!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.89%
+Cluster 45890
+81	AE015927	Clostridium tetani E88, complete genome.	Yes	Clostridia	copper efflux ATPase	AAO35470
+fig|1505.72.peg.2254|GKD08_07520!!!Lead,!cadmium,!zinc!and!mercury!transporting!ATPase!(EC!3.6.3.3)!(EC!3.6.3.5);!Copper-translocating!P-type!ATPase!(EC!3.6.3.4)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.14%
+Cluster 685646
+18501	AP009153	Gemmatimonas aurantiaca T-27 DNA, complete genome.	No	Gemmatimonadales	30S ribosomal protein S17	BAH37924
+fig|1505.72.peg.2449|GKD08_18160!!!SSU!ribosomal!protein!S17p!(S11e)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.79%
+Cluster 264689
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	Ca2+/Na+ antiporter	CAJ67594
+fig|1505.72.peg.1190|GKD08_00380!!!Ca2+/Na+!antiporter!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.69%
+Cluster 455623
+28857	CP001056	Clostridium botulinum B str. Eklund 17B, complete genome.	No	Clostridia	TetR-family transcriptional regulator	ACD22984
+fig|1505.72.peg.3547|GKD08_11880!!!Transcriptional!regulator,!AcrR!family!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.22%
+Cluster 127044
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	probable proton-dependent oligopeptide transporter	CAJ69145
+fig|1505.72.peg.1421|GKD08_05315!!!Di-tripeptide/cation!symporter!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.49%
+Cluster 672484
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	thioredoxin	ABR35099
+fig|1505.72.peg.2151|GKD08_07185!!!Thioredoxin!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.58%
+Cluster 437954
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein L3 RplC	ADL33339
+fig|1505.72.peg.2959|GKD08_01905!!!LSU!ribosomal!protein!L3p!(L3e)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.20%
+Cluster 392081
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	probable acyltransferase	CBE04315
+fig|1505.72.peg.1661|GKD08_05935!!!Acyl-CoA:1-acyl-sn-glycerol-3-phosphate!acyltransferase!(EC!2.3.1.51)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.81%
+Cluster 153068
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	two-component sensor histidine kinase	CBE05916
+fig|1505.72.peg.3758|GKD08_03035!!!Phosphate!regulon!sensor!protein!PhoR!(SphS)!(EC!2.7.13.3)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.65%
+Cluster 142193
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	Radical SAM domain protein	ABR35670
+fig|1505.72.peg.3542|GKD08_11860!!!BchE/P-methylase!family!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.64%
+Cluster 123401
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative multiprotein complex assembly protein	CBE03728
+fig|1505.72.peg.2010!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.86%
+Cluster 495142
+20745	CP001854	Conexibacter woesei DSM 14684, complete genome.	No	Rubrobacteridae	ribosomal protein L19	ADB52095
+fig|1505.72.peg.408|GKD08_03635!!!LSU!ribosomal!protein!L19p!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.04%
+Cluster 138884
+29529	CP001816	Sulfurospirillum deleyianum DSM 6946, complete genome.	No	Epsilonproteobacteria	L-seryl-tRNA selenium transferase	ACZ13094
+fig|1505.72.peg.3078!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.00%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|1505.72.peg.2450|GKD08_18165!!!LSU!ribosomal!protein!L14p!(L23e)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	70.49%
+Cluster 393932
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conserved hypothetical protein	CAJ69525
+fig|1505.72.peg.3760|GKD08_03045!!!FIG00003370:!Multicopper!polyphenol!oxidase!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	73.56%
+Cluster 383226
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	ABC transporter related	ABW19629
+fig|1505.72.peg.2126|GKD08_07125!!!Hydroxymethylpyrimidine!ABC!transporter,!ATPase!component!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.20%
+Cluster 508649
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	fumarate hydratase, beta subunit	ADK17083
+fig|1505.72.peg.1613|GKD08_05810!!!Fumarate!hydratase!class!I,!beta!region!(EC!4.2.1.2);!L(+)-tartrate!dehydratase!beta!subunit!(EC!4.2.1.32)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.93%
+Cluster 401732
+54	CP000383	Cytophaga hutchinsonii ATCC 33406, complete genome.	No	Cytophagia	urea amidohydrolase (urease) gamma subunit and beta subunit  fusion	ABG58532
+fig|1505.72.peg.645|GKD08_14650!!!Urease!gamma!subunit!(EC!3.5.1.5)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.00%
+Cluster 445670
+19519	CP000728	Clostridium botulinum F str. Langeland, complete genome.	Yes	Clostridia	DNA-binding response regulator	ABS39535
+fig|1505.72.peg.366|GKD08_13875!!!ABC!transporter-like!sensor!linked!response!regulator!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.61%
+Cluster 445673
+28507	CP000962	Clostridium botulinum A3 str. Loch Maree, complete genome.	Yes	Clostridia	DNA-binding response regulator	ACA54809
+fig|1505.72.peg.2751|GKD08_08890!!!ABC!transporter-like!sensor!linked!response!regulator!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.68%
+Cluster 641651
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	ArsR-family transcriptional regulator	CBE04263
+fig|1505.72.peg.2121!!!transcriptional!regulator,!ArsR!family/dinitrogenase!iron-molybdenum!cofactor!family!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.81%
+Cluster 591409
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	MarR-family transcriptional regulator	CBE03464
+fig|1505.72.peg.1444|GKD08_05425!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.96%
+Cluster 445821
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	conserved hypothetical protein	ABR48183
+fig|1505.72.peg.1167|GKD08_00260!!!5,10-methylenetetrahydrofolate!reductase,!small!subunit!(EC!1.5.1.20)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.54%
+Cluster 588893
+29407	CP001393	Caldicellulosiruptor bescii DSM 6725, complete genome.	No	Clostridia	transcriptional modulator of MazE/toxin, MazF	ACM60989
+fig|1505.72.peg.2672|GKD08_01395!!!Programmed!cell!death!toxin!YdcE!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	70.25%
+Cluster 667238
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	ribonuclease P protein component	ACV57065
+fig|1505.72.peg.2090|GKD08_17605!!!Ribonuclease!P!protein!component!(EC!3.1.26.5)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	75.00%
+Cluster 761211
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	hypothetical protein	CBE07472
+fig|1505.72.peg.3178!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.15%
+Cluster 704286
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	Predicted metal-binding protein	AAK80398
+fig|1505.72.peg.1208|GKD08_00470!!!Cobalamine-related!hypothetical!metal-binding!protein!CrdX!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.71%
+Cluster 125474
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative ATPase	CBE07452
+fig|1505.72.peg.3164|GKD08_02130!!!tRNA(Ile)-lysidine!synthetase!(EC!6.3.4.19)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	69.26%
+Cluster 125473
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative Mg2+ transporter	CAJ69322
+fig|1505.72.peg.1770|GKD08_06280!!!Mg/Co/Ni!transporter!MgtE,!CBS!domain-containing!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.32%
+Cluster 103770
+12749	CP001108	Prosthecochloris aestuarii DSM 271, complete genome.	No	Chlorobia	binding-protein-dependent transport systems inner membrane component	ACF46514
+fig|1505.72.peg.12!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.67%
+Cluster 514020
+409	AE015450	Mycoplasma gallisepticum str. R(low), complete genome.	No	Mollicutes	unique hypothetical protein	AAP56996
+fig|1505.72.peg.1824!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.67%
+Cluster 450603
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	CoA-binding domain protein	ADL04182
+fig|1505.72.peg.1873|GKD08_00890!!!Redox-sensing!transcriptional!repressor!Rex!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.68%
+Cluster 486854
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative riboflavin transporter	CBE01716
+fig|1505.72.peg.1887|GKD08_00960!!!Substrate-specific!component!RibU!of!riboflavin!ECF!transporter!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.68%
+Cluster 576944
+27777	CP001793	Geobacillus sp. Y412MC10, complete genome.	No	Bacillales	anti-sigma regulatory factor, serine/threonine protein kinase	ACX64423
+fig|1505.72.peg.1194|GKD08_00400!!!Anti-sigma!F!factor!(EC!2.7.11.1)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.81%
+Cluster 726254
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	small acid-soluble spore protein, alpha/beta type	ABR47564
+fig|1505.72.peg.2387|GKD08_01265!!!Small!acid-soluble!spore!protein,!alpha-type!SASP!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	76.92%
+fig|1505.72.peg.2657|GKD08_08750!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.22%
+Cluster 490232
+17159	CP000792	Campylobacter concisus 13826, complete genome.	Yes	Epsilonproteobacteria	homogentisate export protein	EAT97768
+fig|1505.72.peg.647!!!Hydroxymethylpyrimidine!phosphate!kinase!ThiD!(EC!2.7.4.7)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.87%
+Cluster 580845
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative membrane protein	CBE03611
+fig|1505.72.peg.819|GKD08_04350!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	70.00%
+Cluster 397585
+304	CP000246	Clostridium perfringens ATCC 13124, complete genome.	Yes	Clostridia	creatininase	ABG84729
+fig|1505.72.peg.2624!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.11%
+Cluster 397586
+79	BA000016	Clostridium perfringens str. 13 DNA, complete genome.	Yes	Clostridia	creatinase	BAB80463
+fig|1505.72.peg.28|GKD08_12635!!!Creatinine!amidohydrolase!(EC!3.5.2.10)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	92.03%
+Cluster 508023
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	Spore coat protein F (COTF) related protein	AAK79303
+fig|1505.72.peg.1537|GKD08_16675!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.04%
+Cluster 400278
+13901	CP000924	Thermoanaerobacter pseudethanolicus ATCC 33223, complete genome.	No	Clostridia	cobalamin biosynthesis protein CbiM	ABY95519
+fig|1505.72.peg.2581|GKD08_08370!!!Cobalt!ECF!transporter,!substrate-binding!protein!CbiM!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.94%
+Cluster 500546
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	Propanediol utilization protein	ABW18904
+fig|1505.72.peg.2648!!!Uncharacterized!protein!similar!to!PduL!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	76.71%
+fig|1505.72.peg.2903|GKD08_09655!!!Uncharacterized!protein!similar!to!PduL!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.11%
+Cluster 477553
+304	CP000246	Clostridium perfringens ATCC 13124, complete genome.	Yes	Clostridia	conserved hypothetical protein	ABG82224
+fig|1505.72.peg.1261|GKD08_15950!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	86.36%
+Cluster 95916
+27833	AP009152	Kocuria rhizophila DC2201 DNA, complete genome.	No	Actinobacteridae	putative sugar kinase	BAG28596
+fig|1505.72.peg.1908|GKD08_17245!!!Lactam!utilization!protein!LamB!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.00%
+Cluster 12539
+17707	CP001124	Geobacter bemidjiensis Bem, complete genome.	No	Deltaproteobacteria	maltooligosyltrehalose synthase	ACH37165
+fig|1505.72.peg.2904!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.67%
+Cluster 40148
+19519	CP000728	Clostridium botulinum F str. Langeland, complete genome.	Yes	Clostridia	putative D-proline reductase, PrdA proprotein	ABS41163
+fig|1505.72.peg.2392|GKD08_01290!!!D-proline!reductase,!45!kDa!subunit!(EC!1.21.4.1)!/!D-proline!reductase,!23!kDa!subunit!(EC!1.21.4.1)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.06%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|1505.72.peg.2933|GKD08_01775!!!SSU!ribosomal!protein!S13p!(S18e)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.04%
+Cluster 67390
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	pyruvate kinase	ABR50150
+fig|1505.72.peg.633|GKD08_04045!!!Pyruvate!kinase!(EC!2.7.1.40)!/!Phosphohistidine!swiveling!domain!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.31%
+Cluster 633759
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative membrane protein	CBE06211
+fig|1505.72.peg.1227|GKD08_00565!!!FIG00514125:!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.50%
+Cluster 417134
+29531	CP001818	Thermanaerovibrio acidaminovorans DSM 6589, complete genome.	No	Synergistia	electron transport complex, RnfABCDGE type, E subunit	ACZ18582
+fig|1505.72.peg.522|GKD08_03840!!!Electron!transport!complex!protein!RnfE!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.10%
+Cluster 298893
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative tyrosine recombinase	CBE03527
+fig|1505.72.peg.3566|GKD08_02665!!!Site-specific!tyrosine!recombinase!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.19%
+Cluster 575147
+29523	CP001825	Thermobaculum terrenum ATCC BAA-798 chromosome 1, complete sequence.	No	NA	cobalamin B12-binding domain protein	ACZ42579
+fig|1505.72.peg.205|GKD08_13305!!!B12!binding!domain!of!Methylmalonyl-CoA!mutase!(EC!5.4.99.2)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.67%
+Cluster 524335
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	hypoxanthine phosphoribosyltransferase	ABW18898
+fig|1505.72.peg.2665|GKD08_08790!!!Hypoxanthine-guanine!phosphoribosyltransferase!(EC!2.4.2.8)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.16%
+Cluster 74329
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative membrane protein	CBE04916
+fig|1505.72.peg.2602|GKD08_08470!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.69%
+Cluster 117546
+12521	CP000312	Clostridium perfringens SM101, complete genome.	Yes	Clostridia	transporter, major facilitator family	ABG85840
+fig|1505.72.peg.1849|GKD08_00770!!!Uncharacterized!MFS-type!transporter!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.24%
+Cluster 77517
+13424	CP000612	Desulfotomaculum reducens MI-1, complete genome.	No	Clostridia	FAD dependent oxidoreductase	ABO49966
+fig|1505.72.peg.2360|GKD08_01130!!!NAD(FAD)-utilizing!dehydrogenase,!sll0175!homolog!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.11%
+Cluster 200650
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative aminotransferase	CBE06013
+fig|1505.72.peg.2666|GKD08_08795!!!Similar!to!L-threonine!3-O-phosphate!decarboxylase!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.06%
+Cluster 753453
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	hypothetical protein	CBE03072
+fig|1505.72.peg.2520|GKD08_08065!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	75.44%
+fig|1505.72.peg.2521|GKD08_08070!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	82.76%
+Cluster 246304
+12521	CP000312	Clostridium perfringens SM101, complete genome.	Yes	Clostridia	PP-loop family protein	ABG86493
+fig|1505.72.peg.269|GKD08_03400!!!tRNA-(cytosine32)-2-thiocytidine!synthetase!TtcA!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.03%
+Cluster 478690
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	conserved domain protein	AAO81986
+fig|1505.72.peg.3116|GKD08_10380!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	70.59%
+Cluster 376038
+20739	CP001682	Cryptobacterium curtum DSM 15641, complete genome.	Yes	Coriobacteridae	exodeoxyribonuclease III	ACU94851
+fig|1505.72.peg.844|GKD08_04465!!!Exodeoxyribonuclease!III!(EC!3.1.11.2)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.00%
+Cluster 43244
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative sodium extrusion ABC transporter,permease protein	CAJ68480
+fig|1505.72.peg.52|GKD08_12750!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.75%
+Cluster 458638
+304	CP000246	Clostridium perfringens ATCC 13124, complete genome.	Yes	Clostridia	deoxyuridine 5-triphosphate nucleotidohydrolase	ABG83133
+fig|1505.72.peg.1113|GKD08_05020!!!Deoxyuridine!5'-triphosphate!nucleotidohydrolase!(EC!3.6.1.23)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	78.97%
+Cluster 123703
+19517	CP000726	Clostridium botulinum A str. ATCC 19397, complete genome.	Yes	Clostridia	MATE efflux family protein	ABS33662
+fig|1505.72.peg.879!!!Multi!antimicrobial!extrusion!protein!(Na(+)/drug!antiporter),!MATE!family!of!MDR!efflux!pumps!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.00%
+Cluster 642274
+253	CP000141	Carboxydothermus hydrogenoformans Z-2901, complete genome.	No	Clostridia	chemotaxis response regulator	ABB13680
+fig|1505.72.peg.171|GKD08_13120!!!Chemotaxis!regulator!-!transmits!chemoreceptor!signals!to!flagellar!motor!components!CheY!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.25%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|1505.72.peg.128|GKD08_03205!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.67%
+fig|1505.72.peg.129|GKD08_03210!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!A!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	67.23%
+Cluster 510331
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE04918
+fig|1505.72.peg.2811!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	68.84%
+Cluster 36058
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative ribonucleotide-diphosphate reductase	CBE03396
+fig|1505.72.peg.405|GKD08_03620!!!Ribonucleotide!reductase!of!class!II!(coenzyme!B12-dependent)!(EC!1.17.4.1)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	73.05%
+Cluster 94567
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative cell wall hydrolase	CBE07464
+fig|1505.72.peg.3173|GKD08_02175!!!LysM!domain-containing!membrane!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.79%
+Cluster 146924
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative methylase	CBE02298
+fig|1505.72.peg.2382|GKD08_01240!!!tRNA/rRNA!cytosine-C5-methyltransferase!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	78.94%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|1505.72.peg.2971|GKD08_01965!!!LSU!ribosomal!protein!L11p!(L12e)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.83%
+Cluster 541408
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	ATP synthase B chain	CBE07293
+fig|1505.72.peg.2683|GKD08_01450!!!ATP!synthase!F0!sector!subunit!b!(EC!3.6.3.14)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.87%
+Cluster 379621
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative RNA-binding cell division protein	CBE05880
+fig|1505.72.peg.3745|GKD08_02970!!!Putative!RNA-binding!protein!YlmH!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	70.11%
+Cluster 307085
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative iron-sulfur cluster protein	CAJ67396
+fig|1505.72.peg.1128|GKD08_00065!!!Epoxyqueuosine!reductase!(EC!1.17.99.6)!QueG!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.33%
+Cluster 307086
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative tyrosine recombinase	CBE03323
+fig|1505.72.peg.3505|GKD08_11685!!!Site-specific!tyrosine!recombinase!XerD!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.48%
+Cluster 121971
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative ATP-dependent peptidase	CBE02529
+fig|1505.72.peg.1141|GKD08_00130!!!Cell!division-associated,!ATP-dependent!zinc!metalloprotease!FtsH!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	82.19%
+Cluster 496256
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	Thymidine kinase	AAK80830
+fig|1505.72.peg.2695|GKD08_01510!!!Thymidine!kinase!(EC!2.7.1.21)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	69.11%
+Cluster 288613
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	RpoA	EDK32306
+fig|1505.72.peg.2930|GKD08_01760!!!DNA-directed!RNA!polymerase!alpha!subunit!(EC!2.7.7.6)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	68.57%
+Cluster 519107
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	GCN5-related N-acetyltransferase	ABR33739
+fig|1505.72.peg.2238|GKD08_07440!!!Acetyltransferase,!GNAT!family!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.19%
+Cluster 678491
+29407	CP001393	Caldicellulosiruptor bescii DSM 6725, complete genome.	No	Clostridia	protein of unknown function DUF370	ACM60135
+fig|1505.72.peg.3729|GKD08_02890!!!UPF0296!protein!YlzA!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	68.60%
+Cluster 576560
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE07281
+fig|1505.72.peg.2676|GKD08_01415!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.24%
+Cluster 284451
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative cation transport-related, membrane protein	CBE04499
+fig|1505.72.peg.3340|GKD08_11150!!!Magnesium!and!cobalt!transport!protein!CorA!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.78%
+Cluster 709333
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	PTS system, phosphocarrier protein	CBE06130
+fig|1505.72.peg.908|GKD08_04485!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	80.23%
+Cluster 50568
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	K potassium transporter	ACZ08879
+fig|1505.72.peg.1525!!!Kup!system!potassium!uptake!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	70.00%
+Cluster 379746
+29147	AP008955	Brevibacillus brevis NBRC 100599 DNA, complete genome.	No	Bacillales	short chain dehydrogenase	BAH46740
+fig|1505.72.peg.3091|GKD08_10220!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.93%
+Cluster 88434
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	transposase IS66	ACL76184
+fig|1505.72.peg.2174|GKD08_17770!!!transposase!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.16%
+Cluster 162813
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative membrane protein	CBE03224
+fig|1505.72.peg.1320|GKD08_16100!!!FIGfam003972:!membrane!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.00%
+Cluster 135573
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	ribonuclease Ph	CBE07044
+fig|1505.72.peg.2339!!!Ribonuclease!PH!(EC!2.7.7.56)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	78.76%
+fig|1505.72.peg.2340|GKD08_01030!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	74.14%
+Cluster 172077
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	subunit of oxygen-sensitive 2-hydroxyisocaproyl-CoA dehydratase	CBE02102
+fig|1505.72.peg.1089|GKD08_04900!!!2-hydroxyglutaryl-CoA!dehydratase,!D-component!HgdA!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	84.07%
+Cluster 587322
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	ribosomal protein L16	ABR50543
+fig|1505.72.peg.2952|GKD08_01870!!!LSU!ribosomal!protein!L16p!(L10e)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	86.01%
+Cluster 124333
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative membrane-associated nucleotidase	CAJ67020
+fig|1505.72.peg.2143!!!2',3'-cyclic-nucleotide!2'-phosphodiesterase!(EC!3.1.4.16)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.44%
+Cluster 323946
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	methylenetetrahydrofolate reductase	ADK16787
+fig|1505.72.peg.1168|GKD08_00265!!!5,10-methylenetetrahydrofolate!reductase!(EC!1.5.1.20)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	70.31%
+Cluster 249174
+304	CP000246	Clostridium perfringens ATCC 13124, complete genome.	Yes	Clostridia	putative thiamin biosynthesis lipoprotein ApbE	ABG82698
+fig|1505.72.peg.1364|GKD08_05220!!!FAD:protein!FMN!transferase!(EC!2.7.1.180)!@!FAD:protein!FMN!transferase!(EC!2.7.1.180),!HepST-associated!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	69.39%
+Cluster 694866
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	transcriptional regulator, XRE family	ACU72838
+fig|1505.72.peg.1813|GKD08_06420!!!Uncharacterized!transcriptional!regulator!YozG,!Cro/CI!family!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.16%
+Cluster 246847
+32611	CP002009	Methanocaldococcus infernus ME, complete genome.	No	Methanococci	transport system permease protein	ADG14074
+fig|1505.72.peg.1513|GKD08_16580!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.00%
+Cluster 642064
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	major cold shock protein	AAW75975
+fig|1505.72.peg.1531!!!Cold!shock!protein!of!CSP!family!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.29%
+Cluster 343616
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	RpiR-family transcriptional regulator	CBE05216
+fig|1505.72.peg.2812!!!Sialic!acid!utilization!regulator,!RpiR!family!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	79.04%
+Cluster 750815
+29405	CP001727	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446, complete genome.	No	Bacillales	ribosomal protein S21	ACV59001
+fig|1505.72.peg.1760|GKD08_06230!!!SSU!ribosomal!protein!S21p!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.10%
+Cluster 408557
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative membrane-bound metal-dependent hydrolase	CBE03444
+fig|1505.72.peg.1434|GKD08_05375!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.86%
+Cluster 537883
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	stage III sporulation protein AB	CBE03270
+fig|1505.72.peg.193|GKD08_13245!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.90%
+Cluster 43187
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	formate acetyltransferase	ABX43183
+fig|1505.72.peg.678!!!Pyruvate!formate-lyase!(EC!2.3.1.54)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.54%
+Cluster 72584
+17715	CP001177	Bacillus cereus AH187, complete genome.	Yes	Bacillales	putative phage terminase, large subunit	ACJ80861
+fig|1505.72.peg.1995!!!Phage!terminase,!large!subunit!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	65.19%
+Cluster 334345
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE06934
+fig|1505.72.peg.2385|GKD08_01255!!!Surface!antigen!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.07%
+Cluster 659179
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	hypothetical protein	CAJ67157
+fig|1505.72.peg.1104|GKD08_04975!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	61.06%
+Cluster 472519
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	small GTP-binding protein	ABW19706
+fig|1505.72.peg.2349|GKD08_01075!!!GTP-binding!protein!EngB!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	62.56%
+Cluster 512118
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE02308
+fig|1505.72.peg.1124|GKD08_00045!!!Transcriptional!regulator!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.64%
+Cluster 747037
+384	AE016877	Bacillus cereus ATCC 14579, complete genome.	Yes	Bacillales	Transcriptional regulator, PBSX family	AAP12120
+fig|1505.72.peg.1528|GKD08_16635!!!Transcriptional!regulator,!Xre!family!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	74.60%
+Cluster 651383
+304	CP000246	Clostridium perfringens ATCC 13124, complete genome.	Yes	Clostridia	conserved hypothetical protein	ABG83490
+fig|1505.72.peg.231|GKD08_13435!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	74.78%
+Cluster 115155
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	two-component sensor histidine kinase	CBE04417
+fig|1505.72.peg.225|GKD08_13405!!!Two-component!system!sensor!histidine!kinase!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.46%
+Cluster 370738
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative exported protein	CBE06876
+fig|1505.72.peg.3483|GKD08_11585!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.60%
+Cluster 216426
+29531	CP001818	Thermanaerovibrio acidaminovorans DSM 6589, complete genome.	No	Synergistia	uracil phosphoribosyltransferase	ACZ19174
+fig|1505.72.peg.2688|GKD08_01475!!!Uracil!phosphoribosyltransferase!(EC!2.4.2.9)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	66.99%
+Cluster 534409
+28537	CP001084	Lactobacillus casei str. Zhang, complete genome.	No	Lactobacillales	Putative intracellular protease/amidase	ADK19103
+fig|1505.72.peg.1954|GKD08_17320!!!Intracellular!protease!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	64.38%
+Cluster 308715
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE02000
+fig|1505.72.peg.1806|GKD08_06385!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	71.58%
+Cluster 260911
+20391	CP000813	Bacillus pumilus SAFR-032, complete genome.	No	Bacillales	NAD-dependent epimerase/dehydratase	ABV61367
+fig|1505.72.peg.2268|GKD08_17975!!!Similar!to!CDP-glucose!4,6-dehydratase!(EC!4.2.1.45)!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	73.94%
+Cluster 569398
+33635	CP001899	Ferroglobus placidus DSM 10642, complete genome.	No	Archaeoglobi	Fe-S cluster domain protein	ADC64898
+fig|1505.72.peg.1262!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	63.64%
+Cluster 663146
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S16	ABP89762
+fig|1505.72.peg.412|GKD08_03655!!!SSU!ribosomal!protein!S16p!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.00%
+Cluster 576492
+29077	CP001083	Clostridium botulinum Ba4 str. 657, complete genome.	Yes	Clostridia	conserved hypothetical protein	ACQ53814
+fig|1505.72.peg.2829|GKD08_09285!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	60.53%
+Cluster 127990
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative drug/sodium antiporter	CBE01755
+fig|1505.72.peg.1875|GKD08_00900!!!MATE!efflux!family!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	77.95%
+Cluster 366996
+82	CP000033	Lactobacillus acidophilus NCFM, complete genome.	No	Lactobacillales	cystathionine beta-lyase	AAV42934
+fig|1505.72.peg.2487!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.73%
+fig|1505.72.peg.1389!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.73%
+Cluster 629794
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	stage III sporulation protein AD	CBE03274
+fig|1505.72.peg.195|GKD08_13255!!!Stage!III!sporulation!protein!AD!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	77.34%
+Cluster 756692
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	hypothetical protein	ABW18899
+fig|1505.72.peg.2656|GKD08_08745!!!hypothetical!protein!!![Paeniclostridium!sordellii!strain!BIOML-A6!|!1505.72]	72.73%

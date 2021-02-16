@@ -1,0 +1,334 @@
+Cluster 309102
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	Transcriptional regulator	EDK35647
+fig|1522.120.peg.4128!!!Transcriptional!regulator,!LysR!family!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	65.00%
+Cluster 614351
+28997	AP010655	Streptococcus mutans NN2025 DNA, complete genome.	Yes	Lactobacillales	putative transcriptional regulator	BAH88581
+fig|1522.120.peg.1933!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	67.57%
+Cluster 591558
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative transposon protein	CAJ67938
+fig|1522.120.peg.3213|GT670_17760!!!conjugative!transposon!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	74.13%
+Cluster 106993
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Relaxase	ABF36185
+fig|1522.120.peg.1563|GT670_12275!!!Relaxase!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	77.61%
+Cluster 472703
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	conserved hypothetical protein	ABX43764
+fig|1522.120.peg.1333|GT670_11290!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	66.35%
+Cluster 755022
+32587	CP001997	Aminobacterium colombiense DSM 12261, complete genome.	No	Synergistia	4Fe-4S ferredoxin iron-sulfur binding domain protein	ADE57739
+fig|1522.120.peg.1072|GT670_00310!!!Ferredoxin!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	64.91%
+Cluster 139853
+13887	CP000056	Streptococcus pyogenes MGAS6180, complete genome.	Yes	Lactobacillales	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase	AAX71275
+fig|1522.120.peg.4507|GT670_21570!!!Co-activator!of!prophage!gene!expression!IbrA!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	74.77%
+Cluster 177305
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	Tn916, transposase	ABP89883
+fig|1522.120.peg.4056|GT670_04290!!!putative!transposon!integrase;!Tn916!ORF3-like!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	64.27%
+fig|1522.120.peg.2770|GT670_16535!!!putative!transposon!integrase;!Tn916!ORF3-like!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	64.01%
+fig|1522.120.peg.3698|GT670_19245!!!putative!transposon!integrase;!Tn916!ORF3-like!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	63.98%
+fig|1522.120.peg.3859|GT670_19985!!!putative!transposon!integrase;!Tn916!ORF3-like!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	61.33%
+fig|1522.120.peg.3861|GT670_19995!!!putative!transposon!integrase;!Tn916!ORF3-like!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	63.22%
+fig|1522.120.peg.4872|GT670_22070!!!putative!transposon!integrase;!Tn916!ORF3-like!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	62.43%
+Cluster 41245
+304	CP000246	Clostridium perfringens ATCC 13124, complete genome.	Yes	Clostridia	[Fe] hydrogenase	ABG83453
+fig|1522.120.peg.4371|GT670_04525!!!Rubrerythrin!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	62.36%
+Cluster 499884
+10676	AE017245	Mycoplasma synoviae 53, complete genome.	No	Mollicutes	50S ribosomal protein L11	AAZ44031
+fig|1522.120.peg.255|GT670_07650!!!LSU!ribosomal!protein!L11p!(L12e)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.14%
+Cluster 15489
+17675	CP000472	Shewanella piezotolerans WP3, complete genome.	No	Gammaproteobacteria	RscS	ACJ31247
+fig|1522.120.peg.3841!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	61.90%
+Cluster 118383
+29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Yes	Lactobacillales	Tn5251 transcriptional regulator Cro/CI family	ACF55955
+fig|1522.120.peg.639|GT670_09385!!!Tn916,!transcriptional!regulator,!putative!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	62.31%
+fig|1522.120.peg.1875|GT670_13680!!!Tn916,!transcriptional!regulator,!putative!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	62.16%
+Cluster 704149
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	ATP synthase F0, C subunit	ABW20096
+fig|1522.120.peg.1774|GT670_13235!!!ATP!synthase!F0!sector!subunit!c!(EC!3.6.3.14)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.49%
+Cluster 314872
+16394	CP000923	Thermoanaerobacter sp. X514, complete genome.	No	Clostridia	hypothetical protein	ABY92511
+fig|1522.120.peg.443|GT670_08510!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	70.89%
+Cluster 3429
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Collagen adhesion protein	ABF36208
+fig|1522.120.peg.1549|GT670_12215!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	82.55%
+Cluster 65348
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Site-specific recombinase	ABF36155
+fig|1522.120.peg.1850|GT670_13560!!!Site-specific!recombinase!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	69.81%
+Cluster 103860
+16366	CP000262	Streptococcus pyogenes MGAS10750, complete genome.	Yes	Lactobacillales	Site-specific recombinase	ABF38669
+fig|1522.120.peg.1705|GT670_12910!!!Site-specific!recombinase!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	68.81%
+Cluster 65642
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	antigen-like protein	ABF36173
+fig|1522.120.peg.1575|GT670_12335!!!Invasion!associated!protein!p60!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	77.85%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|1522.120.peg.4537|GT670_21695!!!SSU!ribosomal!protein!S12p!(S23e)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	67.86%
+Cluster 442770
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative single-strand binding protein	CAJ67247
+fig|1522.120.peg.1672|GT670_12755!!!FIG00516476:!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	70.32%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|1522.120.peg.2933|GT670_02650!!!LSU!ribosomal!protein!L34p!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	70.45%
+Cluster 677399
+16366	CP000262	Streptococcus pyogenes MGAS10750, complete genome.	Yes	Lactobacillales	hypothetical protein	ABF38635
+fig|1522.120.peg.3710|GT670_19310!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	66.67%
+Cluster 610106
+30767	FM204884	Streptococcus equi subsp. zooepidemicus H70, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	CAW99779
+fig|1522.120.peg.1701|GT670_12895!!!FIG00532040:!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	63.50%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|1522.120.peg.4534|GT670_21680!!!Translation!elongation!factor!Tu!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	65.74%
+Cluster 633894
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	transcriptional regulator, GntR family	ADL03686
+fig|1522.120.peg.3527|GT670_03415!!!Transcriptional!regulator,!GntR!family!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	70.16%
+Cluster 239455
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	probable ATP binding protein of ABC transporter	BAF39823
+fig|1522.120.peg.66|GT670_06800!!!Teichoic!acid!export!ATP-binding!protein!TagH!(EC!3.6.3.40)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.00%
+Cluster 147528
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative GMP synthase	ABR41201
+fig|1522.120.peg.3531|GT670_03430!!!GMP!synthase![glutamine-hydrolyzing],!amidotransferase!subunit!(EC!6.3.5.2)!/!GMP!synthase![glutamine-hydrolyzing],!ATP!pyrophosphatase!subunit!(EC!6.3.5.2)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	80.70%
+Cluster 46562
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	2-isopropylmalate synthase	ABR34342
+fig|1522.120.peg.3824|GT670_19835!!!2-isopropylmalate!synthase!(EC!2.3.3.13)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.82%
+Cluster 548830
+9638	AE017198	Lactobacillus johnsonii NCC 533, complete genome.	No	Lactobacillales	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIB, probable mannose specific	AAS09428
+fig|1522.120.peg.2794|GT670_16640!!!PTS!system,!fructose-!and!mannose-inducible!IIB!component!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	61.35%
+Cluster 99801
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	protein TprK	ACD71313
+fig|1522.120.peg.3311!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	66.20%
+Cluster 634071
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein	AAN78502
+fig|1522.120.peg.870!!!Transposase,!IS200!family!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	68.75%
+Cluster 140957
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative conjugative transposon mobilization protein	CAJ68743
+fig|1522.120.peg.1696|GT670_12870!!!COG1340:!Uncharacterized!archaeal!coiled-coil!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	74.04%
+Cluster 629285
+16217	AP007255	Magnetospirillum magneticum AMB-1 DNA, complete genome.	No	Alphaproteobacteria	Translation initiation factor 1	BAE52143
+fig|1522.120.peg.3938|GT670_03805!!!Translation!initiation!factor!1!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	68.06%
+Cluster 38673
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conjugative transposon protein	CBE07574
+fig|1522.120.peg.1867|GT670_13640!!!putative!membrane!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	85.47%
+Cluster 113216
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative oxidative stress protein	CAJ67662
+fig|1522.120.peg.619|GT670_09280!!!Glutamate!synthase![NADPH]!large!chain!(EC!1.4.1.13)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.31%
+Cluster 566196
+32195	FM179322	Lactobacillus rhamnosus GG whole genome sequence, strain GG (ATCC 53103).	No	Lactobacillales	PTS system, mannose-specific IIB component	CAR86310
+fig|1522.120.peg.4087|GT670_20380!!!PTS!system,!mannose-specific!IIB!component!(EC!2.7.1.191)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	61.78%
+Cluster 64158
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	TraG/TraD family	ABF36182
+fig|1522.120.peg.1567|GT670_12295!!!TrsK-like!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	88.79%
+Cluster 415
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative helicase	CAJ67246
+fig|1522.120.peg.1671|GT670_12750!!!FIG00524451:!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	73.27%
+Cluster 736089
+30165	CP001983	Bacillus megaterium QM B1551, complete genome.	No	Bacillales	hypothetical protein	ADE70673
+fig|1522.120.peg.3631|GT670_18950!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	71.21%
+Cluster 384891
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	Cof-like hydrolase	ACZ07278
+fig|1522.120.peg.4443|GT670_04815!!!Hydrolase!(HAD!superfamily)!in!cluster!with!DUF1447!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	62.65%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|1522.120.peg.3920|GT670_03715!!!SSU!ribosomal!protein!S19p!(S15e)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	72.83%
+Cluster 185334
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	integrase	CAJ67935
+fig|1522.120.peg.3313|GT670_18220!!!putative!transposon!integrase;!Tn916!ORF3-like!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	62.50%
+Cluster 204343
+249	AE008691	Thermoanaerobacter tengcongensis MB4, complete genome.	No	Clostridia	Acyl-CoA dehydrogenases	AAM23821
+fig|1522.120.peg.4922|GT670_06220!!!Electron!bifurcating!butyryl-CoA!dehydrogenase!(NAD+,!ferredoxin)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	64.64%
+Cluster 639253
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A	ABF36181
+fig|1522.120.peg.1568|GT670_12300!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	75.21%
+Cluster 342221
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	hypothetical protein	ABF36179
+fig|1522.120.peg.1570|GT670_12310!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	91.37%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|1522.120.peg.3941|GT670_03820!!!SSU!ribosomal!protein!S11p!(S14e)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	68.18%
+Cluster 739428
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	excisionase	CAJ67936
+fig|1522.120.peg.464|GT670_08595!!!putative!transposon!excisionase;!Tn916!ORF1-like!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	83.33%
+fig|1522.120.peg.621|GT670_09290!!!Mobile!element!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	82.09%
+fig|1522.120.peg.2822!!!Mobile!element!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	78.18%
+fig|1522.120.peg.3857|GT670_19975!!!Mobile!element!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	74.63%
+fig|1522.120.peg.4266|GT670_21170!!!Mobile!element!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	77.61%
+fig|1522.120.peg.4867!!!Mobile!element!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	72.41%
+fig|1522.120.peg.4876|GT670_22085!!!Mobile!element!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	76.12%
+Cluster 196545
+32637	CP002116	Spirochaeta smaragdinae DSM 11293, complete genome.	No	Spirochaetales	iron-containing alcohol dehydrogenase	ADK81512
+fig|1522.120.peg.1716|GT670_12965!!!NADH-dependent!butanol!dehydrogenase!A!(EC!1.1.1.-)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.57%
+Cluster 216437
+9638	AE017198	Lactobacillus johnsonii NCC 533, complete genome.	No	Lactobacillales	hypothetical protein	AAS09001
+fig|1522.120.peg.4267!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	63.64%
+fig|1522.120.peg.4865!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	63.64%
+fig|1522.120.peg.4875!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	63.64%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|1522.120.peg.3926|GT670_03745!!!LSU!ribosomal!protein!L14p!(L23e)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	72.95%
+Cluster 59882
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	dihydroxyacetone kinase, L subunit	ABM57797
+fig|1522.120.peg.390|GT670_08270!!!Putative!dihydroxyacetone!kinase!(EC!2.7.1.29),!dihydroxyacetone!binding!subunit!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	64.29%
+Cluster 558360
+30767	FM204884	Streptococcus equi subsp. zooepidemicus H70, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	CAW99821
+fig|1522.120.peg.3713|GT670_19325!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	65.84%
+Cluster 499937
+29859	CP001581	Clostridium botulinum A2 str. Kyoto, complete genome.	Yes	Clostridia	conserved hypothetical protein	ACO87013
+fig|1522.120.peg.553|GT670_09015!!!Iron-sulfur!flavoprotein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	65.08%
+Cluster 262941
+29409	CP001175	Listeria monocytogenes HCC23, complete genome.	Yes	Bacillales	oxidoreductase, NAD-binding	ACK41060
+fig|1522.120.peg.2433|GT670_15120!!!Oxidoreductase,!Gfo/Idh/MocA!family!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	80.48%
+Cluster 360306
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	hypothetical protein	ABF36184
+fig|1522.120.peg.1564|GT670_12280!!!FIG01117807:!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	79.69%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|1522.120.peg.3939|GT670_03810!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	76.32%
+Cluster 540524
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	GAF domain protein	ABX42387
+fig|1522.120.peg.2316|GT670_14645!!!Free!methionine-(R)-sulfoxide!reductase,!contains!GAF!domain!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.67%
+Cluster 71880
+18981	AP008971	Finegoldia magna ATCC 29328 DNA, complete genome.	Yes	Clostridia	DNA topoisomerase III	BAG08374
+fig|1522.120.peg.3701|GT670_19265!!!DNA!topoisomerase!III!(EC!5.99.1.2)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.14%
+Cluster 135807
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative mobilization protein	CAJ67947
+fig|1522.120.peg.3218|GT670_17785!!!FIG00647030:!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	84.82%
+Cluster 415620
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	glutamate synthase (NADPH) GltB3 subunit	ABN51442
+fig|1522.120.peg.1031|GT670_00120!!!Glutamate!synthase,!alpha!subunit!domain!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.00%
+Cluster 647404
+29309	CP001779	Streptobacillus moniliformis DSM 12112, complete genome.	Yes	Fusobacteriales	conserved hypothetical protein	ACZ01140
+fig|1522.120.peg.1697|GT670_12875!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	68.91%
+Cluster 77478
+16366	CP000262	Streptococcus pyogenes MGAS10750, complete genome.	Yes	Lactobacillales	Site-specific recombinase	ABF38667
+fig|1522.120.peg.1703|GT670_12900!!!Site-specific!recombinase!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	75.22%
+Cluster 214290
+29543	CP001959	Brachyspira murdochii DSM 12563, complete genome.	No	Spirochaetales	inner-membrane translocator	ADG71053
+fig|1522.120.peg.1078|GT670_00340!!!ABC!transporter,!permease!protein!1!(cluster!11,!riboflavin/purine!nucleoside/unknown)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	61.37%
+Cluster 324150
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	phosphoglycerate mutase	ABE42842
+fig|1522.120.peg.950|GT670_10725!!!Phosphoglycerate!mutase!(EC!5.4.2.11)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	61.60%
+Cluster 568508
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	LSU ribosomal protein L21P	ABJ60136
+fig|1522.120.peg.106|GT670_06985!!!LSU!ribosomal!protein!L21p!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	61.17%
+Cluster 507827
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	3-isopropylmalate dehydratase, small subunit	ABN53412
+fig|1522.120.peg.3826|GT670_19845!!!3-isopropylmalate!dehydratase!small!subunit!(EC!4.2.1.33)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	69.51%
+Cluster 101393
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	glutamate synthase (NADPH) GltB2 subunit	ABN51439
+fig|1522.120.peg.1032|GT670_00125!!!Glutamate!synthase![NADPH]!large!chain!(EC!1.4.1.13)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	77.64%
+Cluster 699084
+29431	CP001968	Denitrovibrio acetiphilus DSM 12809, complete genome.	No	Deferribacterales	30S ribosomal protein S17	ADD67181
+fig|1522.120.peg.3925|GT670_03740!!!SSU!ribosomal!protein!S17p!(S11e)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	62.79%
+Cluster 358959
+294	AE009439	Methanopyrus kandleri AV19, complete genome.	No	Methanopyri	Imidazoleglycerol-phosphate synthase	AAM01390
+fig|1522.120.peg.588|GT670_09155!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.08%
+Cluster 504649
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	TetR-family transcriptional regulator	CAJ70229
+fig|1522.120.peg.1864|GT670_13625!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	69.19%
+Cluster 404945
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE03095
+fig|1522.120.peg.4989|GT670_06515!!!FIG00514432:!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	62.45%
+Cluster 545086
+215	AE000657	Aquifex aeolicus VF5, complete genome.	No	Aquificales	glycerol-3-phosphate cytidyltransferase	AAC07343
+fig|1522.120.peg.2711|GT670_16275!!!Glycerol-3-phosphate!cytidylyltransferase!(EC!2.7.7.39)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	70.00%
+Cluster 497541
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	thiW protein	ADB47191
+fig|1522.120.peg.3307|GT670_18195!!!Substrate-specific!component!ThiW!of!predicted!thiazole!ECF!transporter!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	65.78%
+Cluster 268581
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	LtrC	ABF36187
+fig|1522.120.peg.1559|GT670_12255!!!TnpY!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	72.48%
+Cluster 551904
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conjugative transposon protein	CBE07569
+fig|1522.120.peg.1871|GT670_13660!!!FIG00512738:!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	75.76%
+Cluster 619361
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative transposon protein	CAJ67197
+fig|1522.120.peg.1869|GT670_13650!!!FIG00516843:!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	93.02%
+Cluster 619362
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative transposon membrane protein	CAJ70285
+fig|1522.120.peg.633|GT670_09350!!!FIG00516843:!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	99.24%
+Cluster 479185
+20739	CP001682	Cryptobacterium curtum DSM 15641, complete genome.	Yes	Coriobacteridae	hypothetical protein	ACU94515
+fig|1522.120.peg.727|GT670_09760!!!FIG01197404:!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	74.63%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|1522.120.peg.3940|GT670_03815!!!SSU!ribosomal!protein!S13p!(S18e)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	71.90%
+Cluster 295296
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	glycyl-radical enzyme activating protein family	ABR32504
+fig|1522.120.peg.1416!!!Pyruvate!formate-lyase!activating!enzyme!(EC!1.97.1.4)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.87%
+Cluster 712887
+17053	CP000949	Pseudomonas putida W619, complete genome.	No	Gammaproteobacteria	cold-shock DNA-binding domain protein	ACA73898
+fig|1522.120.peg.1710|GT670_12935!!!Cold!shock!protein!of!CSP!family!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.00%
+Cluster 741867
+249	AE008691	Thermoanaerobacter tengcongensis MB4, complete genome.	No	Clostridia	Ribosomal protein L29	AAM25427
+fig|1522.120.peg.3924|GT670_03735!!!LSU!ribosomal!protein!L29p!(L35e)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	65.15%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|1522.120.peg.1196|GT670_00890!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	65.51%
+Cluster 25677
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	TRSE protein	ABF36177
+fig|1522.120.peg.1572|GT670_12320!!!FIG01020158:!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	94.08%
+Cluster 186438
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	integrase	CAJ67177
+fig|1522.120.peg.620|GT670_09285!!!putative!transposon!integrase;!Tn916!ORF3-like!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	99.24%
+Cluster 76459
+295	AE009951	Fusobacterium nucleatum subsp. nucleatum ATCC 25586, complete genome.	Yes	Fusobacteriales	Hypothetical cytosolic protein	AAL94770
+fig|1522.120.peg.1695|GT670_12865!!!Phage!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	62.50%
+Cluster 336093
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	CRISPR-associated protein, Csd2 family	ACV64358
+fig|1522.120.peg.2750|GT670_16450!!!CRISPR-associated!protein,!Csd2/Csh2!family!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	65.48%
+Cluster 18848
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	Non-specific serine/threonine protein kinase	ABR49910
+fig|1522.120.peg.4159|GT670_20725!!!Helicase,!SNF2/RAD54!family!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	63.01%
+Cluster 459506
+43535	CP002034	Lactobacillus salivarius CECT 5713, complete genome.	No	Lactobacillales	UDP-galactose phosphate transferase	ADJ79094
+fig|1522.120.peg.2602|GT670_15840!!!Lipid!carrier!:!UDP-N-acetylgalactosaminyltransferase!(EC!2.4.1.-)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	67.84%
+Cluster 561907
+33271	AP009049	Clostridium kluyveri NBRC 12016 DNA, complete genome.	No	Clostridia	hypothetical protein	BAH05286
+fig|1522.120.peg.3144|GT670_17435!!!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.80%
+Cluster 74998
+28537	CP001084	Lactobacillus casei str. Zhang, complete genome.	No	Lactobacillales	Mannose-specific PTS system component IICD	ADK19951
+fig|1522.120.peg.4085|GT670_20370!!!PTS!system,!sorbose-specific!IIC!component!/!PTS!system,!sorbose-specific!IID!component!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	78.08%
+Cluster 445434
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	ribosomal protein S5	ABM09869
+fig|1522.120.peg.3933|GT670_03780!!!SSU!ribosomal!protein!S5p!(S2e)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	62.94%
+Cluster 473787
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Adenine-specific methyltransferase	ABF36180
+fig|1522.120.peg.494|GT670_08740!!!MunI-like!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	65.78%
+fig|1522.120.peg.1569|GT670_12305!!!MunI-like!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	76.12%
+fig|1522.120.peg.3114|GT670_17290!!!MunI-like!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	61.41%
+Cluster 548861
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative transposon protein	CAJ70287
+fig|1522.120.peg.635|GT670_09360!!!FIG00512738:!hypothetical!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	92.22%
+Cluster 548863
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative tranposon protein	CAJ67198
+fig|1522.120.peg.634|GT670_09355!!!Antirestriction!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	96.41%
+Cluster 548862
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conjugative tranposon protein	CBE07571
+fig|1522.120.peg.1870|GT670_13655!!!Antirestriction!protein!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	76.05%
+Cluster 555218
+20089	CP001071	Akkermansia muciniphila ATCC BAA-835, complete genome.	No	Verrucomicrobiae	Phosphoribosyl-AMP cyclohydrolase	ACD04448
+fig|1522.120.peg.589|GT670_09160!!!Phosphoribosyl-AMP!cyclohydrolase!(EC!3.5.4.19)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	62.04%
+Cluster 76956
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	exosporium glycoprotein	CAJ70128
+fig|1522.120.peg.2075|GT670_01375!!!hypothetical!protein!formerly!called!flagellar!hook-length!control!protein!FliK!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.34%
+Cluster 163155
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	ammonium transporter	ABR49520
+fig|1522.120.peg.1036!!!Ammonium!transporter!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	67.25%
+Cluster 693631
+16062	DQ489736	Leuconostoc citreum KM20, complete genome.	No	Lactobacillales	Ribosomal protein S18	ACA82004
+fig|1522.120.peg.1436|GT670_11730!!!SSU!ribosomal!protein!S18p!@!SSU!ribosomal!protein!S18p,!zinc-independent!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	61.84%
+Cluster 216426
+29531	CP001818	Thermanaerovibrio acidaminovorans DSM 6589, complete genome.	No	Synergistia	uracil phosphoribosyltransferase	ACZ19174
+fig|1522.120.peg.1770|GT670_13215!!!Uracil!phosphoribosyltransferase!(EC!2.4.2.9)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	61.17%
+Cluster 663146
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S16	ABP89762
+fig|1522.120.peg.1102|GT670_00435!!!SSU!ribosomal!protein!S16p!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	65.56%
+Cluster 266411
+32637	CP002116	Spirochaeta smaragdinae DSM 11293, complete genome.	No	Spirochaetales	D-isomer specific 2-hydroxyacid dehydrogenase NAD-binding protein	ADK81507
+fig|1522.120.peg.1722|GT670_12990!!!D-3-phosphoglycerate!dehydrogenase!(EC!1.1.1.95)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	61.40%
+Cluster 445072
+13376	CP001791	Bacillus selenitireducens MLS10, complete genome.	No	Bacillales	deoxyribose-phosphate aldolase	ADH98280
+fig|1522.120.peg.2031|GT670_01170!!!Deoxyribose-phosphate!aldolase!(EC!4.1.2.4)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	60.45%
+Cluster 714071
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S Ribosomal protein S21	ABP90399
+fig|1522.120.peg.21|GT670_06615!!!SSU!ribosomal!protein!S21p!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	62.71%
+Cluster 557963
+18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	No	Bacillales	LSU ribosomal protein L16P	ABK83530
+fig|1522.120.peg.3923|GT670_03730!!!LSU!ribosomal!protein!L16p!(L10e)!!![[Clostridium]!innocuum!strain!BIOML-A4!|!1522.120]	75.36%

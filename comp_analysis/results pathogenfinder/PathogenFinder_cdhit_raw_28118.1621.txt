@@ -1,0 +1,494 @@
+Cluster 450661
+20089	CP001071	Akkermansia muciniphila ATCC BAA-835, complete genome.	No	Verrucomicrobiae	DNA-3-methyladenine glycosylase I	ACD05802
+fig|28118.1621.peg.3364|GKD52_03750!!!DNA-3-methyladenine!glycosylase!(EC!3.2.2.20)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	65.99%
+Cluster 444901
+12749	CP001108	Prosthecochloris aestuarii DSM 271, complete genome.	No	Chlorobia	transaldolase	ACF47232
+fig|28118.1621.peg.4064|GKD52_04850!!!Transaldolase!(EC!2.2.1.2)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	60.09%
+Cluster 91765
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	UDP-glucose 6-dehydrogenase	BAG33762
+fig|28118.1621.peg.2564|GKD52_14900!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	62.53%
+Cluster 91766
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	sugar dehydrogenase, UDP-glucose/GDP-mannose dehydrogenase family	AAQ66250
+fig|28118.1621.peg.2583!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	62.89%
+Cluster 42977
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47083
+fig|28118.1621.peg.4185|GKD52_19510!!!Putative!glycosyl!hydrolase!of!unknown!function!(DUF1680)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	71.76%
+Cluster 194958
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50342
+fig|28118.1621.peg.3787|GKD52_18620!!!Integral!membrane!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	69.77%
+Cluster 607135
+54	CP000383	Cytophaga hutchinsonii ATCC 33406, complete genome.	No	Cytophagia	possible type II general secretion pathway (GSP) G protein	ABG60438
+fig|28118.1621.peg.1897|GKD52_12555!!!Type!IV!pilin!PilA!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.71%
+Cluster 523531
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH06940
+fig|28118.1621.peg.2391|GKD52_02460!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	62.50%
+Cluster 700834
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42722
+fig|28118.1621.peg.4086|GKD52_04945!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	66.67%
+Cluster 145636
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	DNA-damage-inducible protein F	BAD47445
+fig|28118.1621.peg.1513|GKD52_11575!!!DNA-damage-inducible!protein!F!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	66.44%
+Cluster 87767
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative C4-dicarboxylate anaerobic carrier	CAH06781
+fig|28118.1621.peg.1873|GKD52_12445!!!Uncharacterized!symport/antiport-type!transporter!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	75.71%
+Cluster 652635
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD46895
+fig|28118.1621.peg.2301|GKD52_02025!!!FIG00938987:!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 128987
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein found in conjugate transposon	CAH06954
+fig|28118.1621.peg.664|GKD52_08555!!!Conjugative!transposon!protein!TraM!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	66.59%
+Cluster 47868
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39532
+fig|28118.1621.peg.3532|GKD52_17945!!!Uncharacterized!protein!TP_0851!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.39%
+Cluster 507123
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative regulatory protein	BAD50547
+fig|28118.1621.peg.4210|GKD52_05290!!!cAMP-binding!proteins!-!catabolite!gene!activator!and!regulatory!subunit!of!cAMP-dependent!protein!kinases!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	68.25%
+Cluster 8891
+12749	CP001108	Prosthecochloris aestuarii DSM 271, complete genome.	No	Chlorobia	methylmalonyl-CoA mutase, large subunit	ACF45920
+fig|28118.1621.peg.1888|GKD52_12520!!!Methylmalonyl-CoA!mutase!large!subunit,!MutB!(EC!5.4.99.2)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.07%
+Cluster 177977
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	transposase	ABR43960
+fig|28118.1621.peg.3687|GKD52_04215!!!Transposase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.68%
+Cluster 380411
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon	BAD48111
+fig|28118.1621.peg.654|GKD52_08505!!!Conjugative!transposon!protein!TraA!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	99.23%
+fig|28118.1621.peg.2955|GKD52_16110!!!Conjugative!transposon!protein!TraA!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	60.00%
+Cluster 177132
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48184
+fig|28118.1621.peg.2575|GKD52_14960!!!Long-chain-fatty-acid--CoA!ligase!(EC!6.2.1.3)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	63.37%
+Cluster 416571
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	3-oxoacyl-[acyl-carrier-protein] reductase	BAD48185
+fig|28118.1621.peg.2574|GKD52_14955!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	74.58%
+Cluster 686176
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraL	BAD48102
+fig|28118.1621.peg.663|GKD52_08550!!!Conjugative!transposon!protein!TraL!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	84.21%
+Cluster 565007
+16251	CP000239	Synechococcus sp. JA-3-3Ab, complete genome.	No	Chroococcales	ribosomal protein L16	ABC99359
+fig|28118.1621.peg.339|GKD52_07110!!!LSU!ribosomal!protein!L16p!(L10e)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	63.57%
+Cluster 145719
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	hypothetical protein	CAH06805
+fig|28118.1621.peg.4095|GKD52_04980!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	73.00%
+Cluster 23957
+29175	CP001251	Dictyoglomus turgidum DSM 6724, complete genome.	No	Dictyoglomales	Alpha-N-arabinofuranosidase	ACK43011
+fig|28118.1621.peg.4079!!!alpha-L-arabinofuranosidase!(EC!3.2.1.55)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.44%
+Cluster 564813
+16159	CP000159	Salinibacter ruber DSM 13855, complete genome.	No	Sphingobacteria	30S ribosomal protein S11	ABC45438
+fig|28118.1621.peg.321|GKD52_07020!!!SSU!ribosomal!protein!S11p!(S14e)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	60.77%
+Cluster 710843
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAG34197
+fig|28118.1621.peg.1170|GKD52_09995!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	86.30%
+Cluster 213600
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	uncharacterized Fe-S center protein	ADB46936
+fig|28118.1621.peg.4270|GKD52_05560!!!Uncharacterized!di-Fe4-S4!cluster-containing!protein!MA_0367!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.02%
+Cluster 589088
+16082	CP000685	Flavobacterium johnsoniae UW101, complete genome.	No	Flavobacteria	LSU ribosomal protein L21P	ABQ04577
+fig|28118.1621.peg.3985|GKD52_19115!!!LSU!ribosomal!protein!L21p!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	71.84%
+Cluster 367937
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	putative undecaprenol kinase	ADE82252
+fig|28118.1621.peg.2832|GKD52_02805!!!Undecaprenyl-diphosphatase!(EC!3.6.1.27)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	62.36%
+Cluster 212596
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative LPS biosynthesis related glycosyltransferase	ABR43956
+fig|28118.1621.peg.3701|GKD52_04280!!!Undecaprenyl-phosphate!alpha-N-acetylglucosaminyl!1-phosphate!transferase!(EC!2.7.8.33)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	88.47%
+Cluster 577882
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45627
+fig|28118.1621.peg.4202!!!Cell!wall-associated!hydrolase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	81.58%
+Cluster 97274
+32637	CP002116	Spirochaeta smaragdinae DSM 11293, complete genome.	No	Spirochaetales	biotin and thiamin synthesis associated	ADK82503
+fig|28118.1621.peg.2890|GKD52_03085!!![FeFe]-hydrogenase!maturation!protein!HydG!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	65.73%
+Cluster 180166
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative Na+/H+ exchange protein	ABR42695
+fig|28118.1621.peg.2190|GKD52_13900!!!putative!Na+/H+!exchange!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	63.61%
+Cluster 507914
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48654
+fig|28118.1621.peg.3181|GKD52_17140!!!Flavodoxin!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	71.28%
+Cluster 479710
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative transcriptional regulator	BAD48142
+fig|28118.1621.peg.2447|GKD52_14365!!!Transcriptional!regulator,!AcrR!family!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	70.94%
+Cluster 18176
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47883
+fig|28118.1621.peg.1177|GKD52_10030!!!FIG00898139:!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.12%
+Cluster 482501
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TetR/AcrR family transcriptional regulator	BAD48856
+fig|28118.1621.peg.3453|GKD52_17585!!!Transcriptional!regulator,!AcrR!family!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.04%
+Cluster 195603
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative hydrolase	BAD47080
+fig|28118.1621.peg.3023|GKD52_16420!!!putative!alpha-1,6-mannanase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	65.62%
+Cluster 82717
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative transposase	CAH09726
+fig|28118.1621.peg.1722|GKD52_01265!!!ISNCY!family!transposase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	93.74%
+Cluster 633059
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraH	BAD46871
+fig|28118.1621.peg.2330|GKD52_02165!!!Conjugative!transposon!protein!TraH!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|28118.1621.peg.350|GKD52_07165!!!SSU!ribosomal!protein!S12p!(S23e)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.96%
+Cluster 52864
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative helicase	ABR42895
+fig|28118.1621.peg.289!!!Putative!helicase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	63.92%
+fig|28118.1621.peg.290|GKD52_06860!!!Putative!helicase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	71.01%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|28118.1621.peg.3734|GKD52_18360!!!LSU!ribosomal!protein!L34p!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	78.85%
+Cluster 561293
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD48095
+fig|28118.1621.peg.669|GKD52_08580!!!FIG00897394:!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	93.75%
+Cluster 508953
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49058
+fig|28118.1621.peg.4!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	73.57%
+fig|28118.1621.peg.6!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	67.57%
+Cluster 503614
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraO	BAD46864
+fig|28118.1621.peg.2337|GKD52_02200!!!Conjugative!transposon!protein!TraO!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 137950
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative transmembrane protein	CAH06745
+fig|28118.1621.peg.2750|GKD52_15785!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	63.98%
+fig|28118.1621.peg.2751!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	68.64%
+Cluster 410575
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative capsular polysaccharide biosythesis protein	ABR44944
+fig|28118.1621.peg.3705|GKD52_04300!!!Protein!tyrosine!phosphatase!(EC!3.1.3.48)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	70.13%
+Cluster 15777
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative TonB-dependent outer membrane protein	BAD48739
+fig|28118.1621.peg.4002|GKD52_19195!!!Thiamin-regulated!outer!membrane!receptor!Omr1!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	60.39%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|28118.1621.peg.2091|GKD52_13450!!!Translation!elongation!factor!Tu!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.05%
+Cluster 50039
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42903
+fig|28118.1621.peg.3460|GKD52_17615!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	71.03%
+Cluster 424195
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	translation initiation factor IF-3	ADE81404
+fig|28118.1621.peg.2538|GKD52_14780!!!Translation!initiation!factor!3!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	65.36%
+Cluster 25868
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative tyrosine protein kinase	ABR44945
+fig|28118.1621.peg.3703|GKD52_04290!!!Tyrosine-protein!kinase!(EC!2.7.10.2)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	93.17%
+Cluster 33282
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative adenosylmethionine-8-amino-7-oxononanoate aminotransferase	CAH07318
+fig|28118.1621.peg.187|GKD52_06380!!!Adenosylmethionine-8-amino-7-oxononanoate!aminotransferase!(EC!2.6.1.62)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.47%
+Cluster 131182
+15771	CP000360	Candidatus Koribacter versatilis Ellin345, complete genome.	No	Candidatus Koribacter	metal dependent phosphohydrolase	ABF39502
+fig|28118.1621.peg.1189!!!UDP-N-acetylglucosamine!4,6-dehydratase!(EC!4.2.1.135)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	65.22%
+fig|28118.1621.peg.3835!!!UDP-N-acetylglucosamine!4,6-dehydratase!(EC!4.2.1.135)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	65.22%
+Cluster 442578
+16082	CP000685	Flavobacterium johnsoniae UW101, complete genome.	No	Flavobacteria	peptidyl-tRNA hydrolase	ABQ04161
+fig|28118.1621.peg.3158|GKD52_17035!!!Peptidyl-tRNA!hydrolase!(EC!3.1.1.29)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.38%
+Cluster 607208
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD46855
+fig|28118.1621.peg.2347|GKD52_02250!!!FIG00899057:!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 25227
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	dipeptidyl peptidase IV	ABR39494
+fig|28118.1621.peg.1571|GKD52_11840!!!FIG00897066:!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	80.86%
+Cluster 42301
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48127
+fig|28118.1621.peg.643|GKD52_08460!!!Toprim!domain!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	96.96%
+Cluster 769173
+281	CP000031	Ruegeria pomeroyi DSS-3, complete genome.	No	Alphaproteobacteria	ribosomal protein L36	AAV97120
+fig|28118.1621.peg.323|GKD52_07030!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	65.79%
+Cluster 172696
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	tyrosine type site-specific recombinase	BAD48089
+fig|28118.1621.peg.1534!!!Transposase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	98.62%
+Cluster 426747
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative cytochrome c biogenesis protein	ABR45209
+fig|28118.1621.peg.3369|GKD52_03765!!!Cytochrome!c!biogenesis!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.54%
+Cluster 548222
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraQ	BAD46862
+fig|28118.1621.peg.2339|GKD52_02210!!!Conjugative!transposon!protein!TraQ!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 721691
+54	CP000383	Cytophaga hutchinsonii ATCC 33406, complete genome.	No	Cytophagia	acyl carrier protein	ABG58669
+fig|28118.1621.peg.774|GKD52_09075!!!Acyl!carrier!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	70.51%
+Cluster 283953
+235	BA000004	Bacillus halodurans C-125 DNA, complete genome.	No	Bacillales	ABC transporter (ATP-binding protein)	BAB06933
+fig|28118.1621.peg.38|GKD52_05780!!!Uncharacterized!protein!BT_0925!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.79%
+Cluster 681020
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41328
+fig|28118.1621.peg.2297|GKD52_02005!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	76.24%
+Cluster 198343
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	NADH:ubiquinone oxidoreductase, B subunit	ADE81830
+fig|28118.1621.peg.3587|GKD52_18205!!!Na(+)-translocating!NADH-quinone!reductase!subunit!B!(EC!1.6.5.8)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	60.58%
+Cluster 269996
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraN	BAD46865
+fig|28118.1621.peg.2336|GKD52_02195!!!Conjugative!transposon!protein!TraN!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 518046
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	ribosomal protein L17	ACU02852
+fig|28118.1621.peg.318|GKD52_07005!!!LSU!ribosomal!protein!L17p!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	62.35%
+Cluster 172603
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	tyrosine type site-specific recombinase	BAD49750
+fig|28118.1621.peg.2157|GKD52_13750!!!Integrase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	74.57%
+Cluster 87387
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	transposase	ABR40825
+fig|28118.1621.peg.2315|GKD52_02090!!!Mobile!element!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 312092
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraP	BAD46863
+fig|28118.1621.peg.2338|GKD52_02205!!!DNA!primase,!TraP-type!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|28118.1621.peg.342|GKD52_07125!!!SSU!ribosomal!protein!S19p!(S15e)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	66.29%
+Cluster 1191
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative DNA methylase	BAD46891
+fig|28118.1621.peg.1056|GKD52_00765!!!Putative!DNA!methylase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	65.71%
+fig|28118.1621.peg.2305|GKD52_02045!!!Putative!DNA!methylase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 166490
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD46881
+fig|28118.1621.peg.2320|GKD52_02115!!!Putative!conjugative!transposon!mobilization!protein!BF0132!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+fig|28118.1621.peg.4041|GKD52_19370!!!Putative!conjugative!transposon!mobilization!protein!BF0132!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.34%
+Cluster 722948
+13548	CP000551	Prochlorococcus marinus str. AS9601, complete genome.	No	Prochlorales	50S Ribosomal protein L33	ABM70276
+fig|28118.1621.peg.2184|GKD52_13870!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	66.13%
+Cluster 204343
+249	AE008691	Thermoanaerobacter tengcongensis MB4, complete genome.	No	Clostridia	Acyl-CoA dehydrogenases	AAM23821
+fig|28118.1621.peg.2786|GKD52_02580!!!Electron!bifurcating!butyryl-CoA!dehydrogenase!(NAD+,!ferredoxin)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	65.44%
+fig|28118.1621.peg.1457|GKD52_11355!!!Electron!bifurcating!butyryl-CoA!dehydrogenase!(NAD+,!ferredoxin)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	65.70%
+Cluster 203589
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative membrane protein	ABR42848
+fig|28118.1621.peg.3788!!!Integral!membrane!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	80.00%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|28118.1621.peg.336|GKD52_07095!!!LSU!ribosomal!protein!L14p!(L23e)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	69.42%
+Cluster 654717
+29403	CP001632	Capnocytophaga ochracea DSM 7271, complete genome.	Yes	Flavobacteria	conserved hypothetical protein	ACU92636
+fig|28118.1621.peg.314|GKD52_06985!!!Protein!DUF2149,!predicted!transporter!component!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.82%
+Cluster 426700
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative membrane protein	ABR44306
+fig|28118.1621.peg.2670|GKD52_15420!!!LrgA-associated!membrane!protein!LrgB!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.30%
+Cluster 191041
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative Xaa-Pro dipeptidase	ABR42681
+fig|28118.1621.peg.1350|GKD52_10855!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.28%
+Cluster 197240
+28505	CP000939	Clostridium botulinum B1 str. Okra, complete genome.	Yes	Clostridia	sodium:dicarboxylate symporter family protein	ACA45407
+fig|28118.1621.peg.990|GKD52_00475!!!Proton/glutamate!symporter!@!Sodium/glutamate!symporter!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	66.93%
+Cluster 588836
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein found in conjugate transposon	CAH06964
+fig|28118.1621.peg.655|GKD52_08510!!!Conjugative!transposon!protein!TraB!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	67.61%
+Cluster 685848
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraE	BAD48108
+fig|28118.1621.peg.657|GKD52_08520!!!Conjugative!transposon!protein!TraE!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	98.98%
+Cluster 170694
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	tyrosine type site-specific recombinase	BAD46901
+fig|28118.1621.peg.2295|GKD52_01995!!!Integrase!=>!IntDOT!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 304144
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44353
+fig|28118.1621.peg.566!!!Transposase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.36%
+Cluster 335558
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	AMP nucleosidase	ACU05276
+fig|28118.1621.peg.3524|GKD52_17910!!!AMP!nucleosidase!(EC!3.2.2.4)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.37%
+Cluster 67584
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	DNA polymerase III subunit gamma/tau	ABR43819
+fig|28118.1621.peg.4265|GKD52_05540!!!DNA!polymerase!III!subunits!gamma!and!tau!(EC!2.7.7.7)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	65.31%
+Cluster 665000
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39858
+fig|28118.1621.peg.521|GKD52_07900!!!Protein!DUF2149,!predicted!transporter!component!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	71.96%
+Cluster 1415
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	putative DNA methylase	BAG32605
+fig|28118.1621.peg.2557|GKD52_14865!!!Putative!DNA!methylase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	66.55%
+Cluster 529951
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative anti-restriction protein	BAD48093
+fig|28118.1621.peg.671|GKD52_08590!!!Antirestriction!protein!ArdA!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	96.61%
+Cluster 38010
+12733	CP000264	Jannaschia sp. CCS1, complete genome.	No	Alphaproteobacteria	organic solvent tolerance protein putative	ABD54729
+fig|28118.1621.peg.4205!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	66.67%
+Cluster 437236
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative K+ uptake system protein	ABR40099
+fig|28118.1621.peg.2095|GKD52_13470!!!KtrAB!potassium!uptake!system,!peripheral!membrane!component!KtrA!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	62.72%
+Cluster 730508
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48094
+fig|28118.1621.peg.670|GKD52_08585!!!FIG00404869:!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	86.11%
+Cluster 751719
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAG34595
+fig|28118.1621.peg.1070|GKD52_00835!!!nitrite!reductase-related!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	72.41%
+Cluster 139866
+13461	CP001712	Robiginitalea biformata HTCC2501, complete genome.	No	Flavobacteria	hypothetical protein	EAR15124
+fig|28118.1621.peg.207|GKD52_06480!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.24%
+Cluster 60126
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	K+ uptake protein	BAD47993
+fig|28118.1621.peg.2096|GKD52_13475!!!KtrAB!potassium!uptake!system,!integral!membrane!component!KtrB!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	67.55%
+fig|28118.1621.peg.2097!!!KtrAB!potassium!uptake!system,!integral!membrane!component!KtrB!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	65.13%
+Cluster 255336
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41310
+fig|28118.1621.peg.919|GKD52_00140!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	98.52%
+Cluster 193220
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	Na+/H+-dicarboxylate symporter	ABR44437
+fig|28118.1621.peg.3902|GKD52_04555!!!Na+/H+-dicarboxylate!symporter!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	66.15%
+Cluster 178956
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	tyrosine type site-specific recombinase	BAD49751
+fig|28118.1621.peg.2156|GKD52_13745!!!Integrase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	67.99%
+Cluster 294508
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraN	BAG33113
+fig|28118.1621.peg.2940|GKD52_16035!!!Conjugative!transposon!protein!TraN!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	80.07%
+Cluster 500245
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraO	BAD48099
+fig|28118.1621.peg.666|GKD52_08565!!!Conjugative!transposon!protein!TraO!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	96.89%
+Cluster 671399
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD48096
+fig|28118.1621.peg.668|GKD52_08575!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	88.68%
+Cluster 173886
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	periplasmic component of efflux system	ABR45057
+fig|28118.1621.peg.1132|GKD52_09810!!!ABC!export!system,!membrane!fusion!protein!BT1213!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	62.44%
+Cluster 38195
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative helicase	ABR43675
+fig|28118.1621.peg.2999|GKD52_16310!!!DNA!repair!and!recombination!protein,!putative!helicase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	62.30%
+Cluster 58324
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative Fe-S oxidoreductase	BAD49871
+fig|28118.1621.peg.3420|GKD52_17440!!!UPF0313![4Fe-4S]!protein!YgiQ!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.11%
+Cluster 452033
+29175	CP001251	Dictyoglomus turgidum DSM 6724, complete genome.	No	Dictyoglomales	ATP synthase F0, A subunit	ACK41467
+fig|28118.1621.peg.4012|GKD52_19230!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	63.64%
+Cluster 294507
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraN	BAD48100
+fig|28118.1621.peg.665|GKD52_08560!!!Conjugative!transposon!protein!TraN!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	97.11%
+Cluster 90159
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH08574
+fig|28118.1621.peg.2637|GKD52_15260!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	60.96%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|28118.1621.peg.322|GKD52_07025!!!SSU!ribosomal!protein!S13p!(S18e)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.60%
+Cluster 183014
+15771	CP000360	Candidatus Koribacter versatilis Ellin345, complete genome.	No	Candidatus Koribacter	6-phosphofructokinase	ABF40625
+fig|28118.1621.peg.2859|GKD52_02935!!!6-phosphofructokinase!(EC!2.7.1.11)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	70.63%
+Cluster 292732
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	DNA primase	ABR45204
+fig|28118.1621.peg.498|GKD52_07810!!!DNA!primase,!TraP-type!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	84.62%
+Cluster 29376
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative outer membrane protein	ABR41311
+fig|28118.1621.peg.918|GKD52_00135!!!Outer!membrane!hemin!receptor!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	98.20%
+Cluster 95486
+81	AE015927	Clostridium tetani E88, complete genome.	Yes	Clostridia	transporter	AAO35967
+fig|28118.1621.peg.3458|GKD52_17605!!!Heterodimeric!efflux!ABC!transporter,!permease/ATP-binding!subunit!2!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	67.22%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|28118.1621.peg.2883|GKD52_03050!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	72.12%
+Cluster 710374
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD46857
+fig|28118.1621.peg.2345|GKD52_02240!!!FIG00938992:!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 710375
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42500
+fig|28118.1621.peg.4023|GKD52_19285!!!FIG00403362:!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	96.47%
+Cluster 532533
+29403	CP001632	Capnocytophaga ochracea DSM 7271, complete genome.	Yes	Flavobacteria	D-tyrosyl-tRNA(Tyr) deacylase	ACU92127
+fig|28118.1621.peg.1761|GKD52_01450!!!D-aminoacyl-tRNA!deacylase!(EC!3.1.1.96)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	60.00%
+Cluster 706833
+29493	CP001358	Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774, complete genome.	No	Deltaproteobacteria	protein of unknown function DUF37	ACL49864
+fig|28118.1621.peg.1811|GKD52_01690!!!Membrane!protein!insertion!efficiency!factor!YidD!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.64%
+Cluster 42271
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	beta-N-acetylhexosaminidase	CAH07512
+fig|28118.1621.peg.537|GKD52_07975!!!beta-glycosyl!hydrolase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	63.86%
+Cluster 421182
+277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Yes	Lactobacillales	hypothetical protein	AAK74842
+fig|28118.1621.peg.2760!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.90%
+Cluster 140726
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD46856
+fig|28118.1621.peg.2346|GKD52_02245!!!FIG00897206:!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|28118.1621.peg.324|GKD52_07035!!!Translation!initiation!factor!1!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	67.12%
+Cluster 679863
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42492
+fig|28118.1621.peg.4059|GKD52_19430!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 646891
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48128
+fig|28118.1621.peg.642|GKD52_08455!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	97.48%
+Cluster 673359
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraE	BAD46874
+fig|28118.1621.peg.2327|GKD52_02150!!!Conjugative!transposon!protein!TraE!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+fig|28118.1621.peg.2393|GKD52_14100!!!Conjugative!transposon!protein!TraE!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	81.55%
+fig|28118.1621.peg.2951|GKD52_16090!!!Conjugative!transposon!protein!TraE!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	83.00%
+Cluster 134622
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraM	BAD46866
+fig|28118.1621.peg.2335|GKD52_02190!!!Conjugative!transposon!protein!TraM!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 575949
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	probable conserved protein found in conjugate transposon	BAG32575
+fig|28118.1621.peg.2938|GKD52_16025!!!Conjugative!transposon!protein!TraQ!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.90%
+Cluster 523673
+32637	CP002116	Spirochaeta smaragdinae DSM 11293, complete genome.	No	Spirochaetales	deoxycytidine triphosphate deaminase	ADK79293
+fig|28118.1621.peg.303|GKD52_06935!!!Deoxycytidine!triphosphate!deaminase!(EC!3.5.4.13)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	63.37%
+Cluster 486434
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42725
+fig|28118.1621.peg.1683|GKD52_01090!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	70.71%
+Cluster 669119
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative transmembrane conserved protein found in conjugate transposon	CAH07465
+fig|28118.1621.peg.2950|GKD52_16085!!!Conjugative!transposon!protein!TraF!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	71.96%
+Cluster 148208
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	alpha-L-fucosidase precursor	BAD50163
+fig|28118.1621.peg.1174|GKD52_10015!!!alpha-L-fucosidase!(EC!3.2.1.51)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	73.67%
+Cluster 179031
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative sugar transporter	CAH06669
+fig|28118.1621.peg.1283|GKD52_10525!!!N-acetyl!glucosamine!transporter,!NagP!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	70.00%
+Cluster 640891
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41291
+fig|28118.1621.peg.110|GKD52_19735!!!Mobile!element!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	72.13%
+Cluster 185303
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR38394
+fig|28118.1621.peg.3713|GKD52_04335!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	78.34%
+Cluster 265570
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon	BAD48104
+fig|28118.1621.peg.661|GKD52_08540!!!Conjugative!transposon!protein!TraJ!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	96.07%
+Cluster 706009
+13570	CP002046	Croceibacter atlanticus HTCC2559, complete genome.	No	Flavobacteria	putative 30S ribosomal protein S17	EAP88241
+fig|28118.1621.peg.337|GKD52_07100!!!SSU!ribosomal!protein!S17p!(S11e)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	72.94%
+Cluster 109789
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	DEAD/DEAH box helicase domain protein	ADB38469
+fig|28118.1621.peg.4296|GKD52_05665!!!ATP-dependent!RNA!helicase!RhlE!(EC!3.6.4.13)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	60.43%
+Cluster 644829
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD46900
+fig|28118.1621.peg.2296|GKD52_02000!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 225299
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative transmembrane acyltransferase protein	ABR42127
+fig|28118.1621.peg.3174|GKD52_17105!!!Integral!membrane!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	86.19%
+Cluster 91486
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44627
+fig|28118.1621.peg.3782|GKD52_18595!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	68.14%
+Cluster 576605
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraQ	BAD48097
+fig|28118.1621.peg.667|GKD52_08570!!!Conjugative!transposon!protein!TraQ!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	96.05%
+Cluster 662035
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraF	BAD48107
+fig|28118.1621.peg.658|GKD52_08525!!!Conjugative!transposon!protein!TraF!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	96.40%
+Cluster 143327
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative two-component system response regulator	CAH07235
+fig|28118.1621.peg.487|GKD52_07760!!!CTnDOT!two-component!system!response!regulator!and!RteC!activator,!RteB!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	90.12%
+fig|28118.1621.peg.488!!!Two-component!system!response!regulator!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	87.90%
+Cluster 143326
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	rteB gene product	BAD46887
+fig|28118.1621.peg.2308|GKD52_02060!!!CTnDOT!two-component!system!response!regulator!and!RteC!activator,!RteB!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 9894
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	two-component system sensor histidine kinase	BAD49455
+fig|28118.1621.peg.2506!!!Two-component!system!sensor!histidine!kinase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	68.76%
+fig|28118.1621.peg.2507|GKD52_14635!!!Two-component!system!sensor!histidine!kinase!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.34%
+Cluster 761228
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	hypothetical protein	ADE83267
+fig|28118.1621.peg.2183|GKD52_13865!!!Uncharacterized!protein!Fjoh_4981,!DUF4295-containing!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	72.00%
+Cluster 631228
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative protein-export membrane protein	ABR41984
+fig|28118.1621.peg.394|GKD52_07355!!!Protein!translocase!membrane!subunit!SecG!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	60.83%
+Cluster 96585
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative osmoprotectant ABC transporter, substrate-binding/permease protein	CBE06872
+fig|28118.1621.peg.3198|GKD52_17210!!!ABC!transporter,!permease!protein!(cluster!13,!osmolytes)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	63.38%
+Cluster 375423
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	iron(III) ABC transporter ATP-binding protein	BAD49772
+fig|28118.1621.peg.3644|GKD52_04015!!!Vitamin!B12!ABC!transporter,!ATP-binding!protein!BtuD!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	73.62%
+fig|28118.1621.peg.3904|GKD52_04565!!!Vitamin!B12!ABC!transporter,!ATP-binding!protein!BtuD!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	71.71%
+Cluster 392543
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	electron transport complex, RnfABCDGE type, E subunit	ABX40601
+fig|28118.1621.peg.1594|GKD52_11955!!!Electron!transport!complex!protein!RnfE!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.03%
+Cluster 663767
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraF	BAD46873
+fig|28118.1621.peg.2328|GKD52_02155!!!Conjugative!transposon!protein!TraF!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	100.00%
+Cluster 753583
+12606	CP001097	Chlorobium limicola DSM 245, complete genome.	No	Chlorobia	Rubredoxin-type Fe(Cys)4 protein	ACD89276
+fig|28118.1621.peg.2510|GKD52_14650!!!Rubredoxin!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	68.52%
+Cluster 63732
+29407	CP001393	Caldicellulosiruptor bescii DSM 6725, complete genome.	No	Clostridia	NADH dehydrogenase (quinone)	ACM60398
+fig|28118.1621.peg.445|GKD52_07585!!!NADP-reducing![FeFe]-hydrogenase!subunit!HndC!(EC!1.12.1.3)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	67.28%
+Cluster 54893
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	dicarboxylate transporter	ACD71374
+fig|28118.1621.peg.1391!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	62.07%
+Cluster 691547
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH08975
+fig|28118.1621.peg.3615!!!hypothetical!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	64.81%
+Cluster 378530
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	Crotonase (3-hydroxybutyryl-COA dehydratase)	AAK80658
+fig|28118.1621.peg.2789|GKD52_02595!!!3-hydroxybutyryl-CoA!dehydratase!(EC!4.2.1.55)!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	61.78%
+Cluster 256488
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	iron(III) ABC transporter ATP-binding protein	ABR42785
+fig|28118.1621.peg.1344|GKD52_10825!!!Vitamin!B12!ABC!transporter,!ATP-binding!protein!BtuD!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	69.76%
+Cluster 165493
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR40805
+fig|28118.1621.peg.2041|GKD52_13230!!!ABC!transporter,!permease!protein!!![Odoribacter!splanchnicus!strain!BIOML-A4!|!28118.1621]	69.95%

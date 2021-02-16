@@ -1,0 +1,472 @@
+Cluster 561594
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX72463
+fig|539.170.peg.545!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.39%
+Cluster 258572
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	Putative transposase for IS1106A3	CAM10165
+fig|539.170.peg.278!!!Mobile!element!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	94.51%
+Cluster 258570
+252	AL157959	Neisseria meningitidis serogroup A strain Z2491 complete genome.	Yes	Betaproteobacteria	insertion element IS1106A3 transposase	CAM08902
+fig|539.170.peg.287!!!Mobile!element!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	82.54%
+Cluster 3474
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	transcription-repair coupling factor	CAM10454
+fig|539.170.peg.1529!!!Transcription-repair!coupling!factor!!![Eikenella!corrodens!strain!EI_09!|!539.170]	65.65%
+Cluster 158900
+251	AE002098	Neisseria meningitidis MC58, complete genome.	Yes	Betaproteobacteria	hemK protein	AAF42384
+fig|539.170.peg.1335!!!Peptide!chain!release!factor!N(5)-glutamine!methyltransferase!(EC!2.1.1.297)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.59%
+Cluster 580713
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	CAM10929
+fig|539.170.peg.1102!!!Transcriptional!regulator!MraZ!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.93%
+Cluster 672379
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	histone family protein DNA-binding protein	ABM58439
+fig|539.170.peg.672!!!DNA-binding!protein!HU-beta!!![Eikenella!corrodens!strain!EI_09!|!539.170]	66.29%
+Cluster 40685
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	cysteinyl-tRNA synthetase	ABX72324
+fig|539.170.peg.1503!!!Cysteinyl-tRNA!synthetase!(EC!6.1.1.16)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	89.22%
+Cluster 210083
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	ATP-binding protein involved in chromosome partitioning	ABX72583
+fig|539.170.peg.1256!!![4Fe-4S]!cluster!assembly!scaffold!protein!Mrp!(=ApbC)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	70.28%
+Cluster 710163
+17415	CP000851	Shewanella pealeana ATCC 700345, complete genome.	No	Gammaproteobacteria	4Fe-4S ferredoxin iron-sulfur binding domain protein	ABV88333
+fig|539.170.peg.1758!!!Uncharacterized!ferredoxin-like!protein!YfhL!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.35%
+Cluster 144142
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	2,3,4,5-tetrahydropyridine-2-carboxylate N-succin	AAW75239
+fig|539.170.peg.853!!!2,3,4,5-tetrahydropyridine-2,6-dicarboxylate!N-succinyltransferase!(EC!2.3.1.117)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	64.84%
+Cluster 610740
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	Glyoxalase/bleomycin resistance protein/dioxygenase	ABF11151
+fig|539.170.peg.172!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	71.83%
+Cluster 126105
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	putative monooxygenase	CAM11015
+fig|539.170.peg.942!!!Ubiquinone!biosynthesis!hydroxylase,!UbiH/UbiF/VisC/COQ6!family!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.05%
+Cluster 733007
+33241	CP001674	Methylovorus sp. SIP3-4, complete genome.	No	Betaproteobacteria	conserved hypothetical protein	ACT49294
+fig|539.170.peg.1172!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.00%
+Cluster 97550
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable anthranilate synthase componentIprotein	CAD16588
+fig|539.170.peg.275!!!Anthranilate!synthase,!aminase!component!(EC!4.1.3.27)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.60%
+Cluster 352568
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	methionine aminopeptidase, type I	ACK54919
+fig|539.170.peg.2117!!!Methionine!aminopeptidase!(EC!3.4.11.18)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	66.28%
+Cluster 415036
+20097	CP001623	Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132501, complete sequence.	No	Alphaproteobacteria	protein of unknown function DUF624	ACS59263
+fig|539.170.peg.797!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.86%
+Cluster 78902
+251	AE002098	Neisseria meningitidis MC58, complete genome.	Yes	Betaproteobacteria	pqiB protein	AAF42020
+fig|539.170.peg.1157!!!Paraquat-inducible!protein!B!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.65%
+Cluster 136861
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	tRNA-guanine transglycosylase	ABF75152
+fig|539.170.peg.798!!!Queuine!tRNA-ribosyltransferase!(EC!2.4.2.29)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	70.35%
+Cluster 534397
+388	CP000947	Haemophilus somnus 2336, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACA31900
+fig|539.170.peg.1836!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.94%
+Cluster 510557
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	probable cytidylyltransferase	CAI08511
+fig|539.170.peg.1818!!!D-glycero-beta-D-manno-heptose!1-phosphate!adenylyltransferase!(EC!2.7.7.70)!/!D-glycero-beta-D-manno-heptose-7-phosphate!kinase!(EC!2.7.1.167)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	68.26%
+Cluster 633002
+250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	No	Betaproteobacteria	cold-shock DNA-binding domain protein	ABF12030
+fig|539.170.peg.316!!!Cold!shock!protein!of!CSP!family!!![Eikenella!corrodens!strain!EI_09!|!539.170]	65.67%
+Cluster 90903
+33241	CP001674	Methylovorus sp. SIP3-4, complete genome.	No	Betaproteobacteria	small GTP-binding protein	ACT50955
+fig|539.170.peg.2536!!!GTP-binding!protein!EngA!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.27%
+Cluster 538961
+252	AL157959	Neisseria meningitidis serogroup A strain Z2491 complete genome.	Yes	Betaproteobacteria	hypothetical integral membrane protein	CAM09097
+fig|539.170.peg.421!!!Integral!membrane!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	84.62%
+Cluster 569368
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	Ferritin Dps family protein	ACK52902
+fig|539.170.peg.2064!!!DNA!protection!during!starvation!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	66.67%
+Cluster 267799
+17729	CP000769	Anaeromyxobacter sp. Fw109-5, complete genome.	No	Deltaproteobacteria	succinyl-CoA synthetase, alpha subunit	ABS27902
+fig|539.170.peg.721!!!Succinyl-CoA!ligase![ADP-forming]!alpha!chain!(EC!6.2.1.5)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.84%
+Cluster 410045
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	ABX72481
+fig|539.170.peg.1191!!!Flavin!prenyltransferase!UbiX!!![Eikenella!corrodens!strain!EI_09!|!539.170]	67.36%
+Cluster 257193
+12997	CP000838	Acaryochloris marina MBIC11017 plasmid pREB1, complete sequence.	No	Acaryochloris	cysteine synthase A	ABW31421
+fig|539.170.peg.1905!!!Cysteine!synthase!(EC!2.5.1.47)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.54%
+Cluster 101614
+29335	CP001050	Neisseria gonorrhoeae NCCP11945, complete genome.	Yes	Betaproteobacteria	ATP-dependent DNA helicase	ACF30601
+fig|539.170.peg.2409!!!ATP-dependent!helicase!HrpA!!![Eikenella!corrodens!strain!EI_09!|!539.170]	95.69%
+Cluster 373820
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	DNA repair protein (recombination protein o)	ABX73840
+fig|539.170.peg.379!!!DNA!recombination!and!repair!protein!RecO!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.57%
+Cluster 153916
+39	AE004439	Pasteurella multocida subsp. multocida str. Pm70, complete genome.	Yes	Gammaproteobacteria	unknown	AAK04033
+fig|539.170.peg.104!!!Integrase!!![Eikenella!corrodens!strain!EI_09!|!539.170]	81.48%
+Cluster 11409
+10700	BX908798	Parachlamydia-related symbiont UWE25, complete genome.	Yes	Chlamydiales	probable glycyl-tRNA synthetase	CAF23417
+fig|539.170.peg.837!!!Glycyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.14)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.07%
+Cluster 539375
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	aspartate 1-decarboxylase	ABX73369
+fig|539.170.peg.1331!!!Aspartate!1-decarboxylase!(EC!4.1.1.11)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	84.25%
+Cluster 59668
+23	AE004969	Neisseria gonorrhoeae FA 1090, complete genome.	Yes	Betaproteobacteria	putative disulphide isomerase	AAW89664
+fig|539.170.peg.135!!!Cytochrome!c-type!biogenesis!protein!DsbD,!protein-disulfide!reductase!(EC!1.8.1.8)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.10%
+Cluster 473002
+33241	CP001674	Methylovorus sp. SIP3-4, complete genome.	No	Betaproteobacteria	ribosomal protein L4/L1e	ACT49551
+fig|539.170.peg.1589!!!LSU!ribosomal!protein!L4p!(L1e)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	63.59%
+Cluster 31747
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	ribonucleoside-diphosphate reductase 1 alpha subunit	BAE74859
+fig|539.170.peg.2337!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!alpha!subunit!(EC!1.17.4.1)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	78.26%
+Cluster 363750
+29335	CP001050	Neisseria gonorrhoeae NCCP11945, complete genome.	Yes	Betaproteobacteria	putative nucleoside phosphorylase	ACF29193
+fig|539.170.peg.1949!!!5'-methylthioadenosine!nucleosidase!(EC!3.2.2.16)!@!S-adenosylhomocysteine!nucleosidase!(EC!3.2.2.9)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	63.79%
+Cluster 574123
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX73343
+fig|539.170.peg.1786!!!RidA/YER057c/UK114!superfamily,!group!2,!YoaB-like!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	64.41%
+Cluster 150994
+13932	CP000133	Rhizobium etli CFN 42, complete genome.	No	Alphaproteobacteria	putative GTP-binding protein	ABC91798
+fig|539.170.peg.2088!!!GTP-binding!and!nucleic!acid-binding!protein!YchF!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.33%
+Cluster 165632
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	pseudouridine synthase	ABX73444
+fig|539.170.peg.380!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	75.08%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|539.170.peg.1752!!!SSU!ribosomal!protein!S12p!(S23e)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	81.30%
+Cluster 375811
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	putative transferase	CAM10093
+fig|539.170.peg.407!!!Spermidine!synthase-like!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	70.38%
+Cluster 497668
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	NusG antitermination factor	ACS64242
+fig|539.170.peg.1761!!!Transcription!antitermination!protein!NusG!!![Eikenella!corrodens!strain!EI_09!|!539.170]	63.33%
+Cluster 379234
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	cytidylate kinase	ABX73386
+fig|539.170.peg.815!!!Cytidylate!kinase!(EC!2.7.4.25)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	70.51%
+Cluster 506165
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	hypothetical protein	CAM10100
+fig|539.170.peg.1708!!!LSU!ribosomal!protein!L25p!!![Eikenella!corrodens!strain!EI_09!|!539.170]	67.37%
+Cluster 286103
+15750	CP000301	Rhodopseudomonas palustris BisB18, complete genome.	No	Alphaproteobacteria	electron transfer flavoprotein, alpha subunit	ABD90401
+fig|539.170.peg.2406!!!Electron!transfer!flavoprotein,!alpha!subunit!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.06%
+Cluster 205073
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	CAI08474
+fig|539.170.peg.2515!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	69.91%
+Cluster 172027
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	hypothetical conserved protein	ACY35283
+fig|539.170.peg.378!!!protein!of!unknown!function!DUF711!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.15%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|539.170.peg.1755!!!Translation!elongation!factor!Tu!!![Eikenella!corrodens!strain!EI_09!|!539.170]	68.27%
+fig|539.170.peg.1759!!!Translation!elongation!factor!Tu!!![Eikenella!corrodens!strain!EI_09!|!539.170]	68.27%
+Cluster 502864
+23	AE004969	Neisseria gonorrhoeae FA 1090, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	AAW89910
+fig|539.170.peg.1904!!!unknown,!len:!191aa!!![Eikenella!corrodens!strain!EI_09!|!539.170]	63.40%
+Cluster 180062
+17407	CP000868	Burkholderia multivorans ATCC 17616 chromosome 1, complete sequence.	Yes	Betaproteobacteria	porphobilinogen deaminase	ABX14563
+fig|539.170.peg.483!!!Porphobilinogen!deaminase!(EC!2.5.1.61)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	67.31%
+Cluster 388236
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	periplasmic carrier protein	ABX72768
+fig|539.170.peg.647!!!Outer!membrane!lipoprotein!carrier!protein!LolA!!![Eikenella!corrodens!strain!EI_09!|!539.170]	69.76%
+Cluster 360845
+23	AE004969	Neisseria gonorrhoeae FA 1090, complete genome.	Yes	Betaproteobacteria	putative methylase family protein	AAW89397
+fig|539.170.peg.1778!!!tRNA!(cytidine(32)/uridine(32)-2'-O)-methyltransferase!(EC!2.1.1.200)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	66.79%
+Cluster 205059
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	NemA protein	AAU38903
+fig|539.170.peg.429!!!NemA!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.11%
+Cluster 238894
+251	AE002098	Neisseria meningitidis MC58, complete genome.	Yes	Betaproteobacteria	transaldolase	AAF40794
+fig|539.170.peg.1964!!!Transaldolase!(EC!2.2.1.2)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	65.69%
+Cluster 141924
+251	AE002098	Neisseria meningitidis MC58, complete genome.	Yes	Betaproteobacteria	putative membrane-bound lytic murein transglycosylase A	AAF40504
+fig|539.170.peg.213!!!Membrane-bound!lytic!murein!transglycosylase!A!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.21%
+Cluster 655098
+23	AE004969	Neisseria gonorrhoeae FA 1090, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	AAW90595
+fig|539.170.peg.2507!!!UPF0102!protein!YraN!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.74%
+Cluster 337559
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	3-oxoacyl- reductase	AAW74135
+fig|539.170.peg.2050!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Eikenella!corrodens!strain!EI_09!|!539.170]	65.73%
+Cluster 604161
+46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Yes	Gammaproteobacteria	chaperonin protein Cpn10	ADG61751
+fig|539.170.peg.882!!!Heat!shock!protein!10!kDa!family!chaperone!GroES!!![Eikenella!corrodens!strain!EI_09!|!539.170]	65.26%
+Cluster 468298
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX72680
+fig|539.170.peg.83!!!Metal-dependent!hydrolase!YbeY,!involved!in!rRNA!and/or!ribosome!maturation!and!assembly!!![Eikenella!corrodens!strain!EI_09!|!539.170]	66.86%
+Cluster 290214
+34687	FM999788	Neisseria meningitidis 8013, complete genome.	Yes	Betaproteobacteria	putative tellurite resistance protein TehA	CAX49669
+fig|539.170.peg.1382!!!Tellurite!resistance!protein!TehA!!![Eikenella!corrodens!strain!EI_09!|!539.170]	72.93%
+Cluster 228319
+29335	CP001050	Neisseria gonorrhoeae NCCP11945, complete genome.	Yes	Betaproteobacteria	Transporter, putative	ACF29700
+fig|539.170.peg.2486!!!Putative!permease!often!clustered!with!de!novo!purine!synthesis!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.75%
+Cluster 18794
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	ATP-dependent Clp protease ATP-binding subunit clpA	ABA48302
+fig|539.170.peg.319!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpA!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.35%
+Cluster 767506
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	50S ribosomal protein L36	CAO97529
+fig|539.170.peg.2345!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Eikenella!corrodens!strain!EI_09!|!539.170]	73.17%
+Cluster 534172
+16217	AP007255	Magnetospirillum magneticum AMB-1 DNA, complete genome.	No	Alphaproteobacteria	Predicted membrane protein	BAE52624
+fig|539.170.peg.2056!!!Bacterial/Archaeal!Transporter!family!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.54%
+Cluster 456449
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	Insertion element IS1016 transposase	CAM11110
+fig|539.170.peg.1603!!!Mobile!element!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	92.17%
+Cluster 388393
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	putative hydrolase	CAM09578
+fig|539.170.peg.2350!!!Pimeloyl-[acyl-carrier!protein]!methyl!ester!esterase!BioH!(EC!3.1.1.85)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.29%
+Cluster 734630
+34687	FM999788	Neisseria meningitidis 8013, complete genome.	Yes	Betaproteobacteria	putative prophage regulator protein	CAX49700
+fig|539.170.peg.920!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	63.64%
+Cluster 532816
+13126	CR628337	Legionella pneumophila str. Lens complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S7	CAH14596
+fig|539.170.peg.1753!!!SSU!ribosomal!protein!S7p!(S5e)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	63.06%
+Cluster 555721
+13946	CP000548	Burkholderia mallei NCTC 10247 chromosome I, complete sequence.	Yes	Betaproteobacteria	50S ribosomal protein L28	ABO05945
+fig|539.170.peg.475!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Eikenella!corrodens!strain!EI_09!|!539.170]	92.21%
+Cluster 290057
+444	AE016825	Chromobacterium violaceum ATCC 12472, complete genome.	Yes	Betaproteobacteria	probable oxidoreductase	AAQ58779
+fig|539.170.peg.385!!!23S!rRNA!(guanine(2069)-N(7))-methyltransferase!(EC!2.1.1.264)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	64.97%
+Cluster 668766
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	integration host factor, alpha subunit	ACR10664
+fig|539.170.peg.347!!!Integration!host!factor!alpha!subunit!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.00%
+Cluster 524069
+20479	CP001291	Cyanothece sp. PCC 7424, complete genome.	No	Chroococcales	dTDP-4-dehydrorhamnose 3,5-epimerase	ACK69927
+fig|539.170.peg.826!!!dTDP-4-dehydrorhamnose!3,5-epimerase!(EC!5.1.3.13)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.56%
+Cluster 100765
+23	AE004969	Neisseria gonorrhoeae FA 1090, complete genome.	Yes	Betaproteobacteria	putative ubiquinone biosynthesis protein	AAW90068
+fig|539.170.peg.2546!!!Ubiquinone!biosynthesis!regulatory!protein!kinase!UbiB!!![Eikenella!corrodens!strain!EI_09!|!539.170]	74.60%
+Cluster 657071
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	Fe(II) trafficking protein	ABF08950
+fig|539.170.peg.848!!!FIG001341:!Probable!Fe(2+)-trafficking!protein!YggX!!![Eikenella!corrodens!strain!EI_09!|!539.170]	70.33%
+Cluster 443458
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	Sua5/YciO/YrdC/YwlC family protein	ACR12471
+fig|539.170.peg.581!!!YciO!protein,!TsaC/YrdC!paralog!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.62%
+Cluster 517859
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	lactoylglutathione lyase	ACP05284
+fig|539.170.peg.732!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.60%
+Cluster 43853
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	transketolase	ACY35378
+fig|539.170.peg.1978!!!Transketolase!(EC!2.2.1.1)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.73%
+Cluster 461591
+252	AL157959	Neisseria meningitidis serogroup A strain Z2491 complete genome.	Yes	Betaproteobacteria	putative transposase for IS1016	CAM07926
+fig|539.170.peg.1461!!!Mobile!element!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	80.75%
+Cluster 767476
+251	AE002098	Neisseria meningitidis MC58, complete genome.	Yes	Betaproteobacteria	hypothetical protein	AAF41523
+fig|539.170.peg.1742!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	68.09%
+Cluster 739742
+28805	CP001196	Oligotropha carboxidovorans OM5 strain OM5, complete genome.	No	Alphaproteobacteria	tetraacyldisaccharide 4'-kinase	ACI91494
+fig|539.170.peg.2584!!!FIG002473:!Protein!YcaR!in!KDO2-Lipid!A!biosynthesis!cluster!!![Eikenella!corrodens!strain!EI_09!|!539.170]	63.33%
+Cluster 769615
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX73466
+fig|539.170.peg.864!!!unknown,!len:!42aa!!![Eikenella!corrodens!strain!EI_09!|!539.170]	83.72%
+Cluster 176655
+29199	CP001734	Desulfohalobium retbaense DSM 5692, complete genome.	No	Deltaproteobacteria	UDP-4-keto-6-deoxy-N-acetylglucosamine4-aminotra nsferase	ACV67907
+fig|539.170.peg.1431!!!Bacillosamine/Legionaminic!acid!biosynthesis!aminotransferase!PglE;!4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid!carrier)!aminotransferase!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.08%
+Cluster 78775
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	argininosuccinate lyase	ACY31675
+fig|539.170.peg.2134!!!Argininosuccinate!lyase!(EC!4.3.2.1)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	68.83%
+Cluster 658925
+322	CP000436	Haemophilus somnus 129PT, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABI25426
+fig|539.170.peg.2032!!!Carboxymuconolactone!decarboxylase!family!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	72.57%
+Cluster 171232
+16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABQ99757
+fig|539.170.peg.105!!!Integrase!!![Eikenella!corrodens!strain!EI_09!|!539.170]	64.49%
+Cluster 180273
+29335	CP001050	Neisseria gonorrhoeae NCCP11945, complete genome.	Yes	Betaproteobacteria	Conserved hypothetical protein	ACF30658
+fig|539.170.peg.937!!!Lipopolysaccharide!assembly!protein!LapB!!![Eikenella!corrodens!strain!EI_09!|!539.170]	76.53%
+Cluster 252547
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	SbmABacA family protein	ABM32789
+fig|539.170.peg.2289!!!SbmA!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.98%
+Cluster 202179
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	radical SAM enzyme, Cfr family	ACR01987
+fig|539.170.peg.55!!!23S!rRNA!(adenine(2503)-C(2))-methyltransferase!@!tRNA!(adenine(37)-C(2))-methyltransferase!(EC!2.1.1.192)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	71.35%
+Cluster 444977
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	putative decarboxylase	CAM11077
+fig|539.170.peg.1848!!!Flavin!prenyltransferase!UbiX!!![Eikenella!corrodens!strain!EI_09!|!539.170]	72.00%
+Cluster 744306
+38	AE017143	Haemophilus ducreyi strain 35000HP complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAP96324
+fig|539.170.peg.2023!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	63.49%
+Cluster 285878
+251	AE002098	Neisseria meningitidis MC58, complete genome.	Yes	Betaproteobacteria	glycerate dehydrogenase	AAF40500
+fig|539.170.peg.1306!!!Glycerate!dehydrogenase!(EC!1.1.1.29)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.86%
+Cluster 382111
+29335	CP001050	Neisseria gonorrhoeae NCCP11945, complete genome.	Yes	Betaproteobacteria	phosphatidylserine decarboxylase	ACF29004
+fig|539.170.peg.500!!!Phosphatidylserine!decarboxylase!(EC!4.1.1.65)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	73.44%
+Cluster 315852
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	lipid A biosynthesis lauroyl acyltransferase	ABX72632
+fig|539.170.peg.24!!!Lipid!A!biosynthesis!lauroyl!acyltransferase!(EC!2.3.1.241)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.38%
+Cluster 709672
+46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Yes	Gammaproteobacteria	putative stress-responsive transcriptional regulator	ADG61901
+fig|539.170.peg.2494!!!Putative!stress-responsive!transcriptional!regulator!!![Eikenella!corrodens!strain!EI_09!|!539.170]	70.83%
+Cluster 387786
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	ubiquinone biosynthesis methyltransferase	CAK17706
+fig|539.170.peg.1860!!!2-methoxy-6-polyprenyl-1,4-benzoquinol!methylase!(EC!2.1.1.201)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	64.08%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|539.170.peg.1583!!!LSU!ribosomal!protein!L14p!(L23e)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	81.15%
+Cluster 637659
+23	AE004969	Neisseria gonorrhoeae FA 1090, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	AAW89273
+fig|539.170.peg.530!!!Copper(I)!chaperone!CopZ!!![Eikenella!corrodens!strain!EI_09!|!539.170]	73.91%
+Cluster 189284
+252	AL157959	Neisseria meningitidis serogroup A strain Z2491 complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	CAM08940
+fig|539.170.peg.773!!!Muramoyltetrapeptide!carboxypeptidase!(EC!3.4.17.13)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.44%
+Cluster 744006
+34687	FM999788	Neisseria meningitidis 8013, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	CAX50262
+fig|539.170.peg.2466!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	96.72%
+Cluster 711939
+16426	CP000362	Roseobacter denitrificans OCh 114, complete genome.	No	Alphaproteobacteria	ribosomal protein L33-related protein	ABG31601
+fig|539.170.peg.476!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Eikenella!corrodens!strain!EI_09!|!539.170]	66.67%
+Cluster 185962
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	protein of unknown function DUF6 transmembrane	ADL48873
+fig|539.170.peg.1664!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.75%
+Cluster 374003
+23	AE004969	Neisseria gonorrhoeae FA 1090, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	AAW90755
+fig|539.170.peg.1222!!!Inositol-1-monophosphatase!(EC!3.1.3.25)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	70.99%
+Cluster 756258
+32569	CP001275	Thermomicrobium roseum DSM 5159, complete genome.	No	Thermomicrobiales	ribosomal protein L34	ACM06131
+fig|539.170.peg.1717!!!LSU!ribosomal!protein!L34p!!![Eikenella!corrodens!strain!EI_09!|!539.170]	68.18%
+Cluster 556942
+9635	CP000089	Dechloromonas aromatica RCB, complete genome.	No	Betaproteobacteria	biotin carboxyl carrier protein	AAZ48667
+fig|539.170.peg.1351!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Eikenella!corrodens!strain!EI_09!|!539.170]	63.40%
+Cluster 6616
+34687	FM999788	Neisseria meningitidis 8013, complete genome.	Yes	Betaproteobacteria	SMC protein	CAX50681
+fig|539.170.peg.1214!!!Chromosome!partition!protein!smc!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.26%
+Cluster 659957
+15747	CP000250	Rhodopseudomonas palustris HaA2, complete genome.	No	Alphaproteobacteria	conserved hypothetical protein	ABD07919
+fig|539.170.peg.745!!!Unnamed!protein!product!!![Eikenella!corrodens!strain!EI_09!|!539.170]	65.18%
+Cluster 313593
+251	AE002098	Neisseria meningitidis MC58, complete genome.	Yes	Betaproteobacteria	recombination associated protein RdgC	AAF41262
+fig|539.170.peg.1550!!!DNA!recombination-dependent!growth!factor!RdgC!!![Eikenella!corrodens!strain!EI_09!|!539.170]	79.60%
+Cluster 707593
+29335	CP001050	Neisseria gonorrhoeae NCCP11945, complete genome.	Yes	Betaproteobacteria	Thioredoxin	ACF29176
+fig|539.170.peg.981!!!Glutaredoxin-like!domain-containing!protein!PA3033!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.73%
+Cluster 521905
+30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	No	Betaproteobacteria	NADH-quinone oxidoreductase, chain I	ACS20119
+fig|539.170.peg.1928!!!NADH-ubiquinone!oxidoreductase!chain!I!(EC!1.6.5.3)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	74.21%
+Cluster 668572
+335	AE014299	Shewanella oneidensis MR-1, complete genome.	Yes	Gammaproteobacteria	thioredoxin 1	AAN53489
+fig|539.170.peg.2132!!!Thioredoxin!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.96%
+Cluster 720314
+13649	AM039952	Xanthomonas campestris pv. vesicatoria complete genome.	No	Gammaproteobacteria	acyl carrier protein	CAJ22778
+fig|539.170.peg.779!!!Acyl!carrier!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	69.23%
+Cluster 367844
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|539.170.peg.2405!!!Electron!transfer!flavoprotein,!beta!subunit!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.25%
+Cluster 518096
+20179	CP001191	Rhizobium leguminosarum bv. trifolii WSM2304, complete genome.	No	Alphaproteobacteria	ribosomal protein L19	ACI57017
+fig|539.170.peg.1024!!!LSU!ribosomal!protein!L19p!!![Eikenella!corrodens!strain!EI_09!|!539.170]	65.04%
+Cluster 493655
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	putative cation uptake regulator	CAM10440
+fig|539.170.peg.409!!!Zinc!uptake!regulation!protein!Zur!!![Eikenella!corrodens!strain!EI_09!|!539.170]	74.69%
+Cluster 493656
+23	AE004969	Neisseria gonorrhoeae FA 1090, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	AAW89005
+fig|539.170.peg.1642!!!Mobile!element!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	80.95%
+Cluster 258694
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	endonuclease III	ABQ77294
+fig|539.170.peg.2366!!!Endonuclease!III!(EC!4.2.99.18)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	69.52%
+Cluster 163054
+13908	CP000267	Rhodoferax ferrireducens T118, complete genome.	No	Betaproteobacteria	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase /  2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ABD69066
+fig|539.170.peg.2376!!!2-C-methyl-D-erythritol!2,4-cyclodiphosphate!synthase!(EC!4.6.1.12)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.49%
+Cluster 201257
+17463	CP001053	Burkholderia phytofirmans PsJN chromosome 2, complete sequence.	No	Betaproteobacteria	metalloendopeptidase, glycoprotease family	ACD21073
+fig|539.170.peg.2236!!!N(6)-L-threonylcarbamoyladenine!synthase!(EC!2.3.1.234)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.34%
+Cluster 291041
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX73087
+fig|539.170.peg.2464!!!FIG00640418:!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	87.50%
+Cluster 345446
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	transcriptional regulator, TraR/DksA family	ABM43794
+fig|539.170.peg.1872!!!DksA!family!protein!PA5536!(no!Zn-finger)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.87%
+Cluster 581919
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Acid-induced glycyl radical enzyme	AAS62707
+fig|539.170.peg.898!!!Autonomous!glycyl!radical!cofactor!!![Eikenella!corrodens!strain!EI_09!|!539.170]	65.89%
+Cluster 221962
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	cb-type cytochrome c oxidase subunit III	ABX73782
+fig|539.170.peg.352!!!Cytochrome!c!oxidase!(cbb3-type)!subunit!CcoP!(EC!1.9.3.1)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	68.05%
+Cluster 456470
+34687	FM999788	Neisseria meningitidis 8013, complete genome.	Yes	Betaproteobacteria	IS1016 group transposase	CAX49290
+fig|539.170.peg.2410!!!Mobile!element!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	93.09%
+Cluster 412424
+15749	CP000283	Rhodopseudomonas palustris BisB5, complete genome.	No	Alphaproteobacteria	putative outer membrane protein	ABE38079
+fig|539.170.peg.1840!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	68.18%
+Cluster 411870
+20635	CP001280	Methylocella silvestris BL2, complete genome.	No	Alphaproteobacteria	ribosomal protein L5	ACK49540
+fig|539.170.peg.1582!!!LSU!ribosomal!protein!L5p!(L11e)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.57%
+Cluster 178787
+31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	No	Gammaproteobacteria	homoserine O-acetyltransferase	ACX96659
+fig|539.170.peg.908!!!Homoserine!O-acetyltransferase!(EC!2.3.1.31)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.26%
+Cluster 214101
+29335	CP001050	Neisseria gonorrhoeae NCCP11945, complete genome.	Yes	Betaproteobacteria	Conserved hypothetical protein	ACF29220
+fig|539.170.peg.664!!!TyrA!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.54%
+Cluster 560384
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable nadh dehydrogenaseI(chain b) oxidoreductase protein	CAD15768
+fig|539.170.peg.1920!!!NADH-ubiquinone!oxidoreductase!chain!B!(EC!1.6.5.3)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	83.02%
+Cluster 37234
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	methionyl-tRNA synthetase	ABX72261
+fig|539.170.peg.1564!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	94.78%
+Cluster 43340
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ACC70650
+fig|539.170.peg.49!!!Dihydrolipoamide!dehydrogenase!of!pyruvate!dehydrogenase!complex!(EC!1.8.1.4)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	69.50%
+Cluster 706833
+29493	CP001358	Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774, complete genome.	No	Deltaproteobacteria	protein of unknown function DUF37	ACL49864
+fig|539.170.peg.1719!!!Membrane!protein!insertion!efficiency!factor!YidD!!![Eikenella!corrodens!strain!EI_09!|!539.170]	68.57%
+Cluster 343653
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	ribosomal protein L1	ACG65011
+fig|539.170.peg.1763!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	64.94%
+Cluster 646558
+254	CP000272	Burkholderia xenovorans LB400 chromosome 3, complete sequence.	Yes	Betaproteobacteria	Conserved hypothetical protein	ABE36385
+fig|539.170.peg.1934!!!Mannose-6-phosphate!isomerase!!![Eikenella!corrodens!strain!EI_09!|!539.170]	70.75%
+Cluster 712521
+23	AE004969	Neisseria gonorrhoeae FA 1090, complete genome.	Yes	Betaproteobacteria	hypothetical protein	AAW90007
+fig|539.170.peg.666!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.90%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|539.170.peg.1762!!!LSU!ribosomal!protein!L11p!(L12e)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.07%
+Cluster 572843
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX73576
+fig|539.170.peg.515!!!Universal!stress!protein!UspA!and!related!nucleotide-binding!proteins!!![Eikenella!corrodens!strain!EI_09!|!539.170]	68.18%
+Cluster 419223
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	FabA	ABJ00363
+fig|539.170.peg.2395!!!3-hydroxyacyl-[acyl-carrier-protein]!dehydratase,!FabA!form!(EC!4.2.1.59)!@!Trans-2-decenoyl-[acyl-carrier-protein]!isomerase!(EC!5.3.3.14)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	64.94%
+Cluster 688820
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	50S ribosomal protein L35	ABX72877
+fig|539.170.peg.1477!!!LSU!ribosomal!protein!L35p!!![Eikenella!corrodens!strain!EI_09!|!539.170]	92.31%
+Cluster 382942
+251	AE002098	Neisseria meningitidis MC58, complete genome.	Yes	Betaproteobacteria	ferredoxin--NADP reductase	AAF41809
+fig|539.170.peg.687!!!Ferredoxin--NADP(+)!reductase!(EC!1.18.1.2)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	71.32%
+Cluster 557165
+308	BA000039	Thermosynechococcus elongatus BP-1 DNA, complete genome.	No	Chroococcales	FKBP-type peptidyl-prolyl cis-trans isomerase	BAC08655
+fig|539.170.peg.2327!!!Peptidylprolyl!isomerase,!FKBP-type!(EC!5.2.1.8)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	64.22%
+Cluster 3232
+13384	CP000482	Pelobacter propionicus DSM 2379, complete genome.	No	Deltaproteobacteria	DNA-directed RNA polymerase, beta' subunit	ABK98305
+fig|539.170.peg.1767!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.39%
+Cluster 691010
+23	AE004969	Neisseria gonorrhoeae FA 1090, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein, putative phage associated protein	AAW89698
+fig|539.170.peg.2024!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.05%
+Cluster 164868
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	RNA-binding S4 domain protein	ACB34180
+fig|539.170.peg.2587!!!Pseudouridine!synthase!!![Eikenella!corrodens!strain!EI_09!|!539.170]	66.94%
+Cluster 761394
+29335	CP001050	Neisseria gonorrhoeae NCCP11945, complete genome.	Yes	Betaproteobacteria	putative phage associated protein	ACF30087
+fig|539.170.peg.1028!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	67.35%
+Cluster 168980
+23	AE004969	Neisseria gonorrhoeae FA 1090, complete genome.	Yes	Betaproteobacteria	antibiotic resistance efflux pump component	AAW90013
+fig|539.170.peg.956!!!RND!efflux!system,!membrane!fusion!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.33%
+Cluster 298683
+17407	CP000868	Burkholderia multivorans ATCC 17616 chromosome 1, complete sequence.	Yes	Betaproteobacteria	ribosomal protein S2	ABX14945
+fig|539.170.peg.2356!!!SSU!ribosomal!protein!S2p!(SAe)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	62.35%
+Cluster 488301
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX73966
+fig|539.170.peg.736!!!NADPH-dependent!7-cyano-7-deazaguanine!reductase!(EC!1.7.1.13)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	85.26%
+Cluster 599473
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	integration host factor, beta subunit	ACS62152
+fig|539.170.peg.813!!!Integration!host!factor!beta!subunit!!![Eikenella!corrodens!strain!EI_09!|!539.170]	64.00%
+Cluster 165429
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	oxidoreductase, zinc-binding	AAY91105
+fig|539.170.peg.1611!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	60.46%
+Cluster 545165
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	NADH dehydrogenase chain E	ABF07817
+fig|539.170.peg.1923!!!NADH-ubiquinone!oxidoreductase!chain!E!(EC!1.6.5.3)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	68.15%
+Cluster 651081
+252	AL157959	Neisseria meningitidis serogroup A strain Z2491 complete genome.	Yes	Betaproteobacteria	hypothetical protein	CAM09183
+fig|539.170.peg.2212!!!hypothetical!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	63.64%
+Cluster 642373
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	iron-sulfur cluster assembly accessory protein	ACB35706
+fig|539.170.peg.1404!!!Iron-sulfur!cluster!insertion!protein!ErpA!!![Eikenella!corrodens!strain!EI_09!|!539.170]	71.55%
+Cluster 90056
+18937	CP001645	Ralstonia pickettii 12D chromosome 2, complete sequence.	No	Betaproteobacteria	Spermine synthase	ACS65478
+fig|539.170.peg.1803!!!Spermidine!synthase!N-terminal!extension!/!Spermidine!synthase!(EC!2.5.1.16)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	63.76%
+Cluster 429082
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	CAM10589
+fig|539.170.peg.176!!!Predicted!L-lactate!dehydrogenase,!hypothetical!protein!subunit!YkgG!!![Eikenella!corrodens!strain!EI_09!|!539.170]	63.79%
+Cluster 653304
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	putative inner membrane protei	CAM09568
+fig|539.170.peg.1937!!!Putative!transmembrane!protein!!![Eikenella!corrodens!strain!EI_09!|!539.170]	64.65%
+Cluster 51317
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	3-phosphoshikimate 1-carboxyvinyltransferase	CAI06611
+fig|539.170.peg.222!!!3-phosphoshikimate!1-carboxyvinyltransferase!(EC!2.5.1.19)!!![Eikenella!corrodens!strain!EI_09!|!539.170]	61.63%
