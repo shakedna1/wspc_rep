@@ -1,0 +1,1864 @@
+Cluster 189037
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	Glutamate--tRNA ligase	ACA69736
+fig|1463165.235.peg.3190|GIJ24_22370!!!Glutamyl-Q!tRNA(Asp)!synthetase!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.24%
+Cluster 643115
+254	CP000271	Burkholderia xenovorans LB400 chromosome 2, complete sequence.	Yes	Betaproteobacteria	Conserved hypothetical protein	ABE33780
+fig|1463165.235.peg.1363|GIJ24_06635!!!Mannose-6-phosphate!isomerase!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.93%
+Cluster 567440
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58703
+fig|1463165.235.peg.3100|GIJ24_21980!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.91%
+Cluster 686324
+12986	CP000020	Vibrio fischeri ES114 chromosome I, complete sequence.	No	Gammaproteobacteria	HU, DNA-binding transcriptional regulator, beta subunit	AAW85294
+fig|1463165.235.peg.2683|GIJ24_13015!!!DNA-binding!protein!HU-beta!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.33%
+Cluster 761627
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACF62989
+fig|1463165.235.peg.776|GIJ24_03845!!!Uncharacterized!protein,!YdfD!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.51%
+Cluster 643863
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH76183
+fig|1463165.235.peg.4740|GIJ24_17800!!!Suppression!of!copper!sensitivity:!putative!copper!binding!protein!ScsA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.18%
+Cluster 617071
+31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80515
+fig|1463165.235.peg.3588|GIJ24_24245!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.78%
+Cluster 574492
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YfbV	ADD77810
+fig|1463165.235.peg.207|GIJ24_01055!!!UPF0208!membrane!protein!YfbV!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.83%
+Cluster 568238
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	co-chaperonin GroES	ACN48531
+fig|1463165.235.peg.3793|GIJ24_25265!!!Heat!shock!protein!10!kDa!family!chaperone!GroES!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.88%
+Cluster 230435
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13781
+fig|1463165.235.peg.2627|GIJ24_12735!!!Ferrochelatase,!protoheme!ferro-lyase!(EC!4.99.1.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	85.94%
+Cluster 564114
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	conserved bacteriophage protein	CAX55535
+fig|1463165.235.peg.800|GIJ24_03960!!!Uncharacterized!protein!YbcO!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	78.57%
+Cluster 613553
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	OsmC family protein	ACX89760
+fig|1463165.235.peg.4378|GIJ24_16050!!!Protein!YhfA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	83.58%
+Cluster 45429
+13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAV78633
+fig|1463165.235.peg.4986|GIJ24_18990!!!Hydroxyaromatic!non-oxidative!decarboxylase!protein!B!(EC!4.1.1.-)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	83.76%
+fig|1463165.235.peg.4987|GIJ24_18995!!!Hydroxyaromatic!non-oxidative!decarboxylase!protein!C!(EC!4.1.1.-)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.89%
+Cluster 267446
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	cysteine synthase	ABM35882
+fig|1463165.235.peg.134|GIJ24_00660!!!Cysteine!synthase!(EC!2.5.1.47)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.42%
+Cluster 471723
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	Glutathione S-transferase domain protein	ACZ77600
+fig|1463165.235.peg.200|GIJ24_01025!!!Glutathione!S-transferase!(EC!2.5.1.18)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.25%
+Cluster 672379
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	histone family protein DNA-binding protein	ABM58439
+fig|1463165.235.peg.3999|GIJ24_25800!!!DNA-binding!protein!HU-alpha!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.22%
+Cluster 85675
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	peptide ABC transporter, periplasmic peptide-binding protein	ACI07180
+fig|1463165.235.peg.1317|GIJ24_06430!!!ABC!transporter,!substrate-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	99.44%
+Cluster 638387
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	oriT nicking	ABR80382
+fig|1463165.235.peg.3576|GIJ24_24185!!!IncF!plasmid!conjugative!transfer!regulator!TraY!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.21%
+Cluster 51514
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative transporter	BAH65082
+fig|1463165.235.peg.4788|GIJ24_18030!!!Membrane!fusion!component!MdtO!of!tripartite!multidrug!resistance!system!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.73%
+Cluster 309077
+16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ABO89343
+fig|1463165.235.peg.1791|GIJ24_08645!!!Transcriptional!regulator,!LysR!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.24%
+Cluster 485186
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	MtnD	ADD76040
+fig|1463165.235.peg.2402|GIJ24_11660!!!1,2-dihydroxy-3-keto-5-methylthiopentene!dioxygenase!(EC!1.13.11.54)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.11%
+Cluster 305842
+38403	CP001941	Aciduliprofundum boonei T469, complete genome.	No	Aciduliprofundum	aspartate carbamoyltransferase	ADD08930
+fig|1463165.235.peg.5153|GIJ24_26215!!!Aspartate!carbamoyltransferase!(EC!2.1.3.2)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.33%
+Cluster 430063
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative ABC transporter ATP-binding protein	AAS58665
+fig|1463165.235.peg.3042|GIJ24_21695!!!ABC!transporter,!ATP-binding!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.84%
+Cluster 726615
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63626
+fig|1463165.235.peg.1101|GIJ24_05410!!!Orphan!toxin!OrtT!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.49%
+Cluster 375207
+17053	CP000949	Pseudomonas putida W619, complete genome.	No	Gammaproteobacteria	phenylacetate degradation, enoyl-CoA hydratase paaB	ACA73118
+fig|1463165.235.peg.1575|GIJ24_07625!!!1,2-epoxyphenylacetyl-CoA!isomerase!(EC!5.3.3.18)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.89%
+Cluster 55228
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	selenocysteinyl-tRNA-specific translation factor	CAL14147
+fig|1463165.235.peg.4172|GIJ24_15055!!!Selenocysteine-specific!translation!elongation!factor!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.42%
+Cluster 367601
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YcdC	ADD79199
+fig|1463165.235.peg.2005|GIJ24_09670!!!Transcriptional!regulator!RutR!of!pyrimidine!catabolism!(TetR!family)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.98%
+fig|1463165.235.peg.4046|GIJ24_26030!!!Transcriptional!regulator!RutR!of!pyrimidine!catabolism!(TetR!family)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.47%
+Cluster 706403
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	Insertion element protein	CAH22493
+fig|1463165.235.peg.3107|GIJ24_26335!!!IS,!phage,!Tn;!Transposon-related!functions!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.97%
+Cluster 621999
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12987
+fig|1463165.235.peg.821|GIJ24_04060!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.44%
+Cluster 603949
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	phenylacetate-CoA oxygenase, PaaH subunit	ABM59653
+fig|1463165.235.peg.1580|GIJ24_07650!!!1,2-phenylacetyl-CoA!epoxidase,!subunit!B!(EC!1.14.13.149)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.16%
+Cluster 67271
+16182	CP000572	Burkholderia pseudomallei 1106a chromosome I, complete sequence.	Yes	Betaproteobacteria	GABA permease	ABN91788
+fig|1463165.235.peg.2834|GIJ24_13745!!!gamma-aminobutyrate!(GABA)!permease!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.30%
+Cluster 83366
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017
+fig|1463165.235.peg.5255|GIJ24_20245!!!NAD!kinase!(EC!2.7.1.23)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.86%
+Cluster 589866
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.1470|GIJ24_07140!!!Spermidine!export!protein!MdtJ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.83%
+Cluster 760383
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15925
+fig|1463165.235.peg.4298|GIJ24_15660!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.83%
+Cluster 184648
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	cyanate transporter	ACI10202
+fig|1463165.235.peg.157|GIJ24_00805!!!Cyanate!transport!protein!CynX!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.46%
+Cluster 95869
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Glutathione reductase, putative	ABN44926
+fig|1463165.235.peg.4249|GIJ24_15425!!!Glutathione!reductase!(EC!1.8.1.7)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.44%
+Cluster 643780
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	HNH endonuclease domain protein	ACI11481
+fig|1463165.235.peg.1878|GIJ24_09065!!!Phage-associated!homing!endonuclease!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.83%
+Cluster 637260
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04930
+fig|1463165.235.peg.5252|GIJ24_20230!!!UPF0125!protein!RatB!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.29%
+Cluster 736028
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH61273
+fig|1463165.235.peg.5415|GIJ24_20965!!!FIG00732852:!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 579951
+13020	CP000491	Paracoccus denitrificans PD1222 plasmid 1, complete sequence.	No	Alphaproteobacteria	hypothetical protein	ABL72750
+fig|1463165.235.peg.1382|GIJ24_06730!!!Uncharacterized!protein!YneG!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.48%
+Cluster 724482
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAX64235
+fig|1463165.235.peg.791|GIJ24_03915!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.62%
+Cluster 116510
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.2931|GIJ24_21200!!!Chromosomal!replication!initiator!protein!DnaA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	83.94%
+Cluster 292695
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	D-arabitol repressor	CAQ89679
+fig|1463165.235.peg.360|GIJ24_01805!!!D-arabinitol!operon!repressor!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.43%
+Cluster 77977
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI07915
+fig|1463165.235.peg.79|GIJ24_00395!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	99.46%
+Cluster 596961
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE75462
+fig|1463165.235.peg.4153|GIJ24_14965!!!Rhodanese-related!sulfurtransferase!YibN!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.83%
+Cluster 625650
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAR05081
+fig|1463165.235.peg.4284|GIJ24_15595!!!Uncharacterized!protein!YhhL!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.33%
+Cluster 736213
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63725
+fig|1463165.235.peg.1001|GIJ24_04925!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.65%
+fig|1463165.235.peg.4810|GIJ24_18130!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.22%
+Cluster 144142
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	2,3,4,5-tetrahydropyridine-2-carboxylate N-succin	AAW75239
+fig|1463165.235.peg.3153|GIJ24_22185!!!2,3,4,5-tetrahydropyridine-2,6-dicarboxylate!N-succinyltransferase!(EC!2.3.1.117)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.23%
+Cluster 645369
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACX86741
+fig|1463165.235.peg.3716|GIJ24_24875!!!Uncharacterized!protein!STM4441!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.17%
+Cluster 628800
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58712
+fig|1463165.235.peg.2991|GIJ24_21435!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.63%
+Cluster 679344
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	DNA-damage-inducible protein I	BAH62776
+fig|1463165.235.peg.1974|GIJ24_09510!!!DNA-damage-inducible!protein!I!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.59%
+Cluster 659338
+29177	CP001339	Thioalkalivibrio sp. HL-EbGR7, complete genome.	No	Gammaproteobacteria	urease, beta subunit	ACL74172
+fig|1463165.235.peg.4606|GIJ24_17160!!!Urease!beta!subunit!(EC!3.5.1.5)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.09%
+Cluster 368650
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CpxR	ADD79041
+fig|1463165.235.peg.3912|GIJ24_14160!!!Copper-sensing!two-component!system!response!regulator!CpxR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.52%
+Cluster 449872
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative phage replication protein	BAB35192
+fig|1463165.235.peg.1898|GIJ24_09145!!!Phage!DNA!replication!protein!P!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.78%
+Cluster 201069
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	galactokinase	ACI06895
+fig|1463165.235.peg.2290|GIJ24_11050!!!Galactokinase!(EC!2.7.1.6)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.17%
+Cluster 492037
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PurE	ADD76220
+fig|1463165.235.peg.2587|GIJ24_12540!!!N5-carboxyaminoimidazole!ribonucleotide!mutase!(EC!5.4.99.18)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	85.21%
+Cluster 733005
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80392
+fig|1463165.235.peg.3586|GIJ24_24235!!!probable!fimbrial!protein!staA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.22%
+Cluster 445037
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Molybdopterin biosynthesis mog protein	CAY73103
+fig|1463165.235.peg.3332|GIJ24_23055!!!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	77.44%
+Cluster 687854
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU75771
+fig|1463165.235.peg.4851|GIJ24_18325!!!Uncharacterized!lipoprotein!YgdR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.72%
+Cluster 495874
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YgjP	ADD78617
+fig|1463165.235.peg.4566|GIJ24_16955!!!UTP!pyrophosphatase!(EC!3.6.1.9)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.69%
+Cluster 728249
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	ABB62708
+fig|1463165.235.peg.103|GIJ24_00510!!!UPF0370!protein!YpfN!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.09%
+Cluster 167877
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	nucleoside permease	BAH64544
+fig|1463165.235.peg.146|GIJ24_00750!!!Na+!dependent!nucleoside!transporter!NupC!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	99.50%
+fig|1463165.235.peg.1999|GIJ24_09645!!!Na+!dependent!nucleoside!transporter!NupC!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.84%
+Cluster 241152
+19989	CP001032	Opitutus terrae PB90-1, complete genome.	No	Opitutae	L-threonine 3-dehydrogenase	ACB76204
+fig|1463165.235.peg.4148|GIJ24_14940!!!L-threonine!3-dehydrogenase!(EC!1.1.1.103)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.46%
+Cluster 67653
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	Rhs core protein	BAB33665
+fig|1463165.235.peg.4045!!!RhsE!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.74%
+Cluster 577587
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58653
+fig|1463165.235.peg.3030|GIJ24_21635!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	91.23%
+Cluster 68356
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative alpha-glucoside-specific PTS family enzyme IIBC component	BAH65874
+fig|1463165.235.peg.2945|GIJ24_21265!!!PTS!system,!maltose-specific!IIC!component!/!PTS!system,!maltose-specific!IIB!component!(EC!2.7.1.208)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.89%
+Cluster 352568
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	methionine aminopeptidase, type I	ACK54919
+fig|1463165.235.peg.3151|GIJ24_22175!!!Methionine!aminopeptidase!(EC!3.4.11.18)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.12%
+Cluster 783411
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	thr operon leader peptide	BAB33424
+fig|1463165.235.peg.3339|GIJ24_23090!!!thr!operon!leader!peptide!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	77.27%
+Cluster 372522
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobalt-precorrin-4 C(11)-methyltransferase (Cobalt-precorrin-3 methylase)	CBJ79987
+fig|1463165.235.peg.4901|GIJ24_18570!!!Cobalt-precorrin-4!C(11)-methyltransferase!(EC!2.1.1.271)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.98%
+Cluster 483010
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	NAD(P)H dehydrogenase (quinone)	ACT07564
+fig|1463165.235.peg.923|GIJ24_04545!!!NAD(P)H!oxidoreductase!YrkL!@!Putative!NADPH-quinone!reductase!(modulator!of!drug!activity!B)!@!Flavodoxin!2!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.30%
+Cluster 63934
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	Heme-binding protein precursor (hemin-binding lipoprotein)	ABE06319
+fig|1463165.235.peg.2188|GIJ24_10550!!!Oligopeptide!transport!substrate-binding!protein!@!Glutathione!ABC!transporter,!substrate-binding!protein!GsiB!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.11%
+Cluster 63936
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	PTS system, maltose and glucose-specific IIABC component	ABE07287
+fig|1463165.235.peg.1528|GIJ24_07405!!!PTS!system,!maltose!and!glucose-specific!IIC!component!/!PTS!system,!maltose!and!glucose-specific!IIB!component!(EC!2.7.1.208)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	89.25%
+Cluster 247877
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	HemK	ADD76810
+fig|1463165.235.peg.671|GIJ24_03340!!!Peptide!chain!release!factor!N(5)-glutamine!methyltransferase!(EC!2.1.1.297)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.70%
+Cluster 420478
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	GntR-family transcriptional regulator	CBJ45534
+fig|1463165.235.peg.1231|GIJ24_06030!!!Transcriptional!regulator,!GntR!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.59%
+Cluster 342556
+17445	CP000749	Marinomonas sp. MWYL1, complete genome.	No	Gammaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABR69123
+fig|1463165.235.peg.5352|GIJ24_20670!!!ABC!transporter,!permease!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.12%
+Cluster 388732
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative CTP synthase	BAH62894
+fig|1463165.235.peg.1813|GIJ24_08755!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.52%
+Cluster 200923
+371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Yes	Gammaproteobacteria	RNA polymerase sigma subunit RpoS	AAO70382
+fig|1463165.235.peg.4981|GIJ24_18965!!!RNA!polymerase!sigma!factor!RpoS!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	93.03%
+Cluster 407809
+17455	CP000961	Shewanella woodyi ATCC 51908, complete genome.	No	Gammaproteobacteria	RNA methyltransferase, TrmH family, group 3	ACA88472
+fig|1463165.235.peg.3769|GIJ24_25140!!!23S!rRNA!(guanosine(2251)-2'-O)-methyltransferase!(EC!2.1.1.185)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.91%
+Cluster 186825
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX70363
+fig|1463165.235.peg.3903|GIJ24_14115!!!Transcriptional!(co)regulator!CytR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.60%
+Cluster 69622
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	periplasmic glucan biosynthesis protein, MdoG	ABQ81020
+fig|1463165.235.peg.1984|GIJ24_09560!!!Glucans!biosynthesis!protein!G!precursor!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.57%
+Cluster 756983
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE06944
+fig|1463165.235.peg.1903!!!Uncharacterized!protein!YdfB!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.50%
+Cluster 719988
+32513	AP010962	Escherichia coli O111:H- str. 11128 plasmid pO11	Yes	Gammaproteobacteria	DNA, complete sequence.	BAI39289
+fig|1463165.235.peg.789|GIJ24_03905!!!FIG00641267:!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.62%
+Cluster 51773
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	DNA polymerase III subunit tau	CAO97520
+fig|1463165.235.peg.2632|GIJ24_12760!!!DNA!polymerase!III!subunits!gamma!and!tau!(EC!2.7.7.7)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.23%
+Cluster 9761
+16263	CP001390	Geobacter sp. FRC-32, complete genome.	No	Deltaproteobacteria	formate dehydrogenase, alpha subunit	ACM20001
+fig|1463165.235.peg.3484|GIJ24_26420!!!Formate!dehydrogenase!N!alpha!subunit!(EC!1.2.1.2)!@!selenocysteine-containing!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.29%
+Cluster 338304
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	pantothenate synthetase	CBJ82791
+fig|1463165.235.peg.3194|GIJ24_22390!!!Pantoate--beta-alanine!ligase!(EC!6.3.2.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.68%
+Cluster 7990
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	malate synthase A	ACG74318
+fig|1463165.235.peg.5290|GIJ24_20380!!!Isocitrate!lyase!(EC!4.1.3.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.64%
+Cluster 264549
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	riboflavin biosynthesis protein RibF, putative	ACR67900
+fig|1463165.235.peg.3321|GIJ24_23000!!!FMN!adenylyltransferase!(EC!2.7.7.2)!/!Riboflavin!kinase!(EC!2.7.1.26)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.15%
+Cluster 301992
+19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Yes	Gammaproteobacteria	protein bax	ACF91951
+fig|1463165.235.peg.4179|GIJ24_15090!!!BAX!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.25%
+Cluster 462574
+16067	CP000900	Yersinia pestis Angola plasmid pMT-pPCP, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABX84839
+fig|1463165.235.peg.3091|GIJ24_21940!!!FIG01220079:!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.37%
+Cluster 208955
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	ABB61844
+fig|1463165.235.peg.1109|GIJ24_05450!!!Putative!oxidoreductase!YncB!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.16%
+Cluster 325465
+13960	CP000800	Escherichia coli E24377A, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABV21201
+fig|1463165.235.peg.3867|GIJ24_25640!!!Protein!YrdA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.07%
+Cluster 213164
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	luciferase-like protein	ACY35168
+fig|1463165.235.peg.1159|GIJ24_05695!!!Alkanal!monooxygenase!alpha!chain!(EC!1.14.14.3)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.89%
+Cluster 517050
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	transcriptional regulator, MerR family	ABM32854
+fig|1463165.235.peg.5357|GIJ24_20695!!!Redox-sensitive!transcriptional!activator!SoxR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.82%
+Cluster 565004
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	50S ribosomal protein L16	ABM79044
+fig|1463165.235.peg.3834|GIJ24_25470!!!LSU!ribosomal!protein!L16p!(L10e)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.03%
+Cluster 711287
+31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80548
+fig|1463165.235.peg.3543|GIJ24_24030!!!DNA!polymerase!III!theta!subunit!(EC!2.7.7.7)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.86%
+Cluster 221365
+329	CP000112	Desulfovibrio desulfuricans subsp. desulfuricans str. G20, complete genome.	No	Deltaproteobacteria	NAD-dependent epimerase/dehydratase family protein	ABB36834
+fig|1463165.235.peg.413|GIJ24_02060!!!UDP-glucuronate!5'-epimerase!(EC!5.1.3.12)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.37%
+Cluster 558460
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Hns	ADD77258
+fig|1463165.235.peg.704|GIJ24_03510!!!DNA-binding!protein!H-NS!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	79.26%
+Cluster 366933
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	putative virulence protein	ABF04119
+fig|1463165.235.peg.4402!!!Putative!transposase!InsQ!for!insertion!sequence!element!IS609!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.46%
+Cluster 464874
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Conserved hypothetical protein YffH	CAO96128
+fig|1463165.235.peg.109|GIJ24_00540!!!GDP-mannose!pyrophosphatase!NudK!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	69.19%
+Cluster 212799
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20769
+fig|1463165.235.peg.4103|GIJ24_14715!!!Glycerol!uptake!facilitator!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.37%
+fig|1463165.235.peg.4893|GIJ24_18530!!!Propanediol!diffusion!facilitator!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	86.47%
+Cluster 184902
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YdiK	ADD76269
+fig|1463165.235.peg.273|GIJ24_01370!!!Uncharacterized!UPF0118!membrane!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.80%
+Cluster 595608
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	protein YcgL	ACF62545
+fig|1463165.235.peg.598|GIJ24_02990!!!Protein!YcgL!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	79.57%
+Cluster 261519
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	Protein of unknown function DUF1722	ACZ77874
+fig|1463165.235.peg.3973|GIJ24_25670!!!COG1683:!Uncharacterized!conserved!protein!/!FIG143828:!Hypothetical!protein!YbgA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	79.62%
+Cluster 585252
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	acetyltransferase, GNAT family	ACI09173
+fig|1463165.235.peg.1378|GIJ24_06710!!!Acetyltransferase,!GNAT!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.27%
+Cluster 708057
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12267
+fig|1463165.235.peg.551|GIJ24_02765!!!DNA!polymerase!III!theta!subunit!(EC!2.7.7.7)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.58%
+Cluster 373663
+13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Yes	Gammaproteobacteria	recombination associated protein RdgC	AAV78216
+fig|1463165.235.peg.2986!!!DNA!recombination-dependent!growth!factor!C!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.24%
+Cluster 617174
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACT06807
+fig|1463165.235.peg.4997|GIJ24_19045!!!Uncharacterized!protein!YgbA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.95%
+Cluster 631976
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14991
+fig|1463165.235.peg.5274|GIJ24_20340!!!Ribosome-associated!inhibitor!A!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	93.69%
+Cluster 631975
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13700
+fig|1463165.235.peg.2497|GIJ24_12125!!!Transcriptional!activator!RamA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.69%
+Cluster 365291
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Phage shock protein A	CAY74214
+fig|1463165.235.peg.1674|GIJ24_08095!!!Phage!shock!protein!A!@!Suppressor!of!sigma54-dependent!transcription,!PspA-like!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.68%
+Cluster 75733
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative lipoate-protein ligase A	BAB38768
+fig|1463165.235.peg.3356|GIJ24_23175!!!Protein!Smp!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.65%
+fig|1463165.235.peg.3357|GIJ24_23180!!!Lipoate-protein!ligase!A!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.76%
+Cluster 386483
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	urease, gamma subunit	ACG72211
+fig|1463165.235.peg.4607|GIJ24_17165!!!Urease!gamma!subunit!(EC!3.5.1.5)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.00%
+Cluster 497048
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative lipoprotein	ACI07380
+fig|1463165.235.peg.2538|GIJ24_12320!!!putative!lipoprotein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	89.74%
+Cluster 678802
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS60803
+fig|1463165.235.peg.3773|GIJ24_25160!!!Putative!inner!membrane!protein!YjeT!(clustered!with!HflC)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	76.92%
+Cluster 531525
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	50S ribosomal protein L19	ACP26950
+fig|1463165.235.peg.5263|GIJ24_20285!!!LSU!ribosomal!protein!L19p!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.35%
+Cluster 495835
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	acetyltransferase	ACM38104
+fig|1463165.235.peg.3617|GIJ24_24385!!!RepA!leader!peptide!Tap!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.22%
+Cluster 471725
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	thiol:disulfide interchange protein DsbE	ABG70233
+fig|1463165.235.peg.915|GIJ24_04505!!!Cytochrome!c-type!biogenesis!protein!CcmG/DsbE,!thiol:disulfide!oxidoreductase!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.76%
+Cluster 160826
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76335
+fig|1463165.235.peg.2980!!!Uncharacterized!oxidoreductase!YeiQ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.60%
+Cluster 551350
+16	CP001157	Azotobacter vinelandii DJ, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACO79707
+fig|1463165.235.peg.919|GIJ24_04525!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.21%
+Cluster 549885
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L10	ABF14049
+fig|1463165.235.peg.4019|GIJ24_25895!!!LSU!ribosomal!protein!L10p!(P0)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.06%
+Cluster 559054
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	IbpA	ADD75249
+fig|1463165.235.peg.2940|GIJ24_21245!!!16!kDa!heat!shock!protein!A!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	79.05%
+Cluster 649374
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.3526|GIJ24_23955!!!type!II!toxin-antitoxin!system!ParD!family!antitoxin!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.49%
+Cluster 706835
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX22766
+fig|1463165.235.peg.3298|GIJ24_22885!!!Putative!outer!membrane!lipoprotein!STM0080!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.53%
+Cluster 453766
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR77788
+fig|1463165.235.peg.548|GIJ24_02750!!!FIG004088:!inner!membrane!protein!YebE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.52%
+Cluster 550024
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved membrane protein	AAS60370
+fig|1463165.235.peg.4110|GIJ24_14750!!!Uncharacterized!protein!YiiR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.20%
+Cluster 229292
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH62542
+fig|1463165.235.peg.471|GIJ24_02355!!!L,D-transpeptidase!=>!ErfK!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.62%
+fig|1463165.235.peg.2202|GIJ24_10620!!!L,D-transpeptidase!=>!YbiS!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	99.39%
+Cluster 294893
+310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Yes	Gammaproteobacteria	transcriptional repressor for pur regulon, glyA, glnB, prsA, speA	AAN43265
+fig|1463165.235.peg.3116|GIJ24_26370!!!Purine!nucleotide!synthesis!repressor!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	91.11%
+Cluster 180167
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	RsuA protein	AAU37645
+fig|1463165.235.peg.1713|GIJ24_08270!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.33%
+Cluster 146094
+18	BA000012	Mesorhizobium loti MAFF303099 DNA, complete genome.	No	Alphaproteobacteria	urea/short-chain amide ABC transporter, periplasmic urea/short-chain amide-binding protein	BAB48286
+fig|1463165.235.peg.1410|GIJ24_06870!!!Urea!ABC!transporter,!substrate-binding!protein!UrtA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.72%
+Cluster 11409
+10700	BX908798	Parachlamydia-related symbiont UWE25, complete genome.	Yes	Chlamydiales	probable glycyl-tRNA synthetase	CAF23417
+fig|1463165.235.peg.4190|GIJ24_15140!!!Glycyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.14)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.07%
+Cluster 88569
+16646	CP000306	Yersinia pestis Nepal516 plasmid pMT, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABG20338
+fig|1463165.235.peg.3036|GIJ24_21665!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.93%
+Cluster 621764
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	DNA-binding transcriptional regulator	CAX57062
+fig|1463165.235.peg.5356|GIJ24_20690!!!DNA-binding!transcriptional!dual!regulator!SoxS!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.97%
+Cluster 751827
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	cellobiose/salicin/arbutin-specific PTS family enzyme IIBC component	BAH63548
+fig|1463165.235.peg.1180!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.18%
+Cluster 314602
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58663
+fig|1463165.235.peg.3040|GIJ24_21685!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.62%
+Cluster 116413
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	ABC superfamily (bin	AAX68014
+fig|1463165.235.peg.5312|GIJ24_20490!!!Maltodextrin!ABC!transporter,!substrate-binding!protein!MdxE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.95%
+Cluster 761303
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH61712
+fig|1463165.235.peg.3270|GIJ24_22750!!!Sugar-phosphate!stress!protein!SgrT!(embedded!in!SgrS)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.00%
+Cluster 201049
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	rod shape-determining protein MreC	ACT08634
+fig|1463165.235.peg.4425|GIJ24_16245!!!Rod!shape-determining!protein!MreC!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	78.79%
+Cluster 13787
+9633	CP000082	Psychrobacter arcticus 273-4, complete genome.	No	Gammaproteobacteria	Excinuclease ABC subunit A	AAZ19533
+fig|1463165.235.peg.5336|GIJ24_20600!!!Excinuclease!ABC!subunit!A!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.63%
+Cluster 531069
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	AccB protein	AAU38396
+fig|1463165.235.peg.4418|GIJ24_16210!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.90%
+Cluster 152940
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative chitinase II	BAH62922
+fig|1463165.235.peg.1778|GIJ24_08580!!!Chitinase!(EC!3.2.1.14)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.92%
+Cluster 711809
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78156
+fig|1463165.235.peg.2767|GIJ24_13425!!!Uncharacterized!protein!YaiZ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.60%
+Cluster 351726
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58654
+fig|1463165.235.peg.3031|GIJ24_21640!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	83.03%
+Cluster 704685
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58700
+fig|1463165.235.peg.3097|GIJ24_21965!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.09%
+Cluster 423510
+13875	CP000016	Candidatus Blochmannia pennsylvanicus str. BPEN, complete genome.	No	Gammaproteobacteria	NADH dehydrogenase I chain B, binds FeS cluster N2	AAZ41122
+fig|1463165.235.peg.216|GIJ24_01095!!!NADH-ubiquinone!oxidoreductase!chain!B!(EC!1.6.5.3)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.11%
+Cluster 680762
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13578
+fig|1463165.235.peg.2328|GIJ24_11270!!!Uncharacterized!protein!YbfA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	76.81%
+Cluster 649351
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63238
+fig|1463165.235.peg.1483|GIJ24_07205!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.11%
+Cluster 649350
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH61334
+fig|1463165.235.peg.3767|GIJ24_25130!!!Putative!inner!membrane!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.80%
+Cluster 381320
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	molecular chaparone; heat shock protein	AAX66589
+fig|1463165.235.peg.5256|GIJ24_20250!!!Heat!shock!protein!GrpE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.27%
+Cluster 522679
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	bacteriophage regulatory protein CII	ABG69159
+fig|1463165.235.peg.782|GIJ24_03875!!!Phage!activator!protein!cII!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.48%
+Cluster 450357
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS60574
+fig|1463165.235.peg.3160|GIJ24_22220!!!UPF0126!inner!membrane!protein!YadS!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	83.65%
+Cluster 623823
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15926
+fig|1463165.235.peg.4297|GIJ24_15655!!!Acetyl-CoA!sensor!PanM,!required!for!maturation!of!L-aspartate!decarboxylase!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.08%
+Cluster 708139
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAI24488
+fig|1463165.235.peg.1901|GIJ24_09160!!!Cro/Cl!family!transcriptional!regulator!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.64%
+Cluster 562196
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein YjcH	CAQ91716
+fig|1463165.235.peg.5372|GIJ24_20765!!!Inner!membrane!protein!YjcH,!clustering!with!ActP!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	76.70%
+Cluster 90902
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	general secretion pathway protein E	BAJ04171
+fig|1463165.235.peg.3175|GIJ24_22295!!!General!secretion!pathway!protein!E!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.56%
+Cluster 639975
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	competence protein ComEA homolog	ACI10408
+fig|1463165.235.peg.2681|GIJ24_13005!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.98%
+Cluster 495973
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	GTP cyclohydrolase subunit MoaC	ABQ80553
+fig|1463165.235.peg.2241|GIJ24_10815!!!Cyclic!pyranopterin!monophosphate!synthase!(EC!4.6.1.17)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.81%
+Cluster 731538
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	carbon storage regulator, CsrA	ADC62041
+fig|1463165.235.peg.5059|GIJ24_19350!!!Carbon!storage!regulator!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.33%
+Cluster 508918
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR79871
+fig|1463165.235.peg.5414|GIJ24_20960!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.43%
+Cluster 210655
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	N-succinyl-diaminopimelate deacylase	CBJ81719
+fig|1463165.235.peg.104|GIJ24_00515!!!N-succinyl-L,L-diaminopimelate!desuccinylase!(EC!3.5.1.18)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.20%
+Cluster 691242
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	cold shock domain protein CspD	ACR13966
+fig|1463165.235.peg.2134|GIJ24_10295!!!Cold!shock!protein!of!CSP!family!=>!CspD!(naming!convention!as!in!E.coli)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.49%
+Cluster 63379
+16708	CP001337	Chloroflexus aggregans DSM 9485, complete genome.	No	Chloroflexales	isocitrate dehydrogenase, NADP-dependent	ACL23964
+fig|1463165.235.peg.1850|GIJ24_08935!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.00%
+Cluster 302482
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	spfh/band 7 domain protein	ACR14480
+fig|1463165.235.peg.2617|GIJ24_12685!!!Protein!QmcA!(possibly!involved!in!integral!membrane!quality!control)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.61%
+Cluster 507696
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58682
+fig|1463165.235.peg.3086|GIJ24_21915!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.48%
+Cluster 612014
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15491
+fig|1463165.235.peg.4620|GIJ24_17220!!!Uncharacterized!protein!YqiC!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.11%
+Cluster 527527
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Oligoketide cyclase/lipid transport protein	AAS61304
+fig|1463165.235.peg.5251|GIJ24_20225!!!Ribosome!association!toxin!RatA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.68%
+Cluster 722769
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAG75280
+fig|1463165.235.peg.588|GIJ24_02940!!!UPF0181!protein!YoaH!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.41%
+Cluster 561063
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.3051|GIJ24_21740!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	78.12%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|1463165.235.peg.4393|GIJ24_16125!!!SSU!ribosomal!protein!S12p!(S23e)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.81%
+Cluster 663331
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YbeB	ADD76293
+fig|1463165.235.peg.2375|GIJ24_11525!!!Ribosomal!silencing!factor!RsfA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.90%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|1463165.235.peg.2929|GIJ24_21195!!!LSU!ribosomal!protein!L34p!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	76.09%
+Cluster 302781
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	oligopeptide transport system permease protein	AAX88126
+fig|1463165.235.peg.712|GIJ24_03535!!!Oligopeptide!ABC!transporter,!permease!protein!OppB!(TC!3.A.1.5.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.82%
+Cluster 501191
+17415	CP000851	Shewanella pealeana ATCC 700345, complete genome.	No	Gammaproteobacteria	HesB/YadR/YfhF-family protein	ABV89320
+fig|1463165.235.peg.4334|GIJ24_15840!!![4Fe-4S]!cluster!carrier!protein!NfuA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.39%
+Cluster 544602
+32509	AP010955	Escherichia coli O26:H11 str. 11368 plasmid pO2	Yes	Gammaproteobacteria	DNA, complete sequence.	BAI28828
+fig|1463165.235.peg.2977|GIJ24_26295!!!X!polypeptide!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.11%
+Cluster 388555
+46805	FN434113	Erwinia amylovora CFBP1430 complete genome.	No	Gammaproteobacteria	Uncharacterized protein ygcF	CBA19690
+fig|1463165.235.peg.4963|GIJ24_18875!!!7-carboxy-7-deazaguanine!synthase!(EC!4.3.99.3)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.27%
+Cluster 677828
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	Phosphotransferase system, phosphocarrier protein HPr	ACQ92255
+fig|1463165.235.peg.132|GIJ24_00655!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.12%
+Cluster 297074
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG15420
+fig|1463165.235.peg.4063|GIJ24_14520!!!4-oxalmesaconate!hydratase!(EC!4.2.1.83)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.11%
+Cluster 430650
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	NAD(P)H dehydrogenase (quinone)	ABV40313
+fig|1463165.235.peg.1567|GIJ24_07585!!!FMN-dependent!NADH-azoreductase!(EC!1.7.1.6)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.16%
+Cluster 608836
+283	AE007870	Agrobacterium tumefaciens str. C58 linear chromosome, complete sequence.	No	Alphaproteobacteria	conserved hypothetical protein	AAK90158
+fig|1463165.235.peg.1533|GIJ24_07430!!!Protein!of!unknown!function!DUF1304!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.10%
+Cluster 522936
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAC73621
+fig|1463165.235.peg.5051|GIJ24_19310!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.00%
+Cluster 116469
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative membrane-bound diguanylate cyclase	ACI07008
+fig|1463165.235.peg.1381|GIJ24_06725!!!Uncharacterized!GGDEF!domain!protein!YneF!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.47%
+Cluster 346013
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PcaH	ADD78510
+fig|1463165.235.peg.1070|GIJ24_05265!!!Protocatechuate!3,4-dioxygenase!beta!chain!(EC!1.13.11.3)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.52%
+Cluster 647844
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	50S ribosomal subunit protein L25	ABF04379
+fig|1463165.235.peg.281|GIJ24_01415!!!LSU!ribosomal!protein!L25p!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	86.17%
+Cluster 690985
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH62525
+fig|1463165.235.peg.2218|GIJ24_10700!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.56%
+Cluster 582088
+13655	CP000097	Synechococcus sp. CC9902, complete genome.	No	Chroococcales	conserved hypothetical protein	ABB25462
+fig|1463165.235.peg.3654|GIJ24_24560!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.75%
+Cluster 244293
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative periplasmic binding protein/LacI transcriptional regulator	ABR76081
+fig|1463165.235.peg.2415|GIJ24_11725!!!Transcriptional!regulator,!LacI!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.11%
+Cluster 205073
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	CAI08474
+fig|1463165.235.peg.3133|GIJ24_22090!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.95%
+Cluster 72607
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative POT family transport protein	AAX64635
+fig|1463165.235.peg.2326|GIJ24_11260!!!Dipeptide/H+!symporter!DtpD!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	87.20%
+fig|1463165.235.peg.2568|GIJ24_12445!!!Di-tripeptide/H+!symporter!DtpC!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.08%
+Cluster 410344
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeaZ	ADD77302
+fig|1463165.235.peg.591|GIJ24_02955!!!tRNA!threonylcarbamoyladenosine!biosynthesis!protein!TsaB!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.86%
+Cluster 541411
+15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Yes	Gammaproteobacteria	periplasmic protein CpxP	ACD09422
+fig|1463165.235.peg.3911|GIJ24_14155!!!Periplasmic!protein!CpxP!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.85%
+Cluster 492186
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF179	ACS84355
+fig|1463165.235.peg.4685|GIJ24_17540!!!UPF0301!protein!YqgE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.66%
+Cluster 461736
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	chorismate lyase	BAH61178
+fig|1463165.235.peg.5317|GIJ24_20510!!!Chorismate--pyruvate!lyase!(EC!4.1.3.40)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.97%
+Cluster 313924
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	quaternary amine uptake ABC transporter (QAT) family,  periplasmic amine-binding protein	ACI09197
+fig|1463165.235.peg.632|GIJ24_03150!!!ABC!transporter,!substrate-binding!protein!(cluster!13,!osmolytes)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.32%
+Cluster 447076
+18937	CP001645	Ralstonia pickettii 12D chromosome 2, complete sequence.	No	Betaproteobacteria	protein of unknown function DUF161	ACS64851
+fig|1463165.235.peg.1623|GIJ24_07850!!!Uncharacterized!UPF0750!membrane!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.25%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|1463165.235.peg.3486|GIJ24_23765!!!Translation!elongation!factor!Tu!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.90%
+Cluster 722166
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	major outer membrane lipoprotein	BAE74712
+fig|1463165.235.peg.855|GIJ24_04215!!!Major!outer!membrane!lipoprotein!Lpp!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.31%
+Cluster 505390
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	BAH63317
+fig|1463165.235.peg.1405|GIJ24_06845!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.38%
+Cluster 590626
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	holo-(acyl-carrier-protein) synthase	ABF14256
+fig|1463165.235.peg.24|GIJ24_00120!!!Holo-[acyl-carrier-protein]!synthase!(EC!2.7.8.7)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.32%
+Cluster 524404
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI06988
+fig|1463165.235.peg.1687|GIJ24_08160!!!Stresses-induced!protein!Ves!(HutD)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.56%
+Cluster 5358
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	rhsB protein in rhs element	ABB63745
+fig|1463165.235.peg.5064!!!core!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.24%
+Cluster 428366
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58666
+fig|1463165.235.peg.3043|GIJ24_21700!!!DNA!modification!methylase!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.34%
+Cluster 518144
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR76855
+fig|1463165.235.peg.822|GIJ24_04065!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 367370
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative 2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	ACI06570
+fig|1463165.235.peg.249|GIJ24_01255!!!2-keto-3-deoxy-L-rhamnonate!aldolase!(EC!4.1.2.53)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.25%
+Cluster 127419
+17227	CP000527	Desulfovibrio vulgaris subsp. vulgaris DP4, complete genome.	No	Deltaproteobacteria	two component, sigma54 specific, transcriptional regulator, Fis family	ABM27041
+fig|1463165.235.peg.3995|GIJ24_25780!!!Response!regulator!of!zinc!sigma-54-dependent!two-component!system!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.50%
+Cluster 257135
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein; putative exported protein, predicted restriction endonuclease	CAQ90599
+fig|1463165.235.peg.3643|GIJ24_24505!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	79.93%
+fig|1463165.235.peg.3666|GIJ24_24615!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.26%
+Cluster 540125
+16689	CP001132	Acidithiobacillus ferrooxidans ATCC 53993, complete genome.	No	Gammaproteobacteria	RNA methyltransferase, TrmH family, group 2	ACH82671
+fig|1463165.235.peg.4158|GIJ24_14990!!!tRNA!(cytidine(34)-2'-O)-methyltransferase!(EC!2.1.1.207)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.15%
+Cluster 290002
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58701
+fig|1463165.235.peg.3098|GIJ24_21970!!!DNA!polymerase!I!5'-3'!exonuclease!domain!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	93.95%
+Cluster 399435
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	putative acyl-CoA N-acyltransferase	CAU97437
+fig|1463165.235.peg.1107|GIJ24_05440!!!L-amino!acid!N-acyltransferase!MnaT!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.98%
+Cluster 633895
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	histidine triad nucleotide-binding protein 2	ACF64355
+fig|1463165.235.peg.1947|GIJ24_09375!!!YcfF/hinT!protein:!a!purine!nucleoside!phosphoramidase!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	89.83%
+Cluster 106973
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	transposase	ABX87212
+fig|1463165.235.peg.4397!!!Mobile!element!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+fig|1463165.235.peg.4404!!!Mobile!element!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 558722
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	lytic transglycosylase-like protein	ABR80379
+fig|1463165.235.peg.3573|GIJ24_24170!!!X!polypeptide!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.30%
+Cluster 126257
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB61668
+fig|1463165.235.peg.1546|GIJ24_07485!!!Succinylarginine!dihydrolase!(EC!3.5.3.23)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.31%
+fig|1463165.235.peg.1754|GIJ24_08465!!!Succinylarginine!dihydrolase!(EC!3.5.3.23)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.47%
+Cluster 476358
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	lipoprotein LolB precursor	BAE75153
+fig|1463165.235.peg.668|GIJ24_03325!!!Outer!membrane!lipoprotein!component!of!lipoprotein!transport!system!LolB!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.05%
+Cluster 430878
+33639	CP001383	Shigella flexneri 2002017, complete genome.	Yes	Gammaproteobacteria	IS1 ORF2	ADA74134
+fig|1463165.235.peg.3524!!!Mobile!element!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.67%
+Cluster 129616
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	putative chromate transporter	CAK15799
+fig|1463165.235.peg.959|GIJ24_04720!!!Chromate!transport!protein!ChrA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.27%
+Cluster 688831
+15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Yes	Gammaproteobacteria	IS1 OrfB	ACD07447
+fig|1463165.235.peg.3525|GIJ24_23950!!!IS1!protein!InsB!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.94%
+Cluster 359252
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein, putative transcriptionnal regulator	CAQ89494
+fig|1463165.235.peg.3446|GIJ24_23620!!!FIG00733024:!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.76%
+Cluster 33282
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative adenosylmethionine-8-amino-7-oxononanoate aminotransferase	CAH07318
+fig|1463165.235.peg.2256|GIJ24_10890!!!Adenosylmethionine-8-amino-7-oxononanoate!aminotransferase!(EC!2.6.1.62)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.84%
+Cluster 527563
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB62686
+fig|1463165.235.peg.116|GIJ24_00575!!!Acetyltransferase!YpeA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.20%
+Cluster 663730
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAH21730
+fig|1463165.235.peg.1982|GIJ24_09550!!!Putative!outer!membrane!lipoprotein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.00%
+Cluster 229771
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.3096|GIJ24_21960!!!RecA-like!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.09%
+Cluster 516003
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative outer membrane protein	BAH62690
+fig|1463165.235.peg.2056|GIJ24_09925!!!Phospholipid-binding!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.93%
+Cluster 135111
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14881
+fig|1463165.235.peg.5375|GIJ24_20775!!!Proton/glutamate!symporter!@!Proton/aspartate!symporter!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.28%
+Cluster 46799
+13953	CP000571	Burkholderia pseudomallei 668 chromosome II, complete sequence.	Yes	Betaproteobacteria	amino acid permease	ABN86427
+fig|1463165.235.peg.3401|GIJ24_23400!!!Amino!acid!permease!in!4-hydroxyproline!catabolic!gene!cluster!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.67%
+Cluster 670525
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR78958
+fig|1463165.235.peg.4530|GIJ24_16775!!!UPF0213!protein!YhbQ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.68%
+Cluster 704044
+310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Yes	Gammaproteobacteria	putative endolysin R of prophage CP-933V	AAN42326
+fig|1463165.235.peg.4050|GIJ24_26050!!!Phage!lysozyme!R!(EC!3.2.1.17)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	93.33%
+Cluster 619453
+19449	CP001322	Desulfatibacillum alkenivorans AK-01, complete genome.	No	Deltaproteobacteria	microcompartments protein	ACL06672
+fig|1463165.235.peg.4884|GIJ24_18490!!!Propanediol!utilization!polyhedral!body!protein!PduJ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.53%
+fig|1463165.235.peg.4891|GIJ24_18525!!!Propanediol!utilization!polyhedral!body!protein!PduA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.53%
+fig|1463165.235.peg.3451|GIJ24_23640!!!Ethanolamine!utilization!polyhedral-body-like!protein!EutM!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.13%
+Cluster 119646
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative fimbrial protein	ABR78692
+fig|1463165.235.peg.4793|GIJ24_18055!!!Fimbrial!adhesin!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.86%
+Cluster 511887
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	ACF64245
+fig|1463165.235.peg.2160|GIJ24_10420!!!Inner!membrane!protein!YbjO!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	76.54%
+Cluster 567373
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YbdB	ADD75612
+fig|1463165.235.peg.754|GIJ24_03740!!!1,4-dihydroxy-2-naphthoyl-CoA!hydrolase!(EC!3.1.2.28)!in!menaquinone!biosynthesis!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.97%
+fig|1463165.235.peg.2431|GIJ24_11805!!!Proofreading!thioesterase!in!enterobactin!biosynthesis!EntH!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.58%
+Cluster 394149
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative transmembrane protein	BAH61266
+fig|1463165.235.peg.5407|GIJ24_20930!!!Integral!membrane!protein!TerC!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.07%
+Cluster 337559
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	3-oxoacyl- reductase	AAW74135
+fig|1463165.235.peg.1956|GIJ24_09420!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.44%
+Cluster 712564
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	inner membrane protein	ABR80402
+fig|1463165.235.peg.3600|GIJ24_24300!!!IncF!plasmid!conjugative!transfer!protein!TrbE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.67%
+Cluster 119825
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CoaBC	ADD79072
+fig|1463165.235.peg.4128|GIJ24_14840!!!Phosphopantothenoylcysteine!decarboxylase!(EC!4.1.1.36)!/!Phosphopantothenoylcysteine!synthetase!(EC!6.3.2.5)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	78.52%
+Cluster 160124
+17409	CP001044	Burkholderia phymatum STM815 chromosome 2, complete sequence.	No	Betaproteobacteria	major facilitator superfamily MF	ACC73654
+fig|1463165.235.peg.1280|GIJ24_06265!!!Uncharacterized!MFS-type!transporter!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	69.38%
+Cluster 782011
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63344
+fig|1463165.235.peg.1377|GIJ24_06705!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.88%
+Cluster 220511
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	pyrimidine specific nucleoside hydrolase	BAH63617
+fig|1463165.235.peg.1110|GIJ24_05455!!!Pyrimidine-specific!ribonucleoside!hydrolase!RihA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.78%
+Cluster 572212
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	UPF0382 membrane protein SSP2132	CAY75468
+fig|1463165.235.peg.4920|GIJ24_18680!!!FIG00018398:!hypothetical!regulator!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.76%
+Cluster 346389
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	transcriptional regulator, AraC family	ACA67445
+fig|1463165.235.peg.1744|GIJ24_08420!!!N,N'-diacetylchitobiose-specific!regulator!ChbR,!AraC!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.06%
+Cluster 3125
+13151	CP000039	Shigella sonnei Ss046 plasmid pS	Yes	Gammaproteobacteria	46, complete sequence.	AAZ91212
+fig|1463165.235.peg.4038!!!IncF!plasmid!conjugative!transfer!DNA-nicking!and!unwinding!protein!TraI!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.87%
+Cluster 588380
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58705
+fig|1463165.235.peg.3104|GIJ24_21995!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.27%
+Cluster 662044
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACN48248
+fig|1463165.235.peg.4578|GIJ24_17015!!!(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione!isomerase!(EC!5.3.1.32)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.22%
+Cluster 153748
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	tyrosyl-tRNA synthetase, putative	ACR69272
+fig|1463165.235.peg.1041|GIJ24_05130!!!Tyrosyl-tRNA!synthetase!(EC!6.1.1.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.80%
+Cluster 186042
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative membrane protein	CBJ46810
+fig|1463165.235.peg.440|GIJ24_02195!!!Inner!membrane!protein!YeeA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.92%
+Cluster 18794
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	ATP-dependent Clp protease ATP-binding subunit clpA	ABA48302
+fig|1463165.235.peg.2132|GIJ24_10285!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.79%
+Cluster 462875
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	Mammalian cell entry related domain protein	ACT08606
+fig|1463165.235.peg.4476|GIJ24_16505!!!Phospholipid!ABC!transporter!substrate-binding!protein!MlaD!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.41%
+Cluster 73735
+65	AE000513	Deinococcus radiodurans R1 chromosome 1, complete sequence.	No	Deinococci	L-lactate permease, putative	AAF11456
+fig|1463165.235.peg.4161|GIJ24_15005!!!L-lactate!permease!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.34%
+Cluster 733727
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58720
+fig|1463165.235.peg.3002|GIJ24_21495!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	77.46%
+Cluster 733723
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58691
+fig|1463165.235.peg.3093|GIJ24_21950!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.29%
+Cluster 676379
+10642	CP000117	Anabaena variabilis ATCC 29413, complete genome.	No	Nostocales	Glutaredoxin, GrxC	ABA21763
+fig|1463165.235.peg.4154|GIJ24_14970!!!Glutaredoxin!3!(Grx3)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.47%
+Cluster 273451
+58	CP000230	Rhodospirillum rubrum ATCC 11170, complete genome.	No	Alphaproteobacteria	Binding-protein-dependent transport systems inner membrane component	ABC23158
+fig|1463165.235.peg.4215|GIJ24_15260!!!Dipeptide!ABC!transporter,!permease!protein!DppC!(TC!3.A.1.5.2)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.33%
+Cluster 650841
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF05079
+fig|1463165.235.peg.4676!!!TRAP-type!C4-dicarboxylate!transport!system,!periplasmic!component!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.19%
+Cluster 734519
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65193
+fig|1463165.235.peg.4647!!!Putative!inner!membrane!protein!STM3160!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.37%
+Cluster 697685
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.3046|GIJ24_21715!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.03%
+Cluster 434617
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	thiamine-phosphate pyrophosphorylase	AAS63273
+fig|1463165.235.peg.4006|GIJ24_25835!!!Thiamin-phosphate!pyrophosphorylase!(EC!2.5.1.3)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.72%
+Cluster 767506
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	50S ribosomal protein L36	CAO97529
+fig|1463165.235.peg.2648|GIJ24_12840!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.91%
+Cluster 432428
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative transcriptional regulatory protein	BAH61298
+fig|1463165.235.peg.3804|GIJ24_25320!!!putative!transcriptional!regulatory!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	78.57%
+Cluster 132764
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	CDP-diacylglycerol-serine O-phosphatidyltransferase	BAE75186
+fig|1463165.235.peg.3|GIJ24_00015!!!CDP-diacylglycerol--serine!O-phosphatidyltransferase!(EC!2.7.8.8)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.06%
+Cluster 577567
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62882
+fig|1463165.235.peg.92|GIJ24_00455!!!Uncharacterized!protein!YfgD,!not!an!arsenate!reductase!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.23%
+Cluster 68958
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	periplasmic trehalase	BAH64029
+fig|1463165.235.peg.615|GIJ24_03070!!!Trehalase!(EC!3.2.1.28)!@!Periplasmic!trehalase!(EC!3.2.1.28)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.17%
+Cluster 105330
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	transcriptional regulator, GntR family with aminotransferase domain	ACS83844
+fig|1463165.235.peg.2481|GIJ24_12050!!!Transcriptional!regulator,!GntR!family!domain!/!Aspartate!aminotransferase!(EC!2.6.1.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.04%
+Cluster 692575
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.3053|GIJ24_21750!!!FIG01049758:!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	83.87%
+Cluster 532816
+13126	CR628337	Legionella pneumophila str. Lens complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S7	CAH14596
+fig|1463165.235.peg.4394|GIJ24_16130!!!SSU!ribosomal!protein!S7p!(S5e)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.95%
+Cluster 6959
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	DNA translocase ftsK	CAY74848
+fig|1463165.235.peg.5283!!!DNA!translocase!FtsK!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.16%
+Cluster 540802
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH77658
+fig|1463165.235.peg.5362|GIJ24_20720!!!Holin-like!protein!CidA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.74%
+Cluster 554973
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	pantetheine-phosphate adenylyltransferase	ABF14068
+fig|1463165.235.peg.4133|GIJ24_14865!!!Phosphopantetheine!adenylyltransferase!(EC!2.7.7.3)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.64%
+Cluster 132519
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	valine--pyruvate aminotransferase	ABE09542
+fig|1463165.235.peg.4177|GIJ24_15080!!!Valine--pyruvate!aminotransferase!(EC!2.6.1.66)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.19%
+Cluster 281755
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	peptide ABC transporter, permease protein	ACI07644
+fig|1463165.235.peg.1318|GIJ24_06435!!!ABC!transporter,!permease!protein!1!(cluster!5,!nickel/peptides/opines)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 567434
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.3029|GIJ24_21630!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	93.63%
+Cluster 662026
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX23850
+fig|1463165.235.peg.4280|GIJ24_15575!!!tRNA!5-methylaminomethyl-2-thiouridine!synthesis!sulfur!carrier!protein!TusA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	86.42%
+Cluster 555721
+13946	CP000548	Burkholderia mallei NCTC 10247 chromosome I, complete sequence.	Yes	Betaproteobacteria	50S ribosomal protein L28	ABO05945
+fig|1463165.235.peg.4130|GIJ24_14850!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.79%
+Cluster 295523
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ACI10371
+fig|1463165.235.peg.1800|GIJ24_08690!!!Transcriptional!regulator,!LysR!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.37%
+Cluster 294923
+19	AL591688	Sinorhizobium meliloti 1021 complete chromosome.	No	Alphaproteobacteria	Manganese ABC transporter ATPase	CAC47606
+fig|1463165.235.peg.5000|GIJ24_19060!!!Manganese!ABC!transporter,!ATP-binding!protein!SitB!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.33%
+Cluster 150840
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	survival protein SurA precursor	BAE73701
+fig|1463165.235.peg.3290|GIJ24_22845!!!Periplasmic!chaperone!and!peptidyl-prolyl!cis-trans!isomerase!of!outer!membrane!proteins!SurA!(EC!5.2.1.8)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.03%
+Cluster 709468
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	conserved hypothetical protein	CBJ46349
+fig|1463165.235.peg.1028|GIJ24_05070!!!Uncharacterized!protein!YdhL!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.75%
+Cluster 594763
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.3032|GIJ24_21645!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.03%
+Cluster 612094
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein yacL	AAN78642
+fig|1463165.235.peg.3210|GIJ24_22465!!!UPF0231!protein!YacL!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	87.50%
+Cluster 136844
+15713	CR954247	Pseudoalteromonas haloplanktis str. TAC125 chromosome II, complete sequence.	No	Gammaproteobacteria	putative idonate or gluconate permease	CAI89516
+fig|1463165.235.peg.4319|GIJ24_15765!!!Low-affinity!gluconate/H+!symporter!GntU!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.43%
+Cluster 61734
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Glucose-1-phosphatase	CAX55999
+fig|1463165.235.peg.2018|GIJ24_09735!!!Glucose-1-phosphatase!(EC!3.1.3.10)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.93%
+Cluster 493192
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	zinc uptake regulation protein	ABG72212
+fig|1463165.235.peg.5325|GIJ24_20545!!!Zinc!uptake!regulation!protein!Zur!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	87.13%
+Cluster 166956
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	urea ABC transporter, permease protein UrtC	ACR02516
+fig|1463165.235.peg.1408|GIJ24_06860!!!Urea!ABC!transporter,!permease!protein!UrtC!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.15%
+Cluster 736407
+17629	CP000926	Pseudomonas putida GB-1, complete genome.	No	Gammaproteobacteria	hypothetical protein	ABY98527
+fig|1463165.235.peg.2014|GIJ24_09715!!!Uncharacterized!protein!YmdF!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.68%
+Cluster 669507
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14524
+fig|1463165.235.peg.3423|GIJ24_23505!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.03%
+Cluster 339689
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein; putative antirestriction protein	CAR15995
+fig|1463165.235.peg.3652|GIJ24_24550!!!Antirestriction!protein!klcA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.30%
+Cluster 431125
+29529	CP001816	Sulfurospirillum deleyianum DSM 6946, complete genome.	No	Epsilonproteobacteria	ABC transporter related protein	ACZ11516
+fig|1463165.235.peg.2791|GIJ24_13535!!!ABC!transporter,!ATP-binding!protein!2!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.47%
+Cluster 296140
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20690
+fig|1463165.235.peg.385|GIJ24_01930!!!DNA-3-methyladenine!glycosylase!II!(EC!3.2.2.21)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.02%
+Cluster 248135
+16306	CP000927	Caulobacter sp. K31, complete genome.	No	Alphaproteobacteria	alpha/beta hydrolase fold	ABZ69436
+fig|1463165.235.peg.457|GIJ24_02275!!!Non-heme!chloroperoxidase!(EC!1.11.1.10)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	69.06%
+Cluster 74375
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	DEAD/DEAH box helicase domain protein	ACS61740
+fig|1463165.235.peg.2223|GIJ24_10725!!!ATP-dependent!RNA!helicase!RhlE!(EC!3.6.4.13)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.19%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|1463165.235.peg.3831|GIJ24_25455!!!SSU!ribosomal!protein!S19p!(S15e)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	69.57%
+Cluster 569921
+33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Yes	Gammaproteobacteria	heat-inducible protein	CAR17831
+fig|1463165.235.peg.1606|GIJ24_07770!!!Heat!shock!protein!HslJ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.33%
+Cluster 443458
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	Sua5/YciO/YrdC/YwlC family protein	ACR12471
+fig|1463165.235.peg.1716|GIJ24_08285!!!YciO!protein,!TsaC/YrdC!paralog!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.59%
+Cluster 402309
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58650
+fig|1463165.235.peg.3027|GIJ24_21620!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	83.06%
+Cluster 204923
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative ribonucleoside-diphosphate reductase beta subunit	AAS58680
+fig|1463165.235.peg.256|GIJ24_01290!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!beta!subunit!(EC!1.17.4.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.70%
+fig|1463165.235.peg.3084|GIJ24_21905!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!beta!subunit!(EC!1.17.4.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.79%
+Cluster 565315
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58724
+fig|1463165.235.peg.3005|GIJ24_21510!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.87%
+Cluster 638084
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	Carboxymuconolactone decarboxylase	ACS63360
+fig|1463165.235.peg.3896|GIJ24_14085!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.85%
+Cluster 629692
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative cytoplasmic protein	AAX66811
+fig|1463165.235.peg.4948|GIJ24_18805!!!Uncharacterized!protein!YqcC!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.47%
+Cluster 517859
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	lactoylglutathione lyase	ACP05284
+fig|1463165.235.peg.1025|GIJ24_05055!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.41%
+Cluster 409368
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	response regulator receiver and unknown domain protein	ACQ94150
+fig|1463165.235.peg.1485|GIJ24_07215!!!Fumarate!respiration!two-component!response!regulator!DcuR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.18%
+Cluster 156930
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	2-dehydro-3-deoxygluconokinase	ABE09487
+fig|1463165.235.peg.4238|GIJ24_15370!!!2-dehydro-3-deoxygluconokinase!(EC!2.7.1.45)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	83.17%
+Cluster 228903
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG14867
+fig|1463165.235.peg.5068!!!Uncharacterized!protein!YadE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.82%
+Cluster 617703
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative 6-O-methylguanine DNA methyltransferase-family protein	CBJ45683
+fig|1463165.235.peg.2668|GIJ24_12940!!!DNA!base-flipping!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.96%
+Cluster 503114
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	probable glutathione peroxidase	CAY74455
+fig|1463165.235.peg.743|GIJ24_03685!!!Glutathione!peroxidase!(EC!1.11.1.9)!@!Thioredoxin!peroxidase!(EC!1.11.1.15)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.67%
+Cluster 435540
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	probable short-chain dehydrogenase	CAG76666
+fig|1463165.235.peg.1396|GIJ24_06800!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.44%
+Cluster 43853
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	transketolase	ACY35378
+fig|1463165.235.peg.4716|GIJ24_17680!!!Transketolase!(EC!2.2.1.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.94%
+Cluster 335592
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF06037
+fig|1463165.235.peg.3879|GIJ24_14000!!!Unsaturated!fatty!acid!biosythesis!repressor!FabR,!TetR!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.68%
+Cluster 163404
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58660
+fig|1463165.235.peg.3037|GIJ24_21670!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.37%
+Cluster 226121
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative exonuclease subunit 1	AAS58686
+fig|1463165.235.peg.3089|GIJ24_21930!!!Phage!exonuclease!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.76%
+Cluster 402325
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.3087|GIJ24_21920!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.50%
+Cluster 399494
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	YheO domain protein	ACS84207
+fig|1463165.235.peg.4389|GIJ24_16105!!!YheO-like!PAS!domain!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	87.50%
+Cluster 735007
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR76851
+fig|1463165.235.peg.818|GIJ24_04045!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.29%
+Cluster 437770
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	putative DNA-binding transcriptional regulator (Lrp-like)	CAR01791
+fig|1463165.235.peg.2675|GIJ24_12975!!!DNA-binding!transcriptional!activator!DecR,!AsnC!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.82%
+Cluster 553182
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI08632
+fig|1463165.235.peg.1840|GIJ24_08885!!!Stress!response!diiron-containing!protein!YciF!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 202396
+13474	CP000115	Nitrobacter winogradskyi Nb-255, complete genome.	No	Alphaproteobacteria	chorismate synthase	ABA03896
+fig|1463165.235.peg.172|GIJ24_00885!!!Chorismate!synthase!(EC!4.2.3.5)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.71%
+Cluster 357300
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	bacitracin resistance protein	BAE73532
+fig|1463165.235.peg.4612|GIJ24_17185!!!Undecaprenyl-diphosphatase!(EC!3.6.1.27)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	76.19%
+Cluster 42168
+16263	CP001390	Geobacter sp. FRC-32, complete genome.	No	Deltaproteobacteria	oxaloacetate decarboxylase alpha subunit	ACM18611
+fig|1463165.235.peg.3310|GIJ24_22940!!!Oxaloacetate!decarboxylase!Na(+)!pump,!alpha!chain!(EC!4.1.1.3)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.97%
+Cluster 544402
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	acetyltransferase, GNAT family	ACI10133
+fig|1463165.235.peg.5304|GIJ24_20450!!!Acetyltransferase,!GNAT!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.78%
+Cluster 529037
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein of phage origin	CAR14569
+fig|1463165.235.peg.3649|GIJ24_24535!!!YkfI!toxin!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.60%
+Cluster 98242
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	arginine succinyltransferase	AAX65233
+fig|1463165.235.peg.1756|GIJ24_08475!!!Arginine!N-succinyltransferase!(EC!2.3.1.109)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.90%
+Cluster 35718
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR75588
+fig|1463165.235.peg.3206!!!Peptidylprolyl!isomerase,!FKBP-type!(EC!5.2.1.8)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.24%
+fig|1463165.235.peg.3207|GIJ24_22450!!!Peptidylprolyl!isomerase,!FKBP-type!(EC!5.2.1.8)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.68%
+Cluster 492105
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	NUDIX hydrolase	ACX87994
+fig|1463165.235.peg.586|GIJ24_02930!!!Uncharacterized!Nudix!hydrolase!NudL!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.06%
+Cluster 718358
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65442
+fig|1463165.235.peg.4416|GIJ24_16200!!!Uncharacterized!protein!YhdT!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.50%
+Cluster 672145
+31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80547
+fig|1463165.235.peg.3544|GIJ24_24035!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.28%
+Cluster 261368
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR76844
+fig|1463165.235.peg.812|GIJ24_04015!!!Phage!terminase,!small!subunit!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.45%
+Cluster 401705
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH76545
+fig|1463165.235.peg.2528|GIJ24_12280!!!Monoamine!regulon!transcriptional!regulator!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.89%
+Cluster 618080
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative Trp operon repressor	AAS63878
+fig|1463165.235.peg.3350|GIJ24_23145!!!Transcriptional!repressor!protein!TrpR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.48%
+Cluster 273695
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative FNT family, formate transporter (formate channel 1)	AAX64834
+fig|1463165.235.peg.2112|GIJ24_10200!!!Formate!efflux!transporter!FocA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.39%
+Cluster 281439
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	tRNA pseudouridine synthase B	BAJ03258
+fig|1463165.235.peg.4504|GIJ24_16650!!!tRNA!pseudouridine(55)!synthase!(EC!5.4.99.25)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.10%
+fig|1463165.235.peg.4399!!!tRNA!pseudouridine(55)!synthase!(EC!5.4.99.25)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.61%
+Cluster 649577
+15763	CP000453	Alkalilimnicola ehrlichii MLHE-1, complete genome.	No	Gammaproteobacteria	SSU ribosomal protein S16P	ABI56238
+fig|1463165.235.peg.5260|GIJ24_20270!!!SSU!ribosomal!protein!S16p!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.63%
+Cluster 301372
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S2	ABE05693
+fig|1463165.235.peg.3150|GIJ24_22170!!!SSU!ribosomal!protein!S2p!(SAe)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.34%
+Cluster 319009
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	putative protease	ABF03489
+fig|1463165.235.peg.4039!!!Possible!protease!sohB!(EC!3.4.21.-)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.18%
+Cluster 233862
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	putative racemase	CAR14333
+fig|1463165.235.peg.4839|GIJ24_18265!!!Uncharacterized!protein!YgeA!of!aspartate/glutamate/hydantoin!racemase!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.95%
+Cluster 365243
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF03600
+fig|1463165.235.peg.577|GIJ24_02890!!!Putative!manganese!efflux!pump!MntP!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.98%
+Cluster 122210
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	NAD(P) transhydrogenase, beta subunit	BAJ01669
+fig|1463165.235.peg.1510|GIJ24_07330!!!NAD(P)!transhydrogenase!subunit!beta!(EC!1.6.1.2)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.94%
+Cluster 621055
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	putative acylphosphatase	ABE06520
+fig|1463165.235.peg.2054|GIJ24_09915!!!Acylphosphate!phosphohydrolase!(EC!3.6.1.7)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.67%
+Cluster 3629
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	ATP-dependent helicase	CAV18959
+fig|1463165.235.peg.1566|GIJ24_07580!!!ATP-dependent!helicase!HrpA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.69%
+Cluster 444386
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	putative inner membrane protein	ACF62772
+fig|1463165.235.peg.244|GIJ24_01230!!!Uncharacterized!outer!membrane!protein!YfaZ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.95%
+Cluster 401804
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	inositol monophosphatase family protein	BAE73625
+fig|1463165.235.peg.3741|GIJ24_25000!!!3'(2'),5'-bisphosphate!nucleotidase!(EC!3.1.3.7)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	69.64%
+Cluster 554934
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAG73528
+fig|1463165.235.peg.984|GIJ24_04840!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.05%
+Cluster 371030
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	ABC transporter related	ACB24247
+fig|1463165.235.peg.646|GIJ24_03215!!!gamma-aminobutyric!acid!ABC!transporter,!ATP-binding!protein!2!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.76%
+Cluster 68368
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	gamma-glutamyltranspeptidase	CBJ47953
+fig|1463165.235.peg.4312|GIJ24_15730!!!Gamma-glutamyltranspeptidase!(EC!2.3.2.2)!@!Glutathione!hydrolase!(EC!3.4.19.13)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.04%
+Cluster 556921
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	transcriptional repressor NsrR	ACF64326
+fig|1463165.235.peg.3771|GIJ24_25150!!!Nitrite-sensitive!transcriptional!repressor!NsrR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.78%
+Cluster 707990
+42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ADD55311
+fig|1463165.235.peg.1884|GIJ24_09090!!!Phage!holin/antiholin!component!S!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.73%
+Cluster 684128
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881
+fig|1463165.235.peg.736|GIJ24_03650!!!Integration!host!factor!alpha!subunit!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.95%
+Cluster 274631
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE75288
+fig|1463165.235.peg.4720|GIJ24_17700!!!Protein!involved!in!stability!of!MscS!mechanosensitive!channel!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.86%
+Cluster 482241
+9635	CP000089	Dechloromonas aromatica RCB, complete genome.	No	Betaproteobacteria	Phenylacetic acid degradation protein PaaY	AAZ45144
+fig|1463165.235.peg.1569|GIJ24_07595!!!Phenylacetic!acid!degradation!protein!PaaY!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.62%
+Cluster 85136
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	UNKNOWN	BAC45372
+fig|1463165.235.peg.5273|GIJ24_20335!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.33%
+Cluster 594243
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative PTS system transport protein	BAH62244
+fig|1463165.235.peg.2502|GIJ24_12150!!!PTS!system,!mannose-specific!IIA!component!(EC!2.7.1.191)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 770259
+46805	FN434113	Erwinia amylovora CFBP1430 complete genome.	No	Gammaproteobacteria	hypothetical protein predicted by Glimmer/Critica	CBA20967
+fig|1463165.235.peg.573|GIJ24_02870!!!Uncharacterized!protein!YobF!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	83.33%
+Cluster 745610
+20585	CU468130	Erwinia tasmaniensis strain ET1/99 complete plasmid pET35.	No	Gammaproteobacteria	Conserved hypothetical protein	CAO94827
+fig|1463165.235.peg.3052|GIJ24_21745!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.52%
+Cluster 630154
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative monothiol glutaredoxin ydhD	CBJ81617
+fig|1463165.235.peg.1023|GIJ24_05045!!!Monothiol!glutaredoxin!GrxD!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.74%
+Cluster 84581
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	Predicted DNA-binding protein	EDK32349
+fig|1463165.235.peg.3113!!!CFA/I!fimbrial!subunit!C!usher!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.00%
+Cluster 355968
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative aromatic ring-opening dioxygenase	CBJ47665
+fig|1463165.235.peg.4623|GIJ24_17235!!!4,5-DOPA!dioxygenase!extradiol!(EC!1.13.11.29),!but!not!physiological!substrate!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.72%
+Cluster 260158
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	malate dehydrogenase	ABE09111
+fig|1463165.235.peg.4439|GIJ24_16315!!!Malate!dehydrogenase!(EC!1.1.1.37)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.87%
+Cluster 541713
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15089
+fig|1463165.235.peg.5178|GIJ24_19875!!!L-alanine!exporter!AlaE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.21%
+Cluster 112569
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	putative enzyme	ABF05182
+fig|1463165.235.peg.4569|GIJ24_16970!!!23S!rRNA!(guanine(1835)-N(2))-methyltransferase!(EC!2.1.1.174)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.01%
+Cluster 662778
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	cytochrome O ubiquinol oxidase subunit CyoD	AAS61029
+fig|1463165.235.peg.2696|GIJ24_13075!!!Cytochrome!O!ubiquinol!oxidase!subunit!IV!(EC!1.10.3.-)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.64%
+Cluster 35586
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	methionyl-tRNA synthetase	ACP05309
+fig|1463165.235.peg.343|GIJ24_01720!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.53%
+Cluster 715382
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04136
+fig|1463165.235.peg.483|GIJ24_02420!!!DsrB!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.13%
+Cluster 46156
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	Beta-galactosidase	ACX88391
+fig|1463165.235.peg.3737|GIJ24_24980!!!beta-galactosidase!(EC!3.2.1.23)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	77.28%
+Cluster 598032
+310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Yes	Gammaproteobacteria	putative IS2 ORF	AAN44651
+fig|1463165.235.peg.4043!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.88%
+Cluster 103278
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15641
+fig|1463165.235.peg.4482|GIJ24_16535!!!Octaprenyl!diphosphate!synthase!(EC!2.5.1.90)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	91.33%
+Cluster 679638
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	B12-dependent methionine synthase	BAH62397
+fig|1463165.235.peg.2348!!!B12-dependent!methionine!synthase!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.59%
+Cluster 476485
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	ferritin	AAS61843
+fig|1463165.235.peg.501|GIJ24_02525!!!Bacterial!non-heme!ferritin!(EC!1.16.3.2)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.06%
+Cluster 757748
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	ribosomal protein L36	ABQ76678
+fig|1463165.235.peg.3848|GIJ24_25540!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	86.84%
+Cluster 365588
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	UgpQ	ADD78878
+fig|1463165.235.peg.4310|GIJ24_15720!!!Glycerophosphoryl!diester!phosphodiesterase!(EC!3.1.4.46)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	69.92%
+Cluster 287583
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	Hypothetical protein	AAK79477
+fig|1463165.235.peg.1819|GIJ24_08785!!!protein!YoaJ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.50%
+Cluster 216470
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	porphobilinogen deaminase	AAS63365
+fig|1463165.235.peg.5110|GIJ24_19560!!!Porphobilinogen!deaminase!(EC!2.5.1.61)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	78.62%
+Cluster 598874
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	acid shock protein	CBJ46480
+fig|1463165.235.peg.1011|GIJ24_04985!!!Acid!shock!protein!precursor!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	69.83%
+fig|1463165.235.peg.1464|GIJ24_07115!!!Acid!shock!protein!precursor!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.19%
+Cluster 371838
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative phage tail protein	AAS58644
+fig|1463165.235.peg.3021|GIJ24_21590!!!Phage!tail!tip,!assembly!protein!K!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.15%
+Cluster 612524
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	putative 6-pyruvoyl tetrahydrobiopterin synthase	CAV18990
+fig|1463165.235.peg.4964|GIJ24_18880!!!6-carboxy-5,6,7,8-tetrahydropterin!synthase!(EC!4.1.2.50)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	79.34%
+Cluster 673932
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative outer membrane protein N precursor	BAH64158
+fig|1463165.235.peg.475|GIJ24_02380!!!Inner!membrane!protein!YedR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	89.25%
+Cluster 392668
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABJ01271
+fig|1463165.235.peg.846!!!Putative!SOS!response-associated!peptidase!YedK!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.70%
+fig|1463165.235.peg.1437|GIJ24_06990!!!Putative!SOS!response-associated!peptidase!YedK!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.17%
+Cluster 6960
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	FtsK	ADD76508
+fig|1463165.235.peg.2123|GIJ24_10250!!!DNA!translocase!FtsK!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.98%
+Cluster 232504
+15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACD10111
+fig|1463165.235.peg.4054|GIJ24_26070!!!Uncharacterized!protein!YidR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 58566
+13954	CP000125	Burkholderia pseudomallei 1710b chromosome II, complete sequence.	Yes	Betaproteobacteria	ubiquinol oxidase family protein	ABA51670
+fig|1463165.235.peg.1089|GIJ24_05360!!!Cytochrome!d!ubiquinol!oxidase!subunit!I!(EC!1.10.3.-)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.88%
+fig|1463165.235.peg.1837|GIJ24_08870!!!Cytochrome!d!ubiquinol!oxidase!subunit!I!(EC!1.10.3.-)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.31%
+Cluster 340978
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	amino acid ABC transporter, periplasmic amino acid-binding protein	ACI10773
+fig|1463165.235.peg.2480|GIJ24_12045!!!ABC!transporter,!substrate-binding!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	99.29%
+Cluster 184319
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	FAD dependent oxidoreductase	ADB41593
+fig|1463165.235.peg.5152!!!L-2-hydroxyglutarate!oxidase!(EC!1.1.3.15)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.76%
+Cluster 493610
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YtfH	ADD78438
+fig|1463165.235.peg.1060|GIJ24_05220!!!Transcriptional!regulator,!HxlR!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.26%
+Cluster 324150
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	phosphoglycerate mutase	ABE42842
+fig|1463165.235.peg.2292|GIJ24_11060!!!Phosphoglycerate!mutase!(EC!5.4.2.11)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.80%
+Cluster 196423
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	nucleotide sugar dehydrogenase	ACQ94435
+fig|1463165.235.peg.410|GIJ24_02050!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	76.03%
+Cluster 495869
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	transcription termination/antitermination factor NusG	AAZ25723
+fig|1463165.235.peg.4022|GIJ24_25910!!!Transcription!antitermination!protein!NusG!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.27%
+Cluster 266021
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Psp operon transcriptional activator	CAO96684
+fig|1463165.235.peg.1675|GIJ24_08100!!!Psp!operon!transcriptional!activator!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.08%
+Cluster 370205
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	ribonuclease III	AAZ27454
+fig|1463165.235.peg.20|GIJ24_00100!!!Ribonuclease!III!(EC!3.1.26.3)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.27%
+Cluster 387786
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	ubiquinone biosynthesis methyltransferase	CAK17706
+fig|1463165.235.peg.5086|GIJ24_19435!!!2-methoxy-6-polyprenyl-1,4-benzoquinol!methylase!(EC!2.1.1.201)!@!Demethylmenaquinone!methyltransferase!(EC!2.1.1.163)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.13%
+Cluster 717945
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative cytoplasmic protein	AAX64486
+fig|1463165.235.peg.2582|GIJ24_12515!!!Uncharacterized!S4!RNA-binding-domain!protein!YbcJ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.71%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|1463165.235.peg.3837|GIJ24_25485!!!LSU!ribosomal!protein!L14p!(L23e)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.80%
+Cluster 434120
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	SeqA family protein	BAH62406
+fig|1463165.235.peg.2337|GIJ24_11315!!!SeqA!protein,!negative!modulator!of!initiation!of!replication!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.35%
+Cluster 446474
+28711	CP001804	Haliangium ochraceum DSM 14365, complete genome.	No	Deltaproteobacteria	ribosomal protein L5	ACY16492
+fig|1463165.235.peg.3839|GIJ24_25495!!!LSU!ribosomal!protein!L5p!(L11e)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.45%
+Cluster 162190
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	phage portal protein, HK97 family	ACI10369
+fig|1463165.235.peg.1872|GIJ24_09035!!!Phage!portal!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	99.52%
+Cluster 282478
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative dienelactone hydrolase	BAH61095
+fig|1463165.235.peg.5089|GIJ24_19450!!!Dienelactone!hydrolase!family!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.52%
+Cluster 597077
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	putative plasmid SOS inhibition protein B	ABR80365
+fig|1463165.235.peg.3548|GIJ24_24055!!!Plasmid!SOS!inhibition!protein!PsiB!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.52%
+Cluster 769942
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	KdpF	ADD78958
+fig|1463165.235.peg.2329|GIJ24_11275!!!Protein!KdpF!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.52%
+Cluster 404057
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE74144
+fig|1463165.235.peg.2325|GIJ24_11255!!!GTP!cyclohydrolase!1!type!2!homolog!YbgI!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.30%
+Cluster 757664
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	protein of unknown function UPF0057	ACX88726
+fig|1463165.235.peg.1537|GIJ24_07450!!!UPF0057!membrane!protein!YqaE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.46%
+Cluster 148765
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	queuine/archaeosine tRNA-ribosyltransferase	BAC93510
+fig|1463165.235.peg.2731|GIJ24_13245!!!Queuine!tRNA-ribosyltransferase!(EC!2.4.2.29)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.07%
+Cluster 286557
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	diadenosine tetraphosphatase	ABF06143
+fig|1463165.235.peg.5333|GIJ24_20585!!!NMN!phosphatase!(EC!3.1.3.5);!Class!B!acid!phosphatase!precursor!(EC!3.1.3.2)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.70%
+Cluster 711939
+16426	CP000362	Roseobacter denitrificans OCh 114, complete genome.	No	Alphaproteobacteria	ribosomal protein L33-related protein	ABG31601
+fig|1463165.235.peg.4131|GIJ24_14855!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	69.09%
+Cluster 706335
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YfaE	ADD77785
+fig|1463165.235.peg.255|GIJ24_01285!!!YfaE:!ferredoxin!involved!with!ribonucleotide!reductase!diferric-tyrosyl!radical!(Y*)!cofactor!maintenance!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.10%
+Cluster 661828
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58692
+fig|1463165.235.peg.3094|GIJ24_21955!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.26%
+Cluster 750738
+32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Yes	Gammaproteobacteria	NinE	CAS08226
+fig|1463165.235.peg.3478|GIJ24_26410!!!Phage!protein!NinE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.15%
+Cluster 721325
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB62753
+fig|1463165.235.peg.69|GIJ24_00345!!!Uncharacterized!protein!YfgJ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.28%
+Cluster 642063
+28329	CP000934	Cellvibrio japonicus Ueda107, complete genome.	No	Gammaproteobacteria	himD/ihfB	ACE85853
+fig|1463165.235.peg.2105|GIJ24_10165!!!Integration!host!factor!beta!subunit!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.53%
+Cluster 539052
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABE05645
+fig|1463165.235.peg.3204|GIJ24_22440!!!Predicted!chaperone!lipoprotein!YacC,!potentially!involved!in!protein!secretion!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	86.96%
+Cluster 651509
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU77417
+fig|1463165.235.peg.1780|GIJ24_08590!!!Uncharacterized!protein!YeaC!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	77.17%
+Cluster 150102
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69371
+fig|1463165.235.peg.5416|GIJ24_26260!!!L-serine!dehydratase,!beta!subunit!(EC!4.3.1.17)!/!L-serine!dehydratase,!alpha!subunit!(EC!4.3.1.17)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	76.09%
+Cluster 545312
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative antirestriction protein	AAS58731
+fig|1463165.235.peg.3541|GIJ24_24020!!!Antirestriction!protein!ArdA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.81%
+Cluster 144835
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.4730|GIJ24_17750!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.83%
+Cluster 580467
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	PEP-dependent phosphotransferase enzyme III	ABF03671
+fig|1463165.235.peg.1745|GIJ24_08425!!!PTS!system,!N,N'-diacetylchitobiose-specific!IIA!component!(EC!2.7.1.196)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.74%
+fig|1463165.235.peg.5004|GIJ24_19080!!!PTS!system,!IIA!component!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.50%
+Cluster 549571
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable d-tyr-trnatyr deacylase protein	CAD14025
+fig|1463165.235.peg.3951|GIJ24_14350!!!D-aminoacyl-tRNA!deacylase!(EC!3.1.1.96)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.45%
+Cluster 408003
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12456
+fig|1463165.235.peg.708|GIJ24_03525!!!UPF0056!inner!membrane!protein!YchE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.23%
+Cluster 113538
+288	AE009952	Yersinia pestis KIM, complete genome.	Yes	Gammaproteobacteria	maltose high-affinity receptor	AAM83627
+fig|1463165.235.peg.5315|GIJ24_20500!!!Maltoporin!(maltose/maltodextrin!high-affinity!receptor,!phage!lambda!receptor!protein)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.52%
+Cluster 689575
+241	AE006468	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.	Yes	Gammaproteobacteria	ssrB-regulated factor	AAL21133
+fig|1463165.235.peg.1807|GIJ24_08725!!!Virulence!protein!msgA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.00%
+Cluster 505021
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82119
+fig|1463165.235.peg.4396|GIJ24_16140!!!Translation!elongation!factor!Tu!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+fig|1463165.235.peg.3483|GIJ24_23760!!!Translation!elongation!factor!Tu!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 442953
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH64761
+fig|1463165.235.peg.5207|GIJ24_20015!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.14%
+Cluster 550032
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	4-hydroxyphenylacetate degradative operon repressor	CAR16087
+fig|1463165.235.peg.3410|GIJ24_23440!!!Homoprotocatechuate!degradative!operon!repressor!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.88%
+Cluster 713960
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893
+fig|1463165.235.peg.2643|GIJ24_12815!!!Haemolysin!expression!modulating!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 702006
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65249
+fig|1463165.235.peg.4595|GIJ24_17100!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	91.11%
+Cluster 720314
+13649	AM039952	Xanthomonas campestris pv. vesicatoria complete genome.	No	Gammaproteobacteria	acyl carrier protein	CAJ22778
+fig|1463165.235.peg.1955|GIJ24_09415!!!Acyl!carrier!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.77%
+Cluster 238578
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	histidine-binding periplasmic protein of high-affinity histidine transport system	AAS62595
+fig|1463165.235.peg.192|GIJ24_00985!!!Lysine-arginine-ornithine-binding!ABC!transporter,!substrate-binding!protein!ArgT!(TC!3.A.1.3.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.77%
+fig|1463165.235.peg.193|GIJ24_00990!!!Histidine!ABC!transporter,!substrate-binding!protein!HisJ!(TC!3.A.1.3.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.08%
+Cluster 544636
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04433
+fig|1463165.235.peg.241|GIJ24_01220!!!Pyrimidine!deoxynucleoside!triphosphate!(dYTP)!pyrophosphohydrolase!NudI!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	79.43%
+Cluster 228565
+288	AF074611	Yersinia pestis KIM plasmid pMT-1, complete sequence.	Yes	Gammaproteobacteria	putative regulator	AAC82768
+fig|1463165.235.peg.3099|GIJ24_21975!!!Putative!regulatory!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.96%
+Cluster 205429
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CatD	ADD78513
+fig|1463165.235.peg.1493|GIJ24_07245!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.42%
+Cluster 687158
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG13908
+fig|1463165.235.peg.1975|GIJ24_09515!!!Biofilm!regulator!BssS!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.53%
+Cluster 469687
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase / 5-ca...	CAH20876
+fig|1463165.235.peg.3411|GIJ24_23445!!!5-carboxymethyl-2-oxo-hex-3-!ene-1,7-dioate!decarboxylase!(EC!4.1.1.68)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.33%
+Cluster 674019
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80393
+fig|1463165.235.peg.3587|GIJ24_24240!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	91.26%
+Cluster 782166
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR77267
+fig|1463165.235.peg.1183!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.65%
+Cluster 576329
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	nickel responsive regulator	ACN47734
+fig|1463165.235.peg.4260|GIJ24_15480!!!Nickel!responsive!regulator!NikR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	78.03%
+Cluster 161740
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative PTS system, galactitol-specific IIC component	ACI07228
+fig|1463165.235.peg.2825|GIJ24_13705!!!PTS!system,!galactitol-specific!IIC!component!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	99.76%
+Cluster 572502
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG72534
+fig|1463165.235.peg.3457|GIJ24_23670!!!PduJ-like!protein!clustered!with!choline!trimethylamine-lyase!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.67%
+Cluster 774535
+21	AE017282	Methylococcus capsulatus str. Bath, complete genome.	No	Gammaproteobacteria	cyd operon protein YbgT	AAU92604
+fig|1463165.235.peg.2307|GIJ24_11170!!!Cytochrome!d!ubiquinol!oxidase!subunit!X!(EC!1.10.3.-)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.53%
+Cluster 258694
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	endonuclease III	ABQ77294
+fig|1463165.235.peg.1046|GIJ24_05150!!!Endonuclease!III!(EC!4.2.99.18)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.72%
+Cluster 673092
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58649
+fig|1463165.235.peg.3026|GIJ24_21615!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	93.33%
+Cluster 685624
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78044
+fig|1463165.235.peg.2649|GIJ24_12845!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-independent!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.46%
+Cluster 85566
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Thiamine ABC transport system, inner membrane component	CAY73135
+fig|1463165.235.peg.3273|GIJ24_22765!!!Thiamin!ABC!transporter,!transmembrane!component!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.19%
+Cluster 662878
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	transcriptional regulator, ArsR family	ACT07303
+fig|1463165.235.peg.4781|GIJ24_18000!!!Arsenical!resistance!operon!repressor!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.22%
+Cluster 529937
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	probable FKBX-type 16KD peptidyl-prolyl cis-trans isomerase	AAS63851
+fig|1463165.235.peg.3318|GIJ24_22985!!!FKBP-type!peptidyl-prolyl!cis-trans!isomerase!SlpA!(EC!5.2.1.8)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.79%
+Cluster 581919
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Acid-induced glycyl radical enzyme	AAS62707
+fig|1463165.235.peg.9|GIJ24_00045!!!Autonomous!glycyl!radical!cofactor!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.31%
+Cluster 233550
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	putative subunit of malonyl-S-acyl carrier protein: biotin carboxyltransferase	CAQ90623
+fig|1463165.235.peg.4519|GIJ24_16725!!!Malonate!decarboxylase!beta!subunit!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	86.41%
+Cluster 599823
+408	AE014073	Shigella flexneri 2a str. 2457T, complete genome.	Yes	Gammaproteobacteria	IS3 orfB	AAP18003
+fig|1463165.235.peg.4036|GIJ24_26000!!!Transposase!InsF!for!insertion!sequence!IS3!@!Mobile!element!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 687
+10695	CP000152	Burkholderia sp. 383 chromosome 2, complete sequence.	Yes	Betaproteobacteria	outer membrane autotransporter barrel	ABB10872
+fig|1463165.235.peg.2979!!!YapH!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.81%
+Cluster 746793
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	entericidin B	ABR79901
+fig|1463165.235.peg.3808|GIJ24_25340!!!Entericidin!B!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.24%
+Cluster 746792
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	putative entericidin A precursor	ACN48537
+fig|1463165.235.peg.3807|GIJ24_25335!!!Entericidin!A!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.09%
+Cluster 551905
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative membrane protein	CBJ48017
+fig|1463165.235.peg.4650|GIJ24_17365!!!putative!membrane!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	78.05%
+Cluster 576468
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative transcriptional regulator	ACI08427
+fig|1463165.235.peg.955|GIJ24_04700!!!Transcriptional!regulator,!HxlR!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.81%
+Cluster 525658
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	YfbU domain protein	ACF63247
+fig|1463165.235.peg.208|GIJ24_01060!!!UPF0304!protein!yfbU!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.68%
+Cluster 217347
+18743	CP001828	Legionella pneumophila 2300/99 Alcoy, complete genome.	Yes	Gammaproteobacteria	GTPase - translation elongation factor	ADG23624
+fig|1463165.235.peg.3822|GIJ24_25410!!!Translation!elongation!factor!Tu!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	86.67%
+fig|1463165.235.peg.4024|GIJ24_25920!!!Translation!elongation!factor!Tu!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	86.67%
+Cluster 78533
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	sensory kinase in two component regulatory system with HydG	AAX67960
+fig|1463165.235.peg.3996|GIJ24_25785!!!Sensor!protein!of!zinc!sigma-54-dependent!two-component!system!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.09%
+Cluster 92910
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58668
+fig|1463165.235.peg.3045|GIJ24_21710!!!Putative!helicase!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.87%
+Cluster 705150
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX21343
+fig|1463165.235.peg.1531|GIJ24_07420!!!Putative!selenium-binding!protein!YdfZ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.19%
+Cluster 72950
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	ABC transporter ATP binding protein	CAG73360
+fig|1463165.235.peg.1320|GIJ24_06445!!!ABC!transporter,!ATP-binding!protein!(cluster!5,!nickel/peptides/opines)!/!ABC!transporter,!ATP-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.17%
+Cluster 139226
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	GTP-binding proten HflX	ACR14113
+fig|1463165.235.peg.3777|GIJ24_25180!!!Ribosome!LSU-associated!GTP-binding!protein!HflX!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.21%
+Cluster 291797
+12636	XXX	Chromohalobacter salexigens DSM 3043	No	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.1233|GIJ24_06040!!!Uricase!(urate!oxidase)!(EC!1.7.3.3)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.55%
+Cluster 669854
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	DNA-binding transcriptional activator of maltose metabolism	CAQ90658
+fig|1463165.235.peg.4481|GIJ24_16530!!!Sugar!fermentation!stimulation!protein!B!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.00%
+Cluster 708969
+16721	CP000733	Coxiella burnetii Dugway 5J108-111, complete genome.	Yes	Gammaproteobacteria	SSU ribosomal protein S21P	ABS77864
+fig|1463165.235.peg.4599|GIJ24_17125!!!SSU!ribosomal!protein!S21p!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.56%
+Cluster 726317
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative inner membrane protein	AAX64850
+fig|1463165.235.peg.2100|GIJ24_10140!!!FIG002473:!Protein!YcaR!in!KDO2-Lipid!A!biosynthesis!cluster!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.67%
+Cluster 525409
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	putative transcriptional regulator	ABE42505
+fig|1463165.235.peg.2019|GIJ24_09740!!!Transcriptional!regulator,!HxlR!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.42%
+Cluster 537921
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative palmitoyl transferase for Lipid A	BAH62357
+fig|1463165.235.peg.4030|GIJ24_25970!!!Lipid!A!palmitoyltransferase!PagP!(EC!2.3.1.251)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.79%
+Cluster 501180
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Pal	ADD76355
+fig|1463165.235.peg.2300|GIJ24_11135!!!Tol-Pal!system!peptidoglycan-associated!lipoprotein!PAL!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	86.78%
+Cluster 680779
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative C-type natriuretic protein	AAS58718
+fig|1463165.235.peg.3000|GIJ24_21485!!!putative!C-type!natriuretic!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.65%
+Cluster 84139
+16182	CP000573	Burkholderia pseudomallei 1106a chromosome II, complete sequence.	Yes	Betaproteobacteria	alcohol dehydrogenase, iron-containing	ABN94379
+fig|1463165.235.peg.4643|GIJ24_17335!!!NADPH-dependent!broad!range!aldehyde!dehydrogenase!YqhD!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.86%
+Cluster 412004
+13025	CP000116	Thiobacillus denitrificans ATCC 25259, complete genome.	No	Betaproteobacteria	Two component Heavy metal response Transcriptional regulator, Winged helix family	AAZ97702
+fig|1463165.235.peg.3989|GIJ24_25750!!!Copper-sensing!two-component!system!response!regulator!CusR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.52%
+Cluster 97020
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative sugar transporter	AAS62832
+fig|1463165.235.peg.4450|GIJ24_16375!!!Sialic!acid!transporter!(permease)!NanT!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.31%
+Cluster 249033
+371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAO70218
+fig|1463165.235.peg.3516|GIJ24_23915!!!Phage!integrase,!Phage!P4-associated!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	83.26%
+Cluster 200994
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	biotin synthase	CAL17668
+fig|1463165.235.peg.2255|GIJ24_10885!!!Biotin!synthase!(EC!2.8.1.6)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.85%
+Cluster 59954
+19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ACF91718
+fig|1463165.235.peg.2111|GIJ24_10195!!!Ribosomal!protein!S12p!methylthiotransferase!accessory!factor!YcaO!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	91.64%
+Cluster 363520
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	putative carbonic anhydrase	CAX54615
+fig|1463165.235.peg.3200|GIJ24_22420!!!Carbonic!anhydrase,!beta!class!(EC!4.2.1.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.91%
+Cluster 706648
+10695	CP000151	Burkholderia sp. 383 chromosome 1, complete sequence.	Yes	Betaproteobacteria	SpoVT/AbrB-like protein	ABB08388
+fig|1463165.235.peg.3522|GIJ24_23940!!!VapB!protein!(antitoxin!to!VapC)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.16%
+Cluster 53312
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.3088|GIJ24_21925!!!Phage!recombination!related!exonuclease!(EC!3.1.11.-)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	85.42%
+Cluster 742989
+349	XXX	Vibrio vulnificus CMCP6	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.2070|GIJ24_09995!!!Ribosome!modulation!factor!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.82%
+Cluster 345916
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	probable hydroxyacylglutathione hydrolase	AAS62954
+fig|1463165.235.peg.2873|GIJ24_13945!!!Hydroxyacylglutathione!hydrolase!(EC!3.1.2.6)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.16%
+Cluster 390287
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	short-chain dehydrogenase/reductase SDR	ACL59252
+fig|1463165.235.peg.2226|GIJ24_10740!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.49%
+Cluster 548900
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	NADH dehydrogenase I chain A	AAS62571
+fig|1463165.235.peg.215|GIJ24_01090!!!NADH!ubiquinone!oxidoreductase!chain!A!(EC!1.6.5.3)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	77.70%
+Cluster 346002
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	cyclase	AAW75515
+fig|1463165.235.peg.423|GIJ24_02110!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.95%
+Cluster 704138
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	4-oxalocrotonate tautomerase	BAH63599
+fig|1463165.235.peg.1129|GIJ24_05545!!!Tautomerase!PptA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.67%
+Cluster 76292
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12778
+fig|1463165.235.peg.1044|GIJ24_05145!!!Di-tripeptide/H+!symporter!DtpA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.42%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|1463165.235.peg.849|GIJ24_04185!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.63%
+Cluster 664489
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	cell division activator	BAH62960
+fig|1463165.235.peg.1740|GIJ24_08400!!!Cell!division!activator!CedA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	99.09%
+Cluster 161967
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI08332
+fig|1463165.235.peg.1591|GIJ24_07700!!!Putative!monooxygenase!PA5393!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.93%
+Cluster 143705
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.533|GIJ24_02680!!!Murein!DD-endopeptidase!MepM!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.84%
+Cluster 579384
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	IS2 ORF1	ABF05870
+fig|1463165.235.peg.4042!!!Transposase!InsC!for!insertion!element!IS2!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 127142
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	major facilitator family transporter	AAY95865
+fig|1463165.235.peg.1461|GIJ24_07105!!!Uncharacterized!MFS-type!transporter!YnfM!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.30%
+Cluster 64005
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	N-acetylmuramoyl-L-alanine amidase	ABV39536
+fig|1463165.235.peg.3781|GIJ24_25200!!!N-acetylmuramoyl-L-alanine!amidase!(EC!3.5.1.28)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.97%
+Cluster 44026
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	transketolase	ACB32495
+fig|1463165.235.peg.111|GIJ24_00550!!!Transketolase!(EC!2.2.1.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.09%
+Cluster 43340
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ACC70650
+fig|1463165.235.peg.3216|GIJ24_22490!!!Dihydrolipoamide!dehydrogenase!of!pyruvate!dehydrogenase!complex!(EC!1.8.1.4)!@!Dihydrolipoamide!dehydrogenase!(EC!1.8.1.4)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.51%
+Cluster 217109
+33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Yes	Gammaproteobacteria	quinone oxidoreductase, NADPH-dependent	CAR20577
+fig|1463165.235.peg.5329|GIJ24_20565!!!Quinone!oxidoreductase!(EC!1.6.5.5)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	87.46%
+Cluster 668075
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	Hypothetical protein	ABR80367
+fig|1463165.235.peg.3550|GIJ24_24065!!!FIG00641039:!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.41%
+Cluster 325127
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	sugar fermentation stimulation protein	ACA69734
+fig|1463165.235.peg.3188|GIJ24_22360!!!Sugar!fermentation!stimulation!protein!SfsA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.76%
+Cluster 702345
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YjbJ	ADD75425
+fig|1463165.235.peg.5324|GIJ24_20540!!!UPF0337!protein!YjbJ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.61%
+Cluster 386223
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACT05828
+fig|1463165.235.peg.1241|GIJ24_06075!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.06%
+Cluster 651012
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	tryptophan-specific transport protein	BAH61624
+fig|1463165.235.peg.3373|GIJ24_23270!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	91.14%
+Cluster 314439
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	modulation protein d1	BAH64759
+fig|1463165.235.peg.5210|GIJ24_20025!!!Chromosome!initiation!inhibitor!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.66%
+Cluster 702342
+31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	No	Gammaproteobacteria	30S ribosomal protein S17	ACX95195
+fig|1463165.235.peg.3836|GIJ24_25480!!!SSU!ribosomal!protein!S17p!(S11e)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	69.05%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|1463165.235.peg.2131|GIJ24_10280!!!Translation!initiation!factor!1!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.06%
+Cluster 343653
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	ribosomal protein L1	ACG65011
+fig|1463165.235.peg.4020|GIJ24_25900!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.20%
+Cluster 716579
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI11576
+fig|1463165.235.peg.4806|GIJ24_18110!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.59%
+Cluster 257236
+60	BA000022	Synechocystis sp. PCC 6803 DNA, complete genome.	No	Chroococcales	UNKNOWN	BAA10794
+fig|1463165.235.peg.430|GIJ24_02145!!!his!operon!leader!peptide!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.75%
+Cluster 595793
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CrcB	ADD78964
+fig|1463165.235.peg.3533|GIJ24_23980!!!Fluoride!ion!transporter!CrcB!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.27%
+Cluster 12475
+17811	CP000517	Lactobacillus helveticus DPC 4571, complete genome.	No	Lactobacillales	putative glucan modifying protein	ABX26451
+fig|1463165.235.peg.733|GIJ24_03635!!!Phenylalanyl--tRNA!ligase!operon!leader!peptide!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	78.57%
+Cluster 735095
+17053	CP000949	Pseudomonas putida W619, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACA73134
+fig|1463165.235.peg.1177|GIJ24_05780!!!Uncharacterized!protein!YmdF!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.49%
+fig|1463165.235.peg.1841|GIJ24_08890!!!Uncharacterized!protein!YmdF!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.49%
+Cluster 6225
+16645	CP000309	Yersinia pestis Antiqua plasmid pMT, complete sequence.	Yes	Gammaproteobacteria	DNA polymerase III	ABG16195
+fig|1463165.235.peg.3105|GIJ24_22000!!!DNA!polymerase!III!alpha!subunit!(EC!2.7.7.7)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	93.17%
+Cluster 137150
+19	AL591985	Sinorhizobium meliloti 1021 plasmid pSymB.	No	Alphaproteobacteria	glutamate-1-semialdehyde 2,1-aminomutase	CAC48667
+fig|1463165.235.peg.1798|GIJ24_08680!!!Aminotransferase,!class!III!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.31%
+Cluster 206298
+19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Yes	Gammaproteobacteria	inner membrane protein YfiN	ACF89035
+fig|1463165.235.peg.3110!!!Diguanylate!cyclase!(EC!2.7.7.65)!=>!DgcN!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	79.31%
+Cluster 587242
+29065	CP001085	Candidatus Riesia pediculicola USDA, complete genome.	No	Gammaproteobacteria	ribosomal protein S11	ADD79935
+fig|1463165.235.peg.3850|GIJ24_25550!!!SSU!ribosomal!protein!S11p!(S14e)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	79.84%
+Cluster 661199
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78094
+fig|1463165.235.peg.2690|GIJ24_13045!!!Cell!division!protein!BolA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.90%
+Cluster 369159
+28471	CP000965	Klebsiella pneumoniae 342 plasmid pKP187, complete sequence.	No	Gammaproteobacteria	ABC transporter, ATP-binding protein	ACI12007
+fig|1463165.235.peg.3490|GIJ24_23785!!!ABC!transporter,!ATP-binding!protein!(cluster!9,!phospholipid)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.87%
+Cluster 621828
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	protein of unknown function DUF37	ABK05545
+fig|1463165.235.peg.433|GIJ24_02160!!!membrane!protein!YoeI!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.00%
+Cluster 664755
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YiiL	ADD77602
+fig|1463165.235.peg.3927|GIJ24_14235!!!L-rhamnose!mutarotase!(EC!5.1.3.32)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.08%
+Cluster 119132
+226	AB011549	Escherichia coli O157:H7 str. Sakai plasmid pO157 DNA, complete sequence.	Yes	Gammaproteobacteria	helicase I	BAA31818
+fig|1463165.235.peg.5420!!!IncF!plasmid!conjugative!transfer!DNA-nicking!and!unwinding!protein!TraI!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.89%
+Cluster 219927
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative membrane protein	ACI10581
+fig|1463165.235.peg.2867|GIJ24_13910!!!putative!membrane!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.09%
+Cluster 678991
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24443
+fig|1463165.235.peg.4918|GIJ24_18670!!!Uncharacterized!lipoprotein!YgdI!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.26%
+Cluster 525163
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative cell envelope integrity inner membrane protein TolA	BAH63461
+fig|1463165.235.peg.1271|GIJ24_06220!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.12%
+Cluster 739554
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	small toxic membrane polypeptide	ABR78496
+fig|1463165.235.peg.4989|GIJ24_19005!!!Hok/Gef-like!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.00%
+Cluster 269876
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	AraH	ADD76994
+fig|1463165.235.peg.510|GIJ24_02565!!!L-arabinose!ABC!transporter,!permease!protein!AraH!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.97%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|1463165.235.peg.4021|GIJ24_25905!!!LSU!ribosomal!protein!L11p!(L12e)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.56%
+Cluster 111457
+27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Yes	Gammaproteobacteria	amino acid-polyamine-organocation (APC) permease family protein	ACI39648
+fig|1463165.235.peg.3792|GIJ24_25260!!!L-methionine!and!branched-chain!amino!acid!export!protein!YjeH!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.21%
+Cluster 512338
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	outer membrane lipoprotein blc	ACR68124
+fig|1463165.235.peg.3983|GIJ24_25720!!!Lipocalin!Blc!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.41%
+Cluster 130070
+13953	CP000571	Burkholderia pseudomallei 668 chromosome II, complete sequence.	Yes	Betaproteobacteria	alpha/beta hydrolase family protein	ABN87571
+fig|1463165.235.peg.1210|GIJ24_05925!!!2-hydroxymuconic!semialdehyde!hydrolase!(EC!3.7.1.9)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.82%
+Cluster 516018
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.1788|GIJ24_08630!!!Glutathione!peroxidase!(EC!1.11.1.9)!@!Thioredoxin!peroxidase!(EC!1.11.1.15)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.75%
+Cluster 453585
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE05950
+fig|1463165.235.peg.2708|GIJ24_13135!!!UPF0234!protein!Yitk!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	93.87%
+Cluster 527178
+29177	CP001339	Thioalkalivibrio sp. HL-EbGR7, complete genome.	No	Gammaproteobacteria	peptide deformylase	ACL71294
+fig|1463165.235.peg.3860|GIJ24_25605!!!Peptide!deformylase!(EC!3.5.1.88)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.31%
+Cluster 233056
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative isomerase	ABR76217
+fig|1463165.235.peg.2280|GIJ24_11000!!!6-phosphogluconolactonase!(EC!3.1.1.31)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.28%
+Cluster 757297
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative transcriptional regulator (LysR familiy)	ABR75736
+fig|1463165.235.peg.1773!!!putative!transcriptional!regulator!(LysR!familiy)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.71%
+fig|1463165.235.peg.5039!!!putative!transcriptional!regulator!(LysR!familiy)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	88.89%
+Cluster 698850
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76584
+fig|1463165.235.peg.505|GIJ24_02540!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	83.13%
+Cluster 348679
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69942
+fig|1463165.235.peg.4129|GIJ24_14845!!!UPF0758!protein!YicR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.11%
+Cluster 123043
+16721	CP000733	Coxiella burnetii Dugway 5J108-111, complete genome.	Yes	Gammaproteobacteria	ankyrin repeat protein	ABS78000
+fig|1463165.235.peg.4041!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.67%
+Cluster 720131
+31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Yes	Gammaproteobacteria	F pilin synthesis	ABR80529
+fig|1463165.235.peg.3603|GIJ24_24315!!!IncF!plasmid!conjugative!transfer!protein!TraQ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.47%
+Cluster 763870
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58719
+fig|1463165.235.peg.3001|GIJ24_21490!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.00%
+Cluster 211607
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	Zinc-containing alcohol dehydrogenase superfamily	AAY37470
+fig|1463165.235.peg.4090|GIJ24_14645!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.20%
+Cluster 595794
+29431	CP001968	Denitrovibrio acetiphilus DSM 12809, complete genome.	No	Deferribacterales	RbsD or FucU transport	ADD68874
+fig|1463165.235.peg.4923|GIJ24_18695!!!L-fucose!mutarotase!(EC!5.1.3.29)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.43%
+Cluster 740964
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAI26909
+fig|1463165.235.peg.788|GIJ24_03900!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 371401
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76401
+fig|1463165.235.peg.353|GIJ24_01770!!!Hydroxyethylthiazole!kinase!(EC!2.7.1.50)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.70%
+Cluster 503148
+312	AE013218	Buchnera aphidicola str. Sg (Schizaphis graminum), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L6	AAM68033
+fig|1463165.235.peg.3842|GIJ24_25510!!!LSU!ribosomal!protein!L6p!(L9e)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.45%
+Cluster 666509
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAV02134
+fig|1463165.235.peg.2429|GIJ24_11795!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.85%
+Cluster 97407
+13918	CP000459	Burkholderia cenocepacia HI2424 chromosome 2, complete sequence.	Yes	Betaproteobacteria	drug resistance transporter, EmrB/QacA subfamily	ABK11400
+fig|1463165.235.peg.4079|GIJ24_14590!!!Uncharacterized!MFS-type!transporter!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.37%
+Cluster 343173
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	GarL	ADD78250
+fig|1463165.235.peg.4541|GIJ24_16830!!!2-dehydro-3-deoxyglucarate!aldolase!(EC!4.1.2.20)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.44%
+Cluster 419223
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	FabA	ABJ00363
+fig|1463165.235.peg.2069|GIJ24_09990!!!3-hydroxyacyl-[acyl-carrier-protein]!dehydratase,!FabA!form!(EC!4.2.1.59)!@!Trans-2-decenoyl-[acyl-carrier-protein]!isomerase!(EC!5.3.3.14)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.67%
+Cluster 477734
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR75674
+fig|1463165.235.peg.3117|GIJ24_22010!!!D-glycero-beta-D-manno-heptose-1,7-bisphosphate!7-phosphatase!(EC!3.1.3.82)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.87%
+Cluster 150871
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF444	ACT07063
+fig|1463165.235.peg.1787|GIJ24_08625!!!UPF0229!protein!YeaH!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	83.84%
+Cluster 735693
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative hok/gef cell toxic protein	BAH65700
+fig|1463165.235.peg.4192|GIJ24_15150!!!Hok/Gef-like!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.00%
+Cluster 261679
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	XylF	ADD75207
+fig|1463165.235.peg.4183|GIJ24_15110!!!D-xylose!ABC!transporter,!substrate-binding!protein!XylF!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.29%
+Cluster 679321
+16067	CP000901	Yersinia pestis Angola, complete genome.	Yes	Gammaproteobacteria	putative lipoprotein	ABX88655
+fig|1463165.235.peg.1602|GIJ24_07750!!!Uncharacterized!protein!YnbE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.66%
+Cluster 329392
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	nitrate ABC transporter,  ATPase subunits C and D	ABM58337
+fig|1463165.235.peg.686|GIJ24_03400!!!Nitrate!ABC!transporter,!ATP-binding!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.12%
+Cluster 17073
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative inner membrane protein	ABR75996
+fig|1463165.235.peg.2508|GIJ24_12180!!!Putative!inner!membrane!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	99.01%
+Cluster 638174
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.5320|GIJ24_20525!!!Diacylglycerol!kinase!(EC!2.7.1.107)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.21%
+Cluster 138088
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	polygalacturonase family protein	ACI09370
+fig|1463165.235.peg.82|GIJ24_00410!!!Polygalacturonase!(EC!3.2.1.15)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	97.53%
+Cluster 267702
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11918
+fig|1463165.235.peg.429|GIJ24_02140!!!ATP!phosphoribosyltransferase!(EC!2.4.2.17)!=>!HisGl!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.32%
+Cluster 492488
+29443	CP001707	Kangiella koreensis DSM 16069, complete genome.	No	Gammaproteobacteria	ribosomal protein L21	ACV27086
+fig|1463165.235.peg.4483|GIJ24_16540!!!LSU!ribosomal!protein!L21p!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.11%
+Cluster 380501
+16306	CP000928	Caulobacter sp. K31 plasmid pCAUL01, complete sequence.	No	Alphaproteobacteria	2-deoxy-D-gluconate 3-dehydrogenase	ABZ74393
+fig|1463165.235.peg.1737|GIJ24_08385!!!2-dehydro-3-deoxy-D-gluconate!5-dehydrogenase!(EC!1.1.1.127)!@!2-deoxy-D-gluconate!3-dehydrogenase!(EC!1.1.1.125)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.26%
+Cluster 532700
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Aspartate transcarbamylase regulatory subunit PyrI	CAX54135
+fig|1463165.235.peg.3698|GIJ24_24785!!!Aspartate!carbamoyltransferase!regulatory!chain!(PyrI)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.05%
+Cluster 298919
+17707	CP001124	Geobacter bemidjiensis Bem, complete genome.	No	Deltaproteobacteria	succinyl-CoA synthetase, alpha subunit	ACH38483
+fig|1463165.235.peg.2311|GIJ24_11185!!!Succinyl-CoA!ligase![ADP-forming]!alpha!chain!(EC!6.2.1.5)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.82%
+Cluster 170604
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative porphyrin biosynthetic protein	AAS58708
+fig|1463165.235.peg.2988!!!CobS-like!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	74.29%
+fig|1463165.235.peg.3106|GIJ24_22005!!!CobS-like!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	89.09%
+Cluster 111610
+9633	CP000082	Psychrobacter arcticus 273-4, complete genome.	No	Gammaproteobacteria	putative DNA repair protein radA	AAZ18780
+fig|1463165.235.peg.4401|GIJ24_26095!!!DNA!repair!protein!RadA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.20%
+Cluster 321621
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	Carboxymethylenebutenolidase	AAY37573
+fig|1463165.235.peg.4651|GIJ24_17370!!!Dienelactone!hydrolase!family!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.86%
+Cluster 85700
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62104
+fig|1463165.235.peg.1969|GIJ24_09485!!!Protein!of!unknown!function!YceH!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.06%
+Cluster 760379
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12290
+fig|1463165.235.peg.570|GIJ24_02860!!!PhoP/PhoQ!regulator!MgrB!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.21%
+Cluster 642064
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	major cold shock protein	AAW75975
+fig|1463165.235.peg.4194|GIJ24_15160!!!Cold!shock!protein!of!CSP!family!=>!CspA!(naming!convention!as!in!E.coli)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.00%
+Cluster 64542
+32551	AP010948	Azospirillum sp. B510 plasmid pAB510b DNA, complete genome.	No	Alphaproteobacteria	PTS system, glucose-specific IIB component	BAI75163
+fig|1463165.235.peg.1948|GIJ24_09380!!!PTS!system,!glucose-specific!IIC!component!/!PTS!system,!glucose-specific!IIB!component!(EC!2.7.1.199)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	62.68%
+Cluster 394450
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	LexA	ADD75423
+fig|1463165.235.peg.5321|GIJ24_20530!!!SOS-response!repressor!and!protease!LexA!(EC!3.4.21.88)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	86.63%
+Cluster 704677
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58662
+fig|1463165.235.peg.3039|GIJ24_21680!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	89.77%
+Cluster 713540
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX21185
+fig|1463165.235.peg.1671|GIJ24_08080!!!Phage!shock!protein!D!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	76.39%
+Cluster 593953
+13151	CP000038	Shigella sonnei Ss046, complete genome.	Yes	Gammaproteobacteria	IS2 ORF1	AAZ86942
+fig|1463165.235.peg.3520!!!Transposase!InsC!for!insertion!element!IS2!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	98.35%
+Cluster 458542
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.3049|GIJ24_21730!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	92.13%
+Cluster 783917
+225	U00096	Escherichia coli str. K-12 substr. MG1655, complete genome.	No	Gammaproteobacteria	hypothetical protein	ABP93450
+fig|1463165.235.peg.106|GIJ24_00525!!!protein!YpfM!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	89.47%
+Cluster 417237
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11641
+fig|1463165.235.peg.201|GIJ24_01030!!!Probable!glutathione!S-transferase!(EC!2.5.1.18),!YfcF!homolog!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	78.50%
+Cluster 714592
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	transcriptional regulator, XRE family	ABV41054
+fig|1463165.235.peg.1349|GIJ24_06565!!!Uncharacterized!transcriptional!regulator!YozG,!Cro/CI!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.24%
+Cluster 159399
+16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Yes	Gammaproteobacteria	phospholipase, patatin family	ABS49861
+fig|1463165.235.peg.3365|GIJ24_23215!!!Uncharacterized!protein!YjjU!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.15%
+Cluster 144401
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	aminopeptidase B	BAH64649
+fig|1463165.235.peg.53|GIJ24_00265!!!Peptidase!B!(EC!3.4.11.23)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	96.73%
+Cluster 208642
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein ycfS precursor	AAN79857
+fig|1463165.235.peg.1936|GIJ24_09320!!!L,D-transpeptidase!=>!YcfS!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.39%
+Cluster 672938
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14100
+fig|1463165.235.peg.4014|GIJ24_25870!!!PTS!system,!IIA!component!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	85.71%
+Cluster 303848
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeiE	ADD77719
+fig|1463165.235.peg.307|GIJ24_01545!!!Transcriptional!regulator!YeiE,!LysR!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	78.82%
+Cluster 326516
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Dihydrodipicolinate synthase	CAO96112
+fig|1463165.235.peg.97|GIJ24_00480!!!4-hydroxy-tetrahydrodipicolinate!synthase!(EC!4.3.3.7)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	80.14%
+Cluster 36881
+32551	AP010948	Azospirillum sp. B510 plasmid pAB510b DNA, complete genome.	No	Alphaproteobacteria	formate dehydrogenase, alpha subunit	BAI75108
+fig|1463165.235.peg.899|GIJ24_04430!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.85%
+fig|1463165.235.peg.5378|GIJ24_20790!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!@!selenocysteine-containing!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.31%
+Cluster 176864
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	transporter, major facilitator family	ACI07613
+fig|1463165.235.peg.954|GIJ24_04695!!!Uncharacterized!MFS-type!transporter!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	94.57%
+Cluster 25911
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	sulfate adenylyltransferase, large subunit	ACL56789
+fig|1463165.235.peg.4105|GIJ24_14725!!!Sulfate-binding!protein!Sbp!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.05%
+Cluster 446033
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11187
+fig|1463165.235.peg.2961|GIJ24_21340!!!Hexose-phosphate!uptake!two-component!transcriptional!response!regulator!UhpA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	93.40%
+Cluster 114214
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative monooxygenase	AAS63755
+fig|1463165.235.peg.4732|GIJ24_17760!!!2-polyprenylphenol!hydroxylase!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	72.00%
+Cluster 425568
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	ABC transporter, ATP-binding protein	ACI08962
+fig|1463165.235.peg.1135|GIJ24_05575!!!ABC!transporter,!ATP-binding!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.28%
+Cluster 229143
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative exported protein	CAG74315
+fig|1463165.235.peg.2422|GIJ24_11760!!!5-methylthioribose!ABC!transporter,!substrate-binding!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	84.18%
+Cluster 2464
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.3024|GIJ24_21605!!!putative!membrane!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	77.55%
+Cluster 736321
+37877	FN392237	Erwinia pyrifoliae DSM 12163 complete plasmid pEP3.	No	Gammaproteobacteria	RNA one modulator	CAY76371
+fig|1463165.235.peg.3873|GIJ24_25655!!!RNA!one!modulator-like!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	63.49%
+Cluster 702958
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	AAS58648
+fig|1463165.235.peg.3025|GIJ24_21610!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	93.51%
+Cluster 162352
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	isocitrate dehydrogenase (NADP)	ABM42459
+fig|1463165.235.peg.1911|GIJ24_09195!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.00%
+Cluster 485412
+245	BA000003	Buchnera aphidicola str. APS (Acyrthosiphon pisum) genomic DNA, complete sequence.	No	Gammaproteobacteria	50S ribosomal protein L4	BAB13216
+fig|1463165.235.peg.3828|GIJ24_25440!!!LSU!ribosomal!protein!L4p!(L1e)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	73.63%
+Cluster 639844
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	nitrite reductase [NAD(P)H] small subunit	CAG76977
+fig|1463165.235.peg.4366|GIJ24_15995!!!Nitrite!reductase![NAD(P)H]!small!subunit!(EC!1.7.1.4)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	64.81%
+Cluster 669210
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14200
+fig|1463165.235.peg.3934|GIJ24_14270!!!Putative!inner!membrane!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.65%
+Cluster 20515
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	leucyl-tRNA synthetase	ABF13994
+fig|1463165.235.peg.2370|GIJ24_11500!!!Leucyl-tRNA!synthetase!(EC!6.1.1.4)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.09%
+Cluster 696509
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.3061|GIJ24_21790!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.11%
+Cluster 590332
+20039	CP001013	Leptothrix cholodnii SP-6, complete genome.	No	Betaproteobacteria	transcriptional regulator, HxlR family	ACB33708
+fig|1463165.235.peg.3743|GIJ24_25010!!!Redox-sensing!transcriptional!regulator!QorR!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	70.73%
+Cluster 614913
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1463165.235.peg.4195|GIJ24_15165!!!Antitoxin!to!RelE-like!translational!repressor!toxin!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.75%
+Cluster 525701
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	molybdopterin biosynthesis MoaE protein	ACR01125
+fig|1463165.235.peg.2239|GIJ24_10805!!!Molybdopterin!synthase!catalytic!subunit!MoaE!(EC!2.8.1.12)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.00%
+Cluster 588263
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65205
+fig|1463165.235.peg.4636|GIJ24_17300!!!Protein!ygiW!precursor!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.37%
+Cluster 621373
+31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR80396
+fig|1463165.235.peg.3591|GIJ24_24255!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	100.00%
+Cluster 95501
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobyric acid synthase	CBJ79977
+fig|1463165.235.peg.4911|GIJ24_18620!!!Cobyric!acid!synthase!(EC!6.3.5.10)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.88%
+Cluster 463949
+16067	CP000900	Yersinia pestis Angola plasmid pMT-pPCP, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABX84862
+fig|1463165.235.peg.3038|GIJ24_21675!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	87.32%
+Cluster 312269
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABM37724
+fig|1463165.235.peg.2082|GIJ24_10055!!!Alkanesulfonate!ABC!transporter!permease!protein!SsuC!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.02%
+Cluster 534402
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69431
+fig|1463165.235.peg.4494|GIJ24_16595!!!Protein!translocase!membrane!subunit!SecG!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	90.83%
+Cluster 693455
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	cell division topological specificity factor MinE	ACS85798
+fig|1463165.235.peg.595|GIJ24_02975!!!Cell!division!topological!specificity!factor!MinE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	86.52%
+Cluster 368550
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741
+fig|1463165.235.peg.3759|GIJ24_25090!!!3-keto-L-gulonate-6-phosphate!decarboxylase!UlaD!(EC!4.1.1.85)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	95.37%
+Cluster 511321
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	SufE protein probably involved in Fe-S center assembly	AAS62393
+fig|1463165.235.peg.853|GIJ24_04205!!!Sulfur!acceptor!protein!=>!iron-sulfur!cluster!assembly!SufE!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	68.84%
+Cluster 511324
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative transcriptional regulator	AAS58671
+fig|1463165.235.peg.3048|GIJ24_21725!!!Transcriptional!regulator!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	81.25%
+Cluster 351220
+65	AE001825	Deinococcus radiodurans R1 chromosome 2, complete sequence.	No	Deinococci	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	AAF12475
+fig|1463165.235.peg.3417|GIJ24_23475!!!2,4-dihydroxyhept-2-ene-1,7-dioic!acid!aldolase!(EC!4.1.2.52)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.28%
+Cluster 669352
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS61209
+fig|1463165.235.peg.755|GIJ24_03745!!!UPF0410!protein!YeaQ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	89.02%
+Cluster 587149
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	acetylase for 30S ribosomal subunit protein S18	BAI28698
+fig|1463165.235.peg.3370|GIJ24_23240!!!Ribosomal-protein-S18p-alanine!acetyltransferase!(EC!2.3.1.128)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	82.43%
+Cluster 685774
+16306	CP000927	Caulobacter sp. K31, complete genome.	No	Alphaproteobacteria	protein of unknown function DUF1272	ABZ70166
+fig|1463165.235.peg.1843|GIJ24_08900!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	66.67%
+Cluster 171823
+13454	CP000388	Pseudoalteromonas atlantica T6c, complete genome.	No	Gammaproteobacteria	8-amino-7-oxononanoate synthase	ABG41072
+fig|1463165.235.peg.4031!!!8-amino-7-oxononanoate!synthase!(EC!2.3.1.47)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.29%
+Cluster 49699
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	3-phosphoshikimate 1-carboxyvinyltransferase	ACR01634
+fig|1463165.235.peg.2108|GIJ24_10180!!!3-phosphoshikimate!1-carboxyvinyltransferase!(EC!2.5.1.19)!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	60.66%
+Cluster 23296
+285	AE009442	Xylella fastidiosa Temecula1, complete genome.	No	Gammaproteobacteria	ATP-dependent serine proteinase La	AAO28351
+fig|1463165.235.peg.2684|GIJ24_13020!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	65.56%
+Cluster 604531
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR68071
+fig|1463165.235.peg.3131|GIJ24_22080!!!Uncharacterized!protein!YaeR!with!similarity!to!glyoxylase!family!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	71.32%
+Cluster 143229
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative DNA ligase	AAS58722
+fig|1463165.235.peg.3004|GIJ24_21505!!!hypothetical!protein!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	85.68%
+Cluster 734645
+33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAR17757
+fig|1463165.235.peg.1693|GIJ24_08180!!!UPF0509!protein!YciZ!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	67.80%
+Cluster 327641
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative DnaJ-like heat shock protein	CAG76753
+fig|1463165.235.peg.3288|GIJ24_22835!!!DnaJ-like!protein!DjlA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	61.09%
+Cluster 408455
+241	AE006471	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2 plasmid pSLT, complete sequence.	Yes	Gammaproteobacteria	Plasmid SOS inhibition	AAL23478
+fig|1463165.235.peg.3549|GIJ24_24060!!!Plasmid!SOS!inhibition!protein!PsiA!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	75.62%
+Cluster 703025
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L35	AAX88440
+fig|1463165.235.peg.731|GIJ24_03625!!!LSU!ribosomal!protein!L35p!!![Klebsiella!quasipneumoniae!strain!M36!|!1463165.235]	78.46%

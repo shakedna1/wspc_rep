@@ -1,0 +1,220 @@
+Cluster 631772
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL02939
+fig|2584626.3.peg.425|GT637_03910!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	66.10%
+Cluster 247144
+284	BA000028	Oceanobacillus iheyensis HTE831 DNA, complete genome.	No	Bacillales	phenylalanyl-tRNA synthetase alpha subunit	BAC14087
+fig|2584626.3.peg.2454|GT637_10685!!!Phenylalanyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.20)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	60.76%
+Cluster 268464
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	phospho-2-dehydro-3-deoxyheptonate aldolase	ADK15966
+fig|2584626.3.peg.2057|GT637_01600!!!2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate!synthase!I!beta!(EC!2.5.1.54)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	62.16%
+fig|2584626.3.peg.680|GT637_13075!!!2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate!synthase!I!beta!(EC!2.5.1.54)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	62.16%
+Cluster 701208
+79	BA000016	Clostridium perfringens str. 13 DNA, complete genome.	Yes	Clostridia	probable transposase	BAB80243
+fig|2584626.3.peg.815|GT637_05065!!!transposase,!IS605!family!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	64.44%
+fig|2584626.3.peg.788|GT637_13280!!!Transposase!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	63.16%
+Cluster 177305
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	Tn916, transposase	ABP89883
+fig|2584626.3.peg.2137|GT637_09730!!!putative!transposon!integrase;!Tn916!ORF3-like!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	62.93%
+fig|2584626.3.peg.2271|GT637_10115!!!putative!transposon!integrase;!Tn916!ORF3-like!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	64.48%
+Cluster 20384
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	ribosomal protein S1	ACD70706
+fig|2584626.3.peg.524!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	64.00%
+Cluster 421988
+18797	AM406671	Lactococcus lactis subsp. cremoris MG1363, complete genome.	No	Lactobacillales	conserved hypothetical protein	CAL97398
+fig|2584626.3.peg.2667!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.687!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.1198!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.1936!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.1980!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.2195!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.2206!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.2300!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.2457!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.2503!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.2532!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.2634!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.60!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.249!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.272!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.354!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.429!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.592!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.608!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.614!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.670!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+fig|2584626.3.peg.773!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.22%
+Cluster 751721
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	Conserved hypothetical protein	EDK32332
+fig|2584626.3.peg.399|GT637_03785!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	60.00%
+Cluster 392075
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	RpiR-family transcriptional regulator	CAJ67294
+fig|2584626.3.peg.2101|GT637_01820!!!Transcriptional!regulator,!RpiR!family!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	69.69%
+Cluster 29441
+18737	CP000837	Streptococcus suis GZ1, complete genome.	Yes	Lactobacillales	TrsE-like protein	ADE30946
+fig|2584626.3.peg.2690|GT637_02845!!!FIG01020158:!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	63.40%
+Cluster 118383
+29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Yes	Lactobacillales	Tn5251 transcriptional regulator Cro/CI family	ACF55955
+fig|2584626.3.peg.1183|GT637_06365!!!Tn916,!transcriptional!regulator,!putative!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	61.81%
+Cluster 331835
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Radical SAM domain protein	ABX40570
+fig|2584626.3.peg.48|GT637_11660!!!Radical!SAM!domain!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	60.07%
+Cluster 354216
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative oxidoreductase	ABR43905
+fig|2584626.3.peg.2349|GT637_10490!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	60.61%
+Cluster 421402
+9638	AE017198	Lactobacillus johnsonii NCC 533, complete genome.	No	Lactobacillales	deoxyribose-phosphate aldolase	AAS09434
+fig|2584626.3.peg.1079|GT637_05850!!!Deoxyribose-phosphate!aldolase!(EC!4.1.2.4)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	67.81%
+Cluster 639321
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	SSU ribosomal protein S19P	ABP89047
+fig|2584626.3.peg.1911|GT637_08910!!!SSU!ribosomal!protein!S19p!(S15e)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	75.56%
+Cluster 226232
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	aspartate-semialdehyde dehydrogenase Asd	ADL34401
+fig|2584626.3.peg.1529|GT637_07660!!!Aspartate-semialdehyde!dehydrogenase!(EC!1.2.1.11)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	73.68%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|2584626.3.peg.1123|GT637_06060!!!LSU!ribosomal!protein!L34p!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.91%
+Cluster 439363
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	two-component system, response regulator	CAJ67184
+fig|2584626.3.peg.2032|GT637_09490!!!Two-component!transcriptional!response!regulator,!LuxR!family!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	98.63%
+Cluster 541417
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	GCN5-related N-acetyltransferase	ABW19349
+fig|2584626.3.peg.234|GT637_12115!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	61.64%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|2584626.3.peg.2353|GT637_10510!!!Translation!elongation!factor!Tu!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.74%
+Cluster 309480
+32617	CP001792	Fibrobacter succinogenes subsp. succinogenes S85, complete genome.	No	Fibrobacterales	hypothetical protein	ACX74018
+fig|2584626.3.peg.1808|GT637_08705!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	67.00%
+Cluster 705278
+13888	CP000017	Streptococcus pyogenes MGAS5005, complete genome.	Yes	Lactobacillales	phage protein	AAZ51839
+fig|2584626.3.peg.1422|GT637_07120!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	60.26%
+Cluster 187096
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Rhodanese domain protein	ADL05112
+fig|2584626.3.peg.2220|GT637_01900!!!tRNA-(cytosine32)-2-thiocytidine!synthetase!TtcA!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	61.59%
+Cluster 548830
+9638	AE017198	Lactobacillus johnsonii NCC 533, complete genome.	No	Lactobacillales	phosphoenolpyruvate-dependent sugar phosphotransferase system EIIB, probable mannose specific	AAS09428
+fig|2584626.3.peg.696|GT637_04630!!!PTS!system,!fructose-!and!mannose-inducible!IIB!component!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	68.71%
+Cluster 449783
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	SSU ribosomal protein S12P	ABG07098
+fig|2584626.3.peg.2350|GT637_10495!!!SSU!ribosomal!protein!S12p!(S23e)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	67.15%
+Cluster 384891
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	Cof-like hydrolase	ACZ07278
+fig|2584626.3.peg.2235|GT637_01980!!!Hydrolase!(HAD!superfamily)!in!cluster!with!DUF1447!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	72.73%
+Cluster 185334
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	integrase	CAJ67935
+fig|2584626.3.peg.1642|GT637_01285!!!putative!transposon!integrase;!Tn916!ORF3-like!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	60.45%
+Cluster 342221
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	hypothetical protein	ABF36179
+fig|2584626.3.peg.2693|GT637_02860!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	61.07%
+Cluster 739428
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	excisionase	CAJ67936
+fig|2584626.3.peg.2022|GT637_09440!!!Mobile!element!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	82.09%
+fig|2584626.3.peg.2272|GT637_10120!!!Mobile!element!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	77.61%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|2584626.3.peg.1917|GT637_08940!!!LSU!ribosomal!protein!L14p!(L23e)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	72.13%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|2584626.3.peg.1931|GT637_09010!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	81.08%
+Cluster 428641
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	two component transcriptional regulator, winged helix family	ABN53319
+fig|2584626.3.peg.85|GT637_03020!!!ABC!transporter-like!sensor!linked!response!regulator!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	69.33%
+Cluster 84581
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	Predicted DNA-binding protein	EDK32349
+fig|2584626.3.peg.426|GT637_03915!!!Chromosome!(plasmid)!partitioning!protein!ParB!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	74.05%
+Cluster 464922
+19619	CP000817	Lysinibacillus sphaericus C3-41, complete genome.	No	Bacillales	Uridine kinase	ACA41339
+fig|2584626.3.peg.2568|GT637_02580!!!Uridine!kinase!(EC!2.7.1.48)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	61.54%
+Cluster 49624
+16313	CP000255	Staphylococcus aureus subsp. aureus USA30	Yes	Bacillales	PR3757, complete genome.	ABD21362
+fig|2584626.3.peg.932|GT637_05130!!!potassium-transporting!ATPase!subunit!F!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	60.00%
+Cluster 568508
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	LSU ribosomal protein L21P	ABJ60136
+fig|2584626.3.peg.495|GT637_04060!!!LSU!ribosomal!protein!L21p!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	66.67%
+Cluster 507827
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	3-isopropylmalate dehydratase, small subunit	ABN53412
+fig|2584626.3.peg.711|GT637_04705!!!3-isopropylmalate!dehydratase!small!subunit!(EC!4.2.1.33)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.64%
+Cluster 195471
+333	AE014133	Streptococcus mutans UA159, complete genome.	Yes	Lactobacillales	putative transposon integrase; Tn916 ORF3-like	AAN58732
+fig|2584626.3.peg.2136!!!putative!transposon!integrase;!Tn916!ORF3-like!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	68.33%
+Cluster 357808
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative hydrolase	CAJ67295
+fig|2584626.3.peg.2102|GT637_01825!!!Hydrolase,!HAD!superfamily!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	64.58%
+Cluster 358959
+294	AE009439	Methanopyrus kandleri AV19, complete genome.	No	Methanopyri	Imidazoleglycerol-phosphate synthase	AAM01390
+fig|2584626.3.peg.1153|GT637_06210!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	61.18%
+Cluster 413532
+29445	CP001685	Leptotrichia buccalis DSM 1135, complete genome.	Yes	Fusobacteriales	conserved hypothetical protein	ACV38111
+fig|2584626.3.peg.1736|GT637_08350!!!Membrane!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	60.68%
+Cluster 451189
+15771	CP000360	Candidatus Koribacter versatilis Ellin345, complete genome.	No	Candidatus Koribacter	LSU ribosomal protein L5P	ABF40240
+fig|2584626.3.peg.1919|GT637_08950!!!LSU!ribosomal!protein!L5p!(L11e)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	61.45%
+Cluster 562738
+17729	CP000769	Anaeromyxobacter sp. Fw109-5, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ABS26139
+fig|2584626.3.peg.1933|GT637_09020!!!SSU!ribosomal!protein!S11p!(S14e)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	71.32%
+Cluster 619361
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative transposon protein	CAJ67197
+fig|2584626.3.peg.1177|GT637_06330!!!FIG00516843:!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	97.73%
+Cluster 477553
+304	CP000246	Clostridium perfringens ATCC 13124, complete genome.	Yes	Clostridia	conserved hypothetical protein	ABG82224
+fig|2584626.3.peg.2430|GT637_02380!!!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	68.00%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|2584626.3.peg.1932|GT637_09015!!!SSU!ribosomal!protein!S13p!(S18e)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	66.12%
+Cluster 514063
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	hydro-lyase, Fe-S type, tartrate/fumarate subfamily, beta subunit	ABR49540
+fig|2584626.3.peg.201|GT637_03325!!!Fumarate!hydratase!class!I,!beta!region!(EC!4.2.1.2);!L(+)-tartrate!dehydratase!beta!subunit!(EC!4.2.1.32)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	61.41%
+Cluster 543644
+29409	CP001175	Listeria monocytogenes HCC23, complete genome.	Yes	Bacillales	DNA-binding protein	ACK40230
+fig|2584626.3.peg.1658!!!Transcriptional!regulator,!Xre!family!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	61.36%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|2584626.3.peg.1930|GT637_09005!!!Translation!initiation!factor!1!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	66.22%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|2584626.3.peg.953|GT637_05230!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	64.29%
+Cluster 186438
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	integrase	CAJ67177
+fig|2584626.3.peg.2021|GT637_09435!!!putative!transposon!integrase;!Tn916!ORF3-like!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	98.99%
+Cluster 4076
+29523	CP001826	Thermobaculum terrenum ATCC BAA-798 chromosome 2, complete sequence.	No	NA	alpha amylase catalytic region	ACZ43177
+fig|2584626.3.peg.673|GT637_13045!!!FIG00513666:!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	61.90%
+Cluster 507224
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Propanediol utilization protein	ADL04473
+fig|2584626.3.peg.197|GT637_03305!!!Uncharacterized!protein!similar!to!PduL!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	63.49%
+Cluster 648454
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	putative transposase, IS66 like protein	ADK13621
+fig|2584626.3.peg.2056!!!IS66!Orf2!like!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	72.84%
+Cluster 591604
+27759	CP001615	Exiguobacterium sp. AT1b, complete genome.	No	Bacillales	ribosomal protein L16	ACQ70552
+fig|2584626.3.peg.1914|GT637_08925!!!LSU!ribosomal!protein!L16p!(L10e)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	70.59%
+Cluster 244222
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	dihydrodipicolinate reductase	ADL03592
+fig|2584626.3.peg.1842|GT637_01355!!!2,4-diaminopentanoate!dehydrogenase!(EC!1.4.1.12)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	74.19%
+Cluster 473787
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Adenine-specific methyltransferase	ABF36180
+fig|2584626.3.peg.412|GT637_03850!!!MunI-like!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	69.27%
+Cluster 572789
+12994	AP006840	Symbiobacterium thermophilum IAM 14863 DNA, complete genome.	No	Clostridia	ribose 5-phosphate isomerase	BAD41322
+fig|2584626.3.peg.998|GT637_05445!!!D-allose-6-phosphate!isomerase!(EC!5.3.1.-)!@!Ribose-5-phosphate!isomerase!B!(EC!5.3.1.6)!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	66.89%
+Cluster 548861
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative transposon protein	CAJ70287
+fig|2584626.3.peg.1179|GT637_06340!!!FIG00512738:!hypothetical!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	92.77%
+Cluster 548863
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative tranposon protein	CAJ67198
+fig|2584626.3.peg.1178|GT637_06335!!!Antirestriction!protein!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	95.81%
+Cluster 516181
+13402	CP000628	Agrobacterium radiobacter K84 chromosome 1, complete sequence.	No	Alphaproteobacteria	ribosomal protein L19	ACM28142
+fig|2584626.3.peg.487|GT637_04020!!!LSU!ribosomal!protein!L19p!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	60.87%
+Cluster 693631
+16062	DQ489736	Leuconostoc citreum KM20, complete genome.	No	Lactobacillales	Ribosomal protein S18	ACA82004
+fig|2584626.3.peg.974|GT637_05330!!!SSU!ribosomal!protein!S18p!@!SSU!ribosomal!protein!S18p,!zinc-independent!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	65.79%
+Cluster 439031
+13478	CP000061	Aster yellows witches'-broom phytoplasma AYWB, complete genome.	No	Mollicutes	LSU ribosomal protein L20P	ABC65777
+fig|2584626.3.peg.2509|GT637_10950!!!LSU!ribosomal!protein!L20p!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	60.50%
+Cluster 663146
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S16	ABP89762
+fig|2584626.3.peg.483|GT637_04000!!!SSU!ribosomal!protein!S16p!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	62.22%
+Cluster 714071
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S Ribosomal protein S21	ABP90399
+fig|2584626.3.peg.1675|GT637_08055!!!SSU!ribosomal!protein!S21p!!![Catenibacterium!sp.!BIOML-A1!|!2584626.3]	68.85%

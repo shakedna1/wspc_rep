@@ -1,0 +1,637 @@
+Cluster 126885
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	MATE efflux family protein	ABX41967
+fig|418240.274.peg.3903|GT686_05335!!!Multi!antimicrobial!extrusion!protein!(Na(+)/drug!antiporter),!MATE!family!of!MDR!efflux!pumps!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.04%
+Cluster 562026
+64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Yes	Bacillales	transposase, IS200 family	AAW54530
+fig|418240.274.peg.2627|GT686_15895!!!Transposase,!IS200!family!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.59%
+Cluster 38896
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	beta-xylosidase Xyl3A	ADL32934
+fig|418240.274.peg.457|GT686_08680!!!beta-glucosidase!(EC!3.2.1.21)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.88%
+Cluster 122442
+29153	CP001811	Butyrivibrio proteoclasticus B316 chromosome 2, complete sequence.	No	Clostridia	RNA-directed DNA polymerase	ADL35800
+fig|418240.274.peg.4371|GT686_06835!!!Retron-type!RNA-directed!DNA!polymerase!(EC!2.7.7.49)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.56%
+fig|418240.274.peg.4374|GT686_06850!!!Retron-type!RNA-directed!DNA!polymerase!(EC!2.7.7.49)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	73.18%
+Cluster 421129
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Inosine monophosphate cyclohydrolase-like protein	ADL04759
+fig|418240.274.peg.469|GT686_08745!!!IMP!cyclohydrolase!(EC!3.5.4.10)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	77.64%
+Cluster 186157
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	major facilitator superfamily MF	ADL03672
+fig|418240.274.peg.34|GT686_06900!!!N-Acetyl-D-glucosamine!permease!2,!possible!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.47%
+Cluster 130156
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Putative AAA+ superfamily ATPase	ACD98446
+fig|418240.274.peg.3397|GT686_18190!!!Predicted!ATPase!(AAA+!superfamily)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.27%
+Cluster 710424
+33165	CP002171	Thermoanaerobacterium thermosaccharolyticum DSM 571, complete genome.	No	Clostridia	SirA family protein	ADL69099
+fig|418240.274.peg.286|GT686_07915!!!Uncharacterized!UPF0033!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.45%
+Cluster 732320
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR38614
+fig|418240.274.peg.4136|GT686_19785!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.89%
+Cluster 548452
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	GreA/GreB family elongation factor	ABX41101
+fig|418240.274.peg.1642|GT686_12305!!!Transcription!elongation!factor!GreA!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.45%
+Cluster 595791
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	hypothetical protein	CAH05730
+fig|418240.274.peg.15|GT686_20050!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	100.00%
+Cluster 4738
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DNA-directed RNA polymerase, beta' subunit	ABX44033
+fig|418240.274.peg.1904|GT686_13540!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	77.62%
+Cluster 71593
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Na+/H+ antiporter NhaC	ABX41446
+fig|418240.274.peg.1050|GT686_00245!!!Na+/H+!antiporter!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.00%
+Cluster 636471
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	conserved hypothetical protein 103	ABR37056
+fig|418240.274.peg.988|GT686_11235!!!Nucleoid-associated!protein!YaaK!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.86%
+Cluster 751475
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	hypothetical protein	ABX41424
+fig|418240.274.peg.1910|GT686_13570!!!FIG00528002:!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.00%
+Cluster 466846
+81	AE015927	Clostridium tetani E88, complete genome.	Yes	Clostridia	tellurium resistance protein terD	AAO36716
+fig|418240.274.peg.1587|GT686_12070!!!Tellurium!resistance!protein!TerD!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	67.88%
+fig|418240.274.peg.1588|GT686_12075!!!Tellurium!resistance!protein!TerD!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.39%
+Cluster 358960
+32615	CP001696	Methanocaldococcus fervens AG86, complete genome.	No	Methanococci	imidazoleglycerol phosphate synthase, cyclase subunit	ACV25117
+fig|418240.274.peg.2430|GT686_15010!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	66.27%
+Cluster 140183
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	aspartyl-tRNA synthetase	ADL05883
+fig|418240.274.peg.2552|GT686_15540!!!Aspartyl-tRNA!synthetase!(EC!6.1.1.12)!@!Aspartyl-tRNA(Asn)!synthetase!(EC!6.1.1.23)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	65.24%
+Cluster 674449
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	microcompartments protein	ABX41558
+fig|418240.274.peg.3641|GT686_04640!!!EutM/PduA/PduJ-like!protein!2!clustered!with!choline!trimethylamine-lyase!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.58%
+Cluster 177305
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	Tn916, transposase	ABP89883
+fig|418240.274.peg.3476|GT686_18550!!!putative!transposon!integrase;!Tn916!ORF3-like!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.90%
+Cluster 32402
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	DNA topoisomerase (ATP-hydrolyzing)	ADL04453
+fig|418240.274.peg.848|GT686_10565!!!DNA!topoisomerase!IV!subunit!A!(EC!5.99.1.3)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.43%
+Cluster 50227
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative plasmid transfer protein	CAH05732
+fig|418240.274.peg.19|GT686_20070!!!Putative!mobilization!protein!BF0133!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	98.75%
+Cluster 230198
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	inner-membrane translocator	ADL04671
+fig|418240.274.peg.2838|GT686_03345!!!Branched-chain!amino!acid!ABC!transporter,!permease!protein!LivM!(TC!3.A.1.4.1)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.38%
+Cluster 303231
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribonuclease Z	ADL33314
+fig|418240.274.peg.1612|GT686_12180!!!Ribonuclease!Z!(EC!3.1.26.11)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	69.87%
+Cluster 29441
+18737	CP000837	Streptococcus suis GZ1, complete genome.	Yes	Lactobacillales	TrsE-like protein	ADE30946
+fig|418240.274.peg.569|GT686_09210!!!FIG01020158:!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.40%
+Cluster 111901
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	N-acylglucosamine 2-epimerase family protein	ADC85178
+fig|418240.274.peg.3256|GT686_03705!!!N-acylglucosamine!2-epimerase!(EC!5.1.3.8)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.05%
+Cluster 510720
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	phosphodiesterase, MJ0936 family	ABX44079
+fig|418240.274.peg.1717|GT686_12685!!!Phosphodiesterase!YfcE!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.56%
+Cluster 284088
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ribosomal protein L11 methyltransferase	ADL03505
+fig|418240.274.peg.1958|GT686_13800!!!Ribosomal!protein!L11!methyltransferase!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.25%
+Cluster 350534
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative topoisomerase-related protein	CAH05738
+fig|418240.274.peg.4276|GT686_19955!!!DNA!topoisomerase!III!domain!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	98.04%
+Cluster 49639
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	DNA ligase, NAD-dependent	ADL05844
+fig|418240.274.peg.1054|GT686_00270!!!DNA!ligase!(NAD(+))!(EC!6.5.1.2)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	65.16%
+Cluster 118383
+29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Yes	Lactobacillales	Tn5251 transcriptional regulator Cro/CI family	ACF55955
+fig|418240.274.peg.4005|GT686_05495!!!Tn916,!transcriptional!regulator,!putative!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	67.08%
+fig|418240.274.peg.241|GT686_07750!!!Tn916,!transcriptional!regulator,!putative!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	67.99%
+fig|418240.274.peg.3200!!!Tn916,!transcriptional!regulator,!putative!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	66.36%
+fig|418240.274.peg.3201|GT686_17890!!!Tn916,!transcriptional!regulator,!putative!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	65.62%
+fig|418240.274.peg.3202|GT686_17895!!!Tn916,!transcriptional!regulator,!putative!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.17%
+fig|418240.274.peg.4111!!!Tn916,!transcriptional!regulator,!putative!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.41%
+fig|418240.274.peg.4122!!!Tn916,!transcriptional!regulator,!putative!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.20%
+Cluster 689445
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	sporulation transcriptional regulator SpoIIID	ABX40597
+fig|418240.274.peg.3123|GT686_17550!!!Stage!III!sporulation!protein!D!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.67%
+Cluster 109986
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	transposase	ABR33651
+fig|418240.274.peg.3393|GT686_18170!!!Transposase!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	77.32%
+Cluster 592529
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	transcriptional modulator of MazE/toxin, MazF	ABP66657
+fig|418240.274.peg.4236|GT686_06370!!!Programmed!cell!death!toxin!YdcE!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	67.83%
+Cluster 700725
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	GIY-YIG domain-containing protein	ADL33044
+fig|418240.274.peg.3234|GT686_03595!!!UPF0213!protein!YazA!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.73%
+Cluster 691224
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	conserved hypothetical protein	ABX41574
+fig|418240.274.peg.341|GT686_08160!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	67.03%
+Cluster 98384
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	cobyric acid synthase CobQ	ADL04952
+fig|418240.274.peg.784|GT686_10270!!!Cobyric!acid!synthase!(EC!6.3.5.10)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.54%
+Cluster 217032
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	hypothetical protein	CAH05741
+fig|418240.274.peg.4279|GT686_19970!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	97.95%
+fig|418240.274.peg.12!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	95.18%
+Cluster 641881
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	regulatory protein, ArsR	ABR33626
+fig|418240.274.peg.328|GT686_08105!!!Cadmium!efflux!system!accessory!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.00%
+Cluster 707318
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Phosphotransferase system, phosphocarrier protein HPr	ADL03853
+fig|418240.274.peg.617|GT686_09435!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.37%
+Cluster 149218
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase protein HisIE	ADL34184
+fig|418240.274.peg.384|GT686_08360!!!Domain!similar!to!amino!terminal!domain!of!imidazole!glycerol!phosphate!synthase!cyclase!subunit!/!Phosphoribosyl-AMP!cyclohydrolase!(EC!3.5.4.19)!/!Phosphoribosyl-ATP!pyrophosphatase!(EC!3.6.1.31)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.38%
+Cluster 539375
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	aspartate 1-decarboxylase	ABX73369
+fig|418240.274.peg.2724|GT686_16340!!!Aspartate!1-decarboxylase!(EC!4.1.1.11)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.00%
+Cluster 105624
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	L-fucose isomerase-like	ADL51977
+fig|418240.274.peg.1740|GT686_12780!!!predicted!xylose!isomerase!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	67.14%
+Cluster 479978
+403	CP000412	Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365, complete genome.	No	Lactobacillales	dTDP-4-dehydrorhamnose 3,5-epimerase	ABJ59243
+fig|418240.274.peg.627|GT686_09485!!!dTDP-4-dehydrorhamnose!3,5-epimerase!(EC!5.1.3.13)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.67%
+Cluster 204498
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	glycoprotease family protein	ADL33316
+fig|418240.274.peg.1611|GT686_12175!!!N(6)-L-threonylcarbamoyladenine!synthase!(EC!2.3.1.234)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	72.27%
+Cluster 323080
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	transcriptional regulator, LysR family	ADL03947
+fig|418240.274.peg.741|GT686_10035!!!Transcriptional!regulator,!LysR!family!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.67%
+Cluster 502647
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ABX43679
+fig|418240.274.peg.3587|GT686_04405!!!2-C-methyl-D-erythritol!2,4-cyclodiphosphate!synthase!(EC!4.6.1.12)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.12%
+Cluster 156209
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	UvrD/REP helicase	ADL03675
+fig|418240.274.peg.3031|GT686_17145!!!Endonuclease!Q,!cleaves!5'!to!damaged!DNA!bases!/!ATP-dependent!DNA!helicase!UvrD/PcrA-like!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.72%
+Cluster 577324
+29215	CP001100	Chloroherpeton thalassium ATCC 35110, complete genome.	No	Chlorobia	alkyl hydroperoxide reductase/ Thiol specific antioxidant/ Mal allergen	ACF13094
+fig|418240.274.peg.2954!!!Thiol!peroxidase,!Bcp-type!(EC!1.11.1.15)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.33%
+Cluster 226232
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	aspartate-semialdehyde dehydrogenase Asd	ADL34401
+fig|418240.274.peg.905|GT686_10835!!!Aspartate-semialdehyde!dehydrogenase!(EC!1.2.1.11)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	79.78%
+Cluster 245907
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	Bile acid:sodium symporter	ABN52343
+fig|418240.274.peg.501|GT686_08890!!!Arsenical-resistance!protein!ACR3!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	70.45%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|418240.274.peg.1894|GT686_13505!!!SSU!ribosomal!protein!S12p!(S23e)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	69.57%
+Cluster 532706
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE02431
+fig|418240.274.peg.4022|GT686_05580!!!Transcriptional!regulator,!PadR!family!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	67.61%
+Cluster 439363
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	two-component system, response regulator	CAJ67184
+fig|418240.274.peg.1509|GT686_11745!!!Two-component!transcriptional!response!regulator,!LuxR!family!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	95.89%
+Cluster 19156
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	alanyl-tRNA synthetase	ADL04652
+fig|418240.274.peg.3864|GT686_05155!!!Alanyl-tRNA!synthetase!(EC!6.1.1.7)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	72.01%
+Cluster 308881
+249	AE008691	Thermoanaerobacter tengcongensis MB4, complete genome.	No	Clostridia	Ribose 5-phosphate isomerase RpiB	AAM23450
+fig|418240.274.peg.1423|GT686_11375!!!Ribose-5-phosphate!isomerase!B!(EC!5.3.1.6)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.24%
+Cluster 247900
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	Alcohol dehydrogenase GroES-like protein	ABN51626
+fig|418240.274.peg.2368|GT686_14735!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.13%
+Cluster 678461
+13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	No	Bacillales	50S ribosomal protein L21	BAD65137
+fig|418240.274.peg.1199|GT686_00935!!!LSU!ribosomal!protein!L21p!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.40%
+Cluster 199757
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative replication protein	CAH05726
+fig|418240.274.peg.199|GT686_20095!!!putative!replication!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	93.77%
+Cluster 455192
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative exported protein	CAH05757
+fig|418240.274.peg.4268|GT686_19915!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	91.28%
+Cluster 422247
+32617	CP001792	Fibrobacter succinogenes subsp. succinogenes S85, complete genome.	No	Fibrobacterales	short-chain dehydrogenase/reductase SDR	ACX73928
+fig|418240.274.peg.844|GT686_10545!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	77.78%
+Cluster 638123
+16871	CR954253	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 complete genome.	No	Lactobacillales	Conserved hypothetical protein	CAI97139
+fig|418240.274.peg.2549|GT686_15525!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	70.83%
+Cluster 604444
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hypothetical protein	ADL34216
+fig|418240.274.peg.1176|GT686_00820!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.75%
+Cluster 212100
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	carboxynorspermidine decarboxylase	ADL03014
+fig|418240.274.peg.1731|GT686_12740!!!Carboxynorspermidine!decarboxylase!(EC!4.1.1.96)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	73.99%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|418240.274.peg.1891|GT686_13490!!!Translation!elongation!factor!Tu!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.74%
+Cluster 633894
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	transcriptional regulator, GntR family	ADL03686
+fig|418240.274.peg.2745|GT686_02895!!!Transcriptional!regulator,!GntR!family!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.41%
+fig|418240.274.peg.4018|GT686_05560!!!Transcriptional!regulator,!GntR!family!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.90%
+Cluster 693923
+12994	AP006840	Symbiobacterium thermophilum IAM 14863 DNA, complete genome.	No	Clostridia	30S ribosomal protein S17	BAD42048
+fig|418240.274.peg.711|GT686_09885!!!SSU!ribosomal!protein!S17p!(S11e)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	69.05%
+Cluster 212942
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	DNA polymerase III, beta subunit	ADL02645
+fig|418240.274.peg.2003|GT686_14015!!!DNA!polymerase!III!beta!subunit!(EC!2.7.7.7)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.07%
+Cluster 73014
+18737	CP000837	Streptococcus suis GZ1, complete genome.	Yes	Lactobacillales	antigen-like protein	ADE30944
+fig|418240.274.peg.3450|GT686_18435!!!Invasion!associated!protein!p60!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	77.53%
+Cluster 475203
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative ParA-related protein	CAH05729
+fig|418240.274.peg.3|GT686_19985!!!Conjugative!transposon!protein!TraA!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	98.94%
+fig|418240.274.peg.16|GT686_20055!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	100.00%
+Cluster 294596
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ADL06373
+fig|418240.274.peg.2766|GT686_02995!!!Possible!alpha-xyloside!ABC!transporter,!permease!component!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.93%
+Cluster 147528
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative GMP synthase	ABR41201
+fig|418240.274.peg.4256|GT686_19870!!!GMP!synthase![glutamine-hydrolyzing],!amidotransferase!subunit!(EC!6.3.5.2)!/!GMP!synthase![glutamine-hydrolyzing],!ATP!pyrophosphatase!subunit!(EC!6.3.5.2)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	95.83%
+Cluster 110591
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	carboxyl transferase	ADL03927
+fig|418240.274.peg.3886|GT686_05255!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!/!Acetyl-coenzyme!A!carboxyl!transferase!beta!chain!(EC!6.4.1.2);!Propionyl-CoA!carboxylase!beta!chain!(EC!6.4.1.3);!Methylmalonyl-CoA!decarboxylase,!alpha!chain!(EC!4.1.1.41)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	65.90%
+Cluster 720831
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	congative transposon conserved hypothetical protein	CAJ70225
+fig|418240.274.peg.223|GT686_07660!!!Tn916,!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	97.47%
+Cluster 449748
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative secreted peptidase	CAH05744
+fig|418240.274.peg.4271|GT686_19930!!!Cell!wall!endopeptidase,!family!M23/M37!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	95.83%
+fig|418240.274.peg.8|GT686_20010!!!Cell!wall!endopeptidase,!family!M23/M37!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	97.30%
+Cluster 76178
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Dak phosphatase	ABX43249
+fig|418240.274.peg.4342|GT686_06695!!!Dihydroxyacetone!kinase-like!protein,!phosphatase!domain!/!Dihydroxyacetone!kinase-like!protein,!kinase!domain!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.54%
+Cluster 47423
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	2-isopropylmalate synthase LeuA	ADL34988
+fig|418240.274.peg.1110|GT686_00500!!!2-isopropylmalate!synthase!(EC!2.3.3.13)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	65.34%
+Cluster 248356
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	transcriptional regulator LacI family	ADL35179
+fig|418240.274.peg.2768|GT686_03005!!!Transcriptional!regulator,!LacI!family!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.42%
+Cluster 654351
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	ribosomal protein L7Ae/L30e/S12e/Gadd45	ABX43135
+fig|418240.274.peg.852|GT686_10585!!!Ribosomal!protein!L7Ae!family!protein!YlxQ!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.63%
+Cluster 549045
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	rRNA methylase SpoU family	ADL35561
+fig|418240.274.peg.448|GT686_08645!!!tRNA!(cytidine(34)-2'-O)-methyltransferase!(EC!2.1.1.207)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	71.69%
+Cluster 66669
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	RNA polymerase, sigma 70 subunit, RpoD subfamily	ADB48135
+fig|418240.274.peg.2097|GT686_14450!!!RNA!polymerase!sigma!factor!RpoD!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.33%
+Cluster 225385
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	transcriptional regulator, CdaR	ABX43957
+fig|418240.274.peg.2984|GT686_16930!!!Sugar!diacid!utilization!regulator!SdaR!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	71.82%
+Cluster 593123
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	protein of unknown function DUF606	ABX42320
+fig|418240.274.peg.1823|GT686_13180!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	65.28%
+Cluster 619453
+19449	CP001322	Desulfatibacillum alkenivorans AK-01, complete genome.	No	Deltaproteobacteria	microcompartments protein	ACL06672
+fig|418240.274.peg.3640|GT686_04635!!!Carboxysome!shell!protein!CsoS1!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	71.43%
+Cluster 31587
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	glutamate synthase (NADPH), homotetrameric	ACZ07665
+fig|418240.274.peg.4232|GT686_06350!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!A!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	66.10%
+Cluster 474288
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	conserved hypothetical protein	ABR34548
+fig|418240.274.peg.1741|GT686_12785!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.39%
+Cluster 297033
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	molybdenum cofactor synthesis domain protein	ABX41855
+fig|418240.274.peg.1577|GT686_12025!!!FIG060329:!MOSC!domain!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.08%
+Cluster 15332
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	NADH:flavin oxidoreductase/NADH oxidase	ABX42115
+fig|418240.274.peg.2728|GT686_16360!!!2,4-dienoyl-CoA!reductase![NADPH]!(EC!1.3.1.34)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	72.01%
+Cluster 334338
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	conserved hypothetical protein	CAH05745
+fig|418240.274.peg.7|GT686_20005!!!UDP-N-acetylglucosamine!kinase!(EC!2.7.1.176),!Zeta!toxin!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	99.65%
+Cluster 282021
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	2-dehydro-3-deoxyphosphogluconate aldolase/4-hydroxy-2-oxoglutarate aldolase	ABX40444
+fig|418240.274.peg.70|GT686_07055!!!4-hydroxy-2-oxoglutarate!aldolase!(EC!4.1.3.16)!@!2-dehydro-3-deoxyphosphogluconate!aldolase!(EC!4.1.2.14)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.85%
+Cluster 425032
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	polar amino acid ABC transporter, inner membrane subunit	ABX41234
+fig|418240.274.peg.2796|GT686_03145!!!ABC!transporter,!permease!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.00%
+Cluster 464623
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative outer membrane protein	CAH05749
+fig|418240.274.peg.201|GT686_20105!!!Putative!outer!membrane!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	99.06%
+Cluster 312489
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S2	ABP90946
+fig|418240.274.peg.4064|GT686_05785!!!SSU!ribosomal!protein!S2p!(SAe)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.37%
+Cluster 257605
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	UNKNOWN	CAH05716
+fig|418240.274.peg.10!!!DNA!primase!TraC!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	100.00%
+Cluster 574744
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	FeS cluster assembly scaffold protein NifU	ACL76279
+fig|418240.274.peg.2282|GT686_02580!!!Iron-sulfur!cluster!assembly!scaffold!protein!IscU/NifU-like!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.43%
+Cluster 252811
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative plasmid transfer protein	CAH05756
+fig|418240.274.peg.4269|GT686_19920!!!Conjugative!transposon!protein!TraJ!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	96.47%
+Cluster 699364
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	conserved hypothetical protein	ADB47249
+fig|418240.274.peg.345|GT686_08180!!!FIG00617464:!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.49%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|418240.274.peg.706|GT686_09860!!!SSU!ribosomal!protein!S19p!(S15e)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	72.04%
+Cluster 357261
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	tRNA (guanine-N1)-methyltransferase TrmD	ADL34300
+fig|418240.274.peg.3835|GT686_05025!!!tRNA!(guanine(37)-N(1))-methyltransferase!(EC!2.1.1.228)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	65.48%
+Cluster 185334
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	integrase	CAJ67935
+fig|418240.274.peg.3440|GT686_18385!!!putative!transposon!integrase;!Tn916!ORF3-like!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	67.31%
+Cluster 518302
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	YbaK/prolyl-tRNA synthetase domain-containing protein	ADL35400
+fig|418240.274.peg.4281|GT686_06430!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.93%
+Cluster 342221
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	hypothetical protein	ABF36179
+fig|418240.274.peg.566|GT686_09195!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	67.03%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|418240.274.peg.728|GT686_09970!!!SSU!ribosomal!protein!S11p!(S14e)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.12%
+Cluster 186099
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	xylose ABC transporter permease protein	ADL33915
+fig|418240.274.peg.2853|GT686_03420!!!L-arabinose!ABC!transporter,!permease!protein!AraH!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.62%
+Cluster 118315
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Na+ driven multidrug efflux pump	ABF36165
+fig|418240.274.peg.4023|GT686_05585!!!Multi!antimicrobial!extrusion!protein!(Na(+)/drug!antiporter),!MATE!family!of!MDR!efflux!pumps!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	74.67%
+Cluster 603974
+17409	CP001045	Burkholderia phymatum STM815 plasmid pBPHY01, complete sequence.	No	Betaproteobacteria	Rubredoxin-type Fe(Cys)4 protein	ACC76105
+fig|418240.274.peg.2958|GT686_16805!!!Rubredoxin!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.54%
+Cluster 197029
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	putative solute-binding component of ABC transporter	ADL06328
+fig|418240.274.peg.2851|GT686_03410!!!L-arabinose!ABC!transporter,!substrate-binding!protein!AraF!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	75.77%
+Cluster 739428
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	excisionase	CAJ67936
+fig|418240.274.peg.3224|GT686_18005!!!Mobile!element!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	82.09%
+Cluster 457415
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	endonuclease III Nth	ADL34818
+fig|418240.274.peg.3045|GT686_17205!!!Endonuclease!III!(EC!4.2.99.18)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	71.63%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|418240.274.peg.712|GT686_09890!!!LSU!ribosomal!protein!L14p!(L23e)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	84.43%
+Cluster 378449
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative lantibiotic abc transporter, permease protein	CBE04545
+fig|418240.274.peg.1011|GT686_00060!!!FIG00516595:!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	79.69%
+Cluster 507886
+13454	CP000388	Pseudoalteromonas atlantica T6c, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABG41253
+fig|418240.274.peg.254|GT686_07785!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	67.02%
+Cluster 427409
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	two component system response regulator	ADL35563
+fig|418240.274.peg.442|GT686_08615!!!Two-component!transcriptional!response!regulator,!OmpR!family!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	76.39%
+Cluster 51409
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	phosphoglycerate kinase	ACL76599
+fig|418240.274.peg.2290|GT686_02610!!!Triosephosphate!isomerase!(EC!5.3.1.1)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.85%
+Cluster 15455
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	phosphoketolase 1	ACP24364
+fig|418240.274.peg.26|GT686_06870!!!Xylulose-5-phosphate!phosphoketolase!(EC!4.1.2.9)!@!Fructose-6-phosphate!phosphoketolase!(EC!4.1.2.22)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.43%
+Cluster 627866
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative regulatory protein	CAH05731
+fig|418240.274.peg.18|GT686_20065!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	97.66%
+Cluster 50459
+29407	CP001393	Caldicellulosiruptor bescii DSM 6725, complete genome.	No	Clostridia	triosephosphate isomerase	ACM60503
+fig|418240.274.peg.2289|GT686_02605!!!Phosphoglycerate!kinase!(EC!2.7.2.3)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.97%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|418240.274.peg.726|GT686_09960!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	86.49%
+Cluster 104890
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	UDP-N-acetylmuramoylalanyl-D-glutamate-2, 6-diaminopimelate ligase MurE	ADL34728
+fig|418240.274.peg.2805|GT686_03190!!!UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate!ligase!(EC!6.3.2.13)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	66.60%
+Cluster 107566
+28857	CP001056	Clostridium botulinum B str. Eklund 17B, complete genome.	No	Clostridia	xylulokinase	ACD24398
+fig|418240.274.peg.1739|GT686_12775!!!Xylulose!kinase!(EC!2.7.1.17)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	73.81%
+Cluster 92531
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative mobilization protein	CAH05728
+fig|418240.274.peg.4|GT686_19990!!!putative!mobilization!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	99.44%
+Cluster 107676
+284	BA000028	Oceanobacillus iheyensis HTE831 DNA, complete genome.	No	Bacillales	inosine-5'-monophosphate dehydrogenase	BAC11966
+fig|418240.274.peg.471|GT686_08755!!!Inosine-5'-monophosphate!dehydrogenase!(EC!1.1.1.205)!/!CBS!domain!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	66.39%
+Cluster 56271
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	NADH dehydrogenase (quinone)	ABR36221
+fig|418240.274.peg.1818|GT686_13155!!!Bifurcating![FeFe]!hydrogenase,!beta!subunit!(EC!1.12.1.4)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.92%
+Cluster 437954
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein L3 RplC	ADL33339
+fig|418240.274.peg.702|GT686_09840!!!LSU!ribosomal!protein!L3p!(L3e)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	76.67%
+Cluster 372239
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ribonuclease Z	ADL04465
+fig|418240.274.peg.3782|GT686_04795!!!Zn-dependent!hydrolase!YycJ/WalJ,!required!for!cell!wall!metabolism!and!coordination!of!cell!division!with!DNA!replication!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.26%
+Cluster 565858
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hypothetical protein	ADL35515
+fig|418240.274.peg.3343|GT686_04120!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.93%
+Cluster 710118
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Phosphotransferase system, phosphocarrier protein HPr	ABX40720
+fig|418240.274.peg.699|GT686_09825!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.29%
+Cluster 431564
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ATP synthase F0, A subunit	ADL06672
+fig|418240.274.peg.934|GT686_10965!!!ATP!synthase!F0!sector!subunit!a!(EC!3.6.3.14)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.18%
+Cluster 107471
+29153	CP001812	Butyrivibrio proteoclasticus B316 plasmid pCY360, complete sequence.	No	Clostridia	transposase ISNCY family	ADL36035
+fig|418240.274.peg.2083|GT686_14385!!!Transposase!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	81.63%
+Cluster 508649
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	fumarate hydratase, beta subunit	ADK17083
+fig|418240.274.peg.356|GT686_08230!!!Fumarate!hydratase!class!I,!beta!region!(EC!4.2.1.2);!L(+)-tartrate!dehydratase!beta!subunit!(EC!4.2.1.32)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.17%
+Cluster 401732
+54	CP000383	Cytophaga hutchinsonii ATCC 33406, complete genome.	No	Cytophagia	urea amidohydrolase (urease) gamma subunit and beta subunit  fusion	ABG58532
+fig|418240.274.peg.1364|GT686_01705!!!Urease!gamma!subunit!(EC!3.5.1.5)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.00%
+Cluster 747861
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	phage shock protein C, PspC	ADL04990
+fig|418240.274.peg.2462|GT686_15145!!!Uncharacterized!protein!CA_C2659!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	65.57%
+Cluster 756258
+32569	CP001275	Thermomicrobium roseum DSM 5159, complete genome.	No	Thermomicrobiales	ribosomal protein L34	ACM06131
+fig|418240.274.peg.2005|GT686_14025!!!LSU!ribosomal!protein!L34p!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.36%
+Cluster 599807
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosome-binding factor A RbfA	ADL33709
+fig|418240.274.peg.854|GT686_10595!!!Ribosome-binding!factor!A!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.31%
+Cluster 251092
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	inner-membrane translocator	ACL75582
+fig|418240.274.peg.1326|GT686_01530!!!ABC!transporter,!permease!protein!(cluster!2,!ribose/xylose/arabinose/galactose)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.47%
+Cluster 383206
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ACL20639
+fig|418240.274.peg.3514|GT686_18715!!!Alkanesulfonates!transport!system!permease!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.00%
+Cluster 480714
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative plasmid transfer protein	CAH05755
+fig|418240.274.peg.4270|GT686_19925!!!Conjugative!transposon!protein!TraK!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	100.00%
+Cluster 556168
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	dihydrofolate reductase region	ADL05471
+fig|418240.274.peg.490|GT686_08840!!!Dihydrofolate!reductase!(EC!1.5.1.3)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.19%
+Cluster 56734
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	NADH dehydrogenase (quinone)	ABN51667
+fig|418240.274.peg.353|GT686_08215!!!Bifurcating![FeFe]!hydrogenase,!beta!subunit!(EC!1.12.1.4)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.60%
+Cluster 450603
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	CoA-binding domain protein	ADL04182
+fig|418240.274.peg.4239|GT686_06385!!!Redox-sensing!transcriptional!repressor!Rex!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.84%
+Cluster 453836
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	hypothetical protein	CAH05750
+fig|418240.274.peg.200|GT686_20100!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	99.28%
+Cluster 16166
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	conserved hypothetical protein	ADE81991
+fig|418240.274.peg.3289|GT686_03865!!!FIG045374:!Type!II!restriction!enzyme,!methylase!subunit!YeeA!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.34%
+Cluster 212475
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Nucleotidyl transferase	ADL02764
+fig|418240.274.peg.979|GT686_11180!!!Glucose-1-phosphate!adenylyltransferase!(EC!2.7.7.27)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	74.73%
+Cluster 443936
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	putative UDP-N-acetylglucosamine diphosphorylase	ABX43625
+fig|418240.274.peg.911|GT686_10860!!!Glucosamine-1-phosphate!N-acetyltransferase!(EC!2.3.1.157)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.16%
+Cluster 275643
+16871	CR954253	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 complete genome.	No	Lactobacillales	dTDP-4-dehydrorhamnose reductase	CAI98712
+fig|418240.274.peg.886|GT686_10750!!!dTDP-4-dehydrorhamnose!reductase!(EC!1.1.1.133)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	70.93%
+Cluster 737969
+32617	CP001792	Fibrobacter succinogenes subsp. succinogenes S85, complete genome.	No	Fibrobacterales	thiamine biosynthesis protein ThiS	ACX73778
+fig|418240.274.peg.288|GT686_07925!!!Sulfur!carrier!protein!ThiS!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	69.12%
+Cluster 497541
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	thiW protein	ADB47191
+fig|418240.274.peg.3540|GT686_18830!!!Substrate-specific!component!ThiW!of!predicted!thiazole!ECF!transporter!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.56%
+Cluster 336817
+81	AE015927	Clostridium tetani E88, complete genome.	Yes	Clostridia	transporter	AAO36407
+fig|418240.274.peg.4019|GT686_05565!!!ABC!transporter,!ATP-binding!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.05%
+Cluster 677058
+29529	CP001816	Sulfurospirillum deleyianum DSM 6946, complete genome.	No	Epsilonproteobacteria	CRISPR-associated protein Cas2	ACZ11935
+fig|418240.274.peg.2696|GT686_16245!!!CRISPR-associated!protein!Cas2!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.42%
+Cluster 518833
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	methyltransferase	ADL04543
+fig|418240.274.peg.400|GT686_08435!!!16S!rRNA!(guanine(966)-N(2))-methyltransferase!(EC!2.1.1.171)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	66.12%
+Cluster 619361
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative transposon protein	CAJ67197
+fig|418240.274.peg.2626!!!FIG00516843:!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	97.00%
+fig|418240.274.peg.3209|GT686_17930!!!FIG00516843:!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	100.00%
+Cluster 339364
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Cobyrinic acid ac-diamide synthase	ABX44282
+fig|418240.274.peg.2020|GT686_14090!!!Chromosome!(plasmid)!partitioning!protein!ParA!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	70.20%
+Cluster 62115
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ATP synthase F1 alpha subunit AtpA2	ADL33900
+fig|418240.274.peg.938|GT686_10985!!!ATP!synthase!alpha!chain!(EC!3.6.3.14)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	70.12%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|418240.274.peg.727|GT686_09965!!!SSU!ribosomal!protein!S13p!(S18e)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	77.87%
+Cluster 635667
+214	CP000027	Dehalococcoides ethenogenes 195, complete genome.	No	Dehalococcoidetes	conserved hypothetical protein	AAW39678
+fig|418240.274.peg.4169|GT686_06050!!!FIG01032287:!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.98%
+Cluster 621909
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	ribosomal protein S16	ABS02886
+fig|418240.274.peg.3832|GT686_05010!!!SSU!ribosomal!protein!S16p!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.96%
+Cluster 174009
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Extracellular ligand-binding receptor	ADL04673
+fig|418240.274.peg.2836|GT686_03335!!!Branched-chain!amino!acid!ABC!transporter,!substrate-binding!protein!LivJ!(TC!3.A.1.4.1)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.84%
+Cluster 101265
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ATP-dependent Clp protease ATP-binding subunit ClpX1	ADL32946
+fig|418240.274.peg.641|GT686_09555!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpX!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	71.82%
+Cluster 548765
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative integral membrane protein	CAH05740
+fig|418240.274.peg.4278|GT686_19965!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	95.21%
+Cluster 268697
+253	CP000141	Carboxydothermus hydrogenoformans Z-2901, complete genome.	No	Clostridia	putative DNA methylase	ABB15480
+fig|418240.274.peg.1863|GT686_13370!!!Putative!DNA!methylase!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.54%
+Cluster 743299
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	protein of unknown function DUF951	ADL02870
+fig|418240.274.peg.1454|GT686_11485!!!Uncharacterized!protein!CAC3725!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	69.84%
+Cluster 485150
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	GTP-binding protein HSR1-related	ABX40767
+fig|418240.274.peg.1695|GT686_12555!!!GTP-binding!protein!EngB!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.68%
+Cluster 75292
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	RNA methyltransferase, TrmA family	ADL05396
+fig|418240.274.peg.2292|GT686_02615!!!RNA!methyltransferase,!TrmA!family!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.88%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|418240.274.peg.725|GT686_09955!!!Translation!initiation!factor!1!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	66.67%
+Cluster 373997
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	electron transport complex, RnfABCDGE type, E subunit	ADL04244
+fig|418240.274.peg.4358|GT686_06770!!!Electron!transport!complex!protein!RnfE!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.71%
+Cluster 610476
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	hypothetical protein	ABX43811
+fig|418240.274.peg.3549|GT686_04230!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.58%
+Cluster 610475
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	conserved hypothetical protein	ABX43252
+fig|418240.274.peg.4346|GT686_06710!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.41%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|418240.274.peg.4231|GT686_06345!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	75.65%
+Cluster 186438
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	integrase	CAJ67177
+fig|418240.274.peg.3225|GT686_18010!!!putative!transposon!integrase;!Tn916!ORF3-like!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	98.99%
+Cluster 58225
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ATP-dependent OLD family endonuclease	ADL03956
+fig|418240.274.peg.1150|GT686_00690!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.47%
+Cluster 238421
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	inner-membrane translocator	ADL02897
+fig|418240.274.peg.1327|GT686_01535!!!Putative!sugar!ABC!transport!system,!permease!protein!YtfT!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.38%
+Cluster 718894
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Phosphotransferase system, phosphocarrier protein HPr	ADL03945
+fig|418240.274.peg.2537|GT686_15470!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.00%
+Cluster 14843
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	plasmid transfer protein	CAH05759
+fig|418240.274.peg.4274|GT686_19945!!!Conjugative!transposon!protein!TraG!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	97.34%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|418240.274.peg.1550|GT686_11925!!!LSU!ribosomal!protein!L11p!(L12e)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.54%
+Cluster 464613
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	cobalamin B12-binding domain protein	ACL22641
+fig|418240.274.peg.1528|GT686_11830!!!Uncharacterized!corrinoid!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.66%
+Cluster 303790
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hypothetical protein	ADL34703
+fig|418240.274.peg.3492|GT686_18620!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	71.91%
+Cluster 97701
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	integral membrane sensor signal transduction histidine kinase	ADL06483
+fig|418240.274.peg.1988|GT686_13950!!!Two-component!system!sensor!histidine!kinase!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.37%
+Cluster 161492
+20831	CP001684	Slackia heliotrinireducens DSM 20476, complete genome.	No	Coriobacteridae	uncharacterized flavoprotein	ACV21694
+fig|418240.274.peg.3763|GT686_19240!!!Flavoprotein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.08%
+Cluster 365837
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative uncharacterized protein	CBE04594
+fig|418240.274.peg.3983|GT686_05385!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	97.01%
+Cluster 735388
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	hypothetical protein	CAH05724
+fig|418240.274.peg.4139|GT686_19800!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	97.14%
+Cluster 9562
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	isoleucyl-tRNA synthetase IleS	ADL35582
+fig|418240.274.peg.3313|GT686_03970!!!Isoleucyl-tRNA!synthetase!(EC!6.1.1.5)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	74.31%
+Cluster 587322
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	ribosomal protein L16	ABR50543
+fig|418240.274.peg.709|GT686_09875!!!LSU!ribosomal!protein!L16p!(L10e)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	73.10%
+Cluster 627907
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	protein of unknown function DUF322	ADL05773
+fig|418240.274.peg.2258|GT686_02470!!!Alkaline!shock!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.75%
+Cluster 642064
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	major cold shock protein	AAW75975
+fig|418240.274.peg.3568|GT686_04315!!!Cold!shock!protein!of!CSP!family!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	60.61%
+Cluster 106284
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	alpha-L-arabinofuranosidase domain protein	ACL75611
+fig|418240.274.peg.3125!!!alpha-L-arabinofuranosidase!(EC!3.2.1.55)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	70.18%
+Cluster 119837
+33271	AP009049	Clostridium kluyveri NBRC 12016 DNA, complete genome.	No	Clostridia	hypothetical protein	BAH07405
+fig|418240.274.peg.4178|GT686_06090!!!DNA!helicase!(EC!3.6.4.12),!phage-associated!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	76.09%
+Cluster 717730
+37873	CP002048	Syntrophothermus lipocalidus DSM 12680, complete genome.	No	Clostridia	ribosomal protein L33	ADI02994
+fig|418240.274.peg.1547|GT686_11910!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-dependent!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.02%
+Cluster 528679
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ribosomal protein L17	ADL06257
+fig|418240.274.peg.731|GT686_09985!!!LSU!ribosomal!protein!L17p!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	77.53%
+Cluster 528676
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	recombination protein U RecU	ADL34189
+fig|418240.274.peg.390|GT686_08385!!!RecU!Holliday!junction!resolvase!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	68.36%
+Cluster 524679
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	CDP-diacylglycerol/glycerol-3-phosphate 3-phosphatidyltransferase	ADL04529
+fig|418240.274.peg.3856|GT686_05115!!!CDP-diacylglycerol--glycerol-3-phosphate!3-phosphatidyltransferase!(EC!2.7.8.5)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	63.69%
+Cluster 626959
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	conserved hypothetical protein	AAO82008
+fig|418240.274.peg.4013|GT686_05535!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	73.64%
+Cluster 427237
+41467	CP002028	Thermincola sp. JR, complete genome.	No	Clostridia	flavin reductase domain protein FMN-binding protein	ADG82833
+fig|418240.274.peg.2949|GT686_16765!!!Rubredoxin!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	64.81%
+Cluster 548861
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative transposon protein	CAJ70287
+fig|418240.274.peg.3206|GT686_17920!!!FIG00512738:!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	95.81%
+fig|418240.274.peg.4143|GT686_19825!!!FIG00512738:!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	92.77%
+Cluster 548863
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative tranposon protein	CAJ67198
+fig|418240.274.peg.3207|GT686_17925!!!Antirestriction!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	96.41%
+fig|418240.274.peg.4144|GT686_19830!!!Antirestriction!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	95.81%
+Cluster 548862
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conjugative tranposon protein	CBE07571
+fig|418240.274.peg.4012|GT686_05530!!!Antirestriction!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	62.35%
+Cluster 220100
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	S-adenosyl-methyltransferase MraW	ABX40661
+fig|418240.274.peg.1140|GT686_00640!!!16S!rRNA!(cytosine(1402)-N(4))-methyltransferase!(EC!2.1.1.199)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	70.94%
+Cluster 50523
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	transcription termination factor Rho	ABX40797
+fig|418240.274.peg.2773|GT686_03030!!!Transcription!termination!factor!Rho!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	66.67%
+Cluster 92870
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative integral membrane protein	CAH05742
+fig|418240.274.peg.4273|GT686_19940!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	98.06%
+fig|418240.274.peg.11|GT686_20030!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	99.66%
+Cluster 521548
+28507	CP000962	Clostridium botulinum A3 str. Loch Maree, complete genome.	Yes	Clostridia	putative transposase	ACA56253
+fig|418240.274.peg.230|GT686_07695!!!Excisionase!protein!Cthe_0522!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	71.19%
+Cluster 625557
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative transposon membrane protein	CAJ70237
+fig|418240.274.peg.236|GT686_07725!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	98.46%
+Cluster 455419
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	protein of unknown function UPF0029	ABX40886
+fig|418240.274.peg.1617|GT686_12205!!!FIG000605:!protein!co-occurring!with!transport!systems!(COG1739)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.47%
+Cluster 384130
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase HisA	ADL35185
+fig|418240.274.peg.1260|GT686_01220!!!Phosphoribosylformimino-5-aminoimidazole!carboxamide!ribotide!isomerase!(EC!5.3.1.16)!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	61.57%
+Cluster 441407
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Acetyltransferase	ACD99341
+fig|418240.274.peg.99|GT686_07185!!!Sugar!O-acetyltransferase!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	71.43%
+Cluster 427210
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative plasmid transfer protein	CAH05758
+fig|418240.274.peg.4275|GT686_19950!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	96.48%
+Cluster 556193
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	hypothetical protein	CAH05723
+fig|418240.274.peg.4138|GT686_19795!!!hypothetical!protein!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	85.00%
+Cluster 692587
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S6 RpsF	ADL32988
+fig|418240.274.peg.1453|GT686_11480!!!SSU!ribosomal!protein!S6p!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	65.26%
+Cluster 714071
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S Ribosomal protein S21	ABP90399
+fig|418240.274.peg.3865|GT686_05160!!!SSU!ribosomal!protein!S21p!!![Blautia!wexlerae!strain!BIOML-A15!|!418240.274]	67.24%

@@ -1,0 +1,313 @@
+Cluster 714585
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DNA-directed RNA polymerase, omega subunit	ABX43237
+fig|2584635.3.peg.1859|GT568_07965!!!DNA-directed!RNA!polymerase!omega!subunit!(EC!2.7.7.6)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	73.42%
+Cluster 21489
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	phage Terminase	ABN52943
+fig|2584635.3.peg.1436|GT568_05875!!!Phage!terminase,!large!subunit!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	72.82%
+Cluster 421129
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Inosine monophosphate cyclohydrolase-like protein	ADL04759
+fig|2584635.3.peg.1722|GT568_07270!!!IMP!cyclohydrolase!(EC!3.5.4.10)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	72.15%
+Cluster 548454
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	GreA/GreB family elongation factor	ADL06186
+fig|2584635.3.peg.2223|GT568_09850!!!Transcription!elongation!factor!GreA!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	61.21%
+Cluster 106993
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Relaxase	ABF36185
+fig|2584635.3.peg.2398|GT568_10725!!!Relaxase!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	82.77%
+Cluster 4738
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DNA-directed RNA polymerase, beta' subunit	ABX44033
+fig|2584635.3.peg.2935|GT568_13360!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	75.65%
+Cluster 636471
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	conserved hypothetical protein 103	ABR37056
+fig|2584635.3.peg.261|GT568_00230!!!Nucleoid-associated!protein!YaaK!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	64.66%
+Cluster 358960
+32615	CP001696	Methanocaldococcus fervens AG86, complete genome.	No	Methanococci	imidazoleglycerol phosphate synthase, cyclase subunit	ACV25117
+fig|2584635.3.peg.1797|GT568_07640!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	63.24%
+Cluster 285104
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	permease of ABC transporter possibly for oligosaccharides	AAN24002
+fig|2584635.3.peg.2594|GT568_11715!!!ABC!transporter,!permease!protein!1!(cluster!1,!maltose/g3p/polyamine/iron)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	61.43%
+Cluster 93676
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	N-6 DNA methylase	ABQ83682
+fig|2584635.3.peg.1819|GT568_07750!!!Type!I!restriction-modification!system,!DNA-methyltransferase!subunit!M!(EC!2.1.1.72)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	67.59%
+Cluster 726606
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	transcriptional regulator, XRE family	ABX42228
+fig|2584635.3.peg.2371|GT568_10595!!!Uncharacterized!transcriptional!regulator!YozG,!Cro/CI!family!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	73.97%
+Cluster 423616
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	polar amino acid ABC transporter, inner membrane subunit	ABN53481
+fig|2584635.3.peg.2343|GT568_10460!!!ABC!transporter,!permease!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	73.31%
+Cluster 303231
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribonuclease Z	ADL33314
+fig|2584635.3.peg.2654|GT568_12005!!!Ribonuclease!Z!(EC!3.1.26.11)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	65.13%
+Cluster 235957
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	D-alanine--D-alanine ligase	ABX44138
+fig|2584635.3.peg.579|GT568_01800!!!D-alanine--D-alanine!ligase!(EC!6.3.2.4)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	60.00%
+Cluster 488698
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ribosome biogenesis GTP-binding protein YsxC	ADL04935
+fig|2584635.3.peg.2865|GT568_13040!!!GTP-binding!protein!EngB!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	73.23%
+Cluster 689445
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	sporulation transcriptional regulator SpoIIID	ABX40597
+fig|2584635.3.peg.681|GT568_02295!!!Stage!III!sporulation!protein!D!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	67.06%
+Cluster 289711
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	Putative amidoligase enzyme	ADL53645
+fig|2584635.3.peg.1430|GT568_05845!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	81.90%
+Cluster 583353
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	protein of unknown function DUF188	ADL05238
+fig|2584635.3.peg.1898|GT568_08160!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	67.79%
+Cluster 520003
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	phage-related protein	ADK13420
+fig|2584635.3.peg.1413|GT568_05765!!!Phage!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	65.00%
+Cluster 340594
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ABC-3 protein	ADL02785
+fig|2584635.3.peg.885|GT568_03285!!!Zinc!ABC!transporter,!permease!protein!ZnuB!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	66.79%
+Cluster 57893
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ammonium transporter Amt	ADL32871
+fig|2584635.3.peg.2089|GT568_09100!!!Ammonium!transporter!/!Nitrogen!regulatory!protein!P-II!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	74.58%
+Cluster 432291
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	hypothetical protein	ABF36205
+fig|2584635.3.peg.2404|GT568_10760!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	83.63%
+fig|2584635.3.peg.207!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	76.47%
+Cluster 765993
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	hypothetical protein	ACV54751
+fig|2584635.3.peg.1227|GT568_04865!!!Uncharacterized!protein!TDE2370,!clustered!with!polyferredoxin!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	67.74%
+Cluster 738409
+13376	CP001791	Bacillus selenitireducens MLS10, complete genome.	No	Bacillales	Uncharacterized conserved protein UCP037246	ADI00182
+fig|2584635.3.peg.1899|GT568_08165!!!bacterial!seryl-tRNA!synthetase!related!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	77.94%
+Cluster 204498
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	glycoprotease family protein	ADL33316
+fig|2584635.3.peg.2655|GT568_12010!!!N(6)-L-threonylcarbamoyladenine!synthase!(EC!2.3.1.234)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	72.65%
+Cluster 3429
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Collagen adhesion protein	ABF36208
+fig|2584635.3.peg.202|GT568_14945!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	81.09%
+Cluster 344162
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	transcription regulator (yobd protein)	CBE04571
+fig|2584635.3.peg.539|GT568_01600!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	98.94%
+Cluster 65642
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	antigen-like protein	ABF36173
+fig|2584635.3.peg.2386|GT568_10665!!!Invasion!associated!protein!p60!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	74.11%
+Cluster 502647
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ABX43679
+fig|2584635.3.peg.2310|GT568_10290!!!2-C-methyl-D-erythritol!2,4-cyclodiphosphate!synthase!(EC!4.6.1.12)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	66.85%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|2584635.3.peg.2933|GT568_13350!!!SSU!ribosomal!protein!S12p!(S23e)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	66.91%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|2584635.3.peg.437|GT568_01095!!!LSU!ribosomal!protein!L34p!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	65.91%
+Cluster 456346
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	Adenylate kinase	ABN54122
+fig|2584635.3.peg.2572|GT568_11605!!!Adenylate!kinase!(EC!2.7.4.3)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	62.15%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|2584635.3.peg.2930|GT568_13335!!!Translation!elongation!factor!Tu!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	65.57%
+Cluster 693923
+12994	AP006840	Symbiobacterium thermophilum IAM 14863 DNA, complete genome.	No	Clostridia	30S ribosomal protein S17	BAD42048
+fig|2584635.3.peg.2560|GT568_11545!!!SSU!ribosomal!protein!S17p!(S11e)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	71.43%
+Cluster 239455
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	probable ATP binding protein of ABC transporter	BAF39823
+fig|2584635.3.peg.1379|GT568_05600!!!Teichoic!acid!export!ATP-binding!protein!TagH!(EC!3.6.3.40)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	60.63%
+Cluster 110591
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	carboxyl transferase	ADL03927
+fig|2584635.3.peg.1750|GT568_07415!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!/!Acetyl-coenzyme!A!carboxyl!transferase!beta!chain!(EC!6.4.1.2);!Propionyl-CoA!carboxylase!beta!chain!(EC!6.4.1.3);!Methylmalonyl-CoA!decarboxylase,!alpha!chain!(EC!4.1.1.41)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	60.30%
+Cluster 47423
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	2-isopropylmalate synthase LeuA	ADL34988
+fig|2584635.3.peg.2731|GT568_12385!!!2-isopropylmalate!synthase!(EC!2.3.3.13)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	63.36%
+Cluster 549045
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	rRNA methylase SpoU family	ADL35561
+fig|2584635.3.peg.798|GT568_02855!!!tRNA!(cytidine(34)-2'-O)-methyltransferase!(EC!2.1.1.207)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	72.73%
+Cluster 225385
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	transcriptional regulator, CdaR	ABX43957
+fig|2584635.3.peg.1179|GT568_04670!!!Sugar!diacid!utilization!regulator!SdaR!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	83.43%
+Cluster 31587
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	glutamate synthase (NADPH), homotetrameric	ACZ07665
+fig|2584635.3.peg.1163|GT568_04595!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!A!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	66.78%
+Cluster 667566
+214	CP000027	Dehalococcoides ethenogenes 195, complete genome.	No	Dehalococcoidetes	conserved hypothetical protein	AAW39676
+fig|2584635.3.peg.1444|GT568_05915!!!prophage!pi2!protein!38!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	60.95%
+Cluster 79095
+37925	CP002045	Arcanobacterium haemolyticum DSM 20595, complete genome.	Yes	Actinobacteridae	inner-membrane translocator	ADH92432
+fig|2584635.3.peg.387|GT568_00840!!!Galactose/methyl!galactoside!ABC!transporter,!permease!protein!MglC!(EC!3.6.3.17)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	67.45%
+Cluster 451149
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	cytidylate kinase Cmk	ADL34771
+fig|2584635.3.peg.1744|GT568_07385!!!Cytidylate!kinase!(EC!2.7.4.25)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	60.45%
+Cluster 64158
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	TraG/TraD family	ABF36182
+fig|2584635.3.peg.2394|GT568_10705!!!TrsK-like!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	90.77%
+Cluster 312489
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S2	ABP90946
+fig|2584635.3.peg.1633|GT568_06835!!!SSU!ribosomal!protein!S2p!(SAe)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	63.93%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|2584635.3.peg.2555|GT568_11520!!!SSU!ribosomal!protein!S19p!(S15e)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	73.91%
+Cluster 357261
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	tRNA (guanine-N1)-methyltransferase TrmD	ADL34300
+fig|2584635.3.peg.1806|GT568_07685!!!tRNA!(guanine(37)-N(1))-methyltransferase!(EC!2.1.1.228)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	68.46%
+Cluster 518302
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	YbaK/prolyl-tRNA synthetase domain-containing protein	ADL35400
+fig|2584635.3.peg.3052|GT568_13915!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	70.00%
+Cluster 639253
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A	ABF36181
+fig|2584635.3.peg.2393|GT568_10700!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	88.14%
+Cluster 342221
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	hypothetical protein	ABF36179
+fig|2584635.3.peg.2391|GT568_10690!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	91.73%
+Cluster 457415
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	endonuclease III Nth	ADL34818
+fig|2584635.3.peg.2412|GT568_10800!!!Endonuclease!III!(EC!4.2.99.18)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	67.13%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|2584635.3.peg.2561|GT568_11550!!!LSU!ribosomal!protein!L14p!(L23e)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	84.43%
+Cluster 634221
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	LrgA-like family protein	ADL33759
+fig|2584635.3.peg.2956|GT568_13460!!!Antiholin-like!protein!LrgA!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	68.85%
+Cluster 51409
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	phosphoglycerate kinase	ACL76599
+fig|2584635.3.peg.2278|GT568_10130!!!Triosephosphate!isomerase!(EC!5.3.1.1)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	60.80%
+Cluster 714926
+32617	CP001792	Fibrobacter succinogenes subsp. succinogenes S85, complete genome.	No	Fibrobacterales	SirA family protein	ACX73777
+fig|2584635.3.peg.933|GT568_03510!!!Uncharacterized!UPF0033!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	65.43%
+Cluster 360306
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	hypothetical protein	ABF36184
+fig|2584635.3.peg.2397|GT568_10720!!!FIG01117807:!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	80.39%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|2584635.3.peg.2575|GT568_11620!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	83.78%
+Cluster 428641
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	two component transcriptional regulator, winged helix family	ABN53319
+fig|2584635.3.peg.1083|GT568_04220!!!ABC!transporter-like!sensor!linked!response!regulator!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	64.95%
+Cluster 604794
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	Mov34/MPN/PAD-1	ABN53742
+fig|2584635.3.peg.937|GT568_03530!!!Sulfer!carrier!protein!activating!protease!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	63.77%
+Cluster 261207
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	sulfate ABC transporter, inner membrane subunit	ABX42197
+fig|2584635.3.peg.922|GT568_03460!!!Sulfate!transport!system!permease!protein!CysW!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	71.38%
+Cluster 335557
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	nitrite and sulphite reductase 4Fe-4S region	ABX42194
+fig|2584635.3.peg.932|GT568_03505!!!Putative!sulfite!reductase,!GSU1351!type!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	72.38%
+Cluster 81983
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	AMP-dependent synthetase and ligase	ABN54319
+fig|2584635.3.peg.343|GT568_00635!!!Long-chain-fatty-acid--CoA!ligase!(EC!6.2.1.3)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	71.88%
+Cluster 437954
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein L3 RplC	ADL33339
+fig|2584635.3.peg.2551|GT568_11500!!!LSU!ribosomal!protein!L3p!(L3e)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	70.48%
+Cluster 431564
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ATP synthase F0, A subunit	ADL06672
+fig|2584635.3.peg.777|GT568_02755!!!ATP!synthase!F0!sector!subunit!a!(EC!3.6.3.14)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	64.00%
+Cluster 717949
+15644	CP000812	Thermotoga lettingae TMO, complete genome.	No	Thermotogales	protein of unknown function DUF37	ABV33360
+fig|2584635.3.peg.435|GT568_01085!!!Membrane!protein!insertion!efficiency!factor!YidD!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	64.29%
+Cluster 507827
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	3-isopropylmalate dehydratase, small subunit	ABN53412
+fig|2584635.3.peg.1609|GT568_06715!!!3-isopropylmalate!dehydratase!small!subunit!(EC!4.2.1.33)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	75.46%
+Cluster 537842
+32617	CP001792	Fibrobacter succinogenes subsp. succinogenes S85, complete genome.	No	Fibrobacterales	NUDIX hydrolase	ACX73987
+fig|2584635.3.peg.1029|GT568_03970!!!Mutator!MutT!protein!(7,8-dihydro-8-oxoguanine-triphosphatase)!(EC!3.6.1.-)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	60.78%
+Cluster 290648
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	metal dependent phosphohydrolase	ADL02997
+fig|2584635.3.peg.806|GT568_02895!!!3'->5'!exoribonuclease!Bsu!YhaM!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	60.51%
+Cluster 562738
+17729	CP000769	Anaeromyxobacter sp. Fw109-5, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ABS26139
+fig|2584635.3.peg.2577|GT568_11630!!!SSU!ribosomal!protein!S11p!(S14e)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	61.83%
+Cluster 75597
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	sulfate adenylyltransferase, large subunit	ABR36296
+fig|2584635.3.peg.927|GT568_03485!!!Sulfate!adenylyltransferase!subunit!1!(EC!2.7.7.4)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	60.81%
+Cluster 268581
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	LtrC	ABF36187
+fig|2584635.3.peg.2401|GT568_10745!!!TnpY!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	68.89%
+Cluster 453912
+32617	CP001792	Fibrobacter succinogenes subsp. succinogenes S85, complete genome.	No	Fibrobacterales	Radical SAM domain protein	ACX74952
+fig|2584635.3.peg.3042|GT568_13865!!!Radical!SAM!domain!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	77.17%
+Cluster 339364
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Cobyrinic acid ac-diamide synthase	ABX44282
+fig|2584635.3.peg.424|GT568_01025!!!Chromosome!(plasmid)!partitioning!protein!ParA!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	63.28%
+Cluster 62115
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ATP synthase F1 alpha subunit AtpA2	ADL33900
+fig|2584635.3.peg.781|GT568_02775!!!ATP!synthase!alpha!chain!(EC!3.6.3.14)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	72.60%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|2584635.3.peg.2576|GT568_11625!!!SSU!ribosomal!protein!S13p!(S18e)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	72.95%
+Cluster 635667
+214	CP000027	Dehalococcoides ethenogenes 195, complete genome.	No	Dehalococcoidetes	conserved hypothetical protein	AAW39678
+fig|2584635.3.peg.1446|GT568_05925!!!FIG01032287:!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	63.20%
+Cluster 144562
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	protein of unknown function DUF815	ABX41653
+fig|2584635.3.peg.795|GT568_02845!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	64.29%
+Cluster 101265
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ATP-dependent Clp protease ATP-binding subunit ClpX1	ADL32946
+fig|2584635.3.peg.2086|GT568_09085!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpX!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	64.24%
+Cluster 743299
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	protein of unknown function DUF951	ADL02870
+fig|2584635.3.peg.2190|GT568_09650!!!Uncharacterized!protein!CAC3725!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	64.41%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|2584635.3.peg.2574|GT568_11615!!!Translation!initiation!factor!1!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	73.61%
+Cluster 700529
+28997	AP010655	Streptococcus mutans NN2025 DNA, complete genome.	Yes	Lactobacillales	hypothetical protein	BAH87033
+fig|2584635.3.peg.742|GT568_02580!!!Ribosome-associated!heat!shock!protein!implicated!in!the!recycling!of!the!50S!subunit!(S4!paralog)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	62.03%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|2584635.3.peg.1164|GT568_04600!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	72.75%
+Cluster 110586
+41467	CP002028	Thermincola sp. JR, complete genome.	No	Clostridia	inosine-5'-monophosphate dehydrogenase	ADG82179
+fig|2584635.3.peg.2136|GT568_09335!!!Inosine-5'-monophosphate!dehydrogenase!(EC!1.1.1.205)!/!CBS!domain!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	67.29%
+Cluster 25677
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	TRSE protein	ABF36177
+fig|2584635.3.peg.2389|GT568_10680!!!FIG01020158:!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	95.50%
+Cluster 723307
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Phosphotransferase system, phosphocarrier protein HPr	ABX42661
+fig|2584635.3.peg.1552|GT568_06435!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	75.32%
+Cluster 383642
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Dihydroorotate dehydrogenase, electron transfer subunit, iron-sulfur cluster binding domain protein	ADL04196
+fig|2584635.3.peg.1871|GT568_08025!!!Dihydroorotate!dehydrogenase!(NAD(+)),!electron!transfer!subunit!(EC!1.3.1.14)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	66.54%
+Cluster 9562
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	isoleucyl-tRNA synthetase IleS	ADL35582
+fig|2584635.3.peg.479|GT568_01315!!!Isoleucyl-tRNA!synthetase!(EC!6.1.1.5)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	71.02%
+Cluster 439696
+33261	CP002083	Hyphomicrobium denitrificans ATCC 51888, complete genome.	No	Alphaproteobacteria	ribosomal protein L5	ADJ22843
+fig|2584635.3.peg.2563|GT568_11560!!!LSU!ribosomal!protein!L5p!(L11e)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	62.57%
+Cluster 587322
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	ribosomal protein L16	ABR50543
+fig|2584635.3.peg.2558|GT568_11535!!!LSU!ribosomal!protein!L16p!(L10e)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	72.41%
+Cluster 119837
+33271	AP009049	Clostridium kluyveri NBRC 12016 DNA, complete genome.	No	Clostridia	hypothetical protein	BAH07405
+fig|2584635.3.peg.1418|GT568_05790!!!DNA!helicase!(EC!3.6.4.12),!phage-associated!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	61.27%
+Cluster 717730
+37873	CP002048	Syntrophothermus lipocalidus DSM 12680, complete genome.	No	Clostridia	ribosomal protein L33	ADI02994
+fig|2584635.3.peg.104|GT568_14440!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-dependent!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	71.43%
+Cluster 528679
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ribosomal protein L17	ADL06257
+fig|2584635.3.peg.2580|GT568_11645!!!LSU!ribosomal!protein!L17p!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	71.91%
+Cluster 187061
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Rubrerythrin	ADL05267
+fig|2584635.3.peg.167|GT568_14780!!!Rubrerythrin!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	71.11%
+Cluster 524679
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	CDP-diacylglycerol/glycerol-3-phosphate 3-phosphatidyltransferase	ADL04529
+fig|2584635.3.peg.1751|GT568_07420!!!CDP-diacylglycerol--glycerol-3-phosphate!3-phosphatidyltransferase!(EC!2.7.8.5)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	60.92%
+Cluster 220100
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	S-adenosyl-methyltransferase MraW	ABX40661
+fig|2584635.3.peg.362|GT568_00720!!!16S!rRNA!(cytosine(1402)-N(4))-methyltransferase!(EC!2.1.1.199)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	71.55%
+Cluster 734599
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	heavy metal associated domain-containing protein	ADL34267
+fig|2584635.3.peg.2609|GT568_11790!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	60.56%
+Cluster 488301
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX73966
+fig|2584635.3.peg.1523|GT568_06295!!!NADPH-dependent!7-cyano-7-deazaguanine!reductase!(EC!1.7.1.13)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	68.29%
+Cluster 521548
+28507	CP000962	Clostridium botulinum A3 str. Loch Maree, complete genome.	Yes	Clostridia	putative transposase	ACA56253
+fig|2584635.3.peg.2384|GT568_10655!!!hypothetical!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	62.30%
+Cluster 63415
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	ABC transporter related	ADL53017
+fig|2584635.3.peg.2455|GT568_11005!!!Efflux!ABC!transporter,!permease/ATP-binding!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	64.83%
+Cluster 321942
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DegV family protein	ABX41932
+fig|2584635.3.peg.1099|GT568_04295!!!DegV!family!protein!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	67.12%
+Cluster 663146
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S16	ABP89762
+fig|2584635.3.peg.1809|GT568_07700!!!SSU!ribosomal!protein!S16p!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	60.49%
+Cluster 384130
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase HisA	ADL35185
+fig|2584635.3.peg.277|GT568_00310!!!Phosphoribosylformimino-5-aminoimidazole!carboxamide!ribotide!isomerase!(EC!5.3.1.16)!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	63.57%
+Cluster 500139
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	P-loop ATPase	ADL51114
+fig|2584635.3.peg.1617|GT568_06755!!!Phosphate!starvation-inducible!protein!PhoH,!predicted!ATPase!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	67.55%
+Cluster 714071
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S Ribosomal protein S21	ABP90399
+fig|2584635.3.peg.1707|GT568_07195!!!SSU!ribosomal!protein!S21p!!![Coprococcus!sp.!BIOML-A1!|!2584635.3]	68.97%

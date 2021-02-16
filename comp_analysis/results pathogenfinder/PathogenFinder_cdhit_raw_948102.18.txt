@@ -1,0 +1,1179 @@
+Cluster 224484
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	3-isopropylmalate dehydrogenase	ABM07291
+fig|948102.18.peg.2877|UI24_17450!!!3-isopropylmalate!dehydrogenase!(EC!1.1.1.85)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.09%
+Cluster 67217
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative amino-acid permease	BAC17521
+fig|948102.18.peg.3786|UI24_21925!!!Urea!carboxylase-related!amino!acid!permease!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.38%
+Cluster 444590
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ABG10901
+fig|948102.18.peg.5106|UI24_02610!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.15%
+Cluster 372560
+223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	AAK46491
+fig|948102.18.peg.1347|UI24_10070!!!Pyridoxal!phosphate-containing!protein!YggS!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.86%
+Cluster 610393
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	PE family protein	ABR07365
+fig|948102.18.peg.1732|UI24_00270!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.69%
+fig|948102.18.peg.1556|UI24_11090!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.69%
+Cluster 220624
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical membrane protein	ACC42155
+fig|948102.18.peg.43|UI24_03570!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.12%
+Cluster 446217
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	adenine phosphoribosyltransferase apt	ABR06931
+fig|948102.18.peg.2265|UI24_14460!!!Adenine!phosphoribosyltransferase!(EC!2.4.2.7)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.92%
+Cluster 517314
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ACC38727
+fig|948102.18.peg.5295|UI24_03530!!!hypothetical!protein!Rv0098!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.33%
+Cluster 387050
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Oligoribonuclease	CAJ60413
+fig|948102.18.peg.964|UI24_08175!!!3'-to-5'!oligoribonuclease!(orn)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.06%
+Cluster 585182
+16304	CP000740	Sinorhizobium medicae WSM419 plasmid pSMED02, complete sequence.	No	Alphaproteobacteria	protein of unknown function DUF1486	ABR64000
+fig|948102.18.peg.4736|UI24_00785!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.73%
+Cluster 713854
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ACC38725
+fig|948102.18.peg.5297|UI24_03540!!!pp-binding!family!protein!Rv0100!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.45%
+Cluster 39574
+19575	CU234118	Bradyrhizobium sp. ORS278,complete sequence.	No	Alphaproteobacteria	Methionyl-tRNA synthetase (EC 6.1.1.10)	CAL77594
+fig|948102.18.peg.541|UI24_06065!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.52%
+Cluster 488347
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	transcriptional regulatory protein (probably TetR/AcrR-family)	ACC39898
+fig|948102.18.peg.2881|UI24_17470!!!Transcriptional!regulator,!AcrR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.71%
+Cluster 318061
+12738	CP000509	Nocardioides sp. JS614, complete genome.	No	Actinobacteridae	response regulator receiver	ABL83282
+fig|948102.18.peg.2909|UI24_17605!!!Two-component!transcriptional!response!regulator,!OmpR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.25%
+Cluster 62291
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	phosphoribosylglycinamide formyltransferase 2	ACY23212
+fig|948102.18.peg.616|UI24_06440!!!Formate-dependent!phosphoribosylglycinamide!formyltransferase!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.93%
+Cluster 14425
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	prolipoprotein diacylglyceryl transferase	ABG09155
+fig|948102.18.peg.2016|UI24_13255!!!Prolipoprotein!diacylglyceryl!transferase!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.82%
+Cluster 617453
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	Endoribonuclease L-PSP	ABS04141
+fig|948102.18.peg.2390|UI24_15095!!!RidA/YER057c/UK114!superfamily,!group!6!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.31%
+Cluster 615071
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK67594
+fig|948102.18.peg.3872|UI24_22350!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.65%
+Cluster 380173
+31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Yes	Actinobacteridae	putative lipoprotein	BAH25151
+fig|948102.18.peg.1173|UI24_09195!!!D-alanyl-D-alanine!dipeptidase!(EC!3.4.13.22)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.72%
+Cluster 651478
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS02634
+fig|948102.18.peg.4915|UI24_01680!!!Nucleoid-associated!protein!YaaK!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.04%
+Cluster 580738
+28329	CP000934	Cellvibrio japonicus Ueda107, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACE85894
+fig|948102.18.peg.2429|UI24_15285!!!COGs!COG3558!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.00%
+Cluster 183786
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	putative GTP-binding protein YchF	ABM09084
+fig|948102.18.peg.689|UI24_06805!!!GTP-binding!and!nucleic!acid-binding!protein!YchF!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	71.99%
+Cluster 646775
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ABG08297
+fig|948102.18.peg.2379|UI24_15040!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	92.00%
+Cluster 15797
+21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Yes	Actinobacteridae	polyprenol-monophosphomannose synthase ppm1	ACT24998
+fig|948102.18.peg.1528|UI24_10950!!!Undecaprenyl-phosphate!mannosyltransferase!(EC!2.4.1.54)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.40%
+Cluster 244361
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative porphobilinogen deaminase	BAD60021
+fig|948102.18.peg.3687|UI24_21400!!!Porphobilinogen!deaminase!(EC!2.5.1.61)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	74.59%
+Cluster 672791
+19227	CP000910	Renibacterium salmoninarum ATCC 33209, complete genome.	No	Actinobacteridae	SSU ribosomal protein S17P	ABY23888
+fig|948102.18.peg.3521|UI24_20560!!!SSU!ribosomal!protein!S17p!(S11e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.33%
+Cluster 94497
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Riboflavin biosynthesis protein ribA [Includes: GTP cyclohydrolase II; 3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase)]	CAJ63853
+fig|948102.18.peg.2168|UI24_13990!!!3,4-dihydroxy-2-butanone!4-phosphate!synthase!(EC!4.1.99.12)!/!GTP!cyclohydrolase!II!(EC!3.5.4.25)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.67%
+Cluster 340943
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	PspA/IM30 family protein	ADL45064
+fig|948102.18.peg.2445|UI24_15360!!!Phage!shock!protein!A!(IM30),!suppresses!sigma54-dependent!transcription!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.29%
+Cluster 254594
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	oxidoreductase domain protein	ADB73553
+fig|948102.18.peg.1958|UI24_12965!!!Putative!oxidoreductase!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.37%
+Cluster 729808
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ADB77295
+fig|948102.18.peg.104|UI24_03875!!!Uncharacterized!protein!SCO4088!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.49%
+Cluster 110996
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	putative amidase	CAJ62308
+fig|948102.18.peg.3764|UI24_21815!!!Amidase!family!protein!SACE_5032!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	78.26%
+Cluster 661350
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	Ribosomal protein L25/L23	ACU69865
+fig|948102.18.peg.3528|UI24_20595!!!LSU!ribosomal!protein!L23p!(L23Ae)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.00%
+Cluster 332375
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	YrbE family protein, YrbE5A	ACC42273
+fig|948102.18.peg.424|UI24_05515!!!Conserved!hypothetical!integral!membrane!protein!YrbEa!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	80.70%
+fig|948102.18.peg.4344|UI24_24670!!!Conserved!hypothetical!integral!membrane!protein!YrbEa!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.44%
+Cluster 384637
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved membrane protein	ACC38642
+fig|948102.18.peg.1123|UI24_08950!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	89.84%
+Cluster 443104
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	KDP operon transcriptional regulatory	ABM06680
+fig|948102.18.peg.2827|UI24_17195!!!DNA-binding!response!regulator!KdpE!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.05%
+Cluster 532050
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ACC39741
+fig|948102.18.peg.3303|UI24_19495!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	75.30%
+Cluster 243176
+19707	CP001964	Cellulomonas flavigena DSM 20109, complete genome.	No	Actinobacteridae	protein of unknown function DUF344	ADG75634
+fig|948102.18.peg.3783|UI24_21910!!!UDP-galactose-lipid!carrier!transferase!(EC!2.-.-.-)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.52%
+Cluster 63656
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial precursor (P5C dehydrogenase)	CAJ62989
+fig|948102.18.peg.765!!!Delta-1-pyrroline-5-carboxylate!dehydrogenase!(EC!1.2.1.88)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.44%
+Cluster 55426
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	2-oxoglutarate dehydrogenase E2 component	ABG09420
+fig|948102.18.peg.1279|UI24_09725!!!Dihydrolipoamide!acetyltransferase!component!of!pyruvate!dehydrogenase!complex!(EC!2.3.1.12)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	84.29%
+Cluster 171263
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	mce related protein	ABK66650
+fig|948102.18.peg.1132|UI24_08995!!!MCE-family!lipoprotein!MceE!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.01%
+Cluster 559013
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	transcriptional regulator, XRE family	ABG06763
+fig|948102.18.peg.3780|UI24_21895!!!Transcriptional!regulator,!Xre!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	76.09%
+Cluster 724527
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	protein of unknown function DUF466	ACV78685
+fig|948102.18.peg.682|UI24_06770!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.41%
+Cluster 513490
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK72239
+fig|948102.18.peg.5091|UI24_02535!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.71%
+Cluster 597949
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	transcriptional regulator, ArsR family protein	ABK67371
+fig|948102.18.peg.1111|UI24_08895!!!Transcriptional!regulator!in!glycyl-tRNA!synthetase!containing!cluster!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.59%
+Cluster 97054
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	Mce protein, Mce5A	ACC42275
+fig|948102.18.peg.1128|UI24_08975!!!MCE-family!protein!MceA!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.75%
+Cluster 1851
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	non-ribosomal peptide synthetase MbtE	ABL05767
+fig|948102.18.peg.1436|UI24_10495!!!Peptide!synthetase!MbtE!@!Siderophore!biosynthesis!non-ribosomal!peptide!synthetase!modules!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.12%
+Cluster 17412
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	replicative DNA helicase	ABS05796
+fig|948102.18.peg.4608|UI24_25775!!!Replicative!DNA!helicase!(DnaB)!(EC!3.6.4.12)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.66%
+Cluster 466103
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59836
+fig|948102.18.peg.1891|UI24_12620!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.70%
+Cluster 397559
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical protein	AAN25594
+fig|948102.18.peg.481!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.41%
+Cluster 587384
+17109	CP000850	Salinispora arenicola CNS-205, complete genome.	No	Actinobacteridae	Phosphoribosyl-AMP cyclohydrolase	ABV99203
+fig|948102.18.peg.2028|UI24_13315!!!Phosphoribosyl-AMP!cyclohydrolase!(EC!3.5.4.19)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.07%
+Cluster 7945
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	integral membrane indolylacetylinositol arabinosyltransferase EmbA	ABL06855
+fig|948102.18.peg.4785|UI24_01030!!!Integral!membrane!indolylacetylinositol!arabinosyltransferase!EmbA!(EC!2.4.2.-)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.97%
+Cluster 71711
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	tetratricopeptide repeat family protein	ABK75614
+fig|948102.18.peg.3769|UI24_21840!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.70%
+Cluster 694416
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	50S ribosomal protein L28-1 rpmB1	ABR04449
+fig|948102.18.peg.4928|UI24_01745!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.71%
+Cluster 223334
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	transmembrane cytochrome C oxidase subunit II ctaC	ABR06559
+fig|948102.18.peg.1296|UI24_09815!!!Cytochrome!c!oxidase!polypeptide!II!(EC!1.9.3.1)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.48%
+Cluster 610629
+18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Yes	Actinobacteridae	protein-export membrane protein	ABQ73192
+fig|948102.18.peg.2143|UI24_13870!!!Protein!translocase!membrane!subunit!SecG!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	83.33%
+Cluster 564936
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	lipoprotein LpqH	ABK74876
+fig|948102.18.peg.3770|UI24_21845!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.38%
+Cluster 417292
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59409
+fig|948102.18.peg.3229|UI24_19145!!!Sirohydrochlorin!ferrochelatase!SirB!(EC!4.99.1.4)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.64%
+Cluster 440870
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	NADH-quinone oxidoreductase, B subunit	ADB77107
+fig|948102.18.peg.1451|UI24_10570!!!NADH-ubiquinone!oxidoreductase!chain!B!(EC!1.6.5.3)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.91%
+Cluster 610402
+18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Yes	Actinobacteridae	hypothetical protein	ABQ75665
+fig|948102.18.peg.4749|UI24_00850!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.83%
+Cluster 434114
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved protein	ABL04469
+fig|948102.18.peg.2824!!!Acylphosphate!phosphohydrolase!(EC!3.6.1.7)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.35%
+fig|948102.18.peg.2825|UI24_17185!!!FIG00997866:!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.14%
+Cluster 107705
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative nitrite transporter	BAD59413
+fig|948102.18.peg.3233|UI24_19165!!!Uncharacterized!MFS-type!transporter!MSMEG_0433,!NarK/U!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.22%
+Cluster 73857
+31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Yes	Actinobacteridae	putative transmembrane protein	BAH26467
+fig|948102.18.peg.1327!!!Carotene!biosynthesis!associated!membrane!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.90%
+Cluster 506023
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	integration host factor mihF	ABR05760
+fig|948102.18.peg.2196|UI24_14130!!!Integration!host!factor!MihF!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	89.52%
+Cluster 554466
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR07612
+fig|948102.18.peg.3302|UI24_19490!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.67%
+Cluster 429975
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved hypothetical secreted protein	ABL06307
+fig|948102.18.peg.4948|UI24_01840!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.06%
+Cluster 99345
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	FAD binding domain, putative	ABK68653
+fig|948102.18.peg.3284!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.42%
+Cluster 76536
+29399	CP001966	Tsukamurella paurometabola DSM 20162, complete genome.	Yes	Actinobacteridae	nicotinate-nucleotide/dimethylbenzimidazolephosp horibosyltransferase	ADG78150
+fig|948102.18.peg.1288|UI24_09775!!!Nicotinate-nucleotide--dimethylbenzimidazole!phosphoribosyltransferase!(EC!2.4.2.21)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.76%
+Cluster 62667
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	carboxyl transferase	ACY97435
+fig|948102.18.peg.4411|UI24_25005!!!Propionyl-CoA!carboxylase!beta!chain!(EC!6.4.1.3)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.27%
+Cluster 317423
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK67138
+fig|948102.18.peg.323|UI24_05015!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.08%
+Cluster 242076
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	MCE-family protein Mce6C	ACC38649
+fig|948102.18.peg.1130|UI24_08985!!!MCE-family!protein!MceC!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.53%
+Cluster 201668
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	luciferase family protein	ABS05731
+fig|948102.18.peg.2188|UI24_14090!!!N5,N10-methylenetetrahydromethanopterin!reductase-related!protein,!SCO6416-type!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.86%
+Cluster 386483
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	urease, gamma subunit	ACG72211
+fig|948102.18.peg.1705|UI24_11810!!!Urease!gamma!subunit!(EC!3.5.1.5)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.00%
+Cluster 493669
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS06754
+fig|948102.18.peg.592|UI24_06325!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.60%
+Cluster 390332
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD55409
+fig|948102.18.peg.68|UI24_03700!!!hypothetical!protein!Rv0784!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.96%
+Cluster 666071
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	Antibiotic biosynthesis monooxygenase	ABG10855
+fig|948102.18.peg.5178|UI24_02960!!!Heme-degrading!protein!MhuD!(no!EC)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	81.90%
+Cluster 126907
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	putative monooxygenase	ABK71803
+fig|948102.18.peg.1188|UI24_09270!!!putative!oxygenase!subunit!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.05%
+Cluster 295374
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Phosphoglycerate mutase	ADC85467
+fig|948102.18.peg.3743|UI24_21675!!!Phosphoglycerate!mutase!(EC!5.4.2.11)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.41%
+Cluster 631387
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	TM2 domain containing protein	ABG09153
+fig|948102.18.peg.2015|UI24_13250!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.67%
+Cluster 84148
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	fatty-acid-CoA ligase fadD10	ABR04443
+fig|948102.18.peg.5296|UI24_03535!!!Polyketide!synthase!modules!and!related!proteins!@!Long-chain!fatty-acid-CoA!ligase!(EC!6.2.1.3),!Mycobacterial!subgroup!FadD10!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.59%
+Cluster 226601
+223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Yes	Actinobacteridae	chalcone/stilbene synthase family protein	AAK48066
+fig|948102.18.peg.5158|UI24_02870!!!Ketopantoate!reductase!PanG!(EC!1.1.1.169)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.04%
+Cluster 307119
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative lipoprotein	BAD59259
+fig|948102.18.peg.2176|UI24_14030!!!Methionine!ABC!transporter!substrate-binding!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.07%
+Cluster 651357
+29399	CP001966	Tsukamurella paurometabola DSM 20162, complete genome.	Yes	Actinobacteridae	Transcription regulator of the Arc/MetJ class- like protein	ADG79365
+fig|948102.18.peg.1096|UI24_08820!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.55%
+Cluster 551016
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	transcriptional regulator, AsnC family	ACY98936
+fig|948102.18.peg.2896|UI24_17540!!!Transcriptional!regulator,!AsnC!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.20%
+Cluster 318544
+29399	CP001966	Tsukamurella paurometabola DSM 20162, complete genome.	Yes	Actinobacteridae	short-chain dehydrogenase/reductase SDR	ADG76699
+fig|948102.18.peg.956|UI24_08130!!!Short-chain!dehydrogenase!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.46%
+Cluster 475501
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	acetolactate synthase, small subunit	ACU76605
+fig|948102.18.peg.2891|UI24_17515!!!Acetolactate!synthase!small!subunit!(EC!2.2.1.6)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.47%
+Cluster 429734
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ACC39432
+fig|948102.18.peg.3597|UI24_20940!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.93%
+Cluster 463537
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	phosphate-transport system transcriptional regulatory protein phoY2	ABR05179
+fig|948102.18.peg.2299|UI24_14630!!!Phosphate!transport!system!regulatory!protein!PhoU!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.54%
+Cluster 420778
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	transcriptional regulator, LysR family	ABN97589
+fig|948102.18.peg.3006|UI24_18090!!!Transcriptional!regulator,!LysR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	81.86%
+Cluster 472152
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	peptidyl-prolyl cis-trans isomerase, fkbp-type domain protein	ABK74951
+fig|948102.18.peg.1845|UI24_12415!!!putative!secreted!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.39%
+Cluster 669765
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative transcriptional regulator	BAD55182
+fig|948102.18.peg.5003|UI24_02130!!!Transcriptional!regulator,!WhiB!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.33%
+Cluster 434513
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS06357
+fig|948102.18.peg.133|UI24_04025!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.77%
+Cluster 50076
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Putative transmembrane efflux pump (multidrug resistance related protein)	CAJ62638
+fig|948102.18.peg.3893|UI24_22455!!!putative!membrane!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.15%
+Cluster 304005
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	ABC transporter, permease protein UspA	ABK73233
+fig|948102.18.peg.1156|UI24_09110!!!ABC!transporter,!permease!protein!1!(cluster!1,!maltose/g3p/polyamine/iron)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	75.69%
+Cluster 337755
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	imidazole glycerol phosphate synthase subunit hisF	ABK52841
+fig|948102.18.peg.2029|UI24_13320!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.82%
+Cluster 666052
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	Na+/H+ antiporter subunit	ABG06702
+fig|948102.18.peg.5259|UI24_03355!!!Na(+)!H(+)!antiporter!subunit!G!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.67%
+Cluster 619617
+20745	CP001854	Conexibacter woesei DSM 14684, complete genome.	No	Rubrobacteridae	transcriptional regulator, ArsR family	ADB49906
+fig|948102.18.peg.1670|UI24_11635!!!Transcriptional!regulator,!ArsR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.75%
+Cluster 221954
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved hypothetical transmembrane protein	ABL06818
+fig|948102.18.peg.1116|UI24_08915!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.87%
+Cluster 19281
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	Pon	AAS02381
+fig|948102.18.peg.4614|UI24_25805!!!Multimodular!transpeptidase-transglycosylase!(EC!2.4.1.129)!(EC!3.4.-.-)!=>!PonA1!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.08%
+Cluster 707332
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative WhiB-family transcriptional regulator	BAG21332
+fig|948102.18.peg.3304|UI24_19500!!!Sporulation!regulatory!protein!WhiB!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.62%
+Cluster 766992
+19227	CP000910	Renibacterium salmoninarum ATCC 33209, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ABY24441
+fig|948102.18.peg.3698!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	75.76%
+Cluster 669923
+31271	FM211192	Mycobacterium leprae Br4923, complete genome sequence.	Yes	Actinobacteridae	conserved hypothetical protein	CAR71111
+fig|948102.18.peg.2399|UI24_15135!!!Uncharacterized!protein!Rv2708c!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	76.62%
+Cluster 409245
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	histidine triad (HIT) protein	ABN98068
+fig|948102.18.peg.2285|UI24_14560!!!FIG049476:!HIT!family!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	76.37%
+Cluster 567650
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	LSU ribosomal protein L20P	ABK02873
+fig|948102.18.peg.1942|UI24_12885!!!LSU!ribosomal!protein!L20p!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	74.42%
+Cluster 439080
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved transmembrane protein	ABR05138
+fig|948102.18.peg.62|UI24_03670!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.50%
+Cluster 354032
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	Omt	AAS05764
+fig|948102.18.peg.947|UI24_08085!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	75.36%
+Cluster 194014
+223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Yes	Actinobacteridae	phosphate ABC transporter, phosphate-binding protein	AAK45202
+fig|948102.18.peg.5043|UI24_02315!!!Phosphate!ABC!transporter,!substrate-binding!protein!PstS!(TC!3.A.1.7.1)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	71.77%
+Cluster 483457
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK69062
+fig|948102.18.peg.1846|UI24_12420!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.13%
+Cluster 598242
+21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Yes	Actinobacteridae	conserved membrane protein	ACT26944
+fig|948102.18.peg.4792|UI24_01065!!!Decaprenyl-monophosphoryl-beta-D-arabinose!(DPA)!translocase!to!periplasm!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.69%
+Cluster 442139
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	HAD-superfamily hydrolase, subfamily IA, variant 1	ABG09453
+fig|948102.18.peg.1233|UI24_09495!!!Phosphoglycolate!phosphatase!(EC!3.1.3.18)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.19%
+Cluster 18813
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative glycogen debranching enzyme	BAC18820
+fig|948102.18.peg.2057|UI24_13455!!!Limit!dextrin!alpha-1,6-maltotetraose-hydrolase!(EC!3.2.1.196)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.44%
+Cluster 279327
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	glyoxylate reductase	ABK70809
+fig|948102.18.peg.4033|UI24_23155!!!D-3-phosphoglycerate!dehydrogenase!(EC!1.1.1.95)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.20%
+Cluster 443181
+20011	CP001341	Arthrobacter chlorophenolicus A6, complete genome.	No	Actinobacteridae	cytochrome c oxidase subunit III	ACL39920
+fig|948102.18.peg.1305|UI24_09860!!!Cytochrome!c!oxidase!polypeptide!III!(EC!1.9.3.1)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.22%
+Cluster 370366
+15771	CP000360	Candidatus Koribacter versatilis Ellin345, complete genome.	No	Candidatus Koribacter	protein of unknown function DUF899, thioredoxin-like protein	ABF40335
+fig|948102.18.peg.1349|UI24_10080!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.51%
+Cluster 740371
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	hypothetical protein	ABG10925
+fig|948102.18.peg.5006!!!Uncharacterized!protein!MSMEG_6192!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	86.79%
+Cluster 557315
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	NADH dehydrogenase I (chain a) NuoA (NADH- ubiquinone oxidoreductase chain a)	ACC39934
+fig|948102.18.peg.1450|UI24_10565!!!NADH!ubiquinone!oxidoreductase!chain!A!(EC!1.6.5.3)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.62%
+Cluster 207220
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	agmatinase	ABK02249
+fig|948102.18.peg.1547|UI24_11045!!!Guanidinobutyrase!(EC!3.5.3.7)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	76.73%
+Cluster 679877
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	thiamineS protein	ACV78087
+fig|948102.18.peg.904|UI24_07875!!!Sulfur/cysteine!carrier!protein!CysO!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.89%
+Cluster 428301
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	CMP/dCMP deaminase zinc-binding	ADL44342
+fig|948102.18.peg.3380|UI24_19880!!!Cytidine!deaminase!(EC!3.5.4.5)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.18%
+Cluster 47540
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	peptidase family protein M13	ABK67728
+fig|948102.18.peg.4276|UI24_24325!!!Metallopeptidase!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.67%
+Cluster 241541
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ACC41945
+fig|948102.18.peg.4005|UI24_23010!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.76%
+Cluster 447166
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK67711
+fig|948102.18.peg.1010!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.90%
+Cluster 723216
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	hypothetical protein	ACZ91098
+fig|948102.18.peg.3664|UI24_21290!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.04%
+Cluster 379844
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	protein of unknown function DUF81	ABG09032
+fig|948102.18.peg.3677|UI24_21350!!!Uncharacterized!UPF0721!integral!membrane!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.47%
+Cluster 472483
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAC71884
+fig|948102.18.peg.736|UI24_07020!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.37%
+Cluster 425808
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	50S ribosomal subunit protein L3	CAJ59746
+fig|948102.18.peg.3530|UI24_20605!!!LSU!ribosomal!protein!L3p!(L3e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.36%
+Cluster 463176
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR07596
+fig|948102.18.peg.3279|UI24_19385!!!Competence!protein!F!homolog,!phosphoribosyltransferase!domain;!protein!YhgH!required!for!utilization!of!DNA!as!sole!source!of!carbon!and!energy!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.35%
+Cluster 44754
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	urea amidolyase related protein	ACY23064
+fig|948102.18.peg.3789|UI24_21940!!!Urea!carboxylase!(EC!6.3.4.6)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.54%
+Cluster 77487
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	methyl-accepting chemotaxis protein	AAZ28822
+fig|948102.18.peg.2763!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.07%
+Cluster 205472
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK66817
+fig|948102.18.peg.3236|UI24_19180!!!FIG00820929:!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.53%
+Cluster 470324
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	CMP/dCMP deaminase zinc-binding	ADL49467
+fig|948102.18.peg.4868|UI24_01430!!!tRNA-specific!adenosine-34!deaminase!(EC!3.5.4.33)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.13%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|948102.18.peg.3558|UI24_20745!!!Translation!elongation!factor!Tu!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.49%
+Cluster 216169
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	MCE-family protein Mce6D	ACC38650
+fig|948102.18.peg.1131|UI24_08990!!!MCE-family!protein!MceD!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	71.27%
+Cluster 598265
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ACC41979
+fig|948102.18.peg.4376|UI24_24830!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	81.88%
+Cluster 292704
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	endoglucanase A	ABK75770
+fig|948102.18.peg.4571|UI24_25595!!!Endoglucanase!A!precursor!(EC!3.2.1.4)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.91%
+Cluster 492080
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABL04466
+fig|948102.18.peg.2835|UI24_17230!!!FIG01269488:!protein,!clustered!with!ribosomal!protein!L32p!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.46%
+Cluster 738507
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABL05560
+fig|948102.18.peg.2439|UI24_15335!!!Uncharacterized!membrane!protein!SCO5766!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	79.69%
+Cluster 430637
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	iron (metal) dependent repressor, DtxR family	ACY96427
+fig|948102.18.peg.2402|UI24_15150!!!Iron-dependent!repressor!IdeR/DtxR!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.28%
+Cluster 504556
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	iojap-like protein	ADB74326
+fig|948102.18.peg.1057|UI24_08630!!!Ribosomal!silencing!factor!RsfA!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.50%
+Cluster 737553
+29399	CP001966	Tsukamurella paurometabola DSM 20162, complete genome.	Yes	Actinobacteridae	CsbD family protein	ADG80640
+fig|948102.18.peg.659|UI24_06660!!!UPF0337!protein!SCO0678!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	78.26%
+Cluster 536315
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	N utilization substance protein NusB	ABL04246
+fig|948102.18.peg.2209|UI24_14195!!!Transcription!termination!protein!NusB!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.76%
+Cluster 121069
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	acyltransferase, ws/dgat/mgat subfamily protein	ABK68724
+fig|948102.18.peg.5124|UI24_02705!!!Diacyglycerol!O-acyltransferase!(EC!2.3.1.20)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	74.84%
+Cluster 195641
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	acyl-CoA dehydrogenase-like protein	ABG07412
+fig|948102.18.peg.3315|UI24_19550!!!Acyl-CoA!dehydrogenase!(EC!1.3.8.1),!Mycobacterial!subgroup!FadE25!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	88.37%
+Cluster 418910
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	lipoate-protein ligase B	ABG09422
+fig|948102.18.peg.1277|UI24_09715!!!Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase!(EC!2.3.1.181)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.65%
+Cluster 573
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	linear gramicidin synthetase subunit D	ABK70191
+fig|948102.18.peg.2885|UI24_17490!!!Polyketide!synthase!modules!and!related!proteins!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.83%
+fig|948102.18.peg.4474!!!Polyketide!synthase!modules!and!related!proteins!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.54%
+Cluster 379633
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK64514
+fig|948102.18.peg.3325|UI24_19605!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.51%
+Cluster 39442
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	dehydrogenase E1 component	ACQ82096
+fig|948102.18.peg.4630|UI24_25880!!!Branched-chain!alpha-keto!acid!dehydrogenase,!E1!component,!beta!subunit!(EC!1.2.4.4)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.74%
+Cluster 52033
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved transmembrane protein	ABR08151
+fig|948102.18.peg.4789|UI24_01050!!!Arabinofuranosyltransferase!AftA!(EC!2.4.2.46)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.38%
+Cluster 583333
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	two-component system response regulator	ACC39937
+fig|948102.18.peg.1449|UI24_10560!!!Putative!response!regulator!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.31%
+Cluster 745820
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	ribosomal protein L35	ABK75420
+fig|948102.18.peg.1943|UI24_12890!!!LSU!ribosomal!protein!L35p!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	78.12%
+Cluster 361525
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK68258
+fig|948102.18.peg.1229|UI24_09475!!!hypothetical!protein!Rv2237!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.93%
+Cluster 217474
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK64875
+fig|948102.18.peg.2841|UI24_17260!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	79.13%
+Cluster 647904
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK72634
+fig|948102.18.peg.3347|UI24_19720!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.49%
+Cluster 252915
+223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Yes	Actinobacteridae	carbon-nitrogen hydrolase family protein	AAK44721
+fig|948102.18.peg.3772|UI24_21855!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.36%
+Cluster 140115
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Myo-inositol-1-phosphate synthase	ADC85243
+fig|948102.18.peg.4620|UI24_25835!!!Inositol-1-phosphate!synthase!(EC!5.5.1.4)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.21%
+Cluster 555268
+18937	CP001645	Ralstonia pickettii 12D chromosome 2, complete sequence.	No	Betaproteobacteria	transcriptional regulator, HxlR family	ACS65252
+fig|948102.18.peg.3759|UI24_21795!!!Transcriptional!regulator,!HxlR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.06%
+Cluster 133835
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	glutamyl-tRNA reductase	ABK71005
+fig|948102.18.peg.3688|UI24_21405!!!Glutamyl-tRNA!reductase!(EC!1.2.1.70)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	76.30%
+Cluster 339807
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	short-chain dehydrogenase/reductase SDR	ABG07105
+fig|948102.18.peg.3553|UI24_20720!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.45%
+Cluster 226701
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	putative acyltransferase	ABK75432
+fig|948102.18.peg.995|UI24_08315!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.09%
+fig|948102.18.peg.3059|UI24_18335!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.88%
+Cluster 650264
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	LSU ribosomal protein L31P	ADC85534
+fig|948102.18.peg.866|UI24_07670!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-dependent!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.51%
+Cluster 140074
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK67690
+fig|948102.18.peg.3766|UI24_21825!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.84%
+Cluster 364390
+19575	CU234118	Bradyrhizobium sp. ORS278,complete sequence.	No	Alphaproteobacteria	putative 3-oxoacyl-[acyl-carrier-protein] reductase	CAL74996
+fig|948102.18.peg.1529|UI24_10955!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.24%
+Cluster 116158
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative formamidase	BAC19008
+fig|948102.18.peg.5215|UI24_03140!!!Formamidase!(EC!3.5.1.49)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.79%
+Cluster 171914
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	glycosyl transferase, family 2	ABP54584
+fig|948102.18.peg.343|UI24_05115!!!Glycosyl!transferase!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.17%
+Cluster 550344
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR04858
+fig|948102.18.peg.3691|UI24_21420!!!FIG00821901:!hypothetical!protein,!Rv0504c!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.29%
+Cluster 273174
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	nucleoside-diphosphate-sugar epimerase	ACC38634
+fig|948102.18.peg.1115|UI24_08910!!!NAD-dependent,!hopanoid-associated!epimerase/dehydratase!family!acting!on!nucleotide-sugars!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	74.85%
+Cluster 440280
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	thiamine-phosphate pyrophosphorylase	ABG06665
+fig|948102.18.peg.3917|UI24_22570!!!Thiamin-phosphate!pyrophosphorylase!(EC!2.5.1.3)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.09%
+Cluster 670824
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	Transglycosylase domain protein	ACY22569
+fig|948102.18.peg.1034|UI24_08515!!!Phage!tail!tape!measure!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.87%
+Cluster 451767
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	phosphate transport system regulatory protein PhoU	ACY23097
+fig|948102.18.peg.3130|UI24_18665!!!Phosphate!transport!system!regulatory!protein!PhoU!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.09%
+Cluster 496322
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	ferric uptake regulator, Fur family	ABG08789
+fig|948102.18.peg.1775|UI24_12075!!!Transcriptional!regulator,!Fur!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.15%
+Cluster 606295
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	Fe-S metabolism associated protein, SufE	ACC39710
+fig|948102.18.peg.3345|UI24_19710!!!Sulfur!acceptor!protein!=>!iron-sulfur!cluster!assembly!SufE!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	76.47%
+Cluster 506542
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	Endoribonuclease L-PSP	ABK04772
+fig|948102.18.peg.5007|UI24_02145!!!RidA/YER057c/UK114!superfamily,!group!1!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.06%
+Cluster 238219
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	Mce family protein, Mce5B	ACC42276
+fig|948102.18.peg.4311|UI24_24500!!!MCE-family!protein!MceB!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.53%
+Cluster 565419
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	Redoxin domain protein	ABK53454
+fig|948102.18.peg.945|UI24_08075!!!Thiol!peroxidase,!Bcp-type!(EC!1.11.1.15)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.42%
+Cluster 449783
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	SSU ribosomal protein S12P	ABG07098
+fig|948102.18.peg.3561|UI24_20760!!!SSU!ribosomal!protein!S12p!(S23e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	98.39%
+Cluster 46869
+29399	CP001966	Tsukamurella paurometabola DSM 20162, complete genome.	Yes	Actinobacteridae	YhgE/Pip C-terminal domain protein	ADG77073
+fig|948102.18.peg.4551|UI24_25495!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.59%
+Cluster 384941
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Thymidylate synthase (TSase)	CAJ64375
+fig|948102.18.peg.2477|UI24_15525!!!Thymidylate!synthase!ThyX!(EC!2.1.1.148)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.60%
+Cluster 228087
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	Ppx/GppA phosphatase	ABG06785
+fig|948102.18.peg.3712|UI24_21520!!!Exopolyphosphatase!(EC!3.6.1.11)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	85.40%
+Cluster 307389
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical membrane protein	ACC43323
+fig|948102.18.peg.57|UI24_03645!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.18%
+Cluster 143110
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	periplasmic sugar-binding lipoprotein uspC	ABR06670
+fig|948102.18.peg.1153|UI24_09095!!!ABC!transporter,!substrate-binding!protein!(cluster!1,!maltose/g3p/polyamine/iron)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.29%
+Cluster 647060
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	chorismate mutase	ACY20622
+fig|948102.18.peg.472|UI24_05750!!!Chorismate!mutase!I!(EC!5.4.99.5)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.00%
+Cluster 2494
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	non-ribosomal peptide synthetase	BAD55612
+fig|948102.18.peg.1437|UI24_10500!!!Peptide!synthetase!MbtF!@!Siderophore!biosynthesis!non-ribosomal!peptide!synthetase!modules!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.54%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|948102.18.peg.3526|UI24_20585!!!SSU!ribosomal!protein!S19p!(S15e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.97%
+Cluster 452399
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	single-strand binding protein	ACU69289
+fig|948102.18.peg.4611|UI24_25790!!!Single-stranded!DNA-binding!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.46%
+Cluster 230931
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	MCE-family protein Mce6B	ACC38648
+fig|948102.18.peg.1129|UI24_08980!!!MCE-family!protein!MceB!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.01%
+Cluster 578566
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK69459
+fig|948102.18.peg.1762|UI24_12010!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.33%
+Cluster 283591
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Lysine decarboxylase family protein	CAJ64724
+fig|948102.18.peg.775|UI24_07205!!!LOG!family!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.20%
+Cluster 559803
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK65292
+fig|948102.18.peg.3170|UI24_18850!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.08%
+Cluster 619542
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	putative regulatory protein, FmdB family	ABP53219
+fig|948102.18.peg.508|UI24_05915!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.95%
+Cluster 297219
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	NADH pyrophosphatase	ABK64530
+fig|948102.18.peg.3223|UI24_19115!!!NADH!pyrophosphatase!(EC!3.6.1.22),!decaps!5'-NAD!modified!RNA!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.19%
+Cluster 215147
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	Patatin	ABG09282
+fig|948102.18.peg.1361|UI24_10140!!!Patatin-like!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	86.22%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|948102.18.peg.3479|UI24_20355!!!SSU!ribosomal!protein!S11p!(S14e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.75%
+Cluster 535501
+12512	CP000476	Arthrobacter aurescens TC1 plasmid TC2, complete sequence.	No	Actinobacteridae	protein of unknown function (DUF779)	ABM10609
+fig|948102.18.peg.390|UI24_05345!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.94%
+Cluster 629906
+20835	CP001683	Saccharomonospora viridis DSM 43017, complete genome.	Yes	Actinobacteridae	transcriptional regulator, ArsR family	ACU96981
+fig|948102.18.peg.5052|UI24_02360!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.29%
+Cluster 49987
+19227	CP000910	Renibacterium salmoninarum ATCC 33209, complete genome.	No	Actinobacteridae	ATP-dependent RNA helicase	ABY22666
+fig|948102.18.peg.829|UI24_07475!!!DEAD-box!ATP-dependent!RNA!helicase!DeaD!(=!CshA)!(EC!3.6.4.13)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.59%
+Cluster 595772
+31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Yes	Actinobacteridae	hypothetical secreted protein	BAH25635
+fig|948102.18.peg.880|UI24_07740!!!Uncharacterized!protein!Rv1312!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.94%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|948102.18.peg.3517|UI24_20540!!!LSU!ribosomal!protein!L14p!(L23e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	92.62%
+Cluster 105021
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	AAA ATPase central domain protein	ACV79638
+fig|948102.18.peg.2228|UI24_14285!!!Replication-associated!recombination!protein!RarA!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.44%
+Cluster 410033
+27833	AP009152	Kocuria rhizophila DC2201 DNA, complete genome.	No	Actinobacteridae	imidazole glycerol phosphate synthase subunit HisH	BAG29919
+fig|948102.18.peg.2032|UI24_13335!!!Imidazole!glycerol!phosphate!synthase!amidotransferase!subunit!HisH!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.57%
+Cluster 332374
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	YrbE family protein, YrbE5A	ABL05896
+fig|948102.18.peg.1126|UI24_08965!!!Conserved!hypothetical!integral!membrane!protein!YrbEa!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	75.09%
+Cluster 736426
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABL03022
+fig|948102.18.peg.308!!!Uncharacterized!protein!MSMEG_5704!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.16%
+Cluster 177325
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	Radical SAM domain protein	ADB35004
+fig|948102.18.peg.2247|UI24_14380!!!Radical!SAM!domain!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.19%
+Cluster 702622
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK67347
+fig|948102.18.peg.1416|UI24_10395!!!Uncharacterized!protein!SCO1673!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.12%
+Cluster 323994
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	NifC-like ABC-type porter	ABK05122
+fig|948102.18.peg.1715|UI24_11860!!!Molybdenum!ABC!transporter!permease!protein!ModB!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.53%
+Cluster 323491
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	NADH dehydrogenase (ubiquinone), 24 kDa subunit	ABG07687
+fig|948102.18.peg.1454|UI24_10585!!!NADH-ubiquinone!oxidoreductase!chain!E!(EC!1.6.5.3)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.56%
+Cluster 108717
+29399	CP001966	Tsukamurella paurometabola DSM 20162, complete genome.	Yes	Actinobacteridae	permease for cytosine/purines uracil thiamine allantoin	ADG77478
+fig|948102.18.peg.2187|UI24_14085!!!Cytosine/purine/uracil/thiamine/allantoin!permease!family!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	71.64%
+Cluster 336063
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR05484
+fig|948102.18.peg.1028|UI24_08485!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.71%
+Cluster 175178
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	anthranilate phosphoribosyltransferase	ABK66772
+fig|948102.18.peg.1306|UI24_09865!!!Anthranilate!phosphoribosyltransferase!(EC!2.4.2.18)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	75.49%
+Cluster 88078
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	mce related protein	ABK68530
+fig|948102.18.peg.422|UI24_05505!!!MCE-family!protein!MceA!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.90%
+fig|948102.18.peg.4256|UI24_24230!!!MCE-family!protein!MceA!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.82%
+fig|948102.18.peg.4312|UI24_24505!!!MCE-family!protein!MceA!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.37%
+Cluster 68587
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical transport protein	ACC42533
+fig|948102.18.peg.1633|UI24_11465!!!Potassium!channel!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.67%
+Cluster 463330
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	putative transcriptional regulator	CAJ63462
+fig|948102.18.peg.2576|UI24_15990!!!Transcriptional!regulator!SCO1200,!Xre-family!with!cupin!domain!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.17%
+Cluster 693187
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK69788
+fig|948102.18.peg.1858|UI24_12470!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.15%
+Cluster 526693
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	tRNA/rRNA methyltransferase (SpoU)	ABG07298
+fig|948102.18.peg.3411|UI24_20020!!!tRNA!(cytidine(34)-2'-O)-methyltransferase!(EC!2.1.1.207)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	74.51%
+Cluster 361628
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	class II aldolase/adducin family protein	ACU74846
+fig|948102.18.peg.2330|UI24_14795!!!Ribulose-5-phosphate!4-epimerase!and!related!epimerases!and!aldolases!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.84%
+Cluster 190338
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	hypothetical 5'-3' exonuclease	ABR06456
+fig|948102.18.peg.1512|UI24_10870!!!DNA!polymerase!I!5'-3'!exonuclease!domain!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.27%
+Cluster 527722
+223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	AAK47069
+fig|948102.18.peg.2362|UI24_14955!!!Uncharacterized!protein!Q1!colocalized!with!Q!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	82.02%
+Cluster 313351
+18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Yes	Actinobacteridae	hexapeptide transferase family protein	ABQ74848
+fig|948102.18.peg.2974|UI24_17930!!!Galactoside!O-acetyltransferase!(EC!2.3.1.18)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	79.52%
+Cluster 568241
+21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ACT24330
+fig|948102.18.peg.2371|UI24_15000!!!OB-fold!nucleic!acid!binding!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.17%
+Cluster 88588
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	putative ATPase	ABM10035
+fig|948102.18.peg.656|UI24_06645!!!Predicted!ATPase!related!to!phosphate!starvation-inducible!protein!PhoH!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	71.43%
+Cluster 606813
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	transcriptional regulator, ArsR family	ABN97286
+fig|948102.18.peg.1605|UI24_11330!!!Transcriptional!regulator,!ArsR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.20%
+Cluster 486642
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative molybdopterin biosynthesis protein	BAG21128
+fig|948102.18.peg.310|UI24_04950!!!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.40%
+Cluster 715555
+27833	AP009152	Kocuria rhizophila DC2201 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAG29410
+fig|948102.18.peg.2670|UI24_16420!!!KH!domain!RNA!binding!protein!YlqC!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.25%
+Cluster 115695
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	2-oxoglutarate dehydrogenase E2 component	ABK52708
+fig|948102.18.peg.1280!!!Dihydrolipoamide!acetyltransferase!component!of!pyruvate!dehydrogenase!complex!(EC!2.3.1.12)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.81%
+Cluster 601621
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	transcriptional repressor, CopY family	ABO00250
+fig|948102.18.peg.5058|UI24_02380!!!Transcriptional!regulator,!MecI!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	77.95%
+Cluster 515438
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative sugar-phosphate isomerase	CBG73001
+fig|948102.18.peg.1014|UI24_08405!!!Ribose-5-phosphate!isomerase!B!(EC!5.3.1.6)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.64%
+Cluster 145845
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	P450 heme-thiolate protein	ABK65654
+fig|948102.18.peg.3703|UI24_21475!!!Putative!cytochrome!P450!hydroxylase!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.74%
+Cluster 240012
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	30S ribosomal protein S3	CAJ59752
+fig|948102.18.peg.3524|UI24_20575!!!SSU!ribosomal!protein!S3p!(S3e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.72%
+Cluster 210098
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	O-acyl transferase	ABK71245
+fig|948102.18.peg.1823|UI24_12315!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.57%
+Cluster 188346
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	ABP53684
+fig|948102.18.peg.2929|UI24_17705!!!tRNA-specific!2-thiouridylase!MnmA!(EC!2.8.1.13)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.38%
+Cluster 300110
+20745	CP001854	Conexibacter woesei DSM 14684, complete genome.	No	Rubrobacteridae	Alcohol dehydrogenase GroES domain protein	ADB51748
+fig|948102.18.peg.126|UI24_03985!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.71%
+Cluster 137504
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	putative cytochrome P450 135B1	ABK70280
+fig|948102.18.peg.853|UI24_07605!!!Cytochrome!P450!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.18%
+Cluster 657992
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	phosphoribosyl-ATP pyrophosphatase	ABK03073
+fig|948102.18.peg.1447|UI24_10550!!!Phosphoribosyl-ATP!pyrophosphatase!(EC!3.6.1.31)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.44%
+Cluster 320492
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK68451
+fig|948102.18.peg.2928|UI24_17700!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.16%
+Cluster 268879
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	LmbE family protein	ABK53658
+fig|948102.18.peg.627|UI24_06495!!!Mycothiol!S-conjugate!amidase!Mca!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.63%
+Cluster 158939
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	conserved hypothetical protein	BAC17023
+fig|948102.18.peg.4918|UI24_01695!!!proposed!amino!acid!ligase!found!clustered!with!an!amidotransferase!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.41%
+Cluster 209734
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS06267
+fig|948102.18.peg.4032|UI24_23150!!!hypothetical!protein!Rv0272c!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	74.26%
+Cluster 25032
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	NADH-quinone oxidoreductase, chain G	ACY99939
+fig|948102.18.peg.1456|UI24_10595!!!NADH-ubiquinone!oxidoreductase!chain!G!(EC!1.6.5.3)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.73%
+Cluster 236166
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative enoyl-CoA hydratase/isomerase family protein	BAD58083
+fig|948102.18.peg.3569|UI24_20800!!!Enoyl-CoA!hydratase!EchA4!(EC!4.2.1.17)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.78%
+Cluster 87485
+212	AE016822	Leifsonia xyli subsp. xyli str. CTCB07, complete genome.	No	Actinobacteridae	ATP-dependent RNA helicase	AAT89778
+fig|948102.18.peg.1474|UI24_10685!!!ATP-dependent!RNA!helicase!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.67%
+Cluster 434040
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR05327
+fig|948102.18.peg.489|UI24_05830!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.50%
+Cluster 30446
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	Polyphosphate kinase	ADL44896
+fig|948102.18.peg.2864|UI24_17375!!!Polyphosphate!kinase!(EC!2.7.4.1)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.23%
+Cluster 368000
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	Fmt protein	ABK70254
+fig|948102.18.peg.3803|UI24_22015!!!Fatty-acid!O-methyltransferase!(EC!2.1.1.15)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.80%
+Cluster 566627
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	integral membrane protein	ABK74653
+fig|948102.18.peg.1269|UI24_09675!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.04%
+Cluster 172318
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS04172
+fig|948102.18.peg.4252|UI24_24210!!!MCE-family!lipoprotein!MceE!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.09%
+Cluster 429209
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative NADH dehydrogenase chain I	BAG19805
+fig|948102.18.peg.1458|UI24_10605!!!NADH-ubiquinone!oxidoreductase!chain!I!(EC!1.6.5.3)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.69%
+Cluster 390305
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR06069
+fig|948102.18.peg.1894|UI24_12635!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.70%
+Cluster 256864
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	hypothetical protein	ABG09281
+fig|948102.18.peg.1362|UI24_10145!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	93.18%
+Cluster 404676
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved protein	ABL06815
+fig|948102.18.peg.1119|UI24_08930!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.53%
+Cluster 702248
+13423	CP000359	Deinococcus geothermalis DSM 11300, complete genome.	No	Deinococci	cold-shock DNA-binding domain protein	ABF45306
+fig|948102.18.peg.5105|UI24_02605!!!Cold!shock!protein!of!CSP!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.19%
+Cluster 482895
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	phosphoglycerate mutase family protein	ABK72021
+fig|948102.18.peg.3256|UI24_19270!!!Fructose-1,6-bisphosphatase,!Mycobacterial!type!SUP1!(EC!3.1.3.11);!Sugar!phosphatase!SUP1!(EC!3.1.3.23)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.80%
+Cluster 103338
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	arsenic-transport integral membrane protein arsC	ABR06988
+fig|948102.18.peg.5047|UI24_02335!!!Arsenical-resistance!protein!ACR3!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	84.00%
+fig|948102.18.peg.1831|UI24_12350!!!Arsenical-resistance!protein!ACR3!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	84.24%
+Cluster 402561
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS06247
+fig|948102.18.peg.4161|UI24_23790!!!Succinate!dehydrogenase!iron-sulfur!protein!(EC!1.3.5.1)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	83.06%
+Cluster 676726
+29399	CP001966	Tsukamurella paurometabola DSM 20162, complete genome.	Yes	Actinobacteridae	Transglycosylase-associated protein	ADG80286
+fig|948102.18.peg.2661|UI24_16370!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.34%
+Cluster 640197
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	glyoxalase/bleomycin resistance protein/dioxygenase	ACZ87018
+fig|948102.18.peg.1258|UI24_09620!!!FIG00511731:!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	95.90%
+Cluster 192369
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative cation efflux system protein	BAC74754
+fig|948102.18.peg.1606|UI24_11335!!!Cobalt/zinc/cadmium!resistance!protein!CzcD!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.71%
+Cluster 628014
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	HNH nuclease	ABG09713
+fig|948102.18.peg.778|UI24_07220!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.09%
+Cluster 248599
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	IunH	AAS06034
+fig|948102.18.peg.3421|UI24_20070!!!Inosine-uridine!preferring!nucleoside!hydrolase!(EC!3.2.2.1)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.39%
+Cluster 66238
+13953	CP000571	Burkholderia pseudomallei 668 chromosome II, complete sequence.	Yes	Betaproteobacteria	pyridine nucleotide-disulfide oxidoreductase	ABN87480
+fig|948102.18.peg.2387|UI24_15080!!!PF00070!family,!FAD-dependent!NAD(P)-disulphide!oxidoreductase!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.92%
+Cluster 14253
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	1,4-alpha-glucan branching enzyme	ADB76668
+fig|948102.18.peg.892|UI24_07815!!!1,4-alpha-glucan!(glycogen)!branching!enzyme,!GH-13-type!(EC!2.4.1.18)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.14%
+Cluster 100212
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 1-deoxy-D-xylulose 5-phosphate reductoisomerase	BAC18715
+fig|948102.18.peg.2571|UI24_15965!!!1-deoxy-D-xylulose!5-phosphate!reductoisomerase!(EC!1.1.1.267)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.15%
+Cluster 203396
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	putative acyltransferase	ABK66048
+fig|948102.18.peg.3810|UI24_22050!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.36%
+Cluster 65951
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical membrane protein	ACC41971
+fig|948102.18.peg.2900|UI24_17560!!!Uncharacterized!amino!acid!permease,!GabP!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	74.29%
+Cluster 403064
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS02808
+fig|948102.18.peg.5206|UI24_03100!!!Transcriptional!regulator!KstR,!TetR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.44%
+Cluster 263232
+20737	CP001874	Thermobispora bispora DSM 43833, complete genome.	No	Actinobacteridae	Acyl dehydratase-like protein	ADG88329
+fig|948102.18.peg.4053!!!2-methylfumaryl-CoA!hydratase!(EC!4.2.1.148)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.09%
+Cluster 73283
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	cell division protein FtsW	ABK69702
+fig|948102.18.peg.1341|UI24_10040!!!Peptidoglycan!glycosyltransferase!FtsW!(EC!2.4.1.129)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.17%
+Cluster 154877
+18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Yes	Actinobacteridae	putative conserved transmembrane protein	ABQ71929
+fig|948102.18.peg.4264|UI24_24270!!!FIG01121868:!Possible!membrane!protein,!Rv0204c!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.33%
+Cluster 72937
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	exodeoxyribonuclease V, alpha subunit	ABK65724
+fig|948102.18.peg.4988|UI24_02050!!!Exodeoxyribonuclease!V!alpha!chain!(EC!3.1.11.5)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.86%
+Cluster 31516
+20095	CP001359	Anaeromyxobacter dehalogenans 2CP-1, complete genome.	No	Deltaproteobacteria	protein of unknown function DUF1355	ACL66076
+fig|948102.18.peg.4728!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.50%
+Cluster 623011
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	protein of unknown function UPF0060	ABN98334
+fig|948102.18.peg.1608|UI24_11345!!!Protein!of!unknown!function!UPF0060!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	77.48%
+Cluster 271938
+19707	CP001964	Cellulomonas flavigena DSM 20109, complete genome.	No	Actinobacteridae	ribosomal protein S2	ADG74382
+fig|948102.18.peg.2596|UI24_16085!!!SSU!ribosomal!protein!S2p!(SAe)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.76%
+Cluster 306691
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABL06430
+fig|948102.18.peg.2944|UI24_17780!!!TesB-like!acyl-CoA!thioesterase!3!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.32%
+Cluster 162637
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	mce related protein	ABK68272
+fig|948102.18.peg.417|UI24_05480!!!MCE-family!protein!MceF!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.95%
+fig|948102.18.peg.4251|UI24_24205!!!MCE-family!protein!MceF!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.27%
+fig|948102.18.peg.4307|UI24_24480!!!MCE-family!protein!MceF!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.91%
+Cluster 336402
+16081	CP000518	Mycobacterium sp. KMS, complete genome.	No	Actinobacteridae	transcriptional regulator, IclR family	ABL89542
+fig|948102.18.peg.4451|UI24_00390!!!Transcriptional!regulator,!IclR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.89%
+Cluster 617383
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	iron-sulfur cluster assembly accessory protein	ABK52727
+fig|948102.18.peg.1292|UI24_09795!!!Iron-sulfur!cluster!insertion!protein!SCO2161!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.36%
+Cluster 556548
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK70467
+fig|948102.18.peg.4615|UI24_25810!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	78.85%
+Cluster 286713
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	DHH family protein	ABK67992
+fig|948102.18.peg.2523|UI24_15745!!!Cyclic-di-AMP!phosphodiesterase!MSMEG_2630!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.99%
+Cluster 492283
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	riboflavin biosynthesis protein RibD	ACQ80073
+fig|948102.18.peg.3106!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.18%
+Cluster 620328
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAC68610
+fig|948102.18.peg.696|UI24_06840!!!FIG00822364:!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.36%
+Cluster 125530
+15753	CP000697	Acidiphilium cryptum JF-5, complete genome.	No	Alphaproteobacteria	isocitrate lyase	ABQ30709
+fig|948102.18.peg.3793|UI24_21960!!!Isocitrate!lyase!(EC!4.1.3.1)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.65%
+Cluster 291797
+12636	XXX	Chromohalobacter salexigens DSM 3043	No	Gammaproteobacteria	XXX	
+fig|948102.18.peg.2317|UI24_14730!!!Uricase!(urate!oxidase)!(EC!1.7.3.3)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.61%
+Cluster 157167
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	aminotransferase, class V	ABP53683
+fig|948102.18.peg.2930|UI24_17710!!!Cysteine!desulfurase!(EC!2.8.1.7)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.13%
+Cluster 10567
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	ribonuclease, Rne/Rng family protein	ABK75182
+fig|948102.18.peg.1044|UI24_08565!!!Ribonuclease!E!(EC!3.1.26.12)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.29%
+Cluster 698114
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK67499
+fig|948102.18.peg.3185|UI24_18925!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.87%
+Cluster 450348
+17109	CP000850	Salinispora arenicola CNS-205, complete genome.	No	Actinobacteridae	riboflavin synthase, alpha subunit	ABV97753
+fig|948102.18.peg.2169|UI24_13995!!!Riboflavin!synthase!eubacterial/eukaryotic!(EC!2.5.1.9)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.01%
+Cluster 1540
+283	AE007869	Agrobacterium tumefaciens str. C58 circular chromosome, complete sequence.	No	Alphaproteobacteria	glutamate synthase large subunit	AAK85965
+fig|948102.18.peg.1786|UI24_12130!!!Glutamate!synthase![NADPH]!large!chain!(EC!1.4.1.13)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.71%
+Cluster 616695
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	hypothetical protein	ABG10696
+fig|948102.18.peg.45|UI24_03585!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	74.63%
+Cluster 423061
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR05952
+fig|948102.18.peg.2041|UI24_13380!!!Nudix-related!transcriptional!regulator!NrtR!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	75.74%
+Cluster 345911
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	precorrin-4 C11-methyltransferase	ACL57140
+fig|948102.18.peg.1517|UI24_10895!!!Precorrin-4!C(11)-methyltransferase!(EC!2.1.1.133)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.56%
+Cluster 444536
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	hypothetical protein	ABR04432
+fig|948102.18.peg.4037|UI24_23175!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.88%
+Cluster 270167
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	Cobyrinic acid a,c-diamide synthase	ABN97225
+fig|948102.18.peg.3255|UI24_19265!!!ParA-like!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.50%
+Cluster 377801
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	Rmt3 protein	ABK71204
+fig|948102.18.peg.3805|UI24_22025!!!SAM-dependent!methyltransferase!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	81.68%
+Cluster 230290
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	MCE-family protein mce4C	ABR07856
+fig|948102.18.peg.3853|UI24_22255!!!MCE-family!protein!MceC!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.35%
+Cluster 535722
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	50S ribosomal protein L32 rpmF	ABR05340
+fig|948102.18.peg.496|UI24_05865!!!LSU!ribosomal!protein!L32p!@!LSU!ribosomal!protein!L32p,!zinc-independent!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	82.46%
+Cluster 334829
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	triosephosphate isomerase	ADB74736
+fig|948102.18.peg.2146|UI24_13885!!!Triosephosphate!isomerase!(EC!5.3.1.1)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.92%
+Cluster 169298
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	MCE-family protein Mce6F	ACC38652
+fig|948102.18.peg.1133|UI24_09000!!!MCE-family!protein!MceF!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.17%
+Cluster 419210
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	bacterial translation initiation factor 3 (bIF-3)	ABG09088
+fig|948102.18.peg.1944|UI24_12895!!!Translation!initiation!factor!3!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	84.43%
+Cluster 9124
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	preprotein translocase, SecA subunit	ADB76839
+fig|948102.18.peg.3275|UI24_19365!!!Protein!translocase!subunit!SecA!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.09%
+Cluster 124376
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	Na+/H+ antiporter NhaA	ADB75538
+fig|948102.18.peg.2365|UI24_14970!!!Na+/H+!antiporter!NhaA!type!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.67%
+Cluster 183470
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	tRNA (guanine-N1)-methyltransferase	ADB33776
+fig|948102.18.peg.2668|UI24_16410!!!tRNA!(guanine(37)-N(1))-methyltransferase!(EC!2.1.1.228)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.22%
+Cluster 4670
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	carbamoyl phosphate synthase, pyrimidin specific large subunit	CAJ63867
+fig|948102.18.peg.2200|UI24_14150!!!Carbamoyl-phosphate!synthase!large!chain!(EC!6.3.5.5)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.52%
+Cluster 27966
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	recombinase A recA	ABR07077
+fig|948102.18.peg.2435|UI24_15315!!!RecA!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	71.10%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|948102.18.peg.3481|UI24_20365!!!Translation!initiation!factor!1!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	79.35%
+Cluster 326497
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	DNA-binding protein	ABK73962
+fig|948102.18.peg.1061|UI24_08650!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.00%
+Cluster 276438
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	cell cycle protein mesJ	ABR07981
+fig|948102.18.peg.5138|UI24_02775!!!tRNA(Ile)-lysidine!synthetase!(EC!6.3.4.19)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.24%
+Cluster 476103
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	hypothetical transcriptional regulatory protein	ABR04620
+fig|948102.18.peg.4031|UI24_23145!!!Transcriptional!regulator,!AcrR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.05%
+Cluster 586019
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	conserved hypothetical protein; putative ''Winged helix'' DNA-binding and cytochrome C domains	CAJ60169
+fig|948102.18.peg.3076|UI24_18415!!!Transcriptional!regulator,!HxlR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.83%
+Cluster 224660
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	Cobyrinic acid ac-diamide synthase	ABS04602
+fig|948102.18.peg.1897|UI24_12650!!!ParA-like!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.48%
+Cluster 320617
+31271	FM211192	Mycobacterium leprae Br4923, complete genome sequence.	Yes	Actinobacteridae	Mycolic acid synthase	CAR72558
+fig|948102.18.peg.3590|UI24_20905!!!Cyclopropane-fatty-acyl-phospholipid!synthase!1,!CmaA1!(EC!2.1.1.79)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.64%
+Cluster 305646
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	bacterial proteasome, beta component. Threonine peptidase. MEROPS family T01B	ABG09237
+fig|948102.18.peg.1492|UI24_10770!!!Proteasome!subunit!beta!(EC!3.4.25.1),!bacterial!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.01%
+Cluster 627082
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR07047
+fig|948102.18.peg.2396!!!Glutathione!S-transferase!domain!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.32%
+Cluster 142713
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	fatty acid desaturase	ACY22808
+fig|948102.18.peg.3270|UI24_19340!!!Linoleoyl-CoA!desaturase!(EC!1.14.19.3)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.22%
+Cluster 114411
+31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Yes	Actinobacteridae	para-aminobenzoate synthase component I	BAH25325
+fig|948102.18.peg.536|UI24_06045!!!Para-aminobenzoate!synthase,!aminase!component!(EC!2.6.1.85)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.00%
+Cluster 646897
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	hypothetical protein	ACY20849
+fig|948102.18.peg.1024|UI24_08465!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.00%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|948102.18.peg.3606|UI24_20980!!!LSU!ribosomal!protein!L11p!(L12e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	86.01%
+Cluster 448762
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	integral membrane protein	ABK76008
+fig|948102.18.peg.1604|UI24_11325!!!Integral!membrane!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	79.23%
+Cluster 402914
+223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAK47222
+fig|948102.18.peg.2515|UI24_15705!!!COGs!COG0840!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	75.28%
+Cluster 104996
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	cell division protein FtsZ	ACY98465
+fig|948102.18.peg.1345|UI24_10060!!!Cell!division!protein!FtsZ!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	71.95%
+Cluster 225392
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical transmembrane protein	ACC38632
+fig|948102.18.peg.1113|UI24_08900!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	78.06%
+Cluster 120712
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	aminotransferase class-III	ABS05541
+fig|948102.18.peg.2895|UI24_17535!!!Omega-amino!acid--pyruvate!aminotransferase!(EC!2.6.1.18)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.50%
+Cluster 441850
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	transcriptional regulator, Fis family	ABO01541
+fig|948102.18.peg.4651|UI24_25980!!!RNA!polymerase!ECF-type!sigma!factor!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.89%
+Cluster 383648
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative uridylate kinase	BAG18690
+fig|948102.18.peg.2588|UI24_16050!!!Uridylate!kinase!(EC!2.7.4.22)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.44%
+Cluster 472404
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	Methylated DNA-protein cysteine methyltransferase-like protein	ACZ87322
+fig|948102.18.peg.4547|UI24_25475!!!Methylated-DNA--protein-cysteine!methyltransferase!(EC!2.1.1.63)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.33%
+Cluster 585866
+31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Yes	Actinobacteridae	putative membrane protein	BAH25871
+fig|948102.18.peg.1648|UI24_11540!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.84%
+Cluster 349887
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	Uroporphyrin-III C/tetrapyrrole (Corrin/Porphyrin) methyltransferase	ABO00418
+fig|948102.18.peg.535|UI24_06040!!!16S!rRNA!(cytidine(1402)-2'-O)-methyltransferase!(EC!2.1.1.198)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.87%
+Cluster 295469
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	RNA polymerase sigma factor sigC	ABR06435
+fig|948102.18.peg.3044|UI24_18265!!!RNA!polymerase!ECF-type!sigma!factor!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.30%
+Cluster 403604
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	channel protein, hemolysin III family	ABG10243
+fig|948102.18.peg.632|UI24_06520!!!FIG01964566:!Predicted!membrane!protein,!hemolysin!III!homolog!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.96%
+Cluster 19913
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS04731
+fig|948102.18.peg.1579|UI24_11205!!!Iron!siderophore!ABC!transporter,!permease/ATP-binding!protein!IrtA!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.36%
+Cluster 51828
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	Cytochrome-c oxidase	ABP53565
+fig|948102.18.peg.461|UI24_05695!!!Cytochrome!c!oxidase!polypeptide!I!(EC!1.9.3.1)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.22%
+fig|948102.18.peg.2985|UI24_17985!!!Cytochrome!c!oxidase!polypeptide!I!(EC!1.9.3.1)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.27%
+Cluster 401113
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	transcriptional regulator, PadR-like family	ACV81646
+fig|948102.18.peg.4619|UI24_25830!!!Transcriptional!regulator,!PadR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.96%
+Cluster 261673
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	thioredoxin reductase	ABG11502
+fig|948102.18.peg.4653|UI24_25990!!!Thioredoxin!reductase!(EC!1.8.1.9)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	75.08%
+Cluster 586833
+17026	CP001643	Brachybacterium faecium DSM 4810 strain 6-10, complete genome.	No	Actinobacteridae	transcriptional regulator, ArsR family	ACU86778
+fig|948102.18.peg.3572|UI24_20815!!!Transcriptional!regulator,!ArsR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.25%
+Cluster 299873
+12512	CP000475	Arthrobacter aurescens TC1 plasmid TC1, complete sequence.	No	Actinobacteridae	putative Membrane protein, TerC-family	ABM10340
+fig|948102.18.peg.4191|UI24_23935!!!UPF0053!inner!membrane!protein!YgdQ!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.09%
+Cluster 163338
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	Glycosyltransferase family protein 28	ABK68526
+fig|948102.18.peg.3804|UI24_22020!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.43%
+Cluster 212750
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	glutamate racemase	ABM07236
+fig|948102.18.peg.907|UI24_07890!!!Glutamate!racemase!(EC!5.1.1.3)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.02%
+Cluster 406267
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR07166
+fig|948102.18.peg.1790|UI24_12150!!!Uncharacterized!protein!MSMEG_2643!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.33%
+Cluster 588082
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	MmpS4 protein	ABK76187
+fig|948102.18.peg.4013|UI24_23050!!!Membrane!protein,!MmpS!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.43%
+Cluster 470379
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	transcriptional regulator, MerR family protein	ABK68131
+fig|948102.18.peg.1689|UI24_11730!!!Uncharacterized!HTH-type!transcriptional!regulator!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	86.06%
+Cluster 688606
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	phosphoribosylformylglycinamidine synthase, purS	ACQ81834
+fig|948102.18.peg.72|UI24_03715!!!Phosphoribosylformylglycinamidine!synthase,!PurS!subunit!(EC!6.3.5.3)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.29%
+Cluster 328982
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	hypothetical glycosyl hydrolase	ABR05460
+fig|948102.18.peg.5063|UI24_02400!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.93%
+fig|948102.18.peg.657|UI24_06650!!!Possible!glycosyl!hydrolase!(EC!3.-.-.-)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.70%
+Cluster 591605
+29405	CP001727	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446, complete genome.	No	Bacillales	ribosomal protein L16	ACV59708
+fig|948102.18.peg.3523|UI24_20570!!!LSU!ribosomal!protein!L16p!(L10e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.94%
+Cluster 685481
+29147	AP008955	Brevibacillus brevis NBRC 100599 DNA, complete genome.	No	Bacillales	hypothetical protein	BAH41296
+fig|948102.18.peg.4545|UI24_25465!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.36%
+Cluster 282196
+29399	CP001966	Tsukamurella paurometabola DSM 20162, complete genome.	Yes	Actinobacteridae	Cyclopropane-fatty-acyl-phospholipid synthase	ADG76690
+fig|948102.18.peg.3014|UI24_18130!!!Methoxy!mycolic!acid!synthase!MmaA4!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.94%
+Cluster 553567
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	ribosomal protein S13p/S18e	ABM09763
+fig|948102.18.peg.3480|UI24_20360!!!SSU!ribosomal!protein!S13p!(S18e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	77.42%
+Cluster 521243
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS06270
+fig|948102.18.peg.1756|UI24_11980!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.64%
+Cluster 445434
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	ribosomal protein S5	ABM09869
+fig|948102.18.peg.3503|UI24_20475!!!SSU!ribosomal!protein!S5p!(S2e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.18%
+Cluster 666527
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS04940
+fig|948102.18.peg.742|UI24_07050!!!Pterin-4-alpha-carbinolamine!dehydratase!(EC!4.2.1.96)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.09%
+Cluster 411308
+12460	AE017283	Propionibacterium acnes KPA171202, complete genome.	Yes	Actinobacteridae	50S ribosomal protein L10	AAT83609
+fig|948102.18.peg.3586|UI24_20885!!!LSU!ribosomal!protein!L10p!(P0)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.93%
+Cluster 132508
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	dTDP-glucose 4,6-dehydratase	ADH01295
+fig|948102.18.peg.3487|UI24_20395!!!dTDP-glucose!4,6-dehydratase!(EC!4.2.1.46)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.65%
+Cluster 296850
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	LysR substrate-binding protein	ACY19783
+fig|948102.18.peg.51|UI24_03615!!!Transcriptional!regulator,!LysR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.27%
+Cluster 29274
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	metal cation transporter p-type ATPase	ACC40589
+fig|948102.18.peg.5051|UI24_02355!!!Lead,!cadmium,!zinc!and!mercury!transporting!ATPase!(EC!3.6.3.3)!(EC!3.6.3.5);!Copper-translocating!P-type!ATPase!(EC!3.6.3.4)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.13%
+Cluster 286916
+13967	CR931997	Corynebacterium jeikeium K411 complete genome.	Yes	Actinobacteridae	NAD-synthetase	CAI36631
+fig|948102.18.peg.3033|UI24_18210!!!NAD!synthetase!(EC!6.3.1.5)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.00%
+Cluster 8136
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	putative DNA polymerase III (ALPHA CHAIN) DNAE2 (DNA NUCLEOTIDYLTRANSFERASE)	CAJ60829
+fig|948102.18.peg.3412|UI24_20025!!!Error-prone!repair!homolog!of!DNA!polymerase!III!alpha!subunit!(EC!2.7.7.7)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.07%
+Cluster 661055
+27833	AP009152	Kocuria rhizophila DC2201 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAG30453
+fig|948102.18.peg.1806|UI24_12230!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.91%
+Cluster 278584
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved protein	ABL04698
+fig|948102.18.peg.1506|UI24_10840!!!FIG019733:!possible!DNA-binding!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.61%
+Cluster 652073
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	putative transcriptional regulator, ArsR family	ADB30662
+fig|948102.18.peg.1350|UI24_10085!!!Transcriptional!regulator,!ArsR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.06%
+Cluster 556653
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	Mov34/MPN/PAD-1 family protein	ABP53571
+fig|948102.18.peg.903|UI24_07870!!!CysO-cysteine!peptidase!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.80%
+Cluster 496664
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS03331
+fig|948102.18.peg.607|UI24_06395!!!Cysteine!dioxygenase!(EC!1.13.11.20)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.47%
+Cluster 317809
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	MutT/nudix family protein	ABK75817
+fig|948102.18.peg.4648|UI24_25965!!!Diadenosine!hexaphosphate!(Ap6A)!hydrolase;!Bis(5'-nucleosyl)-tetraphosphatase!(Ap4A)!(Asymmetrical)!(EC!3.6.1.17)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.67%
+Cluster 647059
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABL04647
+fig|948102.18.peg.1537|UI24_10995!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	77.98%
+Cluster 546927
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ADB73431
+fig|948102.18.peg.5197|UI24_03055!!!2-C-methyl-D-erythritol!2,4-cyclodiphosphate!synthase!(EC!4.6.1.12)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.09%
+Cluster 570017
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved membrane protein MmpS4	ABL04742
+fig|948102.18.peg.548|UI24_06100!!!Membrane!protein!MmpS4!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.31%
+fig|948102.18.peg.1965|UI24_12995!!!Membrane!protein!MmpS4!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.31%
+Cluster 324614
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	morphological differentiation-associated protein	ABK71449
+fig|948102.18.peg.5025|UI24_02235!!!Phosphoserine!phosphatase!(EC!3.1.3.3)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	78.16%
+Cluster 228877
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	Mce1B	AAS02426
+fig|948102.18.peg.421|UI24_05500!!!MCE-family!protein!MceB!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.76%
+fig|948102.18.peg.4255|UI24_24225!!!MCE-family!protein!MceB!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.79%
+Cluster 715725
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	ferredoxin FdxD	ACC43395
+fig|948102.18.peg.3859|UI24_22285!!!Ferredoxin!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.25%
+Cluster 292345
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved protein	ACC41608
+fig|948102.18.peg.2324|UI24_14765!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	75.64%
+Cluster 13200
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved transmembrane transport protein MmpL family	ACC43379
+fig|948102.18.peg.950|UI24_08100!!!Transmembrane!transport!protein!MmpL!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.43%
+Cluster 381510
+12738	CP000509	Nocardioides sp. JS614, complete genome.	No	Actinobacteridae	LSU ribosomal protein L1P	ABL80222
+fig|948102.18.peg.3605|UI24_20975!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	73.19%
+Cluster 480065
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	conserved hypothetical protein	BAG21270
+fig|948102.18.peg.584|UI24_06275!!!FIG004853:!possible!toxin!to!DivIC!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.00%
+Cluster 321027
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	Bacitracin resistance protein BacA	ACY22942
+fig|948102.18.peg.1754|UI24_11970!!!Undecaprenyl-diphosphatase!(EC!3.6.1.27)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	62.37%
+Cluster 50764
+13423	CP000359	Deinococcus geothermalis DSM 11300, complete genome.	No	Deinococci	Glucose-6-phosphate isomerase	ABF45600
+fig|948102.18.peg.470|UI24_05740!!!Glucose-6-phosphate!isomerase!(EC!5.3.1.9)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.66%
+Cluster 596577
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	protein of unknown function DUF59	ACQ80585
+fig|948102.18.peg.2113|UI24_13725!!!PaaD-like!protein!(DUF59)!involved!in!Fe-S!cluster!assembly!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.16%
+Cluster 702197
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	50S ribosomal protein L29	CAJ59754
+fig|948102.18.peg.3522|UI24_20565!!!LSU!ribosomal!protein!L29p!(L35e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.23%
+Cluster 486985
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	transcriptional regulator	ACC38559
+fig|948102.18.peg.4567|UI24_25575!!!Transcriptional!regulator,!AcrR!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	63.68%
+Cluster 164842
+19707	CP001964	Cellulomonas flavigena DSM 20109, complete genome.	No	Actinobacteridae	Cobyrinic acid ac-diamide synthase	ADG76588
+fig|948102.18.peg.4663|UI24_26040!!!Chromosome!(plasmid)!partitioning!protein!ParA!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	68.08%
+Cluster 185014
+29399	CP001966	Tsukamurella paurometabola DSM 20162, complete genome.	Yes	Actinobacteridae	ABC transporter related protein	ADG77389
+fig|948102.18.peg.3579|UI24_20850!!!ABC!transporter!ATP-binding!protein!SCO2422!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	69.60%
+Cluster 653203
+19227	CP000910	Renibacterium salmoninarum ATCC 33209, complete genome.	No	Actinobacteridae	glutaredoxin	ABY25190
+fig|948102.18.peg.3028|UI24_18185!!!Glutaredoxin-like!protein!NrdH,!required!for!reduction!of!Ribonucleotide!reductase!class!Ib!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.00%
+Cluster 341674
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	ATPase	ACZ90427
+fig|948102.18.peg.1054|UI24_08615!!!Carbon!monoxide!oxidation!accessory!protein!CoxD!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	67.02%
+Cluster 523492
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	50S ribosomal protein L22	ABK69438
+fig|948102.18.peg.3525|UI24_20580!!!LSU!ribosomal!protein!L22p!(L17e)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	77.07%
+Cluster 626972
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	membrane protein	ABK69802
+fig|948102.18.peg.5220|UI24_03165!!!putative!membrane!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	74.19%
+Cluster 654970
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	meromycolate extension acyl carrier protein AcpM	ABL03865
+fig|948102.18.peg.1200|UI24_09330!!!Acyl!carrier!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	83.84%
+Cluster 368619
+20745	CP001854	Conexibacter woesei DSM 14684, complete genome.	No	Rubrobacteridae	short-chain dehydrogenase/reductase SDR	ADB50722
+fig|948102.18.peg.3953|UI24_22750!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	65.87%
+Cluster 555016
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	transcriptional regulator, AsnC family	ABG07108
+fig|948102.18.peg.3548|UI24_20695!!!Transcriptional!regulator,!AsnC!family!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	72.67%
+Cluster 64508
+223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Yes	Actinobacteridae	IS1547, transposase	AAK47773
+fig|948102.18.peg.3385|UI24_19905!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	71.14%
+Cluster 228878
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS04170
+fig|948102.18.peg.420|UI24_05495!!!MCE-family!protein!MceC!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	66.38%
+fig|948102.18.peg.4254|UI24_24220!!!MCE-family!protein!MceC!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	64.08%
+Cluster 162371
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	serine/threonine protein kinase PknA	ABK75101
+fig|948102.18.peg.1718!!!Serine/threonine-protein!kinase!PknA!(EC!2.7.11.1)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	90.57%
+Cluster 158801
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	dihydroorotate dehydrogenase	BAC18453
+fig|948102.18.peg.1415|UI24_10390!!!Dihydroorotate!dehydrogenase!(quinone)!(EC!1.3.5.2)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	60.34%
+Cluster 135043
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	[NADP+] succinate-semialdehyde dehydrogenase	ABK75878
+fig|948102.18.peg.4019|UI24_23085!!!Succinate-semialdehyde!dehydrogenase![NAD]!(EC!1.2.1.24);!Succinate-semialdehyde!dehydrogenase![NADP+]!(EC!1.2.1.79)!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	77.18%
+Cluster 601237
+12460	AE017283	Propionibacterium acnes KPA171202, complete genome.	Yes	Actinobacteridae	probable transcription factor WhiB3	AAT83011
+fig|948102.18.peg.3261|UI24_19295!!!WhiB-like!transcription!regulator!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	70.24%
+Cluster 611621
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical membrane protein	ACC40454
+fig|948102.18.peg.2400|UI24_15140!!!hypothetical!protein!!![Mycobacteroides!franklinii!strain!9917!|!948102.18]	61.54%

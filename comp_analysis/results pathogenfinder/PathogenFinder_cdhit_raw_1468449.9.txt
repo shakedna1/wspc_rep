@@ -1,0 +1,156 @@
+Cluster 631772
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL02939
+fig|1468449.9.peg.343|GKE08_09960!!!hypothetical!protein!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	65.25%
+Cluster 668972
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL06070
+fig|1468449.9.peg.3487|GKE08_05500!!!hypothetical!protein!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	63.55%
+Cluster 562026
+64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Yes	Bacillales	transposase, IS200 family	AAW54530
+fig|1468449.9.peg.640|GKE08_11385!!!Transposase,!IS200!family!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	69.18%
+Cluster 421129
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Inosine monophosphate cyclohydrolase-like protein	ADL04759
+fig|1468449.9.peg.1440|GKE08_13455!!!IMP!cyclohydrolase!(EC!3.5.4.10)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	74.68%
+Cluster 123274
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	MATE efflux family protein	ADL03630
+fig|1468449.9.peg.2857|GKE08_17480!!!Multi!antimicrobial!extrusion!protein!(Na(+)/drug!antiporter),!MATE!family!of!MDR!efflux!pumps!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	61.47%
+Cluster 561768
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	transporter small multi-drug export family	ADL35123
+fig|1468449.9.peg.3916|GKE08_06915!!!small!multidrug!export!protein!(qacE)!homolog!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	67.50%
+Cluster 425981
+29175	CP001251	Dictyoglomus turgidum DSM 6724, complete genome.	No	Dictyoglomales	ABC transporter related	ACK42217
+fig|1468449.9.peg.3315|GKE08_18615!!!Branched-chain!amino!acid!ABC!transporter,!ATP-binding!protein!LivF!(TC!3.A.1.4.1)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	60.68%
+Cluster 177305
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	Tn916, transposase	ABP89883
+fig|1468449.9.peg.3127|GKE08_04655!!!putative!transposon!integrase;!Tn916!ORF3-like!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	64.74%
+Cluster 499884
+10676	AE017245	Mycoplasma synoviae 53, complete genome.	No	Mollicutes	50S ribosomal protein L11	AAZ44031
+fig|1468449.9.peg.3960|GKE08_07115!!!LSU!ribosomal!protein!L11p!(L12e)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	60.43%
+Cluster 453866
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	von Willebrand factor type A	ADL06218
+fig|1468449.9.peg.3046|GKE08_04275!!!FIG00529500:!hypothetical!protein!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	83.11%
+Cluster 643808
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL06076
+fig|1468449.9.peg.3482|GKE08_05475!!!hypothetical!protein!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	67.50%
+Cluster 344162
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	transcription regulator (yobd protein)	CBE04571
+fig|1468449.9.peg.3617|GKE08_19230!!!hypothetical!protein!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	91.84%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|1468449.9.peg.2859|GKE08_17490!!!LSU!ribosomal!protein!L34p!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	68.18%
+Cluster 123648
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	RNA-dependent DNA polymerase	ADL33970
+fig|1468449.9.peg.2856!!!Retron-type!RNA-directed!DNA!polymerase!(EC!2.7.7.49)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	60.75%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|1468449.9.peg.2315|GKE08_15985!!!Translation!elongation!factor!Tu!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	66.75%
+Cluster 147528
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative GMP synthase	ABR41201
+fig|1468449.9.peg.148|GKE08_09120!!!GMP!synthase![glutamine-hydrolyzing],!amidotransferase!subunit!(EC!6.3.5.2)!/!GMP!synthase![glutamine-hydrolyzing],!ATP!pyrophosphatase!subunit!(EC!6.3.5.2)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	76.55%
+Cluster 144258
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Dinitrogenase iron-molybdenum cofactor biosynthesis protein	ABX43374
+fig|1468449.9.peg.2179|GKE08_15370!!!Iron-sulfur!cluster!carrier!protein,!CA_C2982!type!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	62.59%
+Cluster 617981
+20083	CP000776	Campylobacter hominis ATCC BAA-381, complete genome.	No	Epsilonproteobacteria	conserved domain protein	ABS51278
+fig|1468449.9.peg.3121|GKE08_04625!!!Redox-active!disulfide!protein!2!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	62.73%
+Cluster 59911
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL06053
+fig|1468449.9.peg.3510|GKE08_05615!!!hypothetical!protein!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	66.28%
+Cluster 629285
+16217	AP007255	Magnetospirillum magneticum AMB-1 DNA, complete genome.	No	Alphaproteobacteria	Translation initiation factor 1	BAE52143
+fig|1468449.9.peg.2355|GKE08_16175!!!Translation!initiation!factor!1!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	66.67%
+Cluster 449783
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	SSU ribosomal protein S12P	ABG07098
+fig|1468449.9.peg.2312|GKE08_15970!!!SSU!ribosomal!protein!S12p!(S23e)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	66.91%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|1468449.9.peg.2337|GKE08_16085!!!SSU!ribosomal!protein!S19p!(S15e)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	76.40%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|1468449.9.peg.2358|GKE08_16190!!!SSU!ribosomal!protein!S11p!(S14e)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	67.69%
+Cluster 396072
+104	AE000782	Archaeoglobus fulgidus DSM 4304, complete genome.	No	Archaeoglobi	phosphate ABC transporter, ATP-binding protein (pstB)	AAB89887
+fig|1468449.9.peg.1368|GKE08_13125!!!Phosphate!ABC!transporter,!ATP-binding!protein!PstB!(TC!3.A.1.7.1)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	60.56%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|1468449.9.peg.2343|GKE08_16115!!!LSU!ribosomal!protein!L14p!(L23e)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	76.23%
+Cluster 606883
+404	CP000416	Lactobacillus brevis ATCC 367, complete genome.	No	Lactobacillales	Glycerol-3-phosphate cytidylyltransferase	ABJ64643
+fig|1468449.9.peg.2258|GKE08_15720!!!Glycerol-3-phosphate!cytidylyltransferase!(EC!2.7.7.39)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	72.31%
+Cluster 91976
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	transposase	ABR38193
+fig|1468449.9.peg.3827|GKE08_19625!!!Transposase!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	89.71%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|1468449.9.peg.2356|GKE08_16180!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	76.32%
+Cluster 58389
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	ATP synthase F1, alpha subunit	ADB48068
+fig|1468449.9.peg.479|GKE08_10610!!!ATP!synthase!alpha!chain!(EC!3.6.3.14)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	60.28%
+Cluster 77887
+32637	CP002116	Spirochaeta smaragdinae DSM 11293, complete genome.	No	Spirochaetales	diphosphate/fructose-6-phosphate1-phosphotransfe rase	ADK81370
+fig|1468449.9.peg.1247|GKE08_12565!!!Pyrophosphate-dependent!fructose!6-phosphate-1-kinase!(EC!2.7.1.90)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	61.78%
+Cluster 321589
+4	AE017226	Treponema denticola ATCC 35405, complete genome.	Yes	Spirochaetales	hydrolase, carbon-nitrogen family	AAS12342
+fig|1468449.9.peg.1510|GKE08_13795!!!Hydrolase,!carbon-nitrogen!family!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	60.54%
+Cluster 755222
+29531	CP001818	Thermanaerovibrio acidaminovorans DSM 6589, complete genome.	No	Synergistia	4Fe-4S ferredoxin iron-sulfur binding domain protein	ACZ18612
+fig|1468449.9.peg.1422|GKE08_13370!!!Ferredoxin!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	64.91%
+Cluster 568508
+84	CP000413	Lactobacillus gasseri ATCC 33323, complete genome.	No	Lactobacillales	LSU ribosomal protein L21P	ABJ60136
+fig|1468449.9.peg.2580|GKE08_03490!!!LSU!ribosomal!protein!L21p!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	66.02%
+Cluster 699084
+29431	CP001968	Denitrovibrio acetiphilus DSM 12809, complete genome.	No	Deferribacterales	30S ribosomal protein S17	ADD67181
+fig|1468449.9.peg.2342|GKE08_16110!!!SSU!ribosomal!protein!S17p!(S11e)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	61.63%
+Cluster 196422
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	nucleotide sugar dehydrogenase	ACT07671
+fig|1468449.9.peg.306|GKE08_09785!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	65.72%
+Cluster 475414
+32617	CP001792	Fibrobacter succinogenes subsp. succinogenes S85, complete genome.	No	Fibrobacterales	chloramphenicol acetyltransferase	ACX74216
+fig|1468449.9.peg.3220|GKE08_05100!!!putative!acetyltransferase!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	71.98%
+Cluster 451189
+15771	CP000360	Candidatus Koribacter versatilis Ellin345, complete genome.	No	Candidatus Koribacter	LSU ribosomal protein L5P	ABF40240
+fig|1468449.9.peg.2345|GKE08_16125!!!LSU!ribosomal!protein!L5p!(L11e)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	60.34%
+Cluster 357078
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	Plasmid recombination-related protein	EDK34874
+fig|1468449.9.peg.736|GKE08_11835!!!hypothetical!protein!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	64.40%
+Cluster 384577
+18109	CP000559	Methanocorpusculum labreanum Z, complete genome.	No	Methanomicrobia	short-chain dehydrogenase/reductase SDR	ABN06996
+fig|1468449.9.peg.1474|GKE08_13630!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	69.41%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|1468449.9.peg.2357|GKE08_16185!!!SSU!ribosomal!protein!S13p!(S18e)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	66.12%
+Cluster 741867
+249	AE008691	Thermoanaerobacter tengcongensis MB4, complete genome.	No	Clostridia	Ribosomal protein L29	AAM25427
+fig|1468449.9.peg.2341|GKE08_16105!!!LSU!ribosomal!protein!L29p!(L35e)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	62.12%
+Cluster 669134
+21087	CP001823	Sphaerobacter thermophilus DSM 20745 chromosome 1, complete sequence.	No	Sphaerobacteridae	ribosomal protein S16	ACZ39299
+fig|1468449.9.peg.2459|GKE08_16660!!!SSU!ribosomal!protein!S16p!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	61.11%
+Cluster 20976
+13376	CP001791	Bacillus selenitireducens MLS10, complete genome.	No	Bacillales	ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent	ADH99786
+fig|1468449.9.peg.806|GKE08_00035!!!Ribonucleotide!reductase!of!class!II!(coenzyme!B12-dependent)!(EC!1.17.4.1)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	62.65%
+Cluster 681514
+19517	CP000726	Clostridium botulinum A str. ATCC 19397, complete genome.	Yes	Clostridia	transcriptional regulator, AbrB family	ABS34096
+fig|1468449.9.peg.3390|GKE08_18950!!!Transcriptional!regulator,!AbrB!family!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	67.02%
+Cluster 567348
+19619	CP000817	Lysinibacillus sphaericus C3-41, complete genome.	No	Bacillales	EbsC protein	ACA39336
+fig|1468449.9.peg.3179|GKE08_04895!!!tRNA!proofreading!protein!STM4549!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	61.44%
+Cluster 336093
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	CRISPR-associated protein, Csd2 family	ACV64358
+fig|1468449.9.peg.4193|GKE08_08165!!!CRISPR-associated!protein,!Csd2/Csh2!family!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	65.26%
+Cluster 43188
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	formate acetyltransferase	ADL02955
+fig|1468449.9.peg.3832|GKE08_06540!!!Pyruvate!formate-lyase!(EC!2.3.1.54)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	84.09%
+Cluster 717730
+37873	CP002048	Syntrophothermus lipocalidus DSM 12680, complete genome.	No	Clostridia	ribosomal protein L33	ADI02994
+fig|1468449.9.peg.2435|GKE08_16545!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-dependent!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	61.22%
+Cluster 473787
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Adenine-specific methyltransferase	ABF36180
+fig|1468449.9.peg.3341|GKE08_18740!!!MunI-like!protein!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	68.68%
+Cluster 698245
+18505	CP000780	Candidatus Methanoregula boonei 6A8, complete genome.	No	Methanomicrobia	transcriptional regulator, AbrB family	ABS56695
+fig|1468449.9.peg.2598|GKE08_03575!!!Transcriptional!regulator,!AbrB!family!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	63.75%
+Cluster 714071
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S Ribosomal protein S21	ABP90399
+fig|1468449.9.peg.1379|GKE08_13180!!!SSU!ribosomal!protein!S21p!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	61.02%
+Cluster 557963
+18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	No	Bacillales	LSU ribosomal protein L16P	ABK83530
+fig|1468449.9.peg.2340|GKE08_16100!!!LSU!ribosomal!protein!L16p!(L10e)!!![Holdemania!massiliensis!strain!BIOML-A4!|!1468449.9]	72.46%

@@ -1,0 +1,255 @@
+Cluster 721771
+21047	CP000860	Candidatus Desulforudis audaxviator MP104C, complete genome.	No	Clostridia	ribosomal protein L33	ACA58769
+fig|2584625.3.peg.491|GT642_09605!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-dependent!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	71.43%
+Cluster 22368
+16394	CP000923	Thermoanaerobacter sp. X514, complete genome.	No	Clostridia	phage minor structural protein	ABY92558
+fig|2584625.3.peg.1023|GT642_01170!!!FIG00520545:!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	66.90%
+Cluster 21489
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	phage Terminase	ABN52943
+fig|2584625.3.peg.1036|GT642_01230!!!Phage!terminase,!large!subunit!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	66.36%
+Cluster 130157
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	hypothetical protein	AAN24095
+fig|2584625.3.peg.1765|GT642_13005!!!Predicted!ATPase!(AAA+!superfamily)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	69.27%
+Cluster 4738
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DNA-directed RNA polymerase, beta' subunit	ABX44033
+fig|2584625.3.peg.116|GT642_07890!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	67.12%
+Cluster 299693
+30983	CP002131	Thermosediminibacter oceani DSM 16646, complete genome.	No	Clostridia	molybdenum cofactor synthesis domain protein	ADL07059
+fig|2584625.3.peg.1117|GT642_11260!!!FIG060329:!MOSC!domain!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	61.81%
+Cluster 702610
+12994	AP006840	Symbiobacterium thermophilum IAM 14863 DNA, complete genome.	No	Clostridia	sporulation-related transcriptional regulator AbrB	BAD42235
+fig|2584625.3.peg.1902|GT642_02885!!!Transition!state!regulatory!protein!AbrB!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	73.75%
+Cluster 323922
+13127	CR628336	Legionella pneumophila str. Paris complete genome.	Yes	Gammaproteobacteria	hypothetical protein	CAH14065
+fig|2584625.3.peg.195!!!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	65.62%
+Cluster 384542
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	IstB domain protein ATP-binding protein	ACV63036
+fig|2584625.3.peg.627|GT642_10275!!!Mobile!element!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	78.68%
+Cluster 93676
+15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	No	Lactobacillales	N-6 DNA methylase	ABQ83682
+fig|2584625.3.peg.1758|GT642_12975!!!Type!I!restriction-modification!system,!DNA-methyltransferase!subunit!M!(EC!2.1.1.72)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	66.20%
+Cluster 589900
+27951	CP001699	Chitinophaga pinensis DSM 2588, complete genome.	No	Sphingobacteria	ribosomal protein S16	ACU58826
+fig|2584625.3.peg.566|GT642_09980!!!SSU!ribosomal!protein!S16p!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	65.00%
+Cluster 453866
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	von Willebrand factor type A	ADL06218
+fig|2584625.3.peg.466|GT642_09490!!!FIG00529500:!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	72.43%
+Cluster 182777
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	LL-diaminopimelate aminotransferase	ADB46739
+fig|2584625.3.peg.17|GT642_07390!!!L,L-diaminopimelate!aminotransferase!(EC!2.6.1.83)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	60.46%
+Cluster 180894
+13655	CP000097	Synechococcus sp. CC9902, complete genome.	No	Chroococcales	tRNA (Guanine37-N(1)-) methyltransferase	ABB26466
+fig|2584625.3.peg.2725|GT642_06640!!!2-C-methyl-D-erythritol!2,4-cyclodiphosphate!synthase!(EC!4.6.1.12)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	63.06%
+Cluster 704149
+16083	CP000853	Alkaliphilus oremlandii OhILAs, complete genome.	No	Clostridia	ATP synthase F0, C subunit	ABW20096
+fig|2584625.3.peg.731|GT642_10785!!!ATP!synthase!F0!sector!subunit!c!(EC!3.6.3.14)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	65.88%
+Cluster 592529
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	transcriptional modulator of MazE/toxin, MazF	ABP66657
+fig|2584625.3.peg.415|GT642_09260!!!Programmed!cell!death!toxin!YdcE!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	60.83%
+Cluster 640332
+29541	CP001649	Desulfovibrio salexigens DSM 2638, complete genome.	No	Deltaproteobacteria	protein of unknown function DUF1486	ACS79999
+fig|2584625.3.peg.274|GT642_08615!!!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	65.00%
+Cluster 248957
+20095	CP001359	Anaeromyxobacter dehalogenans 2CP-1, complete genome.	No	Deltaproteobacteria	ribosomal protein S2	ACL63654
+fig|2584625.3.peg.2421|GT642_05190!!!SSU!ribosomal!protein!S2p!(SAe)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	63.07%
+Cluster 539375
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	aspartate 1-decarboxylase	ABX73369
+fig|2584625.3.peg.988|GT642_00965!!!Aspartate!1-decarboxylase!(EC!4.1.1.11)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	62.60%
+Cluster 226229
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	aspartate-semialdehyde dehydrogenase	ACL76919
+fig|2584625.3.peg.1556|GT642_02025!!!Aspartate-semialdehyde!dehydrogenase!(EC!1.2.1.11)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	66.39%
+Cluster 186381
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	Extracellular ligand-binding receptor	ACL22920
+fig|2584625.3.peg.2721|GT642_06620!!!Branched-chain!amino!acid!ABC!transporter,!substrate-binding!protein!LivJ!(TC!3.A.1.4.1)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	68.10%
+Cluster 739393
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Domain of unknown function DUF1858	ADL05125
+fig|2584625.3.peg.1562|GT642_02055!!!Uncharacterized!protein!CPF_2956!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	60.61%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|2584625.3.peg.118|GT642_07900!!!SSU!ribosomal!protein!S12p!(S23e)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	69.06%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|2584625.3.peg.1204|GT642_11695!!!LSU!ribosomal!protein!L34p!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	68.18%
+Cluster 591885
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	biotin/lipoyl attachment domain-containing protein	ADB48189
+fig|2584625.3.peg.1906|GT642_02905!!!Glutaconyl-CoA!decarboxylase!subunit!gamma!(Biotin!carrier)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	60.32%
+Cluster 620418
+70	AE016830	Enterococcus faecalis V583, complete genome.	Yes	Lactobacillales	transposase, IS200 family	AAO80443
+fig|2584625.3.peg.2436|GT642_05245!!!Transposase,!IS200!family!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	66.67%
+Cluster 427144
+20739	CP001682	Cryptobacterium curtum DSM 15641, complete genome.	Yes	Coriobacteridae	3-methyladenine DNA glycosylase/8-oxoguanine DNA glycosylase	ACU94738
+fig|2584625.3.peg.2654|GT642_06275!!!DNA-3-methyladenine!glycosylase!II!(EC!3.2.2.21)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	63.68%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|2584625.3.peg.121|GT642_07915!!!Translation!elongation!factor!Tu!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	63.75%
+Cluster 309480
+32617	CP001792	Fibrobacter succinogenes subsp. succinogenes S85, complete genome.	No	Fibrobacterales	hypothetical protein	ACX74018
+fig|2584625.3.peg.107|GT642_07850!!!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	68.79%
+Cluster 705278
+13888	CP000017	Streptococcus pyogenes MGAS5005, complete genome.	Yes	Lactobacillales	phage protein	AAZ51839
+fig|2584625.3.peg.997|GT642_01040!!!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	79.76%
+fig|2584625.3.peg.2309|GT642_04650!!!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	79.76%
+Cluster 144258
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Dinitrogenase iron-molybdenum cofactor biosynthesis protein	ABX43374
+fig|2584625.3.peg.973|GT642_00890!!!Iron-sulfur!cluster!carrier!protein,!CA_C2982!type!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	63.24%
+Cluster 187096
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Rhodanese domain protein	ADL05112
+fig|2584625.3.peg.1597|GT642_02240!!!tRNA-(cytosine32)-2-thiocytidine!synthetase!TtcA!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	61.54%
+Cluster 429094
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL05119
+fig|2584625.3.peg.2089|GT642_03810!!!Ferredoxin!3!fused!to!uncharacterized!domain!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	68.83%
+Cluster 31587
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	glutamate synthase (NADPH), homotetrameric	ACZ07665
+fig|2584625.3.peg.108|GT642_07855!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	62.72%
+Cluster 667566
+214	CP000027	Dehalococcoides ethenogenes 195, complete genome.	No	Dehalococcoidetes	conserved hypothetical protein	AAW39676
+fig|2584625.3.peg.1029|GT642_01195!!!prophage!pi2!protein!38!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	86.11%
+Cluster 314543
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ABC transporter related protein	ADL04299
+fig|2584625.3.peg.2432|GT642_05230!!!Efflux!ABC!transporter,!ATP-binding!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	64.88%
+Cluster 141280
+16263	CP001390	Geobacter sp. FRC-32, complete genome.	No	Deltaproteobacteria	Electron transfer flavoprotein alpha subunit	ACM20166
+fig|2584625.3.peg.1744!!!Electron!bifurcating!butyryl-CoA!dehydrogenase,!electron!transfer!flavoprotein!alpha!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	60.71%
+Cluster 574744
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	FeS cluster assembly scaffold protein NifU	ACL76279
+fig|2584625.3.peg.842|GT642_00280!!!Iron-sulfur!cluster!assembly!scaffold!protein!IscU/NifU-like!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	68.06%
+Cluster 683838
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	30S ribosomal protein S17	ADB77048
+fig|2584625.3.peg.2230|GT642_04280!!!SSU!ribosomal!protein!S17p!(S11e)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	69.41%
+Cluster 308125
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAF40146
+fig|2584625.3.peg.1752|GT642_12950!!!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	67.01%
+Cluster 360664
+33635	CP001899	Ferroglobus placidus DSM 10642, complete genome.	No	Archaeoglobi	imidazoleglycerol phosphate synthase, cyclase subunit	ADC65669
+fig|2584625.3.peg.2395|GT642_05050!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	64.57%
+Cluster 699364
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	conserved hypothetical protein	ADB47249
+fig|2584625.3.peg.2616|GT642_06095!!!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	60.00%
+Cluster 736089
+30165	CP001983	Bacillus megaterium QM B1551, complete genome.	No	Bacillales	hypothetical protein	ADE70673
+fig|2584625.3.peg.1942|GT642_03100!!!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	71.21%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|2584625.3.peg.2235|GT642_04305!!!SSU!ribosomal!protein!S19p!(S15e)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	70.97%
+Cluster 204343
+249	AE008691	Thermoanaerobacter tengcongensis MB4, complete genome.	No	Clostridia	Acyl-CoA dehydrogenases	AAM23821
+fig|2584625.3.peg.1823|GT642_13270!!!Electron!bifurcating!butyryl-CoA!dehydrogenase!(NAD+,!ferredoxin)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	62.11%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|2584625.3.peg.888|GT642_00495!!!SSU!ribosomal!protein!S11p!(S14e)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	64.18%
+Cluster 739428
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	excisionase	CAJ67936
+fig|2584625.3.peg.618|GT642_10230!!!putative!transposon!excisionase;!Tn916!ORF1-like!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	77.61%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|2584625.3.peg.2229|GT642_04275!!!LSU!ribosomal!protein!L14p!(L23e)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	68.85%
+Cluster 51409
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	phosphoglycerate kinase	ACL76599
+fig|2584625.3.peg.913|GT642_00605!!!Phosphoglycerate!kinase!(EC!2.7.2.3)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	68.69%
+Cluster 15455
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	phosphoketolase 1	ACP24364
+fig|2584625.3.peg.2430|GT642_05220!!!Xylulose-5-phosphate!phosphoketolase!(EC!4.1.2.9)!@!Fructose-6-phosphate!phosphoketolase!(EC!4.1.2.22)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	65.90%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|2584625.3.peg.886|GT642_00485!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	83.78%
+Cluster 560328
+28021	CP001074	Rhizobium etli CIAT 652, complete genome.	No	Alphaproteobacteria	hypothetical conserved membrane protein	ACE92447
+fig|2584625.3.peg.2650!!!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	63.64%
+Cluster 109347
+37873	CP002048	Syntrophothermus lipocalidus DSM 12680, complete genome.	No	Clostridia	Vinylacetyl-CoA Delta-isomerase	ADI01445
+fig|2584625.3.peg.1893|GT642_02845!!!4-hydroxybutanoyl-CoA!dehydratase!(EC!4.2.1.120)!/!Vinylacetyl-CoA!Delta-isomerase!(EC!5.3.3.3)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	63.83%
+fig|2584625.3.peg.2778|GT642_06895!!!4-hydroxybutanoyl-CoA!dehydratase!(EC!4.2.1.120)!/!Vinylacetyl-CoA!Delta-isomerase!(EC!5.3.3.3)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	62.37%
+Cluster 581095
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	putative transcriptional regulator, AsnC family	ABR34503
+fig|2584625.3.peg.2264|GT642_04445!!!Transcriptional!regulator,!AsnC!family!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	65.73%
+Cluster 135807
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative mobilization protein	CAJ67947
+fig|2584625.3.peg.631!!!FIG00647030:!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	64.18%
+Cluster 269932
+28085	CP001472	Acidobacterium capsulatum ATCC 51196, complete genome.	No	Acidobacteriales	electron transfer flavoprotein, alpha subunit	ACO31470
+fig|2584625.3.peg.545!!!Electron!bifurcating!butyryl-CoA!dehydrogenase,!electron!transfer!flavoprotein!alpha!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	64.29%
+Cluster 742552
+214	CP000027	Dehalococcoides ethenogenes 195, complete genome.	No	Dehalococcoidetes	virulence-related protein	AAW39660
+fig|2584625.3.peg.1039|GT642_01245!!!virulence-related!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	89.66%
+Cluster 717949
+15644	CP000812	Thermotoga lettingae TMO, complete genome.	No	Thermotogales	protein of unknown function DUF37	ABV33360
+fig|2584625.3.peg.1202|GT642_11685!!!Membrane!protein!insertion!efficiency!factor!YidD!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	62.86%
+Cluster 507827
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	3-isopropylmalate dehydratase, small subunit	ABN53412
+fig|2584625.3.peg.2645|GT642_06235!!!3-isopropylmalate!dehydratase!small!subunit!(EC!4.2.1.33)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	61.96%
+Cluster 101393
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	glutamate synthase (NADPH) GltB2 subunit	ABN51439
+fig|2584625.3.peg.11|GT642_07360!!!Glutamate!synthase![NADPH]!large!chain!(EC!1.4.1.13)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	80.24%
+Cluster 95955
+214	CP000027	Dehalococcoides ethenogenes 195, complete genome.	No	Dehalococcoidetes	SNF2 family helicase, putative	AAW39048
+fig|2584625.3.peg.1047|GT642_01285!!!DNA!helicase!(EC!3.6.4.12),!phage-associated!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	72.22%
+Cluster 616481
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	conserved hypothetical protein with a pyridoxamine 5'-phosphate oxidase domain	ADK15487
+fig|2584625.3.peg.2657|GT642_06290!!!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	61.07%
+Cluster 680308
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	protein of unknown function DUF370	ABP67672
+fig|2584625.3.peg.2763|GT642_06820!!!UPF0296!protein!YlzA!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	70.11%
+Cluster 615471
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	transposase IS200-family protein	ADL51730
+fig|2584625.3.peg.2434!!!Transposase,!IS200!family!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	68.82%
+fig|2584625.3.peg.2135|GT642_13510!!!Transposase,!IS200!family!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	75.31%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|2584625.3.peg.887|GT642_00490!!!SSU!ribosomal!protein!S13p!(S18e)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	75.41%
+Cluster 635667
+214	CP000027	Dehalococcoides ethenogenes 195, complete genome.	No	Dehalococcoidetes	conserved hypothetical protein	AAW39678
+fig|2584625.3.peg.1027|GT642_01185!!!FIG01032287:!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	90.40%
+Cluster 98621
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	protein of unknown function DUF1538	ACZ07776
+fig|2584625.3.peg.1792|GT642_13115!!!Putative!membrane-spanning!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	62.92%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|2584625.3.peg.885|GT642_00480!!!Translation!initiation!factor!1!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	70.83%
+Cluster 24061
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	glycoside hydrolase family 18	ADL53625
+fig|2584625.3.peg.1020|GT642_01155!!!FIG00521696:!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	74.48%
+Cluster 647174
+16064	CP000155	Hahella chejuensis KCTC 2396, complete genome.	No	Gammaproteobacteria	ribosomal protein L31	ABC32627
+fig|2584625.3.peg.2502|GT642_05570!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-dependent!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	68.66%
+Cluster 288613
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	RpoA	EDK32306
+fig|2584625.3.peg.890|GT642_00505!!!DNA-directed!RNA!polymerase!alpha!subunit!(EC!2.7.7.6)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	62.86%
+Cluster 135441
+29543	CP001959	Brachyspira murdochii DSM 12563, complete genome.	No	Spirochaetales	acetyl-CoA hydrolase/transferase	ADG72102
+fig|2584625.3.peg.1888|GT642_02820!!!4-hydroxybutyrate!coenzyme!A!transferase!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	70.40%
+Cluster 135573
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	ribonuclease Ph	CBE07044
+fig|2584625.3.peg.2342|GT642_04800!!!Ribonuclease!PH!(EC!2.7.7.56)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	60.58%
+Cluster 591604
+27759	CP001615	Exiguobacterium sp. AT1b, complete genome.	No	Bacillales	ribosomal protein L16	ACQ70552
+fig|2584625.3.peg.2232|GT642_04290!!!LSU!ribosomal!protein!L16p!(L10e)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	77.30%
+Cluster 358811
+33271	AP009049	Clostridium kluyveri NBRC 12016 DNA, complete genome.	No	Clostridia	hypothetical protein	BAH05546
+fig|2584625.3.peg.1340|GT642_12285!!!Transposase!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	70.83%
+Cluster 744519
+33165	CP002171	Thermoanaerobacterium thermosaccharolyticum DSM 571, complete genome.	No	Clostridia	conserved hypothetical protein	ADL68355
+fig|2584625.3.peg.1022|GT642_01165!!!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	68.25%
+Cluster 473787
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Adenine-specific methyltransferase	ABF36180
+fig|2584625.3.peg.644|GT642_10360!!!MunI-like!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	67.42%
+Cluster 679976
+30983	CP002131	Thermosediminibacter oceani DSM 16646, complete genome.	No	Clostridia	conserved hypothetical protein	ADL08315
+fig|2584625.3.peg.1563|GT642_02060!!!Zinc-ribbon!domain!Caur_1000.N!/!CxxC-x17-CxxC!domain!Caur_1000.C!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	67.39%
+Cluster 552782
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	50S ribosomal protein L11	ABM79507
+fig|2584625.3.peg.488|GT642_09590!!!LSU!ribosomal!protein!L11p!(L12e)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	61.70%
+Cluster 488301
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX73966
+fig|2584625.3.peg.1594|GT642_02225!!!NADPH-dependent!7-cyano-7-deazaguanine!reductase!(EC!1.7.1.13)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	71.52%
+Cluster 427336
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	protein of unknown function UPF0066	ACL20270
+fig|2584625.3.peg.2156|GT642_03960!!!tRNA!(adenine(37)-N6)-methyltransferase!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	68.14%
+Cluster 216426
+29531	CP001818	Thermanaerovibrio acidaminovorans DSM 6589, complete genome.	No	Synergistia	uracil phosphoribosyltransferase	ACZ19174
+fig|2584625.3.peg.378|GT642_09100!!!Uracil!phosphoribosyltransferase!(EC!2.4.2.9)!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	63.64%
+Cluster 515065
+12521	CP000312	Clostridium perfringens SM101, complete genome.	Yes	Clostridia	conserved hypothetical protein	ABG87566
+fig|2584625.3.peg.709|GT642_10660!!!hypothetical!protein!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	61.54%
+Cluster 714071
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S Ribosomal protein S21	ABP90399
+fig|2584625.3.peg.2350|GT642_04840!!!SSU!ribosomal!protein!S21p!!![Butyricicoccus!sp.!BIOML-A1!|!2584625.3]	65.00%

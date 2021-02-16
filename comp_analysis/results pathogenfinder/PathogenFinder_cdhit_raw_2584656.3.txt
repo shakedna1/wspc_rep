@@ -1,0 +1,610 @@
+Cluster 30310
+13901	CP000924	Thermoanaerobacter pseudethanolicus ATCC 33223, complete genome.	No	Clostridia	ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent	ABY93998
+fig|2584656.3.peg.3799|GKG47_21795!!!Ribonucleotide!reductase!of!class!II!(coenzyme!B12-dependent)!(EC!1.17.4.1)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.83%
+Cluster 632492
+29153	CP001811	Butyrivibrio proteoclasticus B316 chromosome 2, complete sequence.	No	Clostridia	hypothetical protein	ADL35857
+fig|2584656.3.peg.3246|GKG47_04315!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	74.40%
+Cluster 704216
+13424	CP000612	Desulfotomaculum reducens MI-1, complete genome.	No	Clostridia	SSU ribosomal protein S17P	ABO48773
+fig|2584656.3.peg.2138|GKG47_01490!!!SSU!ribosomal!protein!S17p!(S11e)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.06%
+Cluster 349687
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	Xylose isomerase domain protein TIM barrel	ABP66035
+fig|2584656.3.peg.1561|GKG47_14945!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.07%
+Cluster 21489
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	phage Terminase	ABN52943
+fig|2584656.3.peg.2563|GKG47_17630!!!Phage!terminase,!large!subunit!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	75.15%
+Cluster 336017
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	diaminopimelate epimerase	ADL03862
+fig|2584656.3.peg.166|GKG47_09500!!!Diaminopimelate!epimerase!(EC!5.1.1.7)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.54%
+Cluster 591558
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	conjugative transposon protein	CAJ67938
+fig|2584656.3.peg.1759|GKG47_15860!!!conjugative!transposon!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	71.92%
+Cluster 544090
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	16S rRNA processing protein RimM	ADL04686
+fig|2584656.3.peg.943|GKG47_13260!!!16S!rRNA!processing!protein!RimM!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.50%
+Cluster 421129
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Inosine monophosphate cyclohydrolase-like protein	ADL04759
+fig|2584656.3.peg.2754|GKG47_18535!!!IMP!cyclohydrolase!(EC!3.5.4.10)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	75.95%
+Cluster 36650
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	glycogen debranching enzyme GlgX1	ADL33971
+fig|2584656.3.peg.4311|GKG47_06435!!!Limit!dextrin!alpha-1,6-maltotetraose-hydrolase!(EC!3.2.1.196)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.25%
+Cluster 548454
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	GreA/GreB family elongation factor	ADL06186
+fig|2584656.3.peg.355|GKG47_10430!!!Transcription!elongation!factor!GreA!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.86%
+Cluster 4738
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DNA-directed RNA polymerase, beta' subunit	ABX44033
+fig|2584656.3.peg.541|GKG47_11325!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	81.04%
+Cluster 545707
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	NUDIX hydrolase	ADL03683
+fig|2584656.3.peg.3305|GKG47_20215!!!Mutator!MutT!protein!(7,8-dihydro-8-oxoguanine-triphosphatase)!(EC!3.6.1.-)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.74%
+Cluster 636471
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	conserved hypothetical protein 103	ABR37056
+fig|2584656.3.peg.2603|GKG47_17820!!!Nucleoid-associated!protein!YaaK!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.79%
+Cluster 751475
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	hypothetical protein	ABX41424
+fig|2584656.3.peg.1995|GKG47_17035!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.00%
+Cluster 123442
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Peptidoglycan-binding domain 1 protein	ABX40926
+fig|2584656.3.peg.3808|GKG47_21840!!!spore!cortex-lytic!enzyme!SleC!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.22%
+Cluster 675833
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	addiction module toxin, RelE/StbE family	ACV63023
+fig|2584656.3.peg.2616|GKG47_17885!!!Death!on!curing!protein,!Doc!toxin!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	85.58%
+Cluster 645898
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	Dinitrogenase iron-molybdenum cofactor biosynthesis protein	ACL20026
+fig|2584656.3.peg.3446|GKG47_20910!!!MTH1175-like!domain!family!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.23%
+Cluster 384633
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Ku protein	ADL06160
+fig|2584656.3.peg.152|GKG47_09430!!!Ku!domain!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.89%
+Cluster 140183
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	aspartyl-tRNA synthetase	ADL05883
+fig|2584656.3.peg.1341|GKG47_13905!!!Aspartyl-tRNA!synthetase!(EC!6.1.1.12)!@!Aspartyl-tRNA(Asn)!synthetase!(EC!6.1.1.23)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	66.14%
+Cluster 248566
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	aldo/keto reductase	ABX41430
+fig|2584656.3.peg.4122|GKG47_05935!!!Oxidoreductase,!aldo/keto!reductase!family!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.35%
+Cluster 39986
+29077	CP001083	Clostridium botulinum Ba4 str. 657, complete genome.	Yes	Clostridia	D-proline reductase, PrdA proprotein	ACQ54511
+fig|2584656.3.peg.3840|GKG47_21995!!!D-proline!reductase,!45!kDa!subunit!(EC!1.21.4.1)!/!D-proline!reductase,!23!kDa!subunit!(EC!1.21.4.1)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.13%
+Cluster 744212
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative oxidoreductase ferredoxin subunit	CBE05551
+fig|2584656.3.peg.3741|GKG47_04890!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.08%
+Cluster 49639
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	DNA ligase, NAD-dependent	ADL05844
+fig|2584656.3.peg.3701|GKG47_04705!!!DNA!ligase!(NAD(+))!(EC!6.5.1.2)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.49%
+Cluster 309271
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	two-component system, sensor histidine kinase	CAJ67189
+fig|2584656.3.peg.1256|GKG47_13510!!!Two-component!system!sensor!histidine!kinase!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.46%
+Cluster 689445
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	sporulation transcriptional regulator SpoIIID	ABX40597
+fig|2584656.3.peg.4556|GKG47_07575!!!Stage!III!sporulation!protein!D!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	72.62%
+Cluster 651868
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	putative helix-turn-helix protein YlxM/p13 family protein	ADL04690
+fig|2584656.3.peg.938|GKG47_13240!!!Signal!recognition!particle!associated!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.53%
+Cluster 151596
+32637	CP002116	Spirochaeta smaragdinae DSM 11293, complete genome.	No	Spirochaetales	conserved hypothetical protein	ADK79582
+fig|2584656.3.peg.271|GKG47_09995!!!Iron-sulfur!cluster-binding!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.00%
+Cluster 149551
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	major facilitator superfamily MF	ACZ07093
+fig|2584656.3.peg.890|GKG47_13015!!!Uncharacterized!MFS-type!transporter!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.12%
+Cluster 285790
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	oligopeptide/dipeptide ABC transporter, ATPase subunit	ABR48200
+fig|2584656.3.peg.1639|GKG47_15295!!!Nickel!ABC!transporter,!ATP-binding!protein!NikD2!(TC!3.A.1.5.3)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.03%
+Cluster 592529
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	transcriptional modulator of MazE/toxin, MazF	ABP66657
+fig|2584656.3.peg.686|GKG47_12025!!!Similar!to!cell!death!toxin!YdcE!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.52%
+Cluster 700725
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	GIY-YIG domain-containing protein	ADL33044
+fig|2584656.3.peg.2880|GKG47_19140!!!UPF0213!protein!YazA!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.63%
+Cluster 655686
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	transcriptional regulator, PadR family	ABN53140
+fig|2584656.3.peg.4507|GKG47_07335!!!Transcriptional!regulator,!PadR!family!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.81%
+Cluster 288068
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	peptidase S14 ClpP	ABX43119
+fig|2584656.3.peg.689|GKG47_12040!!!Translocation-enhancing!protein!TepA!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.59%
+Cluster 520003
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	phage-related protein	ADK13420
+fig|2584656.3.peg.2542|GKG47_17530!!!Phage!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.88%
+Cluster 98384
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	cobyric acid synthase CobQ	ADL04952
+fig|2584656.3.peg.1975|GKG47_16935!!!Cobyric!acid!synthase!(EC!6.3.5.10)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.16%
+Cluster 551015
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	metal dependent phosphohydrolase	ACV63885
+fig|2584656.3.peg.3223|GKG47_04210!!!HD!superfamily!hydrolase!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	77.44%
+Cluster 634386
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	protein of unknown function DUF134	ACL20021
+fig|2584656.3.peg.3453|GKG47_20945!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	78.69%
+Cluster 707318
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Phosphotransferase system, phosphocarrier protein HPr	ADL03853
+fig|2584656.3.peg.2330|GKG47_02405!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	77.01%
+Cluster 457029
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	protein of unknown function UPF0029	ADL04166
+fig|2584656.3.peg.1856|GKG47_16345!!!FIG000605:!protein!co-occurring!with!transport!systems!(COG1739)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.19%
+Cluster 479978
+403	CP000412	Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365, complete genome.	No	Lactobacillales	dTDP-4-dehydrorhamnose 3,5-epimerase	ABJ59243
+fig|2584656.3.peg.2369|GKG47_02595!!!dTDP-4-dehydrorhamnose!3,5-epimerase!(EC!5.1.3.13)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.93%
+Cluster 307812
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ribonuclease Z	ADL03255
+fig|2584656.3.peg.1834|GKG47_16235!!!Ribonuclease!Z!(EC!3.1.26.11)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	69.21%
+Cluster 673084
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	branched-chain amino acid transport	ACZ07521
+fig|2584656.3.peg.348|GKG47_10390!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.75%
+Cluster 611347
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	ribosome-binding factor A	ABX43133
+fig|2584656.3.peg.4326|GKG47_06510!!!Ribosome-binding!factor!A!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.84%
+Cluster 204498
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	glycoprotease family protein	ADL33316
+fig|2584656.3.peg.1833|GKG47_16230!!!N(6)-L-threonylcarbamoyladenine!synthase!(EC!2.3.1.234)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	73.18%
+Cluster 101103
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	L-fucose isomerase related protein	ADL32935
+fig|2584656.3.peg.4160|GKG47_22635!!!predicted!xylose!isomerase!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	78.74%
+Cluster 3146
+18737	CP000837	Streptococcus suis GZ1, complete genome.	Yes	Lactobacillales	Collagen adhesion protein	ADE30966
+fig|2584656.3.peg.3251|GKG47_04335!!!Cell!wall!surface!anchor!family!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	76.06%
+Cluster 323080
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	transcriptional regulator, LysR family	ADL03947
+fig|2584656.3.peg.1502|GKG47_14665!!!Transcriptional!regulator,!LysR!family!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	65.65%
+Cluster 502647
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ABX43679
+fig|2584656.3.peg.2501|GKG47_03240!!!2-C-methyl-D-erythritol!2,4-cyclodiphosphate!synthase!(EC!4.6.1.12)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.84%
+Cluster 398917
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	CRISPR-associated protein Cas5 family	ABR47840
+fig|2584656.3.peg.3637|GKG47_04400!!!CRISPR-associated!protein!Cas5!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.45%
+Cluster 226232
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	aspartate-semialdehyde dehydrogenase Asd	ADL34401
+fig|2584656.3.peg.3868|GKG47_22125!!!Aspartate-semialdehyde!dehydrogenase!(EC!1.2.1.11)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	76.73%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|2584656.3.peg.548|GKG47_11360!!!SSU!ribosomal!protein!S12p!(S23e)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.12%
+Cluster 532706
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	conserved hypothetical protein	CBE02431
+fig|2584656.3.peg.2028|GKG47_17195!!!Transcriptional!regulator,!PadR!family!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.05%
+Cluster 354254
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Methyltransferase type 12	ABX43771
+fig|2584656.3.peg.2081|GKG47_01225!!!FIG145533:!Methyltransferase!(EC!2.1.1.-)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.17%
+Cluster 239837
+17889	CP000742	Methanococcus vannielii SB, complete genome.	No	Methanococci	arsenical-resistance protein	ABR55575
+fig|2584656.3.peg.3621|GKG47_21750!!!Arsenical-resistance!protein!ACR3!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.21%
+Cluster 456346
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	Adenylate kinase	ABN54122
+fig|2584656.3.peg.2150|GKG47_01550!!!Adenylate!kinase!(EC!2.7.4.3)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.21%
+Cluster 123648
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	RNA-dependent DNA polymerase	ADL33970
+fig|2584656.3.peg.2416!!!Retron-type!RNA-directed!DNA!polymerase!(EC!2.7.7.49)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.75%
+Cluster 678461
+13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	No	Bacillales	50S ribosomal protein L21	BAD65137
+fig|2584656.3.peg.2016|GKG47_17135!!!LSU!ribosomal!protein!L21p!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.40%
+Cluster 422240
+33271	AP009049	Clostridium kluyveri NBRC 12016 DNA, complete genome.	No	Clostridia	hypothetical protein	BAH07375
+fig|2584656.3.peg.201|GKG47_09660!!!N-acetylmuramoyl-L-alanine!amidase!domain!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	78.39%
+Cluster 376585
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	Cobyrinic acid a,c-diamide synthase	ABR50076
+fig|2584656.3.peg.4754|GKG47_08540!!!Chromosome!(plasmid)!partitioning!protein!ParA!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.37%
+Cluster 706130
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	hypothetical protein	ACV62347
+fig|2584656.3.peg.2637|GKG47_17985!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.47%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|2584656.3.peg.551|GKG47_11375!!!Translation!elongation!factor!Tu!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.74%
+Cluster 33052
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	protein-export membrane protein SecD	ADL03229
+fig|2584656.3.peg.3500|GKG47_21180!!!Protein!translocase!subunit!SecD!/!Protein!translocase!subunit!SecF!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.66%
+Cluster 247678
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	PfkB domain protein	ABX40614
+fig|2584656.3.peg.1585|GKG47_15055!!!2-dehydro-3-deoxygluconokinase!(EC!2.7.1.45)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.74%
+Cluster 144258
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Dinitrogenase iron-molybdenum cofactor biosynthesis protein	ABX43374
+fig|2584656.3.peg.3447|GKG47_20915!!!Iron-sulfur!cluster!carrier!protein,!CA_C2982!type!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.37%
+Cluster 110591
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	carboxyl transferase	ADL03927
+fig|2584656.3.peg.284|GKG47_10060!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!/!Acetyl-coenzyme!A!carboxyl!transferase!beta!chain!(EC!6.4.1.2);!Propionyl-CoA!carboxylase!beta!chain!(EC!6.4.1.3);!Methylmalonyl-CoA!decarboxylase,!alpha!chain!(EC!4.1.1.41)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.78%
+Cluster 542603
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	GrcA	ADD78070
+fig|2584656.3.peg.934|GKG47_13220!!!Pyruvate!formate-lyase!(EC!2.3.1.54)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.00%
+Cluster 677002
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	conserved hypothetical protein	ABR35224
+fig|2584656.3.peg.2512|GKG47_03295!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.74%
+Cluster 76178
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Dak phosphatase	ABX43249
+fig|2584656.3.peg.240|GKG47_09845!!!Dihydroxyacetone!kinase-like!protein,!phosphatase!domain!/!Dihydroxyacetone!kinase-like!protein,!kinase!domain!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	65.52%
+Cluster 47423
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	2-isopropylmalate synthase LeuA	ADL34988
+fig|2584656.3.peg.3361|GKG47_20515!!!2-isopropylmalate!synthase!(EC!2.3.3.13)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.77%
+Cluster 344345
+308	BA000039	Thermosynechococcus elongatus BP-1 DNA, complete genome.	No	Chroococcales	imidazoleglycerol-phosphate synthase, cyclase subunit	BAC08737
+fig|2584656.3.peg.1261|GKG47_13530!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.85%
+Cluster 549045
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	rRNA methylase SpoU family	ADL35561
+fig|2584656.3.peg.1325|GKG47_13835!!!tRNA!(cytidine(34)-2'-O)-methyltransferase!(EC!2.1.1.207)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.67%
+Cluster 756380
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	protein of unknown function DUF1540	ADL03284
+fig|2584656.3.peg.1525|GKG47_14765!!!Uncharacterized!protein!CA_C3540!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.31%
+Cluster 225387
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	transcriptional regulator, CdaR	ADL03418
+fig|2584656.3.peg.994|GKG47_00075!!!Sugar!diacid!utilization!regulator!SdaR!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	65.10%
+fig|2584656.3.peg.2170|GKG47_01645!!!Sugar!diacid!utilization!regulator!SdaR!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	70.99%
+Cluster 593123
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	protein of unknown function DUF606	ABX42320
+fig|2584656.3.peg.4165|GKG47_22660!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	65.28%
+Cluster 619453
+19449	CP001322	Desulfatibacillum alkenivorans AK-01, complete genome.	No	Deltaproteobacteria	microcompartments protein	ACL06672
+fig|2584656.3.peg.2844|GKG47_18960!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	69.23%
+Cluster 31587
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	glutamate synthase (NADPH), homotetrameric	ACZ07665
+fig|2584656.3.peg.693|GKG47_12060!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!A!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	66.10%
+Cluster 474289
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	Hypothetical protein	AAK80558
+fig|2584656.3.peg.4161|GKG47_22640!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.98%
+Cluster 297033
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	molybdenum cofactor synthesis domain protein	ABX41855
+fig|2584656.3.peg.3786|GKG47_05100!!!FIG060329:!MOSC!domain!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.58%
+Cluster 349879
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ADL03234
+fig|2584656.3.peg.3041|GKG47_19945!!!ABC!transporter,!permease!protein!2!(cluster!1,!maltose/g3p/polyamine/iron)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.35%
+Cluster 282021
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	2-dehydro-3-deoxyphosphogluconate aldolase/4-hydroxy-2-oxoglutarate aldolase	ABX40444
+fig|2584656.3.peg.1587|GKG47_15065!!!4-hydroxy-2-oxoglutarate!aldolase!(EC!4.1.3.16)!@!2-dehydro-3-deoxyphosphogluconate!aldolase!(EC!4.1.2.14)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	66.98%
+fig|2584656.3.peg.2980|GKG47_19655!!!4-hydroxy-2-oxoglutarate!aldolase!(EC!4.1.3.16)!@!2-dehydro-3-deoxyphosphogluconate!aldolase!(EC!4.1.2.14)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	70.53%
+Cluster 215946
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DNA polymerase III, beta subunit	ABX40393
+fig|2584656.3.peg.3411|GKG47_20755!!!DNA!polymerase!III!beta!subunit!(EC!2.7.7.7)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	69.19%
+Cluster 588090
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	amino acid-binding ACT domain protein	ADL03244
+fig|2584656.3.peg.324|GKG47_10235!!!ACT-domain-containing!protein,!predicted!allosteric!regulator!of!homoserine!dehydrogenase!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.03%
+Cluster 113216
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative oxidative stress protein	CAJ67662
+fig|2584656.3.peg.4648|GKG47_08005!!!Glutamate!synthase![NADPH]!large!chain!(EC!1.4.1.13)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.03%
+Cluster 64158
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	TraG/TraD family	ABF36182
+fig|2584656.3.peg.430|GKG47_10790!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.86%
+fig|2584656.3.peg.440!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	73.53%
+Cluster 312489
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S2	ABP90946
+fig|2584656.3.peg.1589|GKG47_15070!!!SSU!ribosomal!protein!S2p!(SAe)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.94%
+Cluster 574744
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	FeS cluster assembly scaffold protein NifU	ACL76279
+fig|2584656.3.peg.2810|GKG47_18795!!!Iron-sulfur!cluster!assembly!scaffold!protein!IscU/NifU-like!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.59%
+Cluster 597111
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	amino acid-binding ACT domain protein	ABX43439
+fig|2584656.3.peg.3680|GKG47_04605!!!Amino!acid-binding!ACT!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.14%
+Cluster 290531
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL05735
+fig|2584656.3.peg.2320|GKG47_02355!!![4Fe-4S]-AdoMet!protein!YtqA!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.00%
+Cluster 604284
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL05348
+fig|2584656.3.peg.3598|GKG47_21635!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.87%
+Cluster 736089
+30165	CP001983	Bacillus megaterium QM B1551, complete genome.	No	Bacillales	hypothetical protein	ADE70673
+fig|2584656.3.peg.4775|GKG47_08640!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.66%
+Cluster 230712
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	phosphotransferase system, EIIC	ABX44078
+fig|2584656.3.peg.1234|GKG47_01205!!!Predicted!nicotinate-regulated!transporter!BH3254!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.59%
+Cluster 653936
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hypothetical protein	ADL35452
+fig|2584656.3.peg.116|GKG47_09280!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.29%
+Cluster 356073
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	chromosome segregation and condensation protein ScpA	ADL05078
+fig|2584656.3.peg.3917|GKG47_22355!!!Segregation!and!condensation!protein!A!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	65.85%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|2584656.3.peg.2133|GKG47_01465!!!SSU!ribosomal!protein!S19p!(S15e)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	72.04%
+Cluster 357261
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	tRNA (guanine-N1)-methyltransferase TrmD	ADL34300
+fig|2584656.3.peg.944|GKG47_13265!!!tRNA!(guanine(37)-N(1))-methyltransferase!(EC!2.1.1.228)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	66.80%
+Cluster 501381
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	hydro-lyase, Fe-S type, tartrate/fumarate subfamily, beta subunit	ADL02658
+fig|2584656.3.peg.3418|GKG47_20790!!!Fumarate!hydratase!class!I,!beta!region!(EC!4.2.1.2);!L(+)-tartrate!dehydratase!beta!subunit!(EC!4.2.1.32)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	70.65%
+Cluster 342221
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	hypothetical protein	ABF36179
+fig|2584656.3.peg.428|GKG47_10780!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	85.97%
+fig|2584656.3.peg.819|GKG47_12675!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	86.69%
+Cluster 186099
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	xylose ABC transporter permease protein	ADL33915
+fig|2584656.3.peg.3104|GKG47_03640!!!L-arabinose!ABC!transporter,!permease!protein!AraH!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	65.54%
+Cluster 118315
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Na+ driven multidrug efflux pump	ABF36165
+fig|2584656.3.peg.2008|GKG47_17100!!!Multi!antimicrobial!extrusion!protein!(Na(+)/drug!antiporter),!MATE!family!of!MDR!efflux!pumps!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	65.01%
+Cluster 396072
+104	AE000782	Archaeoglobus fulgidus DSM 4304, complete genome.	No	Archaeoglobi	phosphate ABC transporter, ATP-binding protein (pstB)	AAB89887
+fig|2584656.3.peg.3813|GKG47_21860!!!Phosphate!ABC!transporter,!ATP-binding!protein!PstB!(TC!3.A.1.7.1)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.04%
+Cluster 197029
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	putative solute-binding component of ABC transporter	ADL06328
+fig|2584656.3.peg.3102|GKG47_03630!!!L-arabinose!ABC!transporter,!substrate-binding!protein!AraF!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.53%
+Cluster 329273
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	Protein of unknown function DUF2179	ADL52402
+fig|2584656.3.peg.4308|GKG47_06420!!!Uncharacterized!UPF0750!membrane!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.07%
+Cluster 195193
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL05093
+fig|2584656.3.peg.1537|GKG47_14830!!!FIG01032041:!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.83%
+Cluster 457415
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	endonuclease III Nth	ADL34818
+fig|2584656.3.peg.1688|GKG47_15525!!!Endonuclease!III!(EC!4.2.99.18)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	69.16%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|2584656.3.peg.2139|GKG47_01495!!!LSU!ribosomal!protein!L14p!(L23e)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	83.61%
+Cluster 427409
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	two component system response regulator	ADL35563
+fig|2584656.3.peg.1323|GKG47_13825!!!Two-component!transcriptional!response!regulator,!OmpR!family!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	77.25%
+Cluster 51409
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	phosphoglycerate kinase	ACL76599
+fig|2584656.3.peg.2815|GKG47_18820!!!Triosephosphate!isomerase!(EC!5.3.1.1)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.65%
+Cluster 94101
+12606	CP001097	Chlorobium limicola DSM 245, complete genome.	No	Chlorobia	sodium ion-translocating decarboxylase, beta subunit	ACD89889
+fig|2584656.3.peg.281|GKG47_10045!!!Oxaloacetate!decarboxylase!beta!chain!(EC!4.1.1.3)!@!Methylmalonyl-CoA!decarboxylase,!beta!chain!(EC!4.1.1.41)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.73%
+Cluster 416223
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	AzlC family protein	ADL03682
+fig|2584656.3.peg.349|GKG47_10395!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	65.13%
+Cluster 325714
+20399	CP001656	Paenibacillus sp. JDR-2, complete genome.	No	Bacillales	transcriptional regulator, LysR family	ACT02361
+fig|2584656.3.peg.1807|GKG47_16090!!!Transcriptional!regulator!STM2281,!LysR!family!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	76.04%
+Cluster 15455
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	phosphoketolase 1	ACP24364
+fig|2584656.3.peg.1552|GKG47_14900!!!Xylulose-5-phosphate!phosphoketolase!(EC!4.1.2.9)!@!Fructose-6-phosphate!phosphoketolase!(EC!4.1.2.22)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.90%
+Cluster 50459
+29407	CP001393	Caldicellulosiruptor bescii DSM 6725, complete genome.	No	Clostridia	triosephosphate isomerase	ACM60503
+fig|2584656.3.peg.2814|GKG47_18815!!!Phosphoglycerate!kinase!(EC!2.7.2.3)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.72%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|2584656.3.peg.2154|GKG47_01570!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	86.49%
+Cluster 428641
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	two component transcriptional regulator, winged helix family	ABN53319
+fig|2584656.3.peg.1829|GKG47_16200!!!ABC!transporter-like!sensor!linked!response!regulator!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	71.30%
+Cluster 104890
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	UDP-N-acetylmuramoylalanyl-D-glutamate-2, 6-diaminopimelate ligase MurE	ADL34728
+fig|2584656.3.peg.2422|GKG47_02855!!!UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate!ligase!(EC!6.3.2.13)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.92%
+Cluster 107566
+28857	CP001056	Clostridium botulinum B str. Eklund 17B, complete genome.	No	Clostridia	xylulokinase	ACD24398
+fig|2584656.3.peg.4159|GKG47_22630!!!Xylulose!kinase!(EC!2.7.1.17)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	73.42%
+Cluster 506915
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	chromosome segregation and condensation protein ScpB	ADL33964
+fig|2584656.3.peg.3916|GKG47_22350!!!Segregation!and!condensation!protein!B!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.32%
+Cluster 135807
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative mobilization protein	CAJ67947
+fig|2584656.3.peg.1765|GKG47_15890!!!FIG00647030:!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	84.15%
+Cluster 437954
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein L3 RplC	ADL33339
+fig|2584656.3.peg.2129|GKG47_01445!!!LSU!ribosomal!protein!L3p!(L3e)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	77.73%
+Cluster 372239
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ribonuclease Z	ADL04465
+fig|2584656.3.peg.2776|GKG47_18635!!!Zn-dependent!hydrolase!YycJ/WalJ,!required!for!cell!wall!metabolism!and!coordination!of!cell!division!with!DNA!replication!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.89%
+Cluster 710118
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Phosphotransferase system, phosphocarrier protein HPr	ABX40720
+fig|2584656.3.peg.2121|GKG47_01405!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	71.43%
+Cluster 246525
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	heat-inducible transcription repressor HrcA	ABX42674
+fig|2584656.3.peg.2184|GKG47_01710!!!Heat-inducible!transcription!repressor!HrcA!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.64%
+Cluster 178012
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	Orn/DAP/Arg decarboxylase 2	ADB48238
+fig|2584656.3.peg.4552|GKG47_07555!!!Carboxynorspermidine!decarboxylase!(EC!4.1.1.96)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.44%
+Cluster 684477
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	protein of unknown function DUF77	ABX41528
+fig|2584656.3.peg.1461|GKG47_14460!!!UPF0045!protein!CPE1503!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	93.88%
+Cluster 226276
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	unknown	AAU38765
+fig|2584656.3.peg.4759|GKG47_08565!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.38%
+Cluster 507827
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	3-isopropylmalate dehydratase, small subunit	ABN53412
+fig|2584656.3.peg.3364|GKG47_20535!!!3-isopropylmalate!dehydratase!small!subunit!(EC!4.2.1.33)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	76.25%
+Cluster 701978
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	prevent-host-death family protein	ACV63024
+fig|2584656.3.peg.2617|GKG47_17890!!!Prevent-host-death!family!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	85.56%
+Cluster 747861
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	phage shock protein C, PspC	ADL04990
+fig|2584656.3.peg.2099|GKG47_01310!!!Uncharacterized!protein!CA_C2659!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.33%
+Cluster 161041
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	DNA-directed DNA polymerase	ADL04864
+fig|2584656.3.peg.3837|GKG47_21980!!!DNA!polymerase!IV!(EC!2.7.7.7)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.67%
+Cluster 190549
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ABC transporter related protein	ADL06183
+fig|2584656.3.peg.3401|GKG47_20705!!!Gliding!motility-associated!ABC!transporter!ATP-binding!protein!GldA!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.76%
+Cluster 646296
+18737	CP000837	Streptococcus suis GZ1, complete genome.	Yes	Lactobacillales	VirB2-like protein	ADE30951
+fig|2584656.3.peg.429|GKG47_10785!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	74.36%
+fig|2584656.3.peg.820|GKG47_12680!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	70.69%
+Cluster 33726
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	DNA topoisomerase IV subunit A ParC	ADL34197
+fig|2584656.3.peg.4332|GKG47_06540!!!DNA!topoisomerase!IV!subunit!A!(EC!5.99.1.3)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	66.71%
+Cluster 20858
+13376	CP001791	Bacillus selenitireducens MLS10, complete genome.	No	Bacillales	Terminase	ADI00491
+fig|2584656.3.peg.4772|GKG47_08625!!!Phage!terminase,!large!subunit!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	72.22%
+Cluster 56734
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	NADH dehydrogenase (quinone)	ABN51667
+fig|2584656.3.peg.3946|GKG47_22495!!!Bifurcating![FeFe]!hydrogenase,!beta!subunit!(EC!1.12.1.4)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.40%
+Cluster 450603
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	CoA-binding domain protein	ADL04182
+fig|2584656.3.peg.683|GKG47_12010!!!Redox-sensing!transcriptional!repressor!Rex!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	70.56%
+Cluster 451189
+15771	CP000360	Candidatus Koribacter versatilis Ellin345, complete genome.	No	Candidatus Koribacter	LSU ribosomal protein L5P	ABF40240
+fig|2584656.3.peg.2141|GKG47_01505!!!LSU!ribosomal!protein!L5p!(L11e)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.34%
+Cluster 562738
+17729	CP000769	Anaeromyxobacter sp. Fw109-5, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ABS26139
+fig|2584656.3.peg.2156|GKG47_01580!!!SSU!ribosomal!protein!S11p!(S14e)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	66.15%
+Cluster 69317
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Fibronectin-binding A domain protein	ADL04524
+fig|2584656.3.peg.3328|GKG47_20365!!!Fibronectin/fibrinogen-binding!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.73%
+Cluster 247732
+32637	CP002116	Spirochaeta smaragdinae DSM 11293, complete genome.	No	Spirochaetales	inner-membrane translocator	ADK82507
+fig|2584656.3.peg.4797|GKG47_08745!!!ABC!transporter,!permease!protein!(cluster!2,!ribose/xylose/arabinose/galactose)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.37%
+Cluster 46890
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ferrous iron transport protein B	ADL03425
+fig|2584656.3.peg.1332|GKG47_13865!!!Ferrous!iron!transporter!FeoB!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	69.29%
+Cluster 212475
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Nucleotidyl transferase	ADL02764
+fig|2584656.3.peg.585|GKG47_11535!!!Glucose-1-phosphate!adenylyltransferase!(EC!2.7.7.27)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	79.51%
+Cluster 124787
+32197	FM179323	Lactobacillus rhamnosus Lc 705 whole genome sequence, strain Lc 705.	No	Lactobacillales	Sodium/sulphate symporter	CAR91497
+fig|2584656.3.peg.2285|GKG47_02190!!!putative!sodium:sulfate!symporter!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.14%
+Cluster 443936
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	putative UDP-N-acetylglucosamine diphosphorylase	ABX43625
+fig|2584656.3.peg.3866|GKG47_22115!!!Glucosamine-1-phosphate!N-acetyltransferase!(EC!2.3.1.157)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	66.96%
+Cluster 397585
+304	CP000246	Clostridium perfringens ATCC 13124, complete genome.	Yes	Clostridia	creatininase	ABG84729
+fig|2584656.3.peg.1105|GKG47_00615!!!Creatinine!amidohydrolase!(EC!3.5.2.10)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.15%
+Cluster 339364
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Cobyrinic acid ac-diamide synthase	ABX44282
+fig|2584656.3.peg.3395|GKG47_20680!!!Chromosome!(plasmid)!partitioning!protein!ParA!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	71.32%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|2584656.3.peg.2155|GKG47_01575!!!SSU!ribosomal!protein!S13p!(S18e)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	78.69%
+Cluster 159270
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	amidohydrolase	ABX42406
+fig|2584656.3.peg.1920|GKG47_16670!!!S-adenosylhomocysteine!deaminase!(EC!3.5.4.28);!Methylthioadenosine!deaminase!(EC!3.5.4.31)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.77%
+Cluster 621909
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	ribosomal protein S16	ABS02886
+fig|2584656.3.peg.940|GKG47_13250!!!SSU!ribosomal!protein!S16p!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.49%
+Cluster 637368
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL03375
+fig|2584656.3.peg.2574|GKG47_17685!!!FIG01032287:!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.29%
+Cluster 10564
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	isoleucyl-tRNA synthetase	ADL05433
+fig|2584656.3.peg.2051|GKG47_17300!!!Isoleucyl-tRNA!synthetase!(EC!6.1.1.5)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	80.21%
+Cluster 336203
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	inosine guanosine and xanthosine phosphorylase family	ABX42400
+fig|2584656.3.peg.2779|GKG47_18650!!!Purine!nucleoside!phosphorylase!(EC!2.4.2.1)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	73.29%
+Cluster 101265
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ATP-dependent Clp protease ATP-binding subunit ClpX1	ADL32946
+fig|2584656.3.peg.2390|GKG47_02700!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpX!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	69.28%
+Cluster 243527
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	arsenical-resistance protein	ADB47909
+fig|2584656.3.peg.3236|GKG47_04265!!!Arsenical-resistance!protein!ACR3!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	69.16%
+Cluster 535807
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	nucleoside recognition domain protein	ABX44254
+fig|2584656.3.peg.1150|GKG47_00810!!!Spore!maturation!protein!B!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.64%
+Cluster 328634
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	4Fe-4S ferredoxin iron-sulfur binding domain protein	ACL20023
+fig|2584656.3.peg.3450|GKG47_20930!!!MinD!superfamily!P-loop!ATPase!containing!an!inserted!ferredoxin!domain!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	75.87%
+Cluster 743299
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	protein of unknown function DUF951	ADL02870
+fig|2584656.3.peg.917|GKG47_13135!!!Uncharacterized!protein!CAC3725!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	81.97%
+Cluster 642295
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	iron (metal) dependent repressor, DtxR family	ABX41569
+fig|2584656.3.peg.1653|GKG47_15365!!!Iron-dependent!repressor!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	69.75%
+Cluster 376038
+20739	CP001682	Cryptobacterium curtum DSM 15641, complete genome.	Yes	Coriobacteridae	exodeoxyribonuclease III	ACU94851
+fig|2584656.3.peg.3829|GKG47_21940!!!Exodeoxyribonuclease!III!(EC!3.1.11.2)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.96%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|2584656.3.peg.2153|GKG47_01565!!!Translation!initiation!factor!1!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.06%
+Cluster 610477
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL03938
+fig|2584656.3.peg.3793|GKG47_05135!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.58%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|2584656.3.peg.694|GKG47_12065!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	73.81%
+Cluster 110586
+41467	CP002028	Thermincola sp. JR, complete genome.	No	Clostridia	inosine-5'-monophosphate dehydrogenase	ADG82179
+fig|2584656.3.peg.2216|GKG47_01855!!!Inosine-5'-monophosphate!dehydrogenase!(EC!1.1.1.205)!/!CBS!domain!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	70.04%
+Cluster 25677
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	TRSE protein	ABF36177
+fig|2584656.3.peg.425|GKG47_10765!!!FIG01020158:!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.53%
+fig|2584656.3.peg.816|GKG47_12660!!!FIG01020158:!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.04%
+Cluster 567348
+19619	CP000817	Lysinibacillus sphaericus C3-41, complete genome.	No	Bacillales	EbsC protein	ACA39336
+fig|2584656.3.peg.363|GKG47_10470!!!tRNA!proofreading!protein!STM4549!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.26%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|2584656.3.peg.518|GKG47_11215!!!LSU!ribosomal!protein!L11p!(L12e)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.70%
+Cluster 723308
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Phosphotransferase system, phosphocarrier protein HPr	ADL03509
+fig|2584656.3.peg.2194|GKG47_01760!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	81.82%
+Cluster 464613
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	cobalamin B12-binding domain protein	ACL22641
+fig|2584656.3.peg.2418|GKG47_02840!!!Uncharacterized!corrinoid!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	65.88%
+Cluster 737712
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	conserved hypothetical protein	ABN53659
+fig|2584656.3.peg.4147|GKG47_06060!!!Phage!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	73.13%
+fig|2584656.3.peg.4412|GKG47_23005!!!Phage!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	73.13%
+Cluster 439178
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	precorrin-2 C20-methyltransferase	ABX41750
+fig|2584656.3.peg.1962|GKG47_16870!!!Cobalt-precorrin-2!C(20)-methyltransferase!(EC!2.1.1.151)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.79%
+Cluster 552741
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	(2Fe-2S)-binding domain protein	ADL03642
+fig|2584656.3.peg.3543|GKG47_21385!!!Xanthine!dehydrogenase!iron-sulfur!subunit!(EC!1.17.1.4)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	65.62%
+Cluster 663029
+18797	AM406671	Lactococcus lactis subsp. cremoris MG1363, complete genome.	No	Lactobacillales	putative transcriptional regulator	CAL99018
+fig|2584656.3.peg.1641|GKG47_15305!!!Transcriptional!regulator,!HxlR!family!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.75%
+Cluster 612640
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	redox-active disulfide protein 2	ADL05294
+fig|2584656.3.peg.3235|GKG47_04260!!!Redox-active!disulfide!protein!2!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.50%
+Cluster 587322
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	ribosomal protein L16	ABR50543
+fig|2584656.3.peg.2136|GKG47_01480!!!LSU!ribosomal!protein!L16p!(L10e)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	73.79%
+Cluster 627907
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	protein of unknown function DUF322	ADL05773
+fig|2584656.3.peg.4268|GKG47_06225!!!Alkaline!shock!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	73.81%
+Cluster 534167
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	cytidine deaminase	ABX41141
+fig|2584656.3.peg.3686|GKG47_04635!!!Cytidine!deaminase!(EC!3.5.4.5)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.22%
+Cluster 188725
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	putative aromatic amino acid aminotransferase	ADK13547
+fig|2584656.3.peg.1425|GKG47_14285!!!Biosynthetic!Aromatic!amino!acid!aminotransferase!alpha!(EC!2.6.1.57)!@!Aspartate!aminotransferase!(EC!2.6.1.1)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.15%
+Cluster 81276
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	Conserved hypothetical protein	EDK34512
+fig|2584656.3.peg.4781|GKG47_08670!!!Spermidine!synthase-like!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.51%
+Cluster 119837
+33271	AP009049	Clostridium kluyveri NBRC 12016 DNA, complete genome.	No	Clostridia	hypothetical protein	BAH07405
+fig|2584656.3.peg.2549|GKG47_17560!!!DNA!helicase!(EC!3.6.4.12),!phage-associated!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	61.54%
+Cluster 649083
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL03711
+fig|2584656.3.peg.3214|GKG47_04170!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.10%
+Cluster 250704
+18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	No	Actinobacteridae	Hypothetical protein	ACD97957
+fig|2584656.3.peg.2290|GKG47_02215!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	66.67%
+Cluster 717730
+37873	CP002048	Syntrophothermus lipocalidus DSM 12680, complete genome.	No	Clostridia	ribosomal protein L33	ADI02994
+fig|2584656.3.peg.515|GKG47_11200!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-dependent!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	71.43%
+Cluster 721689
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	acyl carrier protein	ADL34312
+fig|2584656.3.peg.3517|GKG47_21260!!!Acyl!carrier!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	64.47%
+Cluster 528679
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	ribosomal protein L17	ADL06257
+fig|2584656.3.peg.2159|GKG47_01595!!!LSU!ribosomal!protein!L17p!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	82.58%
+Cluster 528675
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Recombination protein U	ABX43148
+fig|2584656.3.peg.218|GKG47_09735!!!RecU!Holliday!junction!resolvase!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	66.10%
+Cluster 187061
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Rubrerythrin	ADL05267
+fig|2584656.3.peg.3455|GKG47_20955!!!Rubrerythrin!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	70.20%
+Cluster 524679
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	CDP-diacylglycerol/glycerol-3-phosphate 3-phosphatidyltransferase	ADL04529
+fig|2584656.3.peg.3322|GKG47_20335!!!CDP-diacylglycerol--glycerol-3-phosphate!3-phosphatidyltransferase!(EC!2.7.8.5)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.04%
+Cluster 325545
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	beta-lactamase domain-containing protein	ADL06561
+fig|2584656.3.peg.381|GKG47_10555!!!MBL-fold!metallo-hydrolase!superfamily!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.07%
+Cluster 427237
+41467	CP002028	Thermincola sp. JR, complete genome.	No	Clostridia	flavin reductase domain protein FMN-binding protein	ADG82833
+fig|2584656.3.peg.2656|GKG47_18075!!!Rubredoxin!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.52%
+Cluster 220100
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	S-adenosyl-methyltransferase MraW	ABX40661
+fig|2584656.3.peg.3654|GKG47_04485!!!16S!rRNA!(cytosine(1402)-N(4))-methyltransferase!(EC!2.1.1.199)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	73.16%
+Cluster 50523
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	transcription termination factor Rho	ABX40797
+fig|2584656.3.peg.3270|GKG47_20020!!!Transcription!termination!factor!Rho!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.71%
+Cluster 89990
+18109	CP000559	Methanocorpusculum labreanum Z, complete genome.	No	Methanomicrobia	hybrid cluster protein	ABN07687
+fig|2584656.3.peg.3626|GKG47_21775!!!Hydroxylamine!reductase!(EC!1.7.99.1)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	62.79%
+Cluster 216426
+29531	CP001818	Thermanaerovibrio acidaminovorans DSM 6589, complete genome.	No	Synergistia	uracil phosphoribosyltransferase	ACZ19174
+fig|2584656.3.peg.1948|GKG47_16815!!!Uracil!phosphoribosyltransferase!(EC!2.4.2.9)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.94%
+Cluster 392543
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	electron transport complex, RnfABCDGE type, E subunit	ABX40601
+fig|2584656.3.peg.260|GKG47_09940!!!Electron!transport!complex!protein!RnfE!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	63.79%
+Cluster 753583
+12606	CP001097	Chlorobium limicola DSM 245, complete genome.	No	Chlorobia	Rubredoxin-type Fe(Cys)4 protein	ACD89276
+fig|2584656.3.peg.2498|GKG47_03225!!!Rubredoxin!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	65.38%
+Cluster 631538
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	hypothetical protein	ACV62373
+fig|2584656.3.peg.3604|GKG47_21665!!!hypothetical!protein!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.34%
+Cluster 147529
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative GMP synthase	ABR43567
+fig|2584656.3.peg.911|GKG47_13105!!!GMP!synthase![glutamine-hydrolyzing],!amidotransferase!subunit!(EC!6.3.5.2)!/!GMP!synthase![glutamine-hydrolyzing],!ATP!pyrophosphatase!subunit!(EC!6.3.5.2)!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	80.70%
+Cluster 67337
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Peptidoglycan glycosyltransferase	ADL05032
+fig|2584656.3.peg.2440|GKG47_02945!!!Cell!division!protein!FtsI![Peptidoglycan!synthetase]!(EC!2.4.1.129)!@!Sporulation!peptidoglycan!synthetase!SpoVD!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	65.85%
+Cluster 692587
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S6 RpsF	ADL32988
+fig|2584656.3.peg.918|GKG47_13140!!!SSU!ribosomal!protein!S6p!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	68.42%
+Cluster 741101
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	conserved hypothetical protein, CF-27 family	ABX44100
+fig|2584656.3.peg.4203|GKG47_22840!!!Uncharacterized!protein!CPF_2956!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	60.61%
+Cluster 714071
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S Ribosomal protein S21	ABP90399
+fig|2584656.3.peg.1992|GKG47_17020!!!SSU!ribosomal!protein!S21p!!![Lactonifactor!sp.!BIOML-A3!|!2584656.3]	67.24%

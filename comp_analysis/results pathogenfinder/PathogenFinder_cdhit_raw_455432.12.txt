@@ -1,0 +1,1469 @@
+Cluster 224484
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	3-isopropylmalate dehydrogenase	ABM07291
+fig|455432.12.peg.4750|HPY32_32265!!!3-isopropylmalate!dehydrogenase!(EC!1.1.1.85)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.96%
+Cluster 597168
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	GCN5-related N-acetyltransferase	ABS03751
+fig|455432.12.peg.6731|HPY32_20225!!!Histone!acetyltransferase!HPA2!and!related!acetyltransferases!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.65%
+Cluster 283114
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	hydrogen peroxide-inducible genes activator, OxyR	ACC41198
+fig|455432.12.peg.7973|HPY32_40730!!!Hydrogen!peroxide-inducible!genes!activator!=>!OxyR!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.45%
+Cluster 317566
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative sugar ABC transporter permease protein	BAG21419
+fig|455432.12.peg.717|HPY32_03545!!!ABC!transporter,!permease!protein!2!(cluster!1,!maltose/g3p/polyamine/iron)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.08%
+Cluster 245059
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative Mce family protein	BAD60482
+fig|455432.12.peg.6539|HPY32_19290!!!MCE-family!protein!MceB!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.85%
+Cluster 321883
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	transcriptional regulatory protein, tetR-family	ABR07931
+fig|455432.12.peg.5559|HPY32_14755!!!Transcriptional!regulator!KstR,!TetR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.30%
+Cluster 654580
+19227	CP000910	Renibacterium salmoninarum ATCC 33209, complete genome.	No	Actinobacteridae	phosphoribosyl-ATP pyrophosphatase	ABY24073
+fig|455432.12.peg.8944|HPY32_34215!!!Phosphoribosyl-ATP!pyrophosphatase!(EC!3.6.1.31)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.92%
+Cluster 331310
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59381
+fig|455432.12.peg.3839|HPY32_28100!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.41%
+Cluster 120689
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative nucleotide-binding protein	BAG19093
+fig|455432.12.peg.6326|HPY32_18350!!!cAMP-binding!proteins!-!catabolite!gene!activator!and!regulatory!subunit!of!cAMP-dependent!protein!kinases!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.77%
+Cluster 387050
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Oligoribonuclease	CAJ60413
+fig|455432.12.peg.722|HPY32_03565!!!3'-to-5'!oligoribonuclease!(orn)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.25%
+Cluster 651865
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative cation antiporter dehydrogenase	BAC75158
+fig|455432.12.peg.7860|HPY32_40165!!!dehydrogenase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.48%
+Cluster 276599
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative acetyltransferase	BAD60154
+fig|455432.12.peg.2577|HPY32_22140!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.04%
+Cluster 389384
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative enoyl-CoA hydratase/isomerase family protein	BAD59138
+fig|455432.12.peg.4637|HPY32_31750!!!Enoyl-CoA!hydratase!(EC!4.2.1.17)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.26%
+Cluster 274529
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	ribose-phosphate pyrophosphokinase	ADB31901
+fig|455432.12.peg.3044|HPY32_24420!!!Ribose-phosphate!pyrophosphokinase!(EC!2.7.6.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.04%
+Cluster 135062
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	Superfamily I DNA and RNA helicase and helicase subunits-like protein	ACY97061
+fig|455432.12.peg.3881!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.12%
+Cluster 31735
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	penicillin acylase	ACZ88124
+fig|455432.12.peg.8018|HPY32_40940!!!Penicillin!amidase!family!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.43%
+Cluster 210080
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative cytochrome c oxidase subunit II	BAD56554
+fig|455432.12.peg.1653|HPY32_07990!!!Cytochrome!c!oxidase!polypeptide!II!(EC!1.9.3.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	79.06%
+Cluster 170458
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	conserved hypothetical protein	CBG75153
+fig|455432.12.peg.7840|HPY32_40085!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	79.06%
+Cluster 417250
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative 3-oxoacyl-ACP reductase	BAG22510
+fig|455432.12.peg.814|HPY32_04005!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.55%
+Cluster 135682
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative transcriptional regulator	BAD59916
+fig|455432.12.peg.3014|HPY32_24275!!!GAF!domain-containing!protein!/!Signal!transduction!response!regulator!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.38%
+Cluster 536408
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD55205
+fig|455432.12.peg.5657|HPY32_15235!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.27%
+Cluster 130993
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	Beta-ketoacyl synthase	ACY19963
+fig|455432.12.peg.5056|HPY32_12260!!!Polyketide!synthetase!MbtC!@!Polyketide!synthase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.84%
+Cluster 315636
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative binding-protein-dependent transporter integral membrane subunit	CBG72963
+fig|455432.12.peg.7696|HPY32_39450!!!ABC!transporter,!permease!protein!2!(cluster!1,!maltose/g3p/polyamine/iron)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	77.36%
+Cluster 268625
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative dehydrogenase	BAC71668
+fig|455432.12.peg.8880|HPY32_33920!!!Putative!oxidoreductase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.31%
+Cluster 20679
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative ABC transporter ATP-binding protein	BAD55709
+fig|455432.12.peg.4929|HPY32_11655!!!Efflux!transmembrane!permease!Rv1747!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.32%
+Cluster 183786
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	putative GTP-binding protein YchF	ABM09084
+fig|455432.12.peg.3524|HPY32_26625!!!GTP-binding!and!nucleic!acid-binding!protein!YchF!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.82%
+Cluster 114783
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	putative transcriptional regulator, Crp/Fnr family	ACU73476
+fig|455432.12.peg.4354|HPY32_30410!!!cAMP-binding!proteins!-!catabolite!gene!activator!and!regulatory!subunit!of!cAMP-dependent!protein!kinases!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.45%
+fig|455432.12.peg.7120|HPY32_36760!!!cAMP-binding!proteins!-!catabolite!gene!activator!and!regulatory!subunit!of!cAMP-dependent!protein!kinases!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.79%
+Cluster 646775
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ABG08297
+fig|455432.12.peg.7910|HPY32_40430!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	87.00%
+Cluster 658846
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	transcription factor WhiB	ADB76792
+fig|455432.12.peg.3834|HPY32_28075!!!Transcriptional!regulator,!WhiB!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.05%
+Cluster 136068
+20737	CP001874	Thermobispora bispora DSM 43833, complete genome.	No	Actinobacteridae	permease for cytosine/purines uracil thiamine allantoin	ADG87154
+fig|455432.12.peg.7830|HPY32_40035!!!Cytosine/purine/uracil/thiamine/allantoin!permease!family!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.95%
+Cluster 358119
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	binding-protein-dependent transport systems inner membrane component	ACY96061
+fig|455432.12.peg.5794|HPY32_15890!!!Alkanesulfonate!ABC!transporter!permease!protein!SsuC!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.37%
+Cluster 384991
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	putative short chain oxidoreductase	CAJ62281
+fig|455432.12.peg.1064|HPY32_05180!!!short!chain!oxidoreductase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.89%
+Cluster 586464
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59106
+fig|455432.12.peg.9148|HPY32_35200!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.38%
+Cluster 94497
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Riboflavin biosynthesis protein ribA [Includes: GTP cyclohydrolase II; 3,4-dihydroxy-2-butanone 4-phosphate synthase (DHBP synthase)]	CAJ63853
+fig|455432.12.peg.7433|HPY32_38250!!!3,4-dihydroxy-2-butanone!4-phosphate!synthase!(EC!4.1.99.12)!/!GTP!cyclohydrolase!II!(EC!3.5.4.25)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.67%
+Cluster 340943
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	PspA/IM30 family protein	ADL45064
+fig|455432.12.peg.8212|HPY32_41765!!!Phage!shock!protein!A!(IM30),!suppresses!sigma54-dependent!transcription!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.31%
+Cluster 661350
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	Ribosomal protein L25/L23	ACU69865
+fig|455432.12.peg.5080|HPY32_12380!!!LSU!ribosomal!protein!L23p!(L23Ae)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.35%
+Cluster 384636
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved membrane protein	ABL06811
+fig|455432.12.peg.2100|HPY32_10155!!!FIG00825602:!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.84%
+Cluster 739677
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD58074
+fig|455432.12.peg.2987|HPY32_24145!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.73%
+Cluster 243176
+19707	CP001964	Cellulomonas flavigena DSM 20109, complete genome.	No	Actinobacteridae	protein of unknown function DUF344	ADG75634
+fig|455432.12.peg.2763|HPY32_23040!!!UDP-galactose-lipid!carrier!transferase!(EC!2.-.-.-)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.99%
+Cluster 132854
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	permease for cytosine/purines uracil thiamine allantoin	ACU76653
+fig|455432.12.peg.3348|HPY32_25850!!!Predicted!hydroxymethylpyrimidine!transporter!CytX!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.70%
+Cluster 63656
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial precursor (P5C dehydrogenase)	CAJ62989
+fig|455432.12.peg.1728|HPY32_08355!!!Delta-1-pyrroline-5-carboxylate!dehydrogenase!(EC!1.2.1.88)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.96%
+Cluster 55426
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	2-oxoglutarate dehydrogenase E2 component	ABG09420
+fig|455432.12.peg.1634|HPY32_07910!!!Dihydrolipoamide!acetyltransferase!component!of!pyruvate!dehydrogenase!complex!(EC!2.3.1.12)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.24%
+Cluster 559013
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	transcriptional regulator, XRE family	ABG06763
+fig|455432.12.peg.2772|HPY32_23085!!!XRE!family!transcriptional!regulator!SCO4198!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.74%
+Cluster 724527
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	protein of unknown function DUF466	ACV78685
+fig|455432.12.peg.3505|HPY32_26550!!!Uncharacterized!protein!Tcur_0335!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.90%
+Cluster 114904
+10670	CP000386	Rubrobacter xylanophilus DSM 9941, complete genome.	No	Rubrobacteridae	L-fucose isomerase	ABG03800
+fig|455432.12.peg.5301|HPY32_13455!!!L-fucose!isomerase!(EC!5.3.1.25)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.76%
+Cluster 597949
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	transcriptional regulator, ArsR family protein	ABK67371
+fig|455432.12.peg.1234|HPY32_05990!!!Transcriptional!regulator!in!glycyl-tRNA!synthetase!containing!cluster!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.65%
+Cluster 154096
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative biotin synthase	BAG23111
+fig|455432.12.peg.3454|HPY32_26310!!!Biotin!synthase!(EC!2.8.1.6)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.91%
+Cluster 441936
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS03860
+fig|455432.12.peg.8837|HPY32_33705!!!Transcriptional!regulator!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	79.08%
+Cluster 146711
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	cytochrome P450 monooxygenase	BAD59492
+fig|455432.12.peg.3720|HPY32_27540!!!putative!cytochrome!P450!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.68%
+Cluster 238483
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative esterase	BAD58089
+fig|455432.12.peg.7735|HPY32_39640!!!Antigen!85-B!precursor!(85B)!(Extracellular!alpha-antigen)!(Antigen!85!complex!B)!(Ag85B)!(Mycolyl!transferase!85B)!(EC!2.3.1.-)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	76.26%
+Cluster 466103
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59836
+fig|455432.12.peg.3099|HPY32_24680!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	76.88%
+Cluster 402552
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative succinate dehydrogenase iron-sulfur subunit	BAD60455
+fig|455432.12.peg.6594|HPY32_19550!!!Succinate!dehydrogenase!iron-sulfur!protein!(EC!1.3.5.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	89.11%
+Cluster 587529
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	conserved hypothetical protein	CBG72041
+fig|455432.12.peg.9068|HPY32_34810!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.10%
+Cluster 7948
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	DNA polymerase III, subunits gamma and tau	ADB29531
+fig|455432.12.peg.3809!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.00%
+Cluster 235950
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	ribosomal protein S2	ACQ80757
+fig|455432.12.peg.8577|HPY32_43460!!!SSU!ribosomal!protein!S2p!(SAe)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.10%
+Cluster 82862
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59672
+fig|455432.12.peg.3425|HPY32_26195!!!Adenylate!cyclase!(EC!4.6.1.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.50%
+Cluster 139150
+19707	CP001964	Cellulomonas flavigena DSM 20109, complete genome.	No	Actinobacteridae	L-lysine 6-monooxygenase (NADPH)	ADG76493
+fig|455432.12.peg.7536|HPY32_38735!!!L-ornithine!5-monooxygenase!(EC!1.13.12.-),!PvdA!of!pyoverdin!biosynthesis!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.57%
+Cluster 156269
+12738	CP000509	Nocardioides sp. JS614, complete genome.	No	Actinobacteridae	oligopeptide/dipeptide ABC transporter, ATPase subunit	ABL81908
+fig|455432.12.peg.9073|HPY32_34835!!!Oligopeptide!ABC!transporter,!ATP-binding!protein!OppF!(TC!3.A.1.5.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.08%
+Cluster 604919
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	conserved hypothetical protein	CAJ62852
+fig|455432.12.peg.7058|HPY32_36490!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	81.48%
+Cluster 315176
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative hydrolase	BAC74909
+fig|455432.12.peg.9220|HPY32_35530!!!Putative!hydrolase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.49%
+Cluster 7990
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	malate synthase A	ACG74318
+fig|455432.12.peg.2749|HPY32_22970!!!Isocitrate!lyase!(EC!4.1.3.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.00%
+Cluster 493609
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	cysteine dioxygenase type I superfamily protein	ABK65420
+fig|455432.12.peg.5594|HPY32_14930!!!Cysteine!dioxygenase!(EC!1.13.11.20)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.37%
+Cluster 373263
+212	AE016822	Leifsonia xyli subsp. xyli str. CTCB07, complete genome.	No	Actinobacteridae	oxidoreductase	AAT89428
+fig|455432.12.peg.108|HPY32_00495!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.94%
+Cluster 101183
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	hypothetical protein	ACY21255
+fig|455432.12.peg.6511|HPY32_19175!!!Basic!proline-rich!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.15%
+Cluster 165851
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	dTDP-glucose 4,6-dehydratase	AAN25045
+fig|455432.12.peg.6164|HPY32_17610!!!dTDP-glucose!4,6-dehydratase!(EC!4.2.1.46)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.06%
+Cluster 610629
+18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Yes	Actinobacteridae	protein-export membrane protein	ABQ73192
+fig|455432.12.peg.7402|HPY32_38110!!!Protein!translocase!membrane!subunit!SecG!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.13%
+Cluster 660747
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	rhodanese-related sulfurtransferase	ACZ85479
+fig|455432.12.peg.268|HPY32_01290!!!Rhodanese-like!domain!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.22%
+Cluster 417292
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59409
+fig|455432.12.peg.3804|HPY32_27935!!!Sirohydrochlorin!ferrochelatase!SirB!(EC!4.99.1.4)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.78%
+Cluster 162493
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59477
+fig|455432.12.peg.3731|HPY32_27590!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.67%
+Cluster 610402
+18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Yes	Actinobacteridae	hypothetical protein	ABQ75665
+fig|455432.12.peg.6234|HPY32_17930!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+Cluster 27888
+20737	CP001874	Thermobispora bispora DSM 43833, complete genome.	No	Actinobacteridae	Transketolase central region	ADG88867
+fig|455432.12.peg.7404|HPY32_38120!!!TTP-dependent!protein,!related!to!E1!component!of!pyruvate/2-oxoglutarate/acetoin!dehydrogenase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.22%
+Cluster 434114
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved protein	ABL04469
+fig|455432.12.peg.4792|HPY32_32480!!!Acylphosphate!phosphohydrolase!(EC!3.6.1.7)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.44%
+fig|455432.12.peg.4793|HPY32_32485!!!FIG00997866:!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.26%
+Cluster 142402
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59826
+fig|455432.12.peg.3104|HPY32_24705!!!Metal!chaperone,!involved!in!Zn!homeostasis!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.84%
+Cluster 726287
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAC73523
+fig|455432.12.peg.7382|HPY32_38010!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.06%
+Cluster 271761
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	aspartate/ornithine carbamoyltransferase carbamoyl-P binding domain protein	ACV80167
+fig|455432.12.peg.4413|HPY32_30690!!!Ornithine!carbamoyltransferase-like!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.83%
+Cluster 506023
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	integration host factor mihF	ABR05760
+fig|455432.12.peg.7458|HPY32_38370!!!Integration!host!factor!MihF!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	87.74%
+Cluster 554466
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR07612
+fig|455432.12.peg.3733|HPY32_27600!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.29%
+Cluster 67730
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	prolipoprotein diacylglyceryl transferase	ACY22153
+fig|455432.12.peg.1847|HPY32_08935!!!Prolipoprotein!diacylglyceryl!transferase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.54%
+Cluster 521711
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD60016
+fig|455432.12.peg.2822|HPY32_23320!!!Uncharacterized!membrane!protein!Rv0513!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.07%
+Cluster 460871
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	putative transcriptional regulator, TetR family	ACZ88101
+fig|455432.12.peg.891|HPY32_04370!!!Transcriptional!regulator,!AcrR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.19%
+Cluster 53628
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	putative transcriptional regulator, PucR family	ACZ91157
+fig|455432.12.peg.7256|HPY32_37420!!!Regulator!of!polyketide!synthase!expression!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.72%
+Cluster 201668
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	luciferase family protein	ABS05731
+fig|455432.12.peg.8958|HPY32_34285!!!N5,N10-methylenetetrahydromethanopterin!reductase-related!protein,!SCO6416-type!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.99%
+Cluster 386483
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	urease, gamma subunit	ACG72211
+fig|455432.12.peg.8872|HPY32_33880!!!Urease!gamma!subunit!(EC!3.5.1.5)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.00%
+Cluster 131714
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	Mandelate racemase/muconate lactonizing protein	ABS05656
+fig|455432.12.peg.1951|HPY32_09420!!!L-fuconate!dehydratase!(EC!4.2.1.68)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.01%
+Cluster 390332
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD55409
+fig|455432.12.peg.5372|HPY32_13830!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	80.26%
+Cluster 87882
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative probable amino acid/metabolite permease.	CBG74582
+fig|455432.12.peg.724|HPY32_03580!!!Urea!carboxylase-related!amino!acid!permease!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.23%
+Cluster 666071
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	Antibiotic biosynthesis monooxygenase	ABG10855
+fig|455432.12.peg.5579|HPY32_14855!!!Heme-degrading!protein!MhuD!(no!EC)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	77.14%
+Cluster 326236
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	haloacetate dehalogenase	ACZ88027
+fig|455432.12.peg.3202|HPY32_25175!!!Putative!hydrolase!or!acyltransferase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	81.79%
+Cluster 295374
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Phosphoglycerate mutase	ADC85467
+fig|455432.12.peg.2793|HPY32_23185!!!Phosphoglycerate!mutase!(EC!5.4.2.11)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.02%
+Cluster 101130
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	sugar-transport integral membrane protein sugI	ABR07688
+fig|455432.12.peg.2050|HPY32_09905!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.17%
+Cluster 565965
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative quinone binding protein	CBG69085
+fig|455432.12.peg.4095|HPY32_29330!!!putative!quinone!binding!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.90%
+Cluster 27423
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	ABC-type transporter	ACC39378
+fig|455432.12.peg.8509|HPY32_43140!!!ABC!transporter,!fused!permease!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.88%
+Cluster 293006
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	putative DNA-binding protein, HTH regulator	CAJ62282
+fig|455432.12.peg.1063|HPY32_05175!!!Putative!DNA-binding!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.96%
+Cluster 226601
+223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Yes	Actinobacteridae	chalcone/stilbene synthase family protein	AAK48066
+fig|455432.12.peg.5598|HPY32_14950!!!Ketopantoate!reductase!PanG!(EC!1.1.1.169)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.26%
+Cluster 307119
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative lipoprotein	BAD59259
+fig|455432.12.peg.7365|HPY32_37935!!!Methionine!ABC!transporter!substrate-binding!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.82%
+Cluster 105570
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD55672
+fig|455432.12.peg.4978|HPY32_11885!!!Integral!membrane!protein!EccD-like,!component!of!Type!VII!secretion!system!in!Actinobacteria!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.01%
+Cluster 551016
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	transcriptional regulator, AsnC family	ACY98936
+fig|455432.12.peg.321|HPY32_01545!!!Transcriptional!regulator,!AsnC!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.29%
+Cluster 108294
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	IS1549, transposase	ABK74418
+fig|455432.12.peg.3225!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	78.05%
+Cluster 475501
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	acetolactate synthase, small subunit	ACU76605
+fig|455432.12.peg.4717|HPY32_32115!!!Acetolactate!synthase!small!subunit!(EC!2.2.1.6)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.07%
+Cluster 558303
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD60050
+fig|455432.12.peg.2784|HPY32_23145!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.84%
+Cluster 108855
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD60232
+fig|455432.12.peg.6901|HPY32_20995!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.51%
+Cluster 436563
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59810
+fig|455432.12.peg.3122|HPY32_24785!!!Extremely!low!permeability!porin,!MspA!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.70%
+fig|455432.12.peg.4648|HPY32_31805!!!Extremely!low!permeability!porin,!MspA!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.91%
+Cluster 235382
+20011	CP001341	Arthrobacter chlorophenolicus A6, complete genome.	No	Actinobacteridae	adenosine deaminase	ACL38991
+fig|455432.12.peg.5945|HPY32_16610!!!Adenosine!deaminase!(EC!3.5.4.4)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.16%
+Cluster 749800
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD56469
+fig|455432.12.peg.1562|HPY32_07570!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.88%
+Cluster 669765
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative transcriptional regulator	BAD55182
+fig|455432.12.peg.5685|HPY32_15370!!!Transcriptional!regulator,!WhiB!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	95.33%
+Cluster 194034
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	folate-binding protein YgfZ	ACY20263
+fig|455432.12.peg.5345|HPY32_13690!!!tRNA-modifying!protein!YgfZ!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.04%
+Cluster 74854
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative DNA polymerase I	BAC72348
+fig|455432.12.peg.8310|HPY32_42240!!!DNA!polymerase!I!(EC!2.7.7.7)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.92%
+Cluster 96073
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	conserved hypothetical protein	CBG68362
+fig|455432.12.peg.7538|HPY32_38745!!!Methionyl-tRNA!synthetase-related!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.16%
+Cluster 568908
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable mannose-6-phosphate isomerase protein	CAD13748
+fig|455432.12.peg.8196|HPY32_41685!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.87%
+Cluster 50076
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Putative transmembrane efflux pump (multidrug resistance related protein)	CAJ62638
+fig|455432.12.peg.9116|HPY32_35045!!!drug!transport!protein,!putative!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.50%
+Cluster 337755
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	imidazole glycerol phosphate synthase subunit hisF	ABK52841
+fig|455432.12.peg.1836|HPY32_08880!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.90%
+Cluster 117413
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative Mce family protein	BAD55387
+fig|455432.12.peg.5470|HPY32_14315!!!MCE-family!protein!MceF!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.36%
+Cluster 445014
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative hydrolase	BAG20007
+fig|455432.12.peg.6668|HPY32_19920!!!Putative!hydrolase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.61%
+Cluster 457923
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	glutamine amidotransferase of anthranilate synthase	ADL43671
+fig|455432.12.peg.6344|HPY32_18425!!!Anthranilate!synthase,!amidotransferase!component!(EC!4.1.3.27)!@!Para-aminobenzoate!synthase,!amidotransferase!component!(EC!2.6.1.85)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.34%
+Cluster 151662
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	hypothetical protein	ACZ89656
+fig|455432.12.peg.2140|HPY32_10345!!!FIG01135984:!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.00%
+Cluster 28712
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative serine/threonine protein kinase	BAD60196
+fig|455432.12.peg.2428|HPY32_21465!!!Serine/threonine!protein!kinase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.70%
+Cluster 286121
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	ABC-type sugar transport integral membrane protein	ACC41450
+fig|455432.12.peg.1185|HPY32_05765!!!ABC!transporter,!permease!protein!1!(cluster!1,!maltose/g3p/polyamine/iron)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.58%
+fig|455432.12.peg.3509|HPY32_26565!!!N-acetyl-D-glucosamine!ABC!transporter,!permease!protein!1!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.07%
+Cluster 318521
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	triosephosphate isomerase	CBG73966
+fig|455432.12.peg.7407|HPY32_38135!!!Triosephosphate!isomerase!(EC!5.3.1.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.69%
+Cluster 168331
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative Mce family protein	BAD59954
+fig|455432.12.peg.2973|HPY32_24075!!!MCE-family!protein!MceF!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.28%
+Cluster 305086
+17109	CP000850	Salinispora arenicola CNS-205, complete genome.	No	Actinobacteridae	beta-lactamase	ABV97319
+fig|455432.12.peg.8714|HPY32_33140!!!Beta-lactamase!class!A-like!and!penicillin!binding!proteins!(PBPs)!superfamily!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.90%
+Cluster 707333
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	transcription factor WhiB	ACY99599
+fig|455432.12.peg.3735|HPY32_27610!!!Sporulation!regulatory!protein!WhiB!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	79.22%
+Cluster 766992
+19227	CP000910	Renibacterium salmoninarum ATCC 33209, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ABY24441
+fig|455432.12.peg.2806|HPY32_23250!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	75.76%
+Cluster 657393
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD55830
+fig|455432.12.peg.79|HPY32_00360!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.43%
+Cluster 441590
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative two-component response regulator	BAC19592
+fig|455432.12.peg.3034|HPY32_24370!!!Hemoglobin-dependent!two!component!system!response!regulator!HrrA!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.22%
+Cluster 28588
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	ATP-dependent protease La	ADB29568
+fig|455432.12.peg.6556|HPY32_19375!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.74%
+Cluster 409245
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	histidine triad (HIT) protein	ABN98068
+fig|455432.12.peg.7614|HPY32_39100!!!FIG049476:!HIT!family!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.00%
+Cluster 172091
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	imidazolonepropionase	ABM06836
+fig|455432.12.peg.4083|HPY32_29270!!!Imidazolonepropionase!(EC!3.5.2.7)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.89%
+Cluster 567650
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	LSU ribosomal protein L20P	ABK02873
+fig|455432.12.peg.1906|HPY32_09210!!!LSU!ribosomal!protein!L20p!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	75.40%
+Cluster 249725
+20835	CP001683	Saccharomonospora viridis DSM 43017, complete genome.	Yes	Actinobacteridae	enolase superfamily enzyme related to L-alanine-DL-glutamate epimerase	ACU97513
+fig|455432.12.peg.6654|HPY32_19850!!!O-succinylbenzoate!synthase!(EC!4.2.1.113)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.98%
+Cluster 23304
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative transporter permease	BAD59099
+fig|455432.12.peg.4708|HPY32_32075!!!ABC!transporter,!fused!permease!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.43%
+Cluster 127170
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD60423
+fig|455432.12.peg.6632|HPY32_19745!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.93%
+Cluster 415202
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved membrane protein	ABL04747
+fig|455432.12.peg.2575|HPY32_22130!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.38%
+Cluster 194014
+223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Yes	Actinobacteridae	phosphate ABC transporter, phosphate-binding protein	AAK45202
+fig|455432.12.peg.5331|HPY32_13620!!!Phosphate!ABC!transporter,!substrate-binding!protein!PstS!(TC!3.A.1.7.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.13%
+Cluster 282881
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	protein of unknown function DUF6 transmembrane	ACV81415
+fig|455432.12.peg.4007|HPY32_28910!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.71%
+Cluster 286004
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	Ornithine cyclodeaminase	ACZ83354
+fig|455432.12.peg.4503|HPY32_31115!!!Ornithine!cyclodeaminase!(EC!4.3.1.12)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.94%
+Cluster 90780
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD57353
+fig|455432.12.peg.5190|HPY32_12915!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.30%
+fig|455432.12.peg.8858|HPY32_33810!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	76.02%
+Cluster 484845
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	Carbonate dehydratase	ACZ87678
+fig|455432.12.peg.9203|HPY32_35455!!!Carbonic!anhydrase,!beta!class!(EC!4.2.1.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.50%
+Cluster 740371
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	hypothetical protein	ABG10925
+fig|455432.12.peg.5682|HPY32_15355!!!Uncharacterized!protein!MSMEG_6192!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	88.89%
+Cluster 679877
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	thiamineS protein	ACV78087
+fig|455432.12.peg.241|HPY32_01160!!!Sulfur/cysteine!carrier!protein!CysO!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.22%
+Cluster 723216
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	hypothetical protein	ACZ91098
+fig|455432.12.peg.2858|HPY32_23490!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.75%
+Cluster 384149
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	short-chain dehydrogenase/reductase SDR	ADL48379
+fig|455432.12.peg.764|HPY32_03760!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.53%
+Cluster 425808
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	50S ribosomal subunit protein L3	CAJ59746
+fig|455432.12.peg.5082|HPY32_12390!!!LSU!ribosomal!protein!L3p!(L3e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.35%
+Cluster 461444
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	2-dehydro-3-deoxyphosphogluconate aldolase/4- hydroxy-2-oxoglutarate aldolase	ACU69654
+fig|455432.12.peg.1920|HPY32_09280!!!4-hydroxy-2-oxoglutarate!aldolase!(EC!4.1.3.16)!@!2-dehydro-3-deoxyphosphogluconate!aldolase!(EC!4.1.2.14)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.68%
+Cluster 133988
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD60471
+fig|455432.12.peg.6550|HPY32_19345!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	83.59%
+Cluster 373409
+20737	CP001874	Thermobispora bispora DSM 43833, complete genome.	No	Actinobacteridae	histidinol-phosphate phosphatase	ADG89627
+fig|455432.12.peg.4039|HPY32_29055!!!Histidinol-phosphatase![alternative!form]!(EC!3.1.3.15)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.92%
+Cluster 470324
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	CMP/dCMP deaminase zinc-binding	ADL49467
+fig|455432.12.peg.5999|HPY32_16870!!!tRNA-specific!adenosine-34!deaminase!(EC!3.5.4.33)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.40%
+Cluster 260964
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD58506
+fig|455432.12.peg.7500|HPY32_38570!!!Dihydroflavonol-4-reductase!(EC!1.1.1.219)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.12%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|455432.12.peg.3002|HPY32_24220!!!Translation!elongation!factor!Tu!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.15%
+Cluster 570754
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative transcriptional regulator	BAG23794
+fig|455432.12.peg.785|HPY32_03855!!!Transcriptional!regulator,!HxlR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.67%
+Cluster 605870
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	DoxX family protein	ABK53137
+fig|455432.12.peg.1892|HPY32_09145!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.14%
+Cluster 310501
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative RNA methyltransferase	BAC17710
+fig|455432.12.peg.5263|HPY32_13270!!!tRNA/rRNA!methyltransferase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.17%
+Cluster 179167
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	kynureninase	ACZ89651
+fig|455432.12.peg.4516|HPY32_31180!!!Kynureninase!(EC!3.7.1.3)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.66%
+Cluster 70959
+17109	CP000850	Salinispora arenicola CNS-205, complete genome.	No	Actinobacteridae	cobyric acid synthase CobQ	ABV99719
+fig|455432.12.peg.8366|HPY32_42505!!!Cobyric!acid!synthase!(EC!6.3.5.10)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.04%
+Cluster 304524
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative phosphotransferase	BAG18336
+fig|455432.12.peg.2205|HPY32_10650!!!putative!phosphotransferase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.33%
+Cluster 662823
+12738	CP000509	Nocardioides sp. JS614, complete genome.	No	Actinobacteridae	protein of unknown function DUF156	ABL83764
+fig|455432.12.peg.4959|HPY32_11800!!!Repressor!CsoR!of!the!copZA!operon!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.36%
+Cluster 284585
+12738	CP000509	Nocardioides sp. JS614, complete genome.	No	Actinobacteridae	6-phosphogluconate dehydrogenase, NAD-binding	ABL83972
+fig|455432.12.peg.7716|HPY32_39545!!!3-hydroxyisobutyrate!dehydrogenase!family!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.97%
+Cluster 468437
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	isochorismatase hydrolase	ACU71088
+fig|455432.12.peg.8328|HPY32_42330!!!Hydrolase,!HAD!superfamily!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.21%
+Cluster 19797
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	metallophosphoesterase	ACU74373
+fig|455432.12.peg.989|HPY32_04810!!!Putative!phosphatase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.18%
+Cluster 302376
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD54968
+fig|455432.12.peg.6248|HPY32_17995!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	82.62%
+Cluster 195641
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	acyl-CoA dehydrogenase-like protein	ABG07412
+fig|455432.12.peg.90|HPY32_00410!!!Acyl-CoA!dehydrogenase!(EC!1.3.8.1),!Mycobacterial!subgroup!FadE25!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	86.23%
+Cluster 249761
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative Mce family protein	BAD59903
+fig|455432.12.peg.4470|HPY32_30970!!!MCE-family!protein!MceB!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.00%
+Cluster 43712
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative peptidase	BAD60040
+fig|455432.12.peg.2794|HPY32_23190!!!Cocaine!esterase!(EC!3.1.1.-)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	77.75%
+Cluster 94413
+20179	CP001192	Rhizobium leguminosarum bv. trifolii WSM2304 plasmid pRLG201, complete sequence.	No	Alphaproteobacteria	polar amino acid ABC transporter, inner membrane subunit	ACI58600
+fig|455432.12.peg.6660|HPY32_19880!!!ABC!transporter,!ATP-binding!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.49%
+Cluster 39442
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	dehydrogenase E1 component	ACQ82096
+fig|455432.12.peg.113|HPY32_00520!!!Branched-chain!alpha-keto!acid!dehydrogenase,!E1!component,!beta!subunit!(EC!1.2.4.4)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.71%
+Cluster 614438
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	transcriptional regulatory protein, arsR-family	ABR08101
+fig|455432.12.peg.8498|HPY32_43090!!!Transcriptional!regulator,!ArsR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	81.67%
+Cluster 339906
+20745	CP001854	Conexibacter woesei DSM 14684, complete genome.	No	Rubrobacteridae	transcriptional regulator, XRE family	ADB53990
+fig|455432.12.peg.258|HPY32_01240!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.17%
+Cluster 572570
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	transcriptional regulator protein-like protein	ACZ83322
+fig|455432.12.peg.7005|HPY32_36230!!!Transcriptional!regulator,!HxlR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.49%
+Cluster 163026
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative dehydrogenase	BAC68124
+fig|455432.12.peg.6834|HPY32_20655!!!Crotonyl-CoA!carboxylase/reductase,!ethylmalonyl-CoA!producing!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.22%
+Cluster 723474
+20737	CP001874	Thermobispora bispora DSM 43833, complete genome.	No	Actinobacteridae	protein of unknown function DUF397	ADG86967
+fig|455432.12.peg.361|HPY32_01725!!!Small!DUF397-containing!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.76%
+fig|455432.12.peg.8728|HPY32_33195!!!Small!DUF397-containing!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.29%
+fig|455432.12.peg.9249|HPY32_35675!!!Small!DUF397-containing!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.71%
+fig|455432.12.peg.7628|HPY32_39160!!!Small!DUF397-containing!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.32%
+fig|455432.12.peg.8083|HPY32_41205!!!Small!DUF397-containing!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.00%
+fig|455432.12.peg.8272|HPY32_42060!!!Small!DUF397-containing!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.85%
+Cluster 138182
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD55676
+fig|455432.12.peg.4972|HPY32_11855!!!Basic!proline-rich!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	83.33%
+Cluster 140115
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Myo-inositol-1-phosphate synthase	ADC85243
+fig|455432.12.peg.6644|HPY32_19805!!!Inositol-1-phosphate!synthase!(EC!5.5.1.4)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.49%
+Cluster 328873
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59749
+fig|455432.12.peg.3269|HPY32_25475!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	83.10%
+Cluster 152527
+13947	CP000525	Burkholderia mallei SAVP1 chromosome II, complete sequence.	Yes	Betaproteobacteria	proline iminopeptidase	ABM49381
+fig|455432.12.peg.1589|HPY32_07695!!!Proline!iminopeptidase!(EC!3.4.11.5)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.50%
+Cluster 94249
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	AMP-dependent synthetase and ligase	ABP55085
+fig|455432.12.peg.5489|HPY32_14405!!!Long-chain-fatty-acid--CoA!ligase!(EC!6.2.1.3)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.28%
+Cluster 662045
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD56780
+fig|455432.12.peg.7255|HPY32_37415!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.57%
+Cluster 357343
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	binding-protein-dependent transport systems inner membrane component	ADB29686
+fig|455432.12.peg.7714|HPY32_39535!!!ABC!transporter,!permease!protein!2!(cluster!1,!maltose/g3p/polyamine/iron)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.03%
+Cluster 650264
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	LSU ribosomal protein L31P	ADC85534
+fig|455432.12.peg.199|HPY32_00940!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-dependent!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.00%
+Cluster 132312
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	peptidase S8 and S53 subtilisin kexin sedolisin	ACZ86349
+fig|455432.12.peg.3559|HPY32_26805!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.16%
+Cluster 531808
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59748
+fig|455432.12.peg.3271|HPY32_25485!!!Bile!acid!7-alpha!dehydratase!BaiE!(EC!4.2.1.106)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	81.61%
+Cluster 253566
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ACU75213
+fig|455432.12.peg.8675|HPY32_32950!!!UnbU!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.77%
+Cluster 476076
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative regulatory protein	BAC74849
+fig|455432.12.peg.1020|HPY32_04970!!!Transcriptional!regulator!SCO1200,!Xre-family!with!cupin!domain!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.92%
+Cluster 394200
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Putative Crp/Fnr-family transcriptional regulator	CAJ65179
+fig|455432.12.peg.5679|HPY32_15340!!!cAMP-binding!proteins!-!catabolite!gene!activator!and!regulatory!subunit!of!cAMP-dependent!protein!kinases!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.05%
+Cluster 288629
+20011	CP001341	Arthrobacter chlorophenolicus A6, complete genome.	No	Actinobacteridae	ABC transporter related	ACL38118
+fig|455432.12.peg.4738|HPY32_32215!!!Inositol!transport!system!ATP-binding!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.46%
+Cluster 669304
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	transcriptional regulator, XRE family	ACU77129
+fig|455432.12.peg.4801|HPY32_32525!!!Antitoxin!HigA!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	76.19%
+Cluster 471887
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative phosphoglycerate mutase	BAC71195
+fig|455432.12.peg.2134|HPY32_10315!!!putative!phosphoglycerate!mutase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.29%
+Cluster 430237
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD60237
+fig|455432.12.peg.2396|HPY32_21315!!!DedA!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.36%
+Cluster 567716
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59314
+fig|455432.12.peg.5114|HPY32_12545!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.31%
+Cluster 496322
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	ferric uptake regulator, Fur family	ABG08789
+fig|455432.12.peg.8342|HPY32_42390!!!Transcriptional!regulator,!Fur!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.91%
+Cluster 215562
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	oxidoreductase	BAC50414
+fig|455432.12.peg.2942|HPY32_23900!!!Aldo/keto!reductase,!SMc04056!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.77%
+Cluster 30657
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	pyruvate decarboxylase	ABK73595
+fig|455432.12.peg.4364|HPY32_30455!!!Thiamine!pyrophosphate-requiring!protein!PA2108!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.53%
+fig|455432.12.peg.7866|HPY32_40195!!!Thiamine!pyrophosphate-requiring!protein!PA2108!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.70%
+Cluster 506542
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	Endoribonuclease L-PSP	ABK04772
+fig|455432.12.peg.5681|HPY32_15350!!!RidA/YER057c/UK114!superfamily,!group!1!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.23%
+Cluster 41952
+13474	CP000115	Nitrobacter winogradskyi Nb-255, complete genome.	No	Alphaproteobacteria	methionyl-tRNA synthetase	ABA04723
+fig|455432.12.peg.3255|HPY32_25410!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.43%
+Cluster 661122
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD56141
+fig|455432.12.peg.768|HPY32_03780!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.26%
+Cluster 604473
+28711	CP001804	Haliangium ochraceum DSM 14365, complete genome.	No	Deltaproteobacteria	Glyoxalase/bleomycin resistance protein/dioxygenase	ACY13843
+fig|455432.12.peg.9281|HPY32_35815!!!putative!lyase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.18%
+Cluster 683834
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	SSU ribosomal protein S17P	ABG07136
+fig|455432.12.peg.5073|HPY32_12345!!!SSU!ribosomal!protein!S17p!(S11e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	79.59%
+Cluster 419034
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative uracil-DNA glycosylase	BAC18246
+fig|455432.12.peg.4767|HPY32_32360!!!Uracil-DNA!glycosylase,!family!1!(EC!3.2.2.27)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.00%
+Cluster 631461
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAC68479
+fig|455432.12.peg.9138|HPY32_35150!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.63%
+Cluster 565419
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	Redoxin domain protein	ABK53454
+fig|455432.12.peg.494|HPY32_02570!!!Thiol!peroxidase,!Bcp-type!(EC!1.11.1.15)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.97%
+Cluster 393396
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative lipoprotein	BAD56597
+fig|455432.12.peg.1698|HPY32_08210!!!Lipoprotein!LppM!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	77.51%
+Cluster 449783
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	SSU ribosomal protein S12P	ABG07098
+fig|455432.12.peg.2999|HPY32_24205!!!SSU!ribosomal!protein!S12p!(S23e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	96.77%
+Cluster 300425
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	hydrolase or acyltransferase (alpha/beta hydrolase superfamily)-like protein	ACZ87883
+fig|455432.12.peg.3401|HPY32_26090!!!Putative!hydrolase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.73%
+Cluster 244279
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	Integral membrane protein TerC	ABP54574
+fig|455432.12.peg.1455|HPY32_07065!!!Integral!membrane!protein!TerC!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.08%
+Cluster 365740
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	ABC transporter related protein	ABK03971
+fig|455432.12.peg.3057|HPY32_24485!!!Efflux!ABC!transporter,!ATP-binding!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.24%
+Cluster 248318
+12738	CP000509	Nocardioides sp. JS614, complete genome.	No	Actinobacteridae	Alcohol dehydrogenase, zinc-binding domain protein	ABL81927
+fig|455432.12.peg.8492|HPY32_43065!!!Zinc-type!alcohol!dehydrogenase-like!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.05%
+Cluster 228087
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	Ppx/GppA phosphatase	ABG06785
+fig|455432.12.peg.2800|HPY32_23220!!!Exopolyphosphatase!(EC!3.6.1.11)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.21%
+Cluster 245473
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative partitioning or sporulation protein	BAG22554
+fig|455432.12.peg.2002|HPY32_09680!!!ParA-like!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.30%
+Cluster 562129
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59474
+fig|455432.12.peg.3734|HPY32_27605!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	87.31%
+Cluster 360242
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved transmembrane protein	ABR07630
+fig|455432.12.peg.86|HPY32_00390!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.19%
+Cluster 203266
+20737	CP001874	Thermobispora bispora DSM 43833, complete genome.	No	Actinobacteridae	allantoicase	ADG89291
+fig|455432.12.peg.797!!!Allantoicase!(EC!3.5.3.4)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.79%
+fig|455432.12.peg.8236|HPY32_41885!!!Allantoicase!(EC!3.5.3.4)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.47%
+Cluster 158231
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative Mce family protein	BAD55385
+fig|455432.12.peg.5472|HPY32_14325!!!MCE-family!protein!MceD!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.74%
+Cluster 647060
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	chorismate mutase	ACY20622
+fig|455432.12.peg.3087|HPY32_24630!!!Chorismate!mutase!I!(EC!5.4.99.5)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.86%
+Cluster 665698
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ACU73717
+fig|455432.12.peg.4367|HPY32_30470!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.74%
+Cluster 109385
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	xylulokinase	ABP56022
+fig|455432.12.peg.1061|HPY32_05165!!!Xylulose!kinase!(EC!2.7.1.17)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.00%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|455432.12.peg.5078|HPY32_12370!!!SSU!ribosomal!protein!S19p!(S15e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.97%
+Cluster 452399
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	single-strand binding protein	ACU69289
+fig|455432.12.peg.1272|HPY32_06175!!!Single-stranded!DNA-binding!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.16%
+fig|455432.12.peg.6630|HPY32_19735!!!Single-stranded!DNA-binding!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.03%
+Cluster 245664
+17109	CP000850	Salinispora arenicola CNS-205, complete genome.	No	Actinobacteridae	tyrosine recombinase XerD	ABV97800
+fig|455432.12.peg.2001|HPY32_09675!!!Site-specific!tyrosine!recombinase!XerD!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.28%
+Cluster 551079
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	Cytosine deaminase	ABS03551
+fig|455432.12.peg.8332|HPY32_42345!!!Cytosine!deaminase!(EC!3.5.4.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.86%
+Cluster 564329
+20737	CP001874	Thermobispora bispora DSM 43833, complete genome.	No	Actinobacteridae	hypothetical protein	ADG89611
+fig|455432.12.peg.3678|HPY32_27355!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.14%
+Cluster 234272
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative acyl-CoA dehydrogenase	BAD55291
+fig|455432.12.peg.5556|HPY32_14740!!!Acyl-CoA!dehydrogenase!(EC!1.3.8.-),!Mycobacterial!subgroup!FadE28;!Acyl-CoA!dehydrogenase!IgrB!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.93%
+Cluster 673021
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR07050
+fig|455432.12.peg.7936|HPY32_40555!!!Uncharacterized!protein!Rv2708c!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.25%
+Cluster 578566
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK69459
+fig|455432.12.peg.8209|HPY32_41750!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.89%
+Cluster 609573
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD56299
+fig|455432.12.peg.1211|HPY32_05895!!!FIG025412:!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	81.48%
+Cluster 133399
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative berberine bridge enzyme	CBG68358
+fig|455432.12.peg.7542|HPY32_38765!!!Oxidoreductase,!FAD-binding!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.18%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|455432.12.peg.4965|HPY32_11830!!!SSU!ribosomal!protein!S11p!(S14e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.04%
+Cluster 476515
+20835	CP001683	Saccharomonospora viridis DSM 43017, complete genome.	Yes	Actinobacteridae	nicotinamidase-like amidase	ACU97903
+fig|455432.12.peg.236|HPY32_01135!!!Nicotinamidase!(EC!3.5.1.19)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.83%
+Cluster 532877
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative organic hydroperoxide resistance protein	BAC19718
+fig|455432.12.peg.7307|HPY32_37670!!!Organic!hydroperoxide!resistance!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.29%
+Cluster 729895
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	hypothetical protein	ACZ89820
+fig|455432.12.peg.7077|HPY32_36575!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.01%
+Cluster 49987
+19227	CP000910	Renibacterium salmoninarum ATCC 33209, complete genome.	No	Actinobacteridae	ATP-dependent RNA helicase	ABY22666
+fig|455432.12.peg.3669|HPY32_27315!!!DEAD-box!ATP-dependent!RNA!helicase!DeaD!(=!CshA)!(EC!3.6.4.13)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.84%
+Cluster 132680
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD55423
+fig|455432.12.peg.5357|HPY32_13750!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.92%
+Cluster 389668
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative glycerophosphoryl diester phosphodiesterase	BAD54967
+fig|455432.12.peg.6249|HPY32_18000!!!Glycerophosphoryl!diester!phosphodiesterase!(EC!3.1.4.46)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	86.67%
+Cluster 604620
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD55364
+fig|455432.12.peg.5494|HPY32_14430!!!Steroid!Delta(5)->Delta(3)-isomerase!(EC!5.3.3.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	78.26%
+Cluster 172425
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59425
+fig|455432.12.peg.3786|HPY32_27855!!!putative!membrane!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.47%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|455432.12.peg.5024|HPY32_12110!!!LSU!ribosomal!protein!L14p!(L23e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	89.34%
+Cluster 105021
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	AAA ATPase central domain protein	ACV79638
+fig|455432.12.peg.7490|HPY32_38520!!!Replication-associated!recombination!protein!RarA!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.79%
+Cluster 410033
+27833	AP009152	Kocuria rhizophila DC2201 DNA, complete genome.	No	Actinobacteridae	imidazole glycerol phosphate synthase subunit HisH	BAG29919
+fig|455432.12.peg.1833|HPY32_08865!!!Imidazole!glycerol!phosphate!synthase!amidotransferase!subunit!HisH!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.15%
+Cluster 337018
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative hydrolase	BAD60122
+fig|455432.12.peg.2614|HPY32_22325!!!Hydrolase,!alpha/beta!fold!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	76.57%
+Cluster 374764
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ACZ90456
+fig|455432.12.peg.7603|HPY32_39045!!!Ribulose-5-phosphate!4-epimerase!and!related!epimerases!and!aldolases!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.61%
+Cluster 285252
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ACZ88088
+fig|455432.12.peg.4669|HPY32_31895!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	90.06%
+Cluster 201767
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD60298
+fig|455432.12.peg.6732|HPY32_20230!!!Basic!proline-rich!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	83.70%
+Cluster 291549
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	NAD-dependent epimerase/dehydratase	ADB74665
+fig|455432.12.peg.174|HPY32_00825!!!Putative!nucleoside-diphosphate-sugar!epimerase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.77%
+Cluster 187408
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	conserved hypothetical protein	CBG68356
+fig|455432.12.peg.7544|HPY32_38775!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.16%
+Cluster 203697
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	ACV77278
+fig|455432.12.peg.5572|HPY32_14820!!!2-C-methyl-D-erythritol!2,4-cyclodiphosphate!synthase!(EC!4.6.1.12)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.08%
+Cluster 190884
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	beta-lactamase	ABP56821
+fig|455432.12.peg.4574|HPY32_31445!!!Putative!esterase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.10%
+Cluster 532855
+20745	CP001854	Conexibacter woesei DSM 14684, complete genome.	No	Rubrobacteridae	hypothetical protein	ADB49615
+fig|455432.12.peg.2170|HPY32_10485!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.00%
+Cluster 562159
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	transcriptional regulator, BadM/Rrf2 family	ACU73669
+fig|455432.12.peg.2356|HPY32_11335!!!Predicted!transcriptional!regulator!of!4-carboxymuconolactone!decarboxylase,!Rrf2!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.39%
+Cluster 359031
+17109	CP000850	Salinispora arenicola CNS-205, complete genome.	No	Actinobacteridae	protein of unknown function DUF574	ABV97218
+fig|455432.12.peg.2018|HPY32_09750!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.43%
+Cluster 323222
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative AraC-family transcriptional regulator	BAG21413
+fig|455432.12.peg.9067|HPY32_34805!!!Transcriptional!regulator,!AraC!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.14%
+Cluster 47303
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	hypothetical zinc metalloprotease	ABR04543
+fig|455432.12.peg.6523|HPY32_19220!!!Metallopeptidase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.95%
+Cluster 526693
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	tRNA/rRNA methyltransferase (SpoU)	ABG07298
+fig|455432.12.peg.1!!!tRNA!(cytidine(34)-2'-O)-methyltransferase!(EC!2.1.1.207)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.91%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|455432.12.peg.4967|HPY32_11840!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.97%
+Cluster 94586
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	serine hydroxymethyltransferase	BAC17868
+fig|455432.12.peg.3433|HPY32_26225!!!Serine!hydroxymethyltransferase!(EC!2.1.2.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	76.91%
+Cluster 190338
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	hypothetical 5'-3' exonuclease	ABR06456
+fig|455432.12.peg.9006|HPY32_34495!!!DNA!polymerase!I!5'-3'!exonuclease!domain!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.37%
+Cluster 280682
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	extracellular solute-binding protein family 3	ACV80280
+fig|455432.12.peg.8178|HPY32_41595!!!Glutamate!ABC!transporter,!substrate-binding!protein!GluB!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.09%
+Cluster 602044
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	transcriptional regulator, AraC family	ADB33420
+fig|455432.12.peg.2952|HPY32_23950!!!Transcriptional!regulator,!AraC!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.06%
+Cluster 88588
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	putative ATPase	ABM10035
+fig|455432.12.peg.3484|HPY32_26455!!!Predicted!ATPase!related!to!phosphate!starvation-inducible!protein!PhoH!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.10%
+Cluster 597036
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	conserved hypothetical protein	BAG22992
+fig|455432.12.peg.3163|HPY32_24985!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.50%
+Cluster 336008
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative sugar ABC transporter ATP-binding protein	BAG17055
+fig|455432.12.peg.3149|HPY32_24920!!!ABC!transporter,!ATP-binding!protein!(cluster!2,!ribose/xylose/arabinose/galactose)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.22%
+Cluster 687944
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	helix-turn-helix domain protein	ABN98860
+fig|455432.12.peg.9026|HPY32_34595!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.92%
+Cluster 99637
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD57322
+fig|455432.12.peg.8821|HPY32_33640!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.96%
+Cluster 152505
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	tRNA synthetase class II (D K and N)	ADB34236
+fig|455432.12.peg.7592|HPY32_39000!!!Aspartyl-tRNA!synthetase!(EC!6.1.1.12)!@!Aspartyl-tRNA(Asn)!synthetase!(EC!6.1.1.23)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+Cluster 715555
+27833	AP009152	Kocuria rhizophila DC2201 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAG29410
+fig|455432.12.peg.4833|HPY32_32675!!!KH!domain!RNA!binding!protein!YlqC!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.50%
+Cluster 601621
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	transcriptional repressor, CopY family	ABO00250
+fig|455432.12.peg.257|HPY32_01235!!!Transcriptional!regulator,!MecI!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.13%
+fig|455432.12.peg.3167|HPY32_25005!!!Transcriptional!regulator,!MecI!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.55%
+Cluster 225964
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative hydrolase	BAD59423
+fig|455432.12.peg.3791|HPY32_27870!!!Polyhydroxyalkanoic!acid!synthase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.23%
+Cluster 161400
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59419
+fig|455432.12.peg.3795|HPY32_27890!!!putative!membrane!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.11%
+Cluster 515438
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative sugar-phosphate isomerase	CBG73001
+fig|455432.12.peg.901|HPY32_04415!!!Ribose-5-phosphate!isomerase!B!(EC!5.3.1.6)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.05%
+Cluster 357583
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	conserved hypothetical protein	BAG19338
+fig|455432.12.peg.6942|HPY32_35940!!!SAM-dependent!methyltransferase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.19%
+Cluster 313633
+18633	CP000825	Prochlorococcus marinus str. MIT 9215, complete genome.	No	Prochlorales	phosphoribulokinase	ABV50495
+fig|455432.12.peg.9125|HPY32_35090!!!Phosphoribulokinase!(EC!2.7.1.19)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.30%
+Cluster 240012
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	30S ribosomal protein S3	CAJ59752
+fig|455432.12.peg.5076|HPY32_12360!!!SSU!ribosomal!protein!S3p!(S3e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.25%
+Cluster 693107
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	DNA-directed RNA polymerase omega chain (RNAP omega subunit) (Transcriptase omega chain) (RNA polymerase omega subunit)	CAJ63862
+fig|455432.12.peg.7456|HPY32_38360!!!DNA-directed!RNA!polymerase!omega!subunit!(EC!2.7.7.6)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.04%
+Cluster 188346
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	ABP53684
+fig|455432.12.peg.4677|HPY32_31930!!!tRNA-specific!2-thiouridylase!MnmA!(EC!2.8.1.13)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.44%
+Cluster 397077
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	thioesterase	BAD55608
+fig|455432.12.peg.5057|HPY32_12265!!!Thioesterase![mycobactin]!siderophore!@!Thioesterase!in!siderophore!biosynthesis!gene!cluster!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.94%
+Cluster 367384
+20737	CP001874	Thermobispora bispora DSM 43833, complete genome.	No	Actinobacteridae	NAD-dependent epimerase/dehydratase	ADG87807
+fig|455432.12.peg.3139|HPY32_24870!!!UDP-glucose!4-epimerase!(EC!5.1.3.2)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.67%
+Cluster 501325
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	conserved hypothetical protein	CBG71358
+fig|455432.12.peg.2203|HPY32_10645!!!Transposase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.47%
+fig|455432.12.peg.5324|HPY32_13585!!!Transposase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.47%
+fig|455432.12.peg.3354|HPY32_25880!!!Transposase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.47%
+Cluster 268879
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	LmbE family protein	ABK53658
+fig|455432.12.peg.3415|HPY32_26155!!!Mycothiol!S-conjugate!amidase!Mca!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.54%
+Cluster 158939
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	conserved hypothetical protein	BAC17023
+fig|455432.12.peg.5735|HPY32_15610!!!proposed!amino!acid!ligase!found!clustered!with!an!amidotransferase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.34%
+Cluster 160118
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative Mce family protein	BAD59955
+fig|455432.12.peg.2972|HPY32_24070!!!MCE-family!lipoprotein!MceE!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.94%
+Cluster 483560
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD55203
+fig|455432.12.peg.5659|HPY32_15245!!!FIG054221:!Possible!conserved!alanine!rich!membrane!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.31%
+Cluster 45679
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative glycine betaine ABC transport system integral membrane protein	CBG67889
+fig|455432.12.peg.9085|HPY32_34890!!!Glycine!betaine!ABC!transport!system,!permease!protein!OpuAB!/!Glycine!betaine!ABC!transport!system,!permease!protein!OpuAB!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.54%
+Cluster 236165
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative esterase	BAD58674
+fig|455432.12.peg.3184|HPY32_25085!!!Antigen!85-B!precursor!(85B)!(Extracellular!alpha-antigen)!(Antigen!85!complex!B)!(Ag85B)!(Mycolyl!transferase!85B)!(EC!2.3.1.-)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.06%
+fig|455432.12.peg.7129|HPY32_36805!!!Antigen!85-B!precursor!(85B)!(Extracellular!alpha-antigen)!(Antigen!85!complex!B)!(Ag85B)!(Mycolyl!transferase!85B)!(EC!2.3.1.-)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.33%
+fig|455432.12.peg.7237|HPY32_37325!!!Putative!esterase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.38%
+Cluster 236166
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative enoyl-CoA hydratase/isomerase family protein	BAD58083
+fig|455432.12.peg.500|HPY32_02595!!!Enoyl-CoA!hydratase/isomerase!family!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.45%
+Cluster 109366
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative amidase	BAG19346
+fig|455432.12.peg.499|HPY32_02590!!!Amidase!family!protein!SACE_5032!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.80%
+Cluster 270308
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative binding-protein-dependent transporter integral membrane subunit	CBG72964
+fig|455432.12.peg.7695|HPY32_39445!!!ABC!transporter,!permease!protein!1!(cluster!1,!maltose/g3p/polyamine/iron)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.53%
+Cluster 437239
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative transcriptional regulator	BAD57380
+fig|455432.12.peg.8876|HPY32_33900!!!Transcriptional!regulator,!AcrR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.76%
+Cluster 332124
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59571
+fig|455432.12.peg.3595|HPY32_26980!!!putative!secreted!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.89%
+Cluster 332123
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative transcriptional regulator	BAD59126
+fig|455432.12.peg.4644|HPY32_31785!!!Transcriptional!regulator,!LysR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	86.67%
+Cluster 241824
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	tRNA/RRNA methyltransferase	CAJ65140
+fig|455432.12.peg.5574|HPY32_14830!!!23S!rRNA!(guanosine(2251)-2'-O)-methyltransferase!(EC!2.1.1.185)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.06%
+Cluster 30446
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	Polyphosphate kinase	ADL44896
+fig|455432.12.peg.4761|HPY32_32330!!!Polyphosphate!kinase!(EC!2.7.4.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.69%
+Cluster 527282
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD60275
+fig|455432.12.peg.6849|HPY32_20735!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	78.05%
+Cluster 240555
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative sugar uptake ABC transporter permease protein	BAG23434
+fig|455432.12.peg.7717|HPY32_39550!!!ABC!transporter,!permease!protein!(cluster!2,!ribose/xylose/arabinose/galactose)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.82%
+Cluster 390305
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR06069
+fig|455432.12.peg.2005|HPY32_09695!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.78%
+Cluster 495142
+20745	CP001854	Conexibacter woesei DSM 14684, complete genome.	No	Rubrobacteridae	ribosomal protein L19	ADB52095
+fig|455432.12.peg.8591|HPY32_43530!!!LSU!ribosomal!protein!L19p!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.06%
+Cluster 736360
+32551	AP010947	Azospirillum sp. B510 plasmid pAB510a DNA, complete genome.	No	Alphaproteobacteria	hypothetical protein	BAI74306
+fig|455432.12.peg.4401|HPY32_30630!!!MbtH-like!NRPS!chaperone!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.87%
+Cluster 12831
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	preprotein translocase, ATPase secretion component (General Secretory Pathway)	CAJ59967
+fig|455432.12.peg.3759|HPY32_27725!!!Protein!translocase!subunit!SecA!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.13%
+Cluster 203747
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative RNA polymerase ECF-subfamily sigma factor	BAC68671
+fig|455432.12.peg.7057|HPY32_36485!!!Putative!RNA!polymerase!sigma!factor!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	78.74%
+Cluster 526224
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative transposase	CBG71359
+fig|455432.12.peg.856|HPY32_04215!!!Mobile!element!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+fig|455432.12.peg.5640|HPY32_15145!!!Mobile!element!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+fig|455432.12.peg.6451|HPY32_18900!!!Mobile!element!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+fig|455432.12.peg.6846|HPY32_20720!!!Mobile!element!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+fig|455432.12.peg.8045|HPY32_41040!!!Mobile!element!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+fig|455432.12.peg.8125|HPY32_41365!!!Mobile!element!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+fig|455432.12.peg.8401|HPY32_42665!!!Mobile!element!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+Cluster 338231
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD55154
+fig|455432.12.peg.5732|HPY32_15595!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.45%
+Cluster 702248
+13423	CP000359	Deinococcus geothermalis DSM 11300, complete genome.	No	Deinococci	cold-shock DNA-binding domain protein	ABF45306
+fig|455432.12.peg.2216|HPY32_10700!!!Cold!shock!protein!of!CSP!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.18%
+fig|455432.12.peg.5654|HPY32_15220!!!Cold!shock!protein!of!CSP!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.71%
+fig|455432.12.peg.4493|HPY32_31070!!!Cold!shock!protein!of!CSP!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.67%
+fig|455432.12.peg.4745|HPY32_32245!!!Cold!shock!protein!of!CSP!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.16%
+Cluster 101875
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	major facilitator superfamily MF	ACV79277
+fig|455432.12.peg.3369|HPY32_25950!!!Uncharacterized!MFS-type!transporter!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.59%
+Cluster 103338
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	arsenic-transport integral membrane protein arsC	ABR06988
+fig|455432.12.peg.8078|HPY32_41190!!!Arsenical-resistance!protein!ACR3!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	82.63%
+Cluster 358726
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	O-methyltransferase	ACC41409
+fig|455432.12.peg.2166|HPY32_10465!!!Tetracenomycin!polyketide!synthesis!O-methyltransferase!TcmP!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.23%
+Cluster 331061
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	conserved hypothetical protein 730	ABK53614
+fig|455432.12.peg.3570|HPY32_26855!!!LOG!family!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.57%
+Cluster 408895
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative hydrolase (dienelactone hydrolase family)	CBG68063
+fig|455432.12.peg.7059|HPY32_36495!!!Dienelactone!hydrolase!family!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	75.00%
+Cluster 607023
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	Sarcosine oxidase delta subunit	ABM07583
+fig|455432.12.peg.9096|HPY32_34945!!!Sarcosine!oxidase!delta!subunit!(EC!1.5.3.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.04%
+Cluster 87522
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative serine/threonine protein kinase	BAD56690
+fig|455432.12.peg.1824|HPY32_08820!!!Putative!serine/threonine!protein!kinase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.23%
+Cluster 711025
+12738	CP000509	Nocardioides sp. JS614, complete genome.	No	Actinobacteridae	RNA-binding S4 domain protein	ABL81206
+fig|455432.12.peg.6271|HPY32_18100!!!Uncharacterized!S4!RNA-binding-domain!protein!YbcJ!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.16%
+Cluster 272552
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative sugar ABC transporter permease protein	BAG21418
+fig|455432.12.peg.718|HPY32_03550!!!ABC!transporter,!permease!protein!1!(cluster!1,!maltose/g3p/polyamine/iron)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.66%
+Cluster 578016
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD55903
+fig|455432.12.peg.207|HPY32_00980!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.67%
+Cluster 150322
+19707	CP001964	Cellulomonas flavigena DSM 20109, complete genome.	No	Actinobacteridae	ATP-dependent carboxylate-amine ligase domain protein ATP-grasp	ADG76497
+fig|455432.12.peg.7540|HPY32_38755!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.13%
+Cluster 260419
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	hydroxymethylbutenyl pyrophosphate reductase	ADB33280
+fig|455432.12.peg.4272|HPY32_30120!!!4-hydroxy-3-methylbut-2-enyl!diphosphate!reductase!(EC!1.17.7.4)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.92%
+fig|455432.12.peg.7121|HPY32_36765!!!4-hydroxy-3-methylbut-2-enyl!diphosphate!reductase!(EC!1.17.7.4)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.71%
+Cluster 139040
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative two-component system sensor kinase	BAD59103
+fig|455432.12.peg.4695|HPY32_32010!!!Two-component!system!sensor!histidine!kinase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.51%
+Cluster 708602
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative cation antiporter subunit	BAD60146
+fig|455432.12.peg.2585|HPY32_22180!!!Na(+)!H(+)!antiporter!subunit!F!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	81.40%
+Cluster 14253
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	1,4-alpha-glucan branching enzyme	ADB76668
+fig|455432.12.peg.228|HPY32_01095!!!1,4-alpha-glucan!(glycogen)!branching!enzyme,!GH-13-type!(EC!2.4.1.18)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.41%
+Cluster 100212
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 1-deoxy-D-xylulose 5-phosphate reductoisomerase	BAC18715
+fig|455432.12.peg.8554|HPY32_43355!!!1-deoxy-D-xylulose!5-phosphate!reductoisomerase!(EC!1.1.1.267)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.87%
+Cluster 112009
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	cytochrome P450 family protein	ACZ89696
+fig|455432.12.peg.8679|HPY32_32970!!!Cytochrome!P450-related!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.52%
+Cluster 380129
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	protein of unknown function DUF899 thioredoxin family protein	ADB74993
+fig|455432.12.peg.7762|HPY32_39750!!!Bll6640!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	81.15%
+Cluster 432287
+20011	CP001341	Arthrobacter chlorophenolicus A6, complete genome.	No	Actinobacteridae	iron (metal) dependent repressor, DtxR family	ACL38906
+fig|455432.12.peg.7952|HPY32_40625!!!Iron-dependent!repressor!IdeR/DtxR!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.40%
+Cluster 330883
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative FMNH2-utilizing oxygenase	BAC70954
+fig|455432.12.peg.529|HPY32_02735!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.19%
+Cluster 767495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L36	BAC19237
+fig|455432.12.peg.4615|HPY32_31650!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	95.00%
+Cluster 646294
+19707	CP001964	Cellulomonas flavigena DSM 20109, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ADG74994
+fig|455432.12.peg.1636|HPY32_07915!!!Putative!oxidoreductase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.37%
+Cluster 579019
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative phosphoribosyl-AMP cyclohydrolase	CBG73840
+fig|455432.12.peg.1837|HPY32_08885!!!Phosphoribosyl-AMP!cyclohydrolase!(EC!3.5.4.19)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.35%
+Cluster 342612
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	conserved hypothetical protein	BAC18960
+fig|455432.12.peg.2421|HPY32_21430!!!Hypothetical!NagD-like!phosphatase,!Actinobacterial!subfamily!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.92%
+Cluster 382196
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative deaminase/reductase	BAD58580
+fig|455432.12.peg.7883|HPY32_40295!!!Dihydrofolate!reductase!analogue!(EC!1.5.1.3)!=>!conferring!resistance!to!para-aminosalicylic!acid!(PAS)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.81%
+Cluster 175935
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	ROK family protein	ADB30300
+fig|455432.12.peg.7693|HPY32_39435!!!Transcriptional!regulator,!ROK!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.15%
+Cluster 623011
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	protein of unknown function UPF0060	ABN98334
+fig|455432.12.peg.276|HPY32_01325!!!Protein!of!unknown!function!UPF0060!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	75.68%
+Cluster 95935
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative amino acid decarboxylase	BAG18040
+fig|455432.12.peg.525|HPY32_02720!!!Siderophore!biosynthesis!L-2,4-diaminobutyrate!decarboxylase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.73%
+Cluster 105541
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	carbohydrate kinase, FGGY	ABG08637
+fig|455432.12.peg.7075|HPY32_36565!!!Carbohydrate!kinase,!FGGY!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.95%
+Cluster 132043
+17109	CP000850	Salinispora arenicola CNS-205, complete genome.	No	Actinobacteridae	xenobiotic compound monooxygenase, DszA family, A subunit	ABV96520
+fig|455432.12.peg.448|HPY32_02375!!!Coenzyme!F420-dependent!N5,N10-methylene!tetrahydromethanopterin!reductase!and!related!flavin-dependent!oxidoreductases!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	78.86%
+Cluster 378710
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	short-chain dehydrogenase/reductase SDR	ABP54645
+fig|455432.12.peg.1502|HPY32_07290!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.05%
+Cluster 247933
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	FAD dependent oxidoreductase	ACZ88120
+fig|455432.12.peg.4480|HPY32_31020!!!Thioredoxin!reductase!(EC!1.8.1.9)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+Cluster 334172
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative AraC-family transcriptional regulator	BAG21166
+fig|455432.12.peg.9108|HPY32_35005!!!Transcriptional!regulator,!AraC!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.29%
+Cluster 182741
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	MFS transporter	ACZ91067
+fig|455432.12.peg.8987|HPY32_34410!!!Uncharacterized!MFS-type!transporter!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.30%
+Cluster 476321
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	pyridoxamine 5'-phosphate oxidase-related FMN-binding	ADL44034
+fig|455432.12.peg.5736|HPY32_15615!!!Phosphohydrolase!(MutT/nudix!family!protein)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.16%
+Cluster 250784
+20399	CP001656	Paenibacillus sp. JDR-2, complete genome.	No	Bacillales	daunorubicin resistance ABC transporter ATPase subunit	ACT00458
+fig|455432.12.peg.2865|HPY32_23525!!!Efflux!ABC!transporter,!ATP-binding!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.96%
+Cluster 617383
+16097	CP000481	Acidothermus cellulolyticus 11B, complete genome.	No	Actinobacteridae	iron-sulfur cluster assembly accessory protein	ABK52727
+fig|455432.12.peg.1643|HPY32_07945!!!Iron-sulfur!cluster!insertion!protein!SCO2161!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	77.59%
+Cluster 556548
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABK70467
+fig|455432.12.peg.6642|HPY32_19795!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.59%
+Cluster 51786
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	squalene-hopene cyclase	ACU75510
+fig|455432.12.peg.7785|HPY32_39850!!!Squalene---hopene!cyclase!(EC!5.4.99.17)!@!Squalene---hopanol!cyclase!(EC!4.2.1.129)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.36%
+Cluster 7756
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative iron-sulphur-binding reductase	BAD60272
+fig|455432.12.peg.6861|HPY32_20790!!!Fe-S!oxidoreductase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.86%
+Cluster 44005
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	Endothelin-converting enzyme 1	ACY22891
+fig|455432.12.peg.5025|HPY32_12115!!!Metallopeptidase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.79%
+Cluster 25339
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative penicillin-binding protein	BAD60409
+fig|455432.12.peg.6641|HPY32_19790!!!Multimodular!transpeptidase-transglycosylase!(EC!2.4.1.129)!(EC!3.4.-.-)!=>!PonA1!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.43%
+Cluster 172539
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	threonyl-tRNA synthetase	ACU74491
+fig|455432.12.peg.2127|HPY32_10285!!!Threonyl-tRNA!synthetase-related!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.63%
+Cluster 242260
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	HTH-type transcriptional repressor PurR	ACZ88953
+fig|455432.12.peg.1788|HPY32_08650!!!Transcriptional!regulator,!LacI/PurR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.98%
+Cluster 291797
+12636	XXX	Chromohalobacter salexigens DSM 3043	No	Gammaproteobacteria	XXX	
+fig|455432.12.peg.8237|HPY32_41890!!!Uricase!(urate!oxidase)!(EC!1.7.3.3)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.69%
+Cluster 537382
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD60051
+fig|455432.12.peg.2783|HPY32_23140!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.25%
+Cluster 537381
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD59682
+fig|455432.12.peg.7648|HPY32_39245!!!AclJ!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	75.88%
+Cluster 213325
+17109	CP000850	Salinispora arenicola CNS-205, complete genome.	No	Actinobacteridae	S-adenosyl-methyltransferase MraW	ABV99248
+fig|455432.12.peg.1705|HPY32_08245!!!16S!rRNA!(cytosine(1402)-N(4))-methyltransferase!(EC!2.1.1.199)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.43%
+Cluster 401410
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	aminoglycoside phosphotransferase	ACQ79327
+fig|455432.12.peg.2219|HPY32_10715!!!putative!phosphotransferase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	78.78%
+Cluster 694766
+19707	CP001964	Cellulomonas flavigena DSM 20109, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ADG76321
+fig|455432.12.peg.1877|HPY32_09085!!!Uncharacterized!protein!BT_4195!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.91%
+Cluster 211031
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD58618
+fig|455432.12.peg.7935|HPY32_40545!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.93%
+Cluster 700595
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein TB9.4	ABR07558
+fig|455432.12.peg.3793|HPY32_27880!!!Putative!ATP-binding!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.67%
+Cluster 426283
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD56435
+fig|455432.12.peg.3121|HPY32_24780!!!Extremely!low!permeability!porin,!MspA!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	79.56%
+fig|455432.12.peg.4647|HPY32_31800!!!Extremely!low!permeability!porin,!MspA!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	75.45%
+Cluster 450348
+17109	CP000850	Salinispora arenicola CNS-205, complete genome.	No	Actinobacteridae	riboflavin synthase, alpha subunit	ABV97753
+fig|455432.12.peg.7434|HPY32_38255!!!Riboflavin!synthase!eubacterial/eukaryotic!(EC!2.5.1.9)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.59%
+Cluster 394390
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	major intrinsic protein	ACQ81533
+fig|455432.12.peg.4003|HPY32_28890!!!Glycerol!uptake!facilitator!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.12%
+Cluster 374148
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	Methyltransferase type 11	ACY22466
+fig|455432.12.peg.4659|HPY32_31860!!!SAM-dependent!methyltransferase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+Cluster 443611
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	ArsR family transcriptional regulator	ACZ87401
+fig|455432.12.peg.3452|HPY32_26300!!!Predicted!transcriptional!regulators!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	76.10%
+Cluster 535722
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	50S ribosomal protein L32 rpmF	ABR05340
+fig|455432.12.peg.3106|HPY32_24715!!!LSU!ribosomal!protein!L32p!@!LSU!ribosomal!protein!L32p,!zinc-independent!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.40%
+Cluster 112192
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	DNA repair protein RadA	ABP56697
+fig|455432.12.peg.5568|HPY32_14800!!!DNA!repair!protein!RadA!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.21%
+Cluster 214391
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative Mce family protein	BAD59901
+fig|455432.12.peg.4468|HPY32_30960!!!MCE-family!protein!MceD!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.64%
+Cluster 254012
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative monooxygenase	BAD55029
+fig|455432.12.peg.6192|HPY32_17730!!!FMN!reductase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	78.70%
+Cluster 419210
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	bacterial translation initiation factor 3 (bIF-3)	ABG09088
+fig|455432.12.peg.1904|HPY32_09200!!!Translation!initiation!factor!3!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	79.91%
+Cluster 535809
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABL06699
+fig|455432.12.peg.2054|HPY32_09925!!!polyketide!cyclase/dehydrase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.18%
+Cluster 573483
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	hypothetical protein	ACZ87865
+fig|455432.12.peg.5887|HPY32_16320!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.46%
+Cluster 183470
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	tRNA (guanine-N1)-methyltransferase	ADB33776
+fig|455432.12.peg.4835|HPY32_32685!!!tRNA!(guanine(37)-N(1))-methyltransferase!(EC!2.1.1.228)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.08%
+Cluster 262193
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	putative MoaA / nifB / pqqE family protein; putative SAM binding domain	CAJ62002
+fig|455432.12.peg.7787|HPY32_39860!!!Radical!SAM!protein!required!for!addition!of!adenosine!to!hopane!skeleton,!HpnH!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.47%
+Cluster 4670
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	carbamoyl phosphate synthase, pyrimidin specific large subunit	CAJ63867
+fig|455432.12.peg.7462|HPY32_38385!!!Carbamoyl-phosphate!synthase!large!chain!(EC!6.3.5.5)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.73%
+Cluster 233940
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative endochitinase	BAG23556
+fig|455432.12.peg.7733|HPY32_39630!!!putative!endochitinase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	77.68%
+Cluster 89754
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative transporter	BAD56288
+fig|455432.12.peg.2236|HPY32_10800!!!Uncharacterized!MFS-type!transporter!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.49%
+Cluster 27966
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	recombinase A recA	ABR07077
+fig|455432.12.peg.8190|HPY32_41655!!!RecA!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.88%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|455432.12.peg.4968|HPY32_11845!!!Translation!initiation!factor!1!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	94.52%
+Cluster 98156
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative polysaccharide biosynthesis protein	CBG71772
+fig|455432.12.peg.987|HPY32_04800!!!Putative!glycosyltransferase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.07%
+fig|455432.12.peg.2566|HPY32_22085!!!Putative!glycosyltransferase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.92%
+Cluster 138360
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	major facilitator superfamily MF	ADB29540
+fig|455432.12.peg.6564|HPY32_19415!!!Uncharacterized!MFS-type!transporter!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.27%
+Cluster 667551
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	conserved hypothetical protein	CBG73610
+fig|455432.12.peg.3370|HPY32_25955!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.42%
+Cluster 142217
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	putative pantothenate metabolism flavoprotein	CAJ63861
+fig|455432.12.peg.7455|HPY32_38355!!!Phosphopantothenoylcysteine!decarboxylase!(EC!4.1.1.36)!/!Phosphopantothenoylcysteine!synthetase!(EC!6.3.2.5)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.48%
+Cluster 608825
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	thioredoxin	ABK04447
+fig|455432.12.peg.1868|HPY32_09040!!!Thioredoxin!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.64%
+Cluster 569654
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative RNase P component	BAD60524
+fig|455432.12.peg.6487|HPY32_19060!!!Ribonuclease!P!protein!component!(EC!3.1.26.5)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.84%
+Cluster 445069
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD58527
+fig|455432.12.peg.7523|HPY32_38680!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	75.00%
+Cluster 667486
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	hypothetical protein	BAC69396
+fig|455432.12.peg.2242|HPY32_10835!!!SC5F2A.07,!unknown,!len:!109!aa!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+Cluster 372417
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ADB74123
+fig|455432.12.peg.4665|HPY32_31885!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	84.91%
+Cluster 142713
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	fatty acid desaturase	ACY22808
+fig|455432.12.peg.3753|HPY32_27695!!!Linoleoyl-CoA!desaturase!(EC!1.14.19.3)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.75%
+Cluster 688843
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR04862
+fig|455432.12.peg.2810|HPY32_23270!!!Glutaredoxin-like!domain-containing!protein!PA3033!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.12%
+Cluster 110682
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative fatty acid desaturase	BAD59454
+fig|455432.12.peg.3754|HPY32_27700!!!Linoleoyl-CoA!desaturase!(EC!1.14.19.3)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	77.43%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|455432.12.peg.2961|HPY32_24015!!!LSU!ribosomal!protein!L11p!(L12e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	86.11%
+Cluster 101883
+20737	CP001874	Thermobispora bispora DSM 43833, complete genome.	No	Actinobacteridae	cell division protein FtsZ	ADG88128
+fig|455432.12.peg.1716|HPY32_08305!!!Cell!division!protein!FtsZ!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.39%
+Cluster 448762
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	integral membrane protein	ABK76008
+fig|455432.12.peg.9166|HPY32_35280!!!Integral!membrane!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.42%
+Cluster 292511
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	ABC transporter related	ACU74806
+fig|455432.12.peg.778|HPY32_03820!!!D-xylose!ABC!transporter,!ATP-binding!protein!XylG!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.37%
+Cluster 2858
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	GAF sensor hybrid histidine kinase	ACZ84931
+fig|455432.12.peg.9106|HPY32_34995!!!Two-component!system!sensor!histidine!kinase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.25%
+Cluster 556720
+16079	CP000580	Mycobacterium sp. JLS, complete genome.	No	Actinobacteridae	protein of unknown function DUF1486	ABO00610
+fig|455432.12.peg.8292|HPY32_42155!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.51%
+Cluster 402914
+223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAK47222
+fig|455432.12.peg.5609|HPY32_15000!!!COGs!COG0840!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.86%
+Cluster 422355
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ACC41797
+fig|455432.12.peg.7424|HPY32_38210!!!Haloacid!dehalogenase,!type!II!(EC!3.8.1.2)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.26%
+Cluster 225392
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical transmembrane protein	ACC38632
+fig|455432.12.peg.2092|HPY32_10115!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.90%
+Cluster 456482
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative TetR-family transcriptional regulator	BAC68464
+fig|455432.12.peg.4586|HPY32_31505!!!Transcriptional!regulator,!AcrR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.95%
+Cluster 339919
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative YrbE family protein	BAD60485
+fig|455432.12.peg.6536|HPY32_19275!!!Conserved!hypothetical!integral!membrane!protein!YrbEa!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	86.76%
+Cluster 339918
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative YrbE family protein	BAD59906
+fig|455432.12.peg.4473|HPY32_30985!!!Conserved!hypothetical!integral!membrane!protein!YrbEa!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	83.21%
+Cluster 85918
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative permease of the major facilitator superfamily	BAG19861
+fig|455432.12.peg.7750|HPY32_39695!!!Uncharacterized!MFS-type!transporter!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.52%
+Cluster 322105
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	Zn-dependent protease-like protein	ACZ84609
+fig|455432.12.peg.6568|HPY32_19435!!!Zn-dependent!protease!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	75.17%
+Cluster 120712
+10689	CP000750	Kineococcus radiotolerans SRS30216, complete genome.	No	Actinobacteridae	aminotransferase class-III	ABS05541
+fig|455432.12.peg.320|HPY32_01540!!!Omega-amino!acid--pyruvate!aminotransferase!(EC!2.6.1.18)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.69%
+Cluster 271513
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	Asp/Glu/Hydantoin racemase family	ABA48765
+fig|455432.12.peg.8234|HPY32_41875!!!Hydantoin!racemase!(EC!5.1.99.-)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.16%
+Cluster 161494
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	conserved hypothetical protein	CBG75154
+fig|455432.12.peg.7841|HPY32_40090!!!MoxR-like!ATPases!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	82.32%
+Cluster 383648
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative uridylate kinase	BAG18690
+fig|455432.12.peg.8574|HPY32_43450!!!Uridylate!kinase!(EC!2.7.4.22)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.66%
+Cluster 397952
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ABR06050
+fig|455432.12.peg.1988|HPY32_09610!!!TPR-repeat-containing!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.67%
+Cluster 552495
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	putative enediyne biosynthesis protein	ACU75204
+fig|455432.12.peg.8677|HPY32_32960!!!4-hydroxybenzoyl-CoA!thioesterase!family!active!site!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.25%
+Cluster 228724
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative O-methyltransferase	BAC70093
+fig|455432.12.peg.7734|HPY32_39635!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.88%
+Cluster 407602
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative ABC transporter	BAD55525
+fig|455432.12.peg.5238|HPY32_13150!!!Transmembrane!component!of!energizing!module!of!ECF!transporters!in!Mycobacteria!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	75.00%
+Cluster 226735
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	Ferrochelatase	ABP55460
+fig|455432.12.peg.7280|HPY32_37540!!!Coproporphyrin!ferrochelatase!(EC!4.99.1.9)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.25%
+Cluster 51828
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	Cytochrome-c oxidase	ABP53565
+fig|455432.12.peg.4631|HPY32_31720!!!Cytochrome!c!oxidase!polypeptide!I!(EC!1.9.3.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.49%
+fig|455432.12.peg.7168|HPY32_37010!!!Cytochrome!c!oxidase!polypeptide!I!(EC!1.9.3.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.84%
+Cluster 401113
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	transcriptional regulator, PadR-like family	ACV81646
+fig|455432.12.peg.6643|HPY32_19800!!!Transcriptional!regulator,!PadR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.32%
+Cluster 261673
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	thioredoxin reductase	ABG11502
+fig|455432.12.peg.6497|HPY32_19110!!!Thioredoxin!reductase!(EC!1.8.1.9)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.29%
+Cluster 738272
+12738	CP000509	Nocardioides sp. JS614, complete genome.	No	Actinobacteridae	putative signal-transduction protein with CBS domains	ABL79829
+fig|455432.12.peg.5729|HPY32_15580!!!DUF1918!domain-containing!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.33%
+Cluster 46578
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	cytochrome c oxidase, subunit I	ADL46403
+fig|455432.12.peg.293|HPY32_01415!!!Cytochrome!c!oxidase!polypeptide!I!(EC!1.9.3.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.44%
+Cluster 9168
+20011	CP001341	Arthrobacter chlorophenolicus A6, complete genome.	No	Actinobacteridae	type I site-specific deoxyribonuclease, HsdR family	ACL39086
+fig|455432.12.peg.3229|HPY32_25285!!!Type!I!restriction-modification!system,!restriction!subunit!R!(EC!3.1.21.3)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.30%
+Cluster 211211
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	Luciferase-like monooxygenase	ACU72696
+fig|455432.12.peg.5779|HPY32_15810!!!luciferase!family!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.04%
+Cluster 22700
+307	BA000036	Corynebacterium glutamicum ATCC 13032 DNA, complete genome.	No	Actinobacteridae	Pullulanase and related glycosidases	BAB99500
+fig|455432.12.peg.1796|HPY32_08690!!!Limit!dextrin!alpha-1,6-maltotetraose-hydrolase!(EC!3.2.1.196)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.79%
+Cluster 626091
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13080
+fig|455432.12.peg.5380|HPY32_13870!!!YcfF/hinT!protein:!a!purine!nucleoside!phosphoramidase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.79%
+Cluster 688606
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	phosphoribosylformylglycinamidine synthase, purS	ACQ81834
+fig|455432.12.peg.5366|HPY32_13800!!!Phosphoribosylformylglycinamidine!synthase,!PurS!subunit!(EC!6.3.5.3)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.38%
+Cluster 443286
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	transcriptional regulator, GntR family	ACZ90853
+fig|455432.12.peg.1945|HPY32_09390!!!Transcriptional!regulator,!GntR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.86%
+Cluster 539789
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	conserved hypothetical protein	ABG07490
+fig|455432.12.peg.3776|HPY32_27805!!!Cys-tRNA(Pro)!deacylase!YbaK!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.24%
+Cluster 104101
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative membrane protein	BAD58521
+fig|455432.12.peg.7518|HPY32_38655!!!integral!membrane!protein-like!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	91.53%
+Cluster 591605
+29405	CP001727	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446, complete genome.	No	Bacillales	ribosomal protein L16	ACV59708
+fig|455432.12.peg.5075|HPY32_12355!!!LSU!ribosomal!protein!L16p!(L10e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.12%
+Cluster 521639
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Conserved hypothetical protein	CAJ64190
+fig|455432.12.peg.6828|HPY32_20635!!!YbaK!family!protein!SCO3165!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.70%
+Cluster 685481
+29147	AP008955	Brevibacillus brevis NBRC 100599 DNA, complete genome.	No	Bacillales	hypothetical protein	BAH41296
+fig|455432.12.peg.299|HPY32_01440!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.54%
+Cluster 553567
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	ribosomal protein S13p/S18e	ABM09763
+fig|455432.12.peg.4966|HPY32_11835!!!SSU!ribosomal!protein!S13p!(S18e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	75.61%
+Cluster 42055
+20011	CP001341	Arthrobacter chlorophenolicus A6, complete genome.	No	Actinobacteridae	ABC transporter transmembrane region	ACL38967
+fig|455432.12.peg.5964|HPY32_16700!!!Efflux!ABC!transporter,!permease/ATP-binding!protein!SCO2464!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.06%
+Cluster 82968
+17109	CP000850	Salinispora arenicola CNS-205, complete genome.	No	Actinobacteridae	delta-1-pyrroline-5-carboxylate dehydrogenase	ABV96832
+fig|455432.12.peg.3566|HPY32_26840!!!Delta-1-pyrroline-5-carboxylate!dehydrogenase!(EC!1.2.1.88)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.08%
+Cluster 445434
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	ribosomal protein S5	ABM09869
+fig|455432.12.peg.5016|HPY32_12070!!!SSU!ribosomal!protein!S5p!(S2e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.38%
+Cluster 238947
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	band 7 protein	ACU71147
+fig|455432.12.peg.1583|HPY32_07675!!!Putative!stomatin/prohibitin-family!membrane!protease!subunit!aq_911!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.30%
+Cluster 434464
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	GTP cyclohydrolase II	ACU70741
+fig|455432.12.peg.2983|HPY32_24125!!!GTP!cyclohydrolase!II!(EC!3.5.4.25)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.52%
+Cluster 113323
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	carotenoid oxygenase	ABK65798
+fig|455432.12.peg.7451|HPY32_38335!!!Lignostilbene-alpha,beta-dioxygenase!and!related!enzymes!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.50%
+Cluster 20573
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	Phosphoketolase	ACB24597
+fig|455432.12.peg.8489|HPY32_43050!!!Xylulose-5-phosphate!phosphoketolase!(EC!4.1.2.9)!@!Fructose-6-phosphate!phosphoketolase!(EC!4.1.2.22)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.83%
+Cluster 432337
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	putative secreted protein	ACZ87381
+fig|455432.12.peg.2985|HPY32_24135!!!Flavin!reductase!(EC!1.5.1.30)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.81%
+Cluster 324488
+91	AE016958	Mycobacterium avium subsp. paratuberculosis str. k10, complete genome.	Yes	Actinobacteridae	hypothetical protein	AAS03915
+fig|455432.12.peg.4504|HPY32_31120!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.73%
+Cluster 519623
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	transcriptional regulator, MarR family	ADB32613
+fig|455432.12.peg.1750|HPY32_08465!!!Transcriptional!regulator,!MarR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.11%
+Cluster 642734
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD57855
+fig|455432.12.peg.9109|HPY32_35010!!!Integral!membrane!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.27%
+Cluster 43502
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	molybdopterin oxidoreductase	ACY98035
+fig|455432.12.peg.5508|HPY32_14500!!!Oxidoreductase,!molybdopterin-binding!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.64%
+Cluster 163177
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative 3-oxoacyl-ACP synthase II	BAG20083
+fig|455432.12.peg.7338|HPY32_37810!!!3-oxoacyl-[acyl-carrier-protein]!synthase,!KASII!(EC!2.3.1.179)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.29%
+Cluster 234320
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	Methionine synthase vitamin-B12 independent	ACU73198
+fig|455432.12.peg.8647!!!5-methyltetrahydropteroyltriglutamate--homocysteine!methyltransferase!(EC!2.1.1.14)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.12%
+Cluster 395394
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative hydrolase	CBG73519
+fig|455432.12.peg.789|HPY32_03875!!!Putative!phosphatase!YfbT!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.39%
+Cluster 243542
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	NAD-dependent epimerase/dehydratase	ACZ89639
+fig|455432.12.peg.8681|HPY32_32980!!!Dihydroflavonol-4-reductase!(EC!1.1.1.219)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.28%
+Cluster 99595
+10642	CP000117	Anabaena variabilis ATCC 29413, complete genome.	No	Nostocales	conserved hypothetical protein	ABA19844
+fig|455432.12.peg.7259|HPY32_37430!!!Coenzyme!F390!synthetase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.85%
+Cluster 576506
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	flavodoxin/nitric oxide synthase	ACY23079
+fig|455432.12.peg.3292|HPY32_25595!!!Sulfite!reductase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.26%
+Cluster 280267
+189	BA000030	Streptomyces avermitilis MA-4680 DNA, complete genome.	No	Actinobacteridae	putative simple sugar ABC transporter permease protein	BAC68679
+fig|455432.12.peg.7718|HPY32_39555!!!ABC!transporter,!permease!protein!(cluster!2,!ribose/xylose/arabinose/galactose)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.26%
+Cluster 556653
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	Mov34/MPN/PAD-1 family protein	ABP53571
+fig|455432.12.peg.240|HPY32_01155!!!CysO-cysteine!peptidase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.96%
+Cluster 317809
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	MutT/nudix family protein	ABK75817
+fig|455432.12.peg.6503|HPY32_19135!!!Diadenosine!hexaphosphate!(Ap6A)!hydrolase;!Bis(5'-nucleosyl)-tetraphosphatase!(Ap4A)!(Asymmetrical)!(EC!3.6.1.17)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	79.47%
+Cluster 324614
+92	CP000480	Mycobacterium smegmatis str. MC2 155, complete genome.	Yes	Actinobacteridae	morphological differentiation-associated protein	ABK71449
+fig|455432.12.peg.5664|HPY32_15265!!!Phosphoserine!phosphatase!(EC!3.1.3.3)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	69.92%
+Cluster 129635
+29549	CP001802	Gordonia bronchialis DSM 43247, complete genome.	Yes	Actinobacteridae	L-lysine 6-monooxygenase (NADPH)	ACY19961
+fig|455432.12.peg.5059|HPY32_12275!!!L-lysine!6-monooxygenase!(EC!1.14.13.59)!in!siderophore!biosynthesis!=>!MbtG!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.46%
+Cluster 225687
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD60304
+fig|455432.12.peg.6726|HPY32_20200!!!Basic!proline-rich!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.30%
+Cluster 119270
+12640	CP000454	Arthrobacter sp. FB24, complete genome.	No	Actinobacteridae	transcriptional regulator, GntR family	ABK03836
+fig|455432.12.peg.2045|HPY32_09880!!!Transcriptional!regulator,!GntR!family!domain!/!Aspartate!aminotransferase!(EC!2.6.1.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.12%
+Cluster 108646
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	RNA-directed DNA polymerase	ABP56568
+fig|455432.12.peg.6751|HPY32_20325!!!Retron-type!RNA-directed!DNA!polymerase!(EC!2.7.7.49)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.62%
+fig|455432.12.peg.4192|HPY32_29760!!!Retron-type!RNA-directed!DNA!polymerase!(EC!2.7.7.49)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	61.31%
+Cluster 381510
+12738	CP000509	Nocardioides sp. JS614, complete genome.	No	Actinobacteridae	LSU ribosomal protein L1P	ABL80222
+fig|455432.12.peg.2962|HPY32_24020!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.07%
+Cluster 50764
+13423	CP000359	Deinococcus geothermalis DSM 11300, complete genome.	No	Deinococci	Glucose-6-phosphate isomerase	ABF45600
+fig|455432.12.peg.3085|HPY32_24620!!!Glucose-6-phosphate!isomerase!(EC!5.3.1.9)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.43%
+Cluster 596577
+20827	CP001618	Beutenbergia cavernae DSM 12333, complete genome.	No	Actinobacteridae	protein of unknown function DUF59	ACQ80585
+fig|455432.12.peg.7368|HPY32_37950!!!PaaD-like!protein!(DUF59)!involved!in!Fe-S!cluster!assembly!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.03%
+Cluster 495335
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	Exonuclease RNase T and DNA polymerase III	ACY97466
+fig|455432.12.peg.1726|HPY32_08345!!!Exonuclease!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.19%
+Cluster 578252
+16	CP001157	Azotobacter vinelandii DJ, complete genome.	No	Gammaproteobacteria	Glyoxalase/Bleomycin resistance/Dioxygenase superfamily protein	ACO76672
+fig|455432.12.peg.6939|HPY32_35925!!!Uncharacterized!protein!YaeR!with!similarity!to!glyoxylase!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.33%
+Cluster 702197
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	50S ribosomal protein L29	CAJ59754
+fig|455432.12.peg.5074|HPY32_12350!!!LSU!ribosomal!protein!L29p!(L35e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.35%
+Cluster 27804
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Transcription termination factor rho	CAJ64573
+fig|455432.12.peg.5713|HPY32_15500!!!Transcription!termination!factor!Rho!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	60.52%
+Cluster 314316
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD60030
+fig|455432.12.peg.2803|HPY32_23235!!!TesB-like!acyl-CoA!thioesterase!3!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.35%
+Cluster 63995
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	hypothetical protein	BAD55486
+fig|455432.12.peg.5283|HPY32_13370!!!putative!membrane!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.23%
+Cluster 100810
+21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	No	Actinobacteridae	putative MFS transporter	ACZ84934
+fig|455432.12.peg.7162|HPY32_36980!!!Uncharacterized!MFS-type!transporter!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.95%
+Cluster 190268
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative aminotransferase	BAD55815
+fig|455432.12.peg.53|HPY32_00235!!!Aspartate!aminotransferase!(AspB-4)!(EC!2.6.1.1)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	74.23%
+Cluster 611164
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative transposase	BAD56903
+fig|455432.12.peg.5829|HPY32_16065!!!Mobile!element!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	75.59%
+Cluster 158967
+19707	CP001964	Cellulomonas flavigena DSM 20109, complete genome.	No	Actinobacteridae	isocitrate dehydrogenase, NADP-dependent	ADG75416
+fig|455432.12.peg.6|HPY32_00025!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	82.72%
+Cluster 185014
+29399	CP001966	Tsukamurella paurometabola DSM 20162, complete genome.	Yes	Actinobacteridae	ABC transporter related protein	ADG77389
+fig|455432.12.peg.2965|HPY32_24035!!!ABC!transporter!ATP-binding!protein!SCO2422!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.95%
+Cluster 653203
+19227	CP000910	Renibacterium salmoninarum ATCC 33209, complete genome.	No	Actinobacteridae	glutaredoxin	ABY25190
+fig|455432.12.peg.4616|HPY32_31655!!!Glutaredoxin-like!protein!NrdH,!required!for!reduction!of!Ribonucleotide!reductase!class!Ib!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	67.53%
+Cluster 523492
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	50S ribosomal protein L22	ABK69438
+fig|455432.12.peg.5077|HPY32_12365!!!LSU!ribosomal!protein!L22p!(L17e)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.91%
+Cluster 652670
+1421	CP000113	Myxococcus xanthus DK 1622, complete genome.	No	Deltaproteobacteria	conserved hypothetical protein	ABF92240
+fig|455432.12.peg.6227|HPY32_17895!!!putative!calmodulin-binding!protein!CaM-BP15!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.77%
+Cluster 296167
+40749	FN554889	Streptomyces scabiei 87.22 complete genome.	No	Actinobacteridae	putative ABC transport system ATP-binding protein	CBG74780
+fig|455432.12.peg.3703|HPY32_27460!!!ABC!transporter,!ATP-binding!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.10%
+Cluster 337849
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	short-chain dehydrogenase/reductase SDR	ABP56104
+fig|455432.12.peg.6587|HPY32_19520!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	70.14%
+Cluster 654970
+16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Yes	Actinobacteridae	meromycolate extension acyl carrier protein AcpM	ABL03865
+fig|455432.12.peg.1493|HPY32_07245!!!Acyl!carrier!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	75.00%
+Cluster 654977
+88	CP000479	Mycobacterium avium 104, complete genome.	Yes	Actinobacteridae	acyl carrier protein	ABK65172
+fig|455432.12.peg.9226|HPY32_35560!!!Acyl!carrier!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.67%
+Cluster 29208
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	xanthine dehydrogenase D subunit	ACU73594
+fig|455432.12.peg.1440|HPY32_06990!!!Xanthine!dehydrogenase,!molybdenum!binding!subunit!(EC!1.17.1.4)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	71.26%
+Cluster 410636
+29537	CP001737	Nakamurella multipartita DSM 44233, complete genome.	No	Actinobacteridae	two component transcriptional regulator, LuxR family	ACV79266
+fig|455432.12.peg.4526|HPY32_31230!!!Two-component!transcriptional!response!regulator,!LuxR!family!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	66.01%
+Cluster 64508
+223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Yes	Actinobacteridae	IS1547, transposase	AAK47773
+fig|455432.12.peg.997|HPY32_04850!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	64.21%
+Cluster 23290
+12512	CP000474	Arthrobacter aurescens TC1, complete genome.	No	Actinobacteridae	putative N,N-dimethylglycine oxidase	ABM09079
+fig|455432.12.peg.9099|HPY32_34960!!!Putative!Dimethylglycine!oxidase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.90%
+Cluster 150731
+29547	CP001867	Geodermatophilus obscurus DSM 43160, complete genome.	No	Actinobacteridae	Beta-ketoacyl synthase	ADB72952
+fig|455432.12.peg.1505|HPY32_07300!!!Polyketide!beta-ketoacyl!synthase!WhiE-KS!paralog!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.86%
+Cluster 459790
+16342	CP000667	Salinispora tropica CNB-440, complete genome.	No	Actinobacteridae	Cupin 2, conserved barrel domain protein	ABP55836
+fig|455432.12.peg.4479|HPY32_31015!!!Transcriptional!regulator!SCO1200,!Xre-family!with!cupin!domain!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	73.37%
+Cluster 657709
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	conserved hypothetical selenoprotein	ACB24818
+fig|455432.12.peg.3718|HPY32_27530!!!NOHBY218;!no!homolog!in!Saccharomyces!cerevisiae!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	68.89%
+Cluster 500870
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	putative NADPH-dependent FMN reductase	CAJ64197
+fig|455432.12.peg.2798|HPY32_23210!!!NADPH-dependent!FMN!reductase!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	65.19%
+Cluster 607484
+20825	CP001738	Thermomonospora curvata DSM 43183, complete genome.	No	Actinobacteridae	thioesterase superfamily protein	ACY97354
+fig|455432.12.peg.7291|HPY32_37595!!!hypothetical!protein!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	63.77%
+Cluster 400669
+13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Yes	Actinobacteridae	putative acetyltransferase	BAD59134
+fig|455432.12.peg.4641|HPY32_31770!!!Galactoside!O-acetyltransferase!(EC!2.3.1.18)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	89.52%
+Cluster 158801
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	dihydroorotate dehydrogenase	BAC18453
+fig|455432.12.peg.6997|HPY32_36195!!!Dihydroorotate!dehydrogenase!(quinone)!(EC!1.3.5.2)!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	62.77%
+Cluster 601237
+12460	AE017283	Propionibacterium acnes KPA171202, complete genome.	Yes	Actinobacteridae	probable transcription factor WhiB3	AAT83011
+fig|455432.12.peg.3781|HPY32_27830!!!WhiB-like!transcription!regulator!!![Nocardia!terpenica!strain!IFM!0706!|!455432.12]	72.62%

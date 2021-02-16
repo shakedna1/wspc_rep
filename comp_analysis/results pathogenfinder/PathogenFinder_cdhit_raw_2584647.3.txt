@@ -1,0 +1,200 @@
+Cluster 721771
+21047	CP000860	Candidatus Desulforudis audaxviator MP104C, complete genome.	No	Clostridia	ribosomal protein L33	ACA58769
+fig|2584647.3.peg.2364|GKG35_03490!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-dependent!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	71.43%
+Cluster 4738
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DNA-directed RNA polymerase, beta' subunit	ABX44033
+fig|2584647.3.peg.1256|GKG35_00935!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	63.53%
+Cluster 755023
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	4Fe-4S ferredoxin iron-sulfur binding domain protein	ADB47738
+fig|2584647.3.peg.30|GKG35_08145!!!Ferredoxin!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	63.64%
+Cluster 248566
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	aldo/keto reductase	ABX41430
+fig|2584647.3.peg.126|GKG35_08550!!!Oxidoreductase,!aldo/keto!reductase!family!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	69.88%
+Cluster 300961
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Sugar transport system permease protein	ADC84954
+fig|2584647.3.peg.675|GKG35_11075!!!ABC!transporter,!permease!protein!1!(cluster!1,!maltose/g3p/polyamine/iron)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	61.48%
+Cluster 453866
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	von Willebrand factor type A	ADL06218
+fig|2584647.3.peg.1633|GKG35_13820!!!FIG00529500:!hypothetical!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	83.03%
+Cluster 182777
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	LL-diaminopimelate aminotransferase	ADB46739
+fig|2584647.3.peg.1155|GKG35_00460!!!L,L-diaminopimelate!aminotransferase!(EC!2.6.1.83)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	61.27%
+Cluster 124802
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	extracellular solute-binding protein family 1	ABX42162
+fig|2584647.3.peg.2755|GKG35_05225!!!ABC!transporter,!substrate-binding!protein!(cluster!1,!maltose/g3p/polyamine/iron)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	64.33%
+Cluster 56420
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	site-specific recombinase, resolvase family, putative	CBE04532
+fig|2584647.3.peg.1973!!!TrsK-like!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	75.68%
+fig|2584647.3.peg.2193|GKG35_15405!!!Phage!integrase!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	98.08%
+Cluster 670589
+32569	CP001275	Thermomicrobium roseum DSM 5159, complete genome.	No	Thermomicrobiales	30S ribosomal protein S18	ACM04840
+fig|2584647.3.peg.672|GKG35_11060!!!SSU!ribosomal!protein!S18p!@!SSU!ribosomal!protein!S18p,!zinc-dependent!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	62.35%
+Cluster 57893
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ammonium transporter Amt	ADL32871
+fig|2584647.3.peg.978|GKG35_12500!!!Ammonium!transporter!/!Nitrogen!regulatory!protein!P-II!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	60.76%
+Cluster 682514
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	stress responsive alpha-beta barrel domain-containing protein	ADL35412
+fig|2584647.3.peg.2346|GKG35_03415!!!Dabb!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	79.00%
+Cluster 226229
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	aspartate-semialdehyde dehydrogenase	ACL76919
+fig|2584647.3.peg.2538|GKG35_04245!!!Aspartate-semialdehyde!dehydrogenase!(EC!1.2.1.11)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	67.78%
+Cluster 689502
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	prevent-host-death family protein	ACV63553
+fig|2584647.3.peg.309|GKG35_09385!!!Prevent-host-death!family!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	66.32%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|2584647.3.peg.1258|GKG35_00940!!!SSU!ribosomal!protein!S12p!(S23e)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	66.20%
+Cluster 565989
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	ribosomal protein L22	ACL75141
+fig|2584647.3.peg.3304|GKG35_07790!!!LSU!ribosomal!protein!L22p!(L17e)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	60.36%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|2584647.3.peg.62|GKG35_08285!!!LSU!ribosomal!protein!L34p!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	63.64%
+Cluster 587752
+15721	CP000158	Hyphomonas neptunium ATCC 15444, complete genome.	No	Alphaproteobacteria	ribosomal protein S16	ABI77788
+fig|2584647.3.peg.198|GKG35_08875!!!SSU!ribosomal!protein!S16p!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	61.25%
+Cluster 292534
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ADL03264
+fig|2584647.3.peg.2384|GKG35_03585!!!Oligopeptide!ABC!transporter,!permease!protein!OppB!(TC!3.A.1.5.1)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	69.97%
+Cluster 684025
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	protein of unknown function DUF1653	ABM33992
+fig|2584647.3.peg.1566|GKG35_13500!!!hypothetical!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	64.71%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|2584647.3.peg.1261|GKG35_00955!!!Translation!elongation!factor!Tu!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	62.84%
+Cluster 624602
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hypothetical protein	ADL35387
+fig|2584647.3.peg.2818|GKG35_05515!!!hypothetical!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	65.12%
+Cluster 693923
+12994	AP006840	Symbiobacterium thermophilum IAM 14863 DNA, complete genome.	No	Clostridia	30S ribosomal protein S17	BAD42048
+fig|2584647.3.peg.3300|GKG35_07770!!!SSU!ribosomal!protein!S17p!(S11e)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	69.41%
+Cluster 212943
+32617	CP001792	Fibrobacter succinogenes subsp. succinogenes S85, complete genome.	No	Fibrobacterales	Cysteine desulfurase	ACX74058
+fig|2584647.3.peg.1285|GKG35_01065!!!Cysteine!desulfurase!(EC!2.8.1.7),!associated!with!tRNA!4-thiouridine!synthase!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	60.05%
+Cluster 386771
+28337	CP001344	Cyanothece sp. PCC 7425, complete genome.	No	Chroococcales	ADP-ribosylation/Crystallin J1	ACL44573
+fig|2584647.3.peg.2791|GKG35_05380!!!Putative!hydrolase!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	62.33%
+Cluster 47423
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	2-isopropylmalate synthase LeuA	ADL34988
+fig|2584647.3.peg.3019|GKG35_06440!!!2-isopropylmalate!synthase!(EC!2.3.3.13)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	61.82%
+Cluster 387514
+21047	CP000860	Candidatus Desulforudis audaxviator MP104C, complete genome.	No	Clostridia	response regulator receiver protein	ACA60117
+fig|2584647.3.peg.1360|GKG35_01390!!!Stage!0!sporulation!two-component!response!regulator!(Spo0A)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	65.38%
+Cluster 99190
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	amino acid carrier protein ACGS family	ADL33830
+fig|2584647.3.peg.918|GKG35_12250!!!Sodium/glycine!symporter!GlyP!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	60.79%
+Cluster 297033
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	molybdenum cofactor synthesis domain protein	ABX41855
+fig|2584647.3.peg.1571|GKG35_13525!!!FIG060329:!MOSC!domain!protein!/!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	62.58%
+Cluster 219859
+30165	CP001983	Bacillus megaterium QM B1551, complete genome.	No	Bacillales	beta-glucosidase	ADE70389
+fig|2584647.3.peg.3001|GKG35_06360!!!6-phospho-beta-glucosidase!(EC!3.2.1.86)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	69.86%
+Cluster 198468
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	putative iron-containing alcohol dehydrogenase	ADK13465
+fig|2584647.3.peg.1721|GKG35_14235!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	71.35%
+Cluster 312489
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S2	ABP90946
+fig|2584647.3.peg.1297|GKG35_01115!!!SSU!ribosomal!protein!S2p!(SAe)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	63.33%
+Cluster 560464
+81	AE015927	Clostridium tetani E88, complete genome.	Yes	Clostridia	conserved protein	AAO36877
+fig|2584647.3.peg.2108|GKG35_15010!!!hypothetical!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	61.25%
+fig|2584647.3.peg.2136|GKG35_15130!!!hypothetical!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	61.25%
+Cluster 574744
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	FeS cluster assembly scaffold protein NifU	ACL76279
+fig|2584647.3.peg.3247|GKG35_07500!!!Iron-sulfur!cluster!assembly!scaffold!protein!IscU/NifU-like!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	63.27%
+Cluster 743333
+20207	CP001034	Natranaerobius thermophilus JW/NM-WN-LF, complete genome.	No	Clostridia	LSU ribosomal protein L29P	ACB83801
+fig|2584647.3.peg.3301|GKG35_07775!!!LSU!ribosomal!protein!L29p!(L35e)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	60.66%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|2584647.3.peg.3305|GKG35_07795!!!SSU!ribosomal!protein!S19p!(S15e)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	76.14%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|2584647.3.peg.3282|GKG35_07685!!!SSU!ribosomal!protein!S11p!(S14e)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	66.91%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|2584647.3.peg.3299|GKG35_07765!!!LSU!ribosomal!protein!L14p!(L23e)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	66.39%
+Cluster 680284
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	branched-chain amino acid transport	ADL03681
+fig|2584647.3.peg.2569|GKG35_04385!!!hypothetical!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	65.35%
+Cluster 73403
+30767	FM204884	Streptococcus equi subsp. zooepidemicus H70, complete genome.	Yes	Lactobacillales	DNA topoisomerase	CAW99799
+fig|2584647.3.peg.1810|GKG35_14670!!!DNA!topoisomerase!III!(EC!5.99.1.2)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	60.22%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|2584647.3.peg.3284|GKG35_07695!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	83.78%
+Cluster 530141
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	Tripartite ATP-independent periplasmic transporter, DctQ component	ABR49906
+fig|2584647.3.peg.1379|GKG35_01480!!!TRAP-type!transport!system,!small!permease!component,!predicted!N-acetylneuraminate!transporter!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	77.46%
+Cluster 161503
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hydroxypyruvate reductase	ADL32880
+fig|2584647.3.peg.1420|GKG35_01670!!!D-glycerate!2-kinase!(EC!2.7.1.165)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	71.98%
+Cluster 565856
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	protein of unknown function DUF567	ADB47776
+fig|2584647.3.peg.2086|GKG35_02755!!!hypothetical!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	68.15%
+Cluster 221558
+32587	CP001997	Aminobacterium colombiense DSM 12261, complete genome.	No	Synergistia	uracil phosphoribosyltransferase	ADE57013
+fig|2584647.3.peg.3023|GKG35_06460!!!Uracil!phosphoribosyltransferase!(EC!2.4.2.9)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	62.02%
+Cluster 116862
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	gluconate transporter	ABX44178
+fig|2584647.3.peg.914|GKG35_12235!!!Low-affinity!gluconate/H+!symporter!GntU!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	69.84%
+Cluster 507827
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	3-isopropylmalate dehydratase, small subunit	ABN53412
+fig|2584647.3.peg.3021|GKG35_06450!!!3-isopropylmalate!dehydratase!small!subunit!(EC!4.2.1.33)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	65.03%
+Cluster 680308
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	protein of unknown function DUF370	ABP67672
+fig|2584647.3.peg.1274|GKG35_01010!!!UPF0296!protein!YlzA!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	63.44%
+Cluster 615471
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	transposase IS200-family protein	ADL51730
+fig|2584647.3.peg.997!!!Transposase,!IS200!family!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	62.89%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|2584647.3.peg.3283|GKG35_07690!!!SSU!ribosomal!protein!S13p!(S18e)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	71.54%
+Cluster 41759
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	ferrous iron transport protein B	ADB47261
+fig|2584647.3.peg.1928|GKG35_02015!!!Ferrous!iron!transporter!FeoB!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	71.58%
+Cluster 356097
+32569	CP001275	Thermomicrobium roseum DSM 5159, complete genome.	No	Thermomicrobiales	ZIP zinc transporter family protein	ACM06179
+fig|2584647.3.peg.1450|GKG35_12950!!!Metal!transporter,!ZIP!family!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	63.41%
+Cluster 376038
+20739	CP001682	Cryptobacterium curtum DSM 15641, complete genome.	Yes	Coriobacteridae	exodeoxyribonuclease III	ACU94851
+fig|2584647.3.peg.1879|GKG35_01805!!!Exodeoxyribonuclease!III!(EC!3.1.11.2)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	60.40%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|2584647.3.peg.330|GKG35_09475!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	66.16%
+Cluster 647174
+16064	CP000155	Hahella chejuensis KCTC 2396, complete genome.	No	Gammaproteobacteria	ribosomal protein L31	ABC32627
+fig|2584647.3.peg.1381|GKG35_01490!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-dependent!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	69.70%
+Cluster 303790
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	hypothetical protein	ADL34703
+fig|2584647.3.peg.2856|GKG35_05690!!!hypothetical!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	72.28%
+Cluster 135441
+29543	CP001959	Brachyspira murdochii DSM 12563, complete genome.	No	Spirochaetales	acetyl-CoA hydrolase/transferase	ADG72102
+fig|2584647.3.peg.1240|GKG35_00860!!!4-hydroxybutyrate!coenzyme!A!transferase!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	72.32%
+Cluster 365837
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative uncharacterized protein	CBE04594
+fig|2584647.3.peg.1830|GKG35_14760!!!hypothetical!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	98.51%
+Cluster 587322
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	ribosomal protein L16	ABR50543
+fig|2584647.3.peg.3302|GKG35_07780!!!LSU!ribosomal!protein!L16p!(L10e)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	76.71%
+Cluster 750815
+29405	CP001727	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446, complete genome.	No	Bacillales	ribosomal protein S21	ACV59001
+fig|2584647.3.peg.2250|GKG35_02965!!!SSU!ribosomal!protein!S21p!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	63.79%
+Cluster 187061
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Rubrerythrin	ADL05267
+fig|2584647.3.peg.1044|GKG35_12805!!!Rubrerythrin!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	70.56%
+Cluster 473787
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	Adenine-specific methyltransferase	ABF36180
+fig|2584647.3.peg.2888|GKG35_05850!!!MunI-like!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	63.24%
+Cluster 679976
+30983	CP002131	Thermosediminibacter oceani DSM 16646, complete genome.	No	Clostridia	conserved hypothetical protein	ADL08315
+fig|2584647.3.peg.3324|GKG35_07875!!!Zinc-ribbon!domain!Caur_1000.N!/!CxxC-x17-CxxC!domain!Caur_1000.C!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	68.42%
+Cluster 552782
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	50S ribosomal protein L11	ABM79507
+fig|2584647.3.peg.2367|GKG35_03505!!!LSU!ribosomal!protein!L11p!(L12e)!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	62.41%
+Cluster 721179
+28997	AP010655	Streptococcus mutans NN2025 DNA, complete genome.	Yes	Lactobacillales	hypothetical protein	BAH88243
+fig|2584647.3.peg.2119|GKG35_15060!!!helix-turn-helix!domain-containing!protein!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	62.22%
+Cluster 427336
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	protein of unknown function UPF0066	ACL20270
+fig|2584647.3.peg.1665|GKG35_13980!!!tRNA!(adenine(37)-N6)-methyltransferase!!![Faecalibacterium!sp.!BIOML-A3!|!2584647.3]	62.93%

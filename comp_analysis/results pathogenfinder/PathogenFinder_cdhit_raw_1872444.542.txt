@@ -1,0 +1,201 @@
+Cluster 450661
+20089	CP001071	Akkermansia muciniphila ATCC BAA-835, complete genome.	No	Verrucomicrobiae	DNA-3-methyladenine glycosylase I	ACD05802
+fig|1872444.542.peg.2536|EP144_11665!!!DNA-3-methyladenine!glycosylase!(EC!3.2.2.20)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	69.47%
+Cluster 91766
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	sugar dehydrogenase, UDP-glucose/GDP-mannose dehydrogenase family	AAQ66250
+fig|1872444.542.peg.1383|EP144_06450!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	63.47%
+fig|1872444.542.peg.2060|EP144_09485!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	61.01%
+Cluster 479855
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	ribosomal protein S16	ACU02261
+fig|1872444.542.peg.1273|EP144_05945!!!SSU!ribosomal!protein!S16p!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	62.50%
+Cluster 133131
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	tyrosine type site-specific recombinase	BAD51015
+fig|1872444.542.peg.503!!!Integrase!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	89.88%
+fig|1872444.542.peg.504|EP144_02415!!!Integrase!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	77.32%
+Cluster 126665
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	aldo/keto reductase	BAD51036
+fig|1872444.542.peg.666|EP144_03150!!!Fe-S!oxidoreductase!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	71.24%
+Cluster 700834
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42722
+fig|1872444.542.peg.1085|EP144_05065!!!hypothetical!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	66.67%
+Cluster 8891
+12749	CP001108	Prosthecochloris aestuarii DSM 271, complete genome.	No	Chlorobia	methylmalonyl-CoA mutase, large subunit	ACF45920
+fig|1872444.542.peg.237|EP144_01160!!!Methylmalonyl-CoA!mutase!large!subunit,!MutB!(EC!5.4.99.2)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	65.45%
+Cluster 682081
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	conjugative transposon protein TraE	AAQ66528
+fig|1872444.542.peg.2553!!!Conjugative!transposon!protein!TraE!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	66.04%
+Cluster 564813
+16159	CP000159	Salinibacter ruber DSM 13855, complete genome.	No	Sphingobacteria	30S ribosomal protein S11	ABC45438
+fig|1872444.542.peg.2472|EP144_11360!!!SSU!ribosomal!protein!S11p!(S14e)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	62.79%
+Cluster 710843
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAG34197
+fig|1872444.542.peg.502|EP144_02410!!!hypothetical!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	94.52%
+Cluster 589088
+16082	CP000685	Flavobacterium johnsoniae UW101, complete genome.	No	Flavobacteria	LSU ribosomal protein L21P	ABQ04577
+fig|1872444.542.peg.1243|EP144_05805!!!LSU!ribosomal!protein!L21p!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	66.99%
+Cluster 180166
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative Na+/H+ exchange protein	ABR42695
+fig|1872444.542.peg.1674|EP144_07825!!!putative!Na+/H+!exchange!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	69.04%
+Cluster 542569
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD51038
+fig|1872444.542.peg.2199|EP144_10140!!!hypothetical!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	60.00%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|1872444.542.peg.2443|EP144_11215!!!SSU!ribosomal!protein!S12p!(S23e)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	73.21%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|1872444.542.peg.1947|EP144_09045!!!LSU!ribosomal!protein!L34p!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	74.42%
+Cluster 236760
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47983
+fig|1872444.542.peg.897|EP144_04280!!!hypothetical!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	70.69%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|1872444.542.peg.10|EP144_00060!!!Translation!elongation!factor!Tu!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	63.04%
+Cluster 227212
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative membrane fusion protein precursor	BAD47431
+fig|1872444.542.peg.1826|EP144_08515!!!CzcABC!family!efflux!RND!transporter,!membrane!fusion!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	61.90%
+Cluster 424195
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	translation initiation factor IF-3	ADE81404
+fig|1872444.542.peg.1732|EP144_08080!!!Translation!initiation!factor!3!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	67.27%
+Cluster 253624
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	L-rhamnose/H+ symporter	ABR38305
+fig|1872444.542.peg.2299|EP144_10575!!!L-rhamnose-proton!symporter!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	72.70%
+Cluster 122181
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	conserved hypothetical protein	ACU02681
+fig|1872444.542.peg.624|EP144_02950!!!putative!membrane!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	64.33%
+Cluster 442578
+16082	CP000685	Flavobacterium johnsoniae UW101, complete genome.	No	Flavobacteria	peptidyl-tRNA hydrolase	ABQ04161
+fig|1872444.542.peg.2124|EP144_09785!!!Peptidyl-tRNA!hydrolase!(EC!3.1.1.29)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	60.96%
+Cluster 20894
+16263	CP001390	Geobacter sp. FRC-32, complete genome.	No	Deltaproteobacteria	DNA gyrase, A subunit	ACM18383
+fig|1872444.542.peg.1020!!!DNA!gyrase!subunit!A!(EC!5.99.1.3)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	64.94%
+Cluster 561186
+13617	CP000552	Prochlorococcus marinus str. MIT 9515, complete genome.	No	Prochlorales	50S ribosomal protein L16	ABM72940
+fig|1872444.542.peg.2454|EP144_11270!!!LSU!ribosomal!protein!L16p!(L10e)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	61.97%
+Cluster 721691
+54	CP000383	Cytophaga hutchinsonii ATCC 33406, complete genome.	No	Cytophagia	acyl carrier protein	ABG58669
+fig|1872444.542.peg.1331|EP144_06190!!!Acyl!carrier!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	73.08%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|1872444.542.peg.2451|EP144_11255!!!SSU!ribosomal!protein!S19p!(S15e)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	70.79%
+Cluster 514248
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45227
+fig|1872444.542.peg.2516|EP144_11570!!!hypothetical!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	60.87%
+Cluster 26503
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative TonB dependent outer membrane protein	CAH07052
+fig|1872444.542.peg.1563|EP144_07320!!!putative!ferric!aerobactin!receptor!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	61.43%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|1872444.542.peg.2457|EP144_11285!!!LSU!ribosomal!protein!L14p!(L23e)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	73.55%
+Cluster 94103
+12608	CP001101	Chlorobium phaeobacteroides BS1, complete genome.	No	Chlorobia	sodium ion-translocating decarboxylase, beta subunit	ACE04135
+fig|1872444.542.peg.963|EP144_04590!!!Methylmalonyl-CoA!decarboxylase,!beta!chain!(EC!4.1.1.41)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	61.29%
+Cluster 164476
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	N-acylglucosamine 2-epimerase	ADB38647
+fig|1872444.542.peg.1851|EP144_08630!!!N-acylglucosamine!2-epimerase!(EC!5.1.3.8)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	60.10%
+Cluster 562378
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	thioredoxin	ABR38998
+fig|1872444.542.peg.1498|EP144_07020!!!Thioredoxin!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	63.82%
+Cluster 417328
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	ABC transporter, ATP-binding protein	ADE82635
+fig|1872444.542.peg.1513|EP144_07085!!!ABC-type!antimicrobial!peptide!transport!system,!ATPase!component!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	69.87%
+Cluster 172604
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	integrase	AAQ65974
+fig|1872444.542.peg.854|EP144_04080!!!Integrase!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	71.88%
+Cluster 699254
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41464
+fig|1872444.542.peg.433|EP144_02080!!!hypothetical!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	71.43%
+Cluster 13071
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH06294
+fig|1872444.542.peg.2306|EP144_10610!!!hypothetical!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	64.53%
+Cluster 27998
+12749	CP001108	Prosthecochloris aestuarii DSM 271, complete genome.	No	Chlorobia	cell divisionFtsK/SpoIIIE	ACF46828
+fig|1872444.542.peg.1030!!!DNA!translocase!FtsK!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	67.35%
+Cluster 142199
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative outer membrane protein TolC	BAD47429
+fig|1872444.542.peg.1828|EP144_08525!!!Efflux!transport!system,!outer!membrane!factor!(OMF)!lipoprotein!BT_2253!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	62.70%
+Cluster 702246
+13012	CP000096	Chlorobium luteolum DSM 273, complete genome.	No	Chlorobia	cold-shock DNA-binding protein family	ABB23480
+fig|1872444.542.peg.985|EP144_04710!!!Cold!shock!protein!of!CSP!family!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	60.61%
+Cluster 83259
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	glycoside hydrolase family 63	ABR44885
+fig|1872444.542.peg.409|EP144_01960!!!Trehalase!(EC!3.2.1.28)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	64.62%
+Cluster 355142
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative Sec-independent protein translocase	ABR43505
+fig|1872444.542.peg.93|EP144_00490!!!Twin-arginine!translocation!protein!TatC!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	61.78%
+Cluster 149883
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative signal transducer	ABR38321
+fig|1872444.542.peg.2621|EP144_12025!!!AmpG!protein,!beta-lactamase!induction!signal!transducer!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	70.27%
+Cluster 42581
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative pyruvate formate-lyase	BAD51121
+fig|1872444.542.peg.1162|EP144_05415!!!Pyruvate!formate-lyase!(EC!2.3.1.54)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	69.38%
+Cluster 736954
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41300
+fig|1872444.542.peg.520|EP144_02480!!!Transcriptional!regulator,!Xre!family!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	94.12%
+Cluster 144949
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative signal transducer	ABR42409
+fig|1872444.542.peg.154|EP144_00775!!!AmpG!protein,!beta-lactamase!induction!signal!transducer!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	65.13%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|1872444.542.peg.2471|EP144_11355!!!SSU!ribosomal!protein!S13p!(S18e)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	60.32%
+Cluster 744991
+13570	CP002046	Croceibacter atlanticus HTCC2559, complete genome.	No	Flavobacteria	hypothetical protein	EAP87666
+fig|1872444.542.peg.1112|EP144_05195!!!Twin-arginine!translocation!protein!TatA!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	62.90%
+Cluster 637030
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42513
+fig|1872444.542.peg.852|EP144_04070!!!hypothetical!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	74.19%
+Cluster 277429
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	DNA primase	ABR43872
+fig|1872444.542.peg.1637!!!DNA!primase,!TraP-type!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	95.74%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|1872444.542.peg.442|EP144_02120!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	71.73%
+Cluster 711951
+13617	CP000552	Prochlorococcus marinus str. MIT 9515, complete genome.	No	Prochlorales	50S Ribosomal protein L33	ABM72158
+fig|1872444.542.peg.2696|EP144_12400!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	65.00%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|1872444.542.peg.2469|EP144_11345!!!Translation!initiation!factor!1!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	69.44%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|1872444.542.peg.1577|EP144_07395!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	68.98%
+Cluster 567348
+19619	CP000817	Lysinibacillus sphaericus C3-41, complete genome.	No	Bacillales	EbsC protein	ACA39336
+fig|1872444.542.peg.1676|EP144_07835!!!tRNA!proofreading!protein!STM4549!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	64.97%
+Cluster 349469
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	transcriptional regulator	ABR43658
+fig|1872444.542.peg.383|EP144_01845!!!Transcriptional!regulator,!AraC!family!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	61.01%
+Cluster 611063
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	glyoxalase family protein	ADE82825
+fig|1872444.542.peg.967|EP144_04610!!!Methylmalonyl-CoA!epimerase!(EC!5.1.99.1)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	60.29%
+Cluster 694866
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	transcriptional regulator, XRE family	ACU72838
+fig|1872444.542.peg.472|EP144_02265!!!Uncharacterized!transcriptional!regulator!YozG,!Cro/CI!family!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	60.81%
+Cluster 683998
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	probable conserved transmembrane protein found in conjugate transposon TraE	BAG32586
+fig|1872444.542.peg.2552|EP144_11730!!!Conjugative!transposon!protein!TraE!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	62.50%
+Cluster 147081
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	mobilization protein	ABR43873
+fig|1872444.542.peg.1635|EP144_07665!!!plasmid!recombination!enzyme!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	79.87%
+Cluster 706009
+13570	CP002046	Croceibacter atlanticus HTCC2559, complete genome.	No	Flavobacteria	putative 30S ribosomal protein S17	EAP88241
+fig|1872444.542.peg.2456|EP144_11280!!!SSU!ribosomal!protein!S17p!(S11e)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	72.62%
+Cluster 329444
+20089	CP001071	Akkermansia muciniphila ATCC BAA-835, complete genome.	No	Verrucomicrobiae	conserved hypothetical protein	ACD05615
+fig|1872444.542.peg.86|EP144_00455!!!hypothetical!protein!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	68.18%
+Cluster 427237
+41467	CP002028	Thermincola sp. JR, complete genome.	No	Clostridia	flavin reductase domain protein FMN-binding protein	ADG82833
+fig|1872444.542.peg.283|EP144_01375!!!Rubredoxin!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	68.52%
+fig|1872444.542.peg.1598|EP144_07500!!!Rubredoxin!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	63.64%
+Cluster 21344
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	topoisomerase IV subunit A	BAD47160
+fig|1872444.542.peg.1040!!!DNA!topoisomerase!IV!subunit!A!(EC!5.99.1.3)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	70.97%
+Cluster 40646
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH09074
+fig|1872444.542.peg.1686|EP144_07875!!!Lysine!2,3-aminomutase!(EC!5.4.3.2)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	76.93%
+Cluster 392543
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	electron transport complex, RnfABCDGE type, E subunit	ABX40601
+fig|1872444.542.peg.1226|EP144_05720!!!Electron!transport!complex!protein!RnfE!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	63.40%
+Cluster 174724
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative NADH:flavin oxidoreductase	ABR39637
+fig|1872444.542.peg.978|EP144_04665!!!2,4-dienoyl-CoA!reductase![NADPH]!(EC!1.3.1.34)!!![Alistipes!sp.!strain!P1-1!|!1872444.542]	63.52%

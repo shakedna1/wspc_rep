@@ -1,0 +1,93 @@
+Cluster 91765
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	UDP-glucose 6-dehydrogenase	BAG33762
+fig|1871037.250.peg.1338!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	60.00%
+Cluster 583077
+15604	AJ965256	Dehalococcoides sp. CBDB1 complete genome.	No	Dehalococcoidetes	ribosomal protein L16	CAI82646
+fig|1871037.250.peg.547!!!LSU!ribosomal!protein!L16p!(L10e)!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	62.59%
+Cluster 680684
+29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Yes	Lactobacillales	30S ribosomal protein S13	ACF55768
+fig|1871037.250.peg.1135!!!SSU!ribosomal!protein!S13p!(S18e)!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	74.07%
+Cluster 710843
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAG34197
+fig|1871037.250.peg.581!!!hypothetical!protein!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	82.19%
+Cluster 589088
+16082	CP000685	Flavobacterium johnsoniae UW101, complete genome.	No	Flavobacteria	LSU ribosomal protein L21P	ABQ04577
+fig|1871037.250.peg.9!!!LSU!ribosomal!protein!L21p!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	65.45%
+Cluster 32194
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	DEAD/DEAH box helicase domain protein	ADB47185
+fig|1871037.250.peg.349!!!ATP-dependent!helicase!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	66.72%
+Cluster 493
+34873	CP001562	Bartonella grahamii as4aup, complete genome.	Yes	Alphaproteobacteria	filamentous hemagglutinin	ACS51082
+fig|1871037.250.peg.1554!!!hypothetical!protein!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	60.00%
+Cluster 428466
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	uracil-DNA glycosylase	BAI64490
+fig|1871037.250.peg.509!!!Hypothetical!protein!VC0266!(sugar!utilization!related?)!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	60.00%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|1871037.250.peg.994!!!LSU!ribosomal!protein!L34p!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	73.58%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|1871037.250.peg.1530!!!Translation!elongation!factor!Tu!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	62.78%
+Cluster 424195
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	translation initiation factor IF-3	ADE81404
+fig|1871037.250.peg.1315!!!Translation!initiation!factor!3!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	62.01%
+Cluster 390715
+192	AE017180	Geobacter sulfurreducens PCA, complete genome.	No	Deltaproteobacteria	glycosyl transferase, group 2 family protein	AAR35882
+fig|1871037.250.peg.491!!!Glycosyl!transferase,!group!2!family!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	61.35%
+Cluster 31587
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	glutamate synthase (NADPH), homotetrameric	ACZ07665
+fig|1871037.250.peg.122!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!A!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	62.81%
+Cluster 320936
+29281	CP001807	Rhodothermus marinus DSM 4252, complete genome.	No	Sphingobacteria	Cobyrinic acid ac-diamide synthase	ACY47354
+fig|1871037.250.peg.499!!!Chromosome!(plasmid)!partitioning!protein!ParA!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	61.67%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|1871037.250.peg.544!!!SSU!ribosomal!protein!S19p!(S15e)!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	62.50%
+Cluster 722948
+13548	CP000551	Prochlorococcus marinus str. AS9601, complete genome.	No	Prochlorales	50S Ribosomal protein L33	ABM70276
+fig|1871037.250.peg.1398!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	62.90%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|1871037.250.peg.550!!!LSU!ribosomal!protein!L14p!(L23e)!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	72.73%
+Cluster 515458
+18231	CP000976	Borrelia duttonii Ly, complete genome.	Yes	Spirochaetales	autoinducer-2 production protein	ACH93324
+fig|1871037.250.peg.1528!!!S-ribosylhomocysteine!lyase!(EC!4.4.1.21)!@!Autoinducer-2!production!protein!LuxS!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	61.54%
+Cluster 487687
+37957	CP002162	Micromonospora aurantiaca ATCC 27029, complete genome.	No	Actinobacteridae	phosphoesterase PA-phosphatase related	ADL46307
+fig|1871037.250.peg.1581!!!hypothetical!protein!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	68.18%
+Cluster 17228
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	pyruvate, phosphate dikinase	ADE81653
+fig|1871037.250.peg.52!!!Pyruvate,phosphate!dikinase!(EC!2.7.9.1)!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	65.12%
+Cluster 332722
+27951	CP001699	Chitinophaga pinensis DSM 2588, complete genome.	No	Sphingobacteria	4-hydroxybenzoate polyprenyltransferase	ACU59398
+fig|1871037.250.peg.357!!!Menaquinone!via!futalosine!polyprenyltransferase!(MenA!homolog)!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	60.00%
+Cluster 104509
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	glycyl-tRNA synthetase	ACU05444
+fig|1871037.250.peg.1282!!!Glycyl-tRNA!synthetase!(EC!6.1.1.14)!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	67.01%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|1871037.250.peg.589!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	68.52%
+Cluster 64004
+38403	CP001941	Aciduliprofundum boonei T469, complete genome.	No	Aciduliprofundum	PilT protein domain protein	ADD08433
+fig|1871037.250.peg.1170!!!hypothetical!protein!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	66.67%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|1871037.250.peg.123!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	66.02%
+Cluster 334701
+16159	CP000159	Salinibacter ruber DSM 13855, complete genome.	No	Sphingobacteria	ATP-binding protein of ABC transporter	ABC45784
+fig|1871037.250.peg.579!!!ABC-type!antimicrobial!peptide!transport!system,!ATPase!component!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	65.16%
+Cluster 329444
+20089	CP001071	Akkermansia muciniphila ATCC BAA-835, complete genome.	No	Verrucomicrobiae	conserved hypothetical protein	ACD05615
+fig|1871037.250.peg.290!!!hypothetical!protein!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	60.19%
+Cluster 385905
+27777	CP001793	Geobacillus sp. Y412MC10, complete genome.	No	Bacillales	short-chain dehydrogenase/reductase SDR	ACX67671
+fig|1871037.250.peg.1319!!!hypothetical!protein!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	65.00%
+Cluster 2992
+18809	CP000943	Methylobacterium sp. 4-46, complete genome.	No	Alphaproteobacteria	protein of unknown function DUF490	ACA20649
+fig|1871037.250.peg.1265!!!hypothetical!protein!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	66.67%
+Cluster 165493
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR40805
+fig|1871037.250.peg.292!!!hypothetical!protein!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	60.00%
+Cluster 26995
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	anaerobic ribonucleoside-triphosphate reductase	BAG33915
+fig|1871037.250.peg.575!!!Ribonucleotide!reductase!of!class!III!(anaerobic),!large!subunit!(EC!1.17.4.2)!!![Flavobacteriaceae!bacterium!strain!P-A-M_MAG_00002!|!1871037.250]	68.27%

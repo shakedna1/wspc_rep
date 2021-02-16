@@ -1,0 +1,393 @@
+Cluster 357116
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	conserved hypothetical protein	ACV55181
+fig|471189.25.peg.374|GKE55_10540!!!Competence!protein!F!homolog,!phosphoribosyltransferase!domain;!protein!YhgH!required!for!utilization!of!DNA!as!sole!source!of!carbon!and!energy!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	65.98%
+Cluster 721771
+21047	CP000860	Candidatus Desulforudis audaxviator MP104C, complete genome.	No	Clostridia	ribosomal protein L33	ACA58769
+fig|471189.25.peg.450|GKE55_10900!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-dependent!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	71.43%
+Cluster 13326
+20739	CP001682	Cryptobacterium curtum DSM 15641, complete genome.	Yes	Coriobacteridae	protein-export membrane protein SecF/protein-export membrane protein SecD	ACU94941
+fig|471189.25.peg.203|GKE55_09745!!!Protein!translocase!subunit!SecD!/!Protein!translocase!subunit!SecF!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	66.77%
+Cluster 555151
+18505	CP000780	Candidatus Methanoregula boonei 6A8, complete genome.	No	Methanomicrobia	NADH ubiquinone oxidoreductase, 20 kDa subunit	ABS54550
+fig|471189.25.peg.1872|GKE55_14545!!!Energy-conserving!hydrogenase!(ferredoxin),!subunit!C!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	67.35%
+Cluster 18302
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	metalloendopeptidase, glycoprotease family	ACV56800
+fig|471189.25.peg.2051|GKE55_03275!!!tRNA!threonylcarbamoyladenosine!biosynthesis!protein!TsaB!/!Ribosomal-protein-S18p-alanine!acetyltransferase!(EC!2.3.1.128)!/!N(6)-L-threonylcarbamoyladenine!synthase!(EC!2.3.1.234)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	68.09%
+Cluster 704216
+13424	CP000612	Desulfotomaculum reducens MI-1, complete genome.	No	Clostridia	SSU ribosomal protein S17P	ABO48773
+fig|471189.25.peg.2307|GKE55_15470!!!SSU!ribosomal!protein!S17p!(S11e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	69.05%
+Cluster 121538
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	Serine-type D-Ala-D-Ala carboxypeptidase	ACV55548
+fig|471189.25.peg.1880|GKE55_14585!!!D-alanyl-D-alanine!carboxypeptidase!(EC!3.4.16.4)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	71.62%
+Cluster 35429
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	molybdopterin oxidoreductase	ACV56864
+fig|471189.25.peg.2153|GKE55_03760!!!Formate!dehydrogenase(!EC:1.2.1.2!)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	84.04%
+Cluster 72282
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	fumarate reductase/succinate dehydrogenase flavoprotein domain protein	ACV54471
+fig|471189.25.peg.1070|GKE55_00400!!!redox!proteins!related!to!the!succinate!dehydrogenases!and!fumarate!reductases!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	83.04%
+Cluster 258981
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	extracellular solute-binding protein family 3	ACV55182
+fig|471189.25.peg.375|GKE55_10545!!!ABC-type!amino!acid!transport/signal!transduction!system,!periplasmic!component/domain!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	63.78%
+Cluster 4738
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DNA-directed RNA polymerase, beta' subunit	ABX44033
+fig|471189.25.peg.2756!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	77.76%
+Cluster 388030
+12994	AP006840	Symbiobacterium thermophilum IAM 14863 DNA, complete genome.	No	Clostridia	molybdopterin oxidoreductase iron-sulfur binding subunit	BAD41068
+fig|471189.25.peg.1556|GKE55_02715!!!Quad-[4Fe-4S]!ferredoxin,!HycB/HydN/HyfA!family!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	72.73%
+Cluster 659715
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	putative oxidoreductase iron-sulfur subunit	ACL18605
+fig|471189.25.peg.292|GKE55_10170!!!Bis-[4Fe-4S]!ferredoxin!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	68.47%
+Cluster 343846
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	pseudouridine synthase	ACV55299
+fig|471189.25.peg.128|GKE55_09420!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	73.05%
+Cluster 165851
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	dTDP-glucose 4,6-dehydratase	AAN25045
+fig|471189.25.peg.3204|GKE55_07250!!!dTDP-glucose!4,6-dehydratase!(EC!4.2.1.46)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	69.23%
+Cluster 168291
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	histidine kinase	ACV56770
+fig|471189.25.peg.2035|GKE55_03200!!!Two-component!system!sensor!histidine!kinase!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	72.02%
+Cluster 444981
+29405	CP001727	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446, complete genome.	No	Bacillales	RNA polymerase, sigma-24 subunit, ECF subfamily	ACV59732
+fig|471189.25.peg.2763|GKE55_15995!!!RNA!polymerase!sporulation!specific!sigma!factor!SigH!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	65.53%
+Cluster 299509
+20831	CP001684	Slackia heliotrinireducens DSM 20476, complete genome.	No	Coriobacteridae	lysophospholipase	ACV22153
+fig|471189.25.peg.3545|GKE55_08660!!!Lysophospholipase!(EC!3.1.1.5);!Monoglyceride!lipase!(EC!3.1.1.23)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	81.17%
+Cluster 639321
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	SSU ribosomal protein S19P	ABP89047
+fig|471189.25.peg.2302|GKE55_15445!!!SSU!ribosomal!protein!S19p!(S15e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	71.11%
+Cluster 83203
+13424	CP000612	Desulfotomaculum reducens MI-1, complete genome.	No	Clostridia	protein of unknown function DUF224, cysteine-rich region domain protein	ABO49976
+fig|471189.25.peg.3121|GKE55_06850!!!Similar!to!sulfite!reduction-associated!protein!DsrK!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	60.85%
+Cluster 566130
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	hypothetical protein	ACV55383
+fig|471189.25.peg.2847|GKE55_05695!!!hypothetical!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	68.18%
+Cluster 452407
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	HhH-GPD family protein	ACV54519
+fig|471189.25.peg.1580!!!DNA-3-methyladenine!glycosylase!II!(EC!3.2.2.21)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	72.03%
+fig|471189.25.peg.1581|GKE55_02830!!!DNA-3-methyladenine!glycosylase!II!(EC!3.2.2.21)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	67.78%
+Cluster 513907
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	transcriptional regulator, BadM/Rrf2 family	ACV55240
+fig|471189.25.peg.32|GKE55_08950!!!rrf2!family!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	71.04%
+Cluster 430769
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	cytochrome B561	ACV55247
+fig|471189.25.peg.39|GKE55_08980!!!Hup-type!Ni,Fe-hydrogenase!cytochrome!b!subunit!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	92.24%
+Cluster 144833
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	Coproporphyrinogen dehydrogenase	ACV54031
+fig|471189.25.peg.1327|GKE55_01630!!!Oxygen-independent!coproporphyrinogen!III!oxidase,!putative!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	88.74%
+Cluster 558443
+33635	CP001899	Ferroglobus placidus DSM 10642, complete genome.	No	Archaeoglobi	acetolactate synthase, small subunit	ADC66293
+fig|471189.25.peg.2735|GKE55_05340!!!Acetolactate!synthase!small!subunit!(EC!2.2.1.6)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	61.49%
+Cluster 554798
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	polysaccharide biosynthesis protein CpsF	ABN52592
+fig|471189.25.peg.2617|GKE55_04805!!!hypothetical!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	68.42%
+Cluster 502647
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ABX43679
+fig|471189.25.peg.864|GKE55_16385!!!2-C-methyl-D-erythritol!2,4-cyclodiphosphate!synthase!(EC!4.6.1.12)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	67.74%
+Cluster 502644
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	cobalbumin biosynthesis protein	ADL04981
+fig|471189.25.peg.2952|GKE55_16750!!!hypothetical!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	62.16%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|471189.25.peg.3110|GKE55_16170!!!SSU!ribosomal!protein!S12p!(S23e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	72.00%
+Cluster 380322
+33165	CP002171	Thermoanaerobacterium thermosaccharolyticum DSM 571, complete genome.	No	Clostridia	Electron transfer flavoprotein alpha/beta-subunit	ADL69168
+fig|471189.25.peg.2964|GKE55_16150!!!Electron!bifurcating!butyryl-CoA!dehydrogenase,!electron!transfer!flavoprotein!beta!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	62.16%
+Cluster 348324
+20831	CP001684	Slackia heliotrinireducens DSM 20476, complete genome.	No	Coriobacteridae	ABC-type cobalt transport system, ATPase component	ACV22309
+fig|471189.25.peg.961|GKE55_13195!!!FIG01077539:!hypothetical!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	81.00%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|471189.25.peg.449|GKE55_10895!!!Translation!elongation!factor!Tu!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	62.75%
+fig|471189.25.peg.2764|GKE55_16005!!!Translation!elongation!factor!Tu!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	63.98%
+Cluster 93959
+13548	CP000551	Prochlorococcus marinus str. AS9601, complete genome.	No	Prochlorales	possible amidase enhancer	ABM71152
+fig|471189.25.peg.3274|GKE55_16245!!!preprotein!translocase!subunit!SecE!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	63.64%
+Cluster 46627
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	sodium/hydrogen exchanger	ACV56693
+fig|471189.25.peg.2252|GKE55_15260!!!Na+/H+!antiporter!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	86.94%
+Cluster 195162
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	NLP/P60 protein	ACV56099
+fig|471189.25.peg.1210|GKE55_01075!!!Secreted!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	66.31%
+fig|471189.25.peg.448|GKE55_10875!!!Secreted!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	71.69%
+Cluster 149338
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	transposase IS116/IS110/IS902 family protein	ABR32908
+fig|471189.25.peg.1902|GKE55_16475!!!Mobile!element!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	75.75%
+Cluster 207563
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	aminotransferase class I and II	ACV55522
+fig|471189.25.peg.2934|GKE55_06120!!!Similar!to!L-threonine!3-O-phosphate!decarboxylase!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	86.67%
+Cluster 183224
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	histidine kinase	ACV55709
+fig|471189.25.peg.2897|GKE55_05940!!!Two-component!system!sensor!histidine!kinase!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	73.18%
+Cluster 31587
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	glutamate synthase (NADPH), homotetrameric	ACZ07665
+fig|471189.25.peg.394|GKE55_16335!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!A!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	71.62%
+Cluster 346383
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	ACV56196
+fig|471189.25.peg.2406|GKE55_04135!!!2-C-methyl-D-erythritol!4-phosphate!cytidylyltransferase!(EC!2.7.7.60)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	94.64%
+Cluster 87971
+33165	CP002171	Thermoanaerobacterium thermosaccharolyticum DSM 571, complete genome.	No	Clostridia	ammonium transporter	ADL69313
+fig|471189.25.peg.1690|GKE55_16435!!!Ammonium!transporter!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	64.42%
+Cluster 263033
+29199	CP001734	Desulfohalobium retbaense DSM 5692, complete genome.	No	Deltaproteobacteria	membrane-bound menaquinol oxidoreductase, cytochrome b subunit	ACV67537
+fig|471189.25.peg.3137|GKE55_06930!!!Sulfite!reduction-associated!complex!DsrMKJOP!protein!DsrM!(=!HmeC)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	61.70%
+Cluster 204360
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Tryptophanyl-tRNA synthetase	ADC85086
+fig|471189.25.peg.114|GKE55_09345!!!Tryptophanyl-tRNA!synthetase!(EC!6.1.1.2)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	72.41%
+Cluster 216396
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	3-oxoacyl-(acyl-carrier-protein) synthase III	ACV56833
+fig|471189.25.peg.2077|GKE55_03390!!!3-oxoacyl-[acyl-carrier-protein]!synthase,!KASIII!(EC!2.3.1.180)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	71.00%
+Cluster 16914
+18637	CP000908	Methylobacterium extorquens PA1, complete genome.	No	Alphaproteobacteria	DNA gyrase, A subunit	ABY32935
+fig|471189.25.peg.1640!!!DNA!gyrase!subunit!A!(EC!5.99.1.3)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	65.98%
+Cluster 683833
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	Glu-tRNAGln amidotransferase subunit C	AAK80618
+fig|471189.25.peg.3261|GKE55_16200!!!Asp-tRNA(Asn)/Glu-tRNA(Gln)!amidotransferase!GatCAB!subunit!C!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	60.00%
+Cluster 449783
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	SSU ribosomal protein S12P	ABG07098
+fig|471189.25.peg.556|GKE55_11405!!!SSU!ribosomal!protein!S12p!(S23e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	78.05%
+Cluster 757988
+20831	CP001684	Slackia heliotrinireducens DSM 20476, complete genome.	No	Coriobacteridae	hypothetical protein	ACV23827
+fig|471189.25.peg.1278!!!Uncharacterized!protein!Noca_1520!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	88.00%
+fig|471189.25.peg.873!!!Uncharacterized!protein!Noca_1520!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	77.55%
+Cluster 457616
+10642	CP000117	Anabaena variabilis ATCC 29413, complete genome.	No	Nostocales	phosphoribosyl-ATP pyrophosphatase / phosphoribosyl-AMP cyclohydrolase	ABA24515
+fig|471189.25.peg.3512|GKE55_08515!!!Phosphoribosyl-AMP!cyclohydrolase!(EC!3.5.4.19)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	60.95%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|471189.25.peg.396|GKE55_10620!!!SSU!ribosomal!protein!S19p!(S15e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	67.78%
+Cluster 204343
+249	AE008691	Thermoanaerobacter tengcongensis MB4, complete genome.	No	Clostridia	Acyl-CoA dehydrogenases	AAM23821
+fig|471189.25.peg.2965|GKE55_16155!!!Electron!bifurcating!butyryl-CoA!dehydrogenase!(NAD+,!ferredoxin)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	70.98%
+Cluster 370607
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	dihydrodipicolinate reductase	ACV54440
+fig|471189.25.peg.1561|GKE55_02740!!!4-hydroxy-tetrahydrodipicolinate!reductase!(EC!1.17.1.8)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	90.98%
+Cluster 101033
+29407	CP001393	Caldicellulosiruptor bescii DSM 6725, complete genome.	No	Clostridia	Glutamate synthase (NADPH)	ACM61430
+fig|471189.25.peg.2728|GKE55_05315!!!Glutamate!synthase![NADPH]!large!chain!(EC!1.4.1.13)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	68.46%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|471189.25.peg.1997|GKE55_03035!!!SSU!ribosomal!protein!S11p!(S14e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	63.64%
+Cluster 425437
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	conserved hypothetical protein	ACV55002
+fig|471189.25.peg.169|GKE55_09595!!!Substrate-specific!component!CbrT!of!predicted!cobalamin!ECF!transporter!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	79.15%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|471189.25.peg.2308|GKE55_15475!!!LSU!ribosomal!protein!L14p!(L23e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	73.77%
+Cluster 249787
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	histidine kinase	ACV55385
+fig|471189.25.peg.2849|GKE55_05705!!!ABC!transporter-like!sensor!linked!histidine!kinase!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	64.62%
+Cluster 51409
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	phosphoglycerate kinase	ACL76599
+fig|471189.25.peg.2255|GKE55_16545!!!Phosphoglycerate!kinase!(EC!2.7.2.3)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	65.47%
+fig|471189.25.peg.3255|GKE55_16865!!!Triosephosphate!isomerase!(EC!5.3.1.1)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	60.08%
+Cluster 270347
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	diguanylate cyclase	ACV54053
+fig|471189.25.peg.1353|GKE55_01760!!!putative!signaling!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	68.50%
+Cluster 325714
+20399	CP001656	Paenibacillus sp. JDR-2, complete genome.	No	Bacillales	transcriptional regulator, LysR family	ACT02361
+fig|471189.25.peg.2946|GKE55_06185!!!Transcriptional!regulator!STM2281,!LysR!family!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	64.58%
+Cluster 651124
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	putative oxidoreductase iron-sulfur subunit	ACL20395
+fig|471189.25.peg.575|GKE55_11495!!!Bis-[4Fe-4S]!ferredoxin!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	62.83%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|471189.25.peg.1999|GKE55_03045!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	75.68%
+Cluster 570929
+18651	CP001404	Sulfolobus islandicus Y.N.15.51, complete genome.	No	Thermoprotei	riboflavin synthase	ACP48214
+fig|471189.25.peg.614|GKE55_11680!!!conjugal!transfer!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	68.18%
+Cluster 574009
+17343	CP000699	Sphingomonas wittichii RW1, complete genome.	No	Alphaproteobacteria	SSU ribosomal protein S16P	ABQ69013
+fig|471189.25.peg.2811|GKE55_05515!!!SSU!ribosomal!protein!S16p!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	61.73%
+Cluster 499727
+20831	CP001684	Slackia heliotrinireducens DSM 20476, complete genome.	No	Coriobacteridae	Fe-S-cluster-containing hydrogenase subunit	ACV23724
+fig|471189.25.peg.2653|GKE55_04965!!!Anaerobic!dimethyl!sulfoxide!reductase!chain!B!(EC!1.8.5.3),!iron-sulfur!binding!subunit!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	62.30%
+Cluster 184952
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	sulfite reductase, dissimilatory-type alpha subunit	ACL18320
+fig|471189.25.peg.3128|GKE55_06885!!!Dissimilatory!sulfite!reductase,!alpha!subunit!(EC!1.8.99.5)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	74.49%
+Cluster 236977
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	sulfite reductase, dissimilatory-type beta subunit	ACL18321
+fig|471189.25.peg.3129|GKE55_06890!!!Dissimilatory!sulfite!reductase,!beta!subunit!(EC!1.8.99.5)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	72.36%
+Cluster 730304
+16719	CP000771	Fervidobacterium nodosum Rt17-B1, complete genome.	No	Thermotogales	ribosomal protein L28	ABS60873
+fig|471189.25.peg.1842|GKE55_14410!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-dependent!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	60.32%
+Cluster 685646
+18501	AP009153	Gemmatimonas aurantiaca T-27 DNA, complete genome.	No	Gemmatimonadales	30S ribosomal protein S17	BAH37924
+fig|471189.25.peg.401|GKE55_10645!!!SSU!ribosomal!protein!S17p!(S11e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	62.79%
+Cluster 437954
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein L3 RplC	ADL33339
+fig|471189.25.peg.2298|GKE55_15425!!!LSU!ribosomal!protein!L3p!(L3e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	65.07%
+Cluster 276315
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	Abortive infection protein	ACV55102
+fig|471189.25.peg.3468|GKE55_08315!!!CAAX!amino!terminal!protease!family!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	66.56%
+Cluster 40521
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	protein of unknown function DUF214	ACV55901
+fig|471189.25.peg.785|GKE55_12425!!!ABC!transporter-like!sensor!and!permease!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	88.29%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|471189.25.peg.402|GKE55_10650!!!LSU!ribosomal!protein!L14p!(L23e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	70.49%
+Cluster 94091
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	Glycosyltransferase 28 domain protein	ACV55211
+fig|471189.25.peg.1933|GKE55_14810!!!FIG00534705:!hypothetical!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	69.01%
+Cluster 507827
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	3-isopropylmalate dehydratase, small subunit	ABN53412
+fig|471189.25.peg.2244|GKE55_15220!!!3-isopropylmalate!dehydratase!small!subunit!(EC!4.2.1.33)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	61.21%
+Cluster 459603
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	protein of unknown function DUF218	ACV54425
+fig|471189.25.peg.1544|GKE55_02660!!!SanA!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	80.37%
+Cluster 672322
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	sulfur relay protein, TusE/DsrC/DsvC family	ACL18329
+fig|471189.25.peg.3142|GKE55_06955!!!Sulfur!redox!associated!protein!DsrC!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	70.19%
+Cluster 318634
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	Polysulphide reductase NrfD	ACV56862
+fig|471189.25.peg.2151|GKE55_03750!!!Polysulfide!reductase!PsrC!(EC!1.12.98.4),!anchor!subunit!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	87.21%
+Cluster 558957
+38403	CP001941	Aciduliprofundum boonei T469, complete genome.	No	Aciduliprofundum	CMP/dCMP deaminase zinc-binding protein	ADD08159
+fig|471189.25.peg.162|GKE55_09555!!!dCMP!deaminase!(EC!3.5.4.12)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	62.75%
+Cluster 567062
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	acetyl-CoA carboxylase, biotin carboxyl carrier protein	ACV54170
+fig|471189.25.peg.2213|GKE55_15100!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	89.03%
+Cluster 102305
+20739	CP001682	Cryptobacterium curtum DSM 15641, complete genome.	Yes	Coriobacteridae	arabinose efflux permease family protein	ACU94742
+fig|471189.25.peg.1791|GKE55_14180!!!hypothetical!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	69.27%
+Cluster 256128
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	glyceraldehyde-3-phosphate dehydrogenase	ABP67538
+fig|471189.25.peg.2887|GKE55_05880!!!NAD-dependent!glyceraldehyde-3-phosphate!dehydrogenase!(EC!1.2.1.12)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	63.36%
+Cluster 562738
+17729	CP000769	Anaeromyxobacter sp. Fw109-5, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ABS26139
+fig|471189.25.peg.705|GKE55_16355!!!SSU!ribosomal!protein!S11p!(S14e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	64.89%
+Cluster 745753
+31329	CP001215	Bacillus anthracis str. CDC 684, complete genome.	Yes	Bacillales	conserved hypothetical protein	ACP15500
+fig|471189.25.peg.2954!!!hypothetical!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	62.50%
+Cluster 728033
+32515	CP001892	Bifidobacterium animalis subsp. lactis V9, complete genome.	No	Actinobacteridae	hypothetical protein	ADG33135
+fig|471189.25.peg.2805|GKE55_05485!!!hypothetical!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	60.66%
+Cluster 635120
+28245	CP000922	Anoxybacillus flavithermus WK1, complete genome.	No	Bacillales	Predicted transcriptional regulator, PadR family	ACJ32677
+fig|471189.25.peg.309|GKE55_10255!!!Transcriptional!regulator,!PadR!family!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	62.04%
+Cluster 55298
+20831	CP001684	Slackia heliotrinireducens DSM 20476, complete genome.	No	Coriobacteridae	1-deoxy-D-xylulose-5-phosphate synthase	ACV21858
+fig|471189.25.peg.2463|GKE55_04405!!!1-deoxy-D-xylulose!5-phosphate!synthase!(EC!2.2.1.7)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	65.87%
+Cluster 653117
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	putative oxidoreductase iron-sulfur subunit	ACL20407
+fig|471189.25.peg.586|GKE55_11545!!!Bis-[4Fe-4S]!ferredoxin!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	61.74%
+Cluster 411870
+20635	CP001280	Methylocella silvestris BL2, complete genome.	No	Alphaproteobacteria	ribosomal protein L5	ACK49540
+fig|471189.25.peg.2310|GKE55_15485!!!LSU!ribosomal!protein!L5p!(L11e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	60.34%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|471189.25.peg.1998|GKE55_03040!!!SSU!ribosomal!protein!S13p!(S18e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	67.21%
+fig|471189.25.peg.706|GKE55_16360!!!SSU!ribosomal!protein!S13p!(S18e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	71.31%
+Cluster 393844
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	4Fe-4S ferredoxin iron-sulfur binding domain protein	ACV56866
+fig|471189.25.peg.2155|GKE55_03770!!!Uncharacterized!ferredoxin-like!protein!YdhY!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	86.17%
+Cluster 634783
+12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAZ36482
+fig|471189.25.peg.1784|GKE55_14150!!!hypothetical!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	60.26%
+Cluster 101665
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	Peptidoglycan-binding domain 1 protein	ABR35374
+fig|471189.25.peg.3115|GKE55_16860!!!Spore!cortex-lytic!enzyme!pre-pro-form!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	72.15%
+Cluster 106168
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	L-seryl-tRNA selenium transferase	ACV55658
+fig|471189.25.peg.2774|GKE55_16030!!!L-seryl-tRNA(Sec)!selenium!transferase!(EC!2.9.1.1)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	73.71%
+Cluster 741867
+249	AE008691	Thermoanaerobacter tengcongensis MB4, complete genome.	No	Clostridia	Ribosomal protein L29	AAM25427
+fig|471189.25.peg.400|GKE55_10640!!!LSU!ribosomal!protein!L29p!(L35e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	64.06%
+Cluster 485152
+20831	CP001684	Slackia heliotrinireducens DSM 20476, complete genome.	No	Coriobacteridae	small GTP-binding protein domain/GTP-binding conserved hypothetical protein	ACV22063
+fig|471189.25.peg.3504|GKE55_08485!!!GTP-binding!protein!EngB!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	63.21%
+Cluster 580676
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	preprotein translocase, SecE subunit	ACV56094
+fig|471189.25.peg.451|GKE55_10910!!!Protein!translocase!subunit!SecE!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	73.79%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|471189.25.peg.2000|GKE55_03050!!!Translation!initiation!factor!1!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	75.00%
+Cluster 472031
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	protein of unknown function DUF47	ACV56664
+fig|471189.25.peg.1685|GKE55_13740!!!Phosphate!transport!regulator!(distant!homolog!of!PhoU)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	82.78%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|471189.25.peg.393|GKE55_16330!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	77.54%
+Cluster 110586
+41467	CP002028	Thermincola sp. JR, complete genome.	No	Clostridia	inosine-5'-monophosphate dehydrogenase	ADG82179
+fig|471189.25.peg.3425|GKE55_16910!!!Inosine-5'-monophosphate!dehydrogenase!(EC!1.1.1.205)!/!CBS!domain!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	70.66%
+Cluster 356934
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	extracellular solute-binding protein family 3	ACV55104
+fig|471189.25.peg.3464|GKE55_08295!!!ABC!transporter,!substrate-binding!protein!PebA!(cluster!3,!basic!aa/glutamine/opines)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	86.13%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|471189.25.peg.3272|GKE55_16235!!!LSU!ribosomal!protein!L11p!(L12e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	68.79%
+Cluster 288613
+19065	CP000673	Clostridium kluyveri DSM 555, complete genome.	No	Clostridia	RpoA	EDK32306
+fig|471189.25.peg.703|GKE55_16345!!!DNA-directed!RNA!polymerase!alpha!subunit!(EC!2.7.7.6)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	79.28%
+Cluster 229526
+328	AE014295	Bifidobacterium longum NCC2705, complete genome.	No	Actinobacteridae	probable ATP binding protein of ABC transporter	AAN24714
+fig|471189.25.peg.2111|GKE55_03555!!!Efflux!ABC!transporter,!ATP-binding!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	67.63%
+Cluster 490373
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	dephospho-CoA kinase	ACV56474
+fig|471189.25.peg.2452|GKE55_04350!!!Dephospho-CoA!kinase!(EC!2.7.1.24)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	80.81%
+Cluster 333259
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	Polysulphide reductase NrfD	ACV54436
+fig|471189.25.peg.1554|GKE55_02710!!!Polysulfide!reductase!PsrC!(EC!1.12.98.4),!anchor!subunit!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	91.67%
+Cluster 172077
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	subunit of oxygen-sensitive 2-hydroxyisocaproyl-CoA dehydratase	CBE02102
+fig|471189.25.peg.1689|GKE55_16430!!!2-hydroxyglutaryl-CoA!dehydratase,!D-component!HgdA!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	81.58%
+Cluster 587322
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	ribosomal protein L16	ABR50543
+fig|471189.25.peg.2305|GKE55_15460!!!LSU!ribosomal!protein!L16p!(L10e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	71.53%
+Cluster 114528
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	gid protein	ACV55380
+fig|471189.25.peg.2843|GKE55_05675!!!Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase!TrmFO!(EC!2.1.1.74)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	76.05%
+Cluster 691196
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	protein of unknown function DUF448	ACV55776
+fig|471189.25.peg.2703|GKE55_05195!!!COG2740:!Predicted!nucleic-acid-binding!protein!implicated!in!transcription!termination!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	70.65%
+Cluster 132508
+47579	CP002010	Bifidobacterium longum subsp. longum JDM301, complete genome.	No	Actinobacteridae	dTDP-glucose 4,6-dehydratase	ADH01295
+fig|471189.25.peg.3286|GKE55_07525!!!dTDP-glucose!4,6-dehydratase!(EC!4.2.1.46)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	68.77%
+Cluster 267349
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	Peptidoglycan-binding domain 1 protein	ACV54566
+fig|471189.25.peg.2241|GKE55_15205!!!cell!wall!hydrolase/autolysin!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	84.72%
+Cluster 443441
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	putative two component transcriptional regulator, winged helix family	ACV55979
+fig|471189.25.peg.3303|GKE55_07610!!!Nitrogen!metabolism!regulator!GlnR,!OmpR!family!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	83.41%
+Cluster 122848
+29175	CP001251	Dictyoglomus turgidum DSM 6724, complete genome.	No	Dictyoglomales	cysteinyl-tRNA synthetase	ACK42965
+fig|471189.25.peg.1770!!!Cysteinyl-tRNA!synthetase!(EC!6.1.1.16)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	63.83%
+Cluster 480504
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	hypothetical protein	ACV57000
+fig|471189.25.peg.1254|GKE55_01280!!!hypothetical!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	61.58%
+Cluster 534364
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	rod shape-determining protein MreD	ACV55229
+fig|471189.25.peg.20|GKE55_08885!!!hypothetical!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	65.52%
+Cluster 25787
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	formate dehydrogenase, alpha subunit	ACV56805
+fig|471189.25.peg.2056|GKE55_03300!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	83.21%
+Cluster 339116
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	exodeoxyribonuclease III Xth	ACV54114
+fig|471189.25.peg.1043|GKE55_00280!!!Exodeoxyribonuclease!III!(EC!3.1.11.2)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	91.23%
+Cluster 167815
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	FHA domain containing protein	ACV56982
+fig|471189.25.peg.1204|GKE55_01045!!!FIG00824290:!FHA!domain!protein!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	73.27%
+Cluster 163155
+13006	CP000724	Alkaliphilus metalliredigens QYMF, complete genome.	No	Clostridia	ammonium transporter	ABR49520
+fig|471189.25.peg.2776|GKE55_16700!!!Ammonium!transporter!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	66.67%
+Cluster 216426
+29531	CP001818	Thermanaerovibrio acidaminovorans DSM 6589, complete genome.	No	Synergistia	uracil phosphoribosyltransferase	ACZ19174
+fig|471189.25.peg.3107!!!Uracil!phosphoribosyltransferase!(EC!2.4.2.9)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	64.00%
+Cluster 522495
+20831	CP001684	Slackia heliotrinireducens DSM 20476, complete genome.	No	Coriobacteridae	ribosomal protein L9	ACV23782
+fig|471189.25.peg.1321|GKE55_01600!!!LSU!ribosomal!protein!L9p!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	63.89%
+Cluster 147529
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative GMP synthase	ABR43567
+fig|471189.25.peg.1778|GKE55_14125!!!GMP!synthase![glutamine-hydrolyzing],!ATP!pyrophosphatase!subunit!(EC!6.3.5.2)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	68.20%
+Cluster 730933
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	hypothetical protein	ACL18322
+fig|471189.25.peg.3135|GKE55_06920!!!Transcriptional!regulator!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	79.45%
+Cluster 378530
+77	AE001437	Clostridium acetobutylicum ATCC 824, complete genome.	No	Clostridia	Crotonase (3-hydroxybutyryl-COA dehydratase)	AAK80658
+fig|471189.25.peg.2966|GKE55_16160!!!3-hydroxybutyryl-CoA!dehydratase!(EC!4.2.1.55)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	70.50%
+Cluster 557963
+18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	No	Bacillales	LSU ribosomal protein L16P	ABK83530
+fig|471189.25.peg.399|GKE55_10635!!!LSU!ribosomal!protein!L16p!(L10e)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	70.00%
+Cluster 245510
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	modification methylase, HemK family	ACV55854
+fig|471189.25.peg.2751|GKE55_05415!!!Peptide!chain!release!factor!N(5)-glutamine!methyltransferase!(EC!2.1.1.297)!!![Gordonibacter!pamelaeae!strain!BIOML-A2!|!471189.25]	74.77%

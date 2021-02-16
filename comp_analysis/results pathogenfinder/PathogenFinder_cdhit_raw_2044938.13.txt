@@ -1,0 +1,36 @@
+Cluster 256911
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	putative aspartate ammonia-lyase	BAE73578
+fig|2044938.13.peg.1064!!!Aspartate!ammonia-lyase!(EC!4.3.1.1)!!![candidate!division!SR1!bacterium!strain!P-A-F_MAG_00010!|!2044938.13]	64.04%
+Cluster 120478
+27833	AP009152	Kocuria rhizophila DC2201 DNA, complete genome.	No	Actinobacteridae	biotin synthase	BAG28591
+fig|2044938.13.peg.1819!!!Biotin!synthase!(EC!2.8.1.6)!!![candidate!division!SR1!bacterium!strain!P-A-F_MAG_00010!|!2044938.13]	62.66%
+Cluster 295374
+42883	CP001853	Bifidobacterium animalis subsp. lactis BB-12, complete genome.	No	Actinobacteridae	Phosphoglycerate mutase	ADC85467
+fig|2044938.13.peg.244!!!Phosphoglycerate!mutase!(EC!5.4.2.11)!!![candidate!division!SR1!bacterium!strain!P-A-F_MAG_00010!|!2044938.13]	63.45%
+Cluster 66323
+16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	No	Actinobacteridae	glucose-6-phosphate isomerase	BAF39012
+fig|2044938.13.peg.1168!!!Glucose-6-phosphate!isomerase!(EC!5.3.1.9)!!![candidate!division!SR1!bacterium!strain!P-A-F_MAG_00010!|!2044938.13]	61.59%
+Cluster 86512
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	cell division protein FtsZ	ADB31954
+fig|2044938.13.peg.407!!!Cell!division!protein!FtsZ!!![candidate!division!SR1!bacterium!strain!P-A-F_MAG_00010!|!2044938.13]	68.99%
+Cluster 93096
+21089	CP001736	Kribbella flavida DSM 17836, complete genome.	No	Actinobacteridae	ABC transporter related protein	ADB33223
+fig|2044938.13.peg.1739!!!LSU!ribosomal!protein!L21p!!![candidate!division!SR1!bacterium!strain!P-A-F_MAG_00010!|!2044938.13]	62.96%
+Cluster 552793
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82118
+fig|2044938.13.peg.2117!!!Translation!elongation!factor!Tu!!![candidate!division!SR1!bacterium!strain!P-A-F_MAG_00010!|!2044938.13]	75.00%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|2044938.13.peg.2206!!!SSU!ribosomal!protein!S11p!(S14e)!!![candidate!division!SR1!bacterium!strain!P-A-F_MAG_00010!|!2044938.13]	61.36%
+Cluster 37737
+13480	CP000157	Erythrobacter litoralis HTCC2594, complete genome.	No	Alphaproteobacteria	probable zinc metalloproteinase	ABC64506
+fig|2044938.13.peg.1817!!!hypothetical!protein!!![candidate!division!SR1!bacterium!strain!P-A-F_MAG_00010!|!2044938.13]	60.00%
+Cluster 27966
+15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Yes	Actinobacteridae	recombinase A recA	ABR07077
+fig|2044938.13.peg.483!!!RecA!protein!!![candidate!division!SR1!bacterium!strain!P-A-F_MAG_00010!|!2044938.13]	67.44%
+Cluster 261673
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	thioredoxin reductase	ABG11502
+fig|2044938.13.peg.674!!!Thioredoxin!reductase!(EC!1.8.1.9)!!![candidate!division!SR1!bacterium!strain!P-A-F_MAG_00010!|!2044938.13]	62.50%
+Cluster 605392
+12608	CP001101	Chlorobium phaeobacteroides BS1, complete genome.	No	Chlorobia	protein of unknown function UPF0047	ACE04026
+fig|2044938.13.peg.2122!!!hypothetical!protein!!![candidate!division!SR1!bacterium!strain!P-A-F_MAG_00010!|!2044938.13]	65.00%

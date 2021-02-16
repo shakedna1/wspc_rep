@@ -1,0 +1,2075 @@
+Cluster 73318
+18809	CP000943	Methylobacterium sp. 4-46, complete genome.	No	Alphaproteobacteria	ATP dependent DNA ligase	ACA15189
+fig|1134687.181.peg.4403!!!ATP-dependent!DNA!ligase!(EC!6.5.1.1)!LigC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.50%
+Cluster 143505
+29539	CP001739	Sebaldella termitidis ATCC 33386, complete genome.	No	Fusobacteriales	putative sugar-specific permease SgaT/UlaA	ACZ09342
+fig|1134687.181.peg.5893!!!PTS!system,!IIC!component,!UlaA-type!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.53%
+Cluster 189037
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	Glutamate--tRNA ligase	ACA69736
+fig|1134687.181.peg.5342!!!Glutamyl-Q!tRNA(Asp)!synthetase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.62%
+Cluster 192599
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	peptidase, ArgE/DapE family	ACI07101
+fig|1134687.181.peg.1840!!!Uncharacterized!deacetylase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	96.16%
+Cluster 686324
+12986	CP000020	Vibrio fischeri ES114 chromosome I, complete sequence.	No	Gammaproteobacteria	HU, DNA-binding transcriptional regulator, beta subunit	AAW85294
+fig|1134687.181.peg.2140!!!DNA-binding!protein!HU-beta!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.33%
+Cluster 691108
+33369	CU928144	Escherichia fergusonii str. ATCC 35469T plasmid pEFER, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	CAQ86970
+fig|1134687.181.peg.5142!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	98.82%
+Cluster 33215
+29529	CP001816	Sulfurospirillum deleyianum DSM 6946, complete genome.	No	Epsilonproteobacteria	glutaminyl-tRNA synthetase	ACZ11717
+fig|1134687.181.peg.4009!!!Glutaminyl-tRNA!synthetase!(EC!6.1.1.18)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.92%
+Cluster 285441
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	D-isomer specific 2-hydroxyacid dehydrogenase family protein	ACI09025
+fig|1134687.181.peg.3963!!!D-3-phosphoglycerate!dehydrogenase!(EC!1.1.1.95)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	95.58%
+Cluster 574492
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YfbV	ADD77810
+fig|1134687.181.peg.5574!!!UPF0208!membrane!protein!YfbV!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.85%
+Cluster 568238
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	co-chaperonin GroES	ACN48531
+fig|1134687.181.peg.1158!!!Heat!shock!protein!10!kDa!family!chaperone!GroES!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	96.91%
+Cluster 230435
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13781
+fig|1134687.181.peg.2197!!!Ferrochelatase,!protoheme!ferro-lyase!(EC!4.99.1.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.62%
+Cluster 511308
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative 6-O-methylguanine DNA methyltransferase family protein	CAH20217
+fig|1134687.181.peg.2156!!!DNA!base-flipping!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.99%
+Cluster 613553
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	OsmC family protein	ACX89760
+fig|1134687.181.peg.1779!!!Protein!YhfA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.58%
+Cluster 208878
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	beta-lactamase	ACB24411
+fig|1134687.181.peg.4008!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.18%
+Cluster 478278
+20361	AP011532	Methanocella paludicola SANAE DNA, complete genome.	No	Methanomicrobia	conserved hypothetical protein	BAI62810
+fig|1134687.181.peg.3013!!!Succinate-acetate/proton!symporter!SatP!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.64%
+Cluster 45429
+13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAV78633
+fig|1134687.181.peg.959!!!Hydroxyaromatic!non-oxidative!decarboxylase!protein!C!(EC!4.1.1.-)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	97.89%
+fig|1134687.181.peg.960!!!Hydroxyaromatic!non-oxidative!decarboxylase!protein!B!(EC!4.1.1.-)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.23%
+Cluster 451838
+28021	CP001074	Rhizobium etli CIAT 652, complete genome.	No	Alphaproteobacteria	putative amino acid efflux protein, LysE family	ACE91734
+fig|1134687.181.peg.17!!!Lysine!exporter!protein!(LYSE/YGGA)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.75%
+Cluster 73696
+15753	CP000697	Acidiphilium cryptum JF-5, complete genome.	No	Alphaproteobacteria	AMP-dependent synthetase and ligase	ABQ29482
+fig|1134687.181.peg.3203!!!Long-chain-fatty-acid--CoA!ligase!(EC!6.2.1.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.50%
+Cluster 267446
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	cysteine synthase	ABM35882
+fig|1134687.181.peg.3822!!!Cysteine!synthase!(EC!2.5.1.47)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.04%
+Cluster 471723
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	Glutathione S-transferase domain protein	ACZ77600
+fig|1134687.181.peg.5562!!!Probable!glutathione!S-transferase!(EC!2.5.1.18),!YfcG!homolog!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.03%
+Cluster 317007
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	QbdB protein	ACI06845
+fig|1134687.181.peg.5779!!!hypothetical!protein;!putative!signal!peptide!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.88%
+Cluster 672379
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	histone family protein DNA-binding protein	ABM58439
+fig|1134687.181.peg.4629!!!DNA-binding!protein!HU-alpha!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.22%
+Cluster 210977
+17629	CP000926	Pseudomonas putida GB-1, complete genome.	No	Gammaproteobacteria	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	ABY99510
+fig|1134687.181.peg.391!!!tRNA-specific!2-thiouridylase!MnmA!(EC!2.8.1.13)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.95%
+Cluster 51514
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative transporter	BAH65082
+fig|1134687.181.peg.3232!!!Membrane!fusion!component!MdtO!of!tripartite!multidrug!resistance!system!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.88%
+Cluster 485186
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	MtnD	ADD76040
+fig|1134687.181.peg.1446!!!1,2-dihydroxy-3-keto-5-methylthiopentene!dioxygenase!(EC!1.13.11.54)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.00%
+Cluster 726615
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63626
+fig|1134687.181.peg.2898!!!Orphan!toxin!OrtT!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.23%
+Cluster 375207
+17053	CP000949	Pseudomonas putida W619, complete genome.	No	Gammaproteobacteria	phenylacetate degradation, enoyl-CoA hydratase paaB	ACA73118
+fig|1134687.181.peg.5!!!1,2-epoxyphenylacetyl-CoA!isomerase!(EC!5.3.3.18)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.50%
+Cluster 725069
+12733	CP000264	Jannaschia sp. CCS1, complete genome.	No	Alphaproteobacteria	transcriptional regulator, XRE family	ABD53292
+fig|1134687.181.peg.5890!!!Uncharacterized!transcriptional!regulator!YozG,!Cro/CI!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.65%
+Cluster 8515
+20095	CP001359	Anaeromyxobacter dehalogenans 2CP-1, complete genome.	No	Deltaproteobacteria	heavy metal efflux pump, CzcA family	ACL67572
+fig|1134687.181.peg.3209!!!CzcABC!family!efflux!RND!transporter,!transmembrane!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.00%
+Cluster 367601
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YcdC	ADD79199
+fig|1134687.181.peg.498!!!Transcriptional!regulator!RutR!of!pyrimidine!catabolism!(TetR!family)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.04%
+Cluster 59994
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	ABC transporter ATP-binding protein	BAC46304
+fig|1134687.181.peg.1912!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.00%
+Cluster 603949
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	phenylacetate-CoA oxygenase, PaaH subunit	ABM59653
+fig|1134687.181.peg.10!!!1,2-phenylacetyl-CoA!epoxidase,!subunit!B!(EC!1.14.13.149)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.16%
+Cluster 83366
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017
+fig|1134687.181.peg.2595!!!NAD!kinase!(EC!2.7.1.23)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.18%
+Cluster 542608
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative glutamate mutase S	ABB60864
+fig|1134687.181.peg.5099!!!Methylaspartate!mutase,!S!subunit!(EC!5.4.99.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.60%
+Cluster 247541
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66384
+fig|1134687.181.peg.1232!!!ATP!phosphoribosyltransferase!(EC!2.4.2.17)!=>!HisGl!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	93.65%
+Cluster 589866
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|1134687.181.peg.4868!!!Spermidine!export!protein!MdtJ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.17%
+Cluster 598886
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI07018
+fig|1134687.181.peg.165!!!Sulfer!carrier!protein!activating!protease!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.14%
+Cluster 184648
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	cyanate transporter	ACI10202
+fig|1134687.181.peg.5516!!!Cyanate!transport!protein!CynX!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.92%
+Cluster 95869
+13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Yes	Lactobacillales	Glutathione reductase, putative	ABN44926
+fig|1134687.181.peg.3859!!!Glutathione!reductase!(EC!1.8.1.7)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.11%
+Cluster 659746
+29527	CP001629	Desulfomicrobium baculatum DSM 4028, complete genome.	No	Deltaproteobacteria	nitrogen regulatory protein P-II	ACU91122
+fig|1134687.181.peg.2152!!!Nitrogen!regulatory!protein!P-II,!GlnK!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.61%
+Cluster 643780
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	HNH endonuclease domain protein	ACI11481
+fig|1134687.181.peg.5997!!!Phage-associated!homing!endonuclease!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.93%
+Cluster 637260
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04930
+fig|1134687.181.peg.2592!!!UPF0125!protein!RatB!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.42%
+Cluster 55361
+16725	CP000854	Mycobacterium marinum M, complete genome.	Yes	Actinobacteridae	conserved hypothetical protein	ACC43629
+fig|1134687.181.peg.1475!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.90%
+Cluster 579951
+13020	CP000491	Paracoccus denitrificans PD1222 plasmid 1, complete sequence.	No	Alphaproteobacteria	hypothetical protein	ABL72750
+fig|1134687.181.peg.4105!!!Uncharacterized!protein!YneG!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.29%
+Cluster 579954
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ACN44363
+fig|1134687.181.peg.5319!!!UPF0231!protein!YacL!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.83%
+Cluster 116510
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|1134687.181.peg.1640!!!Chromosomal!replication!initiator!protein!DnaA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.12%
+Cluster 292695
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	D-arabitol repressor	CAQ89679
+fig|1134687.181.peg.1322!!!D-arabinitol!operon!repressor!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.79%
+Cluster 596961
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE75462
+fig|1134687.181.peg.3151!!!Rhodanese-related!sulfurtransferase!YibN!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.83%
+Cluster 625650
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAR05081
+fig|1134687.181.peg.3993!!!Uncharacterized!protein!YhhL!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.39%
+Cluster 736213
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63725
+fig|1134687.181.peg.3477!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.22%
+fig|1134687.181.peg.4076!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.96%
+Cluster 144142
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	2,3,4,5-tetrahydropyridine-2-carboxylate N-succin	AAW75239
+fig|1134687.181.peg.5383!!!2,3,4,5-tetrahydropyridine-2,6-dicarboxylate!N-succinyltransferase!(EC!2.3.1.117)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.23%
+Cluster 645369
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACX86741
+fig|1134687.181.peg.3936!!!Uncharacterized!protein!STM4441!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.67%
+Cluster 679344
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	DNA-damage-inducible protein I	BAH62776
+fig|1134687.181.peg.460!!!DNA-damage-inducible!protein!I!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.72%
+Cluster 173292
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative sorbitol dehydrogenase	CAH21776
+fig|1134687.181.peg.1377!!!Xylitol!dehydrogenase!(EC!1.1.1.9)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.87%
+Cluster 368650
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CpxR	ADD79041
+fig|1134687.181.peg.780!!!Copper-sensing!two-component!system!response!regulator!CpxR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.95%
+Cluster 201069
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	galactokinase	ACI06895
+fig|1134687.181.peg.6141!!!Galactokinase!(EC!2.7.1.6)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	95.81%
+Cluster 8891
+12749	CP001108	Prosthecochloris aestuarii DSM 271, complete genome.	No	Chlorobia	methylmalonyl-CoA mutase, large subunit	ACF45920
+fig|1134687.181.peg.3340!!!Methylmalonyl-CoA!mutase!(EC!5.4.99.2)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.08%
+Cluster 492037
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PurE	ADD76220
+fig|1134687.181.peg.2227!!!N5-carboxyaminoimidazole!ribonucleotide!mutase!(EC!5.4.99.18)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.21%
+Cluster 445037
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Molybdopterin biosynthesis mog protein	CAY73103
+fig|1134687.181.peg.3011!!!Molybdopterin!adenylyltransferase!(EC!2.7.7.75)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.90%
+Cluster 183084
+17423	CP001089	Geobacter lovleyi SZ, complete genome.	No	Deltaproteobacteria	acetylornithine and succinylornithine aminotransferase	ACD96856
+fig|1134687.181.peg.4675!!!N-acetylornithine!aminotransferase!(EC!2.6.1.11)!@!N-succinyl-L,L-diaminopimelate!aminotransferase!(EC!2.6.1.17)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.24%
+Cluster 687854
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU75771
+fig|1134687.181.peg.3520!!!Uncharacterized!lipoprotein!YgdR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.33%
+Cluster 495874
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YgjP	ADD78617
+fig|1134687.181.peg.4039!!!UTP!pyrophosphatase!(EC!3.6.1.9)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.86%
+Cluster 728249
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	ABB62708
+fig|1134687.181.peg.3776!!!UPF0370!protein!YpfN!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.09%
+Cluster 167877
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	nucleoside permease	BAH64544
+fig|1134687.181.peg.493!!!Na+!dependent!nucleoside!transporter!NupC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.58%
+fig|1134687.181.peg.5506!!!Na+!dependent!nucleoside!transporter!NupC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	97.50%
+Cluster 241152
+19989	CP001032	Opitutus terrae PB90-1, complete genome.	No	Opitutae	L-threonine 3-dehydrogenase	ACB76204
+fig|1134687.181.peg.3156!!!L-threonine!3-dehydrogenase!(EC!1.1.1.103)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.58%
+Cluster 68356
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative alpha-glucoside-specific PTS family enzyme IIBC component	BAH65874
+fig|1134687.181.peg.1622!!!PTS!system,!maltose-specific!IIC!component!/!PTS!system,!maltose-specific!IIB!component!(EC!2.7.1.208)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.63%
+Cluster 352568
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	methionine aminopeptidase, type I	ACK54919
+fig|1134687.181.peg.5385!!!Methionine!aminopeptidase!(EC!3.4.11.18)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.98%
+Cluster 372522
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobalt-precorrin-4 C(11)-methyltransferase (Cobalt-precorrin-3 methylase)	CBJ79987
+fig|1134687.181.peg.4533!!!Cobalt-precorrin-4!C(11)-methyltransferase!(EC!2.1.1.271)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.60%
+Cluster 10192
+52	AL954747	Nitrosomonas europaea ATCC 19718, complete genome.	No	Betaproteobacteria	Acriflavin resistance protein	CAD84580
+fig|1134687.181.peg.3702!!!RND!efflux!system,!inner!membrane!transporter!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.44%
+Cluster 63934
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	Heme-binding protein precursor (hemin-binding lipoprotein)	ABE06319
+fig|1134687.181.peg.6043!!!Oligopeptide!transport!substrate-binding!protein!@!Glutathione!ABC!transporter,!substrate-binding!protein!GsiB!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	88.48%
+Cluster 63936
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	PTS system, maltose and glucose-specific IIABC component	ABE07287
+fig|1134687.181.peg.4929!!!PTS!system,!maltose!and!glucose-specific!IIC!component!/!PTS!system,!maltose!and!glucose-specific!IIB!component!(EC!2.7.1.208)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	89.25%
+Cluster 420478
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	GntR-family transcriptional regulator	CBJ45534
+fig|1134687.181.peg.4690!!!Transcriptional!regulator,!GntR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.53%
+Cluster 388732
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative CTP synthase	BAH62894
+fig|1134687.181.peg.325!!!Uncharacterized!protein!Pfl_4311!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.00%
+Cluster 200923
+371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Yes	Gammaproteobacteria	RNA polymerase sigma subunit RpoS	AAO70382
+fig|1134687.181.peg.965!!!RNA!polymerase!sigma!factor!RpoS!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	93.33%
+Cluster 407809
+17455	CP000961	Shewanella woodyi ATCC 51908, complete genome.	No	Gammaproteobacteria	RNA methyltransferase, TrmH family, group 3	ACA88472
+fig|1134687.181.peg.3682!!!23S!rRNA!(guanosine(2251)-2'-O)-methyltransferase!(EC!2.1.1.185)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.32%
+Cluster 186825
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX70363
+fig|1134687.181.peg.825!!!Transcriptional!(co)regulator!CytR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.26%
+Cluster 575099
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24233
+fig|1134687.181.peg.3419!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.75%
+Cluster 331732
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	Capsid scaffolding protein O	CAU97973
+fig|1134687.181.peg.355!!!Phage!capsid!scaffolding!protein!GpO!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.67%
+Cluster 575139
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	thioesterase superfamily protein	ACZ77661
+fig|1134687.181.peg.5459!!!Proofreading!thioesterase!in!enterobactin!biosynthesis!EntH!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.58%
+Cluster 64801
+17455	CP000961	Shewanella woodyi ATCC 51908, complete genome.	No	Gammaproteobacteria	sulfite reductase (NADPH) hemoprotein, beta-component	ACA85072
+fig|1134687.181.peg.4004!!!Sulfite!reductase![NADPH]!hemoprotein!beta-component!(EC!1.8.1.2)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.16%
+Cluster 51773
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	DNA polymerase III subunit tau	CAO97520
+fig|1134687.181.peg.2192!!!DNA!polymerase!III!subunits!gamma!and!tau!(EC!2.7.7.7)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.23%
+Cluster 338304
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	pantothenate synthetase	CBJ82791
+fig|1134687.181.peg.5338!!!Pantoate--beta-alanine!ligase!(EC!6.3.2.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.08%
+Cluster 7990
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	malate synthase A	ACG74318
+fig|1134687.181.peg.5200!!!Isocitrate!lyase!(EC!4.1.3.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.67%
+Cluster 284775
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11803
+fig|1134687.181.peg.2816!!!3-hydroxybenzoate!utilization!regulator,!LysR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.92%
+Cluster 159608
+17639	CP000774	Parvibaculum lavamentivorans DS-1, complete genome.	No	Alphaproteobacteria	cytochrome P450	ABS61648
+fig|1134687.181.peg.2790!!!Putative!cytochrome!P450!hydroxylase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.06%
+Cluster 651642
+13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	No	Gammaproteobacteria	small multidrug resistance protein	ABM18153
+fig|1134687.181.peg.5204!!!Small!multidrug!resistance!(SMR)!efflux!transporter!=>!QacE!delta!1,!quaternary!ammonium!compounds!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.14%
+Cluster 264549
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	riboflavin biosynthesis protein RibF, putative	ACR67900
+fig|1134687.181.peg.3029!!!FMN!adenylyltransferase!(EC!2.7.7.2)!/!Riboflavin!kinase!(EC!2.7.1.26)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.83%
+Cluster 378668
+13402	CP000629	Agrobacterium radiobacter K84 chromosome 2, complete sequence.	No	Alphaproteobacteria	short chain dehydrogenase protein	ACM30838
+fig|1134687.181.peg.2792!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.17%
+Cluster 216301
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	3-oxoacyl-[acyl-carrier-protein] synthase I	ABF04503
+fig|1134687.181.peg.2619!!!3-oxoacyl-[acyl-carrier-protein]!synthase,!KASI!(EC!2.3.1.41)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.06%
+Cluster 208955
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	ABB61844
+fig|1134687.181.peg.2887!!!Putative!oxidoreductase!YncB!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.97%
+Cluster 325465
+13960	CP000800	Escherichia coli E24377A, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABV21201
+fig|1134687.181.peg.4757!!!Protein!YrdA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.52%
+Cluster 213164
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	luciferase-like protein	ACY35168
+fig|1134687.181.peg.2759!!!Alkanal!monooxygenase!alpha!chain!(EC!1.14.14.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.49%
+Cluster 517050
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	transcriptional regulator, MerR family	ABM32854
+fig|1134687.181.peg.1092!!!Redox-sensitive!transcriptional!activator!SoxR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.47%
+Cluster 359083
+17445	CP000749	Marinomonas sp. MWYL1, complete genome.	No	Gammaproteobacteria	NAD(+) diphosphatase	ABR72693
+fig|1134687.181.peg.4453!!!NADH!pyrophosphatase!(EC!3.6.1.22),!decaps!5'-NAD!modified!RNA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.06%
+Cluster 124489
+13020	CP000489	Paracoccus denitrificans PD1222 chromosome 1, complete sequence.	No	Alphaproteobacteria	adenosylhomocysteinase	ABL70769
+fig|1134687.181.peg.3124!!!Adenosylhomocysteinase!(EC!3.3.1.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.00%
+Cluster 565004
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	50S ribosomal protein L16	ABM79044
+fig|1134687.181.peg.4790!!!LSU!ribosomal!protein!L16p!(L10e)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.03%
+Cluster 221365
+329	CP000112	Desulfovibrio desulfuricans subsp. desulfuricans str. G20, complete genome.	No	Deltaproteobacteria	NAD-dependent epimerase/dehydratase family protein	ABB36834
+fig|1134687.181.peg.1248!!!UDP-glucuronate!5'-epimerase!(EC!5.1.3.12)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.37%
+Cluster 224287
+19575	CU234118	Bradyrhizobium sp. ORS278,complete sequence.	No	Alphaproteobacteria	putative NAD-dependent alcohol dehydrogenase	CAL76280
+fig|1134687.181.peg.4461!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.55%
+Cluster 558460
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Hns	ADD77258
+fig|1134687.181.peg.606!!!DNA-binding!protein!H-NS!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.74%
+Cluster 707523
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	interrupted high-affinity L-arabinose transport system	BAB36030
+fig|1134687.181.peg.3772!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.00%
+Cluster 464874
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Conserved hypothetical protein YffH	CAO96128
+fig|1134687.181.peg.3782!!!GDP-mannose!pyrophosphatase!NudK!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.01%
+Cluster 288327
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20733
+fig|1134687.181.peg.3049!!!ATP!phosphoribosyltransferase!(EC!2.4.2.17)!=>!HisGl!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	97.50%
+Cluster 435908
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1134687.181.peg.3791!!!Ethanolamine!utilization!polyhedral-body-like!protein!EutM!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.79%
+fig|1134687.181.peg.3792!!!Ethanolamine!utilization!polyhedral-body-like!protein!EutN!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.63%
+Cluster 212799
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX20769
+fig|1134687.181.peg.3201!!!Glycerol!uptake!facilitator!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.02%
+fig|1134687.181.peg.4525!!!Propanediol!diffusion!facilitator!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.22%
+Cluster 352601
+12416	CP000058	Pseudomonas syringae pv. phaseolicola 1448A, complete genome.	No	Gammaproteobacteria	transglutaminase-like domain protein	AAZ35490
+fig|1134687.181.peg.6149!!!Protein!containing!transglutaminase-like!domain,!putative!cysteine!protease!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.16%
+Cluster 212382
+180	AE008917	Brucella melitensis bv. 1 str. 16M chromosome I, complete sequence.	Yes	Alphaproteobacteria	alcohol dehydrogenase	AAL52927
+fig|1134687.181.peg.2702!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.70%
+Cluster 65027
+28021	CP001074	Rhizobium etli CIAT 652, complete genome.	No	Alphaproteobacteria	putative serine protein kinase protein	ACE91915
+fig|1134687.181.peg.696!!!Uncharacterized!protein!YeaG!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.53%
+Cluster 545269
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABV41655
+fig|1134687.181.peg.2259!!!L-2-amino-thiazoline-4-carboxylic!acid!hydrolase!(EC!3.5.2.-)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.75%
+Cluster 595608
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	protein YcgL	ACF62545
+fig|1134687.181.peg.4342!!!Protein!YcgL!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.12%
+Cluster 261519
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	Protein of unknown function DUF1722	ACZ77874
+fig|1134687.181.peg.123!!!COG1683:!Uncharacterized!conserved!protein!/!FIG143828:!Hypothetical!protein!YbgA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.06%
+Cluster 572418
+65	AE000513	Deinococcus radiodurans R1 chromosome 1, complete sequence.	No	Deinococci	MutT/nudix family protein	AAF10362
+fig|1134687.181.peg.3889!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.87%
+Cluster 585252
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	acetyltransferase, GNAT family	ACI09173
+fig|1134687.181.peg.4101!!!Acetyltransferase,!GNAT!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.66%
+Cluster 708057
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12267
+fig|1134687.181.peg.4284!!!DNA!polymerase!III!theta!subunit!(EC!2.7.7.7)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.53%
+Cluster 617174
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACT06807
+fig|1134687.181.peg.919!!!Uncharacterized!protein!YgbA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.21%
+Cluster 631976
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14991
+fig|1134687.181.peg.2613!!!Ribosome-associated!inhibitor!A!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.79%
+Cluster 631975
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13700
+fig|1134687.181.peg.2308!!!Transcriptional!activator!RamA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	96.46%
+fig|1134687.181.peg.1848!!!Transcriptional!activator!RamA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.83%
+Cluster 365291
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Phage shock protein A	CAY74214
+fig|1134687.181.peg.207!!!Phage!shock!protein!A!@!Suppressor!of!sigma54-dependent!transcription,!PspA-like!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.78%
+fig|1134687.181.peg.5171!!!Phage!shock!protein!A!@!Suppressor!of!sigma54-dependent!transcription,!PspA-like!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.43%
+Cluster 75733
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative lipoate-protein ligase A	BAB38768
+fig|1134687.181.peg.2988!!!Lipoate-protein!ligase!A!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.04%
+fig|1134687.181.peg.2989!!!Protein!Smp!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.79%
+Cluster 386483
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	urease, gamma subunit	ACG72211
+fig|1134687.181.peg.3456!!!Urease!gamma!subunit!(EC!3.5.1.5)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.00%
+Cluster 678802
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS60803
+fig|1134687.181.peg.3686!!!Putative!inner!membrane!protein!YjeT!(clustered!with!HflC)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	76.92%
+Cluster 531525
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	50S ribosomal protein L19	ACP26950
+fig|1134687.181.peg.2603!!!LSU!ribosomal!protein!L19p!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.35%
+Cluster 408985
+16252	CP000240	Synechococcus sp. JA-2-3B'a(2-13), complete genome.	No	Chroococcales	protein-L-isoaspartate(D-aspartate) O-methyltransferase	ABD03128
+fig|1134687.181.peg.1803!!!Protein-L-isoaspartate!O-methyltransferase!(EC!2.1.1.77)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.35%
+Cluster 471725
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	thiol:disulfide interchange protein DsbE	ABG70233
+fig|1134687.181.peg.2570!!!Cytochrome!c-type!biogenesis!protein!CcmG/DsbE,!thiol:disulfide!oxidoreductase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.49%
+Cluster 550728
+31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Yes	Gammaproteobacteria	hypothetical protein	CAW26475
+fig|1134687.181.peg.3769!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	100.00%
+Cluster 160828
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	protein UmuC	CBJ46715
+fig|1134687.181.peg.2706!!!Error-prone,!lesion!bypass!DNA!polymerase!V!(UmuC)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.31%
+Cluster 549885
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	50S ribosomal protein L10	ABF14049
+fig|1134687.181.peg.4608!!!LSU!ribosomal!protein!L10p!(P0)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.67%
+Cluster 559054
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	IbpA	ADD75249
+fig|1134687.181.peg.1626!!!16!kDa!heat!shock!protein!A!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.02%
+Cluster 324961
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	small terminase subunit	ACS87583
+fig|1134687.181.peg.353!!!Phage!terminase,!endonuclease!subunit!GpM!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.35%
+Cluster 714896
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11440
+fig|1134687.181.peg.1511!!!Uncharacterized!protein!YfgJ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.20%
+Cluster 120752
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	nitrogenase cofactor biosynthesis protein NifB	ACI07460
+fig|1134687.181.peg.1227!!!Nitrogenase!FeMo-cofactor!synthesis!FeS!core!scaffold!and!assembly!protein!NifB!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.54%
+Cluster 300142
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative LysR-family bacterial regulatory protein	BAH64005
+fig|1134687.181.peg.2945!!!LysR-family!transcriptional!regulator!KPN_02283!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.70%
+Cluster 706835
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX22766
+fig|1134687.181.peg.5232!!!Putative!outer!membrane!lipoprotein!STM0080!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.32%
+Cluster 62007
+12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	No	Gammaproteobacteria	glucans biosynthesis protein G precursor	ABA72117
+fig|1134687.181.peg.471!!!Glucans!biosynthesis!protein!G!precursor!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.41%
+Cluster 640332
+29541	CP001649	Desulfovibrio salexigens DSM 2638, complete genome.	No	Deltaproteobacteria	protein of unknown function DUF1486	ACS79999
+fig|1134687.181.peg.5809!!!FIG00631715:!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.65%
+Cluster 701927
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein	AAN81841
+fig|1134687.181.peg.135!!!T6SS!PAAR-repeat!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.07%
+Cluster 550024
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	conserved membrane protein	AAS60370
+fig|1134687.181.peg.3194!!!Uncharacterized!protein!YiiR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.79%
+Cluster 397591
+33241	CP001674	Methylovorus sp. SIP3-4, complete genome.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ACT51877
+fig|1134687.181.peg.177!!!ABC!transporter,!permease!protein!(cluster!10,!nitrate/sulfonate/bicarbonate)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.35%
+Cluster 229292
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH62542
+fig|1134687.181.peg.4160!!!L,D-transpeptidase!ErfK!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.62%
+fig|1134687.181.peg.6058!!!L,D-transpeptidase!=>!YbiS!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	93.42%
+Cluster 552859
+21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH66034
+fig|1134687.181.peg.3837!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	97.78%
+Cluster 194409
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	creatinase/peptidase, M24 family	ACI11381
+fig|1134687.181.peg.1838!!!Peptidase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	96.92%
+Cluster 247421
+20011	CP001341	Arthrobacter chlorophenolicus A6, complete genome.	No	Actinobacteridae	Luciferase-like monooxygenase	ACL41193
+fig|1134687.181.peg.1890!!!Alkanal!monooxygenase!alpha!chain!(EC!1.14.14.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.40%
+Cluster 180167
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	RsuA protein	AAU37645
+fig|1134687.181.peg.242!!!LSU!rRNA!pseudouridine(2605)!synthase!(EC!5.4.99.22)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.49%
+Cluster 146094
+18	BA000012	Mesorhizobium loti MAFF303099 DNA, complete genome.	No	Alphaproteobacteria	urea/short-chain amide ABC transporter, periplasmic urea/short-chain amide-binding protein	BAB48286
+fig|1134687.181.peg.4806!!!Urea!ABC!transporter,!substrate-binding!protein!UrtA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.01%
+Cluster 11409
+10700	BX908798	Parachlamydia-related symbiont UWE25, complete genome.	Yes	Chlamydiales	probable glycyl-tRNA synthetase	CAF23417
+fig|1134687.181.peg.3731!!!Glycyl-tRNA!synthetase!alpha!chain!(EC!6.1.1.14)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.40%
+Cluster 12329
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	putative hydroxymethyltransferase	ACF63945
+fig|1134687.181.peg.3024!!!Putative!hydroxymethyltransferase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.38%
+Cluster 394467
+40647	FN554766	Escherichia coli 042 complete genome.	Yes	Gammaproteobacteria	puative trans-aconitate methyltransferase	CBG34474
+fig|1134687.181.peg.4099!!!Trans-aconitate!2-methyltransferase!(EC!2.1.1.144)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.20%
+Cluster 298766
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	BAH62871
+fig|1134687.181.peg.5682!!!Phage!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.46%
+Cluster 116413
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	ABC superfamily (bin	AAX68014
+fig|1134687.181.peg.1055!!!Maltodextrin!ABC!transporter,!substrate-binding!protein!MdxE!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.19%
+Cluster 761303
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH61712
+fig|1134687.181.peg.5262!!!Sugar-phosphate!stress!protein!SgrT!(embedded!in!SgrS)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.00%
+Cluster 309380
+28021	CP001074	Rhizobium etli CIAT 652, complete genome.	No	Alphaproteobacteria	putative transcriptional regulator protein, LysR family	ACE89661
+fig|1134687.181.peg.5770!!!Transcriptional!regulator,!LysR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.33%
+Cluster 201049
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	rod shape-determining protein MreC	ACT08634
+fig|1134687.181.peg.4433!!!Rod!shape-determining!protein!MreC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.96%
+Cluster 13787
+9633	CP000082	Psychrobacter arcticus 273-4, complete genome.	No	Gammaproteobacteria	Excinuclease ABC subunit A	AAZ19533
+fig|1134687.181.peg.1080!!!Excinuclease!ABC!subunit!A!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.95%
+Cluster 531069
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	AccB protein	AAU38396
+fig|1134687.181.peg.4439!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.52%
+Cluster 152940
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative chitinase II	BAH62922
+fig|1134687.181.peg.308!!!Chitinase!(EC!3.2.1.14)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.05%
+Cluster 74495
+12526	CP001230	Persephonella marina EX-H1, complete genome.	No	Aquificales	copper resistance protein A	ACO03698
+fig|1134687.181.peg.3050!!!Multicopper!oxidase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.43%
+Cluster 711809
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78156
+fig|1134687.181.peg.2055!!!Uncharacterized!protein!YaiZ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.60%
+Cluster 410202
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAB35489
+fig|1134687.181.peg.1472!!!N-hydroxyarylamine!O-acetyltransferase!(EC!2.3.1.118)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.91%
+Cluster 423510
+13875	CP000016	Candidatus Blochmannia pennsylvanicus str. BPEN, complete genome.	No	Gammaproteobacteria	NADH dehydrogenase I chain B, binds FeS cluster N2	AAZ41122
+fig|1134687.181.peg.5583!!!NADH-ubiquinone!oxidoreductase!chain!B!(EC!1.6.5.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.11%
+Cluster 680762
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13578
+fig|1134687.181.peg.1364!!!Uncharacterized!protein!YbfA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.00%
+Cluster 649350
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH61334
+fig|1134687.181.peg.3679!!!Putative!uncharacterized!protein!YjfN!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.37%
+Cluster 450357
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS60574
+fig|1134687.181.peg.5374!!!UPF0126!inner!membrane!protein!YadS!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.54%
+Cluster 57213
+13480	CP000157	Erythrobacter litoralis HTCC2594, complete genome.	No	Alphaproteobacteria	acetyl/propionyl-CoA carboxylase, alpha subunit	ABC64072
+fig|1134687.181.peg.4602!!!Methylcrotonyl-CoA!carboxylase!biotin-containing!subunit!(EC!6.4.1.4)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.00%
+Cluster 623823
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15926
+fig|1134687.181.peg.1705!!!Acetyl-CoA!sensor!PanM,!required!for!maturation!of!L-aspartate!decarboxylase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.97%
+Cluster 562196
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein YjcH	CAQ91716
+fig|1134687.181.peg.1106!!!Inner!membrane!protein!YjcH,!clustering!with!ActP!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.88%
+Cluster 732521
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	probable nitrogen fixation protein FixT	ACI08158
+fig|1134687.181.peg.1213!!!NifT!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.94%
+Cluster 639975
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	competence protein ComEA homolog	ACI10408
+fig|1134687.181.peg.2142!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.42%
+Cluster 495973
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	GTP cyclohydrolase subunit MoaC	ABQ80553
+fig|1134687.181.peg.6101!!!Cyclic!pyranopterin!monophosphate!synthase!(EC!4.6.1.17)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.81%
+Cluster 731538
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	carbon storage regulator, CsrA	ADC62041
+fig|1134687.181.peg.862!!!Carbon!storage!regulator!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.33%
+Cluster 272454
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	membrane protein alx	CAO97949
+fig|1134687.181.peg.4035!!!Alkaline!induced!inner!membrane!protein!Alx!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.34%
+Cluster 210655
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	N-succinyl-diaminopimelate deacylase	CBJ81719
+fig|1134687.181.peg.3777!!!N-succinyl-L,L-diaminopimelate!desuccinylase!(EC!3.5.1.18)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.47%
+Cluster 691242
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	cold shock domain protein CspD	ACR13966
+fig|1134687.181.peg.4664!!!Cold!shock!protein!of!CSP!family!=>!CspD!(naming!convention!as!in!E.coli)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.11%
+Cluster 670982
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical lipoprotein	BAB35202
+fig|1134687.181.peg.5686!!!Phage!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.54%
+Cluster 621292
+21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Yes	Gammaproteobacteria	IS4 family transposase	BAH66117
+fig|1134687.181.peg.5214!!!Mobile!element!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.78%
+Cluster 522072
+32547	CP001896	Allochromatium vinosum DSM 180, complete genome.	No	Gammaproteobacteria	CinA domain protein	ADC62596
+fig|1134687.181.peg.867!!!Nicotinamide-nucleotide!amidase!(EC!3.5.1.42)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.01%
+Cluster 302482
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	spfh/band 7 domain protein	ACR14480
+fig|1134687.181.peg.2215!!!Protein!QmcA!(possibly!involved!in!integral!membrane!quality!control)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.61%
+Cluster 612014
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15491
+fig|1134687.181.peg.3445!!!Uncharacterized!protein!YqiC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.11%
+Cluster 527527
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Oligoketide cyclase/lipid transport protein	AAS61304
+fig|1134687.181.peg.2591!!!Ribosome!association!toxin!RatA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.31%
+fig|1134687.181.peg.2513!!!Ribosome!association!toxin!RatA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.38%
+Cluster 386717
+17343	CP000700	Sphingomonas wittichii RW1 plasmid pSWIT01, complete sequence.	No	Alphaproteobacteria	UBA/THIF-type NAD/FAD binding protein	ABQ71302
+fig|1134687.181.peg.3543!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.25%
+Cluster 504865
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF1234	ACZ77663
+fig|1134687.181.peg.1882!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.23%
+Cluster 602555
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	transcriptional regulator, HxlR family	ABM35940
+fig|1134687.181.peg.3654!!!Redox-sensing!transcriptional!regulator!QorR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.40%
+Cluster 722769
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAG75280
+fig|1134687.181.peg.4324!!!UPF0181!protein!YoaH!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.10%
+Cluster 536129
+259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAG56351
+fig|1134687.181.peg.3123!!!Uncharacterized!protein!YdcJ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.72%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|1134687.181.peg.1797!!!SSU!ribosomal!protein!S12p!(S23e)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.81%
+Cluster 48253
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	FhuE receptor precursor	ABG69107
+fig|1134687.181.peg.430!!!FhuE!receptor!precursor!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.77%
+Cluster 663331
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YbeB	ADD76293
+fig|1134687.181.peg.1419!!!Ribosomal!silencing!factor!RsfA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.95%
+Cluster 302781
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	oligopeptide transport system permease protein	AAX88126
+fig|1134687.181.peg.612!!!Oligopeptide!ABC!transporter,!permease!protein!OppB!(TC!3.A.1.5.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	76.14%
+Cluster 501191
+17415	CP000851	Shewanella pealeana ATCC 700345, complete genome.	No	Gammaproteobacteria	HesB/YadR/YfhF-family protein	ABV89320
+fig|1134687.181.peg.3844!!![4Fe-4S]!cluster!carrier!protein!NfuA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.39%
+Cluster 295954
+10690	CP000391	Mesorhizobium sp. BNC1 plasmid 2, complete sequence.	No	Alphaproteobacteria	transcriptional regulator, LysR family	ABG65565
+fig|1134687.181.peg.5939!!!Transcriptional!regulator!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.08%
+Cluster 677828
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	Phosphotransferase system, phosphocarrier protein HPr	ACQ92255
+fig|1134687.181.peg.3821!!!Phosphotransferase!system,!phosphocarrier!protein!HPr!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.12%
+Cluster 627512
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|1134687.181.peg.4169!!!Programmed!cell!death!toxin!PemK!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.45%
+Cluster 158512
+20085	AP009493	Streptomyces griseus subsp. griseus NBRC 13350 DNA, complete genome.	No	Actinobacteridae	putative chitinase	BAG22933
+fig|1134687.181.peg.2875!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.95%
+Cluster 430650
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	NAD(P)H dehydrogenase (quinone)	ABV40313
+fig|1134687.181.peg.2958!!!FMN-dependent!NADH-azoreductase!(EC!1.7.1.6)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.16%
+Cluster 123873
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13865
+fig|1134687.181.peg.2087!!!Putative!transmembrane!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.92%
+Cluster 508588
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|1134687.181.peg.4154!!!Type-1!fimbrial!protein,!A!chain!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.00%
+Cluster 116469
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative membrane-bound diguanylate cyclase	ACI07008
+fig|1134687.181.peg.4104!!!Uncharacterized!GGDEF!domain!protein!YneF!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.74%
+Cluster 346013
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	PcaH	ADD78510
+fig|1134687.181.peg.2931!!!Protocatechuate!3,4-dioxygenase!beta!chain!(EC!1.13.11.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.11%
+Cluster 647844
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	50S ribosomal subunit protein L25	ABF04379
+fig|1134687.181.peg.2860!!!LSU!ribosomal!protein!L25p!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	88.30%
+Cluster 145190
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative membrane protein	CAG73040
+fig|1134687.181.peg.5652!!!Uncharacterized!UPF0118!membrane!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.73%
+Cluster 599000
+32815	FM954973	Vibrio splendidus LGP32 chromosome 2.	No	Gammaproteobacteria	Hypothetical protein	CAV25915
+fig|1134687.181.peg.4650!!!UPF0145!protein!YbjQ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.75%
+Cluster 205073
+13242	CR555306	Azoarcus aromaticum EbN1 complete genome.	No	Betaproteobacteria	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	CAI08474
+fig|1134687.181.peg.5403!!!Acetyl-coenzyme!A!carboxyl!transferase!alpha!chain!(EC!6.4.1.2)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.64%
+Cluster 72607
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative POT family transport protein	AAX64635
+fig|1134687.181.peg.1362!!!Dipeptide/H+!symporter!DtpD!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.41%
+Cluster 410344
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeaZ	ADD77302
+fig|1134687.181.peg.4335!!!tRNA!threonylcarbamoyladenosine!biosynthesis!protein!TsaB!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.00%
+Cluster 541411
+15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Yes	Gammaproteobacteria	periplasmic protein CpxP	ACD09422
+fig|1134687.181.peg.781!!!Periplasmic!protein!CpxP!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	76.05%
+Cluster 492186
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF179	ACS84355
+fig|1134687.181.peg.3374!!!UPF0301!protein!YqgE!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.19%
+Cluster 352148
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Uncharacterized protein ygcF	CAY75451
+fig|1134687.181.peg.988!!!7-carboxy-7-deazaguanine!synthase!(EC!4.3.99.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.56%
+Cluster 461736
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	chorismate lyase	BAH61178
+fig|1134687.181.peg.1060!!!Chorismate--pyruvate!lyase!(EC!4.1.3.40)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.64%
+Cluster 313924
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	quaternary amine uptake ABC transporter (QAT) family,  periplasmic amine-binding protein	ACI09197
+fig|1134687.181.peg.530!!!ABC!transporter,!substrate-binding!protein!(cluster!13,!osmolytes)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.94%
+Cluster 12503
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	conserved hypothetical protein; Rhs element Vgr protein	CAK17275
+fig|1134687.181.peg.4721!!!VgrG!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.12%
+Cluster 722166
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	major outer membrane lipoprotein	BAE74712
+fig|1134687.181.peg.667!!!Major!outer!membrane!lipoprotein!Lpp!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.03%
+Cluster 416374
+17227	CP000527	Desulfovibrio vulgaris subsp. vulgaris DP4, complete genome.	No	Deltaproteobacteria	antibiotic acetyltransferase	ABM28201
+fig|1134687.181.peg.5206!!!Chloramphenicol!O-acetyltransferase!(EC!2.3.1.28)!=>!CatB!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.48%
+Cluster 505390
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	BAH63317
+fig|1134687.181.peg.4120!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.77%
+fig|1134687.181.peg.2520!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	96.67%
+Cluster 690880
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	thiS family protein	ACI11539
+fig|1134687.181.peg.164!!!FIG038648:!MoaD!and/or!ThiS!families!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.79%
+Cluster 590626
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	holo-(acyl-carrier-protein) synthase	ABF14256
+fig|1134687.181.peg.1562!!!Holo-[acyl-carrier-protein]!synthase!(EC!2.7.8.7)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.32%
+Cluster 448210
+16062	DQ489736	Leuconostoc citreum KM20, complete genome.	No	Lactobacillales	Membrane-associated phospholipid phosphatase	ACA83377
+fig|1134687.181.peg.1611!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.07%
+Cluster 126237
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	nitrogenase molybdenum-iron cofactor biosynthesis protein NifN	ACS84309
+fig|1134687.181.peg.1216!!!Nitrogenase!FeMo-cofactor!scaffold!and!assembly!protein!NifN!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.02%
+Cluster 449209
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	ABC transporter permease protein	CAG75869
+fig|1134687.181.peg.1868!!!ABC!transporter,!permease!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.64%
+Cluster 367370
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative 2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	ACI06570
+fig|1134687.181.peg.5626!!!2-keto-3-deoxy-L-rhamnonate!aldolase!(EC!4.1.2.53)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	89.14%
+Cluster 127419
+17227	CP000527	Desulfovibrio vulgaris subsp. vulgaris DP4, complete genome.	No	Deltaproteobacteria	two component, sigma54 specific, transcriptional regulator, Fis family	ABM27041
+fig|1134687.181.peg.4634!!!Response!regulator!of!zinc!sigma-54-dependent!two-component!system!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.16%
+Cluster 159582
+20097	CP001623	Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132501, complete sequence.	No	Alphaproteobacteria	conserved hypothetical protein	ACS59592
+fig|1134687.181.peg.4595!!!Mannosylglycerate!hydrolase!@!Glucosylglycerate!hydrolase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.67%
+Cluster 540125
+16689	CP001132	Acidithiobacillus ferrooxidans ATCC 53993, complete genome.	No	Gammaproteobacteria	RNA methyltransferase, TrmH family, group 2	ACH82671
+fig|1134687.181.peg.3146!!!tRNA!(cytidine(34)-2'-O)-methyltransferase!(EC!2.1.1.207)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.78%
+Cluster 399435
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	putative acyl-CoA N-acyltransferase	CAU97437
+fig|1134687.181.peg.2891!!!L-amino!acid!N-acyltransferase!MnaT!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.65%
+fig|1134687.181.peg.1188!!!L-amino!acid!N-acyltransferase!MnaT!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	88.76%
+Cluster 298155
+21101	CP001389	Rhizobium sp. NGR234, complete genome.	No	Alphaproteobacteria	putative extracellular solute-binding protein, family 3	ACP27013
+fig|1134687.181.peg.172!!!L-cystine!ABC!transporter,!substrate-binding!protein!TcyA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.58%
+Cluster 633895
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	histidine triad nucleotide-binding protein 2	ACF64355
+fig|1134687.181.peg.429!!!YcfF/hinT!protein:!a!purine!nucleoside!phosphoramidase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	89.83%
+Cluster 490794
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	ribonuclease HII	BAE75204
+fig|1134687.181.peg.5401!!!Ribonuclease!HII!(EC!3.1.26.4)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.23%
+Cluster 126257
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB61668
+fig|1134687.181.peg.284!!!Succinylarginine!dihydrolase!(EC!3.5.3.23)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.28%
+Cluster 93335
+30359	FM177140	Lactobacillus casei BL23 complete genome, strain BL23.	No	Lactobacillales	Capsid protein	CAQ68145
+fig|1134687.181.peg.3631!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.64%
+Cluster 430878
+33639	CP001383	Shigella flexneri 2002017, complete genome.	Yes	Gammaproteobacteria	IS1 ORF2	ADA74134
+fig|1134687.181.peg.5480!!!IS1!protein!InsA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.51%
+Cluster 619194
+259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	AAG57802
+fig|1134687.181.peg.864!!!UPF0387!membrane!protein!YohO!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.49%
+Cluster 352813
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	cel operon repressor	CAL11069
+fig|1134687.181.peg.272!!!N,N'-diacetylchitobiose-specific!regulator!ChbR,!AraC!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.52%
+Cluster 359252
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein, putative transcriptionnal regulator	CAQ89494
+fig|1134687.181.peg.4570!!!FIG00733024:!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.55%
+Cluster 301277
+18	BA000012	Mesorhizobium loti MAFF303099 DNA, complete genome.	No	Alphaproteobacteria	fructokinase	BAB54011
+fig|1134687.181.peg.5919!!!Fructokinase!(EC!2.7.1.4)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.11%
+Cluster 85077
+20011	CP001341	Arthrobacter chlorophenolicus A6, complete genome.	No	Actinobacteridae	GTP-binding protein HSR1-related	ACL40224
+fig|1134687.181.peg.3701!!!Glutaredoxin-like!protein!NrdH,!required!for!reduction!of!Ribonucleotide!reductase!class!Ib!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.64%
+Cluster 605092
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	protein UmuD	CBJ46714
+fig|1134687.181.peg.2868!!!Error-prone!repair!protein!UmuD!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.43%
+Cluster 33281
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BAD48352
+fig|1134687.181.peg.6113!!!Adenosylmethionine-8-amino-7-oxononanoate!aminotransferase!(EC!2.6.1.62)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.69%
+Cluster 663730
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAH21730
+fig|1134687.181.peg.469!!!Putative!outer!membrane!lipoprotein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.67%
+Cluster 734571
+28471	CP000966	Klebsiella pneumoniae 342 plasmid pKP91, complete sequence.	No	Gammaproteobacteria	conserved hypothetical protein	ACI12291
+fig|1134687.181.peg.43!!!Tetrapartite!efflux!system!component,!FusD-like!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.61%
+Cluster 516003
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative outer membrane protein	BAH62690
+fig|1134687.181.peg.1819!!!Phospholipid-binding!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.89%
+Cluster 135111
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14881
+fig|1134687.181.peg.1109!!!Proton/glutamate!symporter!@!Proton/aspartate!symporter!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.05%
+Cluster 381428
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	20S proteasome A and B subunits	ACR02462
+fig|1134687.181.peg.6150!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.14%
+Cluster 589481
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAQ90569
+fig|1134687.181.peg.4562!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.00%
+Cluster 670525
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR78958
+fig|1134687.181.peg.2485!!!UPF0213!protein!YhbQ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.91%
+Cluster 602075
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	SoxS	ADD75448
+fig|1134687.181.peg.1091!!!DNA-binding!transcriptional!dual!regulator!SoxS!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.89%
+Cluster 619453
+19449	CP001322	Desulfatibacillum alkenivorans AK-01, complete genome.	No	Deltaproteobacteria	microcompartments protein	ACL06672
+fig|1134687.181.peg.4516!!!Propanediol!utilization!polyhedral!body!protein!PduJ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.53%
+fig|1134687.181.peg.4523!!!Propanediol!utilization!polyhedral!body!protein!PduA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.53%
+fig|1134687.181.peg.4573!!!Ethanolamine!utilization!polyhedral-body-like!protein!EutM!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.04%
+Cluster 511887
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	ACF64245
+fig|1134687.181.peg.5947!!!Inner!membrane!protein!YbjO!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.69%
+Cluster 567373
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YbdB	ADD75612
+fig|1134687.181.peg.650!!!1,4-dihydroxy-2-naphthoyl-CoA!hydrolase!(EC!3.1.2.28)!in!menaquinone!biosynthesis!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.97%
+Cluster 394149
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative transmembrane protein	BAH61266
+fig|1134687.181.peg.1136!!!Integral!membrane!protein!TerC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	76.11%
+Cluster 337559
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	3-oxoacyl- reductase	AAW74135
+fig|1134687.181.peg.439!!!3-oxoacyl-[acyl-carrier!protein]!reductase!(EC!1.1.1.100),!FadG!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.85%
+Cluster 370645
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative DeoR-family bacterial regulatory protein	BAH63413
+fig|1134687.181.peg.3244!!!Transcriptional!regulator,!DeoR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	95.11%
+Cluster 709880
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	protein PemI	ACI08030
+fig|1134687.181.peg.4168!!!Programmed!cell!death!antitoxin!PemI!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.94%
+Cluster 119825
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CoaBC	ADD79072
+fig|1134687.181.peg.3176!!!Phosphopantothenoylcysteine!decarboxylase!(EC!4.1.1.36)!/!Phosphopantothenoylcysteine!synthetase!(EC!6.3.2.5)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.20%
+Cluster 384040
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI07207
+fig|1134687.181.peg.5816!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.98%
+Cluster 782011
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH63344
+fig|1134687.181.peg.4100!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.62%
+Cluster 100196
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	extracellular solute-binding protein family 5	ACZ77749
+fig|1134687.181.peg.1286!!!ABC!transporter,!substrate-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.28%
+Cluster 220511
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	pyrimidine specific nucleoside hydrolase	BAH63617
+fig|1134687.181.peg.2886!!!Pyrimidine-specific!ribonucleoside!hydrolase!RihA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.82%
+Cluster 472046
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAB35311
+fig|1134687.181.peg.4458!!!ABC-type!sugar!transport!system,!periplasmic!binding!protein!YcjN!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.96%
+Cluster 572212
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	UPF0382 membrane protein SSP2132	CAY75468
+fig|1134687.181.peg.5188!!!FIG00018398:!hypothetical!regulator!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.94%
+Cluster 153748
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	tyrosyl-tRNA synthetase, putative	ACR69272
+fig|1134687.181.peg.4952!!!Tyrosyl-tRNA!synthetase!(EC!6.1.1.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.57%
+Cluster 186042
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative membrane protein	CBJ46810
+fig|1134687.181.peg.1201!!!Inner!membrane!protein!YeeA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.64%
+Cluster 18794
+13954	CP000124	Burkholderia pseudomallei 1710b chromosome I, complete sequence.	Yes	Betaproteobacteria	ATP-dependent Clp protease ATP-binding subunit clpA	ABA48302
+fig|1134687.181.peg.4666!!!ATP-dependent!Clp!protease!ATP-binding!subunit!ClpA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.45%
+Cluster 301691
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	Peptidase S33, tricorn interacting factor 1	AAY39247
+fig|1134687.181.peg.1293!!!Proline!iminopeptidase!(EC!3.4.11.5)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.11%
+Cluster 462875
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	Mammalian cell entry related domain protein	ACT08606
+fig|1134687.181.peg.2449!!!Phospholipid!ABC!transporter!substrate-binding!protein!MlaD!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.13%
+Cluster 73735
+65	AE000513	Deinococcus radiodurans R1 chromosome 1, complete sequence.	No	Deinococci	L-lactate permease, putative	AAF11456
+fig|1134687.181.peg.3143!!!L-lactate!permease!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.89%
+Cluster 68838
+13020	CP000490	Paracoccus denitrificans PD1222 chromosome 2, complete sequence.	No	Alphaproteobacteria	5-oxoprolinase (ATP-hydrolyzing)	ABL72473
+fig|1134687.181.peg.3703!!!N-methylhydantoinase!B!(EC!3.5.2.14)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.53%
+Cluster 676379
+10642	CP000117	Anabaena variabilis ATCC 29413, complete genome.	No	Nostocales	Glutaredoxin, GrxC	ABA21763
+fig|1134687.181.peg.3150!!!Glutaredoxin!3!(Grx3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.06%
+Cluster 273451
+58	CP000230	Rhodospirillum rubrum ATCC 11170, complete genome.	No	Alphaproteobacteria	Binding-protein-dependent transport systems inner membrane component	ABC23158
+fig|1134687.181.peg.5118!!!Dipeptide!ABC!transporter,!permease!protein!DppC!(TC!3.A.1.5.2)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.33%
+Cluster 482941
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Hypothetical protein	CAO97458
+fig|1134687.181.peg.3276!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.70%
+Cluster 434617
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	thiamine-phosphate pyrophosphorylase	AAS63273
+fig|1134687.181.peg.4622!!!Thiamin-phosphate!pyrophosphorylase!(EC!2.5.1.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.67%
+Cluster 767506
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	50S ribosomal protein L36	CAO97529
+fig|1134687.181.peg.2176!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.26%
+Cluster 132764
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	CDP-diacylglycerol-serine O-phosphatidyltransferase	BAE75186
+fig|1134687.181.peg.1582!!!CDP-diacylglycerol--serine!O-phosphatidyltransferase!(EC!2.7.8.8)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.18%
+Cluster 377993
+259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Yes	Gammaproteobacteria	putative tail component of cryptic prophage CP-933P	AAK16953
+fig|1134687.181.peg.5710!!!major!tail!subunit!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.14%
+Cluster 577567
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62882
+fig|1134687.181.peg.1486!!!Uncharacterized!protein!YfgD,!not!an!arsenate!reductase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.39%
+Cluster 237423
+13943	CP000546	Burkholderia mallei NCTC 10229 chromosome I, complete sequence.	Yes	Betaproteobacteria	putative membrane protein	ABN01987
+fig|1134687.181.peg.1357!!!FIG015373:!Membrane!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.46%
+Cluster 105330
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	transcriptional regulator, GntR family with aminotransferase domain	ACS83844
+fig|1134687.181.peg.5485!!!Transcriptional!regulator,!GntR!family!domain!/!Aspartate!aminotransferase!(EC!2.6.1.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.93%
+Cluster 123751
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	transporter, divalent anion:Na+ symporter (DASS) family	ACI10614
+fig|1134687.181.peg.3961!!!anion!transporter!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	98.06%
+Cluster 307287
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	BAH62865
+fig|1134687.181.peg.5676!!!Hypothetical!protein,!PV83!orf!20!homolog![SA!bacteriophages!11,!Mu50B]!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.08%
+Cluster 236440
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative periplasmic binding protein/LacI transcriptional regulator	BAH63452
+fig|1134687.181.peg.410!!!Transcriptional!regulator,!LacI!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.34%
+Cluster 532816
+13126	CR628337	Legionella pneumophila str. Lens complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S7	CAH14596
+fig|1134687.181.peg.1798!!!SSU!ribosomal!protein!S7p!(S5e)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.59%
+Cluster 540802
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH77658
+fig|1134687.181.peg.1098!!!Holin-like!protein!CidA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.62%
+Cluster 554973
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	pantetheine-phosphate adenylyltransferase	ABF14068
+fig|1134687.181.peg.3171!!!Phosphopantetheine!adenylyltransferase!(EC!2.7.7.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.39%
+Cluster 758531
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAB35383
+fig|1134687.181.peg.5689!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.53%
+Cluster 132519
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	valine--pyruvate aminotransferase	ABE09542
+fig|1134687.181.peg.3718!!!Valine--pyruvate!aminotransferase!(EC!2.6.1.66)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.67%
+Cluster 662026
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX23850
+fig|1134687.181.peg.3989!!!tRNA!5-methylaminomethyl-2-thiouridine!synthesis!sulfur!carrier!protein!TusA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.54%
+Cluster 555721
+13946	CP000548	Burkholderia mallei NCTC 10247 chromosome I, complete sequence.	Yes	Betaproteobacteria	50S ribosomal protein L28	ABO05945
+fig|1134687.181.peg.3174!!!LSU!ribosomal!protein!L28p!@!LSU!ribosomal!protein!L28p,!zinc-independent!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.51%
+Cluster 535575
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAL18027
+fig|1134687.181.peg.2066!!!Protein!YaiI!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.53%
+Cluster 125731
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	two component, sigma54 specific, transcriptional regulator, Fis family	ACL60886
+fig|1134687.181.peg.2620!!!Acetoacetate!metabolism!regulatory!protein!AtoC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.13%
+Cluster 294922
+16304	CP000738	Sinorhizobium medicae WSM419, complete genome.	No	Alphaproteobacteria	ABC transporter related	ABR61744
+fig|1134687.181.peg.916!!!Manganese!ABC!transporter,!ATP-binding!protein!SitB!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.79%
+Cluster 150840
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	survival protein SurA precursor	BAE73701
+fig|1134687.181.peg.5240!!!Periplasmic!chaperone!and!peptidyl-prolyl!cis-trans!isomerase!of!outer!membrane!proteins!SurA!(EC!5.2.1.8)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.33%
+Cluster 232999
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative sulfonate ABC transporter, sulfonate-binding protein	ACI09846
+fig|1134687.181.peg.1998!!!Alkanesulfonates-binding!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.93%
+Cluster 271794
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	L-arabinose-binding periplasmic protein	CAG75176
+fig|1134687.181.peg.4240!!!L-arabinose!ABC!transporter,!substrate-binding!protein!AraF!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.73%
+Cluster 136844
+15713	CR954247	Pseudoalteromonas haloplanktis str. TAC125 chromosome II, complete sequence.	No	Gammaproteobacteria	putative idonate or gluconate permease	CAI89516
+fig|1134687.181.peg.1730!!!Low-affinity!gluconate/H+!symporter!GntU!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.21%
+Cluster 493192
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	zinc uptake regulation protein	ABG72212
+fig|1134687.181.peg.1067!!!Zinc!uptake!regulation!protein!Zur!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.72%
+Cluster 166956
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	urea ABC transporter, permease protein UrtC	ACR02516
+fig|1134687.181.peg.4804!!!Urea!ABC!transporter,!permease!protein!UrtC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.87%
+Cluster 736406
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	hypothetical protein	ABQ78626
+fig|1134687.181.peg.507!!!Uncharacterized!protein!YmdF!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.93%
+Cluster 669507
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14524
+fig|1134687.181.peg.3599!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	95.52%
+Cluster 339687
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein; putative antirestriction protein	CAR06040
+fig|1134687.181.peg.3083!!!Antirestriction!protein!klcA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.41%
+Cluster 431125
+29529	CP001816	Sulfurospirillum deleyianum DSM 6946, complete genome.	No	Epsilonproteobacteria	ABC transporter related protein	ACZ11516
+fig|1134687.181.peg.2023!!!ABC!transporter,!ATP-binding!protein!2!(cluster!4,!leucine/isoleucine/valine/benzoate)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.90%
+Cluster 296141
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX66324
+fig|1134687.181.peg.1277!!!DNA-3-methyladenine!glycosylase!II!(EC!3.2.2.21)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.25%
+Cluster 248135
+16306	CP000927	Caulobacter sp. K31, complete genome.	No	Alphaproteobacteria	alpha/beta hydrolase fold	ABZ69436
+fig|1134687.181.peg.5901!!!Non-heme!chloroperoxidase!(EC!1.11.1.10)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.99%
+Cluster 486574
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	putative integrase for prophage	ABF03574
+fig|1134687.181.peg.92!!!Phage!integrase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.50%
+Cluster 373280
+15756	CP000781	Xanthobacter autotrophicus Py2, complete genome.	No	Alphaproteobacteria	phosphoadenosine phosphosulfate reductase	ABS66647
+fig|1134687.181.peg.6157!!!Sulfate!adenylyltransferase!subunit!2!(EC!2.7.7.4)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.42%
+Cluster 74375
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	DEAD/DEAH box helicase domain protein	ACS61740
+fig|1134687.181.peg.6083!!!ATP-dependent!RNA!helicase!RhlE!(EC!3.6.4.13)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.03%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|1134687.181.peg.4793!!!SSU!ribosomal!protein!S19p!(S15e)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.57%
+Cluster 569921
+33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Yes	Gammaproteobacteria	heat-inducible protein	CAR17831
+fig|1134687.181.peg.69!!!heat!shock!protein!HslJ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.64%
+Cluster 443458
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	Sua5/YciO/YrdC/YwlC family protein	ACR12471
+fig|1134687.181.peg.243!!!YciO!protein,!TsaC/YrdC!paralog!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.59%
+Cluster 204923
+10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Yes	Gammaproteobacteria	putative ribonucleoside-diphosphate reductase beta subunit	AAS58680
+fig|1134687.181.peg.5635!!!Ribonucleotide!reductase!of!class!Ia!(aerobic),!beta!subunit!(EC!1.17.4.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.97%
+Cluster 59195
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	UNKNOWN	BAC52183
+fig|1134687.181.peg.3212!!!ABC!transporter,!substrate-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.14%
+Cluster 638084
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	Carboxymuconolactone decarboxylase	ACS63360
+fig|1134687.181.peg.831!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.67%
+Cluster 629692
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative cytoplasmic protein	AAX66811
+fig|1134687.181.peg.1003!!!Uncharacterized!protein!YqcC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.47%
+Cluster 517859
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	lactoylglutathione lyase	ACP05284
+fig|1134687.181.peg.4967!!!Lactoylglutathione!lyase!(EC!4.4.1.5)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.41%
+Cluster 409368
+33873	CP001616	Tolumonas auensis DSM 9187, complete genome.	No	Gammaproteobacteria	response regulator receiver and unknown domain protein	ACQ94150
+fig|1134687.181.peg.4268!!!Fumarate!respiration!two-component!response!regulator!DcuR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.92%
+fig|1134687.181.peg.4885!!!Fumarate!respiration!two-component!response!regulator!DcuR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.18%
+Cluster 156930
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	2-dehydro-3-deoxygluconokinase	ABE09487
+fig|1134687.181.peg.3871!!!2-dehydro-3-deoxygluconokinase!(EC!2.7.1.45)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.38%
+Cluster 503114
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	probable glutathione peroxidase	CAY74455
+fig|1134687.181.peg.638!!!Glutathione!peroxidase!(EC!1.11.1.9)!@!Thioredoxin!peroxidase!(EC!1.11.1.15)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.31%
+Cluster 552793
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82118
+fig|1134687.181.peg.4603!!!Translation!elongation!factor!Tu!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.08%
+Cluster 43853
+29203	CP001220	Comamonas testosteroni CNB-2, complete genome.	No	Betaproteobacteria	transketolase	ACY35378
+fig|1134687.181.peg.3363!!!Transketolase!(EC!2.2.1.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.09%
+Cluster 335592
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF06037
+fig|1134687.181.peg.847!!!Unsaturated!fatty!acid!biosythesis!repressor!FabR,!TetR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	96.21%
+Cluster 399494
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	YheO domain protein	ACS84207
+fig|1134687.181.peg.1793!!!YheO-like!PAS!domain!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.92%
+Cluster 555962
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	putative acetyltransferase, GNAT family	CAK15159
+fig|1134687.181.peg.3945!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.33%
+Cluster 722375
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative phage tail protein	BAB36065
+fig|1134687.181.peg.333!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.67%
+Cluster 531130
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	flavodoxin	ACI10604
+fig|1134687.181.peg.1224!!!Flavodoxin!1!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.52%
+Cluster 437770
+33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Yes	Gammaproteobacteria	putative DNA-binding transcriptional regulator (Lrp-like)	CAR01791
+fig|1134687.181.peg.2148!!!DNA-binding!transcriptional!activator!DecR,!AsnC!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	88.16%
+Cluster 295988
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14038
+fig|1134687.181.peg.2265!!!Transcriptional!regulator,!LysR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	88.36%
+Cluster 202396
+13474	CP000115	Nitrobacter winogradskyi Nb-255, complete genome.	No	Alphaproteobacteria	chorismate synthase	ABA03896
+fig|1134687.181.peg.5532!!!Chorismate!synthase!(EC!4.2.3.5)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.81%
+Cluster 357300
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	bacitracin resistance protein	BAE73532
+fig|1134687.181.peg.3452!!!Undecaprenyl-diphosphatase!(EC!3.6.1.27)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.29%
+Cluster 42168
+16263	CP001390	Geobacter sp. FRC-32, complete genome.	No	Deltaproteobacteria	oxaloacetate decarboxylase alpha subunit	ACM18611
+fig|1134687.181.peg.5218!!!Oxaloacetate!decarboxylase!Na(+)!pump,!alpha!chain!(EC!4.1.1.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.86%
+Cluster 544402
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	acetyltransferase, GNAT family	ACI10133
+fig|1134687.181.peg.1047!!!Acetyltransferase,!GNAT!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.88%
+Cluster 414255
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	amino acid ABC transporter, permease protein	ACI08242
+fig|1134687.181.peg.1842!!!ABC!transporter,!permease!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	95.85%
+Cluster 782817
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76666
+fig|1134687.181.peg.4859!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.00%
+Cluster 529037
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein of phage origin	CAR14569
+fig|1134687.181.peg.3078!!!YeeV!toxin!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.10%
+Cluster 417424
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU79561
+fig|1134687.181.peg.1783!!!Nudix-related!transcriptional!regulator!NrtR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.43%
+Cluster 782571
+310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Yes	Gammaproteobacteria	UNKNOWN	K
+fig|1134687.181.peg.854!!!6-phosphogluconolactonase!(EC!3.1.1.31)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	96.67%
+Cluster 98242
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	arginine succinyltransferase	AAX65233
+fig|1134687.181.peg.286!!!Arginine!N-succinyltransferase!(EC!2.3.1.109)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.60%
+Cluster 105411
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04138
+fig|1134687.181.peg.4720!!!Diguanylate!cyclase!(EC!2.7.7.65)!=>!DgcQ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.24%
+Cluster 492105
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	NUDIX hydrolase	ACX87994
+fig|1134687.181.peg.4322!!!Uncharacterized!Nudix!hydrolase!NudL!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.06%
+Cluster 718358
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65442
+fig|1134687.181.peg.4441!!!Uncharacterized!protein!YhdT!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.25%
+Cluster 32659
+13953	CP000570	Burkholderia pseudomallei 668 chromosome I, complete sequence.	Yes	Betaproteobacteria	prephenate dehydrogenase/3-phosphoshikimate 1-carboxyvinyltransferase	ABN83250
+fig|1134687.181.peg.2680!!!3-phosphoshikimate!1-carboxyvinyltransferase!(EC!2.5.1.19)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.12%
+Cluster 618080
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative Trp operon repressor	AAS63878
+fig|1134687.181.peg.2995!!!Transcriptional!repressor!protein!TrpR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.91%
+Cluster 416408
+16646	CP000305	Yersinia pestis Nepal516, complete genome.	Yes	Gammaproteobacteria	transposase	ABG17769
+fig|1134687.181.peg.954!!!Mobile!element!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.68%
+Cluster 273695
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative FNT family, formate transporter (formate channel 1)	AAX64834
+fig|1134687.181.peg.2684!!!Formate!efflux!transporter!FocA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.46%
+Cluster 281439
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	tRNA pseudouridine synthase B	BAJ03258
+fig|1134687.181.peg.2474!!!tRNA!pseudouridine(55)!synthase!(EC!5.4.99.25)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.69%
+Cluster 103936
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	cysteine desulfurase, SufS family	ACI09323
+fig|1134687.181.peg.161!!!Cysteine!desulfurase!(EC!2.8.1.7)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	93.54%
+Cluster 119088
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative dehydratase	CAG75867
+fig|1134687.181.peg.1870!!!FIG00905324:!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.62%
+Cluster 649577
+15763	CP000453	Alkalilimnicola ehrlichii MLHE-1, complete genome.	No	Gammaproteobacteria	SSU ribosomal protein S16P	ABI56238
+fig|1134687.181.peg.2600!!!SSU!ribosomal!protein!S16p!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.41%
+Cluster 301372
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	30S ribosomal protein S2	ABE05693
+fig|1134687.181.peg.5386!!!SSU!ribosomal!protein!S2p!(SAe)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	97.93%
+Cluster 233862
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	putative racemase	CAR14333
+fig|1134687.181.peg.3508!!!Aspartate!racemase!(EC!5.1.1.13)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.87%
+Cluster 365243
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF03600
+fig|1134687.181.peg.4313!!!Putative!manganese!efflux!pump!MntP!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.23%
+Cluster 122210
+34739	AP011177	Shewanella violacea DSS12 DNA, complete genome.	No	Gammaproteobacteria	NAD(P) transhydrogenase, beta subunit	BAJ01669
+fig|1134687.181.peg.4909!!!NAD(P)!transhydrogenase!subunit!beta!(EC!1.6.1.2)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.51%
+Cluster 621055
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	putative acylphosphatase	ABE06520
+fig|1134687.181.peg.1821!!!Acylphosphate!phosphohydrolase!(EC!3.6.1.7)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.82%
+Cluster 3629
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	ATP-dependent helicase	CAV18959
+fig|1134687.181.peg.2957!!!ATP-dependent!helicase!HrpA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.62%
+Cluster 444386
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	putative inner membrane protein	ACF62772
+fig|1134687.181.peg.5621!!!Uncharacterized!outer!membrane!protein!YfaZ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.67%
+Cluster 401804
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	inositol monophosphatase family protein	BAE73625
+fig|1134687.181.peg.3652!!!3'(2'),5'-bisphosphate!nucleotidase!(EC!3.1.3.7)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.45%
+Cluster 507125
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	Resolvase domain protein	ACS86818
+fig|1134687.181.peg.2869!!!DNA!invertase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.20%
+Cluster 68368
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	gamma-glutamyltranspeptidase	CBJ47953
+fig|1134687.181.peg.1723!!!Gamma-glutamyltranspeptidase!(EC!2.3.2.2)!@!Glutathione!hydrolase!(EC!3.4.19.13)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	76.38%
+Cluster 176387
+17409	CP001044	Burkholderia phymatum STM815 chromosome 2, complete sequence.	No	Betaproteobacteria	efflux transporter, RND family, MFP subunit	ACC72641
+fig|1134687.181.peg.3210!!!Multidrug!efflux!system!AcrEF-TolC,!membrane!fusion!component!AcrE!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.25%
+Cluster 67265
+28805	CP001196	Oligotropha carboxidovorans OM5 strain OM5, complete genome.	No	Alphaproteobacteria	glycosyl transferase, family 39	ACI93168
+fig|1134687.181.peg.1804!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.94%
+Cluster 376479
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative pyrroline-5-carboxylate reductase	ACI09537
+fig|1134687.181.peg.4069!!!Pyrroline-5-carboxylate!reductase!(EC!1.5.1.2)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.60%
+Cluster 556921
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	transcriptional repressor NsrR	ACF64326
+fig|1134687.181.peg.3684!!!Nitrite-sensitive!transcriptional!repressor!NsrR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.20%
+Cluster 684128
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881
+fig|1134687.181.peg.635!!!Integration!host!factor!alpha!subunit!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	95.96%
+Cluster 720523
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	putative oxidation of intracellular sulfur	ACN47602
+fig|1134687.181.peg.1796!!!tRNA!5-methylaminomethyl-2-thiouridine!synthase!subunit!TusB!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.62%
+Cluster 560321
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	protozoan/cyanobacterial globin family protein	ACI08671
+fig|1134687.181.peg.5778!!!Cyanoglobin;!Hemoglobin-like!protein!HbN!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	95.62%
+Cluster 274631
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE75288
+fig|1134687.181.peg.3347!!!Protein!involved!in!stability!of!MscS!mechanosensitive!channel!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.51%
+Cluster 482241
+9635	CP000089	Dechloromonas aromatica RCB, complete genome.	No	Betaproteobacteria	Phenylacetic acid degradation protein PaaY	AAZ45144
+fig|1134687.181.peg.2960!!!Phenylacetic!acid!degradation!protein!PaaY!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.11%
+Cluster 630154
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	putative monothiol glutaredoxin ydhD	CBJ81617
+fig|1134687.181.peg.4969!!!Monothiol!glutaredoxin!GrxD!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.61%
+Cluster 355968
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative aromatic ring-opening dioxygenase	CBJ47665
+fig|1134687.181.peg.3438!!!4,5-DOPA!dioxygenase!extradiol!(EC!1.13.11.29),!but!not!physiological!substrate!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.58%
+Cluster 251630
+19393	CP001139	Vibrio fischeri MJ11 chromosome I, complete sequence.	No	Gammaproteobacteria	glutamate 5-kinase	ACH65489
+fig|1134687.181.peg.4755!!!Glutamate!5-kinase!(EC!2.7.2.11)!/!RNA-binding!C-terminal!domain!PUA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.79%
+Cluster 353623
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	short-chain dehydrogenase/reductase SDR	ACS86494
+fig|1134687.181.peg.109!!!Short-chain!dehydrogenase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.23%
+Cluster 260158
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	malate dehydrogenase	ABE09111
+fig|1134687.181.peg.4417!!!Malate!dehydrogenase!(EC!1.1.1.37)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.55%
+Cluster 653414
+40647	FN554766	Escherichia coli 042 complete genome.	Yes	Gammaproteobacteria	transposon Tn21 modulator protein	CBG36916
+fig|1134687.181.peg.5210!!!Tn21!protein!of!unknown!function!Urf2!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	98.91%
+Cluster 307048
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	acetylesterase	ACI07471
+fig|1134687.181.peg.4359!!!Twin-arginine!translocation!pathway!signal!sequence!domain!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.96%
+Cluster 307049
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LysR family	ACI08883
+fig|1134687.181.peg.3620!!!Transcriptional!regulator,!LysR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	93.75%
+Cluster 541713
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15089
+fig|1134687.181.peg.2544!!!L-alanine!exporter!AlaE!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.22%
+Cluster 112569
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	putative enzyme	ABF05182
+fig|1134687.181.peg.4043!!!23S!rRNA!(guanine(1835)-N(2))-methyltransferase!(EC!2.1.1.174)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.48%
+Cluster 369363
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	nitrogen fixation protein NifM	ACI11019
+fig|1134687.181.peg.1223!!!Protein!nifM!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.06%
+Cluster 662778
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	cytochrome O ubiquinol oxidase subunit CyoD	AAS61029
+fig|1134687.181.peg.2129!!!Cytochrome!O!ubiquinol!oxidase!subunit!IV!(EC!1.10.3.-)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.64%
+Cluster 470179
+17827	CP000863	Acinetobacter baumannii ACICU, complete genome.	Yes	Gammaproteobacteria	aminoglycoside 6'-N-acetyl transferase type Ib	ACC55535
+fig|1134687.181.peg.5208!!!Aminoglycoside!N(6')-acetyltransferase!(EC!2.3.1.82)!=>!AAC(6')-Ib-cr!fluoroquinolone-acetylating!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	97.49%
+Cluster 170772
+13888	CP000017	Streptococcus pyogenes MGAS5005, complete genome.	Yes	Lactobacillales	putative transport protein	AAZ52280
+fig|1134687.181.peg.4063!!!PTS!system,!IIC!component,!UlaA-type!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.27%
+Cluster 35586
+32851	CP001233	Vibrio cholerae M66-2 chromosome I, complete sequence.	Yes	Gammaproteobacteria	methionyl-tRNA synthetase	ACP05309
+fig|1134687.181.peg.5436!!!Methionyl-tRNA!synthetase!(EC!6.1.1.10)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.09%
+Cluster 715382
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04136
+fig|1134687.181.peg.4215!!!DsrB!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.87%
+Cluster 46156
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	Beta-galactosidase	ACX88391
+fig|1134687.181.peg.3648!!!beta-galactosidase!(EC!3.2.1.23)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.77%
+Cluster 639552
+30045	CP001368	Escherichia coli O157:H7 str. TW14359, complete genome.	Yes	Gammaproteobacteria	immunity repressor	ACT72670
+fig|1134687.181.peg.370!!!Phage!immunity!repressor!protein!GpC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	76.77%
+Cluster 103279
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24102
+fig|1134687.181.peg.2455!!!Octaprenyl!diphosphate!synthase!(EC!2.5.1.90)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.26%
+Cluster 476485
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	ferritin	AAS61843
+fig|1134687.181.peg.4233!!!Bacterial!non-heme!ferritin!(EC!1.16.3.2)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.45%
+Cluster 365588
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	UgpQ	ADD78878
+fig|1134687.181.peg.1721!!!Glycerophosphoryl!diester!phosphodiesterase!(EC!3.1.4.46)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.54%
+Cluster 394642
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Conserved hypothetical protein	CAO97456
+fig|1134687.181.peg.3278!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.13%
+Cluster 570363
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	nifX protein	ACI07093
+fig|1134687.181.peg.1217!!!Nitrogenase!FeMo-cofactor!carrier!protein!NifX!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.62%
+Cluster 216470
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	porphobilinogen deaminase	AAS63365
+fig|1134687.181.peg.2359!!!Porphobilinogen!deaminase!(EC!2.5.1.61)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	76.42%
+Cluster 598874
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	acid shock protein	CBJ46480
+fig|1134687.181.peg.4861!!!Acid!shock!protein!precursor!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.21%
+Cluster 612524
+32815	FM954972	Vibrio splendidus LGP32 chromosome 1.	No	Gammaproteobacteria	putative 6-pyruvoyl tetrahydrobiopterin synthase	CAV18990
+fig|1134687.181.peg.987!!!6-carboxy-5,6,7,8-tetrahydropterin!synthase!(EC!4.1.2.50)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.00%
+Cluster 475683
+17409	CP001045	Burkholderia phymatum STM815 plasmid pBPHY01, complete sequence.	No	Betaproteobacteria	integrase, catalytic region	ACC75229
+fig|1134687.181.peg.5800!!!Mobile!element!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.05%
+Cluster 673932
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative outer membrane protein N precursor	BAH64158
+fig|1134687.181.peg.4206!!!Inner!membrane!protein!YedR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.67%
+Cluster 321316
+19949	AP010805	Sphingobium japonicum UT26S plasmid pCHQ1 DNA, complete genome.	No	Alphaproteobacteria	possible replication protein A	BAI99140
+fig|1134687.181.peg.4681!!!Plasmid!replication!protein!RepA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	88.06%
+Cluster 392668
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ABJ01271
+fig|1134687.181.peg.2866!!!Putative!SOS!response-associated!peptidase!YedK!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.11%
+Cluster 90542
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	Nif-specific regulatory protein	ACI08848
+fig|1134687.181.peg.1226!!!Nitrogenase!(molybdenum-iron)-specific!transcriptional!regulator!NifA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.98%
+Cluster 6960
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	FtsK	ADD76508
+fig|1134687.181.peg.2701!!!DNA!translocase!FtsK!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.47%
+Cluster 58566
+13954	CP000125	Burkholderia pseudomallei 1710b chromosome II, complete sequence.	Yes	Betaproteobacteria	ubiquinol oxidase family protein	ABA51670
+fig|1134687.181.peg.4989!!!Cytochrome!d!ubiquinol!oxidase!subunit!I!(EC!1.10.3.-)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.74%
+fig|1134687.181.peg.2910!!!Cytochrome!d!ubiquinol!oxidase!subunit!I!(EC!1.10.3.-)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.10%
+Cluster 340978
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	amino acid ABC transporter, periplasmic amino acid-binding protein	ACI10773
+fig|1134687.181.peg.5486!!!ABC!transporter,!substrate-binding!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	93.64%
+Cluster 187110
+31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Yes	Gammaproteobacteria	putative oxidoreductase	CAW28677
+fig|1134687.181.peg.1588!!!Oxidoreductase,!FAD-binding!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	100.00%
+Cluster 48690
+21087	CP001823	Sphaerobacter thermophilus DSM 20745 chromosome 1, complete sequence.	No	Sphaerobacteridae	ATPase associated with various cellular activities AA	ACZ37618
+fig|1134687.181.peg.3128!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.00%
+Cluster 324150
+13121	CP000316	Polaromonas sp. JS666, complete genome.	No	Betaproteobacteria	phosphoglycerate mutase	ABE42842
+fig|1134687.181.peg.6143!!!Phosphoglycerate!mutase!(EC!5.4.2.11)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.00%
+Cluster 104685
+19575	CU234118	Bradyrhizobium sp. ORS278,complete sequence.	No	Alphaproteobacteria	aldehyde dehydrogenase; NAD-linked	CAL75445
+fig|1134687.181.peg.2785!!!Aldehyde!dehydrogenase!B!(EC!1.2.1.22)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	76.83%
+Cluster 304078
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative cysteine synthase B	ACI07778
+fig|1134687.181.peg.166!!!Cysteine!synthase!(EC!2.5.1.47)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.08%
+Cluster 495869
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	transcription termination/antitermination factor NusG	AAZ25723
+fig|1134687.181.peg.4605!!!Transcription!antitermination!protein!NusG!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.27%
+Cluster 266021
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Psp operon transcriptional activator	CAO96684
+fig|1134687.181.peg.208!!!Psp!operon!transcriptional!activator!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.47%
+fig|1134687.181.peg.5170!!!Psp!operon!transcriptional!activator!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.16%
+Cluster 396417
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV15009
+fig|1134687.181.peg.2596!!!Heat!shock!protein!GrpE!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	89.81%
+Cluster 370205
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	ribonuclease III	AAZ27454
+fig|1134687.181.peg.1566!!!Ribonuclease!III!(EC!3.1.26.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.83%
+Cluster 387786
+16800	CT573326	Pseudomonas entomophila str. L48 chromosome,complete sequence.	No	Gammaproteobacteria	ubiquinone biosynthesis methyltransferase	CAK17706
+fig|1134687.181.peg.2389!!!2-methoxy-6-polyprenyl-1,4-benzoquinol!methylase!(EC!2.1.1.201)!@!Demethylmenaquinone!methyltransferase!(EC!2.1.1.163)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.13%
+Cluster 226276
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	unknown	AAU38765
+fig|1134687.181.peg.4184!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.74%
+Cluster 717945
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative cytoplasmic protein	AAX64486
+fig|1134687.181.peg.2231!!!Uncharacterized!S4!RNA-binding-domain!protein!YbcJ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.86%
+Cluster 170041
+28805	CP001196	Oligotropha carboxidovorans OM5 strain OM5, complete genome.	No	Alphaproteobacteria	ornithine decarboxylase	ACI92055
+fig|1134687.181.peg.2705!!!Pyridoxal!5-phosphate!(PLP)-dependent!ornithine!decarboxylase!(EC!4.1.1.17)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.47%
+Cluster 104596
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	putative PAS/PAC sensor protein	ACS84322
+fig|1134687.181.peg.1225!!!PAS/PAC!sensor!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.48%
+Cluster 64677
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI06935
+fig|1134687.181.peg.2001!!!Putative!PQQ!enzyme!repeat!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	95.29%
+Cluster 525576
+13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Yes	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647
+fig|1134687.181.peg.4787!!!LSU!ribosomal!protein!L14p!(L23e)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.80%
+Cluster 434120
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	SeqA family protein	BAH62406
+fig|1134687.181.peg.1381!!!SeqA!protein,!negative!modulator!of!initiation!of!replication!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.21%
+Cluster 265390
+17403	CT573213	Frankia alni str. ACN14A chromosome, complete sequence.	No	Actinobacteridae	Nitrogenase iron protein (Nitrogenase component II) (Nitrogenase Fe protein) (Nitrogenase reductase, Dinitrogenase reductase)	CAJ65436
+fig|1134687.181.peg.1210!!!Nitrogenase!(molybdenum-iron)!reductase!and!maturation!protein!NifH!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.40%
+Cluster 446474
+28711	CP001804	Haliangium ochraceum DSM 14365, complete genome.	No	Deltaproteobacteria	ribosomal protein L5	ACY16492
+fig|1134687.181.peg.4785!!!LSU!ribosomal!protein!L5p!(L11e)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.45%
+Cluster 600139
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACZ76921
+fig|1134687.181.peg.5743!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.99%
+Cluster 282478
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative dienelactone hydrolase	BAH61095
+fig|1134687.181.peg.2386!!!Dienelactone!hydrolase!family!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	89.26%
+Cluster 46938
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	surface antigen (D15)	ACL61537
+fig|1134687.181.peg.4546!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.00%
+Cluster 404057
+16309	AP008232	Sodalis glossinidius str. 'morsitans' DNA, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	BAE74144
+fig|1134687.181.peg.1361!!!GTP!cyclohydrolase!1!type!2!homolog!YbgI!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.28%
+Cluster 757664
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	protein of unknown function UPF0057	ACX88726
+fig|1134687.181.peg.5753!!!UPF0057!membrane!protein!YqaE!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.79%
+Cluster 576799
+18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	No	Betaproteobacteria	heat shock protein Hsp20	ACS61928
+fig|1134687.181.peg.4716!!!molecular!chaperone!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	96.72%
+Cluster 118639
+10690	CP000390	Mesorhizobium sp. BNC1, complete genome.	No	Alphaproteobacteria	magnesium transporter	ABG62480
+fig|1134687.181.peg.2623!!!Mg/Co/Ni!transporter!MgtE,!CBS!domain-containing!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.72%
+Cluster 226653
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative glycerol dehydrogenase	ACI09558
+fig|1134687.181.peg.4197!!!Glycerol!dehydrogenase!(EC!1.1.1.6)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	93.07%
+Cluster 196422
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	nucleotide sugar dehydrogenase	ACT07671
+fig|1134687.181.peg.1250!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.77%
+fig|1134687.181.peg.3706!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.12%
+Cluster 148765
+1430	BA000037	Vibrio vulnificus YJ016 DNA, chromosome I, complete sequence.	Yes	Gammaproteobacteria	queuine/archaeosine tRNA-ribosyltransferase	BAC93510
+fig|1134687.181.peg.2091!!!Queuine!tRNA-ribosyltransferase!(EC!2.4.2.29)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.07%
+Cluster 578491
+20399	CP001656	Paenibacillus sp. JDR-2, complete genome.	No	Bacillales	hypothetical protein	ACT03483
+fig|1134687.181.peg.855!!!Probable!two-component-system!connector!protein!AriR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.22%
+Cluster 286557
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	diadenosine tetraphosphatase	ABF06143
+fig|1134687.181.peg.1075!!!NMN!phosphatase!(EC!3.1.3.5);!Class!B!acid!phosphatase!precursor!(EC!3.1.3.2)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.54%
+Cluster 711939
+16426	CP000362	Roseobacter denitrificans OCh 114, complete genome.	No	Alphaproteobacteria	ribosomal protein L33-related protein	ABG31601
+fig|1134687.181.peg.3173!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.45%
+Cluster 706335
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YfaE	ADD77785
+fig|1134687.181.peg.5634!!!YfaE:!ferredoxin!involved!with!ribonucleotide!reductase!diferric-tyrosyl!radical!(Y*)!cofactor!maintenance!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.10%
+Cluster 611275
+18817	CP001001	Methylobacterium radiotolerans JCM 2831, complete genome.	No	Alphaproteobacteria	conserved hypothetical protein	ACB22743
+fig|1134687.181.peg.4600!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.83%
+Cluster 642063
+28329	CP000934	Cellvibrio japonicus Ueda107, complete genome.	No	Gammaproteobacteria	himD/ihfB	ACE85853
+fig|1134687.181.peg.2677!!!Integration!host!factor!beta!subunit!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.53%
+Cluster 539052
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABE05645
+fig|1134687.181.peg.5328!!!Predicted!chaperone!lipoprotein!YacC,!potentially!involved!in!protein!secretion!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.55%
+Cluster 44395
+28471	CP000966	Klebsiella pneumoniae 342 plasmid pKP91, complete sequence.	No	Gammaproteobacteria	fusaric acid resistance domain protein	ACI12211
+fig|1134687.181.peg.42!!!Tetrapartite!efflux!system,!inner!membrane!component!FusBC-like!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.49%
+Cluster 651509
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU77417
+fig|1134687.181.peg.310!!!Uncharacterized!protein!YeaC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.73%
+Cluster 13099
+28805	CP001196	Oligotropha carboxidovorans OM5 strain OM5, complete genome.	No	Alphaproteobacteria	excinuclease ABC subunit B	ACI94287
+fig|1134687.181.peg.4676!!!Excinuclease!ABC!subunit!B!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.64%
+Cluster 144835
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|1134687.181.peg.3332!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.83%
+Cluster 580467
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	PEP-dependent phosphotransferase enzyme III	ABF03671
+fig|1134687.181.peg.273!!!PTS!system,!N,N'-diacetylchitobiose-specific!IIA!component!(EC!2.7.1.196)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.61%
+fig|1134687.181.peg.912!!!PTS!system,!cellobiose-specific!IIA!component!(EC!2.7.1.205)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.50%
+Cluster 226696
+275	CP000083	Colwellia psychrerythraea 34H, complete genome.	No	Gammaproteobacteria	ribosomal large subunit pseudouridine synthase C	AAZ26427
+fig|1134687.181.peg.447!!!LSU!rRNA!pseudouridine(955/2504/2580)!synthase!(EC!5.4.99.24)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.42%
+Cluster 165368
+19575	CU234118	Bradyrhizobium sp. ORS278,complete sequence.	No	Alphaproteobacteria	putative D-amino-acid dehydrogenase, FAD dependent	CAL77268
+fig|1134687.181.peg.4555!!!D-amino!acid!dehydrogenase!(EC!1.4.99.6)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.71%
+Cluster 288960
+13649	AM039952	Xanthomonas campestris pv. vesicatoria complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	CAJ22217
+fig|1134687.181.peg.694!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.29%
+Cluster 462764
+20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Yes	Gammaproteobacteria	ribulose-phosphate 3-epimerase	ACF66146
+fig|1134687.181.peg.3262!!!Ribulose-phosphate!3-epimerase!(EC!5.1.3.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	95.33%
+Cluster 77438
+13402	CP000629	Agrobacterium radiobacter K84 chromosome 2, complete sequence.	No	Alphaproteobacteria	oligopeptide ABC transporter	ACM30646
+fig|1134687.181.peg.3045!!!ABC!transporter,!substrate-binding!protein!(cluster!5,!nickel/peptides/opines)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.29%
+Cluster 394681
+13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Yes	Gammaproteobacteria	probable bacteriophage integrase	AAV78468
+fig|1134687.181.peg.5964!!!Phage!integrase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.32%
+Cluster 164375
+20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Yes	Gammaproteobacteria	PTS system, galactitol-specific IIC component	ACF67567
+fig|1134687.181.peg.3263!!!PTS!system,!galactitol-specific!IIC!component!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	99.76%
+Cluster 549571
+13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	No	Betaproteobacteria	probable d-tyr-trnatyr deacylase protein	CAD14025
+fig|1134687.181.peg.716!!!D-aminoacyl-tRNA!deacylase!(EC!3.1.1.96)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.45%
+Cluster 408003
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12456
+fig|1134687.181.peg.609!!!UPF0056!inner!membrane!protein!YchE!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.16%
+Cluster 95818
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13923
+fig|1134687.181.peg.2038!!!Two-component!system!sensor!histidine!kinase!KOX_12275!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.06%
+Cluster 113538
+288	AE009952	Yersinia pestis KIM, complete genome.	Yes	Gammaproteobacteria	maltose high-affinity receptor	AAM83627
+fig|1134687.181.peg.1058!!!Maltoporin!(maltose/maltodextrin!high-affinity!receptor,!phage!lambda!receptor!protein)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	76.22%
+Cluster 689575
+241	AE006468	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.	Yes	Gammaproteobacteria	ssrB-regulated factor	AAL21133
+fig|1134687.181.peg.2940!!!Virulence!protein!msgA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.25%
+Cluster 505021
+40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Yes	Gammaproteobacteria	elongation factor Tu	ACX82119
+fig|1134687.181.peg.1800!!!Translation!elongation!factor!Tu!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	100.00%
+fig|1134687.181.peg.5496!!!Translation!elongation!factor!Tu!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	100.00%
+Cluster 93569
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative acyl-CoA synthase	BAH63408
+fig|1134687.181.peg.3249!!!Long-chain-fatty-acid--CoA!ligase!(EC!6.2.1.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	97.49%
+Cluster 347048
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11405
+fig|1134687.181.peg.1543!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.59%
+Cluster 550032
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	4-hydroxyphenylacetate degradative operon repressor	CAR16087
+fig|1134687.181.peg.3585!!!Homoprotocatechuate!degradative!operon!repressor!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.45%
+Cluster 188202
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	2C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	ADB47111
+fig|1134687.181.peg.970!!!2-C-methyl-D-erythritol!2,4-cyclodiphosphate!synthase!(EC!4.6.1.12)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.38%
+Cluster 330880
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	binding-protein-dependent transport systems inner membrane component	ACZ75570
+fig|1134687.181.peg.3109!!!N-Acetyl-D-glucosamine!ABC!transport!system,!permease!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.55%
+Cluster 713960
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893
+fig|1134687.181.peg.2181!!!Haemolysin!expression!modulating!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	95.83%
+Cluster 169567
+13473	CP000319	Nitrobacter hamburgensis X14, complete genome.	No	Alphaproteobacteria	tRNA pseudouridine synthase B	ABE60935
+fig|1134687.181.peg.4496!!!tRNA!pseudouridine(55)!synthase!(EC!5.4.99.25)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.87%
+Cluster 720314
+13649	AM039952	Xanthomonas campestris pv. vesicatoria complete genome.	No	Gammaproteobacteria	acyl carrier protein	CAJ22778
+fig|1134687.181.peg.438!!!Acyl!carrier!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.77%
+Cluster 238578
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	histidine-binding periplasmic protein of high-affinity histidine transport system	AAS62595
+fig|1134687.181.peg.5552!!!Lysine-arginine-ornithine-binding!ABC!transporter,!substrate-binding!protein!ArgT!(TC!3.A.1.3.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.92%
+fig|1134687.181.peg.5553!!!Histidine!ABC!transporter,!substrate-binding!protein!HisJ!(TC!3.A.1.3.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.08%
+Cluster 544636
+16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABF04433
+fig|1134687.181.peg.5618!!!Pyrimidine!deoxynucleoside!triphosphate!(dYTP)!pyrophosphohydrolase!NudI!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.94%
+fig|1134687.181.peg.3893!!!Pyrimidine!deoxynucleoside!triphosphate!(dYTP)!pyrophosphohydrolase!NudI!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.89%
+Cluster 127104
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	UNKNOWN	BAC46907
+fig|1134687.181.peg.3896!!!Mobile!element!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.67%
+Cluster 12335
+241	AE006468	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.	Yes	Gammaproteobacteria	putative hydroxymethyltransferase	AAL18983
+fig|1134687.181.peg.3023!!!Putative!hydroxymethyltransferase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.67%
+Cluster 205429
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	CatD	ADD78513
+fig|1134687.181.peg.4891!!!4-carboxymuconolactone!decarboxylase!(EC!4.1.1.44)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.59%
+Cluster 687158
+16645	CP000308	Yersinia pestis Antiqua, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG13908
+fig|1134687.181.peg.461!!!Biofilm!regulator!BssS!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.53%
+Cluster 469687
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	putative 2-hydroxyhepta-2,4-diene-1,7-dioate isomerase / 5-ca...	CAH20876
+fig|1134687.181.peg.3587!!!5-carboxymethyl-2-oxo-hex-3-!ene-1,7-dioate!decarboxylase!(EC!4.1.1.68)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.33%
+Cluster 532575
+33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAR20340
+fig|1134687.181.peg.2234!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.50%
+Cluster 576329
+20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Yes	Gammaproteobacteria	nickel responsive regulator	ACN47734
+fig|1134687.181.peg.3966!!!Nickel!responsive!regulator!NikR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.58%
+Cluster 161740
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	putative PTS system, galactitol-specific IIC component	ACI07228
+fig|1134687.181.peg.5926!!!PTS!system,!galactitol-specific!IIC!component!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	96.67%
+Cluster 572502
+16235	CP000247	Escherichia coli 536, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABG72534
+fig|1134687.181.peg.4579!!!Propanediol!utilization!polyhedral!body!protein!PduA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.57%
+Cluster 774535
+21	AE017282	Methylococcus capsulatus str. Bath, complete genome.	No	Gammaproteobacteria	cyd operon protein YbgT	AAU92604
+fig|1134687.181.peg.5094!!!Cytochrome!d!ubiquinol!oxidase!subunit!X!(EC!1.10.3.-)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.16%
+Cluster 258694
+13909	CP000712	Pseudomonas putida F1, complete genome.	No	Gammaproteobacteria	endonuclease III	ABQ77294
+fig|1134687.181.peg.4948!!!Endonuclease!III!(EC!4.2.99.18)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.67%
+Cluster 685624
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78044
+fig|1134687.181.peg.2175!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-independent!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.01%
+Cluster 85566
+37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	No	Gammaproteobacteria	Thiamine ABC transport system, inner membrane component	CAY73135
+fig|1134687.181.peg.5259!!!Thiamin!ABC!transporter,!transmembrane!component!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.37%
+Cluster 252981
+21071	CP001189	Gluconacetobacter diazotrophicus PAl 5, complete genome.	No	Alphaproteobacteria	Monosaccharide-transporting ATPase	ACI50632
+fig|1134687.181.peg.3207!!!ABC!transport!system,!permease!protein!Z5690!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.00%
+Cluster 407638
+1421	CP000113	Myxococcus xanthus DK 1622, complete genome.	No	Deltaproteobacteria	conserved hypothetical protein	ABF86283
+fig|1134687.181.peg.2162!!!Protein!of!unknown!function!DUF1428!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.38%
+Cluster 520014
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	conserved uncharacterized protein, putative cytoplasmic protein	CAX54987
+fig|1134687.181.peg.5535!!!Translation!elongation!factor!P!Lys34!hydroxylase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.27%
+Cluster 486931
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	BAH62864
+fig|1134687.181.peg.5674!!!Uncharacterized!protein!YmfL!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	95.88%
+Cluster 529937
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	probable FKBX-type 16KD peptidyl-prolyl cis-trans isomerase	AAS63851
+fig|1134687.181.peg.3032!!!FKBP-type!peptidyl-prolyl!cis-trans!isomerase!SlpA!(EC!5.2.1.8)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.11%
+Cluster 202967
+17343	CP000699	Sphingomonas wittichii RW1, complete genome.	No	Alphaproteobacteria	tRNA synthetase, class II (G, H, P and S)	ABQ71020
+fig|1134687.181.peg.689!!!ATP!phosphoribosyltransferase!regulatory!subunit!(EC!2.4.2.17)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.13%
+Cluster 581919
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	Acid-induced glycyl radical enzyme	AAS62707
+fig|1134687.181.peg.1576!!!Autonomous!glycyl!radical!cofactor!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.31%
+Cluster 746793
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	entericidin B	ABR79901
+fig|1134687.181.peg.1173!!!Entericidin!B!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.50%
+Cluster 551905
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative membrane protein	CBJ48017
+fig|1134687.181.peg.3411!!!putative!membrane!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.05%
+Cluster 267193
+17343	CP000699	Sphingomonas wittichii RW1, complete genome.	No	Alphaproteobacteria	short-chain dehydrogenase/reductase SDR	ABQ66733
+fig|1134687.181.peg.1024!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.17%
+Cluster 443278
+17463	CP001053	Burkholderia phytofirmans PsJN chromosome 2, complete sequence.	No	Betaproteobacteria	nitrile hydratase, alpha subunit	ACD21467
+fig|1134687.181.peg.5776!!!Cobalt-containing!nitrile!hydratase!subunit!alpha!(EC!4.2.1.84)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.81%
+Cluster 450899
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	NifY protein	ACI08440
+fig|1134687.181.peg.1214!!!Nitrogenase!FeMo-cofactor!carrier!protein!NifX!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.27%
+Cluster 353488
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	extracellular solute-binding protein family 3	ACZ76733
+fig|1134687.181.peg.1871!!!ABC!transporter,!substrate-binding!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.74%
+Cluster 334293
+31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Yes	Gammaproteobacteria	DNA replication	ABR80601
+fig|1134687.181.peg.5140!!!Replication!initiation!protein!RepE!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	100.00%
+Cluster 525658
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	YfbU domain protein	ACF63247
+fig|1134687.181.peg.5575!!!UPF0304!protein!yfbU!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.46%
+Cluster 217347
+18743	CP001828	Legionella pneumophila 2300/99 Alcoy, complete genome.	Yes	Gammaproteobacteria	GTPase - translation elongation factor	ADG23624
+fig|1134687.181.peg.5938!!!Translation!elongation!factor!Tu!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.78%
+Cluster 125270
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13534
+fig|1134687.181.peg.5100!!!Uncharacterized!protein!GlmL!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.48%
+Cluster 195971
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAL10587
+fig|1134687.181.peg.4332!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.03%
+Cluster 89270
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX70444
+fig|1134687.181.peg.4633!!!Sensor!protein!of!zinc!sigma-54-dependent!two-component!system!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.88%
+Cluster 430286
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	alkaline protease family protein	ACI11024
+fig|1134687.181.peg.3962!!!Demethylmenaquinone!methyltransferase-like!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.38%
+Cluster 705150
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX21343
+fig|1134687.181.peg.2943!!!Putative!selenium-binding!protein!YdfZ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.66%
+Cluster 435904
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative ribulose-phosphate 3-epimerase	BAH63412
+fig|1134687.181.peg.3245!!!Ribulose-phosphate!3-epimerase!(EC!5.1.3.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.83%
+Cluster 139226
+30839	CP001614	Teredinibacter turnerae T7901, complete genome.	No	Gammaproteobacteria	GTP-binding proten HflX	ACR14113
+fig|1134687.181.peg.3689!!!Ribosome!LSU-associated!GTP-binding!protein!HflX!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.03%
+Cluster 291797
+12636	XXX	Chromohalobacter salexigens DSM 3043	No	Gammaproteobacteria	XXX	
+fig|1134687.181.peg.4692!!!Uricase!(urate!oxidase)!(EC!1.7.3.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.52%
+Cluster 90792
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	histidine ammonia-lyase	ACX90246
+fig|1134687.181.peg.1977!!!Histidine!ammonia-lyase!(EC!4.3.1.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.10%
+Cluster 669854
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	DNA-binding transcriptional activator of maltose metabolism	CAQ90658
+fig|1134687.181.peg.2454!!!Sugar!fermentation!stimulation!protein!B!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.22%
+Cluster 708969
+16721	CP000733	Coxiella burnetii Dugway 5J108-111, complete genome.	Yes	Gammaproteobacteria	SSU ribosomal protein S21P	ABS77864
+fig|1134687.181.peg.3464!!!SSU!ribosomal!protein!S21p!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.56%
+Cluster 726317
+9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Yes	Gammaproteobacteria	putative inner membrane protein	AAX64850
+fig|1134687.181.peg.2672!!!FIG002473:!Protein!YcaR!in!KDO2-Lipid!A!biosynthesis!cluster!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.00%
+Cluster 711819
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAW75045
+fig|1134687.181.peg.3625!!!UPF0060!membrane!protein!YnfA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.22%
+Cluster 501180
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Pal	ADD76355
+fig|1134687.181.peg.5087!!!Tol-Pal!system!peptidoglycan-associated!lipoprotein!PAL!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.06%
+Cluster 84139
+16182	CP000573	Burkholderia pseudomallei 1106a chromosome II, complete sequence.	Yes	Betaproteobacteria	alcohol dehydrogenase, iron-containing	ABN94379
+fig|1134687.181.peg.3417!!!NADPH-dependent!broad!range!aldehyde!dehydrogenase!YqhD!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.89%
+Cluster 442223
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	acetolactate decarboxylase	ABR77487
+fig|1134687.181.peg.6153!!!Alpha-acetolactate!decarboxylase!(EC!4.1.1.5)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	100.00%
+Cluster 200994
+13005	AM286690	Alcanivorax borkumensis SK2, complete genome.	No	Gammaproteobacteria	biotin synthase	CAL17668
+fig|1134687.181.peg.6112!!!Biotin!synthase!(EC!2.8.1.6)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.43%
+Cluster 363520
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	putative carbonic anhydrase	CAX54615
+fig|1134687.181.peg.5332!!!Carbonic!anhydrase,!beta!class!(EC!4.2.1.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.91%
+Cluster 706648
+10695	CP000151	Burkholderia sp. 383 chromosome 1, complete sequence.	Yes	Betaproteobacteria	SpoVT/AbrB-like protein	ABB08388
+fig|1134687.181.peg.5146!!!VapB!protein!(antitoxin!to!VapC)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.16%
+Cluster 345916
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	probable hydroxyacylglutathione hydrolase	AAS62954
+fig|1134687.181.peg.1920!!!Hydroxyacylglutathione!hydrolase!(EC!3.1.2.6)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.16%
+Cluster 663249
+19575	CU234118	Bradyrhizobium sp. ORS278,complete sequence.	No	Alphaproteobacteria	putative transcriptional regulatory protein, ArsR family	CAL74463
+fig|1134687.181.peg.1697!!!Transcriptional!regulator,!ArsR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.93%
+Cluster 390287
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	short-chain dehydrogenase/reductase SDR	ACL59252
+fig|1134687.181.peg.6086!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.49%
+Cluster 548900
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	NADH dehydrogenase I chain A	AAS62571
+fig|1134687.181.peg.5582!!!NADH!ubiquinone!oxidoreductase!chain!A!(EC!1.6.5.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.70%
+Cluster 346002
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	cyclase	AAW75515
+fig|1134687.181.peg.1238!!!Imidazole!glycerol!phosphate!synthase!cyclase!subunit!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.57%
+Cluster 704138
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	4-oxalocrotonate tautomerase	BAH63599
+fig|1134687.181.peg.5049!!!Tautomerase!PptA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.67%
+Cluster 76292
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12778
+fig|1134687.181.peg.4949!!!Di-tripeptide/H+!symporter!DtpA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.93%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|1134687.181.peg.661!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.02%
+Cluster 664489
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	cell division activator	BAH62960
+fig|1134687.181.peg.268!!!Cell!division!activator!CedA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.81%
+Cluster 161967
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI08332
+fig|1134687.181.peg.54!!!Putative!monooxygenase!PA5393!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.40%
+Cluster 169616
+190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Yes	Gammaproteobacteria	putative exported protein	CAL10582
+fig|1134687.181.peg.4326!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.19%
+Cluster 698075
+40647	FN554766	Escherichia coli 042 complete genome.	Yes	Gammaproteobacteria	putative phage-related regulatory protein	CBG37338
+fig|1134687.181.peg.3092!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.11%
+Cluster 127142
+327	CP000076	Pseudomonas fluorescens Pf-5, complete genome.	No	Gammaproteobacteria	major facilitator family transporter	AAY95865
+fig|1134687.181.peg.4858!!!Uncharacterized!MFS-type!transporter!YnfM!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.82%
+Cluster 64005
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	N-acetylmuramoyl-L-alanine amidase	ABV39536
+fig|1134687.181.peg.3693!!!N-acetylmuramoyl-L-alanine!amidase!(EC!3.5.1.28)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.61%
+Cluster 43340
+17409	CP001043	Burkholderia phymatum STM815 chromosome 1, complete sequence.	No	Betaproteobacteria	dihydrolipoamide dehydrogenase	ACC70650
+fig|1134687.181.peg.5314!!!Dihydrolipoamide!dehydrogenase!of!pyruvate!dehydrogenase!complex!(EC!1.8.1.4)!@!Dihydrolipoamide!dehydrogenase!(EC!1.8.1.4)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.67%
+Cluster 23555
+31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Yes	Gammaproteobacteria	probable transcriptional regulator	CAW26368
+fig|1134687.181.peg.3775!!!Transcriptional!regulator,!LuxR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	100.00%
+Cluster 217109
+33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Yes	Gammaproteobacteria	quinone oxidoreductase, NADPH-dependent	CAR20577
+fig|1134687.181.peg.1071!!!Quinone!oxidoreductase!(EC!1.6.5.5)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	89.91%
+Cluster 442548
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	ABC transporter permease protein	CAG75868
+fig|1134687.181.peg.1869!!!ABC!transporter,!permease!protein!(cluster!3,!basic!aa/glutamine/opines)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.82%
+Cluster 325127
+28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Yes	Gammaproteobacteria	sugar fermentation stimulation protein	ACA69734
+fig|1134687.181.peg.5344!!!Sugar!fermentation!stimulation!protein!SfsA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.34%
+Cluster 702345
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YjbJ	ADD75425
+fig|1134687.181.peg.1066!!!UPF0337!protein!YjbJ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.29%
+Cluster 682521
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative regulator	AAS61388
+fig|1134687.181.peg.4166!!!transcriptional!regulatory!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.86%
+Cluster 651012
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	tryptophan-specific transport protein	BAH61624
+fig|1134687.181.peg.3549!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.18%
+Cluster 702342
+31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	No	Gammaproteobacteria	30S ribosomal protein S17	ACX95195
+fig|1134687.181.peg.4788!!!SSU!ribosomal!protein!S17p!(S11e)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.05%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|1134687.181.peg.4667!!!Translation!initiation!factor!1!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.67%
+Cluster 343650
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABM59226
+fig|1134687.181.peg.2704!!!Hydroxymethylpyrimidine!ABC!transporter,!transmembrane!component!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.24%
+Cluster 343653
+13374	CP001103	Alteromonas macleodii 'Deep ecotype', complete genome.	No	Gammaproteobacteria	ribosomal protein L1	ACG65011
+fig|1134687.181.peg.4607!!!LSU!ribosomal!protein!L1p!(L10Ae)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.91%
+Cluster 334828
+359	AE016853	Pseudomonas syringae pv. tomato str. DC3000, complete genome.	No	Gammaproteobacteria	peptide ABC transporter, permease protein	AAO57985
+fig|1134687.181.peg.1289!!!ABC!transporter,!permease!protein!2!(cluster!5,!nickel/peptides/opines)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.46%
+Cluster 735095
+17053	CP000949	Pseudomonas putida W619, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACA73134
+fig|1134687.181.peg.4985!!!Uncharacterized!protein!YmdF!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.85%
+Cluster 91802
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YyaJ	ADD77730
+fig|1134687.181.peg.1968!!!Uncharacterized!MFS-type!transporter!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.65%
+Cluster 137150
+19	AL591985	Sinorhizobium meliloti 1021 plasmid pSymB.	No	Alphaproteobacteria	glutamate-1-semialdehyde 2,1-aminomutase	CAC48667
+fig|1134687.181.peg.5823!!!Aminotransferase,!class!III!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.63%
+Cluster 363542
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	amino acid ABC transporter, periplasmic amino acid-binding protein	ACI08049
+fig|1134687.181.peg.1843!!!Lysine-arginine-ornithine-binding!ABC!transporter,!substrate-binding!protein!ArgT!(TC!3.A.1.3.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.48%
+Cluster 58940
+17459	CP000826	Serratia proteamaculans 568, complete genome.	Yes	Gammaproteobacteria	selenocysteine-specific translation elongation factor	ABV39201
+fig|1134687.181.peg.3133!!!Selenocysteine-specific!translation!elongation!factor!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.25%
+Cluster 587242
+29065	CP001085	Candidatus Riesia pediculicola USDA, complete genome.	No	Gammaproteobacteria	ribosomal protein S11	ADD79935
+fig|1134687.181.peg.4775!!!SSU!ribosomal!protein!S11p!(S14e)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.55%
+Cluster 300855
+386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Yes	Gammaproteobacteria	putative transcriptional regulator	ABJ13452
+fig|1134687.181.peg.4186!!!Transcriptional!regulator,!LysR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.26%
+Cluster 661199
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU78094
+fig|1134687.181.peg.2135!!!Cell!division!protein!BolA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.76%
+Cluster 108488
+17421	CP000852	Caldivirga maquilingensis IC-167, complete genome.	No	Thermoprotei	NADH/Ubiquinone/plastoquinone (complex I)	ABW02108
+fig|1134687.181.peg.4411!!!Oxaloacetate!decarboxylase!Na(+)!pump,!gamma!chain!(EC!4.1.1.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.96%
+Cluster 726414
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR77591
+fig|1134687.181.peg.642!!!Hemin!uptake!protein!HemP/HmuP!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	88.71%
+Cluster 664755
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YiiL	ADD77602
+fig|1134687.181.peg.765!!!L-rhamnose!mutarotase!(EC!5.1.3.32)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.08%
+Cluster 248924
+13649	AM039952	Xanthomonas campestris pv. vesicatoria complete genome.	No	Gammaproteobacteria	transposase	CAJ24028
+fig|1134687.181.peg.4006!!!Mobile!element!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.59%
+Cluster 678991
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX24443
+fig|1134687.181.peg.5190!!!Uncharacterized!lipoprotein!YgdI!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.58%
+Cluster 525163
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative cell envelope integrity inner membrane protein TolA	BAH63461
+fig|1134687.181.peg.537!!!late!embryogenesis!abundant!(LEA)!domain-containing!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.41%
+Cluster 739554
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	small toxic membrane polypeptide	ABR78496
+fig|1134687.181.peg.957!!!HokE!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.00%
+Cluster 424126
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	pili assembly chaperone	ACF65301
+fig|1134687.181.peg.2427!!!Uncharacterized!fimbrial!chaperone!YhcA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.23%
+Cluster 269876
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	AraH	ADD76994
+fig|1134687.181.peg.4242!!!L-arabinose!ABC!transporter,!permease!protein!AraH!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.28%
+Cluster 11782
+19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Yes	Gammaproteobacteria	2021853, complete genome.	ACH77958
+fig|1134687.181.peg.5380!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.69%
+Cluster 523495
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative 50S ribosomal protein L11	BAC17297
+fig|1134687.181.peg.4606!!!LSU!ribosomal!protein!L11p!(L12e)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.27%
+Cluster 111457
+27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Yes	Gammaproteobacteria	amino acid-polyamine-organocation (APC) permease family protein	ACI39648
+fig|1134687.181.peg.1157!!!L-methionine!and!branched-chain!amino!acid!export!protein!YjeH!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	82.34%
+Cluster 512338
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	outer membrane lipoprotein blc	ACR68124
+fig|1134687.181.peg.538!!!Outer!membrane!lipoprotein!Blc!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.14%
+Cluster 257394
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	FecD	ADD77502
+fig|1134687.181.peg.5930!!!ABC!transporter,!permease!protein!(cluster!8,!B12/iron!complex)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	76.42%
+Cluster 662737
+15713	CR954246	Pseudoalteromonas haloplanktis str. TAC125 chromosome I, complete sequence.	No	Gammaproteobacteria	urease beta subunit (Urea amidohydrolase)	CAI86830
+fig|1134687.181.peg.3457!!!Urease!beta!subunit!(EC!3.5.1.5)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.09%
+Cluster 247918
+43757	FN666575	Erwinia amylovora ATCC 49946 chromosomal sequence.	No	Gammaproteobacteria	putative (2Fe-2S) protein	CBJ48014
+fig|1134687.181.peg.1903!!!Vanillate!O-demethylase!oxygenase!subunit!(EC!1.14.13.82)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.83%
+Cluster 2853
+18891	CP001130	Hydrogenobaculum sp. Y04AAS1, complete genome.	No	Aquificales	Glutamate synthase (ferredoxin)	ACG57892
+fig|1134687.181.peg.3894!!!Glutamate!synthase![NADPH]!large!chain!(EC!1.4.1.13)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.67%
+Cluster 516018
+13128	XXX	Photobacterium profundum SS9	No	Gammaproteobacteria	XXX	
+fig|1134687.181.peg.4920!!!Glutathione!peroxidase!(EC!1.11.1.9)!@!Thioredoxin!peroxidase!(EC!1.11.1.15)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.75%
+Cluster 453585
+16259	CP000243	Escherichia coli UTI89, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABE05950
+fig|1134687.181.peg.2113!!!UPF0234!protein!Yitk!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	89.57%
+Cluster 527178
+29177	CP001339	Thioalkalivibrio sp. HL-EbGR7, complete genome.	No	Gammaproteobacteria	peptide deformylase	ACL71294
+fig|1134687.181.peg.4764!!!Peptide!deformylase!(EC!3.5.1.88)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.72%
+Cluster 233056
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative isomerase	ABR76217
+fig|1134687.181.peg.6131!!!6-phosphogluconolactonase!(EC!3.1.1.31)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.54%
+Cluster 698850
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76584
+fig|1134687.181.peg.4236!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.13%
+Cluster 713841
+33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Yes	Gammaproteobacteria	Small toxic polypeptide ldrD (modular protein)	CAQ91001
+fig|1134687.181.peg.3885!!!Small!inner!membrane!protein,!YmgF!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.98%
+Cluster 348679
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69942
+fig|1134687.181.peg.3175!!!UPF0758!protein!YicR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	77.83%
+Cluster 511049
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative ATP-binding protein	ABR79320
+fig|1134687.181.peg.3720!!!BAX!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.37%
+Cluster 513510
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX65938
+fig|1134687.181.peg.3805!!!Acetyltransferase!YpeA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.91%
+Cluster 51925
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76737
+fig|1134687.181.peg.4355!!!Trehalase!(EC!3.2.1.28)!@!Periplasmic!trehalase!(EC!3.2.1.28)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.77%
+Cluster 211607
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	Zinc-containing alcohol dehydrogenase superfamily	AAY37470
+fig|1134687.181.peg.5129!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.05%
+Cluster 595794
+29431	CP001968	Denitrovibrio acetiphilus DSM 12809, complete genome.	No	Deferribacterales	RbsD or FucU transport	ADD68874
+fig|1134687.181.peg.5185!!!L-fucose!mutarotase!(EC!5.1.3.29)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.71%
+Cluster 525595
+33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Yes	Gammaproteobacteria	putative Bifunctional deaminase-reductase, C-terminal from bacteriophage origin	CAR14139
+fig|1134687.181.peg.48!!!Dihydrofolate!reductase!(EC!1.5.1.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.64%
+Cluster 371401
+12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABU76401
+fig|1134687.181.peg.1329!!!Hydroxyethylthiazole!kinase!(EC!2.7.1.50)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.93%
+Cluster 528336
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	acetyltransferase, GNAT family	ACI10794
+fig|1134687.181.peg.4195!!!Acetyltransferase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.94%
+Cluster 10433
+15747	CP000250	Rhodopseudomonas palustris HaA2, complete genome.	No	Alphaproteobacteria	Heavy metal efflux pump CzcA	ABD08255
+fig|1134687.181.peg.1802!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.71%
+Cluster 348116
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	Fe-S cluster assembly protein NifU	ACI07738
+fig|1134687.181.peg.1218!!!Iron-sulfur!cluster!assembly!scaffold!protein!NifU!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.51%
+Cluster 666509
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAV02134
+fig|1134687.181.peg.5444!!!Uncharacterized!proteins!YbdD!and!YjiX!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.77%
+Cluster 53352
+17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	No	Alphaproteobacteria	NodQ bifunctional enzyme	BAC46740
+fig|1134687.181.peg.2622!!!Sulfate!adenylyltransferase!subunit!1!(EC!2.7.7.4)!/!Adenylylsulfate!kinase!(EC!2.7.1.25)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.17%
+Cluster 97407
+13918	CP000459	Burkholderia cenocepacia HI2424 chromosome 2, complete sequence.	Yes	Betaproteobacteria	drug resistance transporter, EmrB/QacA subfamily	ABK11400
+fig|1134687.181.peg.5138!!!Drug!resistance!transporter!EmrB/QacA!subfamily!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.45%
+Cluster 397422
+20931	CP001087	Desulfobacterium autotrophicum HRM2, complete genome.	No	Deltaproteobacteria	CbiQ1	ACN15417
+fig|1134687.181.peg.4717!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.67%
+Cluster 199723
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	putative sugar diacid utilization regulator	ABR77119
+fig|1134687.181.peg.3257!!!Sugar!diacid!utilization!regulator!SdaR!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.81%
+Cluster 343173
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	GarL	ADD78250
+fig|1134687.181.peg.2507!!!2-dehydro-3-deoxyglucarate!aldolase!(EC!4.1.2.20)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	75.78%
+Cluster 981
+40647	FN554766	Escherichia coli 042 complete genome.	Yes	Gammaproteobacteria	non-ribosomal peptide synthase (yersiniabactin siderophore biosynthetic protein)	CBG35039
+fig|1134687.181.peg.5835!!!iron!aquisition!yersiniabactin!synthesis!enzyme!(Irp2)!@!Siderophore!biosynthesis!non-ribosomal!peptide!synthetase!modules!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.60%
+Cluster 495374
+16297	AP008229	Xanthomonas oryzae pv. oryzae MAFF 311018 DNA, complete genome.	No	Gammaproteobacteria	nitroreductase	BAE70778
+fig|1134687.181.peg.504!!!Probable!malonic!semialdehyde!reductase!RutE!(EC!1.1.1.298)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.20%
+Cluster 419223
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	FabA	ABJ00363
+fig|1134687.181.peg.2642!!!3-hydroxyacyl-[acyl-carrier-protein]!dehydratase,!FabA!form!(EC!4.2.1.59)!@!Trans-2-decenoyl-[acyl-carrier-protein]!isomerase!(EC!5.3.3.14)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	95.35%
+Cluster 477734
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	hypothetical protein	ABR75674
+fig|1134687.181.peg.5420!!!D-glycero-beta-D-manno-heptose-1,7-bisphosphate!7-phosphatase!(EC!3.1.3.82)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.49%
+Cluster 150871
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	protein of unknown function DUF444	ACT07063
+fig|1134687.181.peg.317!!!UPF0229!protein!YeaH!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.25%
+fig|1134687.181.peg.3948!!!UPF0229!protein!YeaH!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.67%
+Cluster 691733
+42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Yes	Gammaproteobacteria	Small toxic membrane polypeptide	ADD57923
+fig|1134687.181.peg.4475!!!HokE!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.00%
+Cluster 735693
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative hok/gef cell toxic protein	BAH65700
+fig|1134687.181.peg.3748!!!Toxic!component!of!a!type!I!toxin-antitoxin!system,!HokA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	88.00%
+Cluster 280864
+58	CP000230	Rhodospirillum rubrum ATCC 11170, complete genome.	No	Alphaproteobacteria	UDP-glucose 4-epimerase	ABC22287
+fig|1134687.181.peg.2709!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.57%
+Cluster 261679
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	XylF	ADD75207
+fig|1134687.181.peg.3724!!!D-xylose!ABC!transporter,!substrate-binding!protein!XylF!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.55%
+Cluster 168003
+33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Yes	Gammaproteobacteria	Gene late control D protein	CAU98004
+fig|1134687.181.peg.329!!!Phage!tail!formation!protein!GpD!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.60%
+Cluster 329392
+17187	CP000542	Verminephrobacter eiseniae EF01-2, complete genome.	No	Betaproteobacteria	nitrate ABC transporter,  ATPase subunits C and D	ABM58337
+fig|1134687.181.peg.589!!!Nitrate!ABC!transporter,!ATP-binding!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.60%
+Cluster 638174
+12624	XXX	Proteus mirabilis HI4320	Yes	Gammaproteobacteria	XXX	
+fig|1134687.181.peg.1063!!!Diacylglycerol!kinase!(EC!2.7.1.107)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.57%
+Cluster 455955
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	nitrile hydratase, beta subunit	ACI08036
+fig|1134687.181.peg.5775!!!Cobalt-containing!nitrile!hydratase!subunit!beta!(EC!4.2.1.84)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.79%
+Cluster 492488
+29443	CP001707	Kangiella koreensis DSM 16069, complete genome.	No	Gammaproteobacteria	ribosomal protein L21	ACV27086
+fig|1134687.181.peg.2456!!!LSU!ribosomal!protein!L21p!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.14%
+Cluster 532700
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	Aspartate transcarbamylase regulatory subunit PyrI	CAX54135
+fig|1134687.181.peg.3914!!!Aspartate!carbamoyltransferase!regulatory!chain!(PyrI)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.08%
+Cluster 298919
+17707	CP001124	Geobacter bemidjiensis Bem, complete genome.	No	Deltaproteobacteria	succinyl-CoA synthetase, alpha subunit	ACH38483
+fig|1134687.181.peg.1345!!!Succinyl-CoA!ligase![ADP-forming]!alpha!chain!(EC!6.2.1.5)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.17%
+Cluster 79709
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	Agp	ADD76574
+fig|1134687.181.peg.510!!!Glucose-1-phosphatase!(EC!3.1.3.10)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.20%
+Cluster 321621
+323	CP000075	Pseudomonas syringae pv. syringae B728a, complete genome.	No	Gammaproteobacteria	Carboxymethylenebutenolidase	AAY37573
+fig|1134687.181.peg.3410!!!Dienelactone!hydrolase!family!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.56%
+Cluster 85700
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase	AAS62104
+fig|1134687.181.peg.452!!!Virulence!factor!MviM!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.24%
+fig|1134687.181.peg.453!!!Protein!of!unknown!function!YceH!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.79%
+Cluster 319994
+15751	CP000463	Rhodopseudomonas palustris BisA53, complete genome.	No	Alphaproteobacteria	sulfate adenylyltransferase subunit 2	ABJ05710
+fig|1134687.181.peg.2621!!!Sulfate!adenylyltransferase!subunit!2!(EC!2.7.7.4)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	94.00%
+Cluster 760379
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV12290
+fig|1134687.181.peg.4308!!!PhoP/PhoQ!regulator!MgrB!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.21%
+Cluster 642064
+12931	AE013598	Xanthomonas oryzae pv. oryzae KACC10331, complete genome.	No	Gammaproteobacteria	major cold shock protein	AAW75975
+fig|1134687.181.peg.1885!!!Cold!shock!protein!of!CSP!family!=>!CspB/CspG/CspI!(naming!convention!as!in!E.coli)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.86%
+fig|1134687.181.peg.3750!!!Cold!shock!protein!of!CSP!family!=>!CspA!(naming!convention!as!in!E.coli)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.00%
+Cluster 64542
+32551	AP010948	Azospirillum sp. B510 plasmid pAB510b DNA, complete genome.	No	Alphaproteobacteria	PTS system, glucose-specific IIB component	BAI75163
+fig|1134687.181.peg.431!!!PTS!system,!glucose-specific!IIC!component!/!PTS!system,!glucose-specific!IIB!component!(EC!2.7.1.199)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.68%
+Cluster 394450
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	LexA	ADD75423
+fig|1134687.181.peg.1064!!!SOS-response!repressor!and!protease!LexA!(EC!3.4.21.88)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.15%
+Cluster 251885
+19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Yes	Gammaproteobacteria	tetrathionate reductase complex, subunit C	ACF88938
+fig|1134687.181.peg.5859!!!Tetrathionate!reductase!subunit!C!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	72.06%
+Cluster 713540
+13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX21185
+fig|1134687.181.peg.204!!!Phage!shock!protein!D!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.95%
+fig|1134687.181.peg.5174!!!Phage!shock!protein!D!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.21%
+Cluster 428574
+12950	BX936398	Yersinia pseudotuberculosis IP32953 genome, complete sequence.	Yes	Gammaproteobacteria	conserved hypothetical protein	CAH20743
+fig|1134687.181.peg.130!!!T6SS!secretion!lipoprotein!TssJ!(VasD)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.21%
+Cluster 378311
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	oxidoreductase, short chain dehydrogenase/reductase family	ACI09559
+fig|1134687.181.peg.1845!!!Oxidoreductase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	88.89%
+Cluster 497152
+15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Yes	Gammaproteobacteria	IS1 protein InsB	ACD09517
+fig|1134687.181.peg.5481!!!IS1!protein!InsB!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.00%
+Cluster 463127
+15750	CP000301	Rhodopseudomonas palustris BisB18, complete genome.	No	Alphaproteobacteria	transcriptional regulator, TetR family	ABD86256
+fig|1134687.181.peg.3951!!!Transcriptional!regulator,!AcrR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.27%
+Cluster 683829
+9605	XXX	Photorhabdus luminescens subsp. laumondii TTO1	No	Gammaproteobacteria	XXX	
+fig|1134687.181.peg.4052!!!(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione!isomerase!(EC!5.3.1.32)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.24%
+Cluster 417237
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11641
+fig|1134687.181.peg.5563!!!Probable!glutathione!S-transferase!(EC!2.5.1.18),!YfcF!homolog!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.84%
+Cluster 744375
+31295	CP001655	Dickeya zeae Ech1591, complete genome.	No	Gammaproteobacteria	hypothetical protein	ACT07367
+fig|1134687.181.peg.2912!!!Cytochrome!d!ubiquinol!oxidase!subunit!X!(EC!1.10.3.-)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.85%
+Cluster 91812
+15713	CR954246	Pseudoalteromonas haloplanktis str. TAC125 chromosome I, complete sequence.	No	Gammaproteobacteria	General secretion pathway protein E (Type II traffic warden ATPase)	CAI85336
+fig|1134687.181.peg.5357!!!General!secretion!pathway!protein!E!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.16%
+Cluster 165180
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	amidase, hydantoinase/carbamoylase family	ACS84720
+fig|1134687.181.peg.4703!!!N-carbamoyl-L-amino!acid!hydrolase!(EC!3.5.1.87)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	71.22%
+Cluster 159399
+16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Yes	Gammaproteobacteria	phospholipase, patatin family	ABS49861
+fig|1134687.181.peg.2980!!!Uncharacterized!protein!YjjU!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.87%
+Cluster 430304
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACI08019
+fig|1134687.181.peg.2067!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.78%
+Cluster 144401
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	aminopeptidase B	BAH64649
+fig|1134687.181.peg.1528!!!Peptidase!B!(EC!3.4.11.23)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	93.93%
+Cluster 208642
+313	AE014075	Escherichia coli CFT073, complete genome.	Yes	Gammaproteobacteria	Hypothetical protein ycfS precursor	AAN79857
+fig|1134687.181.peg.417!!!L,D-transpeptidase!=>!YcfS!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.88%
+Cluster 158942
+31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Yes	Gammaproteobacteria	RNA-directed DNA polymerase (Reverse transcriptase)	ABR76615
+fig|1134687.181.peg.5479!!!Retron-type!RNA-directed!DNA!polymerase!(EC!2.7.7.49)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	99.38%
+Cluster 672938
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14100
+fig|1134687.181.peg.4613!!!PTS!system,!IIA!component!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.71%
+Cluster 303848
+43085	CP001875	Pantoea ananatis LMG 20103, complete genome.	No	Gammaproteobacteria	YeiE	ADD77719
+fig|1134687.181.peg.2832!!!Transcriptional!regulator!YeiE,!LysR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.51%
+fig|1134687.181.peg.4128!!!Transcriptional!regulator!YeiE,!LysR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.73%
+Cluster 326516
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	Dihydrodipicolinate synthase	CAO96112
+fig|1134687.181.peg.1481!!!4-hydroxy-tetrahydrodipicolinate!synthase!(EC!4.3.3.7)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.51%
+Cluster 572789
+12994	AP006840	Symbiobacterium thermophilum IAM 14863 DNA, complete genome.	No	Clostridia	ribose 5-phosphate isomerase	BAD41322
+fig|1134687.181.peg.1119!!!D-allose-6-phosphate!isomerase!(EC!5.3.1.-)!@!Ribose-5-phosphate!isomerase!B!(EC!5.3.1.6)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.80%
+Cluster 36881
+32551	AP010948	Azospirillum sp. B510 plasmid pAB510b DNA, complete genome.	No	Alphaproteobacteria	formate dehydrogenase, alpha subunit	BAI75108
+fig|1134687.181.peg.552!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!@!selenocysteine-containing!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.92%
+fig|1134687.181.peg.1111!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!@!selenocysteine-containing!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.90%
+fig|1134687.181.peg.4402!!!Formate!dehydrogenase!H!(EC!1.2.1.2)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.58%
+Cluster 245991
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11805
+fig|1134687.181.peg.2814!!!Gentisate!1,2-dioxygenase!(EC!1.13.11.4)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.54%
+Cluster 25911
+20477	CP001349	Methylobacterium nodulans ORS 2060, complete genome.	No	Alphaproteobacteria	sulfate adenylyltransferase, large subunit	ACL56789
+fig|1134687.181.peg.3199!!!Sulfate-binding!protein!Sbp!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.87%
+Cluster 446033
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV11187
+fig|1134687.181.peg.1606!!!Hexose-phosphate!uptake!two-component!transcriptional!response!regulator!UhpA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	92.89%
+Cluster 432439
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	thiopurine S-methyltransferase family protein	ACI10746
+fig|1134687.181.peg.5884!!!Methyltransferase!type!11!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.37%
+Cluster 501058
+32027	CP001340	Caulobacter crescentus NA1000, complete genome.	No	Alphaproteobacteria	NADH-quinone oxidoreductase chain I	ACL95485
+fig|1134687.181.peg.2412!!!NADH-ubiquinone!oxidoreductase!chain!I!(EC!1.6.5.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.12%
+Cluster 728526
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	4-oxalocrotonate tautomerase family protein	CAO97455
+fig|1134687.181.peg.3279!!!2-hydroxymuconate!tautomerase-like!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	79.73%
+Cluster 114214
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative monooxygenase	AAS63755
+fig|1134687.181.peg.3330!!!2-polyprenylphenol!hydroxylase!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.00%
+Cluster 70028
+15750	CP000301	Rhodopseudomonas palustris BisB18, complete genome.	No	Alphaproteobacteria	ATP dependent DNA ligase	ABD86322
+fig|1134687.181.peg.1191!!!ATP-dependent!DNA!ligase!(EC!6.5.1.1)!LigC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.92%
+Cluster 425568
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	ABC transporter, ATP-binding protein	ACI08962
+fig|1134687.181.peg.5041!!!ABC!transporter,!ATP-binding!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.12%
+Cluster 229143
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative exported protein	CAG74315
+fig|1134687.181.peg.5450!!!5-methylthioribose!ABC!transporter,!substrate-binding!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.75%
+Cluster 252925
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	peptidase, S15 family	ACI10805
+fig|1134687.181.peg.3908!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.82%
+Cluster 736321
+37877	FN392237	Erwinia pyrifoliae DSM 12163 complete plasmid pEP3.	No	Gammaproteobacteria	RNA one modulator	CAY76371
+fig|1134687.181.peg.4405!!!RNA!one!modulator-like!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.66%
+Cluster 162352
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	isocitrate dehydrogenase (NADP)	ABM42459
+fig|1134687.181.peg.388!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.04%
+Cluster 485412
+245	BA000003	Buchnera aphidicola str. APS (Acyrthosiphon pisum) genomic DNA, complete sequence.	No	Gammaproteobacteria	50S ribosomal protein L4	BAB13216
+fig|1134687.181.peg.4796!!!LSU!ribosomal!protein!L4p!(L1e)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.63%
+Cluster 639843
+31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	No	Gammaproteobacteria	nitrite reductase (NAD(P)H), small subunit	ACX89776
+fig|1134687.181.peg.1767!!!Nitrite!reductase![NAD(P)H]!small!subunit!(EC!1.7.1.4)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.89%
+Cluster 669210
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV14200
+fig|1134687.181.peg.733!!!Putative!inner!membrane!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	88.79%
+Cluster 20515
+12513	CP000238	Baumannia cicadellinicola str. Hc (Homalodisca coagulata), complete genome.	No	Gammaproteobacteria	leucyl-tRNA synthetase	ABF13994
+fig|1134687.181.peg.1414!!!Leucyl-tRNA!synthetase!(EC!6.1.1.4)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.33%
+Cluster 397653
+33667	CP001836	Dickeya dadantii Ech586, complete genome.	No	Gammaproteobacteria	transcriptional regulator, LuxR family	ACZ77754
+fig|1134687.181.peg.1292!!!Acyl-homoserine!lactone-binding!transcriptional!activator,!LuxR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.80%
+Cluster 12153
+226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Yes	Gammaproteobacteria	putative oxidoreductase subunit	BAB37833
+fig|1134687.181.peg.3774!!!Cellulose!synthase!operon!protein!C!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	84.21%
+Cluster 614913
+236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Yes	Gammaproteobacteria	XXX	
+fig|1134687.181.peg.3751!!!Transcriptional!regulator!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.04%
+Cluster 128902
+20097	CP001623	Rhizobium leguminosarum bv. trifolii WSM1325 plasmid pR132501, complete sequence.	No	Alphaproteobacteria	Inulin fructotransferase (DFA-I-forming)	ACS58943
+fig|1134687.181.peg.763!!!FIG00985613:!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.86%
+Cluster 525701
+20091	CP001281	Thauera sp. MZ1T, complete genome.	No	Betaproteobacteria	molybdopterin biosynthesis MoaE protein	ACR01125
+fig|1134687.181.peg.6099!!!Molybdopterin!synthase!catalytic!subunit!MoaE!(EC!2.8.1.12)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.67%
+Cluster 588263
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	BAH65205
+fig|1134687.181.peg.3425!!!Protein!ygiW!precursor!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.41%
+Cluster 22343
+283	AE007871	Agrobacterium tumefaciens str. C58 plasmid Ti, complete sequence.	No	Alphaproteobacteria	virA/G regulated protein	AAK90947
+fig|1134687.181.peg.5501!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.90%
+Cluster 303132
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13544
+fig|1134687.181.peg.1341!!!Transcriptional!regulator,!LysR!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	89.33%
+Cluster 95501
+13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	No	Gammaproteobacteria	Cobyric acid synthase	CBJ79977
+fig|1134687.181.peg.4543!!!Cobyric!acid!synthase!(EC!6.3.5.10)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	66.86%
+Cluster 99931
+13402	CP000629	Agrobacterium radiobacter K84 chromosome 2, complete sequence.	No	Alphaproteobacteria	amidase protein	ACM29609
+fig|1134687.181.peg.5777!!!Amidase!clustered!with!urea!ABC!transporter!and!nitrile!hydratase!functions!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.48%
+Cluster 312269
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ABM37724
+fig|1134687.181.peg.2653!!!Alkanesulfonate!ABC!transporter!permease!protein!SsuC!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.88%
+Cluster 220643
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	mandelate racemase/muconate lactonizing enzyme family protein	ACI07850
+fig|1134687.181.peg.1839!!!Muconate!cycloisomerase!(EC!5.5.1.1)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.44%
+Cluster 534402
+27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABX69431
+fig|1134687.181.peg.2467!!!Protein!translocase!membrane!subunit!SecG!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	91.74%
+Cluster 274605
+28805	CP001196	Oligotropha carboxidovorans OM5 strain OM5, complete genome.	No	Alphaproteobacteria	type II secretion system protein	ACI94527
+fig|1134687.181.peg.1473!!!Type!II/IV!secretion!system!protein!TadC,!associated!with!Flp!pilus!assembly!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	81.97%
+Cluster 693455
+33069	CP001654	Dickeya dadantii Ech703, complete genome.	No	Gammaproteobacteria	cell division topological specificity factor MinE	ACS85798
+fig|1134687.181.peg.4339!!!Cell!division!topological!specificity!factor!MinE!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	85.39%
+Cluster 182374
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	predicted transporter	BAI28208
+fig|1134687.181.peg.3765!!!Putative!resistance!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	87.25%
+Cluster 368550
+16718	CP000468	Escherichia coli APEC O1, complete genome.	No	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741
+fig|1134687.181.peg.3671!!!3-keto-L-gulonate-6-phosphate!decarboxylase!UlaD!(EC!4.1.1.85)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	93.06%
+Cluster 236475
+310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Yes	Gammaproteobacteria	putative amino acid/amine transport protein	AAN43033
+fig|1134687.181.peg.2707!!!2-nitroimidazole!transporter!NimT!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	74.70%
+Cluster 45638
+12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Yes	Gammaproteobacteria	hypothetical protein	ABV13290
+fig|1134687.181.peg.2683!!!Ribosomal!protein!S12p!methylthiotransferase!accessory!factor!YcaO!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	90.96%
+Cluster 541163
+28471	CP000964	Klebsiella pneumoniae 342, complete genome.	No	Gammaproteobacteria	nitrogen fixation protein NifQ	ACI11789
+fig|1134687.181.peg.1228!!!Nitrogenase!FeMo-cofactor!synthesis!molybdenum!delivery!protein!NifQ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	73.05%
+Cluster 511321
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	SufE protein probably involved in Fe-S center assembly	AAS62393
+fig|1134687.181.peg.665!!!Sulfur!acceptor!protein!=>!iron-sulfur!cluster!assembly!SufE!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	69.57%
+Cluster 351220
+65	AE001825	Deinococcus radiodurans R1 chromosome 2, complete sequence.	No	Deinococci	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	AAF12475
+fig|1134687.181.peg.3593!!!2,4-dihydroxyhept-2-ene-1,7-dioic!acid!aldolase!(EC!4.1.2.52)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	67.30%
+Cluster 753586
+18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Yes	Gammaproteobacteria	putative entericidin A	ACF64622
+fig|1134687.181.peg.1172!!!Entericidin!A!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	62.79%
+Cluster 369470
+250	CP000352	Cupriavidus metallidurans CH34, complete genome.	No	Betaproteobacteria	probable 2-keto-4-pentenoate hydratase / 2-oxohepta-3-ene-1,7-dioic acid hydratase (Catechol pathway) oxidoreductase protein	ABF07165
+fig|1134687.181.peg.2813!!!3-fumarylpyruvate!hydrolase!(EC!3.7.1.20)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	63.36%
+Cluster 669352
+10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Yes	Gammaproteobacteria	putative membrane protein	AAS61209
+fig|1134687.181.peg.652!!!UPF0410!protein!YeaQ!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	86.59%
+Cluster 587149
+32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Yes	Gammaproteobacteria	acetylase for 30S ribosomal subunit protein S18	BAI28698
+fig|1134687.181.peg.2975!!!Ribosomal-protein-S18p-alanine!acetyltransferase!(EC!2.3.1.128)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	83.78%
+Cluster 366490
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	glucokinase regulatory-like protein	ACU05971
+fig|1134687.181.peg.2962!!!N-acetylmuramic!acid!6-phosphate!etherase!(EC!4.2.1.126)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.43%
+Cluster 607032
+13068	AE016827	Mannheimia succiniciproducens MBEL55E, complete genome.	No	Gammaproteobacteria	unknown	AAU38767
+fig|1134687.181.peg.5766!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.98%
+Cluster 23296
+285	AE009442	Xylella fastidiosa Temecula1, complete genome.	No	Gammaproteobacteria	ATP-dependent serine proteinase La	AAO28351
+fig|1134687.181.peg.2139!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	65.05%
+Cluster 681684
+36507	CP001585	Yersinia pestis D106004, complete genome.	Yes	Gammaproteobacteria	ATP-dependent protease La	ACY59672
+fig|1134687.181.peg.4062!!!ATP-dependent!protease!La!(EC!3.4.21.53)!Type!I!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	93.15%
+Cluster 210914
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	putative periplasmic binding protein/LacI transcriptional regulator	BAH62330
+fig|1134687.181.peg.1459!!!Transcriptional!regulator,!LacI!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	80.73%
+Cluster 627107
+13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Yes	Gammaproteobacteria	conserved hypothetical protein	ABB63363
+fig|1134687.181.peg.1911!!!Phospholipid!ABC!transporter-binding!protein!MlaB!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	60.87%
+Cluster 604531
+34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	ACR68071
+fig|1134687.181.peg.5406!!!Uncharacterized!protein!YaeR!with!similarity!to!glyoxylase!family!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	70.54%
+Cluster 542068
+21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Yes	Gammaproteobacteria	fimbrial protein	BAH61458
+fig|1134687.181.peg.4734!!!hypothetical!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.24%
+Cluster 327641
+350	BX950851	Erwinia carotovora subsp. atroseptica SCRI1043, complete genome.	No	Gammaproteobacteria	putative DnaJ-like heat shock protein	CAG76753
+fig|1134687.181.peg.5242!!!DnaJ-like!protein!DjlA!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	61.82%
+Cluster 458181
+20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	No	Gammaproteobacteria	HAD-superfamily hydrolase, subfamily IB	CAO97454
+fig|1134687.181.peg.3280!!!Phosphoserine!phosphatase!(EC!3.1.3.3)!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	68.98%
+Cluster 193760
+15749	CP000283	Rhodopseudomonas palustris BisB5, complete genome.	No	Alphaproteobacteria	Patatin	ABE40494
+fig|1134687.181.peg.1335!!!FIG00613342:!Bacterial!patatin-like!phospholipase!domain!containing!protein!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	64.20%
+Cluster 703025
+11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Yes	Gammaproteobacteria	50S ribosomal protein L35	AAX88440
+fig|1134687.181.peg.631!!!LSU!ribosomal!protein!L35p!!![Klebsiella!michiganensis!strain!AS012446!|!1134687.181]	78.46%

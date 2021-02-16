@@ -1,0 +1,1469 @@
+Cluster 104568
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42181
+fig|328812.119.peg.1359|GKD78_00275!!!COG1649!predicted!glycoside!hydrolase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.89%
+Cluster 103174
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43530
+fig|328812.119.peg.4309|GKD78_23745!!!Outer!membrane!efflux!protein!precursor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.87%
+Cluster 247569
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical membrane protein	CAH08389
+fig|328812.119.peg.3227|GKD78_20810!!!Terminal!quinol!oxidase,!subunit,!putative!(doxD-like)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.19%
+Cluster 191836
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative transmembrane transport protein	ABR43765
+fig|328812.119.peg.514|GKD78_10410!!!Major!facilitator!family!transporter!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	81.07%
+Cluster 33690
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative TonB-dependent outer membrane receptor protein	ABR42183
+fig|328812.119.peg.1361|GKD78_00285!!!TonB-dependent!outer!membrane!receptor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	86.68%
+Cluster 91765
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	UDP-glucose 6-dehydrogenase	BAG33762
+fig|328812.119.peg.4074|GKD78_03915!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.30%
+Cluster 91766
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	sugar dehydrogenase, UDP-glucose/GDP-mannose dehydrogenase family	AAQ66250
+fig|328812.119.peg.923|GKD78_12335!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	60.73%
+Cluster 103795
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative outer membrane protein TolC	ABR45136
+fig|328812.119.peg.2329|GKD78_17665!!!outer!membrane!protein!TolC,!putative!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.25%
+Cluster 479679
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	electron transport complex, protein RnfG	ABR42289
+fig|328812.119.peg.1809|GKD78_15190!!!Electron!transport!complex!protein!RnfG!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.11%
+Cluster 187765
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative ABC transporter permease protein	ABR44143
+fig|328812.119.peg.4927|GKD78_05620!!!Phosphate!ABC!transporter,!permease!protein!PstC!(TC!3.A.1.7.1)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.05%
+Cluster 714581
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAG33559
+fig|328812.119.peg.4661|GKD78_05130!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.67%
+Cluster 144161
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	rteB, two-component system response regulator	ABR42415
+fig|328812.119.peg.3277|GKD78_21055!!!RteB,!two-component!system!response!regulator!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	81.55%
+Cluster 144167
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative two-component system sensor histidine kinase	ABR43144
+fig|328812.119.peg.706|GKD78_11315!!!Two-component!system!sensor!histidine!kinase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.37%
+Cluster 526182
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42965
+fig|328812.119.peg.954|GKD78_12490!!!Arginine!decarboxylase!(EC!4.1.1.19)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	96.65%
+Cluster 250106
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	L-rhamnose/H+ symporter	ABR43081
+fig|328812.119.peg.873|GKD78_12095!!!L-rhamnose-proton!symporter!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	85.29%
+Cluster 30231
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	beta-hexosaminidase precursor	BAD49990
+fig|328812.119.peg.2751|GKD78_18590!!!beta-glycosyl!hydrolase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	60.05%
+Cluster 319474
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative transporter	ABR41484
+fig|328812.119.peg.3866|GKD78_22630!!!Uncharacterized!membrane-anchored!protein,!YitT!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.72%
+Cluster 488463
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative RNA polymerase ECF-type sigma factor	CAH06710
+fig|328812.119.peg.1307|GKD78_00035!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.86%
+Cluster 154607
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43527
+fig|328812.119.peg.5477|GKD78_07640!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.54%
+Cluster 546295
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44413
+fig|328812.119.peg.1172|GKD78_13575!!!FIG00898413:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.86%
+Cluster 523531
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH06940
+fig|328812.119.peg.5495|GKD78_26335!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.64%
+Cluster 126665
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	aldo/keto reductase	BAD51036
+fig|328812.119.peg.3077|GKD78_20110!!!Fe-S!oxidoreductase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	81.26%
+Cluster 259247
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative dehydratase	BAD48595
+fig|328812.119.peg.2961|GKD78_19565!!!UDP-glucose!4-epimerase!(EC!5.1.3.2)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.46%
+Cluster 16185
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative beta-galactosidase	BAD47686
+fig|328812.119.peg.586|GKD78_10755!!!beta-galactosidase!(EC!3.2.1.23)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.14%
+Cluster 111942
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43845
+fig|328812.119.peg.3844|GKD78_22525!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.95%
+Cluster 312431
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	possible phosphodiesterase/nucleotide pyrophosphatase-like protein	ABR38289
+fig|328812.119.peg.5102|GKD78_25770!!!Alkaline!phosphodiesterase!I!(EC!3.1.4.1)!/!Nucleotide!pyrophosphatase!(EC!3.6.1.9)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.00%
+Cluster 444395
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42178
+fig|328812.119.peg.1357|GKD78_00265!!!Outer!membrane!lipoprotein!carrier!protein!LolA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.77%
+Cluster 145636
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	DNA-damage-inducible protein F	BAD47445
+fig|328812.119.peg.577|GKD78_10710!!!DNA-damage-inducible!protein!F!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.53%
+Cluster 392480
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43113
+fig|328812.119.peg.5464|GKD78_07585!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.80%
+Cluster 221505
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	undecaprenyl-phosphate alpha-N-acetylglucosaminyltransferase	BAD50408
+fig|328812.119.peg.1603|GKD78_14235!!!Undecaprenyl-phosphate!alpha-N-acetylglucosaminyl!1-phosphate!transferase!(EC!2.7.8.33)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.36%
+Cluster 226804
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45447
+fig|328812.119.peg.2244|GKD78_17285!!!putative!DNA!mismatch!repair!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	79.27%
+Cluster 177955
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD49831
+fig|328812.119.peg.5415|GKD78_07355!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.32%
+Cluster 390771
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42987
+fig|328812.119.peg.3621|GKD78_21465!!!UPF0246!protein!YaaA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.90%
+Cluster 198036
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD47442
+fig|328812.119.peg.1019|GKD78_12800!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.12%
+Cluster 453355
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45230
+fig|328812.119.peg.2127|GKD78_16745!!!Thiamin!pyrophosphokinase!(EC!2.7.6.2)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.14%
+Cluster 566485
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	thioredoxin	ABR43460
+fig|328812.119.peg.4813|GKD78_25275!!!Thioredoxin!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.97%
+Cluster 147701
+29381	CP001338	Candidatus Methanosphaerula palustris E1-9c, complete genome.	No	Methanomicrobia	putative ATP/GTP binding protein	ACL15469
+fig|328812.119.peg.869!!!Retron-type!RNA-directed!DNA!polymerase!(EC!2.7.7.49)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.67%
+Cluster 128989
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	Xaa-Pro aminopeptidase	ABR42861
+fig|328812.119.peg.5248|GKD78_06820!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	95.19%
+Cluster 495094
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44162
+fig|328812.119.peg.4896|GKD78_05460!!!FIG01269488:!protein,!clustered!with!ribosomal!protein!L32p!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.54%
+Cluster 495090
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	ATP synthase subunit E	ABR42595
+fig|328812.119.peg.95|GKD78_08640!!!V-type!ATP!synthase!subunit!E!(EC!3.6.3.14)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.57%
+Cluster 652638
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42792
+fig|328812.119.peg.38|GKD78_08385!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.52%
+Cluster 634540
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45433
+fig|328812.119.peg.2264|GKD78_17350!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.80%
+Cluster 128987
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein found in conjugate transposon	CAH06954
+fig|328812.119.peg.4|GKD78_26480!!!Conjugative!transposon!protein!TraM!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.67%
+fig|328812.119.peg.6|GKD78_26490!!!Conjugative!transposon!protein!TraM!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.74%
+Cluster 16384
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	glycoside hydrolase family 92	ABR38456
+fig|328812.119.peg.2458|GKD78_01470!!!Putative!alpha-1,2-mannosidase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.87%
+Cluster 319918
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	dTDP-4-dehydrorhamnose reductase	BAD48942
+fig|328812.119.peg.3487|GKD78_03160!!!dTDP-4-dehydrorhamnose!reductase!(EC!1.1.1.133)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.73%
+Cluster 299305
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39639
+fig|328812.119.peg.5379|GKD78_07185!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.92%
+Cluster 8891
+12749	CP001108	Prosthecochloris aestuarii DSM 271, complete genome.	No	Chlorobia	methylmalonyl-CoA mutase, large subunit	ACF45920
+fig|328812.119.peg.2043|GKD78_16340!!!Methylmalonyl-CoA!mutase!large!subunit,!MutB!(EC!5.4.99.2)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.55%
+Cluster 304687
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	probable N-acetylneuraminate lyase	ABR44649
+fig|328812.119.peg.2638|GKD78_02300!!!N-acetylneuraminate!lyase!(EC!4.1.3.3)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	90.49%
+Cluster 624045
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44284
+fig|328812.119.peg.3561|GKD78_03510!!!UPF0102!protein!YraN!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.21%
+Cluster 382700
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41894
+fig|328812.119.peg.599|GKD78_10805!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.17%
+Cluster 308304
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	transposase in mobilizable transposon, tnpA protein	ABR43854
+fig|328812.119.peg.3853|GKD78_22570!!!Transposase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.67%
+Cluster 66409
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	two-component system sensor histidine kinase	ABR42577
+fig|328812.119.peg.1938|GKD78_15820!!!Phosphate!regulon!sensor!protein!PhoR!(SphS)!(EC!2.7.13.3)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	86.56%
+Cluster 178206
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative membrane protein	CAH08230
+fig|328812.119.peg.410|GKD78_09915!!!Efflux!ABC!transporter,!permease!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.93%
+Cluster 380411
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon	BAD48111
+fig|328812.119.peg.186|GKD78_26610!!!Conjugative!transposon!protein!TraA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	98.02%
+fig|328812.119.peg.192|GKD78_26640!!!Conjugative!transposon!protein!TraA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	98.51%
+fig|328812.119.peg.340!!!Conjugative!transposon!protein!TraA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.33%
+Cluster 189166
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43359
+fig|328812.119.peg.651|GKD78_11050!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.54%
+Cluster 733409
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44031
+fig|328812.119.peg.2048|GKD78_16360!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.97%
+Cluster 177137
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative macrolide efflux pump	ABR42236
+fig|328812.119.peg.558|GKD78_10625!!!Uncharacterized!MFS-type!transporter!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.05%
+Cluster 62397
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein BatD	ABR42719
+fig|328812.119.peg.158|GKD78_08930!!!Aerotolerance!protein!BatD!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.26%
+Cluster 100005
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	N-acetylgalactosamine-6-sulfatase precursor	BAD49999
+fig|328812.119.peg.4569|GKD78_04710!!!Arylsulfatase!(EC!3.1.6.1)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.80%
+Cluster 124636
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	outer membrane efflux protein	ABR42123
+fig|328812.119.peg.454|GKD78_10120!!!Efflux!transport!system,!outer!membrane!factor!(OMF)!lipoprotein!BT_2688!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.81%
+Cluster 219239
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42567
+fig|328812.119.peg.3665|GKD78_21670!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	83.92%
+Cluster 109633
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative ABC transporter ATP-binding protein	BAD49379
+fig|328812.119.peg.975|GKD78_12595!!!Efflux!ABC!transporter,!ATP-binding!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.23%
+Cluster 291974
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	mobilization protein MocA/BmgA	ABR41286
+fig|328812.119.peg.1087|GKD78_13155!!!Mobilization!protein!BmgA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	87.86%
+Cluster 421707
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	hypothetical protein	ABR39269
+fig|328812.119.peg.3986|GKD78_23215!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.10%
+Cluster 145676
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	ribosomal protein S12 methylthiotransferase RimO	ADE83132
+fig|328812.119.peg.149|GKD78_08885!!!Ribosomal!protein!S12p!Asp88!(E.!coli)!methylthiotransferase!(EC!2.8.4.4)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.12%
+Cluster 113698
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative polysaccharide transporter/flippase	CAH07261
+fig|328812.119.peg.2973|GKD78_19620!!!Lipopolysaccharide!biosynthesis!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.74%
+Cluster 9925
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative cation efflux transporter	BAD50882
+fig|328812.119.peg.456|GKD78_10130!!!RND!efflux!system,!inner!membrane!transporter!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.38%
+Cluster 759951
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH09520
+fig|328812.119.peg.1193|GKD78_13665!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	87.04%
+fig|328812.119.peg.2807|GKD78_18845!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	83.33%
+Cluster 67431
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative outer membrane protein probably involved in nutrient binding	BAD47695
+fig|328812.119.peg.4554|GKD78_04635!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.77%
+Cluster 570970
+16252	CP000240	Synechococcus sp. JA-2-3B'a(2-13), complete genome.	No	Chroococcales	ribosomal protein L16	ABD03534
+fig|328812.119.peg.5022|GKD78_06095!!!LSU!ribosomal!protein!L16p!(L10e)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	60.42%
+Cluster 158353
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	two-component system sensor histidine kinase	ABR43666
+fig|328812.119.peg.1478|GKD78_00870!!!Phosphate!regulon!sensor!protein!PhoR!(SphS)!(EC!2.7.13.3)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.85%
+Cluster 231144
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47809
+fig|328812.119.peg.1301|GKD78_00005!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.09%
+Cluster 246430
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	histidinol-phosphate aminotransferase	ABR42736
+fig|328812.119.peg.5299|GKD78_07055!!!Histidinol-phosphate!aminotransferase!(EC!2.6.1.9)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.05%
+Cluster 710843
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAG34197
+fig|328812.119.peg.2839|GKD78_18995!!!FIG00935798:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	97.26%
+Cluster 500579
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43133
+fig|328812.119.peg.779|GKD78_11645!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.08%
+Cluster 480364
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative haloacid dehalogenase-like hydrolase	ABR43396
+fig|328812.119.peg.5582|GKD78_07985!!!Haloacid!dehalogenase-like!hydrolase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.16%
+Cluster 406138
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein BatC	ABR42718
+fig|328812.119.peg.157|GKD78_08925!!!Aerotolerance!protein!BatC!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.47%
+Cluster 614216
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative general stress protein	ABR38340
+fig|328812.119.peg.3719|GKD78_21920!!!putative!general!stress!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.48%
+Cluster 155164
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44559
+fig|328812.119.peg.4135|GKD78_04205!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.47%
+Cluster 256134
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44302
+fig|328812.119.peg.3546|GKD78_03435!!!putative!dolichol-P-glucose!synthetase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.48%
+Cluster 91000
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	voltage-gated chloride channel protein	BAD47990
+fig|328812.119.peg.1923|GKD78_15750!!!Voltage-gated!H(+)/2Cl(-)!exchange!transporter!ClcA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.60%
+Cluster 241067
+17641	CP000609	Methanococcus maripaludis C5, complete genome.	No	Methanococci	arsenical-resistance protein	ABO35452
+fig|328812.119.peg.1705|GKD78_14705!!!Arsenical-resistance!protein!ACR3!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.07%
+Cluster 354216
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative oxidoreductase	ABR43905
+fig|328812.119.peg.221|GKD78_09125!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.82%
+Cluster 167604
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative aminotransferase	ABR45339
+fig|328812.119.peg.822|GKD78_11855!!!4-keto-6-deoxy-N-Acetyl-D-hexosaminyl-(Lipid!carrier)!aminotransferase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.74%
+Cluster 508791
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	conserved hypothetical protein	ADE81688
+fig|328812.119.peg.1169|GKD78_13560!!!FIG00897221:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.19%
+Cluster 408045
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative transcriptional regulator	BAD50430
+fig|328812.119.peg.2825|GKD78_18930!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	88.98%
+Cluster 367937
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	putative undecaprenol kinase	ADE82252
+fig|328812.119.peg.4951|GKD78_05740!!!Undecaprenyl-diphosphatase!(EC!3.6.1.27)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.80%
+Cluster 9769
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative outer membrane protein probably involved in nutrient binding	ABR42276
+fig|328812.119.peg.5448|GKD78_07515!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.17%
+Cluster 41942
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	polyphosphate kinase	ABR43920
+fig|328812.119.peg.2168|GKD78_16935!!!Polyphosphate!kinase!(EC!2.7.4.1)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	85.20%
+Cluster 78829
+13067	AP006842	Bacteroides fragilis YCH46 plasmid pBFY46 DNA, complete sequence.	Yes	Bacteroidia	transposase	BAD51330
+fig|328812.119.peg.21|GKD78_26555!!!ISNCY!family!transposase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	85.51%
+Cluster 65762
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44152
+fig|328812.119.peg.4905|GKD78_05510!!!Neuraminidase!NanP!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	82.36%
+Cluster 83665
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative liporotein	CAH09428
+fig|328812.119.peg.2584|GKD78_02060!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.57%
+Cluster 148915
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43211
+fig|328812.119.peg.3112|GKD78_20280!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.36%
+Cluster 145484
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43194
+fig|328812.119.peg.777|GKD78_11635!!!Amidase!enhancer!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.95%
+Cluster 544394
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43538
+fig|328812.119.peg.5078|GKD78_06370!!!Cytochrome!c-type!biogenesis!protein!ResA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.00%
+Cluster 352711
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45105
+fig|328812.119.peg.4629|GKD78_04980!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.90%
+Cluster 13681
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43328
+fig|328812.119.peg.2989|GKD78_19700!!!L-fucose!kinase!(EC!2.7.1.52)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.41%
+Cluster 41426
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	beta-galactosidase	BAD47129
+fig|328812.119.peg.3048|GKD78_19980!!!beta-galactosidase!(EC!3.2.1.23)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.42%
+Cluster 392036
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative two-component response regulator autolysis regulator LytR	CAH09777
+fig|328812.119.peg.3079|GKD78_20120!!!Two-component!transcriptional!response!regulator,!LuxR!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	79.60%
+Cluster 373106
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	cytochrome c biogenesis protein ccsA	ABR41906
+fig|328812.119.peg.611|GKD78_10855!!!Cytochrome!c!biogenesis!protein!ccsA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.27%
+Cluster 180162
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43287
+fig|328812.119.peg.409|GKD78_09910!!!Efflux!ABC!transporter,!permease!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.83%
+Cluster 180164
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	hexokinase type III	ABR43011
+fig|328812.119.peg.3482|GKD78_03135!!!Hexokinase!(EC!2.7.1.1)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.87%
+Cluster 180166
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative Na+/H+ exchange protein	ABR42695
+fig|328812.119.peg.2760|GKD78_18635!!!Putative!Na+/H+!exchange!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.50%
+Cluster 194979
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein with a conserved domain	ABR43102
+fig|328812.119.peg.348!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.63%
+Cluster 489906
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	hypothetical protein	ABR39273
+fig|328812.119.peg.3990|GKD78_23235!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.05%
+Cluster 51933
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39811
+fig|328812.119.peg.5136|GKD78_25930!!!Chromosome!(plasmid)!partitioning!protein!ParB!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	95.65%
+Cluster 479710
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative transcriptional regulator	BAD48142
+fig|328812.119.peg.1964|GKD78_15945!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	93.63%
+Cluster 339555
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	TonB-like protein	ABR43303
+fig|328812.119.peg.427|GKD78_09985!!!putative!TonB-dependent!receptor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.53%
+Cluster 307639
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47131
+fig|328812.119.peg.5483|GKD78_07670!!!Alkaline!phosphodiesterase!I!(EC!3.1.4.1)!/!Nucleotide!pyrophosphatase!(EC!3.6.1.9)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.00%
+fig|328812.119.peg.5093|GKD78_25725!!!Alkaline!phosphodiesterase!I!(EC!3.1.4.1)!/!Nucleotide!pyrophosphatase!(EC!3.6.1.9)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.38%
+Cluster 194718
+18637	CP000908	Methylobacterium extorquens PA1, complete genome.	No	Alphaproteobacteria	aldo/keto reductase	ABY32224
+fig|328812.119.peg.5625|GKD78_08190!!!Aldo/keto!reductase,!SMc04056!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.21%
+Cluster 539375
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	aspartate 1-decarboxylase	ABX73369
+fig|328812.119.peg.1045|GKD78_12940!!!Aspartate!1-decarboxylase!(EC!4.1.1.11)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.79%
+Cluster 58475
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44404
+fig|328812.119.peg.1186|GKD78_13640!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.84%
+Cluster 28774
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	glycoside hydrolase family 20, candidate beta-N-acetylhexosaminidase	ABR43032
+fig|328812.119.peg.3887|GKD78_22735!!!beta-glycosyl!hydrolase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.24%
+Cluster 28772
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	2,6-beta-D-fructofuranosidase	BAD50087
+fig|328812.119.peg.3571|GKD78_03555!!!TonB-dependent!receptor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.21%
+Cluster 16901
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	two-component system sensor kinase/response regulator, hybrid	ABR43240
+fig|328812.119.peg.5469|GKD78_07605!!!Periplasmic!ligand-binding!sensor!domain!COG3292!/!BaeS-type!histidine!kinase!/!OmpR-type!DNA-binding!response!regulator!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.74%
+Cluster 250795
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative membrane fusion protein transporter	ABR42122
+fig|328812.119.peg.455|GKD78_10125!!!RND!efflux!system,!membrane!fusion!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.59%
+Cluster 398171
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative biotin-(acetyl-CoA carboxylase) synthetase	ABR44282
+fig|328812.119.peg.3563|GKD78_03520!!!Biotin--protein!ligase!(EC!6.3.4.9)(EC!6.3.4.10)(EC!6.3.4.11)(EC!6.3.4.15)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.60%
+Cluster 196187
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved protein, with a weak D-galactarate dehydratase/altronate hydrolase domain	ABR37885
+fig|328812.119.peg.4333|GKD78_23860!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.16%
+Cluster 482505
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative RNA polymerase ECF-type sigma factor	ABR38105
+fig|328812.119.peg.2111|GKD78_16670!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.17%
+Cluster 482504
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	transcriptional regulator	ABR44316
+fig|328812.119.peg.2925|GKD78_19390!!!Transcriptional!regulator!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.26%
+Cluster 135675
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	dihydrolipoamide dehydrogenase	BAD48366
+fig|328812.119.peg.26|GKD78_08325!!!Dihydrolipoamide!dehydrogenase!of!acetoin!dehydrogenase!(EC!1.8.1.4)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.49%
+Cluster 133700
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	oxidoreductase domain protein	ACU03906
+fig|328812.119.peg.2849|GKD78_19040!!!Myo-inositol!2-dehydrogenase!(EC!1.1.1.18)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.86%
+fig|328812.119.peg.2850!!!Myo-inositol!2-dehydrogenase!(EC!1.1.1.18)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.16%
+Cluster 402608
+16082	CP000685	Flavobacterium johnsoniae UW101, complete genome.	No	Flavobacteria	phospholipid/glycerol acyltransferase	ABQ04002
+fig|328812.119.peg.240|GKD78_09220!!!Acyl-CoA:1-acyl-sn-glycerol-3-phosphate!acyltransferase!(EC!2.3.1.51)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.07%
+Cluster 182919
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative transmembrane transport protein	ABR44537
+fig|328812.119.peg.4107|GKD78_04070!!!Uncharacterized!MFS-type!transporter!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	83.21%
+Cluster 23303
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative alanyl dipeptidyl peptidase	ABR42483
+fig|328812.119.peg.45|GKD78_08420!!!ApeH!acylamino-acid-releasing!enzyme!(EC!3.4.19.1)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.14%
+Cluster 481696
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative sugar isomerase	ABR44608
+fig|328812.119.peg.4179|GKD78_04415!!!D-arabinose-5-phosphate!isomerase!(EC!5.3.1.13)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	86.70%
+Cluster 413209
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	oxidoreductase, short chain dehydrogenase/reductase family	ABR41978
+fig|328812.119.peg.1586|GKD78_01385!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.58%
+Cluster 48627
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	glycoside hydrolase family 32, candidate levanase	ABR39344
+fig|328812.119.peg.3572|GKD78_03560!!!Levanase!(EC!3.2.1.65)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.85%
+Cluster 404453
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42259
+fig|328812.119.peg.1563|GKD78_01275!!!FIG00898348:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.92%
+Cluster 708237
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45019
+fig|328812.119.peg.5073|GKD78_06340!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.88%
+Cluster 546990
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative RNA polymerase ECF-type sigma factor	ABR43392
+fig|328812.119.peg.700|GKD78_11285!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.46%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|328812.119.peg.5011|GKD78_06040!!!SSU!ribosomal!protein!S12p!(S23e)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.17%
+Cluster 172897
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical outer membrane protein	ABR44972
+fig|328812.119.peg.3485|GKD78_03150!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.74%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|328812.119.peg.2291|GKD78_17490!!!LSU!ribosomal!protein!L34p!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	86.00%
+Cluster 55835
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43259
+fig|328812.119.peg.1824|GKD78_15265!!!putative!secreted!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.12%
+Cluster 527409
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42126
+fig|328812.119.peg.451|GKD78_10105!!!FIG00897219:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	79.65%
+Cluster 438713
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	TPR domain protein	ABR41988
+fig|328812.119.peg.1032|GKD78_12875!!!TPR!domain!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.58%
+Cluster 35677
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	penicillin-binding protein	ABR44212
+fig|328812.119.peg.4716|GKD78_05400!!!Cell!division!protein!FtsI![Peptidoglycan!synthetase]!(EC!2.4.1.129)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	81.72%
+Cluster 214658
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative cation efflux pump	ABR43484
+fig|328812.119.peg.759|GKD78_11545!!!RND!efflux!system,!membrane!fusion!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.71%
+Cluster 330565
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44227
+fig|328812.119.peg.2900|GKD78_19270!!!putative!lipoprotein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	85.86%
+Cluster 665824
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39842
+fig|328812.119.peg.1190|GKD78_13655!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	91.74%
+fig|328812.119.peg.2804|GKD78_18830!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	89.91%
+Cluster 355234
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative regulatory protein	ABR41968
+fig|328812.119.peg.1576|GKD78_01335!!!Pantothenate!kinase!type!III,!CoaX-like!(EC!2.7.1.33)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.57%
+Cluster 630437
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45196
+fig|328812.119.peg.274|GKD78_09380!!!FIG00898832:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.74%
+Cluster 260544
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	aminopeptidase	ABR43514
+fig|328812.119.peg.5621|GKD78_08175!!!Aminopeptidase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.30%
+Cluster 561293
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD48095
+fig|328812.119.peg.5349|GKD78_26235!!!FIG00897394:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	91.25%
+fig|328812.119.peg.5500|GKD78_26360!!!FIG00897394:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	97.50%
+Cluster 356784
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	glutamine ABC transporter glutamine-binding protein	ABR43153
+fig|328812.119.peg.727|GKD78_11410!!!Transglycosylase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.94%
+Cluster 508953
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49058
+fig|328812.119.peg.2490|GKD78_01615!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.91%
+fig|328812.119.peg.2228|GKD78_17220!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.64%
+Cluster 82011
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative outer membrane protein	CAH07217
+fig|328812.119.peg.2462|GKD78_01485!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.79%
+Cluster 16053
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative outer membrane protein, probably involved in nutrient binding	ABR42168
+fig|328812.119.peg.4380|GKD78_24070!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.32%
+Cluster 150535
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative membrane transport protein	ABR42729
+fig|328812.119.peg.5306|GKD78_07090!!!Miniconductance!mechanosensitive!channel!YbdG!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.13%
+Cluster 15150
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative zinc protease	ABR44780
+fig|328812.119.peg.4526|GKD78_24760!!!Probable!zinc!protease!pqqL!(EC!3.4.99.-)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.75%
+Cluster 54296
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH09544
+fig|328812.119.peg.5117|GKD78_25850!!!Chromosome!(plasmid)!partitioning!protein!ParB!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	87.84%
+Cluster 493208
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42869
+fig|328812.119.peg.5252|GKD78_06835!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.83%
+Cluster 260961
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative uroporphirinogen biosynthesis-related protein	CAH08595
+fig|328812.119.peg.3194|GKD78_20655!!!methylcobamide:CoM!methyltransferase-related!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.38%
+Cluster 293598
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	2-dehydropantoate 2-reductase	ABR43470
+fig|328812.119.peg.4823|GKD78_25335!!!2-dehydropantoate!2-reductase!(EC!1.1.1.169)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.42%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|328812.119.peg.1986|GKD78_16060!!!Translation!elongation!factor!Tu!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.77%
+Cluster 243333
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative two-component system sensor protein histidine kinase	ABR42574
+fig|328812.119.peg.4489|GKD78_24590!!!Two-component!system!sensor!histidine!kinase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.33%
+Cluster 372823
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative endo-beta-galactosidase	CAH09812
+fig|328812.119.peg.2084|GKD78_16550!!!Keratan-sulfate!endo-1,4-beta-galactosidase!(EC!3.2.1.103)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.85%
+Cluster 571764
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	glycerol-3-phosphate cytidylyltransferase	ABR41977
+fig|328812.119.peg.1585|GKD78_01380!!!Glycerol-3-phosphate!cytidylyltransferase!(EC!2.7.7.39)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	92.26%
+Cluster 590801
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42043
+fig|328812.119.peg.1625|GKD78_14340!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.62%
+Cluster 424195
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	translation initiation factor IF-3	ADE81404
+fig|328812.119.peg.791|GKD78_11705!!!Translation!initiation!factor!3!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.42%
+Cluster 29746
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44602
+fig|328812.119.peg.4162|GKD78_04340!!!Putative!TonB-dependent!receptor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.74%
+Cluster 613320
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44332
+fig|328812.119.peg.4581|GKD78_04770!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.87%
+Cluster 484479
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	RNA polymerase ECF-type sigma factor	ABR44333
+fig|328812.119.peg.4585|GKD78_04775!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.05%
+Cluster 64118
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative outer membrane protein probably involved in nutrient binding	BAD50522
+fig|328812.119.peg.3870|GKD78_22650!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.87%
+Cluster 486368
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43822
+fig|328812.119.peg.3824|GKD78_22425!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.12%
+Cluster 753725
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39840
+fig|328812.119.peg.4263!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	96.43%
+fig|328812.119.peg.4795!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	92.86%
+Cluster 194413
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative membrane protein	ABR42730
+fig|328812.119.peg.5305|GKD78_07085!!!Small-conductance!mechanosensitive!channel!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	83.29%
+Cluster 471652
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39838
+fig|328812.119.peg.4266|GKD78_23555!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.64%
+fig|328812.119.peg.4798|GKD78_25215!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	79.43%
+Cluster 253743
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42128
+fig|328812.119.peg.3921|GKD78_22895!!!L,D-transpeptidase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.96%
+Cluster 523482
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	RNA polymerase ECF-type sigma factor	ABR43432
+fig|328812.119.peg.5567|GKD78_07920!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.78%
+Cluster 58776
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative Fe-S oxidoreductase	ABR42480
+fig|328812.119.peg.43|GKD78_08410!!!UPF0313![4Fe-4S]!protein!YgiQ!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	88.25%
+Cluster 33281
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	adenosylmethionine-8-amino-7-oxononanoate aminotransferase	BAD48352
+fig|328812.119.peg.1490|GKD78_00925!!!Adenosylmethionine-8-amino-7-oxononanoate!aminotransferase!(EC!2.6.1.62)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.53%
+Cluster 56962
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	precorrin-6X reductase/cobalamin biosynthetic protein CbiD	ABR42830
+fig|328812.119.peg.1952|GKD78_15885!!!Cobalt-precorrin-6A!reductase!(EC!1.3.1.106)!/!Cobalt-precorrin-5B!(C1)-methyltransferase!(EC!2.1.1.195)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.25%
+Cluster 599508
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48163
+fig|328812.119.peg.39|GKD78_08390!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.70%
+Cluster 392313
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative metal ABC transporter, ATP-binding protein	ABR44788
+fig|328812.119.peg.1128|GKD78_13360!!!Zinc!ABC!transporter,!ATP-binding!protein!ZnuC!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	79.76%
+Cluster 691240
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH08976
+fig|328812.119.peg.5334|GKD78_26170!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	96.84%
+Cluster 219142
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	mobilizable transposon, int protein	AAQ66021
+fig|328812.119.peg.1095|GKD78_13195!!!Integrase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.25%
+fig|328812.119.peg.3854!!!Integrase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	86.15%
+Cluster 508884
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative exported protein	ABR44315
+fig|328812.119.peg.2931|GKD78_19420!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.21%
+Cluster 99194
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47807
+fig|328812.119.peg.1304|GKD78_00020!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.77%
+Cluster 480898
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44025
+fig|328812.119.peg.2025|GKD78_16260!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.89%
+Cluster 364073
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	zinc ABC transporter permease	BAD47472
+fig|328812.119.peg.3412|GKD78_02810!!!Zinc!ABC!transporter,!permease!protein!ZnuB!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.18%
+Cluster 24037
+20829	CP001619	Dyadobacter fermentans DSM 18053, complete genome.	No	Cytophagia	hypothetical protein	ACT93085
+fig|328812.119.peg.5563|GKD78_07900!!!FIG00620722:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.82%
+Cluster 25227
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	dipeptidyl peptidase IV	ABR39494
+fig|328812.119.peg.103|GKD78_08680!!!FIG00897066:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.32%
+Cluster 580838
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative peptidyl-prolyl cis-trans isomerase	CAH07772
+fig|328812.119.peg.761|GKD78_11555!!!FKBP-type!peptidyl-prolyl!cis-trans!isomerase!FkpA!precursor!(EC!5.2.1.8)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.77%
+Cluster 466094
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR40245
+fig|328812.119.peg.2728|GKD78_18475!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.38%
+Cluster 42301
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48127
+fig|328812.119.peg.1977!!!Toprim!domain!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	98.85%
+fig|328812.119.peg.3748|GKD78_22055!!!Toprim!domain!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	96.93%
+fig|328812.119.peg.9|GKD78_26500!!!Toprim!domain!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	98.61%
+Cluster 148992
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR37975
+fig|328812.119.peg.3274|GKD78_21045!!!Co-activator!of!prophage!gene!expression!IbrA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	60.74%
+Cluster 769173
+281	CP000031	Ruegeria pomeroyi DSS-3, complete genome.	No	Alphaproteobacteria	ribosomal protein L36	AAV97120
+fig|328812.119.peg.5038|GKD78_06175!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.79%
+Cluster 652639
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45100
+fig|328812.119.peg.4635|GKD78_05005!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.72%
+Cluster 627077
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43592
+fig|328812.119.peg.1538|GKD78_01165!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.83%
+Cluster 29975
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	glycoside hydrolase family 20, candidate beta-N-acetylhexosaminidase	ABR44241
+fig|328812.119.peg.2907|GKD78_19305!!!beta-glycosyl!hydrolase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.03%
+Cluster 8125
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative outer membrane protein	CAH06712
+fig|328812.119.peg.1305|GKD78_00025!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.07%
+Cluster 152229
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative secreted tripeptidyl aminopeptidase	ABR44786
+fig|328812.119.peg.4540|GKD78_24825!!!putative!secreted!tripeptidyl!aminopeptidase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	82.98%
+Cluster 378407
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	inositol-1-monophosphatase	ABR44386
+fig|328812.119.peg.4620|GKD78_04940!!!Inositol-1-monophosphatase!(EC!3.1.3.25)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.63%
+Cluster 242361
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43825
+fig|328812.119.peg.3828|GKD78_22445!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.45%
+Cluster 650337
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	transcriptional regulator, PadR family	ADE81241
+fig|328812.119.peg.4034|GKD78_03715!!!Transcriptional!regulator,!PadR!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.52%
+Cluster 320936
+29281	CP001807	Rhodothermus marinus DSM 4252, complete genome.	No	Sphingobacteria	Cobyrinic acid ac-diamide synthase	ACY47354
+fig|328812.119.peg.4644|GKD78_05050!!!Chromosome!(plasmid)!partitioning!protein!ParA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.99%
+Cluster 494611
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39812
+fig|328812.119.peg.5118|GKD78_25855!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	90.31%
+fig|328812.119.peg.5137|GKD78_25935!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	92.86%
+Cluster 172696
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	tyrosine type site-specific recombinase	BAD48089
+fig|328812.119.peg.5343|GKD78_26205!!!Transposase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	98.21%
+fig|328812.119.peg.5494|GKD78_26330!!!Transposase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	98.21%
+Cluster 46512
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative vitamin B12 receptor	ABR45119
+fig|328812.119.peg.2321|GKD78_17625!!!TonB-dependent!receptor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.91%
+Cluster 376176
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative ferredoxin, putative iron-sulfur protein	ABR43537
+fig|328812.119.peg.5079|GKD78_06375!!!Ferredoxin!domain!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.90%
+Cluster 721691
+54	CP000383	Cytophaga hutchinsonii ATCC 33406, complete genome.	No	Cytophagia	acyl carrier protein	ABG58669
+fig|328812.119.peg.4113|GKD78_04095!!!Acyl!carrier!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.21%
+Cluster 283954
+30537	CP001794	Geobacillus sp. Y412MC61, complete genome.	No	Bacillales	ABC transporter related protein	ACX78212
+fig|328812.119.peg.937|GKD78_12405!!!Uncharacterized!protein!BT_0925!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.60%
+Cluster 601428
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative acetohydroxyacid synthase small subunit	ABR43125
+fig|328812.119.peg.5289|GKD78_07010!!!Amino!acid-binding!ACT!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	88.65%
+Cluster 523294
+20829	CP001619	Dyadobacter fermentans DSM 18053, complete genome.	No	Cytophagia	methyladenine glycosylase	ACT95114
+fig|328812.119.peg.4887|GKD78_25640!!!DNA-3-methyladenine!glycosylase!(EC!3.2.2.20)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.75%
+Cluster 339787
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	transcriptional regulator	ABR44986
+fig|328812.119.peg.3503|GKD78_03235!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.96%
+Cluster 41597
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative lipoprotein	CAH07963
+fig|328812.119.peg.1113|GKD78_13285!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.12%
+Cluster 393390
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	two-component system response regulator	ABR44070
+fig|328812.119.peg.5058|GKD78_06270!!!Two-component!transcriptional!response!regulator,!LuxR!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.52%
+Cluster 449786
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41971
+fig|328812.119.peg.1579|GKD78_01350!!!Lipopolysaccharide!export!system!protein!LptC!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.80%
+Cluster 269999
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45088
+fig|328812.119.peg.3584|GKD78_03615!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.00%
+Cluster 269996
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraN	BAD46865
+fig|328812.119.peg.3978|GKD78_23175!!!Conjugative!transposon!protein!TraN!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.93%
+Cluster 154372
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44415
+fig|328812.119.peg.1170|GKD78_13565!!!Uncharacterized!protein!BT_3928!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.47%
+Cluster 518046
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	ribosomal protein L17	ACU02852
+fig|328812.119.peg.5043|GKD78_06200!!!LSU!ribosomal!protein!L17p!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.09%
+Cluster 685145
+54	CP000383	Cytophaga hutchinsonii ATCC 33406, complete genome.	No	Cytophagia	transcriptional regulator	ABG59832
+fig|328812.119.peg.3769|GKD78_22160!!!Bsl7504!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.54%
+Cluster 118883
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45104
+fig|328812.119.peg.4628|GKD78_04975!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	60.43%
+Cluster 475193
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43677
+fig|328812.119.peg.1462|GKD78_00790!!!FIG00896466:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.33%
+Cluster 471155
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42978
+fig|328812.119.peg.3632|GKD78_21515!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.12%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|328812.119.peg.5019|GKD78_06080!!!SSU!ribosomal!protein!S19p!(S15e)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.17%
+Cluster 514248
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45227
+fig|328812.119.peg.2130|GKD78_16760!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.32%
+Cluster 1191
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative DNA methylase	BAD46891
+fig|328812.119.peg.2148|GKD78_16845!!!Putative!DNA!methylase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.70%
+Cluster 166493
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative permease	ABR45063
+fig|328812.119.peg.4678|GKD78_05215!!!Uncharacterized!UPF0118!transporter!BT_2276!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.87%
+Cluster 166497
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41802
+fig|328812.119.peg.1012|GKD78_12765!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.93%
+Cluster 683071
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH09519
+fig|328812.119.peg.1194|GKD78_13670!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	86.00%
+fig|328812.119.peg.2808|GKD78_18850!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	85.00%
+Cluster 36401
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	alpha-1,2-mannosidase family protein	ADE83216
+fig|328812.119.peg.2651|GKD78_02355!!!Alpha-1,2-mannosidase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.13%
+Cluster 83558
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative metal transport-related, exported protein	ABR43531
+fig|328812.119.peg.4308|GKD78_23740!!!CzcABC!family!efflux!RND!transporter,!membrane!fusion!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.95%
+Cluster 36620
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	glycoside hydrolase family 20, candidate beta-N-acetylhexosaminidase	ABR42441
+fig|328812.119.peg.795|GKD78_11725!!!beta-glycosyl!hydrolase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.73%
+Cluster 53184
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	ATP-dependent DNA helicase RecQ	ABR43494
+fig|328812.119.peg.4475|GKD78_24525!!!ATP-dependent!DNA!helicase,!RecQ!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.39%
+Cluster 658016
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42411
+fig|328812.119.peg.3282|GKD78_21080!!!FIG00899384:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	81.42%
+Cluster 274053
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative PfkB family carbohydrate kinase	ABR45351
+fig|328812.119.peg.3042|GKD78_19950!!!Ribokinase!(EC!2.7.1.15)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.15%
+Cluster 512533
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative ECF-type RNA polymerase sigma factor	CAH06259
+fig|328812.119.peg.2587|GKD78_02075!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.52%
+Cluster 137344
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	spermidine/putrescine ABC transporter	ABR43397
+fig|328812.119.peg.5583|GKD78_07990!!!Spermidine/putrescine!import!ABC!transporter!substrate-binding!protein!PotD!(TC!3.A.1.11.1)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	81.00%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|328812.119.peg.5025|GKD78_06110!!!LSU!ribosomal!protein!L14p!(L23e)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.25%
+Cluster 30106
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative patatin-like phospholipase	ABR42450
+fig|328812.119.peg.5201|GKD78_06595!!!putative!patatin-like!phospholipase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.42%
+Cluster 493174
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45372
+fig|328812.119.peg.5087|GKD78_25695!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.65%
+Cluster 493176
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical exported protein	CAH07323
+fig|328812.119.peg.2065|GKD78_16440!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.57%
+Cluster 493173
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	RNA polymerase ECF-type sigma factor	ABR44050
+fig|328812.119.peg.4025|GKD78_03665!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.94%
+Cluster 137066
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48646
+fig|328812.119.peg.2227|GKD78_17215!!!Na+-driven!multidrug!efflux!pump!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.11%
+Cluster 135676
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	dihydrolipoamide dehydrogenase	BAG33345
+fig|328812.119.peg.2499|GKD78_01655!!!Dihydrolipoamide!dehydrogenase!(EC!1.8.1.4)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.04%
+Cluster 742813
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44420
+fig|328812.119.peg.1157|GKD78_13505!!!Exodeoxyribonuclease!VII!small!subunit!(EC!3.1.11.6)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	92.31%
+Cluster 494250
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	quinol oxidase	ABR41903
+fig|328812.119.peg.608|GKD78_10840!!!Cytochrome!c!nitrite!reductase,!small!subunit!NrfH!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	83.08%
+Cluster 280487
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42047
+fig|328812.119.peg.1637|GKD78_14385!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.53%
+Cluster 323307
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative oxidoreductase	BAD47895
+fig|328812.119.peg.1068|GKD78_13065!!!Oxidoreductase,!short-chain!dehydrogenase/reductase!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.13%
+Cluster 39248
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative exported Tpr repeat-family protein	ABR42435
+fig|328812.119.peg.789|GKD78_11695!!!TPR!repeat!precursor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.03%
+Cluster 85776
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative secreted peptidase	ABR44619
+fig|328812.119.peg.4184|GKD78_04440!!!Dipeptidase-related!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.32%
+Cluster 11014
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative cation efflux system	ABR37790
+fig|328812.119.peg.2330|GKD78_17670!!!CzcABC!family!efflux!RND!transporter,!transmembrane!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.93%
+Cluster 426707
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative ribose 5-phosphate isomerase	ABR43849
+fig|328812.119.peg.3848|GKD78_22545!!!Ribose-5-phosphate!isomerase!A!(EC!5.3.1.6)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.23%
+Cluster 426700
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative membrane protein	ABR44306
+fig|328812.119.peg.3533|GKD78_03375!!!LrgA-associated!membrane!protein!LrgB!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	82.76%
+Cluster 191041
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative Xaa-Pro dipeptidase	ABR42681
+fig|328812.119.peg.4332|GKD78_23855!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.82%
+Cluster 93441
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	beta-hexosaminidase precursor	BAD50000
+fig|328812.119.peg.4568|GKD78_04705!!!beta-glycosyl!hydrolase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.35%
+Cluster 494317
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45419
+fig|328812.119.peg.2277|GKD78_17415!!!Biopolymer!transport!exbD!protein.!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	85.13%
+Cluster 89964
+255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Yes	Betaproteobacteria	Pglb2	CAM09707
+fig|328812.119.peg.819|GKD78_11835!!!Lipid!carrier!:!UDP-N-acetylgalactosaminyltransferase!(EC!2.4.1.-)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	60.40%
+Cluster 126362
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	sigma54 specific transcriptional regulator, Fis family	ADB37041
+fig|328812.119.peg.1589!!!Transcriptional!regulator!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.52%
+Cluster 12292
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	TPR-domain containing protein	ABR45289
+fig|328812.119.peg.2225|GKD78_17205!!!TPR-domain-containing!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	82.98%
+Cluster 134020
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	MATE efflux family protein	ABR42139
+fig|328812.119.peg.358|GKD78_09660!!!MATE!efflux!family!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	82.02%
+Cluster 588836
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein found in conjugate transposon	CAH06964
+fig|328812.119.peg.187|GKD78_26615!!!Conjugative!transposon!protein!TraB!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.61%
+Cluster 246122
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative two-component system sensor kinase	ABR40244
+fig|328812.119.peg.2729|GKD78_18480!!!Two-component!system!sensor!histidine!kinase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.35%
+Cluster 7078
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative outer membrane protein probably involved in nutrient binding	BAD50002
+fig|328812.119.peg.4566|GKD78_04695!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.76%
+Cluster 562378
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	thioredoxin	ABR38998
+fig|328812.119.peg.957|GKD78_12500!!!Thioredoxin!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.83%
+Cluster 75627
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43827
+fig|328812.119.peg.3829|GKD78_22450!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.18%
+Cluster 685849
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical transmembrane protein found in conjugate transposon	CAH06962
+fig|328812.119.peg.4844|GKD78_25435!!!Conjugative!transposon!protein!TraE!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	85.71%
+Cluster 417328
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	ABC transporter, ATP-binding protein	ADE82635
+fig|328812.119.peg.2214|GKD78_17150!!!ABC!transporter,!ATP-binding!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.82%
+Cluster 255372
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42405
+fig|328812.119.peg.965|GKD78_12545!!!Putative!dihydroxyacetone!kinase!(EC!2.7.1.29),!dihydroxyacetone!binding!subunit!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	89.35%
+Cluster 106521
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAG33650
+fig|328812.119.peg.2440|GKD78_18185!!!Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase!(EC!2.3.1.181)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	60.62%
+Cluster 443413
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42586
+fig|328812.119.peg.2753|GKD78_18600!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.51%
+Cluster 517163
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative 5-formyltetrahydrofolate cyclo-ligase	ABR41991
+fig|328812.119.peg.1035|GKD78_12890!!!5-formyltetrahydrofolate!cyclo-ligase!(EC!6.3.3.2)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.93%
+Cluster 517165
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42016
+fig|328812.119.peg.486|GKD78_10280!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	85.87%
+Cluster 45058
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative helicase	ABR44036
+fig|328812.119.peg.2051|GKD78_16375!!!Putative!helicase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.26%
+Cluster 512598
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD49830
+fig|328812.119.peg.5416|GKD78_07360!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.27%
+Cluster 335558
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	AMP nucleosidase	ACU05276
+fig|328812.119.peg.5263|GKD78_06890!!!AMP!nucleosidase!(EC!3.2.2.4)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.79%
+Cluster 271078
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	thiol:disulfide interchange protein	ABR42014
+fig|328812.119.peg.490|GKD78_10295!!!Thiol:disulfide!interchange!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	83.79%
+Cluster 327071
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42596
+fig|328812.119.peg.96|GKD78_08645!!!V-type!ATP!synthase!subunit!C!(EC!3.6.3.14)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.20%
+Cluster 77887
+32637	CP002116	Spirochaeta smaragdinae DSM 11293, complete genome.	No	Spirochaetales	diphosphate/fructose-6-phosphate1-phosphotransfe rase	ADK81370
+fig|328812.119.peg.364|GKD78_09690!!!Pyrophosphate-dependent!fructose!6-phosphate-1-kinase!(EC!2.7.1.90)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.04%
+Cluster 535598
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD50431
+fig|328812.119.peg.2824|GKD78_18925!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.50%
+Cluster 529951
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative anti-restriction protein	BAD48093
+fig|328812.119.peg.5346|GKD78_26220!!!Antirestriction!protein!ArdA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	93.79%
+fig|328812.119.peg.5498|GKD78_26350!!!Antirestriction!protein!ArdA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	93.79%
+Cluster 216072
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44469
+fig|328812.119.peg.4035|GKD78_03720!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.11%
+Cluster 149384
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	two-component system sensor histidine kinase	ABR43683
+fig|328812.119.peg.1434|GKD78_00655!!!Two-component!system!sensor!histidine!kinase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	81.29%
+Cluster 7055
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative outer membrane protein probably involved in nutrient binding	BAD50713
+fig|328812.119.peg.2585|GKD78_02065!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.25%
+Cluster 26027
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative ABC transporter permease	BAD48347
+fig|328812.119.peg.4126|GKD78_04160!!!Acidobacterial!duplicated!orphan!permease!(function!unknown)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.59%
+Cluster 604806
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44853
+fig|328812.119.peg.3411|GKD78_02805!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	83.45%
+Cluster 372051
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative methyltransferase	ABR45013
+fig|328812.119.peg.3455|GKD78_02995!!!SAM-dependent!methyltransferase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	81.42%
+Cluster 372054
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putrescine transport system permease protein PotH	ABR43399
+fig|328812.119.peg.5585|GKD78_08000!!!Spermidine/putrescine!import!ABC!transporter!permease!protein!PotB!(TC!3.A.1.11.1)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	85.99%
+Cluster 120989
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	outer membrane efflux protein oprM precursor	ABR43483
+fig|328812.119.peg.760|GKD78_11550!!!Efflux!transport!system,!outer!membrane!factor!(OMF)!lipoprotein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	79.06%
+Cluster 211746
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	thiol:disulfide interchange protein	ABR43276
+fig|328812.119.peg.376|GKD78_09755!!!Thiol:disulfide!interchange!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.11%
+Cluster 323407
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45645
+fig|328812.119.peg.1005|GKD78_12730!!!Mce4/Rv3499c/MTV023.06c!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.83%
+Cluster 339663
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	rod shape-determining protein MreC	ABR43618
+fig|328812.119.peg.1523|GKD78_01090!!!Rod!shape-determining!protein!MreC!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	81.69%
+Cluster 492264
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	transcriptional regulator	ABR43254
+fig|328812.119.peg.5375|GKD78_07165!!!Transcriptional!regulator,!AcrR!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	90.36%
+Cluster 402548
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44665
+fig|328812.119.peg.2631|GKD78_02265!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.99%
+Cluster 169527
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	probable transport protein	BAD48663
+fig|328812.119.peg.1328|GKD78_00130!!!AmpG!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.60%
+Cluster 565550
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49870
+fig|328812.119.peg.3284|GKD78_21090!!!probable!membrane!protein!NMA1128!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.29%
+Cluster 730508
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48094
+fig|328812.119.peg.5348|GKD78_26230!!!FIG00404869:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	93.15%
+fig|328812.119.peg.5499|GKD78_26355!!!FIG00404869:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	98.63%
+Cluster 544341
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	RNA polymerase ECF-type sigma factor	ABR42302
+fig|328812.119.peg.3414|GKD78_02820!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.51%
+fig|328812.119.peg.4163|GKD78_04345!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.86%
+fig|328812.119.peg.48|GKD78_08435!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	87.57%
+fig|328812.119.peg.1822|GKD78_15255!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	97.63%
+Cluster 567792
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45420
+fig|328812.119.peg.2276|GKD78_17410!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	81.53%
+Cluster 392940
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	3-oxo-5-alpha-steroid 4-dehydrogenase	BAD50494
+fig|328812.119.peg.459|GKD78_10145!!!3-oxo-5-alpha-steroid!4-dehydrogenase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.90%
+Cluster 617142
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraB	BAD48110
+fig|328812.119.peg.193|GKD78_26645!!!Conjugative!transposon!protein!TraB!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	97.74%
+Cluster 74197
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	flotillin-like protein	ABR38905
+fig|328812.119.peg.928|GKD78_12360!!!Inner!membrane!protein!YqiK!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.96%
+Cluster 256766
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical fusion protein	ABR39813
+fig|328812.119.peg.5138|GKD78_25940!!!conserved!hypothetical!fusion!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	95.55%
+Cluster 17228
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	pyruvate, phosphate dikinase	ADE81653
+fig|328812.119.peg.5239|GKD78_06775!!!Pyruvate,phosphate!dikinase!(EC!2.7.9.1)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.05%
+Cluster 162488
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative metal resistance related exported protein	ABR39700
+fig|328812.119.peg.653|GKD78_11060!!!Cation!efflux!system!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	60.92%
+Cluster 131347
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	TPR domain protein	ABR41970
+fig|328812.119.peg.1578|GKD78_01345!!!TPR!domain!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.45%
+Cluster 525573
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	putative acetyltransferase	BAG33432
+fig|328812.119.peg.2001|GKD78_16155!!!Carbonic!anhydrase,!gamma!class!(EC!4.2.1.1)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.14%
+Cluster 519181
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative RNA polymerase ECF-type sigma factor	ABR43663
+fig|328812.119.peg.1480|GKD78_00880!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.19%
+Cluster 519182
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	RNA polymerase ECF-type sigma factor	BAD48650
+fig|328812.119.peg.1878|GKD78_15525!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.76%
+Cluster 14419
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45036
+fig|328812.119.peg.2819|GKD78_18900!!!FIG00898139:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	82.31%
+Cluster 111830
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative exported protein	ABR44314
+fig|328812.119.peg.2932|GKD78_19425!!!Immunoreactive!53!kDa!antigen!PG123!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.05%
+Cluster 588213
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41784
+fig|328812.119.peg.1710|GKD78_14730!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	82.31%
+Cluster 623411
+297	AE008923	Xanthomonas axonopodis pv. citri str. 306, complete genome.	No	Gammaproteobacteria	conserved hypothetical protein	AAM38961
+fig|328812.119.peg.5193|GKD78_06545!!!T6SS!PAAR-repeat!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.00%
+Cluster 458453
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative DNA binding protein	ABR44297
+fig|328812.119.peg.3548|GKD78_03445!!!Redox-sensing!transcriptional!repressor!Rex!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	88.89%
+Cluster 26622
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative ABC transporter permease	BAD48345
+fig|328812.119.peg.4128|GKD78_04170!!!Acidobacterial!duplicated!orphan!permease!(function!unknown)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.53%
+Cluster 180889
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	type I phosphodiesterase/nucleotide pyrophosphatase family protein	ABR44033
+fig|328812.119.peg.2049|GKD78_16365!!!Alkaline!phosphodiesterase!I!(EC!3.1.4.1)!/!Nucleotide!pyrophosphatase!(EC!3.6.1.9)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.68%
+Cluster 122738
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	glycosyltransferase	ABR42430
+fig|328812.119.peg.784|GKD78_11670!!!Glycosyltransferase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	81.72%
+Cluster 720608
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	hypothetical protein	CAH09545
+fig|328812.119.peg.5115|GKD78_25840!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	87.34%
+Cluster 119683
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	ABC transporter permease	ABR43706
+fig|328812.119.peg.540|GKD78_10535!!!ABC!transporter,!permease!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	83.57%
+Cluster 320871
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41979
+fig|328812.119.peg.1587|GKD78_01390!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	87.12%
+Cluster 95233
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative two-component system sensor histidine kinase	ABR43086
+fig|328812.119.peg.3799|GKD78_22300!!!Two-component!system!sensor!histidine!kinase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.80%
+Cluster 59879
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein, possible ATP/GTP-binding site	ABR44546
+fig|328812.119.peg.4121|GKD78_04135!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.91%
+Cluster 555103
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative NTP pyrophosphohydrolase	ABR43440
+fig|328812.119.peg.3089|GKD78_20175!!!Isopentenyl-diphosphate!Delta-isomerase!(EC!5.3.3.2)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.98%
+Cluster 475274
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative NADH dehydrogenase/NAD(P)H nitroreductase	ABR41956
+fig|328812.119.peg.4431|GKD78_24315!!!Nitroreductase!family!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.78%
+Cluster 85364
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative peptidase	BAD50277
+fig|328812.119.peg.2711|GKD78_18395!!!D-alanyl-D-alanine!carboxypeptidase!(EC!3.4.16.4)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.40%
+Cluster 207292
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative transmembrane protein	ABR43100
+fig|328812.119.peg.981|GKD78_12625!!!N-acetylglucosamine!related!transporter,!NagX!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.56%
+fig|328812.119.peg.2098|GKD78_16605!!!N-acetylglucosamine!related!transporter,!NagX!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.88%
+Cluster 207291
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	hypothetical protein	CAH09390
+fig|328812.119.peg.445|GKD78_10075!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.11%
+Cluster 16506
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative outer membrane protein, probably involved in nutrient binding	ABR45160
+fig|328812.119.peg.207|GKD78_09060!!!TonB-dependent!receptor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.34%
+Cluster 144805
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	ABC transporter, permease protein, putative	ABR43587
+fig|328812.119.peg.1829|GKD78_15290!!!ABC!transporter,!permease!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.33%
+Cluster 526546
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative lipoprotein protein	ABR42314
+fig|328812.119.peg.3001|GKD78_19755!!!Lipoprotein!spr!precursor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.68%
+Cluster 500245
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraO	BAD48099
+fig|328812.119.peg.5352|GKD78_26250!!!Conjugative!transposon!protein!TraO!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	95.41%
+Cluster 216888
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	erythronate-4-phosphate dehydrogenase, putative	ABR44538
+fig|328812.119.peg.4106|GKD78_04065!!!Erythronate-4-phosphate!dehydrogenase!(EC!1.1.1.290)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.48%
+Cluster 238482
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	periplasmic linker protein, putative multidrug resistance protein	ABR41680
+fig|328812.119.peg.3909|GKD78_22840!!!RND!efflux!system,!membrane!fusion!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.29%
+Cluster 158642
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative ATPase	ABR44249
+fig|328812.119.peg.4536|GKD78_24805!!!Uncharacterized!ATPase,!AAA!superfamily!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.03%
+Cluster 287913
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative permease	BAD47361
+fig|328812.119.peg.2563|GKD78_01955!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.90%
+Cluster 20850
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	protein of unknown function DUF608	ADB42406
+fig|328812.119.peg.2575|GKD78_02015!!!FIG01082483:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.39%
+Cluster 66839
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	protease IV	ABR45622
+fig|328812.119.peg.5150|GKD78_25995!!!Signal!peptide!peptidase!SppA!(protease!4)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.96%
+Cluster 671399
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD48096
+fig|328812.119.peg.5350|GKD78_26240!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	91.51%
+Cluster 688680
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41990
+fig|328812.119.peg.1034|GKD78_12885!!!Zn-ribbon-containing,!possibly!RNA-binding!protein!and!truncated!derivatives!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.35%
+Cluster 173883
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44973
+fig|328812.119.peg.3486|GKD78_03155!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.71%
+Cluster 173886
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	periplasmic component of efflux system	ABR45057
+fig|328812.119.peg.4672|GKD78_05185!!!ABC!export!system,!membrane!fusion!protein!BT1213!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	79.16%
+Cluster 38195
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative helicase	ABR43675
+fig|328812.119.peg.1464|GKD78_00800!!!DNA!repair!and!recombination!protein,!putative!helicase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.41%
+Cluster 14311
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44198
+fig|328812.119.peg.2890|GKD78_19220!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.23%
+Cluster 690312
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39267
+fig|328812.119.peg.3984|GKD78_23205!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	91.67%
+Cluster 83488
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative outer membrane protein, probably involved in nutrient binding	ABR42169
+fig|328812.119.peg.4379|GKD78_24065!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.38%
+Cluster 74228
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	alkaline phosphatase, putative	ABR42680
+fig|328812.119.peg.4331|GKD78_23850!!!Alkaline!phosphatase!(EC!3.1.3.1)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.37%
+Cluster 233219
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43645
+fig|328812.119.peg.1494|GKD78_00945!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	87.04%
+Cluster 128441
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	hypothetical protein	AAQ66018
+fig|328812.119.peg.1090|GKD78_13170!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.63%
+Cluster 100137
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43613
+fig|328812.119.peg.1528|GKD78_01115!!!Stage!0!sporulation!protein!YaaT!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	81.17%
+Cluster 256724
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44857
+fig|328812.119.peg.441|GKD78_10055!!!Uncharacterized!UPF0118!membrane!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.06%
+Cluster 61563
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	V-type ATPase, subunit I	ABR42600
+fig|328812.119.peg.100|GKD78_08665!!!V-type!ATP!synthase!subunit!I!(EC!3.6.3.14)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.58%
+Cluster 11571
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	transporter, AcrB/D/F family	ABR43070
+fig|328812.119.peg.3908|GKD78_22835!!!RND!efflux!system,!inner!membrane!transporter!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	92.89%
+Cluster 649764
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44213
+fig|328812.119.peg.4717|GKD78_05405!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	82.91%
+Cluster 15606
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative TonB-dependent receptor	ABR42113
+fig|328812.119.peg.467|GKD78_10185!!!TonB-dependent!receptor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	86.05%
+Cluster 208324
+29543	CP001959	Brachyspira murdochii DSM 12563, complete genome.	No	Spirochaetales	VWA containing CoxE family protein	ADG71451
+fig|328812.119.peg.765|GKD78_11575!!!Mg-chelatase!subunit!ChlD!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.39%
+Cluster 294507
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraN	BAD48100
+fig|328812.119.peg.3!!!Conjugative!transposon!protein!TraN!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	98.44%
+fig|328812.119.peg.5!!!Conjugative!transposon!protein!TraN!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	97.67%
+Cluster 58905
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	ABC transporter, ATP-binding protein, MsbA family	AAQ66726
+fig|328812.119.peg.4909|GKD78_05530!!!Efflux!ABC!transporter,!permease/ATP-binding!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.73%
+Cluster 491603
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative transcriptional regulator	ABR43188
+fig|328812.119.peg.3222|GKD78_20785!!!Transcriptional!regulator!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.77%
+Cluster 505046
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	RNA polymerase ECF-type sigma factor	ABR42371
+fig|328812.119.peg.1675|GKD78_14575!!!RNA!polymerase!ECF-type!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.19%
+Cluster 152794
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	BexA, putative cation effux pump	ABR41368
+fig|328812.119.peg.4835!!!BexA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.00%
+Cluster 598132
+13011	CP001110	Pelodictyon phaeoclathratiforme BU-1, complete genome.	No	Chlorobia	protein tyrosine phosphatase	ACF43724
+fig|328812.119.peg.1706|GKD78_14710!!!Arsenate!reductase!(EC!1.20.4.4)!thioredoxin-coupled,!LMWP!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	60.56%
+Cluster 143945
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	peptidase, M23/M37 family, putative	ABR44883
+fig|328812.119.peg.2865|GKD78_19105!!!Murein!hydrolase!activator!EnvC!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.77%
+Cluster 219485
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative membrane fusion protein precursor	ABR45035
+fig|328812.119.peg.2855|GKD78_19065!!!Probable!Co/Zn/Cd!efflux!system!membrane!fusion!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.00%
+Cluster 697293
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44447
+fig|328812.119.peg.3946|GKD78_23020!!!FIG00897464:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	89.13%
+Cluster 542635
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative RNA polymerase ECF-type sigma factor	ABR44702
+fig|328812.119.peg.2561|GKD78_01945!!!sigma-70!family!RNA!polymerase!sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.41%
+Cluster 271430
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42568
+fig|328812.119.peg.3666|GKD78_21675!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.12%
+Cluster 213658
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative universal stress protein UspA	ABR42723
+fig|328812.119.peg.162|GKD78_08950!!!UspA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	86.49%
+Cluster 90159
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH08574
+fig|328812.119.peg.2802|GKD78_18825!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.73%
+Cluster 495789
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR40386
+fig|328812.119.peg.1779|GKD78_15045!!!Inner!membrane!protein!RclC!associated!with!response!to!reactive!chlorine!species!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	82.47%
+Cluster 466907
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44223
+fig|328812.119.peg.2896|GKD78_19250!!!FIG036016:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.12%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|328812.119.peg.5039|GKD78_06180!!!SSU!ribosomal!protein!S13p!(S18e)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.08%
+Cluster 449070
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative transcriptional regulator	ABR41908
+fig|328812.119.peg.613|GKD78_10865!!!Hcp!transcriptional!regulator!HcpR!(Crp/Fnr!family)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.30%
+Cluster 178070
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	aminotransferase	ABR39049
+fig|328812.119.peg.2083|GKD78_16545!!!Cysteine!desulfurase!(EC!2.8.1.7)!=>!SufS!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.99%
+Cluster 388520
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	BatE, TRP domain containing protein	ABR42720
+fig|328812.119.peg.159|GKD78_08935!!!Aerotolerance!protein!BatE!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.69%
+Cluster 7587
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative outer membrane protein	CAH07218
+fig|328812.119.peg.2463|GKD78_01490!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.66%
+Cluster 409810
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49253
+fig|328812.119.peg.2308|GKD78_17565!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.42%
+Cluster 85264
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	arylsulfatase	BAD46766
+fig|328812.119.peg.559|GKD78_10630!!!Arylsulfatase!(EC!3.1.6.1)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.70%
+Cluster 590735
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	MarR family transcriptional regulator	BAD50040
+fig|328812.119.peg.5569|GKD78_07930!!!Transcriptional!regulator,!MarR!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	60.96%
+Cluster 590733
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39642
+fig|328812.119.peg.4226|GKD78_23375!!!DoxX!family!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.60%
+Cluster 377302
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50517
+fig|328812.119.peg.1232|GKD78_13840!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.26%
+Cluster 92777
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47864
+fig|328812.119.peg.4168|GKD78_04365!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.99%
+Cluster 37448
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45449
+fig|328812.119.peg.2242|GKD78_17275!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.81%
+Cluster 427739
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43591
+fig|328812.119.peg.1540|GKD78_01175!!!PorT!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.25%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|328812.119.peg.2116|GKD78_16695!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.39%
+Cluster 711951
+13617	CP000552	Prochlorococcus marinus str. MIT 9515, complete genome.	No	Prochlorales	50S Ribosomal protein L33	ABM72158
+fig|328812.119.peg.29|GKD78_08340!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.52%
+Cluster 133150
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative outer membrane transport/efflux protein	ABR45270
+fig|328812.119.peg.5322|GKD78_26120!!!Efflux!transport!system,!outer!membrane!factor!(OMF)!lipoprotein!BT_2498!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.67%
+Cluster 87373
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative transport protein	ABR43672
+fig|328812.119.peg.1465|GKD78_00805!!!Predicted!cobalt!transporter!in!Bacteroides_Porphyromonas!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.40%
+Cluster 532533
+29403	CP001632	Capnocytophaga ochracea DSM 7271, complete genome.	Yes	Flavobacteria	D-tyrosyl-tRNA(Tyr) deacylase	ACU92127
+fig|328812.119.peg.2614|GKD78_02185!!!D-aminoacyl-tRNA!deacylase!(EC!3.1.1.96)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.67%
+Cluster 20452
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42387
+fig|328812.119.peg.3647|GKD78_21580!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.39%
+Cluster 191332
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative phosphoesterase	ABR45353
+fig|328812.119.peg.3044|GKD78_19960!!!Phosphoesterase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.75%
+Cluster 289392
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45029
+fig|328812.119.peg.2838|GKD78_18990!!!FIG00896581:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.91%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|328812.119.peg.5037|GKD78_06170!!!Translation!initiation!factor!1!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.44%
+Cluster 7401
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative outer membrane protein, probably involved in nutrient binding	ABR38641
+fig|328812.119.peg.4195|GKD78_04495!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.67%
+Cluster 373997
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	electron transport complex, RnfABCDGE type, E subunit	ADL04244
+fig|328812.119.peg.1808|GKD78_15185!!!Electron!transport!complex!protein!RnfE!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.83%
+Cluster 382699
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative methyltransferase protein	CAH07093
+fig|328812.119.peg.3832|GKD78_22465!!!SAM-dependent!methyltransferase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.31%
+Cluster 112795
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative outer membrane protein	ABR43290
+fig|328812.119.peg.412|GKD78_09925!!!Efflux!transport!system,!outer!membrane!factor!(OMF)!lipoprotein!BT_0954!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.17%
+Cluster 415527
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative metal dependent hydrolase	ABR45285
+fig|328812.119.peg.2215|GKD78_17155!!!Metal-dependent!hydrolase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.25%
+Cluster 8790
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative outer membrane protein, probably involved in nutrient binding	ABR38954
+fig|328812.119.peg.1235|GKD78_13855!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.08%
+Cluster 82009
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative outer membrane protein, probably involved in nutrient binding	ABR38655
+fig|328812.119.peg.4028|GKD78_03680!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.69%
+Cluster 112284
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative polysaccharide biosynthesis protein	ABR43044
+fig|328812.119.peg.3899|GKD78_22790!!!Membrane!protein!involved!in!the!export!of!O-antigen,!teichoic!acid!lipoteichoic!acids!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.93%
+Cluster 71192
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	tetratricopeptide repeat family protein	ABR43285
+fig|328812.119.peg.407|GKD78_09900!!!Tetratricopeptide!repeat!family!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.35%
+Cluster 171779
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative NADH:flavin oxidoreductase	BAD50493
+fig|328812.119.peg.460|GKD78_10150!!!2,4-dienoyl-CoA!reductase![NADPH]!(EC!1.3.1.34)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.72%
+Cluster 171777
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	haloacid dehalogenase-like hydrolase	ABR42897
+fig|328812.119.peg.115|GKD78_08740!!!Haloacid!dehalogenase-like!hydrolase!/!1,4-dihydroxy-2-naphthoyl-CoA!hydrolase!(EC!3.1.2.28)!in!menaquinone!biosynthesis!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	85.37%
+Cluster 570483
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43243
+fig|328812.119.peg.5468|GKD78_07600!!!Tryptophan!synthase!(indole-salvaging)!(EC!4.2.1.122)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.90%
+Cluster 8170
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative outer membrane protein probably involved in nutrient binding	BAD47694
+fig|328812.119.peg.482|GKD78_10260!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.79%
+Cluster 57581
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50001
+fig|328812.119.peg.4567|GKD78_04700!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.19%
+Cluster 646893
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	thioredoxin	ABR43713
+fig|328812.119.peg.534|GKD78_10510!!!Thioredoxin!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.71%
+Cluster 646891
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48128
+fig|328812.119.peg.1976|GKD78_16005!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	96.64%
+fig|328812.119.peg.3749|GKD78_22060!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	98.32%
+Cluster 673359
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraE	BAD46874
+fig|328812.119.peg.337|GKD78_26685!!!Conjugative!transposon!protein!TraE!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	95.65%
+Cluster 113873
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	major facilitator superfamily MF	ACU04476
+fig|328812.119.peg.4419|GKD78_24260!!!Hexuronate!transporter!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.88%
+Cluster 199062
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH06688
+fig|328812.119.peg.3653|GKD78_21610!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.16%
+Cluster 3758
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative exported beta-galactosidase	CAH08900
+fig|328812.119.peg.3478|GKD78_03115!!!beta-galactosidase!(EC!3.2.1.23)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.00%
+Cluster 93920
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative Na+/sulfate symporter	ABR42563
+fig|328812.119.peg.3661|GKD78_21650!!!Transporter,!sodium/sulfate!symporter!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	89.56%
+Cluster 522785
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43060
+fig|328812.119.peg.1882|GKD78_15545!!!7-carboxy-7-deazaguanine!synthase!(EC!4.3.99.3)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.82%
+Cluster 688089
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR37958
+fig|328812.119.peg.457|GKD78_10135!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.98%
+Cluster 486434
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42725
+fig|328812.119.peg.2892|GKD78_19230!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.08%
+Cluster 191314
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	integrase	ABR42274
+fig|328812.119.peg.5458|GKD78_07555!!!Integrase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.26%
+Cluster 29737
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48309
+fig|328812.119.peg.515|GKD78_10415!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.70%
+Cluster 669119
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative transmembrane conserved protein found in conjugate transposon	CAH07465
+fig|328812.119.peg.336!!!Conjugative!transposon!protein!TraF!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.00%
+Cluster 720607
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39810
+fig|328812.119.peg.5135|GKD78_25925!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.81%
+Cluster 173722
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative sugar transporter	ABR42592
+fig|328812.119.peg.2564|GKD78_01960!!!Uncharacterized!MFS-type!transporter!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	83.00%
+Cluster 611063
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	glyoxalase family protein	ADE82825
+fig|328812.119.peg.4433|GKD78_24325!!!Methylmalonyl-CoA!epimerase!(EC!5.1.99.1)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.76%
+Cluster 280663
+16082	CP000685	Flavobacterium johnsoniae UW101, complete genome.	No	Flavobacteria	Nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase	ABQ04318
+fig|328812.119.peg.1110|GKD78_13270!!!Carbon-nitrogen!hydrolase!family!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.98%
+Cluster 694217
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49163
+fig|328812.119.peg.161|GKD78_08945!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.03%
+Cluster 47439
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47421
+fig|328812.119.peg.3463|GKD78_03040!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.24%
+Cluster 150564
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41887
+fig|328812.119.peg.1551|GKD78_01220!!!Peptidase!M64!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	82.94%
+Cluster 143346
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative antiporter membrane protein	ABR42002
+fig|328812.119.peg.1046|GKD78_12945!!!Multidrug!efflux!pump!BexA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.27%
+Cluster 294996
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative anti-sigma factor	ABR38106
+fig|328812.119.peg.2102|GKD78_16625!!!Putative!anti-sigma!factor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.96%
+Cluster 426386
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44757
+fig|328812.119.peg.2510|GKD78_01705!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	63.20%
+Cluster 260959
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	methylcobamide:CoM methyltransferase MtbA	BAD49811
+fig|328812.119.peg.3397|GKD78_02735!!!methylcobamide:CoM!methyltransferase-related!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	60.84%
+Cluster 310312
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative transport protein	BAD47365
+fig|328812.119.peg.1227|GKD78_13815!!!Potassium!efflux!system!KefA!protein!/!Small-conductance!mechanosensitive!channel!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.29%
+Cluster 640892
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	excisionase in mobilizable transposon, xis protein	ABR43858
+fig|328812.119.peg.1091|GKD78_13175!!!mobilizable!transposon,!xis!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	61.98%
+Cluster 54137
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47133
+fig|328812.119.peg.3061|GKD78_20035!!!FIG00896938:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.57%
+Cluster 105865
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43456
+fig|328812.119.peg.4816|GKD78_25290!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.76%
+Cluster 265570
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon	BAD48104
+fig|328812.119.peg.351|GKD78_26740!!!Conjugative!transposon!protein!TraJ!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	100.00%
+Cluster 706009
+13570	CP002046	Croceibacter atlanticus HTCC2559, complete genome.	No	Flavobacteria	putative 30S ribosomal protein S17	EAP88241
+fig|328812.119.peg.5024|GKD78_06105!!!SSU!ribosomal!protein!S17p!(S11e)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.47%
+Cluster 257546
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45425
+fig|328812.119.peg.2270|GKD78_17380!!!low!affinity!penicillin!binding!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.27%
+Cluster 137341
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative outer membrane protein TolC	ABR45033
+fig|328812.119.peg.2853|GKD78_19055!!!Efflux!transport!system,!outer!membrane!factor!(OMF)!lipoprotein!BT_2253!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	79.60%
+Cluster 109789
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	DEAD/DEAH box helicase domain protein	ADB38469
+fig|328812.119.peg.3777|GKD78_22200!!!ATP-dependent!RNA!helicase!RhlE!(EC!3.6.4.13)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.65%
+Cluster 514787
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative glucose-6-phosphate isomerase	ABR44996
+fig|328812.119.peg.1870|GKD78_15485!!!Glucose-6-phosphate!isomerase,!archaeal!(EC!5.3.1.9)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.70%
+Cluster 57193
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative sulfatase	ABR43625
+fig|328812.119.peg.1515|GKD78_01050!!!Putative!sulfatase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.45%
+Cluster 21549
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	Beta-galactosidase	ACU04901
+fig|328812.119.peg.3608|GKD78_21400!!!beta-galactosidase!(EC!3.2.1.23)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.84%
+Cluster 91485
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44606
+fig|328812.119.peg.316|GKD78_09570!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.26%
+fig|328812.119.peg.408|GKD78_09905!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	65.33%
+fig|328812.119.peg.4334|GKD78_23865!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	62.26%
+Cluster 91484
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44236
+fig|328812.119.peg.1205|GKD78_13715!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.65%
+fig|328812.119.peg.3699|GKD78_21820!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.77%
+Cluster 576605
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraQ	BAD48097
+fig|328812.119.peg.333|GKD78_26665!!!Conjugative!transposon!protein!TraQ!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	92.47%
+Cluster 662035
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraF	BAD48107
+fig|328812.119.peg.14|GKD78_26525!!!Conjugative!transposon!protein!TraF!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	92.98%
+Cluster 642732
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50810
+fig|328812.119.peg.3729|GKD78_21970!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	87.60%
+Cluster 107488
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative lipoprotein	CAH09391
+fig|328812.119.peg.446|GKD78_10080!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.78%
+Cluster 24866
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44389
+fig|328812.119.peg.4626|GKD78_04965!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.43%
+Cluster 203533
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	outer membrane protein OmpA	ABR42429
+fig|328812.119.peg.783|GKD78_11665!!!outer!membrane!protein!OmpA!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	86.77%
+Cluster 524010
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	ATP synthase delta chain	ABR42050
+fig|328812.119.peg.2313|GKD78_17590!!!ATP!synthase!delta!chain!(EC!3.6.3.14)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.33%
+Cluster 636982
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43488
+fig|328812.119.peg.753|GKD78_11520!!!FIG039061:!hypothetical!protein!related!to!heme!utilization!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.86%
+Cluster 529706
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	phosphoglycerate mutase	ABR45628
+fig|328812.119.peg.2060|GKD78_16420!!!Alpha-ribazole-5'-phosphate!phosphatase!(EC!3.1.3.73)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	77.97%
+Cluster 105161
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	outer membrane protein TolC	ABR43685
+fig|328812.119.peg.1432|GKD78_00645!!!Outer!membrane!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.52%
+Cluster 761228
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	hypothetical protein	ADE83267
+fig|328812.119.peg.30|GKD78_08345!!!Uncharacterized!protein!Fjoh_4981,!DUF4295-containing!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.00%
+Cluster 21942
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative O-antigen related protein	CAH09765
+fig|328812.119.peg.4017|GKD78_03625!!!putative!xylanase!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.96%
+Cluster 624315
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43762
+fig|328812.119.peg.518|GKD78_10430!!!FIG00897533:!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.41%
+Cluster 631228
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative protein-export membrane protein	ABR41984
+fig|328812.119.peg.500|GKD78_10345!!!Protein!translocase!membrane!subunit!SecG!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.98%
+Cluster 86060
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative outer membrane protein, probably involved in nutrient binding	ABR42018
+fig|328812.119.peg.562|GKD78_10640!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.52%
+Cluster 162352
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	isocitrate dehydrogenase (NADP)	ABM42459
+fig|328812.119.peg.1941|GKD78_15835!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	60.14%
+Cluster 488301
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX73966
+fig|328812.119.peg.4668|GKD78_05165!!!NADPH-dependent!7-cyano-7-deazaguanine!reductase!(EC!1.7.1.13)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.73%
+Cluster 576002
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR45485
+fig|328812.119.peg.2192|GKD78_17050!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	66.01%
+Cluster 397072
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41443
+fig|328812.119.peg.5163|GKD78_06405!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	75.71%
+Cluster 397076
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative beta-phosphoglucomutase	ABR41936
+fig|328812.119.peg.4448|GKD78_24395!!!Beta-phosphoglucomutase!(EC!5.4.2.6)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.17%
+Cluster 122330
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative glycosyltransferase	ABR43491
+fig|328812.119.peg.750|GKD78_11505!!!Capsular!polysaccharide!biosynthesis!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	69.53%
+Cluster 511520
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR40138
+fig|328812.119.peg.2005|GKD78_16175!!!cAMP-binding!proteins!-!catabolite!gene!activator!and!regulatory!subunit!of!cAMP-dependent!protein!kinases!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	80.21%
+Cluster 357311
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	TPR domain protein	ABR43789
+fig|328812.119.peg.1226|GKD78_13810!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.36%
+Cluster 663767
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraF	BAD46873
+fig|328812.119.peg.4845|GKD78_25440!!!Conjugative!transposon!protein!TraF!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	70.00%
+Cluster 27046
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative TonB dependent outer membrane protein	ABR45183
+fig|328812.119.peg.262|GKD78_09320!!!putative!ferric!aerobactin!receptor!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	83.54%
+Cluster 480123
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	dihydroxyacetone kinase	ABR42406
+fig|328812.119.peg.964|GKD78_12540!!!Putative!dihydroxyacetone!kinase!(EC!2.7.1.29),!ADP-binding!subunit!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	79.90%
+Cluster 370899
+27951	CP001699	Chitinophaga pinensis DSM 2588, complete genome.	No	Sphingobacteria	conserved hypothetical protein	ACU63715
+fig|328812.119.peg.1146|GKD78_13450!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.69%
+Cluster 299928
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	cation efflux system protein	ABR42573
+fig|328812.119.peg.4490|GKD78_24595!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	71.38%
+Cluster 280490
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	TPR-domain containing protein	ABR44400
+fig|328812.119.peg.2286|GKD78_17465!!!TPR-domain-containing!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.19%
+Cluster 221223
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	possible isochorismate synthase	ABR42898
+fig|328812.119.peg.114|GKD78_08735!!!Isochorismate!synthase!(EC!5.4.4.2)!@!Menaquinone-specific!isochorismate!synthase!(EC!5.4.4.2)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.97%
+Cluster 147529
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative GMP synthase	ABR43567
+fig|328812.119.peg.4458|GKD78_24440!!!GMP!synthase![glutamine-hydrolyzing],!amidotransferase!subunit!(EC!6.3.5.2)!/!GMP!synthase![glutamine-hydrolyzing],!ATP!pyrophosphatase!subunit!(EC!6.3.5.2)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	94.48%
+Cluster 63731
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	NADH dehydrogenase (quinone)	ABP67448
+fig|328812.119.peg.5226|GKD78_06710!!!HoxF-like!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	64.82%
+Cluster 217797
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative protein involved in capsular polysaccharide biosynthesis	ABR42908
+fig|328812.119.peg.894|GKD78_12195!!!putative!protein!involved!in!capsular!polysaccharide!biosynthesis!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.55%
+fig|328812.119.peg.990|GKD78_12665!!!putative!protein!involved!in!capsular!polysaccharide!biosynthesis!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.54%
+fig|328812.119.peg.3215|GKD78_20750!!!putative!protein!involved!in!capsular!polysaccharide!biosynthesis!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.20%
+fig|328812.119.peg.3634|GKD78_21525!!!putative!protein!involved!in!capsular!polysaccharide!biosynthesis!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	72.01%
+Cluster 691547
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH08975
+fig|328812.119.peg.5333|GKD78_26165!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	86.02%
+Cluster 574557
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	transcriptional regulator, AsnC family	ADE81556
+fig|328812.119.peg.2398|GKD78_17985!!!Transcriptional!regulator,!AsnC!family!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	68.63%
+Cluster 256488
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	iron(III) ABC transporter ATP-binding protein	ABR42785
+fig|328812.119.peg.1954|GKD78_15895!!!Vitamin!B12!ABC!transporter,!ATP-binding!protein!BtuD!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	74.40%
+Cluster 400668
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44317
+fig|328812.119.peg.2924|GKD78_19385!!!Repair!of!Iron!Centers!di-iron!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	76.96%
+fig|328812.119.peg.2929|GKD78_19410!!!Repair!of!Iron!Centers!di-iron!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	84.78%
+Cluster 485430
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44724
+fig|328812.119.peg.2547|GKD78_01880!!!hypothetical!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.11%
+Cluster 270798
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	NAD-dependent epimerase/dehydratase	ADB40339
+fig|328812.119.peg.1893|GKD78_15600!!!UDP-glucose!4-epimerase!(EC!5.1.3.2)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	67.49%
+Cluster 165492
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	probable ABC transporter permease	BAD49117
+fig|328812.119.peg.257|GKD78_09295!!!RND!efflux!system,!membrane!fusion!protein!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	73.32%
+Cluster 250062
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47808
+fig|328812.119.peg.1303|GKD78_00015!!!endonuclease/exonuclease/phosphatase!family!precursor!(38.1!kD)!(5F605)!!![Parabacteroides!goldsteinii!strain!BIOML-A2!|!328812.119]	78.61%

@@ -1,0 +1,330 @@
+Cluster 721771
+21047	CP000860	Candidatus Desulforudis audaxviator MP104C, complete genome.	No	Clostridia	ribosomal protein L33	ACA58769
+fig|1550024.412.peg.1979|GMD52_01670!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-dependent!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	71.43%
+Cluster 30310
+13901	CP000924	Thermoanaerobacter pseudethanolicus ATCC 33223, complete genome.	No	Clostridia	ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent	ABY93998
+fig|1550024.412.peg.2156|GMD52_02445!!!Ribonucleotide!reductase!of!class!II!(coenzyme!B12-dependent)!(EC!1.17.4.1)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	62.84%
+Cluster 712650
+33157	CP001936	Thermoanaerobacter italicus Ab9, complete genome.	No	Clostridia	transcriptional regulator, AbrB family	ADD01422
+fig|1550024.412.peg.2915|GMD52_04475!!!Transition!state!regulatory!protein!AbrB!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	64.20%
+Cluster 551996
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	conserved hypothetical protein	ABX41505
+fig|1550024.412.peg.1233|GMD52_00645!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	62.26%
+Cluster 668972
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL06070
+fig|1550024.412.peg.517|GMD52_11210!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	63.55%
+fig|1550024.412.peg.2693|GMD52_16870!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	63.55%
+Cluster 562024
+288	AE009952	Yersinia pestis KIM, complete genome.	Yes	Gammaproteobacteria	putative transposase	AAM85509
+fig|1550024.412.peg.1009!!!Transposase,!IS200!family!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	64.15%
+Cluster 562026
+64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Yes	Bacillales	transposase, IS200 family	AAW54530
+fig|1550024.412.peg.2647|GMD52_03725!!!Transposase,!IS200!family!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	64.47%
+Cluster 267446
+13418	CP000529	Polaromonas naphthalenivorans CJ2, complete genome.	No	Betaproteobacteria	cysteine synthase	ABM35882
+fig|1550024.412.peg.2170|GMD52_02495!!!Cysteine!synthase!(EC!2.5.1.47)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	60.97%
+Cluster 95982
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	protein of unknown function DUF1538	ADL05831
+fig|1550024.412.peg.581|GMD52_11505!!!Putative!membrane-spanning!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	67.71%
+Cluster 334760
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ADL05865
+fig|1550024.412.peg.2484|GMD52_02990!!!ABC!transporter,!permease!protein!2!(cluster!1,!maltose/g3p/polyamine/iron)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	64.52%
+Cluster 4738
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	DNA-directed RNA polymerase, beta' subunit	ABX44033
+fig|1550024.412.peg.1668|GMD52_14990!!!DNA-directed!RNA!polymerase!beta'!subunit!(EC!2.7.7.6)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	67.54%
+Cluster 730239
+104	AE000782	Archaeoglobus fulgidus DSM 4304, complete genome.	No	Archaeoglobi	rubredoxin (rd-2)	AAB89910
+fig|1550024.412.peg.2667|GMD52_03810!!!Rubredoxin!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	71.15%
+Cluster 24904
+21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Yes	Coriobacteridae	acetyl-CoA carboxylase, carboxyl transferase, beta subunit	ACV55948
+fig|1550024.412.peg.3017!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	61.54%
+Cluster 139853
+13887	CP000056	Streptococcus pyogenes MGAS6180, complete genome.	Yes	Lactobacillales	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase	AAX71275
+fig|1550024.412.peg.1047|GMD52_13570!!!Co-activator!of!prophage!gene!expression!IbrA!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	68.85%
+Cluster 184000
+29431	CP001968	Denitrovibrio acetiphilus DSM 12809, complete genome.	No	Deferribacterales	transposase mutator type	ADD67474
+fig|1550024.412.peg.1406!!!Mobile!element!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	60.36%
+Cluster 230197
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	inner-membrane translocator	ACL22918
+fig|1550024.412.peg.3844|GMD52_08265!!!Branched-chain!amino!acid!ABC!transporter,!permease!protein!LivM!(TC!3.A.1.4.1)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	60.50%
+Cluster 37763
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Hydantoinase/oxoprolinase	ADL06741
+fig|1550024.412.peg.2480|GMD52_02975!!!Hydantoinase/oxoprolinase!family!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	73.36%
+Cluster 182777
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	LL-diaminopimelate aminotransferase	ADB46739
+fig|1550024.412.peg.3324|GMD52_06010!!!L,L-diaminopimelate!aminotransferase!(EC!2.6.1.83)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	60.00%
+Cluster 242067
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ABX42365
+fig|1550024.412.peg.1921|GMD52_01425!!!Oligopeptide!ABC!transporter,!permease!protein!OppC!(TC!3.A.1.5.1)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.23%
+Cluster 432499
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL06743
+fig|1550024.412.peg.2478|GMD52_02965!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.65%
+Cluster 124802
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	extracellular solute-binding protein family 1	ABX42162
+fig|1550024.412.peg.2888|GMD52_04355!!!ABC!transporter,!substrate-binding!protein!(cluster!1,!maltose/g3p/polyamine/iron)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	70.42%
+Cluster 641881
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	regulatory protein, ArsR	ABR33626
+fig|1550024.412.peg.2597|GMD52_03500!!!Cadmium!efflux!system!accessory!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	61.34%
+Cluster 105624
+32609	CP002160	Clostridium cellulovorans 743B, complete genome.	No	Clostridia	L-fucose isomerase-like	ADL51977
+fig|1550024.412.peg.3960|GMD52_08765!!!predicted!xylose!isomerase!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	66.80%
+Cluster 643808
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL06076
+fig|1550024.412.peg.522|GMD52_11235!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.83%
+fig|1550024.412.peg.2688|GMD52_16845!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	67.50%
+Cluster 226229
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	aspartate-semialdehyde dehydrogenase	ACL76919
+fig|1550024.412.peg.2536|GMD52_03220!!!Aspartate-semialdehyde!dehydrogenase!(EC!1.2.1.11)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	67.97%
+Cluster 315269
+29445	CP001685	Leptotrichia buccalis DSM 1135, complete genome.	Yes	Fusobacteriales	band 7 protein	ACV38475
+fig|1550024.412.peg.3313|GMD52_05955!!!Protein!QmcA!(possibly!involved!in!integral!membrane!quality!control)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	62.16%
+Cluster 689502
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	prevent-host-death family protein	ACV63553
+fig|1550024.412.peg.1011|GMD52_13405!!!Prevent-host-death!family!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	69.89%
+Cluster 483278
+13372	CP000633	Agrobacterium vitis S4 chromosome 1, complete sequence.	No	Alphaproteobacteria	30S ribosomal protein S12	ACM36312
+fig|1550024.412.peg.1670|GMD52_15000!!!SSU!ribosomal!protein!S12p!(S23e)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	66.90%
+Cluster 565989
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	ribosomal protein L22	ACL75141
+fig|1550024.412.peg.1625|GMD52_14790!!!LSU!ribosomal!protein!L22p!(L17e)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	63.06%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|1550024.412.peg.2097|GMD52_02165!!!LSU!ribosomal!protein!L34p!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	61.36%
+Cluster 591885
+33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	No	Clostridia	biotin/lipoyl attachment domain-containing protein	ADB48189
+fig|1550024.412.peg.3721|GMD52_07685!!!Biotin!carboxyl!carrier!protein!@!Biotin!carboxyl!carrier!protein!=>!methylmalonyl-CoA!decarboxylase!@!Biotin!carboxyl!carrier!protein!of!oxaloacetate!decarboxylase!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	66.67%
+Cluster 686717
+29407	CP001393	Caldicellulosiruptor bescii DSM 6725, complete genome.	No	Clostridia	conserved hypothetical protein	ACM60923
+fig|1550024.412.peg.3592|GMD52_07145!!!Zinc-ribbon!domain!Caur_1000.N!/!CxxC-x17-CxxC!domain!Caur_1000.C!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	70.65%
+Cluster 684025
+15708	CP000512	Acidovorax citrulli AAC00-1, complete genome.	No	Betaproteobacteria	protein of unknown function DUF1653	ABM33992
+fig|1550024.412.peg.604|GMD52_11610!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	61.25%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|1550024.412.peg.1673|GMD52_15015!!!Translation!elongation!factor!Tu!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	64.25%
+Cluster 693923
+12994	AP006840	Symbiobacterium thermophilum IAM 14863 DNA, complete genome.	No	Clostridia	30S ribosomal protein S17	BAD42048
+fig|1550024.412.peg.1629|GMD52_14810!!!SSU!ribosomal!protein!S17p!(S11e)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	73.81%
+Cluster 294596
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ADL06373
+fig|1550024.412.peg.302|GMD52_10285!!!Possible!alpha-xyloside!ABC!transporter,!permease!component!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	60.00%
+Cluster 147528
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative GMP synthase	ABR41201
+fig|1550024.412.peg.1677|GMD52_15035!!!GMP!synthase![glutamine-hydrolyzing],!amidotransferase!subunit!(EC!6.3.5.2)!/!GMP!synthase![glutamine-hydrolyzing],!ATP!pyrophosphatase!subunit!(EC!6.3.5.2)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	76.46%
+Cluster 144258
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	Dinitrogenase iron-molybdenum cofactor biosynthesis protein	ABX43374
+fig|1550024.412.peg.1180|GMD52_00420!!!Iron-sulfur!cluster!carrier!protein,!CA_C2982!type!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	63.90%
+Cluster 46562
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	2-isopropylmalate synthase	ABR34342
+fig|1550024.412.peg.412|GMD52_10745!!!2-isopropylmalate!synthase!(EC!2.3.3.13)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	61.18%
+Cluster 239185
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	radical SAM domain-containing protein	ADL33387
+fig|1550024.412.peg.3923|GMD52_08600!!!Radical!SAM!domain!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	71.14%
+Cluster 59911
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	conserved hypothetical protein	ADL06053
+fig|1550024.412.peg.497|GMD52_11120!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	67.11%
+fig|1550024.412.peg.1488|GMD52_14220!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	66.28%
+Cluster 148994
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	C4-dicarboxylate anaerobic carrier-like protein	ADL06742
+fig|1550024.412.peg.2479|GMD52_02970!!!putative!transporter!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	83.14%
+Cluster 561916
+33157	CP001936	Thermoanaerobacter italicus Ab9, complete genome.	No	Clostridia	3-isopropylmalate dehydratase, small subunit	ADD01346
+fig|1550024.412.peg.414|GMD52_10755!!!3-isopropylmalate!dehydratase!small!subunit!(EC!4.2.1.33)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.82%
+Cluster 282021
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	2-dehydro-3-deoxyphosphogluconate aldolase/4-hydroxy-2-oxoglutarate aldolase	ABX40444
+fig|1550024.412.peg.2024|GMD52_01855!!!4-hydroxy-2-oxoglutarate!aldolase!(EC!4.1.3.16)!@!2-dehydro-3-deoxyphosphogluconate!aldolase!(EC!4.1.2.14)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	61.27%
+Cluster 198468
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	putative iron-containing alcohol dehydrogenase	ADK13465
+fig|1550024.412.peg.3225|GMD52_05630!!!Alcohol!dehydrogenase!(EC!1.1.1.1)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	69.43%
+Cluster 94984
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	transporter GntP family	ADL32879
+fig|1550024.412.peg.3449|GMD52_06570!!!D-glycerate!transporter!(predicted)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	69.55%
+Cluster 3666
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	hypothetical protein	ABG10141
+fig|1550024.412.peg.2372!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	60.00%
+Cluster 312489
+17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Yes	Lactobacillales	30S ribosomal protein S2	ABP90946
+fig|1550024.412.peg.3853|GMD52_08295!!!SSU!ribosomal!protein!S2p!(SAe)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.84%
+Cluster 574744
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	FeS cluster assembly scaffold protein NifU	ACL76279
+fig|1550024.412.peg.928|GMD52_12980!!!Iron-sulfur!cluster!assembly!scaffold!protein!IscU/NifU-like!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.03%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|1550024.412.peg.1624|GMD52_14785!!!SSU!ribosomal!protein!S19p!(S15e)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	72.53%
+Cluster 345235
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	transcriptional regulator	ABR41681
+fig|1550024.412.peg.114!!!4-deoxy-L-threo-5-hexosulose-uronate!ketol-isomerase!(EC!5.3.1.17)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.00%
+fig|1550024.412.peg.3034!!!4-deoxy-L-threo-5-hexosulose-uronate!ketol-isomerase!(EC!5.3.1.17)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.00%
+Cluster 342221
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	hypothetical protein	ABF36179
+fig|1550024.412.peg.2850|GMD52_04185!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	86.69%
+Cluster 555891
+19743	CP001131	Anaeromyxobacter sp. K, complete genome.	No	Deltaproteobacteria	ribosomal protein S11	ACG73186
+fig|1550024.412.peg.1647|GMD52_14900!!!SSU!ribosomal!protein!S11p!(S14e)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	63.24%
+Cluster 41572
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	Inorganic diphosphatase	ABN52656
+fig|1550024.412.peg.140|GMD52_09585!!!Pyrophosphate-energized!proton!pump!(EC!3.6.1.1)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	66.72%
+Cluster 739428
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	excisionase	CAJ67936
+fig|1550024.412.peg.884|GMD52_12805!!!putative!transposon!excisionase;!Tn916!ORF1-like!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	77.61%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|1550024.412.peg.1630|GMD52_14815!!!LSU!ribosomal!protein!L14p!(L23e)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	73.77%
+Cluster 726524
+16330	CP000562	Methanoculleus marisnigri JR1, complete genome.	No	Methanomicrobia	conserved hypothetical protein	ABN58265
+fig|1550024.412.peg.2740|GMD52_17090!!!Uncharacterized!protein!YwbE!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	62.32%
+Cluster 321943
+205	CP001336	Desulfitobacterium hafniense DCB-2, complete genome.	No	Clostridia	DegV family protein	ACL18672
+fig|1550024.412.peg.1758|GMD52_15390!!!DegV!family!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	68.47%
+Cluster 427409
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	two component system response regulator	ADL35563
+fig|1550024.412.peg.1443|GMD52_14010!!!Two-component!transcriptional!response!regulator,!OmpR!family!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	61.14%
+Cluster 581427
+20831	CP001684	Slackia heliotrinireducens DSM 20476, complete genome.	No	Coriobacteridae	predicted transcriptional regulator	ACV21165
+fig|1550024.412.peg.2511|GMD52_03110!!!Regulatory!protein!MerR!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	63.70%
+Cluster 753494
+19639	CP000867	Methanococcus maripaludis C6, complete genome.	No	Methanococci	4Fe-4S ferredoxin iron-sulfur binding domain protein	ABX01666
+fig|1550024.412.peg.2164|GMD52_02470!!!Ferredoxin!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	60.71%
+Cluster 50459
+29407	CP001393	Caldicellulosiruptor bescii DSM 6725, complete genome.	No	Clostridia	triosephosphate isomerase	ACM60503
+fig|1550024.412.peg.3316|GMD52_05970!!!Phosphoglycerate!kinase!(EC!2.7.2.3)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	61.08%
+Cluster 756758
+13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	No	Clostridia	ribosomal protein L36	ABP67841
+fig|1550024.412.peg.1645|GMD52_14890!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-dependent!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	81.08%
+Cluster 254742
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	NAD-dependent epimerase/dehydratase	ABX40779
+fig|1550024.412.peg.2044|GMD52_01935!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	68.34%
+Cluster 135807
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative mobilization protein	CAJ67947
+fig|1550024.412.peg.3824!!!FIG00647030:!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	66.67%
+Cluster 218411
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	phosphonate ABC transporter, periplasmic phosphonate-binding protein	ADL02902
+fig|1550024.412.peg.3831|GMD52_08205!!!ABC!transporter,!substrate-binding!protein!(cluster!12,!methionine/phosphonates)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	71.51%
+Cluster 704425
+12994	AP006840	Symbiobacterium thermophilum IAM 14863 DNA, complete genome.	No	Clostridia	30S ribosomal protein S16	BAD40451
+fig|1550024.412.peg.424|GMD52_10805!!!SSU!ribosomal!protein!S16p!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	63.75%
+Cluster 221558
+32587	CP001997	Aminobacterium colombiense DSM 12261, complete genome.	No	Synergistia	uracil phosphoribosyltransferase	ADE57013
+fig|1550024.412.peg.264|GMD52_10130!!!Uracil!phosphoribosyltransferase!(EC!2.4.2.9)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	64.59%
+Cluster 767945
+34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	No	Gammaproteobacteria	putative K+-transporting ATPase, F subunit	CAX57352
+fig|1550024.412.peg.1569|GMD52_14575!!!potassium-transporting!ATPase!subunit!F!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	64.00%
+Cluster 101393
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	glutamate synthase (NADPH) GltB2 subunit	ABN51439
+fig|1550024.412.peg.3333|GMD52_06055!!!Glutamate!synthase![NADPH]!large!chain!(EC!1.4.1.13)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	79.64%
+Cluster 358490
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	phosphonate ABC transporter, inner membrane subunit	ADL02904
+fig|1550024.412.peg.3833|GMD52_08215!!!ABC!transporter,!permease!protein!(cluster!12,!methionine/phosphonates)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	74.36%
+Cluster 307661
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ABX40781
+fig|1550024.412.peg.2040|GMD52_01925!!!ABC!transporter,!permease!protein!2!(cluster!1,!maltose/g3p/polyamine/iron)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	75.25%
+Cluster 129187
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	FAD dependent oxidoreductase	ACL75312
+fig|1550024.412.peg.323|GMD52_10380!!!glucose-inhibited!division!protein!A!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	70.68%
+Cluster 578792
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	4Fe-4S ferredoxin, iron-sulfur binding	ABN51440
+fig|1550024.412.peg.3331|GMD52_06045!!!Nitrite!reductase!probable!electron!transfer!4Fe-S!subunit!(EC!1.7.1.4)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.07%
+Cluster 646296
+18737	CP000837	Streptococcus suis GZ1, complete genome.	Yes	Lactobacillales	VirB2-like protein	ADE30951
+fig|1550024.412.peg.2851|GMD52_04190!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	70.69%
+Cluster 329036
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ABX44207
+fig|1550024.412.peg.3180|GMD52_05440!!!ABC!transporter,!permease!protein!2!(cluster!1,!maltose/g3p/polyamine/iron)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.96%
+Cluster 132361
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	glucose-inhibited division protein A	ADL06739
+fig|1550024.412.peg.2482|GMD52_02985!!!putative!membrane!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	61.50%
+Cluster 467709
+32637	CP002116	Spirochaeta smaragdinae DSM 11293, complete genome.	No	Spirochaetales	Methionine synthase	ADK81851
+fig|1550024.412.peg.336!!!Uncharacterized!corrinoid!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	68.75%
+fig|1550024.412.peg.1814!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	63.33%
+Cluster 47783
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	DNA topoisomerase (ATP-hydrolyzing)	ABN51543
+fig|1550024.412.peg.3912|GMD52_08550!!!DNA!topoisomerase!IV!subunit!B!(EC!5.99.1.3)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.55%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|1550024.412.peg.1646|GMD52_14895!!!SSU!ribosomal!protein!S13p!(S18e)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	71.31%
+Cluster 174009
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Extracellular ligand-binding receptor	ADL04673
+fig|1550024.412.peg.3846|GMD52_08275!!!Branched-chain!amino!acid!ABC!transporter,!substrate-binding!protein!LivJ!(TC!3.A.1.4.1)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.73%
+Cluster 653133
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	redox-active disulfide protein 2	ACV64949
+fig|1550024.412.peg.2779|GMD52_03865!!!Redox-active!disulfide!protein!2!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.79%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|1550024.412.peg.1644|GMD52_14885!!!Translation!initiation!factor!1!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.28%
+Cluster 120701
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase	ADL35306
+fig|1550024.412.peg.2360|GMD52_16615!!!Sugar!transferase!involved!in!lipopolysaccharide!synthesis!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	62.90%
+Cluster 29972
+13492	CP001666	Clostridium ljungdahlii DSM 13528, complete genome.	No	Clostridia	glutamate synthase	ADK16750
+fig|1550024.412.peg.3659|GMD52_07415!!!NADH-dependent!reduced!ferredoxin:NADP+!oxidoreductase!subunit!B!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	66.45%
+Cluster 25677
+16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Yes	Lactobacillales	TRSE protein	ABF36177
+fig|1550024.412.peg.2847|GMD52_04170!!!FIG01020158:!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	62.04%
+Cluster 647174
+16064	CP000155	Hahella chejuensis KCTC 2396, complete genome.	No	Gammaproteobacteria	ribosomal protein L31	ABC32627
+fig|1550024.412.peg.1658|GMD52_14945!!!LSU!ribosomal!protein!L31p!@!LSU!ribosomal!protein!L31p,!zinc-dependent!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.67%
+Cluster 365837
+38039	FN545816	Clostridium difficile R20291 complete genome.	Yes	Clostridia	putative uncharacterized protein	CBE04594
+fig|1550024.412.peg.2211|GMD52_15965!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	90.67%
+Cluster 276159
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	binding-protein-dependent transport systems inner membrane component	ABX43918
+fig|1550024.412.peg.3037!!!ABC!transporter,!permease!protein!1!(cluster!1,!maltose/g3p/polyamine/iron)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	67.57%
+Cluster 507224
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Propanediol utilization protein	ADL04473
+fig|1550024.412.peg.2501|GMD52_03060!!!Uncharacterized!protein!similar!to!PduL!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	70.05%
+Cluster 694866
+21085	CP001700	Catenulispora acidiphila DSM 44928, complete genome.	No	Actinobacteridae	transcriptional regulator, XRE family	ACU72838
+fig|1550024.412.peg.2089|GMD52_02135!!!Uncharacterized!transcriptional!regulator!YozG,!Cro/CI!family!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	69.12%
+Cluster 591604
+27759	CP001615	Exiguobacterium sp. AT1b, complete genome.	No	Bacillales	ribosomal protein L16	ACQ70552
+fig|1550024.412.peg.1627|GMD52_14800!!!LSU!ribosomal!protein!L16p!(L10e)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	77.86%
+Cluster 427253
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	4Fe-4S ferredoxin, iron-sulfur binding	ABN51276
+fig|1550024.412.peg.896|GMD52_12865!!!Ferredoxin!3!fused!to!uncharacterized!domain!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	68.10%
+Cluster 67374
+20399	CP001656	Paenibacillus sp. JDR-2, complete genome.	No	Bacillales	glycoside hydrolase family 2 sugar binding	ACT02695
+fig|1550024.412.peg.1366!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	67.57%
+Cluster 750815
+29405	CP001727	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446, complete genome.	No	Bacillales	ribosomal protein S21	ACV59001
+fig|1550024.412.peg.213|GMD52_09920!!!SSU!ribosomal!protein!S21p!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	67.24%
+Cluster 43188
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	formate acetyltransferase	ADL02955
+fig|1550024.412.peg.728|GMD52_12155!!!Pyruvate!formate-lyase!(EC!2.3.1.54)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	83.19%
+Cluster 461614
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	GCN5-related N-acetyltransferase	ACV61554
+fig|1550024.412.peg.1210|GMD52_00555!!!Acetyltransferase!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	68.57%
+Cluster 679976
+30983	CP002131	Thermosediminibacter oceani DSM 16646, complete genome.	No	Clostridia	conserved hypothetical protein	ADL08315
+fig|1550024.412.peg.3279|GMD52_05815!!!Zinc-ribbon!domain!Caur_1000.N!/!CxxC-x17-CxxC!domain!Caur_1000.C!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	68.13%
+Cluster 552782
+13496	CP000554	Prochlorococcus marinus str. MIT 9303, complete genome.	No	Prochlorales	50S ribosomal protein L11	ABM79507
+fig|1550024.412.peg.1976|GMD52_01655!!!LSU!ribosomal!protein!L11p!(L12e)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	63.83%
+Cluster 252284
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	carbohydrate kinase PfkB family	ADL35646
+fig|1550024.412.peg.1286|GMD52_00880!!!2-dehydro-3-deoxygluconokinase!(EC!2.7.1.45)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	71.30%
+Cluster 569857
+16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	No	Clostridia	conserved hypothetical protein	ABX43484
+fig|1550024.412.peg.2173|GMD52_02505!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	65.56%
+Cluster 687662
+13901	CP000924	Thermoanaerobacter pseudethanolicus ATCC 33223, complete genome.	No	Clostridia	protein of unknown function DUF370	ABY94979
+fig|1550024.412.peg.3724|GMD52_07700!!!UPF0296!protein!YlzA!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	79.55%
+Cluster 640066
+314	CP000568	Clostridium thermocellum ATCC 27405, complete genome.	No	Clostridia	ferredoxin	ABN51578
+fig|1550024.412.peg.3436|GMD52_06505!!!Electron-bifurcating![FeFe]-hydrogenase!subunit!C!(2Fe2S!protein)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	61.48%
+Cluster 183997
+17419	CP001348	Clostridium cellulolyticum H10, complete genome.	No	Clostridia	transposase mutator type	ACL74802
+fig|1550024.412.peg.1878|GMD52_15870!!!Mobile!element!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	73.47%
+Cluster 63732
+29407	CP001393	Caldicellulosiruptor bescii DSM 6725, complete genome.	No	Clostridia	NADH dehydrogenase (quinone)	ACM60398
+fig|1550024.412.peg.3437|GMD52_06510!!!Electron-bifurcating![FeFe]-hydrogenase!subunit!B!(NAD+!reductase,!ferredoxin!reductase)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	74.71%
+Cluster 1180
+28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Yes	Lactobacillales	immunoglobulin A1 protease	ACO16596
+fig|1550024.412.peg.1685!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	60.00%
+fig|1550024.412.peg.2301!!!hypothetical!protein!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	60.00%
+Cluster 365217
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	phosphonate ABC transporter, inner membrane subunit	ADL02905
+fig|1550024.412.peg.3834|GMD52_08220!!!ABC!transporter,!permease!protein!(cluster!12,!methionine/phosphonates)!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	77.32%
+Cluster 308814
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	Radical SAM domain protein	ADL05608
+fig|1550024.412.peg.358|GMD52_10525!!!radical!activating!enzyme!!![Ruthenibacterium!lactatiformans!strain!BIOML-A7!|!1550024.412]	60.61%

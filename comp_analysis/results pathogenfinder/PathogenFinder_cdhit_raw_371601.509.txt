@@ -1,0 +1,1628 @@
+Cluster 247300
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	Fic family protein	ADE82267
+fig|371601.509.peg.3480|GA439_05335!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.79%
+Cluster 119537
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	Glucuronate isomerase	ADB37111
+fig|371601.509.peg.5368|GA439_26440!!!Uronate!isomerase!(EC!5.3.1.12)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.04%
+Cluster 283111
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43466
+fig|371601.509.peg.1859|GA439_15765!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.40%
+Cluster 34688
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD49081
+fig|371601.509.peg.3570|GA439_21005!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.67%
+Cluster 43497
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical exported protein	CAH07352
+fig|371601.509.peg.1712|GA439_15080!!!FIG00936866:!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.04%
+Cluster 190978
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	serine/threonine transporter	AAQ65536
+fig|371601.509.peg.2663|GA439_18545!!!Na+/H+-dicarboxylate!symporter!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.15%
+Cluster 610240
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH06703
+fig|371601.509.peg.1090|GA439_14415!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.20%
+Cluster 91766
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	sugar dehydrogenase, UDP-glucose/GDP-mannose dehydrogenase family	AAQ66250
+fig|371601.509.peg.3911|GA439_05405!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.78%
+fig|371601.509.peg.5374|GA439_26470!!!UDP-glucose!6-dehydrogenase!(EC!1.1.1.22)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.36%
+Cluster 103793
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49246
+fig|371601.509.peg.2572|GA439_18090!!!Efflux!transport!system,!outer!membrane!factor!(OMF)!lipoprotein!BT_0954!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.40%
+Cluster 29855
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	beta-N-acetylhexosaminidase	BAD48481
+fig|371601.509.peg.2702|GA439_18740!!!beta-glycosyl!hydrolase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.81%
+Cluster 539104
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative transcriptional regulator UpxY homolog	BAD49525
+fig|371601.509.peg.2883|GA439_19585!!!Capsular!polysaccharide!transcription!antitermination!protein,!UpxY!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.95%
+Cluster 509630
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH09092
+fig|371601.509.peg.3726|GA439_21735!!!5'-methylthioadenosine!nucleosidase!(EC!3.2.2.16)!@!S-adenosylhomocysteine!nucleosidase!(EC!3.2.2.9)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.66%
+Cluster 682820
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50007
+fig|371601.509.peg.5104|GA439_25740!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.00%
+Cluster 187766
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	major outer membrane protein OmpA	BAD50779
+fig|371601.509.peg.2962|GA439_19965!!!Major!outer!membrane!protein!OmpA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.37%
+Cluster 53582
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative two-component system sensor histidine kinase/response regulator fusion protein	CAH06862
+fig|371601.509.peg.3785|GA439_22045!!!Two-component!system!sensor!histidine!kinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.14%
+Cluster 53581
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	two-component system sensor histidine kinase	BAD47922
+fig|371601.509.peg.843!!!Two-component!system!sensor!histidine!kinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.40%
+Cluster 231782
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47915
+fig|371601.509.peg.837|GA439_13175!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	91.29%
+Cluster 85761
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein with a conserved domain	ABR38970
+fig|371601.509.peg.3012|GA439_20205!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.61%
+Cluster 504006
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative membrane protein	ABR40167
+fig|371601.509.peg.5195|GA439_08150!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.02%
+Cluster 254680
+27777	CP001793	Geobacillus sp. Y412MC10, complete genome.	No	Bacillales	NAD-dependent epimerase/dehydratase	ACX68405
+fig|371601.509.peg.3941|GA439_05545!!!NAD-dependent!epimerase/dehydratase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.24%
+Cluster 111943
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48357
+fig|371601.509.peg.1415|GA439_01510!!!Immunoreactive!53!kDa!antigen!PG123!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.95%
+Cluster 2428
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH08213
+fig|371601.509.peg.2581|GA439_18140!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.35%
+Cluster 444398
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48935
+fig|371601.509.peg.777|GA439_12905!!!UPF0056!inner!membrane!protein!MarC!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	89.73%
+Cluster 595791
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	hypothetical protein	CAH05730
+fig|371601.509.peg.4695|GA439_24500!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	95.83%
+Cluster 45881
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	conserved hypothetical protein	ADE83159
+fig|371601.509.peg.5087|GA439_25660!!!UPF0313![4Fe-4S]!protein!YgiQ!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.77%
+Cluster 692242
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50617
+fig|371601.509.peg.4932|GA439_07555!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.49%
+Cluster 513476
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative exported protein	CAH05927
+fig|371601.509.peg.2518|GA439_03230!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.88%
+Cluster 199513
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48567
+fig|371601.509.peg.2668|GA439_18565!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.28%
+Cluster 113429
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative two-component sensor histidine kinase	CAH06288
+fig|371601.509.peg.4175|GA439_22775!!!Two-component!system!sensor!histidine!kinase!FrrD!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	85.80%
+Cluster 652635
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD46895
+fig|371601.509.peg.5338|GA439_26310!!!FIG00938987:!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	100.00%
+Cluster 92528
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical transmembrane protein	CAH06564
+fig|371601.509.peg.4373|GA439_23680!!!Regulatory!sensor-transducer,!BlaR1/MecR1!family!/!TonB-dependent!receptor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.00%
+Cluster 299305
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39639
+fig|371601.509.peg.4441|GA439_06540!!!Permease!of!the!drug/metabolite!transporter!(DMT)!superfamily!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.00%
+Cluster 252573
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50205
+fig|371601.509.peg.178|GA439_27340!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.30%
+Cluster 586461
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD48563
+fig|371601.509.peg.2672|GA439_18585!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.51%
+Cluster 205495
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative permease	BAD47406
+fig|371601.509.peg.4668|GA439_24365!!!Uncharacterized!UPF0118!transporter!BT_2276!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.02%
+Cluster 89791
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39543
+fig|371601.509.peg.4446|GA439_06565!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.36%
+fig|371601.509.peg.5278|GA439_08555!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.76%
+fig|371601.509.peg.107|GA439_10025!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.25%
+fig|371601.509.peg.986|GA439_13915!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.68%
+Cluster 338324
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	AraC family transcriptional regulator	BAD50247
+fig|371601.509.peg.4245|GA439_23105!!!Transcriptional!regulator,!AraC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.35%
+Cluster 8891
+12749	CP001108	Prosthecochloris aestuarii DSM 271, complete genome.	No	Chlorobia	methylmalonyl-CoA mutase, large subunit	ACF45920
+fig|371601.509.peg.210|GA439_10400!!!Methylmalonyl-CoA!mutase!large!subunit,!MutB!(EC!5.4.99.2)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.01%
+Cluster 151875
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41907
+fig|371601.509.peg.1353|GA439_01205!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.97%
+Cluster 304686
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	probable N-acetylneuraminate lyase	BAD48453
+fig|371601.509.peg.581|GA439_12080!!!N-acetylneuraminate!lyase!(EC!4.1.3.3)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	90.82%
+Cluster 194091
+216	CP001037	Nostoc punctiforme PCC 73102, complete genome.	No	Nostocales	N-acylglucosamine 2-epimerase	ACC81481
+fig|371601.509.peg.2706|GA439_18760!!!N-acylglucosamine!2-epimerase!(EC!5.1.3.8)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.10%
+Cluster 332372
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative TPR repeat domain exported protein	CAH08945
+fig|371601.509.peg.1591|GA439_14505!!!TPR-repeat-containing!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.90%
+Cluster 201766
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR40643
+fig|371601.509.peg.4699|GA439_24520!!!Phosphate/pyrophosphate-specific!outer!membrane!porin!OprP/OprO!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.04%
+Cluster 550180
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD49659
+fig|371601.509.peg.1738|GA439_15185!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.40%
+Cluster 225301
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	type II restriction enzyme HpaII	BAD48770
+fig|371601.509.peg.958|GA439_13770!!!Type!II!restriction!enzyme!HpaII!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.99%
+Cluster 82356
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	sialidase	BAD48476
+fig|371601.509.peg.2704|GA439_18750!!!Sialidase!(EC!3.2.1.18)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	76.98%
+Cluster 678252
+16159	CP000159	Salinibacter ruber DSM 13855, complete genome.	No	Sphingobacteria	30S ribosomal protein S17	ABC44023
+fig|371601.509.peg.2229|GA439_17540!!!SSU!ribosomal!protein!S17p!(S11e)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.04%
+Cluster 353370
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48331
+fig|371601.509.peg.1448|GA439_01670!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.39%
+Cluster 73384
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	tetratricopeptide repeat family protein	BAD49724
+fig|371601.509.peg.1178|GA439_00370!!!Tetratricopeptide!repeat!family!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.72%
+Cluster 656155
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49426
+fig|371601.509.peg.114|GA439_10055!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.57%
+Cluster 475198
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative haloacid dehalogenase-like hydrolase	BAD51085
+fig|371601.509.peg.2296|GA439_17865!!!Haloacid!dehalogenase-like!hydrolase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.12%
+Cluster 475191
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47466
+fig|371601.509.peg.4908|GA439_07435!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.39%
+Cluster 177977
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	transposase	ABR43960
+fig|371601.509.peg.346|GA439_11010!!!Transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.41%
+Cluster 178206
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative membrane protein	CAH08230
+fig|371601.509.peg.2570|GA439_18080!!!Efflux!ABC!transporter,!permease!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.20%
+Cluster 380411
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon	BAD48111
+fig|371601.509.peg.4616|GA439_24115!!!Conjugative!transposon!protein!TraA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.40%
+Cluster 648832
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative mobilization protein	CAH05727
+fig|371601.509.peg.4698|GA439_24515!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	100.00%
+Cluster 605102
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD50220
+fig|371601.509.peg.3755|GA439_21880!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.01%
+Cluster 688406
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50346
+fig|371601.509.peg.1021|GA439_14090!!!FIG00410305:!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	79.17%
+Cluster 168577
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative transmembrane transport protein	BAD50011
+fig|371601.509.peg.1903|GA439_15975!!!Uncharacterized!MFS-type!transporter!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.68%
+Cluster 604875
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH06855
+fig|371601.509.peg.835|GA439_13170!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	87.05%
+Cluster 310194
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	hypothetical protein	CAH09179
+fig|371601.509.peg.674!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	85.42%
+Cluster 318103
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	TonB-like protein	ABR38184
+fig|371601.509.peg.2866|GA439_19500!!!putative!TonB-dependent!receptor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.00%
+Cluster 50227
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative plasmid transfer protein	CAH05732
+fig|371601.509.peg.4686|GA439_24460!!!Putative!mobilization!protein!BF0133!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.00%
+Cluster 186829
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative membrane-associated protein	BAD50016
+fig|371601.509.peg.1908|GA439_16000!!!conserved!hypothetical!protein,!putative!transport!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	84.01%
+Cluster 149570
+29523	CP001825	Thermobaculum terrenum ATCC BAA-798 chromosome 1, complete sequence.	No	NA	RNA modification enzyme, MiaB family	ACZ41880
+fig|371601.509.peg.5626|GA439_27005!!!Prevent!host!death!protein,!Phd!antitoxin!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.90%
+Cluster 573402
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	AraC/XylS family transcriptional regulator	BAD50169
+fig|371601.509.peg.1593|GA439_14515!!!Transcriptional!regulator,!AraC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	96.10%
+Cluster 158287
+251	AE002098	Neisseria meningitidis MC58, complete genome.	Yes	Betaproteobacteria	modification methylase NlaIV	AAF41432
+fig|371601.509.peg.5592|GA439_26865!!!DNA-cytosine!methyltransferase!(EC!2.1.1.37)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.15%
+Cluster 365937
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48993
+fig|371601.509.peg.3527|GA439_20780!!!Serine!protease!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.34%
+Cluster 429958
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative zinc protease	BAD46995
+fig|371601.509.peg.5425|GA439_08675!!!putative!zinc!protease!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.83%
+Cluster 224589
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative DNA mismatch repair protein	ABR38051
+fig|371601.509.peg.4929|GA439_07540!!!putative!DNA!mismatch!repair!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.04%
+Cluster 730512
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD49612
+fig|371601.509.peg.1793|GA439_15455!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.63%
+Cluster 546254
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	RNA polymerase ECF-type sigma factor	BAD47065
+fig|371601.509.peg.3218|GA439_04065!!!RNA!polymerase!ECF-type!sigma!factor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	92.22%
+fig|371601.509.peg.5481|GA439_08940!!!RNA!polymerase!ECF-type!sigma!factor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	90.42%
+fig|371601.509.peg.4836|GA439_25160!!!RNA!polymerase!ECF-type!sigma!factor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	89.82%
+Cluster 546256
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	flavodoxin	BAD48371
+fig|371601.509.peg.4748|GA439_24755!!!Flavodoxin!1!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.98%
+Cluster 60411
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative two-component histidine kinase sensor protein	CAH07291
+fig|371601.509.peg.1451|GA439_01685!!!Phosphate!regulon!sensor!protein!PhoR!(SphS)!(EC!2.7.13.3)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	84.65%
+Cluster 17715
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	two-component system sensor histidine kinase	BAD48742
+fig|371601.509.peg.1000|GA439_13985!!!Two-component!system!sensor!histidine!kinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.94%
+Cluster 251368
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR40814
+fig|371601.509.peg.33|GA439_27230!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.47%
+Cluster 133323
+33271	AP009049	Clostridium kluyveri NBRC 12016 DNA, complete genome.	No	Clostridia	hypothetical protein	BAH05435
+fig|371601.509.peg.2813|GA439_19240!!!Aspartate!aminotransferase!(AspB-4)!(EC!2.6.1.1)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.85%
+Cluster 624966
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	hypothetical protein	CAH10036
+fig|371601.509.peg.3944|GA439_05560!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.27%
+Cluster 685458
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative plasmid transfer protein	CAH05760
+fig|371601.509.peg.5300|GA439_26120!!!Conjugative!transposon!protein!TraF!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	95.96%
+Cluster 145676
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	ribosomal protein S12 methylthiotransferase RimO	ADE83132
+fig|371601.509.peg.2588|GA439_18175!!!Ribosomal!protein!S12p!Asp88!(E.!coli)!methylthiotransferase!(EC!2.8.4.4)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.35%
+Cluster 350534
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative topoisomerase-related protein	CAH05738
+fig|371601.509.peg.4680|GA439_24430!!!DNA!topoisomerase!III!domain!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	92.81%
+Cluster 116117
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative exported protein	CAH06868
+fig|371601.509.peg.3790|GA439_22070!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.88%
+Cluster 143564
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	ribonuclease BN	BAD49499
+fig|371601.509.peg.2927|GA439_19805!!!Inner!membrane!protein!YihY,!formerly!thought!to!be!RNase!BN!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	85.88%
+Cluster 547796
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	RNA polymerase ECF-type sigma factor	BAD48639
+fig|371601.509.peg.1009|GA439_14035!!!RNA!polymerase!ECF-type!sigma!factor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	92.22%
+Cluster 9925
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative cation efflux transporter	BAD50882
+fig|371601.509.peg.2262|GA439_17700!!!RND!efflux!system,!inner!membrane!transporter!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	91.63%
+Cluster 759951
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH09520
+fig|371601.509.peg.4297|GA439_23330!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	76.00%
+Cluster 210852
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH06464
+fig|371601.509.peg.4439|GA439_06530!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.11%
+Cluster 241786
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative erythronate-4-phosphate dehydrogenase	CAH05958
+fig|371601.509.peg.2125|GA439_17040!!!Erythronate-4-phosphate!dehydrogenase!(EC!1.1.1.290)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.68%
+Cluster 338229
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47410
+fig|371601.509.peg.4664|GA439_24345!!!putative!lipoprotein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	85.96%
+Cluster 145715
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative two-component system, sensor kinase	CAH07900
+fig|371601.509.peg.4012|GA439_05890!!!Nitrogen!regulation!protein!NtrY!(EC!2.7.3.-)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	74.37%
+Cluster 174930
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	periplasmic component of efflux system	BAD48620
+fig|371601.509.peg.5147|GA439_25950!!!ABC!export!system,!membrane!fusion!protein!BT1213!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.74%
+Cluster 564813
+16159	CP000159	Salinibacter ruber DSM 13855, complete genome.	No	Sphingobacteria	30S ribosomal protein S11	ABC45438
+fig|371601.509.peg.2245|GA439_17620!!!SSU!ribosomal!protein!S11p!(S14e)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.47%
+Cluster 710843
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAG34197
+fig|371601.509.peg.2161|GA439_17210!!!FIG00935798:!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.63%
+Cluster 376883
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraA	BAD49765
+fig|371601.509.peg.719|GA439_12665!!!Conjugative!transposon!protein!TraA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	89.69%
+Cluster 500578
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49514
+fig|371601.509.peg.2913|GA439_19740!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	74.87%
+Cluster 500576
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative regulatory protein	BAD48997
+fig|371601.509.peg.4921|GA439_07500!!!cAMP-binding!proteins!-!catabolite!gene!activator!and!regulatory!subunit!of!cAMP-dependent!protein!kinases!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.67%
+Cluster 319473
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative transporter	BAD47681
+fig|371601.509.peg.5154|GA439_25980!!!Uncharacterized!membrane-anchored!protein,!YitT!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	86.49%
+Cluster 332116
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical exported protein	CAH06122
+fig|371601.509.peg.5269|GA439_08505!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.27%
+Cluster 11425
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	beta-N-acetylglucosaminidase	BAD47316
+fig|371601.509.peg.428|GA439_11370!!!beta-glycosyl!hydrolase!/!Uncharacterized!esterase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.09%
+Cluster 7706
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	beta-galactosidase	BAG33220
+fig|371601.509.peg.5155|GA439_25985!!!beta-galactosidase!(EC!3.2.1.23)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.15%
+Cluster 298512
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative periplasmic protein	BAD50879
+fig|371601.509.peg.2266|GA439_17720!!!Putative!periplasmic!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.28%
+Cluster 354078
+10642	CP000119	Anabaena variabilis ATCC 29413 plasmid A, complete sequence.	No	Nostocales	conserved hypothetical protein	ABA25031
+fig|371601.509.peg.5163!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.87%
+Cluster 411401
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative metalloendopeptidase	BAD47874
+fig|371601.509.peg.1037|GA439_14165!!!putative!metalloendopeptidase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.67%
+Cluster 620631
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	two-component system response regulator	BAD50459
+fig|371601.509.peg.278|GA439_10740!!!Two-component!system!sensor!histidine!kinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.45%
+Cluster 16715
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative outer membrane protein involved in nutrient binding	BAD48486
+fig|371601.509.peg.2700|GA439_18730!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.81%
+Cluster 167602
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD46822
+fig|371601.509.peg.2426|GA439_02780!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.22%
+Cluster 508791
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	conserved hypothetical protein	ADE81688
+fig|371601.509.peg.2872|GA439_19530!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.24%
+Cluster 9769
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative outer membrane protein probably involved in nutrient binding	ABR42276
+fig|371601.509.peg.280|GA439_10750!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.35%
+Cluster 236823
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	glycosidase PH1107-related	ACU06195
+fig|371601.509.peg.2382|GA439_02570!!!FIG01423360:!glycoside!hydrolase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.50%
+Cluster 206279
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative cation efflux pump	BAD49141
+fig|371601.509.peg.4840|GA439_25180!!!RND!efflux!system,!membrane!fusion!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.07%
+Cluster 377296
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative histidinol-phosphatase	BAD47711
+fig|371601.509.peg.5026|GA439_25360!!!histidinol!phosphate!phosphatase!HisJ!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.33%
+Cluster 377294
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative 5'-nucleotidase/2',3'-cyclic phosphodiesterase	BAD47313
+fig|371601.509.peg.430|GA439_11380!!!5'-nucleotidase!(EC!3.1.3.5)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.41%
+Cluster 212597
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative LPS biosynthesis related glycosyltransferase	ABR44947
+fig|371601.509.peg.3031|GA439_20295!!!Undecaprenyl-phosphate!alpha-N-acetylglucosaminyl!1-phosphate!transferase!(EC!2.7.8.33)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	95.17%
+Cluster 551015
+27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	No	Clostridia	metal dependent phosphohydrolase	ACV63885
+fig|371601.509.peg.3359|GA439_04740!!!HD!superfamily!hydrolase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.61%
+Cluster 267092
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD46832
+fig|371601.509.peg.2440|GA439_02855!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.16%
+Cluster 521034
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47937
+fig|371601.509.peg.3798|GA439_22110!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.40%
+Cluster 187598
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50959
+fig|371601.509.peg.2182|GA439_17305!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.03%
+Cluster 217032
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	hypothetical protein	CAH05741
+fig|371601.509.peg.4677|GA439_24415!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	96.75%
+Cluster 61784
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative V(vacuolar)-type Na+ ATP synthase subunit I	CAH08440
+fig|371601.509.peg.159|GA439_10260!!!V-type!ATP!synthase!subunit!I!(EC!3.6.3.14)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	86.28%
+Cluster 348366
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	AraC-type transcription regulator	BAD48780
+fig|371601.509.peg.945|GA439_13710!!!Transcriptional!regulator,!AraC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.97%
+Cluster 412413
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative beta-phosphoglucomutase	BAD50556
+fig|371601.509.peg.4985|GA439_07810!!!Beta-phosphoglucomutase!(EC!5.4.2.6)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.97%
+Cluster 703175
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49857
+fig|371601.509.peg.5080|GA439_25625!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	86.52%
+Cluster 13681
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43328
+fig|371601.509.peg.4984|GA439_07805!!!L-fucose!kinase!(EC!2.7.1.52)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.42%
+Cluster 66364
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	LysM-repeat proteins and domains	BAD49363
+fig|371601.509.peg.4132|GA439_06485!!!LysM-repeat!proteins!and!domains!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.98%
+Cluster 399018
+33191	CP001678	Hirschia baltica ATCC 49814, complete genome.	No	Alphaproteobacteria	short-chain dehydrogenase/reductase SDR	ACT60442
+fig|371601.509.peg.3462|GA439_05245!!!Acetoin(diacetyl)!reductase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.40%
+Cluster 209406
+20829	CP001619	Dyadobacter fermentans DSM 18053, complete genome.	No	Cytophagia	conserved hypothetical protein	ACT94293
+fig|371601.509.peg.4724|GA439_24645!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.95%
+Cluster 180164
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	hexokinase type III	ABR43011
+fig|371601.509.peg.5585|GA439_26835!!!Hexokinase!(EC!2.7.1.1)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.84%
+Cluster 366705
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	inositol-1-monophosphatase	BAD51127
+fig|371601.509.peg.3089|GA439_03440!!!Inositol-1-monophosphatase!(EC!3.1.3.25)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.90%
+Cluster 366701
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative transcriptional regulator	ABR45590
+fig|371601.509.peg.4243|GA439_23095!!!Transcriptional!regulator,!AraC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.50%
+Cluster 748754
+29213	CP001099	Chlorobaculum parvum NCIB 8327, complete genome.	No	Chlorobia	conserved hypothetical protein	ACF11569
+fig|371601.509.peg.3355|GA439_04715!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.12%
+Cluster 762287
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative integral membrane protein	CAH05725
+fig|371601.509.peg.5623!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	88.46%
+Cluster 398932
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47934
+fig|371601.509.peg.3795|GA439_22095!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.85%
+Cluster 547802
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative exported protein	CAH05751
+fig|371601.509.peg.5291|GA439_26075!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.80%
+Cluster 559439
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49254
+fig|371601.509.peg.541|GA439_11885!!!Probable!integral!membrane!protein!Cj1165c!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	84.47%
+Cluster 532029
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48223
+fig|371601.509.peg.4851|GA439_25230!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.86%
+Cluster 312158
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	beta-lactamase	CAH06921
+fig|371601.509.peg.780|GA439_12920!!!Class!A!beta-lactamase!(EC!3.5.2.6)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.82%
+Cluster 90675
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative alkaline phosphatase	BAD47819
+fig|371601.509.peg.1068|GA439_14305!!!Alkaline!phosphatase!(EC!3.1.3.1);!Type!I!phosphodiesterase/nucleotide!pyrophosphatase!precursor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.57%
+Cluster 151558
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	BexA, putative cation effux pump	ABR38345
+fig|371601.509.peg.418|GA439_11325!!!BexA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.86%
+Cluster 378769
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	indole-3-glycerol phosphate synthase	ADE83668
+fig|371601.509.peg.83|GA439_09910!!!Indole-3-glycerol!phosphate!synthase!(EC!4.1.1.48)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.00%
+Cluster 658871
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative integral membrane protein	CAH05762
+fig|371601.509.peg.5302|GA439_26130!!!Integral!membrane!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.12%
+Cluster 196187
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved protein, with a weak D-galactarate dehydratase/altronate hydrolase domain	ABR37885
+fig|371601.509.peg.4079|GA439_06230!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.28%
+fig|371601.509.peg.2096!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.29%
+Cluster 135675
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	dihydrolipoamide dehydrogenase	BAD48366
+fig|371601.509.peg.4744|GA439_24735!!!Dihydrolipoamide!dehydrogenase!of!acetoin!dehydrogenase!(EC!1.8.1.4)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	79.19%
+Cluster 418064
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	hypothetical protein	CAH05743
+fig|371601.509.peg.4675|GA439_24405!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.74%
+Cluster 439544
+12609	CP000492	Chlorobium phaeobacteroides DSM 266, complete genome.	No	Chlorobia	transaldolase	ABL66682
+fig|371601.509.peg.2995|GA439_20130!!!Transaldolase!(EC!2.2.1.2)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.09%
+Cluster 254005
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative acetyltransferase	BAD47220
+fig|371601.509.peg.5169|GA439_08025!!!Acetyltransferase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.95%
+Cluster 328871
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	transcriptional regulator	BAD51286
+fig|371601.509.peg.3271|GA439_04315!!!Transcriptional!regulator,!AraC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.24%
+Cluster 550973
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47673
+fig|371601.509.peg.5160|GA439_26010!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	76.97%
+Cluster 196868
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative Xaa-Pro dipeptidase	BAD50379
+fig|371601.509.peg.292|GA439_10805!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.98%
+Cluster 618456
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved exported hypothetical protein	CAH08453
+fig|371601.509.peg.2934|GA439_19840!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.92%
+Cluster 633059
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraH	BAD46871
+fig|371601.509.peg.3847|GA439_22350!!!Conjugative!transposon!protein!TraH!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	87.30%
+Cluster 551810
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50840
+fig|371601.509.peg.911|GA439_13535!!!Rod!shape-determining!protein!MreD!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.15%
+Cluster 573814
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50251
+fig|371601.509.peg.774|GA439_12895!!!MaoC!family!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	90.26%
+Cluster 277430
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	acid phosphatase	ABR38922
+fig|371601.509.peg.3227|GA439_04110!!!Tartrate-resistant!acid!phosphatase!type!5!precursor!(EC!3.1.3.2)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.76%
+Cluster 636977
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH08188
+fig|371601.509.peg.4972|GA439_07750!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.29%
+Cluster 636974
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39091
+fig|371601.509.peg.5478|GA439_08925!!!Cell!division!protein!FtsL!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.23%
+Cluster 27089
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	anaerobic ribonucleoside-triphosphate reductase	BAD50435
+fig|371601.509.peg.671|GA439_12455!!!Ribonucleotide!reductase!of!class!III!(anaerobic),!large!subunit!(EC!1.17.4.2)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	89.08%
+Cluster 153814
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative zinc protease	BAD48976
+fig|371601.509.peg.3899|GA439_05345!!!FIG015287:!Zinc!protease!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	76.11%
+Cluster 403880
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	di-trans,poly-cis-decaprenylcistransferase	ADE82940
+fig|371601.509.peg.2613|GA439_18320!!!Undecaprenyl!diphosphate!synthase!(EC!2.5.1.31)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.48%
+Cluster 225522
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	conserved hypothetical protein	ACU02730
+fig|371601.509.peg.4166|GA439_22730!!!putative!cellulase!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.11%
+Cluster 99199
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50069
+fig|371601.509.peg.1968|GA439_16265!!!COG1649!predicted!glycoside!hydrolase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.07%
+Cluster 757481
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	ribosomal protein L34	ADB39911
+fig|371601.509.peg.2631|GA439_18405!!!LSU!ribosomal!protein!L34p!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.69%
+Cluster 427799
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	molybdopterin biosynthesis protein	BAD49283
+fig|371601.509.peg.4038|GA439_06050!!!Sulfur!carrier!protein!ThiS!adenylyltransferase!(EC!2.7.7.73)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	74.78%
+Cluster 515387
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	RNA polymerase ECF-type sigma factor	BAD50612
+fig|371601.509.peg.4937|GA439_07580!!!RNA!polymerase!ECF-type!sigma!factor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.52%
+Cluster 199757
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative replication protein	CAH05726
+fig|371601.509.peg.5624|GA439_26995!!!putative!replication!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	94.81%
+Cluster 508953
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49058
+fig|371601.509.peg.5365|GA439_26425!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.58%
+Cluster 741919
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47276
+fig|371601.509.peg.849|GA439_13225!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.76%
+Cluster 340420
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49734
+fig|371601.509.peg.1190|GA439_00425!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	76.64%
+Cluster 503614
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraO	BAD46864
+fig|371601.509.peg.3840|GA439_22315!!!Conjugative!transposon!protein!TraO!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	91.62%
+Cluster 455192
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative exported protein	CAH05757
+fig|371601.509.peg.5297|GA439_26105!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	91.28%
+Cluster 410575
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative capsular polysaccharide biosythesis protein	ABR44944
+fig|371601.509.peg.3034|GA439_20310!!!Protein!tyrosine!phosphatase!(EC!3.1.3.48)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	79.41%
+Cluster 212584
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative universal stress protein UspA	BAD49162
+fig|371601.509.peg.2600|GA439_18235!!!UspA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.57%
+Cluster 619710
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative transmembrane protein	CAH05981
+fig|371601.509.peg.5430|GA439_08700!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	79.39%
+Cluster 59366
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein BatD	BAD49165
+fig|371601.509.peg.2597|GA439_18220!!!Aerotolerance!protein!BatD!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.72%
+Cluster 193659
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48339
+fig|371601.509.peg.1440|GA439_01630!!!N-acetylglucosaminyltransferase!(EC!2.4.1.-)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.05%
+Cluster 104943
+20067	CP000805	Treponema pallidum subsp. pallidum SS14, complete genome.	Yes	Spirochaetales	translation elongation factor TU	ACD70613
+fig|371601.509.peg.2206|GA439_17420!!!Translation!elongation!factor!Tu!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.96%
+Cluster 155728
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative coproporphyrinogen III oxidase and related FeS oxidoreductase	BAD48628
+fig|371601.509.peg.1327|GA439_01090!!!Hypothetical!radical!SAM!family!enzyme!in!interesting!gene!cluster!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.32%
+Cluster 497020
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47075
+fig|371601.509.peg.5488|GA439_08970!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.42%
+Cluster 424195
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	translation initiation factor IF-3	ADE81404
+fig|371601.509.peg.2724|GA439_18845!!!Translation!initiation!factor!3!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.47%
+Cluster 475203
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative ParA-related protein	CAH05729
+fig|371601.509.peg.4696|GA439_24505!!!Conjugative!transposon!protein!TraA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.03%
+Cluster 59627
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50952
+fig|371601.509.peg.2194|GA439_17345!!!Neuraminidase!NanP!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.07%
+Cluster 484478
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR43896
+fig|371601.509.peg.1320|GA439_01055!!!ThiJ/PfpI!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.67%
+Cluster 253624
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	L-rhamnose/H+ symporter	ABR38305
+fig|371601.509.peg.861|GA439_13285!!!L-rhamnose-proton!symporter!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	91.15%
+Cluster 28735
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH09600
+fig|371601.509.peg.903|GA439_13490!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.49%
+Cluster 720331
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47366
+fig|371601.509.peg.2822|GA439_19290!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	74.68%
+Cluster 20768
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative TonB-dependent receptor	BAD47127
+fig|371601.509.peg.5276|GA439_08545!!!Putative!TonB-dependent!receptor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.90%
+Cluster 30917
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative patatin-like phospholipase	BAD49157
+fig|371601.509.peg.2605|GA439_18260!!!putative!patatin-like!phospholipase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.77%
+Cluster 346776
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50384
+fig|371601.509.peg.289|GA439_10790!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.91%
+Cluster 179203
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH06854
+fig|371601.509.peg.834|GA439_13165!!!conserved!hypothetical!protein!with!relaxase/mobilization!nuclease!domain!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	87.59%
+Cluster 142225
+27951	CP001699	Chitinophaga pinensis DSM 2588, complete genome.	No	Sphingobacteria	Inositol-3-phosphate synthase	ACU59891
+fig|371601.509.peg.1502|GA439_01925!!!Inositol-1-phosphate!synthase!(EC!5.5.1.4)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.14%
+Cluster 219077
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	thiol:disulfide interchange protein	BAD49474
+fig|371601.509.peg.154|GA439_10240!!!Thiol:disulfide!interchange!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.03%
+Cluster 449748
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative secreted peptidase	CAH05744
+fig|371601.509.peg.4674|GA439_24400!!!Cell!wall!endopeptidase,!family!M23/M37!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	97.74%
+Cluster 755443
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD48395
+fig|371601.509.peg.1709|GA439_15065!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	96.49%
+Cluster 686734
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative thioredoxin	CAH08355
+fig|371601.509.peg.61|GA439_09810!!!Putative!thioredoxin!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.29%
+Cluster 424130
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH08384
+fig|371601.509.peg.94|GA439_09960!!!Repair!of!Iron!Centers!di-iron!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	88.94%
+Cluster 644219
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50340
+fig|371601.509.peg.3727|GA439_21740!!!Inner!membrane!protein!YbaN!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	89.08%
+Cluster 171048
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative exodeoxyribonuclease VII large subunit	BAD50741
+fig|371601.509.peg.2844|GA439_19395!!!Exodeoxyribonuclease!VII!large!subunit!(EC!3.1.11.6)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.49%
+Cluster 511519
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative regulatory protein	BAD47114
+fig|371601.509.peg.3967|GA439_05660!!!cAMP-binding!proteins!-!catabolite!gene!activator!and!regulatory!subunit!of!cAMP-dependent!protein!kinases!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	89.30%
+Cluster 384326
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative transcriptional regulator	BAD49578
+fig|371601.509.peg.1829|GA439_15610!!!Transcriptional!regulator!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	96.90%
+Cluster 192563
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative permease	BAD48164
+fig|371601.509.peg.3664|GA439_21440!!!Uncharacterized!MFS-type!transporter!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	79.54%
+Cluster 364073
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	zinc ABC transporter permease	BAD47472
+fig|371601.509.peg.4914|GA439_07465!!!Zinc!ABC!transporter,!permease!protein!ZnuB!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	86.62%
+Cluster 644832
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49418
+fig|371601.509.peg.97|GA439_09975!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.67%
+Cluster 130783
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	two-component system sensor histidine kinase	BAD46959
+fig|371601.509.peg.566|GA439_12010!!!Two-component!system!sensor!histidine!kinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.23%
+Cluster 312132
+27951	CP001699	Chitinophaga pinensis DSM 2588, complete genome.	No	Sphingobacteria	hypothetical protein	ACU59301
+fig|371601.509.peg.1894|GA439_15935!!!arabinosidase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.85%
+Cluster 580838
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative peptidyl-prolyl cis-trans isomerase	CAH07772
+fig|371601.509.peg.3667|GA439_21455!!!FKBP-type!peptidyl-prolyl!cis-trans!isomerase!FkpA!precursor!(EC!5.2.1.8)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.65%
+Cluster 466092
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	L-fuculose-1-phosphate aldolase	BAD47004
+fig|371601.509.peg.140|GA439_10170!!!L-fuculose!phosphate!aldolase!(EC!4.1.2.17)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	90.57%
+Cluster 344669
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraN	BAD49561
+fig|371601.509.peg.3378|GA439_04835!!!Conjugative!transposon!protein!TraN!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	76.51%
+Cluster 296845
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative zinc ABC transporter zinc-binding protein	BAD46829
+fig|371601.509.peg.2437|GA439_02840!!!Zinc!ABC!transporter,!substrate-binding!protein!ZnuA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.38%
+Cluster 182349
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	dipeptidyl peptidase VI	BAD49497
+fig|371601.509.peg.2929|GA439_19815!!!Dipeptidyl-peptidase!VI!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.87%
+Cluster 642724
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48406
+fig|371601.509.peg.2740|GA439_18925!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	86.67%
+Cluster 218572
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative acetyltransferase membrane protein	CAH09302
+fig|371601.509.peg.4959|GA439_07690!!!O-acetyl!transferase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.93%
+Cluster 334338
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	conserved hypothetical protein	CAH05745
+fig|371601.509.peg.4673|GA439_24395!!!UDP-N-acetylglucosamine!kinase!(EC!2.7.1.176),!Zeta!toxin!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.26%
+Cluster 164592
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48756
+fig|371601.509.peg.975|GA439_13860!!!Outer!membrane!protein/protective!antigen!OMA87!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.57%
+Cluster 650337
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	transcriptional regulator, PadR family	ADE81241
+fig|371601.509.peg.4127|GA439_06460!!!Transcriptional!regulator,!PadR!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.59%
+Cluster 320936
+29281	CP001807	Rhodothermus marinus DSM 4252, complete genome.	No	Sphingobacteria	Cobyrinic acid ac-diamide synthase	ACY47354
+fig|371601.509.peg.3620|GA439_21225!!!Chromosome!(plasmid)!partitioning!protein!ParA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.24%
+Cluster 464623
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative outer membrane protein	CAH05749
+fig|371601.509.peg.5289|GA439_26065!!!Outer!membrane!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.06%
+Cluster 93918
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47774
+fig|371601.509.peg.2000|GA439_16420!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.14%
+Cluster 683072
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative septum formation initiator-related protein	CAH08767
+fig|371601.509.peg.3018|GA439_20235!!!Cell!division!protein!DivIC!(FtsB),!stabilizes!FtsL!against!RasP!cleavage!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.57%
+Cluster 624308
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47199
+fig|371601.509.peg.5183|GA439_08090!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.08%
+Cluster 509626
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative ribose phosphate pyrophosphokinase	BAD49617
+fig|371601.509.peg.3307|GA439_04485!!!putative!ribose!phosphate!pyrophosphokinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.00%
+fig|371601.509.peg.1787|GA439_15425!!!putative!ribose!phosphate!pyrophosphokinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.47%
+Cluster 635842
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	excisionase	BAD47916
+fig|371601.509.peg.838|GA439_13180!!!Excisionase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.39%
+Cluster 296499
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	tyrosine type site-specific recombinase	BAD51024
+fig|371601.509.peg.4222|GA439_22995!!!Mobile!element!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.00%
+Cluster 78441
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative outer membrane protein probably involved in nutrient binding	BAD48355
+fig|371601.509.peg.1399|GA439_01430!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.75%
+Cluster 595436
+16217	AP007255	Magnetospirillum magneticum AMB-1 DNA, complete genome.	No	Alphaproteobacteria	Uncharacterized conserved protein	BAE52723
+fig|371601.509.peg.5439|GA439_08745!!!UPF0145!protein!YbjQ!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.15%
+Cluster 548229
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49616
+fig|371601.509.peg.3308|GA439_04490!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.87%
+fig|371601.509.peg.1788|GA439_15430!!!UPF0398!protein!ABC2016!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.80%
+Cluster 721691
+54	CP000383	Cytophaga hutchinsonii ATCC 33406, complete genome.	No	Cytophagia	acyl carrier protein	ABG58669
+fig|371601.509.peg.2127|GA439_17050!!!Acyl!carrier!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.05%
+Cluster 540807
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39151
+fig|371601.509.peg.4232|GA439_23045!!!Biotin!carboxyl!carrier!protein!of!acetyl-CoA!carboxylase;!Biotin!carboxyl!carrier!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.13%
+Cluster 257605
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	UNKNOWN	CAH05716
+fig|371601.509.peg.5305|GA439_26140!!!DNA!primase!TraC!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.40%
+Cluster 477108
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	ABC transporter ATP-binding protein	BAD49133
+fig|371601.509.peg.4832|GA439_25140!!!Probable!iron!export!ATP-binding!protein!FetA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.84%
+Cluster 485314
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative sugar isomerase	BAD46921
+fig|371601.509.peg.2485|GA439_03075!!!D-arabinose-5-phosphate!isomerase!(EC!5.3.1.13)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	90.55%
+Cluster 681020
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41328
+fig|371601.509.peg.1841|GA439_15675!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	95.05%
+fig|371601.509.peg.5335|GA439_26290!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	76.24%
+Cluster 544345
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49048
+fig|371601.509.peg.4342|GA439_23530!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.83%
+Cluster 394842
+104	AE000782	Archaeoglobus fulgidus DSM 4304, complete genome.	No	Archaeoglobi	polysaccharide ABC transporter, permease protein (rfbA-2)	AAB90944
+fig|371601.509.peg.5107!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.00%
+Cluster 622359
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47242
+fig|371601.509.peg.2624|GA439_18370!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	74.62%
+Cluster 337012
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative peptidase	CAH09182
+fig|371601.509.peg.677|GA439_12480!!!Lipoprotein!NlpD!precursor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.12%
+Cluster 449783
+15762	CP000384	Mycobacterium sp. MCS, complete genome.	No	Actinobacteridae	SSU ribosomal protein S12P	ABG07098
+fig|371601.509.peg.2216|GA439_17475!!!SSU!ribosomal!protein!S12p!(S23e)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.65%
+Cluster 269996
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraN	BAD46865
+fig|371601.509.peg.3841|GA439_22320!!!Conjugative!transposon!protein!TraN!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	94.21%
+Cluster 454419
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD49563
+fig|371601.509.peg.3376|GA439_04825!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.52%
+Cluster 252811
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative plasmid transfer protein	CAH05756
+fig|371601.509.peg.5296|GA439_26100!!!Conjugative!transposon!protein!TraJ!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	97.06%
+Cluster 518046
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	ribosomal protein L17	ACU02852
+fig|371601.509.peg.2248|GA439_17635!!!LSU!ribosomal!protein!L17p!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.86%
+Cluster 172603
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	tyrosine type site-specific recombinase	BAD49750
+fig|371601.509.peg.4220|GA439_22990!!!Integrase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.76%
+Cluster 349865
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47176
+fig|371601.509.peg.5204|GA439_08195!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.63%
+Cluster 682818
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD49669
+fig|371601.509.peg.1725!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	100.00%
+fig|371601.509.peg.1726|GA439_15135!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.04%
+Cluster 256716
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH06638
+fig|371601.509.peg.4380|GA439_23715!!!GldB!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.19%
+Cluster 15059
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	type I restriction enzyme EcoR124II R protein	ABR41299
+fig|371601.509.peg.823|GA439_13115!!!Type!I!restriction-modification!system,!restriction!subunit!R!(EC!3.1.21.3)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	93.95%
+Cluster 66486
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	putative lipoprotein	ADE81209
+fig|371601.509.peg.5217|GA439_08250!!!Cell!surface!glycan-binding!lipoprotein,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusD!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.79%
+Cluster 221835
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD51163
+fig|371601.509.peg.3133|GA439_03650!!!AP!endonuclease!domain!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.05%
+Cluster 340418
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48775
+fig|371601.509.peg.953|GA439_13745!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.69%
+Cluster 312092
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraP	BAD46863
+fig|371601.509.peg.3839|GA439_22310!!!DNA!primase,!TraP-type!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.17%
+Cluster 586505
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative MarR-family regulatory protein	CAH09314
+fig|371601.509.peg.4943|GA439_07605!!!Transcriptional!regulator,!MarR!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	91.89%
+Cluster 145561
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative peptidase	BAD47076
+fig|371601.509.peg.5489|GA439_08975!!!Murein!hydrolase!activator!EnvC!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.52%
+Cluster 670802
+36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Yes	Bacillales	30S ribosomal protein S19	ADB66989
+fig|371601.509.peg.2224|GA439_17515!!!SSU!ribosomal!protein!S19p!(S15e)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.92%
+Cluster 725430
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50066
+fig|371601.509.peg.1966|GA439_16255!!!Uncharacterized!protein!BT1741!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.42%
+Cluster 1191
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative DNA methylase	BAD46891
+fig|371601.509.peg.3868|GA439_22450!!!Putative!DNA!methylase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.86%
+fig|371601.509.peg.5581!!!Putative!DNA!methylase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.68%
+Cluster 166490
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD46881
+fig|371601.509.peg.3858|GA439_22405!!!Putative!conjugative!transposon!mobilization!protein!BF0132!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	100.00%
+Cluster 722948
+13548	CP000551	Prochlorococcus marinus str. AS9601, complete genome.	No	Prochlorales	50S Ribosomal protein L33	ABM70276
+fig|371601.509.peg.2585|GA439_18160!!!LSU!ribosomal!protein!L33p!@!LSU!ribosomal!protein!L33p,!zinc-independent!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.35%
+Cluster 153402
+249	AE008691	Thermoanaerobacter tengcongensis MB4, complete genome.	No	Clostridia	TPR-repeat-containing proteins	AAM24043
+fig|371601.509.peg.180!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.18%
+Cluster 44315
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48318
+fig|371601.509.peg.1466!!!putative!cell!surface!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.00%
+fig|371601.509.peg.1467|GA439_01755!!!putative!cell!surface!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.87%
+Cluster 242198
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47829
+fig|371601.509.peg.1057|GA439_14255!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.81%
+Cluster 43852
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative exported Tpr repeat-family protein	CAH07393
+fig|371601.509.peg.2726|GA439_18855!!!TPR!repeat!precursor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	79.59%
+Cluster 183500
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative alpha-1,6-mannanase	BAD50241
+fig|371601.509.peg.2482|GA439_03060!!!Putative!alpha-1,6-mannanase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.73%
+Cluster 345439
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative AraC-family regulatory protein	CAH09039
+fig|371601.509.peg.640|GA439_12320!!!Transcriptional!regulator,!AraC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.04%
+Cluster 26503
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative TonB dependent outer membrane protein	CAH07052
+fig|371601.509.peg.3652|GA439_21380!!!putative!ferric!aerobactin!receptor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.68%
+Cluster 107485
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative outer membrane protein TolC	BAD49116
+fig|371601.509.peg.4328|GA439_23465!!!Outer!membrane!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.98%
+Cluster 389665
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	6-phosphogluconolactonase	BAD48603
+fig|371601.509.peg.5140|GA439_25915!!!6-phosphogluconolactonase!(EC!3.1.1.31),!eukaryotic!type!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.67%
+Cluster 34541
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47791
+fig|371601.509.peg.1097|GA439_14450!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.56%
+Cluster 34543
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative patatin-like phospholipase	ABR40673
+fig|371601.509.peg.4737|GA439_24705!!!putative!patatin-like!phospholipase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.25%
+Cluster 518222
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42039
+fig|371601.509.peg.782|GA439_12930!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.76%
+Cluster 502535
+38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Yes	Actinobacteridae	ribosomal protein L14	BAI64321
+fig|371601.509.peg.2230|GA439_17545!!!LSU!ribosomal!protein!L14p!(L23e)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.60%
+Cluster 61719
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative exported fucosidase	CAH08778
+fig|371601.509.peg.3010|GA439_20195!!!beta-galactosidase!(EC!3.2.1.23)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.22%
+Cluster 462390
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	ABC transporter ATP-binding protein	BAD47773
+fig|371601.509.peg.1999|GA439_16415!!!ABC!transporter,!ATP-binding!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.78%
+Cluster 218271
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49541
+fig|371601.509.peg.3412|GA439_05010!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.48%
+Cluster 218272
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48418
+fig|371601.509.peg.2731|GA439_18880!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	90.49%
+Cluster 584232
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50697
+fig|371601.509.peg.2875|GA439_19545!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.54%
+Cluster 226621
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative membrane protein	CAH09342
+fig|371601.509.peg.468|GA439_11550!!!Two-component!system!sensor!histidine!kinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.18%
+Cluster 472526
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39328
+fig|371601.509.peg.680|GA439_12495!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.55%
+Cluster 157203
+290	AE010299	Methanosarcina acetivorans str. C2A, complete genome.	No	Methanomicrobia	serine protease inhibitor	AAM06757
+fig|371601.509.peg.32!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.00%
+Cluster 627866
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative regulatory protein	CAH05731
+fig|371601.509.peg.4687|GA439_24465!!!putative!phage!related!transcriptional!regulator!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	95.95%
+Cluster 151730
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	two-component system sensor histidine kinase	BAD48267
+fig|371601.509.peg.1504|GA439_01935!!!Two-component!system!sensor!histidine!kinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.37%
+Cluster 91231
+15582	CP000660	Pyrobaculum arsenaticum DSM 13514, complete genome.	No	Thermoprotei	ATPase associated with various cellular activities, AA	ABP50631
+fig|371601.509.peg.3087|GA439_03430!!!transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.67%
+fig|371601.509.peg.2153|GA439_17180!!!transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.67%
+fig|371601.509.peg.5356|GA439_26385!!!transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.67%
+fig|371601.509.peg.5366|GA439_26430!!!transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.67%
+fig|371601.509.peg.5399|GA439_26585!!!transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.67%
+Cluster 164476
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	N-acylglucosamine 2-epimerase	ADB38647
+fig|371601.509.peg.4191|GA439_22850!!!N-acylglucosamine!2-epimerase!(EC!5.1.3.8)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.16%
+fig|371601.509.peg.4212|GA439_22950!!!N-acylglucosamine!2-epimerase!(EC!5.1.3.8)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.56%
+Cluster 431603
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative membrane protein	BAD47222
+fig|371601.509.peg.5167|GA439_08015!!!LrgA-associated!membrane!protein!LrgB!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	90.91%
+Cluster 3841
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	two-component system sensor histidine kinase/response regulator hybrid	BAD47077
+fig|371601.509.peg.5490|GA439_08980!!!Periplasmic!ligand-binding!sensor!domain!COG3292!/!BaeS-type!histidine!kinase!/!OmpR-type!DNA-binding!response!regulator!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.94%
+fig|371601.509.peg.2179|GA439_17290!!!Periplasmic!ligand-binding!sensor!domain!COG3292!/!BaeS-type!histidine!kinase!/!OmpR-type!DNA-binding!response!regulator!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.36%
+Cluster 91976
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	transposase	ABR38193
+fig|371601.509.peg.3709|GA439_21650!!!Transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	90.48%
+fig|371601.509.peg.5094|GA439_25690!!!Transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	93.28%
+fig|371601.509.peg.5288|GA439_26060!!!Transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	94.59%
+Cluster 375415
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47967
+fig|371601.509.peg.3518|GA439_20745!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.19%
+Cluster 79567
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	transposase	ABR38975
+fig|371601.509.peg.170|GA439_27290!!!ISNCY!family!transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.91%
+Cluster 283109
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48875
+fig|371601.509.peg.1858|GA439_15760!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.31%
+Cluster 304451
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative sodium-dependent transporter	BAD50564
+fig|371601.509.peg.4967|GA439_07725!!!Putative!sodium-dependent!transporter!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	87.00%
+Cluster 302516
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47665
+fig|371601.509.peg.4360|GA439_23615!!!Beta-propeller!domains!of!methanol!dehydrogenase!type!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	74.10%
+Cluster 472905
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47320
+fig|371601.509.peg.427|GA439_11365!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.00%
+Cluster 550012
+104	AE000782	Archaeoglobus fulgidus DSM 4304, complete genome.	No	Archaeoglobi	conserved hypothetical protein	AAB90852
+fig|371601.509.peg.5596|GA439_26885!!!four-helix!bundle!copper-binding!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.22%
+Cluster 170694
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	tyrosine type site-specific recombinase	BAD46901
+fig|371601.509.peg.1839|GA439_15665!!!Integrase!=>!IntDOT!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	93.92%
+fig|371601.509.peg.5333|GA439_26280!!!Integrase!=>!IntDOT!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	100.00%
+Cluster 417328
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	ABC transporter, ATP-binding protein	ADE82635
+fig|371601.509.peg.433|GA439_11395!!!ABC-type!antimicrobial!peptide!transport!system,!ATPase!component!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.57%
+Cluster 365009
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative calcineurin superfamily phosphohydrolase	BAD48899
+fig|371601.509.peg.4009|GA439_05875!!!putative!calcineurin!superfamily!phosphohydrolase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.17%
+Cluster 46716
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative helicase	BAD47738
+fig|371601.509.peg.4515|GA439_06890!!!Putative!helicase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.31%
+Cluster 517164
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49030
+fig|371601.509.peg.4409|GA439_23860!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.51%
+Cluster 14195
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41089
+fig|371601.509.peg.1862|GA439_15780!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.01%
+Cluster 304144
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44353
+fig|371601.509.peg.1461|GA439_01730!!!Transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.31%
+fig|371601.509.peg.669|GA439_12450!!!Transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.70%
+fig|371601.509.peg.1099|GA439_14455!!!Transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.58%
+Cluster 150140
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	two-component system sensor histidine kinase	BAD49487
+fig|371601.509.peg.2575|GA439_18110!!!Two-component!system!sensor!histidine!kinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.94%
+Cluster 142399
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative sugar nucleotide epimerase	BAD49842
+fig|371601.509.peg.763|GA439_12840!!!Cell!division!inhibitor!SulA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.46%
+Cluster 335558
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	AMP nucleosidase	ACU05276
+fig|371601.509.peg.4843|GA439_25195!!!AMP!nucleosidase!(EC!3.2.2.4)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.16%
+Cluster 327070
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD46943
+fig|371601.509.peg.2150|GA439_17165!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.29%
+Cluster 263613
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	putative BatA protein	ADE81983
+fig|371601.509.peg.2594|GA439_18205!!!Aerotolerance!protein!BatA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.83%
+Cluster 77887
+32637	CP002116	Spirochaeta smaragdinae DSM 11293, complete genome.	No	Spirochaetales	diphosphate/fructose-6-phosphate1-phosphotransfe rase	ADK81370
+fig|371601.509.peg.4742|GA439_24725!!!Pyrophosphate-dependent!fructose!6-phosphate-1-kinase!(EC!2.7.1.90)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.31%
+Cluster 513482
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	ATP synthase delta chain	BAD48924
+fig|371601.509.peg.3956|GA439_05610!!!ATP!synthase!delta!chain!(EC!3.6.3.14)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.12%
+Cluster 1415
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	putative DNA methylase	BAG32605
+fig|371601.509.peg.5387|GA439_26530!!!Putative!DNA!methylase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.83%
+Cluster 699254
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41464
+fig|371601.509.peg.1387|GA439_01375!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.84%
+Cluster 23090
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH05970
+fig|371601.509.peg.5417|GA439_08635!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.29%
+Cluster 120987
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	D-alanyl-D-alanine carboxypeptidase	BAD46774
+fig|371601.509.peg.2388|GA439_02600!!!D-alanyl-D-alanine!carboxypeptidase!(EC!3.4.16.4)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.44%
+Cluster 120988
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	outer membrane efflux protein oprM precursor	BAD49140
+fig|371601.509.peg.4839|GA439_25175!!!Efflux!transport!system,!outer!membrane!factor!(OMF)!lipoprotein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.71%
+Cluster 123205
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	rod shape-determining protein rodA	ABR39086
+fig|371601.509.peg.5473|GA439_08900!!!Peptidoglycan!glycosyltransferase!FtsW!(EC!2.4.1.129)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.00%
+Cluster 236160
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative conserved lipoprotein	CAH08845
+fig|371601.509.peg.1944|GA439_16150!!!RND!efflux!system,!membrane!fusion!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.78%
+Cluster 139382
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH07343
+fig|371601.509.peg.1719|GA439_15115!!!Vitellogenin!II!precursor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.19%
+Cluster 437235
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative K+ uptake system protein	BAD47994
+fig|371601.509.peg.4729|GA439_24665!!!KtrAB!potassium!uptake!system,!peripheral!membrane!component!KtrA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.70%
+Cluster 437234
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39580
+fig|371601.509.peg.455|GA439_11480!!!FIG036016:!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.74%
+Cluster 138045
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative ABC transport system, lipoprotein	CAH08431
+fig|371601.509.peg.150|GA439_10220!!!Spermidine/putrescine!import!ABC!transporter!substrate-binding!protein!PotD!(TC!3.A.1.11.1)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.75%
+Cluster 392940
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	3-oxo-5-alpha-steroid 4-dehydrogenase	BAD50494
+fig|371601.509.peg.242|GA439_10555!!!3-oxo-5-alpha-steroid!4-dehydrogenase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.12%
+Cluster 73575
+216	CP001037	Nostoc punctiforme PCC 73102, complete genome.	No	Nostocales	methyl-accepting chemotaxis sensory transducer	ACC79033
+fig|371601.509.peg.3743|GA439_21825!!!transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.90%
+Cluster 185684
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48328
+fig|371601.509.peg.1449|GA439_01675!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	86.90%
+Cluster 495145
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	RNA polymerase ECF-type sigma factor	ABR39692
+fig|371601.509.peg.5043|GA439_25445!!!RNA!polymerase!ECF-type!sigma!factor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.45%
+Cluster 752688
+29213	CP001099	Chlorobaculum parvum NCIB 8327, complete genome.	No	Chlorobia	putative transcriptional regulator	ACF11434
+fig|371601.509.peg.3310|GA439_04495!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.10%
+Cluster 74197
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	flotillin-like protein	ABR38905
+fig|371601.509.peg.5161|GA439_26015!!!Inner!membrane!protein!YqiK!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.27%
+Cluster 411398
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47462
+fig|371601.509.peg.4905|GA439_07420!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.88%
+Cluster 256765
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative anti-sigma factor	ABR39693
+fig|371601.509.peg.5044|GA439_25450!!!Putative!anti-sigma!factor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.25%
+Cluster 17228
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	pyruvate, phosphate dikinase	ADE81653
+fig|371601.509.peg.4044|GA439_06075!!!Pyruvate,phosphate!dikinase!(EC!2.7.9.1)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.04%
+Cluster 162489
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative metal resistance related exported protein	CAH09199
+fig|371601.509.peg.273|GA439_10715!!!Cation!efflux!system!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.00%
+Cluster 199761
+316	CP000282	Saccharophagus degradans 2-40, complete genome.	No	Gammaproteobacteria	putative b-xylosidase/a-L-arabinofuranosidase	ABD80084
+fig|371601.509.peg.5098|GA439_25710!!!Xylosidase/arabinosidase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.54%
+Cluster 519182
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	RNA polymerase ECF-type sigma factor	BAD48650
+fig|371601.509.peg.3493|GA439_20615!!!RNA!polymerase!ECF-type!sigma!factor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.39%
+Cluster 235821
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	Mg2+/Co2+ transport protein	BAD48016
+fig|371601.509.peg.1150|GA439_00235!!!Magnesium!and!cobalt!transport!protein!CorA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.00%
+Cluster 429106
+32207	FM242711	Listeria monocytogenes Clip80459 serotype 4b complete genome.	Yes	Bacillales	Putative transcription regulator CRP/FNR family	CAS04391
+fig|371601.509.peg.668!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.52%
+Cluster 110679
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative efflux pump component protein	BAD48981
+fig|371601.509.peg.5400|GA439_26590!!!Aminobenzoyl-glutamate!transport!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	75.83%
+Cluster 458452
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative DNA binding protein	ABR39318
+fig|371601.509.peg.2837|GA439_19360!!!Redox-sensing!transcriptional!repressor!Rex!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	85.19%
+Cluster 83258
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative transporter periplasmic binding protein	CAH06912
+fig|371601.509.peg.3484|GA439_20575!!!Voltage-gated!H(+)/2Cl(-)!exchange!transporter!ClcA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	84.32%
+Cluster 60126
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	K+ uptake protein	BAD47993
+fig|371601.509.peg.4728|GA439_24660!!!KtrAB!potassium!uptake!system,!integral!membrane!component!KtrB!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.25%
+Cluster 521709
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50338
+fig|371601.509.peg.3729|GA439_21750!!!7-carboxy-7-deazaguanine!synthase!(EC!4.3.99.3)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.43%
+Cluster 669758
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative thioredoxin	BAD48042
+fig|371601.509.peg.4235|GA439_23055!!!Thioredoxin!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.50%
+Cluster 181340
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47772
+fig|371601.509.peg.1998|GA439_16410!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.55%
+Cluster 178956
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	tyrosine type site-specific recombinase	BAD49751
+fig|371601.509.peg.4219|GA439_22985!!!Mobile!element!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	100.00%
+Cluster 122225
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	alkaline phosphatase III precursor	BAD47229
+fig|371601.509.peg.2633|GA439_18415!!!Alkaline!phosphatase!(EC!3.1.3.1)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.19%
+Cluster 559441
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49614
+fig|371601.509.peg.1790|GA439_15440!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	100.00%
+Cluster 652202
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative transcriptional regulator	BAD47323
+fig|371601.509.peg.424|GA439_11355!!!Transcriptional!regulator,!MarR!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.21%
+Cluster 165367
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative ATP-binding component of ABC transporter	CAH06264
+fig|371601.509.peg.435|GA439_11405!!!ABC!transporter,!permease!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.15%
+Cluster 166042
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	transposase	ABR43974
+fig|371601.509.peg.2935|GA439_19845!!!Transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.44%
+fig|371601.509.peg.5307|GA439_26150!!!Transposase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.79%
+Cluster 8305
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative outer membrane protein probably involved in nutrient binding	BAD48075
+fig|371601.509.peg.1873|GA439_15835!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.85%
+Cluster 348011
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative plasmid transfer protein	CAH05752
+fig|371601.509.peg.5292|GA439_26080!!!Conjugative!transposon!protein!TraN!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.92%
+Cluster 294508
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraN	BAG33113
+fig|371601.509.peg.4631|GA439_24190!!!Conjugative!transposon!protein!TraN!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.07%
+Cluster 526547
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative acetyltransferase	CAH07803
+fig|371601.509.peg.934|GA439_13655!!!Spermidine!N1-acetyltransferase!(EC!2.3.1.57)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.60%
+Cluster 9666
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative outer membrane protein probably involved in nutrient binding	BAD47414
+fig|371601.509.peg.281|GA439_10755!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.60%
+fig|371601.509.peg.657|GA439_12395!!!Outer!membrane!TonB-dependent!transporter,!utilization!system!for!glycans!and!polysaccharides!(PUL),!SusC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.51%
+Cluster 731918
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50132
+fig|371601.509.peg.1618|GA439_14630!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.33%
+Cluster 534541
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	acetyltransferase	ABR38528
+fig|371601.509.peg.2199|GA439_17370!!!Carbonic!anhydrase,!gamma!class!(EC!4.2.1.1)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.50%
+Cluster 2533
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50851
+fig|371601.509.peg.902|GA439_13485!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.01%
+Cluster 305910
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative permease	ABR42593
+fig|371601.509.peg.2279|GA439_17790!!!Putative!permease!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	79.60%
+Cluster 128988
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	Xaa-Pro aminopeptidase	BAD51098
+fig|371601.509.peg.2304|GA439_17905!!!Xaa-Pro!aminopeptidase!(EC!3.4.11.9)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	88.18%
+Cluster 480712
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved protein found in conjugate transposon TraK	BAD49555
+fig|371601.509.peg.3381|GA439_04850!!!Conjugative!transposon!protein!TraK!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	89.71%
+Cluster 480714
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative plasmid transfer protein	CAH05755
+fig|371601.509.peg.5295|GA439_26095!!!Conjugative!transposon!protein!TraK!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.02%
+Cluster 723904
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49983
+fig|371601.509.peg.3015|GA439_20220!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	85.71%
+Cluster 723901
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47454
+fig|371601.509.peg.4896|GA439_07380!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	84.42%
+Cluster 656486
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative membrane protein	CAH08768
+fig|371601.509.peg.3017|GA439_20230!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	86.73%
+Cluster 622727
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD46839
+fig|371601.509.peg.2448|GA439_02895!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.94%
+Cluster 173884
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47820
+fig|371601.509.peg.1067|GA439_14300!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.54%
+Cluster 501402
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative transmembrane protein	CAH09710
+fig|371601.509.peg.2191|GA439_17335!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	74.35%
+Cluster 228748
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH05972
+fig|371601.509.peg.5419|GA439_08645!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.90%
+Cluster 690314
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR40274
+fig|371601.509.peg.5025|GA439_25355!!!Zn-ribbon-containing,!possibly!RNA-binding!protein!and!truncated!derivatives!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.53%
+Cluster 624958
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48219
+fig|371601.509.peg.4855|GA439_25250!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.62%
+Cluster 100136
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR39504
+fig|371601.509.peg.915|GA439_13555!!!Stage!0!sporulation!protein!YaaT!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.54%
+Cluster 453836
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	hypothetical protein	CAH05750
+fig|371601.509.peg.5290|GA439_26070!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.09%
+Cluster 612101
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	hypothetical protein	ABR45542
+fig|371601.509.peg.4792|GA439_24950!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.62%
+Cluster 571697
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	thioredoxin	BAD49921
+fig|371601.509.peg.3885|GA439_22530!!!Thioredoxin!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	79.87%
+Cluster 58905
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	ABC transporter, ATP-binding protein, MsbA family	AAQ66726
+fig|371601.509.peg.5408|GA439_08590!!!Efflux!ABC!transporter,!permease/ATP-binding!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.19%
+Cluster 489067
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48794
+fig|371601.509.peg.939|GA439_13680!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.81%
+Cluster 491602
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH07091
+fig|371601.509.peg.5077|GA439_25615!!!Thioredoxin!domain-containing!protein!BT1583!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.44%
+Cluster 184583
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative ABC transporter permease protein	BAD49506
+fig|371601.509.peg.2920|GA439_19775!!!Phosphate!ABC!transporter,!permease!protein!PstC!(TC!3.A.1.7.1)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	92.46%
+Cluster 152793
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH07105
+fig|371601.509.peg.4865|GA439_25290!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.19%
+Cluster 126817
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	outer membrane protein oprM precursor	ABR41395
+fig|371601.509.peg.4741|GA439_24720!!!Efflux!transport!system,!outer!membrane!factor!(OMF)!lipoprotein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.97%
+Cluster 166501
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative ABC transporter component protein	CAH07139
+fig|371601.509.peg.1513|GA439_01980!!!ABC!transporter,!permease!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.61%
+Cluster 292982
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	glycosyltransferase family 2	ABR43339
+fig|371601.509.peg.357!!!Beta-1,3-glucosyltransferase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.79%
+Cluster 697291
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48956
+fig|371601.509.peg.3949|GA439_05580!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	76.92%
+Cluster 592516
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative periplasmic protein	BAD49488
+fig|371601.509.peg.2579|GA439_18130!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.93%
+Cluster 271430
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42568
+fig|371601.509.peg.2730|GA439_18875!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.98%
+Cluster 127168
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative outer membrane protein	ABR41728
+fig|371601.509.peg.5013|GA439_07950!!!Efflux!transport!system,!outer!membrane!factor!(OMF)!lipoprotein!BT_2117!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.52%
+Cluster 495789
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR40386
+fig|371601.509.peg.1518|GA439_02005!!!Inner!membrane!protein!RclC!associated!with!response!to!reactive!chlorine!species!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.95%
+Cluster 566641
+29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	No	Clostridia	ribosomal protein S13 RpsM	ADL33366
+fig|371601.509.peg.2244|GA439_17615!!!SSU!ribosomal!protein!S13p!(S18e)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.87%
+Cluster 178070
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	aminotransferase	ABR39049
+fig|371601.509.peg.5438|GA439_08740!!!Cysteine!desulfurase!(EC!2.8.1.7)!=>!SufS!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	84.62%
+Cluster 292732
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	DNA primase	ABR45204
+fig|371601.509.peg.3760|GA439_21905!!!DNA!primase,!TraP-type!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.57%
+fig|371601.509.peg.3761!!!DNA!primase,!TraP-type!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.49%
+fig|371601.509.peg.4279!!!DNA!primase!(EC!2.7.7.-)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.46%
+Cluster 19833
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative two-component system sensor histidine kinase	CAH07154
+fig|371601.509.peg.1508|GA439_01955!!!Two-component!system!sensor!histidine!kinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.70%
+Cluster 106902
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative biotin synthesis protein BioC	BAD48350
+fig|371601.509.peg.1405|GA439_01460!!!Malonyl-[acyl-carrier!protein]!O-methyltransferase!(EC!2.1.1.197)!/!Dethiobiotin!synthase!BioD!(EC!6.3.3.3)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.14%
+Cluster 706214
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49841
+fig|371601.509.peg.764|GA439_12845!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.92%
+Cluster 37117
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49917
+fig|371601.509.peg.3881|GA439_22510!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.75%
+Cluster 37119
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative exported protein	CAH08705
+fig|371601.509.peg.3880|GA439_22505!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.73%
+Cluster 409810
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49253
+fig|371601.509.peg.540|GA439_11880!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.51%
+Cluster 650596
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47836
+fig|371601.509.peg.1050|GA439_14220!!!Uncharacterized!protein!BT4380!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.10%
+Cluster 548765
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative integral membrane protein	CAH05740
+fig|371601.509.peg.4678|GA439_24420!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	95.21%
+Cluster 377302
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50517
+fig|371601.509.peg.228|GA439_10485!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.94%
+Cluster 92777
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47864
+fig|371601.509.peg.5404|GA439_08570!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.94%
+Cluster 54938
+19139	CP001020	Coxiella burnetii Cbu	Yes	Gammaproteobacteria	154, complete genome.	ACJ20408
+fig|371601.509.peg.5435|GA439_08725!!!Iron-sulfur!cluster!assembly!protein!SufB!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.37%
+Cluster 651009
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH08982
+fig|371601.509.peg.3756|GA439_21885!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.82%
+Cluster 710374
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD46857
+fig|371601.509.peg.3831|GA439_22270!!!FIG00938992:!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	85.88%
+Cluster 710375
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42500
+fig|371601.509.peg.4768|GA439_24840!!!FIG00403362:!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	100.00%
+Cluster 137641
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	ATP-dependent helicase, DEAD/DEAH box family	ADE82210
+fig|371601.509.peg.4344|GA439_23545!!!ATP-dependent!RNA!helicase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.71%
+Cluster 382195
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH09475
+fig|371601.509.peg.2971|GA439_20005!!!UPF0246!protein!YaaA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	76.65%
+Cluster 533979
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49033
+fig|371601.509.peg.1644|GA439_14745!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.57%
+Cluster 533973
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD47911
+fig|371601.509.peg.833|GA439_13160!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	88.57%
+Cluster 525818
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	shikimate kinase	BAD46984
+fig|371601.509.peg.5416|GA439_08630!!!Shikimate!kinase!I!(EC!2.7.1.71)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.71%
+Cluster 441389
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	Na+-translocating NADH-quinone reductase subunit C	BAD48760
+fig|371601.509.peg.970|GA439_13835!!!Na(+)-translocating!NADH-quinone!reductase!subunit!C!(EC!1.6.5.8)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.36%
+Cluster 87371
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative transport protein	BAD49430
+fig|371601.509.peg.117|GA439_10070!!!Predicted!cobalt!transporter!in!Bacteroides_Porphyromonas!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	93.61%
+Cluster 674580
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD49661
+fig|371601.509.peg.1736|GA439_15175!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.04%
+Cluster 532533
+29403	CP001632	Capnocytophaga ochracea DSM 7271, complete genome.	Yes	Flavobacteria	D-tyrosyl-tRNA(Tyr) deacylase	ACU92127
+fig|371601.509.peg.2456|GA439_02935!!!D-aminoacyl-tRNA!deacylase!(EC!3.1.1.96)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.67%
+Cluster 396185
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative methyltransferase	BAD47987
+fig|371601.509.peg.1344|GA439_01165!!!SAM-dependent!methyltransferase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.52%
+Cluster 110487
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative transmembrane O-antigen flippase	CAH07752
+fig|371601.509.peg.993|GA439_13950!!!Membrane!protein!involved!in!the!export!of!O-antigen,!teichoic!acid!lipoteichoic!acids!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	76.19%
+Cluster 69133
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative partitioning protein	BAD49572
+fig|371601.509.peg.1835|GA439_15640!!!Chromosome!(plasmid)!partitioning!protein!ParB!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	99.83%
+Cluster 404448
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	CRP family transcription regulator	BAD47745
+fig|371601.509.peg.5035|GA439_25405!!!Hcp!transcriptional!regulator!HcpR!(Crp/Fnr!family)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.02%
+Cluster 504002
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	RNA polymerase ECF-type sigma factor	ABR38335
+fig|371601.509.peg.5284|GA439_26040!!!RNA!polymerase!ECF-type!sigma!factor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.19%
+Cluster 446091
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49968
+fig|371601.509.peg.5197|GA439_08160!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.61%
+Cluster 706837
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48405
+fig|371601.509.peg.2741|GA439_18930!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.00%
+Cluster 335317
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative copper homeostasis protein	ABR41500
+fig|371601.509.peg.1023|GA439_14100!!!Cytoplasmic!copper!homeostasis!protein!CutC!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.80%
+Cluster 645858
+305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	No	Actinobacteridae	putative translation initiation factor IF-1	BAC17378
+fig|371601.509.peg.2242|GA439_17605!!!Translation!initiation!factor!1!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.83%
+Cluster 433904
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH06378
+fig|371601.509.peg.4891|GA439_07355!!!TPR-domain-containing!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.20%
+Cluster 373997
+42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	No	Clostridia	electron transport complex, RnfABCDGE type, E subunit	ADL04244
+fig|371601.509.peg.4073|GA439_06200!!!Electron!transport!complex!protein!RnfE!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.31%
+Cluster 73469
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD49086
+fig|371601.509.peg.3565|GA439_20975!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.90%
+Cluster 382698
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative methyltransferase	BAD48199
+fig|371601.509.peg.40|GA439_27265!!!SAM-dependent!methyltransferase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	76.95%
+Cluster 674800
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	putative nucleotidyl transferase	ADE81926
+fig|371601.509.peg.1409|GA439_01480!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.50%
+Cluster 330572
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative oxidoreductase	BAD50492
+fig|371601.509.peg.244|GA439_10565!!!retinol!dehydrogenase!13!(all-trans!and!9-cis)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.84%
+Cluster 330573
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50721
+fig|371601.509.peg.2861|GA439_19475!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	84.48%
+Cluster 93437
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative Na+/sulfate symporter	BAD48414
+fig|371601.509.peg.2735|GA439_18900!!!Transporter,!sodium/sulfate!symporter!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	88.39%
+Cluster 741925
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49306
+fig|371601.509.peg.4056|GA439_06135!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.82%
+Cluster 216828
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative plasmid transfer protein	CAH05753
+fig|371601.509.peg.5293|GA439_26085!!!Conjugative!transposon!protein!TraM!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	97.29%
+Cluster 137339
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	dihydrolipoamide dehydrogenase	BAD46773
+fig|371601.509.peg.2386|GA439_02590!!!Dihydrolipoamide!dehydrogenase!(EC!1.8.1.4)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	86.13%
+Cluster 374788
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative cytochrome c biogenesis protein	CAH06133
+fig|371601.509.peg.1354|GA439_01210!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.33%
+Cluster 587935
+28507	CP000962	Clostridium botulinum A3 str. Loch Maree, complete genome.	Yes	Clostridia	acetyltransferase, GNAT family	ACA56057
+fig|371601.509.peg.132|GA439_10130!!!IAA!acetyltransferase!(EC!2.3.1.-)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.71%
+Cluster 14843
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	plasmid transfer protein	CAH05759
+fig|371601.509.peg.5299|GA439_26115!!!Conjugative!transposon!protein!TraG!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.31%
+Cluster 171776
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	haloacid dehalogenase-like hydrolase	BAD48064
+fig|371601.509.peg.1144|GA439_00200!!!Haloacid!dehalogenase-like!hydrolase!/!1,4-dihydroxy-2-naphthoyl-CoA!hydrolase!(EC!3.1.2.28)!in!menaquinone!biosynthesis!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.68%
+Cluster 673359
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraE	BAD46874
+fig|371601.509.peg.3850|GA439_22365!!!Conjugative!transposon!protein!TraE!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	96.12%
+fig|371601.509.peg.4620|GA439_24135!!!Conjugative!transposon!protein!TraE!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.00%
+Cluster 66894
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative heat-shock protein	CAH05971
+fig|371601.509.peg.5418|GA439_08640!!!HtpG-like!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	86.73%
+Cluster 142131
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47824
+fig|371601.509.peg.1063|GA439_14285!!!TPR!domain!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	85.71%
+Cluster 215016
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	tyrosine type site-specific recombinase	BAD47918
+fig|371601.509.peg.840|GA439_13190!!!Integrase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	96.77%
+Cluster 575949
+19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Yes	Bacteroidia	probable conserved protein found in conjugate transposon	BAG32575
+fig|371601.509.peg.4633|GA439_24200!!!Conjugative!transposon!protein!TraQ!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.90%
+Cluster 54591
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative two-component sensor histidine kinase	CAH06708
+fig|371601.509.peg.1077|GA439_14350!!!Two-component!system!sensor!histidine!kinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.40%
+Cluster 326551
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative anti-sigma factor	BAD50614
+fig|371601.509.peg.4935|GA439_07570!!!Putative!anti-sigma!factor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.38%
+Cluster 281902
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	transcriptional regulator	BAD49383
+fig|371601.509.peg.51|GA439_09760!!!Transcriptional!regulator,!AraC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.07%
+Cluster 281903
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50676
+fig|371601.509.peg.531|GA439_11860!!!TPR-domain-containing!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	74.69%
+Cluster 616408
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47495
+fig|371601.509.peg.460|GA439_11505!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.64%
+Cluster 93927
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative two-component system sensor histidine kinase	BAD51091
+fig|371601.509.peg.3164|GA439_03810!!!Two-component!system!sensor!histidine!kinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.53%
+Cluster 688088
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50881
+fig|371601.509.peg.2263|GA439_17705!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	87.63%
+Cluster 360098
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	hypothetical protein	BAD49082
+fig|371601.509.peg.3569|GA439_21000!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.57%
+Cluster 246589
+48	AE015924	Porphyromonas gingivalis W83, complete genome.	Yes	Bacteroidia	type II DNA modification methyltransferase, putative	AAQ66710
+fig|371601.509.peg.329|GA439_10945!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.17%
+Cluster 700476
+308	BA000039	Thermosynechococcus elongatus BP-1 DNA, complete genome.	No	Chroococcales	UNKNOWN	BAC08116
+fig|371601.509.peg.2420|GA439_02750!!!Membrane!protein!insertion!efficiency!factor!YidD!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.01%
+Cluster 711853
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49575
+fig|371601.509.peg.1832|GA439_15625!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	100.00%
+Cluster 669119
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative transmembrane conserved protein found in conjugate transposon	CAH07465
+fig|371601.509.peg.4621|GA439_24140!!!Conjugative!transposon!protein!TraF!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.96%
+Cluster 293836
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	5-methyltetrahydrofolate-homocysteine methyltransferase	BAD49876
+fig|371601.509.peg.3869|GA439_22455!!!5-methyltetrahydrofolate--homocysteine!methyltransferase!(EC!2.1.1.13)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.33%
+Cluster 275757
+27767	CP001185	Thermosipho africanus TCF52B, complete genome.	No	Thermotogales	conserved hypothetical protein	ACJ75237
+fig|371601.509.peg.1884|GA439_15885!!!1,4-beta-mannosyl-N-acetylglucosamine!phosphorylase!(EC!2.4.1.320)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.35%
+Cluster 37482
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative exported protein	CAH06042
+fig|371601.509.peg.1359|GA439_01235!!!TonB-dependent!receptor!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.76%
+Cluster 148208
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	alpha-L-fucosidase precursor	BAD50163
+fig|371601.509.peg.1598|GA439_14540!!!alpha-L-fucosidase!(EC!3.2.1.51)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	85.65%
+Cluster 611063
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	glyoxalase family protein	ADE82825
+fig|371601.509.peg.1921|GA439_16060!!!Methylmalonyl-CoA!epimerase!(EC!5.1.99.1)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.88%
+Cluster 440683
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD51100
+fig|371601.509.peg.2306|GA439_17915!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	79.37%
+Cluster 440681
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50111
+fig|371601.509.peg.1636|GA439_14705!!!FrrB!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.03%
+Cluster 62211
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	DNA mismatch repair protein MutS	BAD50893
+fig|371601.509.peg.2251|GA439_17650!!!MutS-related!protein,!family!1!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.55%
+Cluster 735388
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	hypothetical protein	CAH05724
+fig|371601.509.peg.5622|GA439_26990!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	94.29%
+Cluster 735385
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50740
+fig|371601.509.peg.2845|GA439_19400!!!Exodeoxyribonuclease!VII!small!subunit!(EC!3.1.11.6)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	85.51%
+Cluster 569679
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative transmembrane protein	CAH06867
+fig|371601.509.peg.3789|GA439_22065!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.21%
+Cluster 600946
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	ACT domain protein	ADE83244
+fig|371601.509.peg.4137|GA439_06510!!!Amino!acid-binding!ACT!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.09%
+Cluster 495088
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	ATP synthase subunit E	BAD49484
+fig|371601.509.peg.164|GA439_10285!!!V-type!ATP!synthase!subunit!E!(EC!3.6.3.14)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	89.80%
+Cluster 109913
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	Sialate O-acetylesterase	ACU04512
+fig|371601.509.peg.4481|GA439_06725!!!Sialic!acid-specific!9-O-acetylesterase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.64%
+Cluster 143347
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative antiporter membrane protein	CAH08750
+fig|371601.509.peg.5067|GA439_25560!!!BexA,!multidrug!efflux!pump!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	89.32%
+Cluster 428252
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative ribose 5-phosphate isomerase	BAD50420
+fig|371601.509.peg.282|GA439_10760!!!Ribose-5-phosphate!isomerase!A!(EC!5.3.1.6)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.09%
+Cluster 190913
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative Na+/H+ exchange protein	BAD49304
+fig|371601.509.peg.4054|GA439_06125!!!Putative!Na+/H+!exchange!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	85.46%
+Cluster 155199
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50479
+fig|371601.509.peg.261|GA439_10655!!!Peptidase!M64!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.29%
+Cluster 442506
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47747
+fig|371601.509.peg.1975|GA439_16300!!!Integral!membrane!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.25%
+Cluster 310312
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative transport protein	BAD47365
+fig|371601.509.peg.2823|GA439_19295!!!Small-conductance!mechanosensitive!channel!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	82.06%
+Cluster 640891
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41291
+fig|371601.509.peg.4089|GA439_06270!!!Mobile!element!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	68.70%
+Cluster 60859
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD51092
+fig|371601.509.peg.3116|GA439_03570!!!putative!secreted!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.88%
+Cluster 268403
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative PfkB family carbohydrate kinase	BAD51113
+fig|371601.509.peg.3784|GA439_22030!!!Ribokinase!(EC!2.7.1.15)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	87.84%
+Cluster 766587
+19227	CP000910	Renibacterium salmoninarum ATCC 33209, complete genome.	No	Actinobacteridae	LSU ribosomal protein L36P	ABY23415
+fig|371601.509.peg.2243|GA439_17610!!!LSU!ribosomal!protein!L36p!@!LSU!ribosomal!protein!L36p,!zinc-independent!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.16%
+Cluster 567709
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH07049
+fig|371601.509.peg.3649|GA439_21365!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.52%
+Cluster 567707
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47797
+fig|371601.509.peg.1089|GA439_14410!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.29%
+Cluster 646519
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR41329
+fig|371601.509.peg.1840|GA439_15670!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	95.80%
+Cluster 252795
+27777	CP001793	Geobacillus sp. Y412MC10, complete genome.	No	Bacillales	ABC transporter related protein	ACX63963
+fig|371601.509.peg.2577|GA439_18120!!!Uncharacterized!protein!BT_0925!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.29%
+Cluster 109789
+28817	CP001769	Spirosoma linguale DSM 74, complete genome.	No	Cytophagia	DEAD/DEAH box helicase domain protein	ADB38469
+fig|371601.509.peg.4152|GA439_22655!!!ATP-dependent!RNA!helicase!RhlE!(EC!3.6.4.13)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.47%
+Cluster 170700
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48336
+fig|371601.509.peg.1445|GA439_01655!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.05%
+Cluster 644829
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD46900
+fig|371601.509.peg.5334|GA439_26285!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	100.00%
+Cluster 53779
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47342
+fig|371601.509.peg.5736|GA439_09615!!!Lipopolysaccharide!export!system!permease!protein!LptF!/!Domain!of!unknown!function!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	74.21%
+Cluster 372955
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47499
+fig|371601.509.peg.456|GA439_11485!!!FIG032012:!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.83%
+Cluster 458096
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH06693
+fig|371601.509.peg.2009|GA439_16465!!!Outer!membrane!lipoprotein!carrier!protein!LolA!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.93%
+Cluster 225298
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47492
+fig|371601.509.peg.5509|GA439_09070!!!Integral!membrane!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	87.85%
+Cluster 91485
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44606
+fig|371601.509.peg.1116|GA439_00065!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.19%
+fig|371601.509.peg.220|GA439_10450!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.96%
+fig|371601.509.peg.2028|GA439_16560!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.51%
+Cluster 91484
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44236
+fig|371601.509.peg.1478|GA439_01810!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.85%
+fig|371601.509.peg.921|GA439_13585!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	77.42%
+fig|371601.509.peg.2098|GA439_16910!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	67.70%
+Cluster 91487
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44862
+fig|371601.509.peg.922|GA439_13590!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.92%
+Cluster 91486
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR44627
+fig|371601.509.peg.1407|GA439_01470!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.29%
+fig|371601.509.peg.5279|GA439_08560!!!Conserved!protein,!with!a!weak!D-galactarate!dehydratase/altronate!hydrolase!domain!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	70.02%
+Cluster 490767
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	transcriptional regulator	BAD50861
+fig|371601.509.peg.877|GA439_13365!!!Transcriptional!regulator,!AcrR!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	90.31%
+Cluster 329444
+20089	CP001071	Akkermansia muciniphila ATCC BAA-835, complete genome.	No	Verrucomicrobiae	conserved hypothetical protein	ACD05615
+fig|371601.509.peg.1342|GA439_01155!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	64.81%
+Cluster 662036
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47461
+fig|371601.509.peg.4904|GA439_07415!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	88.29%
+Cluster 642732
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD50810
+fig|371601.509.peg.1102|GA439_00005!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.94%
+Cluster 143326
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	rteB gene product	BAD46887
+fig|371601.509.peg.3864|GA439_22435!!!CTnDOT!two-component!system!response!regulator!and!RteC!activator,!RteB!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	100.00%
+Cluster 184623
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	ABR42040
+fig|371601.509.peg.781|GA439_12925!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	65.33%
+Cluster 350194
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein BatE	BAD49164
+fig|371601.509.peg.2598|GA439_18225!!!Aerotolerance!protein!BatE!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.31%
+Cluster 528273
+12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	No	Clostridia	GCN5-related N-acetyltransferase	ABR35726
+fig|371601.509.peg.2818|GA439_19270!!!Acetyltransferase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.71%
+Cluster 157815
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	outer membrane efflux protein	BAD50057
+fig|371601.509.peg.1946|GA439_16160!!!Efflux!transport!system,!outer!membrane!factor!(OMF)!lipoprotein!BT_1695!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	74.00%
+Cluster 186488
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD49249
+fig|371601.509.peg.2569|GA439_18075!!!Efflux!ABC!transporter,!permease!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	80.71%
+Cluster 73405
+78	AM180355	Clostridium difficile 630 complete genome.	Yes	Clostridia	putative DNA topoisomerase	CAJ67244
+fig|371601.509.peg.4291!!!DNA!topoisomerase!III!(EC!5.99.1.2)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.53%
+Cluster 23391
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD51196
+fig|371601.509.peg.2360|GA439_02475!!!Putative!large!secreted!protein!SCO0341!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	74.85%
+Cluster 262088
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	aminopeptidase	BAD47474
+fig|371601.509.peg.4916|GA439_07475!!!Aminopeptidase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	79.22%
+Cluster 279532
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD51304
+fig|371601.509.peg.3427|GA439_05075!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	86.92%
+Cluster 451728
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	CAH09757
+fig|371601.509.peg.2159|GA439_17200!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	63.77%
+Cluster 427237
+41467	CP002028	Thermincola sp. JR, complete genome.	No	Clostridia	flavin reductase domain protein FMN-binding protein	ADG82833
+fig|371601.509.peg.2299|GA439_17880!!!Rubredoxin!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.67%
+Cluster 113047
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative transmembrane protein	CAH09636
+fig|371601.509.peg.2265|GA439_17715!!!Putative!periplasmic!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	79.48%
+Cluster 105160
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative outer membrane protein OprM precursor	ABR40012
+fig|371601.509.peg.1507|GA439_01950!!!Outer!membrane!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	66.46%
+Cluster 761228
+10619	CP002006	Prevotella ruminicola 23, complete genome.	No	Bacteroidia	hypothetical protein	ADE83267
+fig|371601.509.peg.2586|GA439_18165!!!Uncharacterized!protein!Fjoh_4981,!DUF4295-containing!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	88.46%
+Cluster 373689
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative ABC transport system, membrane protein	CAH08169
+fig|371601.509.peg.4833|GA439_25145!!!Probable!iron!export!permease!protein!FetB!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	90.15%
+Cluster 132244
+27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	No	Sphingobacteria	protein of unknown function DUF1080	ACU04406
+fig|371601.509.peg.3193|GA439_03935!!!Putative!secreted!glycosyl!hydrolase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.13%
+Cluster 145810
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative L-fucose permease	ABR39061
+fig|371601.509.peg.143|GA439_10185!!!Fucose!permease!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.19%
+Cluster 162352
+15685	CP000539	Acidovorax sp. JS42, complete genome.	No	Betaproteobacteria	isocitrate dehydrogenase (NADP)	ABM42459
+fig|371601.509.peg.240|GA439_10545!!!Isocitrate!dehydrogenase![NADP]!(EC!1.1.1.42)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	62.09%
+Cluster 488301
+16393	CP000381	Neisseria meningitidis 053442, complete genome.	Yes	Betaproteobacteria	conserved hypothetical protein	ABX73966
+fig|371601.509.peg.4858|GA439_25265!!!NADPH-dependent!7-cyano-7-deazaguanine!reductase!(EC!1.7.1.13)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.85%
+Cluster 92870
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative integral membrane protein	CAH05742
+fig|371601.509.peg.4676|GA439_24410!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	98.07%
+Cluster 344615
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative AraC family transcriptional regulatory protein	CAH07135
+fig|371601.509.peg.1517|GA439_02000!!!Transcriptional!regulator,!AraC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.00%
+Cluster 344616
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative AraC-family transcriptional regulator	CAH10011
+fig|371601.509.peg.3275|GA439_04335!!!Transcriptional!regulator,!AraC!family!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	72.40%
+Cluster 375425
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	D-alanyl-D-alanine dipeptidase	BAD51260
+fig|371601.509.peg.3222|GA439_04085!!!D-alanyl-D-alanine!dipeptidase!(EC!3.4.13.22)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.62%
+Cluster 375423
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	iron(III) ABC transporter ATP-binding protein	BAD49772
+fig|371601.509.peg.197|GA439_10345!!!Vitamin!B12!ABC!transporter,!ATP-binding!protein!BtuD!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	60.56%
+fig|371601.509.peg.712|GA439_12635!!!Vitamin!B12!ABC!transporter,!ATP-binding!protein!BtuD!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	100.00%
+Cluster 494746
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD48160
+fig|371601.509.peg.3661|GA439_21425!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.98%
+Cluster 30370
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	putative outer membrane protein	BAD49029
+fig|371601.509.peg.4410|GA439_23870!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	76.59%
+Cluster 139036
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	two-component system sensor histidine kinase	BAD48933
+fig|371601.509.peg.4019|GA439_05925!!!Two-component!system!sensor!histidine!kinase!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.33%
+Cluster 11723
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative AcrB/AcrD/AcrF family membrane protein	CAH08846
+fig|371601.509.peg.1945|GA439_16155!!!RND!efflux!system,!inner!membrane!transporter!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	90.40%
+Cluster 663767
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	TraF	BAD46873
+fig|371601.509.peg.3849|GA439_22360!!!Conjugative!transposon!protein!TraF!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	93.64%
+Cluster 107197
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative Na+/H+ exchanger	CAH07896
+fig|371601.509.peg.4016|GA439_05910!!!Na(+)/H(+)!antiporter!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	86.89%
+Cluster 370899
+27951	CP001699	Chitinophaga pinensis DSM 2588, complete genome.	No	Sphingobacteria	conserved hypothetical protein	ACU63715
+fig|371601.509.peg.4384|GA439_23735!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	69.23%
+Cluster 299928
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	cation efflux system protein	ABR42573
+fig|371601.509.peg.467|GA439_11545!!!Cation!efflux!system!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	61.95%
+Cluster 174724
+13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Yes	Bacteroidia	putative NADH:flavin oxidoreductase	ABR39637
+fig|371601.509.peg.243|GA439_10560!!!2,4-dienoyl-CoA!reductase![NADPH]!(EC!1.3.1.34)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	81.33%
+Cluster 427210
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	putative plasmid transfer protein	CAH05758
+fig|371601.509.peg.5298|GA439_26110!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	96.88%
+Cluster 147529
+13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Yes	Bacteroidia	putative GMP synthase	ABR43567
+fig|371601.509.peg.4190|GA439_22845!!!GMP!synthase![glutamine-hydrolyzing],!amidotransferase!subunit!(EC!6.3.5.2)!/!GMP!synthase![glutamine-hydrolyzing],!ATP!pyrophosphatase!subunit!(EC!6.3.5.2)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	93.33%
+Cluster 556193
+46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Yes	Bacteroidia	hypothetical protein	CAH05723
+fig|371601.509.peg.5621|GA439_26985!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	85.62%
+Cluster 213971
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	conserved hypothetical protein	BAD47725
+fig|371601.509.peg.4378|GA439_23705!!!hypothetical!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	71.51%
+Cluster 176081
+46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Yes	Bacteroidia	putative exported protein	CAH08905
+fig|371601.509.peg.1621|GA439_14640!!!Outer!membrane!protein/protective!antigen!OMA87!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	78.95%
+Cluster 57153
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	2,6-beta-D-fructofuranosidase	BAD50086
+fig|371601.509.peg.1648|GA439_14765!!!Levanase!(EC!3.2.1.65)!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	73.87%
+Cluster 165492
+13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Yes	Bacteroidia	probable ABC transporter permease	BAD49117
+fig|371601.509.peg.4327|GA439_23460!!!RND!efflux!system,!membrane!fusion!protein!!![Bacteroides!xylanisolvens!strain!BIOML-A67!|!371601.509]	83.17%
