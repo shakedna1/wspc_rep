@@ -1,0 +1,263 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_10_12_2020_101854_165538_input.fsa
+Sequences ::	 5193
+Total bpp ::	 1569118
+Longest seq ::	 1752
+Shortest seq ::	 14
+Avg seq lenght ::	 302.0
+
+RESULTS:
+Min Identity Threshold ::	95.269
+Z-THRESHOLD ::	3.0
+Prediction Score ::	174.283
+Probability of being human pathogen ::	0.728
+Matches::	81
+Genome Coverage (%) ::	1.56
+Pathogenic Families Matched ::	64
+Non-Pathogenic Families Matched ::	17
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1463165.260.peg.2994|HCN86_14865   Hydroxyaromatic non-oxidative decarboxylase protein C (EC 4.1.1.-)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78633	Yes	97.89
+
+#input_seq:	fig|1463165.260.peg.4004|HCN86_19900   PTS system, maltose-specific IIC component / PTS system, maltose-specific IIB component (EC 2.7.1.208)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative alpha-glucoside-specific PTS family enzyme IIBC component	BAH65874	Yes	99.07
+
+#input_seq:	fig|1463165.260.peg.2186|HCN86_10800   Trehalase (EC 3.2.1.28) @ Periplasmic trehalase (EC 3.2.1.28)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	periplasmic trehalase	BAH64029	Yes	95.52
+
+#input_seq:	fig|1463165.260.peg.1509|HCN86_07445   Uncharacterized GGDEF domain protein YneF   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	putative membrane-bound diguanylate cyclase	ACI07008	No	97.47
+
+#input_seq:	fig|1463165.260.peg.2756|HCN86_13635   Peptidase B (EC 3.4.11.23)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	aminopeptidase B	BAH64649	Yes	96.5
+
+#input_seq:	fig|1463165.260.peg.1041|HCN86_05185   Chitinase (EC 3.2.1.14)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative chitinase II	BAH62922	Yes	95.92
+
+#input_seq:	fig|1463165.260.peg.4967|HCN86_24705   Mobile element protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	transposase InsC3 for insertion sequence ISEc9	ABO41047	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.5150|HCN86_25585   PTS system, galactitol-specific IIC component   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	putative PTS system, galactitol-specific IIC component	ACI07228	No	99.76
+
+#input_seq:	fig|1463165.260.peg.1302|HCN86_06460   Putative monooxygenase PA5393   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACI08332	No	95.93
+
+#input_seq:	fig|1463165.260.peg.2665|HCN86_13165   Na+ dependent nucleoside transporter NupC   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	nucleoside permease	BAH64544	Yes	99.25
+
+#input_seq:	fig|1463165.260.peg.513|HCN86_02610   Galactokinase (EC 2.7.1.6)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	galactokinase	ACI06895	No	98.43
+
+#input_seq:	fig|1463165.260.peg.2386|HCN86_11795   COG0438: Glycosyltransferase   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	mannosyltransferase B	ACI11314	No	99.48
+
+#input_seq:	fig|1463165.260.peg.5005|HCN86_24895   Mobile element protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Gammaproteobacteria	putative transposase	ABR80621	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.5120|HCN86_25440   putative membrane protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	putative membrane protein	ACI10581	No	97.81
+
+#input_seq:	fig|1463165.260.peg.1772|HCN86_08735   Pyrimidine-specific ribonucleoside hydrolase RihA   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	pyrimidine specific nucleoside hydrolase	BAH63617	Yes	96.46
+
+#input_seq:	fig|1463165.260.peg.602|HCN86_03060   L,D-transpeptidase => YbiS   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH62542	Yes	99.39
+
+#input_seq:	fig|1463165.260.peg.523|HCN86_02670   6-phosphogluconolactonase (EC 3.1.1.31)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative isomerase	ABR76217	Yes	97.58
+
+#input_seq:	fig|1463165.260.peg.1590|HCN86_07840   Transcriptional regulator, LacI family   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative periplasmic binding protein/LacI transcriptional regulator	BAH63452	Yes	97.73
+
+#input_seq:	fig|1463165.260.peg.4559   Transposase InsO for insertion sequence element IS911   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	transposase ORF B, IS3 family	CAR11463	Yes	96.55
+
+#input_seq:	fig|1463165.260.peg.388|HCN86_01925   Transcriptional regulator, LacI family   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative periplasmic binding protein/LacI transcriptional regulator	ABR76081	Yes	97.4
+
+#input_seq:	fig|1463165.260.peg.1179|HCN86_05860   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR76844	Yes	96.71
+
+#input_seq:	fig|1463165.260.peg.2377|HCN86_11750   ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV11918	Yes	95.32
+
+#input_seq:	fig|1463165.260.peg.4961|HCN86_24675   Aminoglycoside 3''-phosphotransferase (EC 2.7.1.87) => APH(3'')-I   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	19459	CP001125	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 plasmid pCVM1963	Gammaproteobacteria	10, complete sequence.	ACF88500	Yes	99.63
+
+#input_seq:	fig|1463165.260.peg.5210|HCN86_25900   Dienelactone hydrolase family protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative dienelactone hydrolase	BAH61095	Yes	98.89
+
+#input_seq:	fig|1463165.260.peg.4222|HCN86_21020   SSU ribosomal protein S2p (SAe)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	98.34
+
+#input_seq:	fig|1463165.260.peg.2169|HCN86_10720   ABC transporter, substrate-binding protein (cluster 13, osmolytes)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	quaternary amine uptake ABC transporter (QAT) family,  periplasmic amine-binding protein	ACI09197	No	97.66
+
+#input_seq:	fig|1463165.260.peg.2866|HCN86_14200   transcriptional regulator, LysR family   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	modulation protein d1	BAH64759	Yes	97.66
+
+#input_seq:	fig|1463165.260.peg.4159|HCN86_20685   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	96.68
+
+#input_seq:	fig|1463165.260.peg.323|HCN86_01605   ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	amino acid ABC transporter, periplasmic amino acid-binding protein	ACI10773	No	99.29
+
+#input_seq:	fig|1463165.260.peg.1136|HCN86_05650   Histidine ABC transporter, substrate-binding protein HisJ (TC 3.A.1.3.1)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	amino acid ABC transporter, periplasmic amino acid-binding protein	ACI08408	No	98.22
+
+#input_seq:	fig|1463165.260.peg.3448|HCN86_17110   PTS system, tagatose-specific IIA component / PTS system, tagatose-specific phosphocarrier protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	fructose-specific PTS family enzyme IIA component	BAH65323	Yes	96.68
+
+#input_seq:	fig|1463165.260.peg.2562|HCN86_12655   2-keto-3-deoxy-L-rhamnonate aldolase (EC 4.1.2.53)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	putative 2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	ACI06570	No	95.51
+
+#input_seq:	fig|1463165.260.peg.4666|HCN86_23235   3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741	No	95.37
+
+#input_seq:	fig|1463165.260.peg.1004|HCN86_05005   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative CTP synthase	BAH62894	Yes	96.96
+
+#input_seq:	fig|1463165.260.peg.735|HCN86_03695   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	97.67
+
+#input_seq:	fig|1463165.260.peg.1748|HCN86_08615   ABC transporter, ATP-binding protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	ABC transporter, ATP-binding protein	ACI08962	No	95.28
+
+#input_seq:	fig|1463165.260.peg.1764|HCN86_08695   Methyltransferase type 11   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	thiopurine S-methyltransferase family protein	ACI10746	No	99.13
+
+#input_seq:	fig|1463165.260.peg.466|HCN86_02345   SeqA protein, negative modulator of initiation of replication   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	SeqA family protein	BAH62406	Yes	98.9
+
+#input_seq:	fig|1463165.260.peg.4828|HCN86_24045   Chorismate--pyruvate lyase (EC 4.1.3.40)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	chorismate lyase	BAH61178	Yes	96.97
+
+#input_seq:	fig|1463165.260.peg.4990|HCN86_24820   Aminoglycoside N(6')-acetyltransferase (EC 2.3.1.82) => AAC(6')-Ib-cr fluoroquinolone-acetylating   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	17827	CP000863	Acinetobacter baumannii ACICU, complete genome.	Gammaproteobacteria	aminoglycoside 6'-N-acetyl transferase type Ib	ACC55535	Yes	97.49
+
+#input_seq:	fig|1463165.260.peg.4189|HCN86_20860   D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR75674	Yes	97.87
+
+#input_seq:	fig|1463165.260.peg.4951|HCN86_24630   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80427	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.4981|HCN86_24775   Protein of unknown function DUF208   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	20585	CU468133	Erwinia tasmaniensis strain ET1/99 complete plasmid pET46.	Gammaproteobacteria	Resolvase	CAO94998	No	99.0
+
+#input_seq:	fig|1463165.260.peg.4965|HCN86_24695   Phage integrase, site-specific serine recombinase   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	transposon Tn3 resolvase	AAX87127	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.1190|HCN86_05915   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR76855	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.1611|HCN86_07940   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative cell envelope integrity inner membrane protein TolA	BAH63461	Yes	96.91
+
+#input_seq:	fig|1463165.260.peg.4963|HCN86_24685   Mobile element protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	32571	FM180570	Escherichia coli 0127:H6 E2348/69 plasmid pE2348-2, strain E2348/69.	Gammaproteobacteria	UNKNOWN	CAS07429	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.4937|HCN86_24565   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH66034	Yes	98.17
+
+#input_seq:	fig|1463165.260.peg.976|HCN86_04875   Stress response diiron-containing protein YciF   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACI08632	No	100.0
+
+#input_seq:	fig|1463165.260.peg.5075|HCN86_25220   X polypeptide   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	lytic transglycosylase-like protein	ABR80379	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.4722|HCN86_23530   Heat shock protein 10 kDa family chaperone GroES   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	co-chaperonin GroES	ACN48531	Yes	95.88
+
+#input_seq:	fig|1463165.260.peg.5044|HCN86_25060   IncF plasmid conjugative transfer protein TrbF   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80408	Yes	96.6
+
+#input_seq:	fig|1463165.260.peg.5060|HCN86_25145   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80515	Yes	98.51
+
+#input_seq:	fig|1463165.260.peg.5058|HCN86_25130   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80517	Yes	96.15
+
+#input_seq:	fig|1463165.260.peg.4674|HCN86_23275   Putative inner membrane protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH61334	Yes	97.8
+
+#input_seq:	fig|1463165.260.peg.4972   Transposase and inactivated derivatives   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	344	AM236081	Rhizobium leguminosarum bv. viciae plasmid pRL7 complete genome, strain 3841.	Alphaproteobacteria	conserved hypothetical protein	CAK11706	No	97.09
+
+#input_seq:	fig|1463165.260.peg.1078|HCN86_05375   Cell division activator CedA   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	cell division activator	BAH62960	Yes	98.18
+
+#input_seq:	fig|1463165.260.peg.5076|HCN86_25225   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80378	Yes	99.08
+
+#input_seq:	fig|1463165.260.peg.5096|HCN86_25325   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80484	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.832|HCN86_04190   DNA-damage-inducible protein I   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	DNA-damage-inducible protein I	BAH62776	Yes	97.59
+
+#input_seq:	fig|1463165.260.peg.4898|HCN86_24390   IS1 protein InsB   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS1 OrfB	ACD07447	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.4950|HCN86_24625   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	putative cytoplasmic protein	ABR80426	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.1753|HCN86_08640   Tautomerase PptA   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	4-oxalocrotonate tautomerase	BAH63599	Yes	97.33
+
+#input_seq:	fig|1463165.260.peg.5050|HCN86_25090   IncF plasmid conjugative transfer protein TrbE   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	inner membrane protein	ABR80402	Yes	98.81
+
+#input_seq:	fig|1463165.260.peg.164|HCN86_00825   Haemolysin expression modulating protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.1286|HCN86_06385   Uncharacterized protein YdbJ   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR76879	Yes	98.72
+
+#input_seq:	fig|1463165.260.peg.5049|HCN86_25085   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80403	Yes	98.78
+
+#input_seq:	fig|1463165.260.peg.3577|HCN86_17775   Uncharacterized protein YhdT   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH65442	Yes	97.5
+
+#input_seq:	fig|1463165.260.peg.5046|HCN86_25070   IncF plasmid conjugative transfer protein TraQ   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	F pilin synthesis	ABR80529	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.5099|HCN86_25340   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	Hypothetical protein	ABR80355	Yes	98.68
+
+#input_seq:	fig|1463165.260.peg.2053|HCN86_10140   Hemin uptake protein HemP/HmuP   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR77591	Yes	98.67
+
+#input_seq:	fig|1463165.260.peg.1781|HCN86_08780   Orphan toxin OrtT   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63626	Yes	96.49
+
+#input_seq:	fig|1463165.260.peg.5093|HCN86_25310   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	Hypothetical protein	ABR80359	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.5062|HCN86_25155   probable fimbrial protein staA   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80392	Yes	97.22
+
+#input_seq:	fig|1463165.260.peg.3832|HCN86_19065   Hok/Gef-like protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative hok/gef cell toxic protein	BAH65700	Yes	98.0
+
+#input_seq:	fig|1463165.260.peg.1882|HCN86_09270   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63725	Yes	95.65
+
+#input_seq:	fig|1463165.260.peg.2992|HCN86_14855   Hok/Gef-like protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	small toxic membrane polypeptide	ABR78496	Yes	98.0
+
+#input_seq:	fig|1463165.260.peg.1160|HCN86_05765   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAI26909	Yes	98.51
+
+#input_seq:	fig|1463165.260.peg.4952|HCN86_24635   Transposase   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80617	Yes	100.0
+
+#input_seq:	fig|1463165.260.peg.4343|HCN86_21620   Sugar-phosphate stress protein SgrT (embedded in SgrS)   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH61712	Yes	98.0
+
+#input_seq:	fig|1463165.260.peg.1513   hypothetical protein   [Klebsiella quasipneumoniae strain KLP00177 | 1463165.260]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63344	Yes	96.88
+

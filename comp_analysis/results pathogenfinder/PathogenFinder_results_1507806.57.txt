@@ -1,0 +1,26 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_10_12_2020_105137_787804_input.fsa
+Sequences ::	 1789
+Total bpp ::	 547178
+Longest seq ::	 1743
+Shortest seq ::	 30
+Avg seq lenght ::	 305.0
+
+RESULTS:
+Min Identity Threshold ::	80.448
+Z-THRESHOLD ::	3.0
+Prediction Score ::	8.646
+Probability of being human pathogen ::	0.944
+Matches::	2
+Genome Coverage (%) ::	0.11
+Pathogenic Families Matched ::	2
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1507806.57.peg.716   SSU ribosomal protein S2p (SAe)   [Campylobacter fetus subsp. testudinum strain wqj4 | 1507806.57]
+#matched_seq:	17161	CP000767	Campylobacter curvus 525.92, complete genome.	Epsilonproteobacteria	ribosomal protein S2	EAU00943	Yes	87.98
+
+#input_seq:	fig|1507806.57.peg.1199   LSU ribosomal protein L22p (L17e)   [Campylobacter fetus subsp. testudinum strain wqj4 | 1507806.57]
+#matched_seq:	16135	CP000538	Campylobacter jejuni subsp. jejuni 81-176, complete genome.	Epsilonproteobacteria	ribosomal protein L22	EAQ72756	Yes	85.45
+

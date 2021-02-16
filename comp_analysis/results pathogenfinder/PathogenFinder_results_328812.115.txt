@@ -1,0 +1,104 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_160522_401067_input.fsa
+Sequences ::	 5640
+Total bpp ::	 2052446
+Longest seq ::	 2499
+Shortest seq ::	 21
+Avg seq lenght ::	 363.0
+
+RESULTS:
+Min Identity Threshold ::	91.709
+Z-THRESHOLD ::	3.0
+Prediction Score ::	82.236
+Probability of being human pathogen ::	0.849
+Matches::	28
+Genome Coverage (%) ::	0.5
+Pathogenic Families Matched ::	28
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|328812.115.peg.3826|GKD99_22650   RND efflux system, inner membrane transporter   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	transporter, AcrB/D/F family	ABR43070	Yes	92.89
+
+#input_seq:	fig|328812.115.peg.1|GKD99_26455   Toprim domain protein   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD48127	Yes	98.61
+
+#input_seq:	fig|328812.115.peg.5046|GKD99_25890   Chromosome (plasmid) partitioning protein ParB   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR39811	Yes	95.65
+
+#input_seq:	fig|328812.115.peg.5601|GKD99_07750   Xaa-Pro aminopeptidase (EC 3.4.11.9)   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	Xaa-Pro aminopeptidase	ABR42861	Yes	95.19
+
+#input_seq:	fig|328812.115.peg.459|GKD99_26790   Conjugative transposon protein TraM   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon TraM	BAD48101	Yes	96.81
+
+#input_seq:	fig|328812.115.peg.4413|GKD99_24465   GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	putative GMP synthase	ABR43567	Yes	94.48
+
+#input_seq:	fig|328812.115.peg.5490|GKD99_26340   Transposase   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	tyrosine type site-specific recombinase	BAD48089	Yes	98.43
+
+#input_seq:	fig|328812.115.peg.5048|GKD99_25900   conserved hypothetical fusion protein   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical fusion protein	ABR39813	Yes	95.55
+
+#input_seq:	fig|328812.115.peg.10   Conjugative transposon protein TraJ   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	BAD48104	Yes	97.95
+
+#input_seq:	fig|328812.115.peg.186|GKD99_26650   Conjugative transposon protein TraN   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR39805	Yes	99.53
+
+#input_seq:	fig|328812.115.peg.332|GKD99_26735   Conjugative transposon protein TraA   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	BAD48111	Yes	99.17
+
+#input_seq:	fig|328812.115.peg.2264|GKD99_17250   hypothetical protein   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	putative transcriptional regulator	BAD48142	Yes	93.63
+
+#input_seq:	fig|328812.115.peg.5047|GKD99_25895   hypothetical protein   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR39812	Yes	92.86
+
+#input_seq:	fig|328812.115.peg.21|GKD99_26545   Conjugative transposon protein TraO   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon TraO	BAD48099	Yes	98.17
+
+#input_seq:	fig|328812.115.peg.1403|GKD99_14285   Arginine decarboxylase (EC 4.1.1.19)   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR42965	Yes	96.65
+
+#input_seq:	fig|328812.115.peg.5486|GKD99_26320   Antirestriction protein ArdA   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	putative anti-restriction protein	BAD48093	Yes	93.79
+
+#input_seq:	fig|328812.115.peg.2016|GKD99_16060   RNA polymerase ECF-type sigma factor   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	RNA polymerase ECF-type sigma factor	ABR42302	Yes	97.63
+
+#input_seq:	fig|328812.115.peg.5484   FIG00897394: hypothetical protein   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	hypothetical protein	BAD48095	Yes	96.95
+
+#input_seq:	fig|328812.115.peg.1192|GKD99_13275   Glycerol-3-phosphate cytidylyltransferase (EC 2.7.7.39)   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	glycerol-3-phosphate cytidylyltransferase	ABR41977	Yes	92.26
+
+#input_seq:	fig|328812.115.peg.20|GKD99_26540   Conjugative transposon protein TraQ   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon TraQ	BAD48097	Yes	92.47
+
+#input_seq:	fig|328812.115.peg.333|GKD99_26740   Conjugative transposon protein TraB   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon TraB	BAD48110	Yes	97.74
+
+#input_seq:	fig|328812.115.peg.469|GKD99_09865   hypothetical protein   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD48128	Yes	98.32
+
+#input_seq:	fig|328812.115.peg.5309|GKD99_26245   hypothetical protein   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR39842	Yes	91.74
+
+#input_seq:	fig|328812.115.peg.5272|GKD99_26095   hypothetical protein   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	conserved hypothetical protein	CAH08976	Yes	96.84
+
+#input_seq:	fig|328812.115.peg.3100|GKD99_20205   FIG00935798: hypothetical protein   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAG34197	Yes	97.26
+
+#input_seq:	fig|328812.115.peg.5485|GKD99_26315   FIG00404869: hypothetical protein   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD48094	Yes	98.63
+
+#input_seq:	fig|328812.115.peg.1821|GKD99_15140   Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR44420	Yes	92.31
+
+#input_seq:	fig|328812.115.peg.3974   hypothetical protein   [Parabacteroides goldsteinii strain BIOML-A1 | 328812.115]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR39840	Yes	98.28
+

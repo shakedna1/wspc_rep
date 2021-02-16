@@ -1,0 +1,26 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_10_12_2020_110310_783061_input.fsa
+Sequences ::	 3345
+Total bpp ::	 895004
+Longest seq ::	 3140
+Shortest seq ::	 29
+Avg seq lenght ::	 267.0
+
+RESULTS:
+Min Identity Threshold ::	79.715
+Z-THRESHOLD ::	3.0
+Prediction Score ::	1.145
+Probability of being human pathogen ::	0.539
+Matches::	2
+Genome Coverage (%) ::	0.06
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	1
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1720313.7.peg.2379|GT747_09090   hypothetical protein   [Bittarella massiliensis strain BIOML-A2 | 1720313.7]
+#matched_seq:	16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Lactobacillales	hypothetical protein	ABF36179	Yes	86.69
+
+#input_seq:	fig|1720313.7.peg.3215|GT747_12615   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Bittarella massiliensis strain BIOML-A2 | 1720313.7]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	83.78
+

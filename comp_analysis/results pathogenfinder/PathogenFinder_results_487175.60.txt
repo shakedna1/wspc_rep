@@ -1,0 +1,71 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_201719_865423_input.fsa
+Sequences ::	 2783
+Total bpp ::	 857796
+Longest seq ::	 5802
+Shortest seq ::	 22
+Avg seq lenght ::	 308.0
+
+RESULTS:
+Min Identity Threshold ::	93.448
+Z-THRESHOLD ::	3.0
+Prediction Score ::	48.852
+Probability of being human pathogen ::	0.85
+Matches::	17
+Genome Coverage (%) ::	0.61
+Pathogenic Families Matched ::	17
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|487175.60.peg.1205|GMD40_01385   Putative DNA methylase   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	putative DNA methylase	BAD46891	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.455|GMD40_06845   Conjugative transposon protein TraM   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraM	BAD46866	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.444|GMD40_06790   FIG00897206: hypothetical protein   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	hypothetical protein	BAD46856	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.2424|GMD40_12390   CTnDOT two-component system response regulator and RteC activator, RteB   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	rteB gene product	BAD46887	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.2527   Putative conjugative transposon mobilization protein BF0132   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD46881	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.1196|GMD40_01335   Integrase => IntDOT   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	tyrosine type site-specific recombinase	BAD46901	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.454|GMD40_06840   Conjugative transposon protein TraN   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraN	BAD46865	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.452|GMD40_06830   DNA primase, TraP-type   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraP	BAD46863	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.453|GMD40_06835   Conjugative transposon protein TraO   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraO	BAD46864	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.451|GMD40_06825   Conjugative transposon protein TraQ   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraQ	BAD46862	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.443|GMD40_06785   FIG00899057: hypothetical protein   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	hypothetical protein	BAD46855	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.460|GMD40_06865   Conjugative transposon protein TraH   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraH	BAD46871	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.1197|GMD40_01340   hypothetical protein   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD46900	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.1201|GMD40_01365   FIG00938987: hypothetical protein   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD46895	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.2542|GMD40_12530   Conjugative transposon protein TraF   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraF	BAD46873	Yes	100.0
+
+#input_seq:	fig|487175.60.peg.2543|GMD40_12535   Conjugative transposon protein TraE   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraE	BAD46874	Yes	98.94
+
+#input_seq:	fig|487175.60.peg.445|GMD40_06795   FIG00938992: hypothetical protein   [Parasutterella excrementihominis strain BIOML-A1 | 487175.60]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD46857	Yes	100.0
+
