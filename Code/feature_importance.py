@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+import sklearn
 from sklearn.ensemble import RandomForestClassifier
 
 
@@ -23,6 +24,27 @@ def feature_importance(model, top=None):
 
     return importances, indices
 
+
+def permutation_importance(model, X, y, top=None, n_repeats=100, random_state=0):
+    """
+    Returns importances of the model features and a list of indices sorted by the importances, using permutation
+    importance measure
+
+    :param model: the relevant classification model
+    :param X: dataset in which features will be permuted
+    :param y: labels corresponding to X
+    :param top: number of top features to return
+    :param n_repeats: number of times the permutation will be repeated
+    :param random_state: for the permutation
+    :return: importances - features importances
+            indices - indices sorted by the importances
+    """
+    result = sklearn.inspection.permutation_importance(model, X=X, y=y, n_repeats=n_repeats, random_state=random_state)
+    importances = result.importances_mean
+    indices = np.argsort(importances)[::-1]
+    indices = indices[:top]
+
+    return importances, indices
 
 
 def train_and_rank_features_one_rf_model(x, y, curr_random_state, importance_func):
