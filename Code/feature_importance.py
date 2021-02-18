@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import taxa
 
 import sklearn.inspection
 from sklearn.ensemble import RandomForestClassifier
@@ -249,6 +250,9 @@ def create_top_feats_df(class_features, x, y_df, pgfam_to_desc, top_feats=None):
         for c, feature in enumerate(top_features[:top_feats]):
             hps, nhps = count_hp_vs_nhps_feature(x, y_df, feature)
 
+            genomes_with_feature = x[x.loc[:, feature] == 1]
+            genus_broadness = taxa.calc_tax_broadness(genomes_with_feature.index, 'genus')
+
             i = x.columns.get_loc(feature)
 
             denominator = 1 if nhps == 0 else nhps / total_nhps
@@ -265,6 +269,8 @@ def create_top_feats_df(class_features, x, y_df, pgfam_to_desc, top_feats=None):
             top_features_data[c_class].setdefault('HPs', []).append(hps)
             top_features_data[c_class].setdefault('NHPs', []).append(nhps)
             top_features_data[c_class].setdefault('P-Ratio', []).append(p_ratio)
+            top_features_data[c_class].setdefault('# Genera', []).append(genus_broadness)
+
 
     hps_df = pd.DataFrame(top_features_data['HP'])
     nhps_df = pd.DataFrame(top_features_data['NHP'])
