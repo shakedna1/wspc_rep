@@ -1,11 +1,13 @@
 import numpy as np
 import pandas as pd
+import taxa
 
+import sklearn.inspection
 from sklearn.ensemble import RandomForestClassifier
 
 
 def feature_importance(model, top=None):
-    ''' Returns importances of the model features and a list of indices sorted by the importances
+    """ Returns importances of the model features and a list of indices sorted by the importances
 
     Parameters:
     model - the relevant classification model
@@ -15,7 +17,7 @@ def feature_importance(model, top=None):
     importances - features importances
     indices - indices sorted by the importances
 
-    '''
+    """
 
     importances = model.feature_importances_
     indices = np.argsort(importances)[::-1]
@@ -24,9 +26,30 @@ def feature_importance(model, top=None):
     return importances, indices
 
 
+def permutation_importance(model, X, y, top=None, n_repeats=100, random_state=0):
+    """
+    Returns importances of the model features and a list of indices sorted by the importances, using permutation
+    importance measure
+
+    :param model: the relevant classification model
+    :param X: dataset in which features will be permuted
+    :param y: labels corresponding to X
+    :param top: number of top features to return
+    :param n_repeats: number of times the permutation will be repeated
+    :param random_state: for the permutation
+    :return: importances - features importances
+            indices - indices sorted by the importances
+    """
+    result = sklearn.inspection.permutation_importance(model, X=X, y=y, n_repeats=n_repeats, random_state=random_state)
+    importances = result.importances_mean
+    indices = np.argsort(importances)[::-1]
+    indices = indices[:top]
+
+    return importances, indices
+
 
 def train_and_rank_features_one_rf_model(x, y, curr_random_state, importance_func):
-    ''' Trains and rank features using one random forest classifier.
+    """ Trains and rank features using one random forest classifier.
 
     Parameters:
     x - features vectors dataframe
@@ -37,7 +60,7 @@ def train_and_rank_features_one_rf_model(x, y, curr_random_state, importance_fun
     Returns:
     importances - importances of features
     indices - indices of top features
-    '''
+    """
 
     fs_rs_model = RandomForestClassifier(random_state=curr_random_state)
     fs_rs_model.fit(x, y)
@@ -48,7 +71,7 @@ def train_and_rank_features_one_rf_model(x, y, curr_random_state, importance_fun
 
 
 def find_top_features_in_multiple_runs(x, y, importance_func, n_runs=100):
-    ''' Calculating  MDI value over multiple random forest
+    """ Calculating  MDI value over multiple random forest
         classifiers with different random seeds.
 
     Parameters:
@@ -59,7 +82,7 @@ def find_top_features_in_multiple_runs(x, y, importance_func, n_runs=100):
 
     Returns:
     all_importances_for_all_features -
-    '''
+    """
 
     all_importances_for_all_features = {}
 
@@ -99,7 +122,7 @@ def count_hp_vs_nhp(genome_ids, y):
 
 
 def count_hp_vs_nhps_feature(x, y_df, feature):
-    ''' Returns the number of hps and nhps genomes that contain the specific pgfam represented by the specific feature
+    """ Returns the number of hps and nhps genomes that contain the specific pgfam represented by the specific feature
 
     Parameters:
     x - features vectors dataframe
@@ -109,7 +132,7 @@ def count_hp_vs_nhps_feature(x, y_df, feature):
     Returns:
     hps - the number of hps genomes that contain the specific pgfam represented by the specific feature
     nhps - the number of nhps genomes that contain the specific pgfam represented by the specific feature
-    '''
+    """
 
     genomes_with_feature = x[x.loc[:, feature] == 1]
     hps, nhps = count_hp_vs_nhp(genomes_with_feature.index, y_df)
@@ -119,7 +142,7 @@ def count_hp_vs_nhps_feature(x, y_df, feature):
 
 
 def split_top_features_to_classes(x, y_df, indices):
-    ''' Splits top features to classes (top HP features/ top NHP features)
+    """ Splits top features to classes (top HP features/ top NHP features)
 
     Parameters:
     x - features vectors dataframe
@@ -129,7 +152,7 @@ def split_top_features_to_classes(x, y_df, indices):
     Returns:
     top_hp_feats - sorted list of top HP features
     top_nhp_feats - sorted list of top NHP features
-    '''
+    """
 
     top_hp_feats, top_nhp_feats = [], []
 
@@ -148,7 +171,7 @@ def split_top_features_to_classes(x, y_df, indices):
 
 
 def get_top_features_in_multiple_runs(x, y, importance_func, n_runs=100):
-    ''' Gets the top features by calculating the average MDI value using multiple random forest
+    """ Gets the top features by calculating the average MDI value using multiple random forest
         classifiers with different random seeds.
 
     Parameters:
@@ -161,7 +184,7 @@ def get_top_features_in_multiple_runs(x, y, importance_func, n_runs=100):
     indices - indices of the features sorted by mean_importance.
     mean_importance - mean importance per feature over the n_runs classifiers.
     std_importance - std of importances per features over the n_runs classifiers.
-    '''
+    """
 
     all_importances_for_all_features = find_top_features_in_multiple_runs(x=x, y=y, importance_func=importance_func,
                                                                           n_runs=n_runs)
@@ -174,7 +197,7 @@ def get_top_features_in_multiple_runs(x, y, importance_func, n_runs=100):
 
 
 def get_top_features_per_class_in_multiple_runs(x, y, importance_func, n_runs=100):
-    ''' Returns a dictionary of the top features per class (HP/NHP)
+    """ Returns a dictionary of the top features per class (HP/NHP)
 
     Parameters:
     x - features vectors dataframe
@@ -184,7 +207,7 @@ def get_top_features_per_class_in_multiple_runs(x, y, importance_func, n_runs=10
 
     Returns:
     class_features - dictionary that represents the top HP and top NHP features, with additional information.
-    '''
+    """
 
     indices, mean_importance, std_importance = get_top_features_in_multiple_runs(x, y, importance_func, n_runs)
 
@@ -227,6 +250,9 @@ def create_top_feats_df(class_features, x, y_df, pgfam_to_desc, top_feats=None):
         for c, feature in enumerate(top_features[:top_feats]):
             hps, nhps = count_hp_vs_nhps_feature(x, y_df, feature)
 
+            genomes_with_feature = x[x.loc[:, feature] == 1]
+            genus_broadness = taxa.calc_tax_broadness(genomes_with_feature.index, 'genus')
+
             i = x.columns.get_loc(feature)
 
             denominator = 1 if nhps == 0 else nhps / total_nhps
@@ -243,6 +269,8 @@ def create_top_feats_df(class_features, x, y_df, pgfam_to_desc, top_feats=None):
             top_features_data[c_class].setdefault('HPs', []).append(hps)
             top_features_data[c_class].setdefault('NHPs', []).append(nhps)
             top_features_data[c_class].setdefault('P-Ratio', []).append(p_ratio)
+            top_features_data[c_class].setdefault('# Genera', []).append(genus_broadness)
+
 
     hps_df = pd.DataFrame(top_features_data['HP'])
     nhps_df = pd.DataFrame(top_features_data['NHP'])
