@@ -1,4 +1,5 @@
 import pandas as pd
+from sklearn.feature_extraction.text import CountVectorizer
 
 DATE_INSERTED = 'Date Inserted'
 GENOME_ID = 'Genome ID'
@@ -31,7 +32,8 @@ class MetadataReader:
     def read(file_path):
 
         metadata = pd.read_csv(file_path, dtype=str).set_index(GENOME_ID)
-        metadata[DATE_INSERTED] = pd.to_datetime(metadata[DATE_INSERTED])
+        if DATE_INSERTED in metadata.columns:
+            metadata[DATE_INSERTED] = pd.to_datetime(metadata[DATE_INSERTED])
 
         return metadata
 
@@ -93,7 +95,7 @@ class GenomesData:
         """Converts the genome labels to binary labels according to GenomesData.label_to_int"""
         return self.metadata[LABEL].apply(lambda label: GenomesData.label_to_int[label])
 
-    def vectorize_data(self, vectorizer):
+    def vectorize_data(self, vectorizer=CountVectorizer(lowercase=False, binary=True)):
         """
         Converts the data strings into vectors using vectorizer.
         :param vectorizer: a vectorizer used for data transformation

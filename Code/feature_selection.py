@@ -53,7 +53,7 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
         for idx, cluster_id in enumerate(cluster_ids):
             cluster_id_to_feature_idx.setdefault(cluster_id, []).append(idx)
 
-        return cluster_id_to_feature_idx.values()
+        return list(cluster_id_to_feature_idx.values())
 
     def fit(self, X, y):
         """
@@ -71,6 +71,7 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
         # fitted attributes
         self.n_features_ = X.shape[1]
         self.selected_features_ = [chi2_vals[cluster].idxmax() for cluster in clusters]
+        self.clusters_ = clusters
 
         print(f'threshold={self.threshold}, selected_features= {len(self.selected_features_)}')
 
