@@ -1,0 +1,182 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_111105_299387_input.fsa
+Sequences ::	 3271
+Total bpp ::	 1023724
+Longest seq ::	 3833
+Shortest seq ::	 21
+Avg seq lenght ::	 312.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	130.0
+Probability of being human pathogen ::	0.804
+Matches::	54
+Genome Coverage (%) ::	1.65
+Pathogenic Families Matched ::	54
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2584641.3.peg.2692|GT613_08545   tRNA threonylcarbamoyladenosine biosynthesis protein TsaB / Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128) / N(6)-L-threonylcarbamoyladenine synthase (EC 2.3.1.234)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	metalloendopeptidase, glycoprotease family	ACV56800	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.449|GT613_13325   Ferrous iron transporter FeoB   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	ferrous iron transport protein B	ACV54556	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.3264|GT613_11155   DNA translocase FtsK   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	cell divisionFtsK/SpoIIIE	ACV55592	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2687|GT613_08520   Formate dehydrogenase H (EC 1.2.1.2)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	formate dehydrogenase, alpha subunit	ACV56805	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.420|GT613_13185   Methyltransferase type 11   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	hypothetical protein	ACV54528	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1872|GT613_04715   ABC transporter-like sensor and permease protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	protein of unknown function DUF214	ACV55901	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1866|GT613_04685   Na+/H+ antiporter   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	sodium/hydrogen exchanger	ACV55907	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.585|GT613_13970   hypothetical protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	fumarate reductase/succinate dehydrogenase flavoprotein domain protein	ACV55357	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1859|GT613_04650   Arginine/ornithine antiporter ArcD   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	C4-dicarboxylate anaerobic carrier	ACV55910	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1584|GT613_03365   FIG00534705: hypothetical protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	Glycosyltransferase 28 domain protein	ACV55211	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1583|GT613_03360   ATP-dependent RNA helicase RhlE (EC 3.6.4.13)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	DEAD/DEAH box helicase domain protein	ACV55210	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.3191|GT613_10835   L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	L-seryl-tRNA selenium transferase	ACV55658	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1921|GT613_04945   Multi antimicrobial extrusion protein (Na(+)/drug antiporter), MATE family of MDR efflux pumps   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	MATE efflux family protein	ACV55858	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.3012|GT613_09990   Hemolysins and related proteins containing CBS domains   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	protein of unknown function DUF21	ACV54239	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1026|GT613_14310   Uncharacterized MFS-type transporter   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	major facilitator superfamily MF	ACV55800	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.481|GT613_13465   Allophanate hydrolase 2 subunit 2 (EC 3.5.1.54)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	urea amidolyase related protein	ACV54171	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2582|GT613_08010   Secreted protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	NLP/P60 protein	ACV56099	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.385|GT613_13025   hypothetical protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	hypothetical protein	ACV55563	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2447|GT613_07390   hypothetical protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	conserved hypothetical protein	ACV54711	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.457   Putative transporter   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	protein of unknown function DUF6 transmembrane	ACV54138	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2252|GT613_06485   NLP/P60   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	NLP/P60 protein	ACV55066	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1925|GT613_04965   Peptide chain release factor N(5)-glutamine methyltransferase (EC 2.1.1.297)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	modification methylase, HemK family	ACV55854	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1549|GT613_03210   ABC-type amino acid transport/signal transduction system, periplasmic component/domain   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	extracellular solute-binding protein family 3	ACV55182	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2344|GT613_06915   hypothetical protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	glycosyl transferase family 2	ACV54618	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1140|GT613_14850   cell wall hydrolase/autolysin   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	Peptidoglycan-binding domain 1 protein	ACV54566	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.281|GT613_12530   D-alanine--D-alanine ligase (EC 6.3.2.4)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	D-alanine--D-alanine ligase	ACV56931	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.416|GT613_13165   Type II secretion system protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	type II secretion system protein	ACV54524	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.384|GT613_13020   1,4-dihydroxy-2-naphthoate polyprenyltransferase (EC 2.5.1.74)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	UbiA prenyltransferase	ACV55562	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1302|GT613_02195   Uncharacterized UPF0721 integral membrane protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	protein of unknown function DUF81	ACV56988	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2778|GT613_08905   Polysulfide reductase PsrC (EC 1.12.98.4), anchor subunit   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	Polysulphide reductase NrfD	ACV54436	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.317|GT613_12695   Exodeoxyribonuclease III (EC 3.1.11.2)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	exodeoxyribonuclease III Xth	ACV54114	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2623|GT613_08215   Uncharacterized ferredoxin-like protein YdhY   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	4Fe-4S ferredoxin iron-sulfur binding domain protein	ACV56866	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2184|GT613_06175   Substrate-specific component CbrT of predicted cobalamin ECF transporter   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	conserved hypothetical protein	ACV55002	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1628|GT613_03595   Hup-type Ni,Fe-hydrogenase cytochrome b subunit   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	cytochrome B561	ACV55247	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2963|GT613_09770   ThMPase type I predicted   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	HAD-superfamily hydrolase, subfamily IA, variant 3	ACV54281	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2813|GT613_09075   Methionine biosynthesis and transport regulator MtaR, LysR family   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	hypothetical protein	ACV54399	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2914|GT613_09535   Substrate-specific component BL0695 of predicted ECF transporter   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	conserved hypothetical protein	ACV54327	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2789|GT613_08960   SanA protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	protein of unknown function DUF218	ACV54425	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.412|GT613_13145   Flp pilus assembly protein RcpC/CpaB   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	Flp pilus assembly protein CpaB	ACV54520	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.757|GT613_00510   Phosphate transport regulator (distant homolog of PhoU)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	protein of unknown function DUF47	ACV56664	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.37|GT613_11410   FIG00623384: hypothetical protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	hypothetical protein	ACV56293	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.899|GT613_01160   Dephospho-CoA kinase (EC 2.7.1.24)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	dephospho-CoA kinase	ACV56474	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.922|GT613_01270   Transcriptional regulator, AcrR family   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	transcriptional regulator, TetR family	ACV56453	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.558|GT613_13840   hypothetical protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	hypothetical protein	ACV55383	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.480|GT613_13460   Biotin carboxyl carrier protein of acetyl-CoA carboxylase   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	acetyl-CoA carboxylase, biotin carboxyl carrier protein	ACV54170	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2587|GT613_08055   Protein translocase subunit SecE   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	preprotein translocase, SecE subunit	ACV56094	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.1821|GT613_04460   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	Beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabA/FabZ	ACV55949	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2201|GT613_06255   ATP synthase epsilon chain (EC 3.6.3.14)   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	ATP synthase F1, epsilon subunit	ACV55017	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.975|GT613_01525   hypothetical protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	hypothetical protein	ACV56415	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.231|GT613_12310   Anti-sigma B factor antagonist RsbV   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	anti-sigma-factor antagonist	ACV56881	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.2113|GT613_05825   hypothetical protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	hypothetical protein	ACV54927	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.3088|GT613_10320   COG2740: Predicted nucleic-acid-binding protein implicated in transcription termination   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	protein of unknown function DUF448	ACV55776	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.417|GT613_13170   Flp pilus assembly protein, pilin Flp   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	hypothetical protein	ACV54525	Yes	100.0
+
+#input_seq:	fig|2584641.3.peg.436|GT613_13265   hypothetical protein   [Eggerthella sp. BIOML-A4 | 2584641.3]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	YcfA family protein	ACV54544	Yes	100.0
+

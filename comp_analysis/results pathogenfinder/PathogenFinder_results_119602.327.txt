@@ -1,0 +1,359 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_204429_282717_input.fsa
+Sequences ::	 2137
+Total bpp ::	 615325
+Longest seq ::	 2918
+Shortest seq ::	 20
+Avg seq lenght ::	 287.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	621.724
+Probability of being human pathogen ::	0.951
+Matches::	113
+Genome Coverage (%) ::	5.29
+Pathogenic Families Matched ::	113
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|119602.327.peg.1512   Cell surface protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	16366	CP000262	Streptococcus pyogenes MGAS10750, complete genome.	Lactobacillales	Cell surface protein	ABF37692	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.996|KNZ15_09610   ABC transporter, FliJ domain and fused permease subunit   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81573	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.2055|KNZ15_19290   Fibronectin-binding protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82264	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1959|KNZ15_18520   Two-component system sensor histidine kinase   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81427	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1605|KNZ15_15360   NADH peroxidase (EC 1.11.1.1)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82222	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.139|KNZ15_01350   Phosphoglycerate transporter family protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80985	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1015|KNZ15_09800   Two-component system sensor histidine kinase   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	13887	CP000056	Streptococcus pyogenes MGAS6180, complete genome.	Lactobacillales	two component system histidine kinase	AAX71774	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1126|KNZ15_10820   Maltodextrin ABC transporter, substrate-binding protein MdxE   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81791	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1632|KNZ15_15610   Phage integrase: site-specific recombinase   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	301	BA000034	Streptococcus pyogenes SSI-1 DNA, complete genome.	Lactobacillales	putative integrase (phage associated)	BAC64267	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1871|KNZ15_17710   tRNA-dependent lipid II--L-alanine ligase   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81446	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.458|KNZ15_04440   Multidrug resistance protein ErmB   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82568	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1544   Mobile element protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	13888	CP000017	Streptococcus pyogenes MGAS5005, complete genome.	Lactobacillales	transposase	AAZ52334	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.217|KNZ15_02110   D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80862	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.2064|KNZ15_19350   putative choline binding protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80584	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.405|KNZ15_03930   Streptolysin S export transmembrane permease (SagH)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81213	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.404|KNZ15_03920   Streptolysin S export transmembrane permease (SagI)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81214	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1872   Mobile element protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	12469	CP000003	Streptococcus pyogenes MGAS10394, complete genome.	Lactobacillales	Transposase	AAT88016	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1657|KNZ15_15840   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81126	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1286|KNZ15_12320   putative membrane protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82292	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.686|KNZ15_06640   Foldase protein prsA 1 precursor (EC 5.2.1.8)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81927	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.2053|KNZ15_19270   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82262	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1778|KNZ15_16870   Transcriptional regulator in cluster with unspecified monosaccharide ABC transport system   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82639	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1408|KNZ15_13480   Similar to ribosomal large subunit pseudouridine synthase D, Bacillus subtilis YhcT type   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82517	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1706   Putative transposase InsK for insertion sequence element IS150   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81132	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.193|KNZ15_01890   ABC-type Fe3+-siderophore transport system, permease 2 component   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80933	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.2074|KNZ15_19410   EcoRI methylase/methyltransferase   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81453	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1069|KNZ15_10290   nisin-resistance protein, putative   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81478	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.693|KNZ15_06710   Competence protein CoiA   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81934	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.411|KNZ15_03990   Streptolysin S biosynthesis protein B (SagB)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81207	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1750|KNZ15_16620   Transcription regulator [contains diacylglycerol kinase catalytic domain]   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82487	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1834   Exfoliative toxin A   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81781	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.857|KNZ15_08250   Magnesium and cobalt transport protein CorA   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82053	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.801|KNZ15_07720   Acid phosphatase (EC 3.1.3.2)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82417	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1835   Aminoglycoside 6-nucleotidyltransferase, putative   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80716	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.32|KNZ15_00300   PTS system, mannose/fructose/sorbose family, IID component   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	12469	CP000003	Streptococcus pyogenes MGAS10394, complete genome.	Lactobacillales	PTS system, mannose/fructose family IID component	AAT86938	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.668|KNZ15_06450   FIG01115656: hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81872	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.33|KNZ15_00310   PTS system, mannose/fructose/sorbose family, IIC component   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	12469	CP000003	Streptococcus pyogenes MGAS10394, complete genome.	Lactobacillales	PTS system, mannose/fructose family IIC component	AAT86937	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1349|KNZ15_12930   ABC transporter, substrate-binding protein PebA (cluster 3, basic aa/glutamine/opines)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81069	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.681|KNZ15_06590   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81922	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.757|KNZ15_07320   Cell division initiation protein DivIVA   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81995	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1996|KNZ15_18790   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81349	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1633|KNZ15_15620   Pathogenicity island SaPIn2   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	301	BA000034	Streptococcus pyogenes SSI-1 DNA, complete genome.	Lactobacillales	conserved hypothetical protein (phage associated)	BAC64265	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.711|KNZ15_06890   Methionine ABC transporter ATP-binding protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81953	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.152|KNZ15_01480   putative membrane protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80974	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.715|KNZ15_06920   putative membrane protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81956	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.866|KNZ15_08340   Transcriptional regulator ArcR essential for anaerobic expression of the ADI pathway, Crp/Fnr family   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82044	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1579|KNZ15_15130   FIG056164: rhomboid family serine protease   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82464	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.408|KNZ15_03960   Streptolysin S self-immunity protein (SagE)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81210	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1063|KNZ15_10230   SatD   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	16364	CP000260	Streptococcus pyogenes MGAS10270, complete genome.	Lactobacillales	hypothetical protein	ABF34070	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1372|KNZ15_13160   Oxygen-insensitive NAD(P)H nitroreductase (EC 1.-.-.-) / Dihydropteridine reductase (EC 1.5.1.34)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81045	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.710|KNZ15_06880   Methionine ABC transporter permease protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81952	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1236|KNZ15_11820   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81732	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1302|KNZ15_12480   Intracellular protease   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82308	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1661|KNZ15_15860   putative lipoprotein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81660	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1508|KNZ15_14430   Immunoreactive protein Se23.5 (Fragment)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81301	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1662|KNZ15_15870   Immunoreactive protein Se23.5 (Fragment)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81599	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1781|KNZ15_16900   Uncharacterized S4 RNA-binding-domain protein YbcJ   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82642	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1004|KNZ15_09690   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	16363	CP000259	Streptococcus pyogenes MGAS9429, complete genome.	Lactobacillales	hypothetical protein	ABF32265	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1465|KNZ15_14020   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80904	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.995|KNZ15_09600   Type I restriction-modification system, specificity subunit S   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81572	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.731|KNZ15_07070   YfaA   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81972	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1796|KNZ15_17030   Substrate-specific component PdxU of predicted pyridoxine ECF transporter   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81520	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.5|KNZ15_00040   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81682	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.721|KNZ15_06980   Substrate-specific component NiaX of predicted niacin ECF transporter   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81962	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1278|KNZ15_12240   Acetyltransferase TM0577   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82284	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.2054|KNZ15_19280   Signal peptidase I (EC 3.4.21.89)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82263	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1656|KNZ15_15830   RNA polymerase ECF-type sigma factor   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81125	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1317|KNZ15_12620   Transcriptional repressor CcpN, MarR family   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82324	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.737|KNZ15_07120   Arginine repressor ArgR, putative   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81977	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.34|KNZ15_00320   PTS system, mannose/fructose/sorbose family, IIB component   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	16363	CP000259	Streptococcus pyogenes MGAS9429, complete genome.	Lactobacillales	PTS system, mannose/fructose family IIB component	ABF32086	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1155|KNZ15_11090   Putative membrane protein precursor SPs0273   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82377	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.252|KNZ15_02450   Competence-specific sigma factor ComX   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80827	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.348|KNZ15_03360   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81269	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.112|KNZ15_01070   Phosphohydrolase (MutT/nudix family protein)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	270	AM295007	Streptococcus pyogenes Manfredo complete genome.	Lactobacillales	MutT/NUDIX family protein	CAM30798	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.2040|KNZ15_19140   PTS system, galactose-specific IIA component (EC 2.7.1.204)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82249	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.2096|KNZ15_19570   Streptococcal histidine triad protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81417	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.414|KNZ15_04020   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81204	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.336|KNZ15_03240   Histone acetyltransferase Gcn5   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81281	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1431|KNZ15_13690   Hypothetical protein SPy0110   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80663	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.507|KNZ15_04910   Transcriptional regulator, MarR family   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80765	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.68|KNZ15_00640   Phage protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	286	AE009949	Streptococcus pyogenes MGAS8232, complete genome.	Lactobacillales	hypothetical phage protein	AAL97127	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.171|KNZ15_01670   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80956	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1634|KNZ15_15630   Phage protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	286	AE009949	Streptococcus pyogenes MGAS8232, complete genome.	Lactobacillales	orf122 phage protein	AAL97092	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1635|KNZ15_15640   Phage transcriptional regulator   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	311	AE014074	Streptococcus pyogenes MGAS315, complete genome.	Lactobacillales	putative repressor - phage-associated	AAM79291	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.2080|KNZ15_19440   RNA-binding protein YhbY   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80871	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1436|KNZ15_13740   Late competence protein ComGG, FIG068335   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80658	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1878|KNZ15_17770   SSU ribosomal protein S19p (S15e)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	SSU ribosomal protein S19P	ABP89047	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.514|KNZ15_04980   Protein translocase subunit YajC   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80757	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.515|KNZ15_04990   putative transport accessory protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80756	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1276|KNZ15_12220   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82282	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.544   Mobile element protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	13887	CP000056	Streptococcus pyogenes MGAS6180, complete genome.	Lactobacillales	transposase	AAX71563	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.664   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	12469	CP000003	Streptococcus pyogenes MGAS10394, complete genome.	Lactobacillales	Hypothetical Protein	AAT87220	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1438|KNZ15_13760   Late competence protein ComGE, FIG075573   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80656	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1251|KNZ15_11970   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81747	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.183|KNZ15_01790   FIG01114398: hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80944	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1759|KNZ15_16700   PTS system, ascorbate-specific IIB component (EC 2.7.1.194)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	12469	CP000003	Streptococcus pyogenes MGAS10394, complete genome.	Lactobacillales	PTS system, 3-keto-L-gulonate specific IIB component	AAT86330	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1951|KNZ15_18440   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	16363	CP000259	Streptococcus pyogenes MGAS9429, complete genome.	Lactobacillales	hypothetical protein	ABF32902	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.669|KNZ15_06460   FIG01113965: hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81873	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.304|KNZ15_02930   Uncharacterized transcriptional regulator YozG, Cro/CI family   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80702	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.2083|KNZ15_19470   Isochorismatase (EC 3.3.2.1)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	16366	CP000262	Streptococcus pyogenes MGAS10750, complete genome.	Lactobacillales	Isochorismatase	ABF37209	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1957|KNZ15_18500   Hypothetical mga-associated protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	13887	CP000056	Streptococcus pyogenes MGAS6180, complete genome.	Lactobacillales	hypothetical protein	AAX72816	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1246|KNZ15_11920   FIG01116470: hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81742	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.494|KNZ15_04780   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH80779	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1261|KNZ15_12070   hypothetical CDS   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81755	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.2131|KNZ15_19770   Transcriptional regulator, Xre family   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81451	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1637|KNZ15_15660   Phage protein (ACLAME 752)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	301	BA000034	Streptococcus pyogenes SSI-1 DNA, complete genome.	Lactobacillales	hypothetical protein	BAC64261	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.103|KNZ15_00990   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	12469	CP000003	Streptococcus pyogenes MGAS10394, complete genome.	Lactobacillales	Hypothetical protein	AAT86559	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.726|KNZ15_07020   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81967	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.412|KNZ15_04000   Streptolysin S precursor (SagA)   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH81206	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1618   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82205	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.107   Mobile element protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	13888	CP000017	Streptococcus pyogenes MGAS5005, complete genome.	Lactobacillales	transposase	AAZ51014	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.1638|KNZ15_15670   Phage protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	286	AE009949	Streptococcus pyogenes MGAS8232, complete genome.	Lactobacillales	hypothetical phage protein	AAL97096	Yes	100.0
+
+#input_seq:	fig|119602.327.peg.807   hypothetical protein   [Streptococcus dysgalactiae subsp. equisimilis strain KNZ15 | 119602.327]
+#matched_seq:	27849	AP010935	Streptococcus dysgalactiae subsp. equisimilis GG	Lactobacillales	24 DNA, complete genome.	BAH82093	Yes	100.0
+

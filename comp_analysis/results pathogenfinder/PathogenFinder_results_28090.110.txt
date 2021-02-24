@@ -1,0 +1,56 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_075121_236912_input.fsa
+Sequences ::	 3587
+Total bpp ::	 1015943
+Longest seq ::	 1682
+Shortest seq ::	 27
+Avg seq lenght ::	 283.0
+
+RESULTS:
+Min Identity Threshold ::	89.613
+Z-THRESHOLD ::	3.0
+Prediction Score ::	41.776
+Probability of being human pathogen ::	0.882
+Matches::	12
+Genome Coverage (%) ::	0.33
+Pathogenic Families Matched ::	12
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|28090.110.peg.3159|FOB28_15310   Magnesium and cobalt transport protein CorA   [Acinetobacter lwoffii strain FDAARGOS_620 strain Not applicable | 28090.110]
+#matched_seq:	28921	XXX	Acinetobacter baumannii AYE	Gammaproteobacteria	XXX		Yes	91.99
+
+#input_seq:	fig|28090.110.peg.1168|FOB28_05545   Rod shape-determining protein MreC   [Acinetobacter lwoffii strain FDAARGOS_620 strain Not applicable | 28090.110]
+#matched_seq:	12352	XXX	Acinetobacter sp. ADP1	Gammaproteobacteria	XXX		Yes	90.53
+
+#input_seq:	fig|28090.110.peg.126   Transposase   [Acinetobacter lwoffii strain FDAARGOS_620 strain Not applicable | 28090.110]
+#matched_seq:	21111	CP001182	Acinetobacter baumannii AB0057, complete genome.	Gammaproteobacteria	transposase 1	ACJ39440	Yes	100.0
+
+#input_seq:	fig|28090.110.peg.137   Transposase   [Acinetobacter lwoffii strain FDAARGOS_620 strain Not applicable | 28090.110]
+#matched_seq:	21111	CP001182	Acinetobacter baumannii AB0057, complete genome.	Gammaproteobacteria	transposase 1	ACJ39971	Yes	100.0
+
+#input_seq:	fig|28090.110.peg.3297|FOB28_16005   UPF0301 protein YqgE   [Acinetobacter lwoffii strain FDAARGOS_620 strain Not applicable | 28090.110]
+#matched_seq:	13001	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	91.85
+
+#input_seq:	fig|28090.110.peg.156|FOB28_00710   hypothetical protein   [Acinetobacter lwoffii strain FDAARGOS_620 strain Not applicable | 28090.110]
+#matched_seq:	21111	CP001183	Acinetobacter baumannii AB0057 plasmid pAB0057, complete sequence.	Gammaproteobacteria	hypothetical protein	ACJ43229	Yes	96.73
+
+#input_seq:	fig|28090.110.peg.138|FOB28_00625   hypothetical protein   [Acinetobacter lwoffii strain FDAARGOS_620 strain Not applicable | 28090.110]
+#matched_seq:	21111	CP001182	Acinetobacter baumannii AB0057, complete genome.	Gammaproteobacteria	transposase subunit	ACJ39443	Yes	98.61
+
+#input_seq:	fig|28090.110.peg.423|FOB28_01855   hypothetical protein   [Acinetobacter lwoffii strain FDAARGOS_620 strain Not applicable | 28090.110]
+#matched_seq:	21111	CP001182	Acinetobacter baumannii AB0057, complete genome.	Gammaproteobacteria	transposase subunit	ACJ39439	Yes	100.0
+
+#input_seq:	fig|28090.110.peg.909|FOB28_04265   Phosphocarrier protein, nitrogen regulation associated   [Acinetobacter lwoffii strain FDAARGOS_620 strain Not applicable | 28090.110]
+#matched_seq:	13001	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	89.89
+
+#input_seq:	fig|28090.110.peg.1748|FOB28_08370   DNA-binding protein Fis   [Acinetobacter lwoffii strain FDAARGOS_620 strain Not applicable | 28090.110]
+#matched_seq:	12352	XXX	Acinetobacter sp. ADP1	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|28090.110.peg.297|FOB28_01205   fragment of transposase   [Acinetobacter lwoffii strain FDAARGOS_620 strain Not applicable | 28090.110]
+#matched_seq:	13001	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	90.67
+
+#input_seq:	fig|28090.110.peg.2164|FOB28_10380   hypothetical protein   [Acinetobacter lwoffii strain FDAARGOS_620 strain Not applicable | 28090.110]
+#matched_seq:	17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Gammaproteobacteria	hypothetical protein	ABO12107	Yes	90.91
+

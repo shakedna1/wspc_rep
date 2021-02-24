@@ -1,0 +1,53 @@
+INPUT SEQUENCE INFO:
+Input Name ::	5_11_12_2020_094414_074775_input.fsa
+Sequences ::	 1911
+Total bpp ::	 586984
+Longest seq ::	 3225
+Shortest seq ::	 30
+Avg seq lenght ::	 307.0
+
+RESULTS:
+Min Identity Threshold ::	92.015
+Z-THRESHOLD ::	3.0
+Prediction Score ::	26.227
+Probability of being human pathogen ::	0.785
+Matches::	11
+Genome Coverage (%) ::	0.58
+Pathogenic Families Matched ::	10
+Non-Pathogenic Families Matched ::	1
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2584682.3.peg.183|GMC24_00875   FIG00337082: hypothetical protein   [Streptococcus sp. BIOML-A1 | 2584682.3]
+#matched_seq:	16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Lactobacillales	ABC transporter permease protein	CBJ21670	Yes	93.18
+
+#input_seq:	fig|2584682.3.peg.138|GMC24_00655   Triosephosphate isomerase (EC 5.3.1.1)   [Streptococcus sp. BIOML-A1 | 2584682.3]
+#matched_seq:	13162	CP000023	Streptococcus thermophilus LMG 18311, complete genome.	Lactobacillales	triosephosphate isomerase	AAV60198	No	94.44
+
+#input_seq:	fig|2584682.3.peg.303|GMC24_01460   hypothetical protein   [Streptococcus sp. BIOML-A1 | 2584682.3]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	hypothetical protein	ACO17570	Yes	94.27
+
+#input_seq:	fig|2584682.3.peg.181|GMC24_00865   Transcriptional regulator, TetR family   [Streptococcus sp. BIOML-A1 | 2584682.3]
+#matched_seq:	16302	FN568063	Streptococcus mitis B6 complete genome, strain B6.	Lactobacillales	transcriptional regulator, TetR family	CBJ21668	Yes	92.15
+
+#input_seq:	fig|2584682.3.peg.302|GMC24_01455   Acetyltransferase, GNAT family, putative   [Streptococcus sp. BIOML-A1 | 2584682.3]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	aminoglycoside 6'-N-acetyltransferase	ACA37453	Yes	98.59
+
+#input_seq:	fig|2584682.3.peg.1768|GMC24_08830   SSU ribosomal protein S19p (S15e)   [Streptococcus sp. BIOML-A1 | 2584682.3]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	SSU ribosomal protein S19P	ABP89047	Yes	100.0
+
+#input_seq:	fig|2584682.3.peg.1180|GMC24_05825   hypothetical protein   [Streptococcus sp. BIOML-A1 | 2584682.3]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ53845	Yes	95.65
+
+#input_seq:	fig|2584682.3.peg.847|GMC24_04135   hypothetical protein   [Streptococcus sp. BIOML-A1 | 2584682.3]
+#matched_seq:	13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Lactobacillales	Conserved hypothetical protein	ABN45038	Yes	98.72
+
+#input_seq:	fig|2584682.3.peg.702|GMC24_03425   SSU ribosomal protein S21p   [Streptococcus sp. BIOML-A1 | 2584682.3]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	30S Ribosomal protein S21	ABP90399	Yes	98.28
+
+#input_seq:	fig|2584682.3.peg.1184|GMC24_05845   phage integrase family integrase/recombinase   [Streptococcus sp. BIOML-A1 | 2584682.3]
+#matched_seq:	13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Lactobacillales	Integrase/recombinase, phage integrase family, putative	ABN45405	Yes	97.26
+
+#input_seq:	fig|2584682.3.peg.1268|GMC24_06260   D-fructose-6-phosphate amidotransferase   [Streptococcus sp. BIOML-A1 | 2584682.3]
+#matched_seq:	13942	CP000387	Streptococcus sanguinis SK36, complete genome.	Lactobacillales	Hypothetical protein	ABN45480	Yes	93.33
+

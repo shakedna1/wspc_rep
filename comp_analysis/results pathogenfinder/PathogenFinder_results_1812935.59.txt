@@ -1,0 +1,188 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_10_12_2020_112657_537143_input.fsa
+Sequences ::	 5096
+Total bpp ::	 1519300
+Longest seq ::	 5578
+Shortest seq ::	 20
+Avg seq lenght ::	 298.0
+
+RESULTS:
+Min Identity Threshold ::	93.496
+Z-THRESHOLD ::	3.0
+Prediction Score ::	115.192
+Probability of being human pathogen ::	0.711
+Matches::	56
+Genome Coverage (%) ::	1.1
+Pathogenic Families Matched ::	43
+Non-Pathogenic Families Matched ::	13
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1812935.59.peg.1822   Polyketide synthase modules and related proteins   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	putative peptide/polyketide synthase	ABE07690	Yes	100.0
+
+#input_seq:	fig|1812935.59.peg.4460   Hydroxyaromatic non-oxidative decarboxylase protein C (EC 4.1.1.-)   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78633	Yes	96.0
+
+#input_seq:	fig|1812935.59.peg.4995   Uncharacterized dehydratase YagF   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	CP4-6 prophage; predicted dehydratase	ACB01436	No	97.71
+
+#input_seq:	fig|1812935.59.peg.2712   Tyrosine-protein kinase (EC 2.7.10.2)   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Gammaproteobacteria	orf, conserved hypothetical protein	AAN42611	Yes	93.8
+
+#input_seq:	fig|1812935.59.peg.4652   NAD kinase (EC 2.7.1.23)   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017	Yes	96.92
+
+#input_seq:	fig|1812935.59.peg.2842   glycosyl transferase family 51   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66428	Yes	94.25
+
+#input_seq:	fig|1812935.59.peg.3669   Octaprenyl diphosphate synthase (EC 2.5.1.90)   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV15641	Yes	93.81
+
+#input_seq:	fig|1812935.59.peg.4282   Maltodextrin ABC transporter, substrate-binding protein MdxE   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	ABC superfamily (bin	AAX68014	Yes	93.69
+
+#input_seq:	fig|1812935.59.peg.2957   Proton/glutamate symporter @ Proton/aspartate symporter   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14881	Yes	97.03
+
+#input_seq:	fig|1812935.59.peg.2659   Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	RNA-directed DNA polymerase (Reverse transcriptase)	ABR76615	Yes	99.27
+
+#input_seq:	fig|1812935.59.peg.4508   Na+ dependent nucleoside transporter NupC   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	Nucleoside permease NupC	ABE08191	Yes	94.68
+
+#input_seq:	fig|1812935.59.peg.4454   RNA polymerase sigma factor RpoS   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Gammaproteobacteria	RNA polymerase sigma subunit RpoS	AAO70382	Yes	93.94
+
+#input_seq:	fig|1812935.59.peg.2276   Copper/silver efflux RND transporter, membrane fusion protein CusB   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Gammaproteobacteria	membrane fusion protein	BAH66052	Yes	100.0
+
+#input_seq:	fig|1812935.59.peg.4870   hypothetical protein   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein from bactreriophage origin; putative CBS domain	CAR14142	Yes	95.07
+
+#input_seq:	fig|1812935.59.peg.3452   Transposase InsO for insertion sequence element IS911   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	408	AE014073	Shigella flexneri 2a str. 2457T, complete genome.	Gammaproteobacteria	IS911 orfA	AAP15762	Yes	94.27
+
+#input_seq:	fig|1812935.59.peg.3774   ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66384	Yes	96.32
+
+#input_seq:	fig|1812935.59.peg.2840   hypothetical protein   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66430	Yes	95.92
+
+#input_seq:	fig|1812935.59.peg.2812   Malate dehydrogenase (EC 1.1.1.37)   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	malate dehydrogenase	ABE09111	Yes	95.51
+
+#input_seq:	fig|1812935.59.peg.784   hypothetical protein   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	34779	FP236842	Erwinia pyrifoliae strain Ep1/96 complete chromosome.	Gammaproteobacteria	conserved uncharacterized protein	CAX54841	No	95.4
+
+#input_seq:	fig|1812935.59.peg.3367   Formate efflux transporter FocA   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	putative FNT family, formate transporter (formate channel 1)	AAX64834	Yes	94.04
+
+#input_seq:	fig|1812935.59.peg.3147   COG0443: Molecular chaperone   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	mediator of plasmid stability	ABR80473	Yes	98.14
+
+#input_seq:	fig|1812935.59.peg.2094   SSU ribosomal protein S2p (SAe)   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	97.93
+
+#input_seq:	fig|1812935.59.peg.4328   Replication initiation protein RepE   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Gammaproteobacteria	DNA replication	ABR80601	Yes	100.0
+
+#input_seq:	fig|1812935.59.peg.191   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	95.75
+
+#input_seq:	fig|1812935.59.peg.2843   hypothetical protein   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66427	Yes	97.45
+
+#input_seq:	fig|1812935.59.peg.4923   3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85)   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741	No	95.37
+
+#input_seq:	fig|1812935.59.peg.4999   Uncharacterized transcriptional regulator YagI, IclR family   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	225	U00096	Escherichia coli str. K-12 substr. MG1655, complete genome.	Gammaproteobacteria	CP4-6 prophage; predicted DNA-binding transcriptional regulator	AAC73375	No	97.62
+
+#input_seq:	fig|1812935.59.peg.1085   Transposase InsI for insertion sequence element IS30   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	transposase of insertion sequence IS30	BAB36928	Yes	100.0
+
+#input_seq:	fig|1812935.59.peg.2037   UPF0056 inner membrane protein YchE   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV12456	Yes	93.95
+
+#input_seq:	fig|1812935.59.peg.1618   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	98.84
+
+#input_seq:	fig|1812935.59.peg.4334   InsA protein (Fragment)   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	33639	CP001383	Shigella flexneri 2002017, complete genome.	Gammaproteobacteria	IS1 ORF2	ADA74134	Yes	96.0
+
+#input_seq:	fig|1812935.59.peg.4335   IS1 protein InsB   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS1 protein InsB	ACD09517	Yes	96.18
+
+#input_seq:	fig|1812935.59.peg.3989   Translation elongation factor Tu   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Gammaproteobacteria	elongation factor Tu	ACX82119	Yes	98.88
+
+#input_seq:	fig|1812935.59.peg.1302   Acetyltransferase YpeA   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX65938	Yes	94.33
+
+#input_seq:	fig|1812935.59.peg.3929   Mobile element protein   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	34853	CP001600	Edwardsiella ictaluri 93-146, complete genome.	Gammaproteobacteria	transposase B	ACR68137	No	94.51
+
+#input_seq:	fig|1812935.59.peg.4604   hypothetical protein   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	32513	AP010960	Escherichia coli O111:H- str. 11128 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAI34309	Yes	98.33
+
+#input_seq:	fig|1812935.59.peg.2848   Phage Rha protein   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	KilA-N domain family	ACF93022	Yes	93.94
+
+#input_seq:	fig|1812935.59.peg.4909   Nitrite-sensitive transcriptional repressor NsrR   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	transcriptional repressor NsrR	ACF64326	Yes	93.62
+
+#input_seq:	fig|1812935.59.peg.2919   Heat shock protein 10 kDa family chaperone GroES   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	co-chaperonin GroES	ACN48531	Yes	96.91
+
+#input_seq:	fig|1812935.59.peg.3461   molecular chaperone   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	Betaproteobacteria	heat shock protein Hsp20	ACS61928	No	96.71
+
+#input_seq:	fig|1812935.59.peg.2724   Uncharacterized lipoprotein YafY   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	CP4-6 prophage; inner membrane lipoprotein	ACB01418	No	98.64
+
+#input_seq:	fig|1812935.59.peg.3479   Transposase InsC for insertion element IS2   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	IS2 ORF1	AAZ86942	Yes	95.04
+
+#input_seq:	fig|1812935.59.peg.4632   Ribosome-associated inhibitor A   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Gammaproteobacteria	hypothetical protein	ABX20207	Yes	93.81
+
+#input_seq:	fig|1812935.59.peg.2198   YcfF/hinT protein: a purine nucleoside phosphoramidase   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	histidine triad nucleotide-binding protein 2	ACF64355	Yes	94.12
+
+#input_seq:	fig|1812935.59.peg.1247   Phage immunity   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	phage immunity repressor protein	AAV80027	Yes	96.49
+
+#input_seq:	fig|1812935.59.peg.4962   Uncharacterized protein STM4441   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACX86741	No	95.83
+
+#input_seq:	fig|1812935.59.peg.3851   Integration host factor alpha subunit   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881	No	95.96
+
+#input_seq:	fig|1812935.59.peg.5067   hypothetical protein   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS66 family element, orf2	ACD08654	Yes	95.88
+
+#input_seq:	fig|1812935.59.peg.4329   hypothetical protein   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	33369	CU928144	Escherichia fergusonii str. ATCC 35469T plasmid pEFER, complete genome.	Gammaproteobacteria	hypothetical protein	CAQ86970	Yes	98.82
+
+#input_seq:	fig|1812935.59.peg.1382   Haemolysin expression modulating protein   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893	Yes	95.83
+
+#input_seq:	fig|1812935.59.peg.783   hypothetical protein   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	37877	FN392235	Erwinia pyrifoliae DSM 12163 complete genome, culture collection DSM:12163.	Gammaproteobacteria	hypothetical protein	CAY73505	No	97.56
+
+#input_seq:	fig|1812935.59.peg.5023   FIG107037: Phage late gene regulator   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Gammaproteobacteria	hypothetical protein	ABX23676	Yes	100.0
+
+#input_seq:	fig|1812935.59.peg.1337   Uncharacterized S4 RNA-binding-domain protein YbcJ   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	putative cytoplasmic protein	AAX64486	Yes	95.71
+
+#input_seq:	fig|1812935.59.peg.3342   excisionase   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	putative excisionase	BAI30919	Yes	96.15
+
+#input_seq:	fig|1812935.59.peg.2723   hypothetical protein   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	CP4-57 prophage; predicted inner membrane protein	ACB03777	No	97.44
+
+#input_seq:	fig|1812935.59.peg.3987   D-alanine--poly(phosphoribitol) ligase ACP subunit (EC 6.1.1.13)   [Enterobacter roggenkampii strain AS012293 | 1812935.59]
+#matched_seq:	33069	CP001654	Dickeya dadantii Ech703, complete genome.	Gammaproteobacteria	acyl carrier protein	ACS84748	No	94.44
+

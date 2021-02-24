@@ -1,0 +1,107 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_115507_577744_input.fsa
+Sequences ::	 4985
+Total bpp ::	 1295642
+Longest seq ::	 3347
+Shortest seq ::	 20
+Avg seq lenght ::	 259.0
+
+RESULTS:
+Min Identity Threshold ::	91.15
+Z-THRESHOLD ::	3.0
+Prediction Score ::	72.613
+Probability of being human pathogen ::	0.746
+Matches::	29
+Genome Coverage (%) ::	0.58
+Pathogenic Families Matched ::	23
+Non-Pathogenic Families Matched ::	6
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|588.149.peg.2042   Polyketide synthase modules and related proteins   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	12624	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	99.95
+
+#input_seq:	fig|588.149.peg.3798   pyocin R2_PP, tail fiber protein, putative   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	386	CP000438	Pseudomonas aeruginosa UCBPP-PA14, complete genome.	Gammaproteobacteria	putative tail fiber protein	ABJ15584	Yes	98.75
+
+#input_seq:	fig|588.149.peg.4188   Zinc ABC transporter, substrate-binding lipoprotein AdcA   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	16313	CP000255	Staphylococcus aureus subsp. aureus USA30	Bacillales	PR3757, complete genome.	ABD20437	Yes	100.0
+
+#input_seq:	fig|588.149.peg.2827   Cobyric acid synthase (EC 6.3.5.10)   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	13399	FN667741	Xenorhabdus bovienii SS-2004 chromosome, complete genome.	Gammaproteobacteria	Cobyric acid synthase	CBJ79977	No	92.31
+
+#input_seq:	fig|588.149.peg.4222   Putative peptidase   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	250	CP000353	Cupriavidus metallidurans CH34 megaplasmid, complete sequence.	Betaproteobacteria	hypothetical protein	ABF10537	No	94.12
+
+#input_seq:	fig|588.149.peg.3125   Replicative DNA helicase (DnaB) (EC 3.6.4.12)   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	replicative DNA helicase; part of primosome	ABF06146	Yes	95.97
+
+#input_seq:	fig|588.149.peg.3764   NAD-dependent formate dehydrogenase beta subunit   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	70	AE016830	Enterococcus faecalis V583, complete genome.	Lactobacillales	NAD-dependent formate dehydrogenase, beta subunit, putative	AAO81180	Yes	100.0
+
+#input_seq:	fig|588.149.peg.3730   hypothetical protein   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	17827	CP000863	Acinetobacter baumannii ACICU, complete genome.	Gammaproteobacteria	hypothetical protein	ACC55599	Yes	100.0
+
+#input_seq:	fig|588.149.peg.1646   Translation elongation factor Tu   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	18743	CP001828	Legionella pneumophila 2300/99 Alcoy, complete genome.	Gammaproteobacteria	GTPase - translation elongation factor	ADG23624	Yes	95.24
+
+#input_seq:	fig|588.149.peg.3817   SSU ribosomal protein S2p (SAe)   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	91.7
+
+#input_seq:	fig|588.149.peg.4740   hypothetical protein   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ABO41041	Yes	100.0
+
+#input_seq:	fig|588.149.peg.2001   Mobile element protein   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	13151	CP000039	Shigella sonnei Ss046 plasmid pS	Gammaproteobacteria	46, complete sequence.	AAZ91089	Yes	98.25
+
+#input_seq:	fig|588.149.peg.4217   hypothetical protein   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	17827	CP000863	Acinetobacter baumannii ACICU, complete genome.	Gammaproteobacteria	hypothetical protein	ACC55625	Yes	100.0
+
+#input_seq:	fig|588.149.peg.3429   Oxidoreductase, short-chain dehydrogenase/reductase family   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	probable short-chain dehydrogenase	ABR86247	Yes	100.0
+
+#input_seq:	fig|588.149.peg.3517   Transcriptional regulator, AcrR family   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	33369	CU928144	Escherichia fergusonii str. ATCC 35469T plasmid pEFER, complete genome.	Gammaproteobacteria	TetC, putative Transcriptional regulator	CAQ86951	Yes	100.0
+
+#input_seq:	fig|588.149.peg.3455   Diadenosine tetraphosphate (Ap4A) hydrolase and other HIT family hydrolases   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	hypothetical protein	CAW29110	Yes	100.0
+
+#input_seq:	fig|588.149.peg.790   hypothetical protein   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	12624	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|588.149.peg.2588   Phage transcriptional activator Ogr/delta (ACLAME 74)   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	putative transactivation protein	BAI28093	Yes	100.0
+
+#input_seq:	fig|588.149.peg.3513   hypothetical protein   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	33369	CU928144	Escherichia fergusonii str. ATCC 35469T plasmid pEFER, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAQ86955	Yes	100.0
+
+#input_seq:	fig|588.149.peg.3288   Translation elongation factor Tu   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Gammaproteobacteria	elongation factor Tu	ACX82118	Yes	91.26
+
+#input_seq:	fig|588.149.peg.3757   hypothetical protein   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	18937	CP001645	Ralstonia pickettii 12D chromosome 2, complete sequence.	Betaproteobacteria	Hpt protein	ACS65635	No	97.26
+
+#input_seq:	fig|588.149.peg.3488   hypothetical protein   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	18937	CP001645	Ralstonia pickettii 12D chromosome 2, complete sequence.	Betaproteobacteria	conserved hypothetical protein	ACS65464	No	97.83
+
+#input_seq:	fig|588.149.peg.2027   Antirestriction protein klcA   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	12624	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	92.31
+
+#input_seq:	fig|588.149.peg.1378   Phosphoglucosamine mutase (EC 5.4.2.10)   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	19459	CP001125	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 plasmid pCVM1963	Gammaproteobacteria	10, complete sequence.	ACF88538	Yes	100.0
+
+#input_seq:	fig|588.149.peg.4361   Integration host factor alpha subunit   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881	No	92.86
+
+#input_seq:	fig|588.149.peg.3913   hypothetical protein   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	15757	CP000703	Staphylococcus aureus subsp. aureus JH9, complete genome.	Bacillales	hypothetical protein	ABQ50286	Yes	100.0
+
+#input_seq:	fig|588.149.peg.4754   hypothetical protein   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ABO41204	Yes	97.83
+
+#input_seq:	fig|588.149.peg.2002   hypothetical protein   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	13151	CP000039	Shigella sonnei Ss046 plasmid pS	Gammaproteobacteria	46, complete sequence.	AAZ91090	Yes	100.0
+
+#input_seq:	fig|588.149.peg.197   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Providencia stuartii strain AS012498 | 588.149]
+#matched_seq:	13909	CP000712	Pseudomonas putida F1, complete genome.	Gammaproteobacteria	ribosomal protein L36	ABQ76678	No	92.11
+

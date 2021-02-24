@@ -1,0 +1,38 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_083912_520216_input.fsa
+Sequences ::	 2682
+Total bpp ::	 820317
+Longest seq ::	 3774
+Shortest seq ::	 29
+Avg seq lenght ::	 305.0
+
+RESULTS:
+Min Identity Threshold ::	97.779
+Z-THRESHOLD ::	3.0
+Prediction Score ::	19.231
+Probability of being human pathogen ::	0.88
+Matches::	6
+Genome Coverage (%) ::	0.22
+Pathogenic Families Matched ::	6
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|109328.8.peg.822|JMUB3870_0835   Mature parasite-infected erythrocyte surface antigen (MESA) or PfEMP2   [Leptotrichia trevisanii strain JMUB3870 | 109328.8]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative cell surface protein	CBE04615	Yes	100.0
+
+#input_seq:	fig|109328.8.peg.2079|JMUB3870_2067   Na+-driven multidrug efflux pump   [Leptotrichia trevisanii strain JMUB3870 | 109328.8]
+#matched_seq:	29445	CP001685	Leptotrichia buccalis DSM 1135, complete genome.	Fusobacteriales	MATE efflux family protein	ACV38017	Yes	99.08
+
+#input_seq:	fig|109328.8.peg.1828|JMUB3870_1822   hypothetical protein   [Leptotrichia trevisanii strain JMUB3870 | 109328.8]
+#matched_seq:	29445	CP001685	Leptotrichia buccalis DSM 1135, complete genome.	Fusobacteriales	transcriptional regulator, AraC family	ACV39304	Yes	97.85
+
+#input_seq:	fig|109328.8.peg.2188|JMUB3870_2178   Sucrose operon repressor (SCR operon regulatory protein)   [Leptotrichia trevisanii strain JMUB3870 | 109328.8]
+#matched_seq:	29445	CP001685	Leptotrichia buccalis DSM 1135, complete genome.	Fusobacteriales	transcriptional regulator, LacI family	ACV39773	Yes	98.48
+
+#input_seq:	fig|109328.8.peg.2591|JMUB3870_2590   Regulatory protein MerR   [Leptotrichia trevisanii strain JMUB3870 | 109328.8]
+#matched_seq:	29445	CP001685	Leptotrichia buccalis DSM 1135, complete genome.	Fusobacteriales	transcriptional regulator, MerR family	ACV37983	Yes	98.45
+
+#input_seq:	fig|109328.8.peg.821|JMUB3870_0834   hypothetical protein   [Leptotrichia trevisanii strain JMUB3870 | 109328.8]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	hypothetical protein	CAJ67242	Yes	98.73
+

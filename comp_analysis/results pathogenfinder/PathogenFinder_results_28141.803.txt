@@ -1,0 +1,248 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_081644_596509_input.fsa
+Sequences ::	 4503
+Total bpp ::	 1342042
+Longest seq ::	 3093
+Shortest seq ::	 19
+Avg seq lenght ::	 298.0
+
+RESULTS:
+Min Identity Threshold ::	94.689
+Z-THRESHOLD ::	3.0
+Prediction Score ::	258.116
+Probability of being human pathogen ::	0.857
+Matches::	76
+Genome Coverage (%) ::	1.69
+Pathogenic Families Matched ::	74
+Non-Pathogenic Families Matched ::	2
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|28141.803.peg.4455|EHJ12_15725   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78129	Yes	97.78
+
+#input_seq:	fig|28141.803.peg.2590|EHJ12_07070   Trehalase (EC 3.2.1.28) @ Periplasmic trehalase (EC 3.2.1.28)   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU76737	Yes	99.03
+
+#input_seq:	fig|28141.803.peg.2946|EHJ12_08485   Capsular polysaccharide export system periplasmic protein KpsD   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78571	Yes	99.46
+
+#input_seq:	fig|28141.803.peg.3829|EHJ12_12715   Methyl-accepting chemotaxis sensor/transducer protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77071	Yes	99.24
+
+#input_seq:	fig|28141.803.peg.3997|EHJ12_13520   Di-tripeptide/H+ symporter DtpA   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77246	Yes	99.8
+
+#input_seq:	fig|28141.803.peg.4456|EHJ12_15730   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78128	Yes	97.81
+
+#input_seq:	fig|28141.803.peg.2957|EHJ12_08540   Inner membrane protein CreD   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78559	Yes	97.57
+
+#input_seq:	fig|28141.803.peg.392|EHJ12_01960   Type VI secretion-related protein VasL   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77621	Yes	98.43
+
+#input_seq:	fig|28141.803.peg.1639|EHJ12_03520   Maltodextrin ABC transporter, substrate-binding protein MdxE   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU75386	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.428|EHJ12_02155   Cardiolipin synthase (EC 2.7.8.-) phosphatidylethanolamine-utilizing, bacterial type ClsC   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77548	Yes	99.31
+
+#input_seq:	fig|28141.803.peg.4242|EHJ12_14690   Complete genome; segment 3/17   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU76482	Yes	96.54
+
+#input_seq:	fig|28141.803.peg.4243|EHJ12_14695   FIG00554004: hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU76483	Yes	95.55
+
+#input_seq:	fig|28141.803.peg.956|EHJ12_17480   Possible H+-antiporter clustered with aerobactin genes   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000785	Enterobacter sakazakii ATCC BAA-894 plasmid pESA3, complete sequence.	Gammaproteobacteria	hypothetical protein	ABU79743	Yes	98.01
+
+#input_seq:	fig|28141.803.peg.3910|EHJ12_13095   Putative oxidoreductase YncB   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77154	Yes	99.42
+
+#input_seq:	fig|28141.803.peg.4403|EHJ12_15480   ATPase   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78179	Yes	97.08
+
+#input_seq:	fig|28141.803.peg.218|EHJ12_01125   Fimbrial adhesin precursor   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77786	Yes	98.77
+
+#input_seq:	fig|28141.803.peg.613|EHJ12_03055   Transcriptional regulator, LacI family   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77356	Yes	99.39
+
+#input_seq:	fig|28141.803.peg.3124|EHJ12_09330   SSU ribosomal protein S2p (SAe)   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	97.1
+
+#input_seq:	fig|28141.803.peg.597|EHJ12_02975   LysR-family transcriptional regulator KPN_02283   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77375	Yes	95.42
+
+#input_seq:	fig|28141.803.peg.957|EHJ12_17485   Iron-chelator utilization protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000785	Enterobacter sakazakii ATCC BAA-894 plasmid pESA3, complete sequence.	Gammaproteobacteria	hypothetical protein	ABU79742	Yes	98.3
+
+#input_seq:	fig|28141.803.peg.1828|EHJ12_04445   Transcriptional regulator, LysR family   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU75562	Yes	99.32
+
+#input_seq:	fig|28141.803.peg.2439|EHJ12_06355   Transcriptional regulator, AraC family   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU76586	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.1131|EHJ12_18295   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	95.73
+
+#input_seq:	fig|28141.803.peg.1286|EHJ12_19090   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78051	Yes	99.27
+
+#input_seq:	fig|28141.803.peg.2070|EHJ12_05635   Transcriptional regulator, RpiR family   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU75818	Yes	98.55
+
+#input_seq:	fig|28141.803.peg.543|EHJ12_02710   Uncharacterized protein Pfl_4311   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77431	Yes	99.15
+
+#input_seq:	fig|28141.803.peg.36|EHJ12_00175   T6SS associated component TagJ (ImpE)   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77968	Yes	98.13
+
+#input_seq:	fig|28141.803.peg.4161|EHJ12_14290   Hydroxyethylthiazole kinase (EC 2.7.1.50)   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU76401	Yes	98.11
+
+#input_seq:	fig|28141.803.peg.3219|EHJ12_09720   Probable glutathione S-transferase (EC 2.5.1.18), YfcF homolog   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU76186	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.3747|EHJ12_12330   UPF0758 protein YicR   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU79275	Yes	98.63
+
+#input_seq:	fig|28141.803.peg.2995|EHJ12_08725   Putative outer membrane protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78523	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.3492|EHJ12_11095   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU79561	Yes	99.58
+
+#input_seq:	fig|28141.803.peg.373|EHJ12_01855   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	94.77
+
+#input_seq:	fig|28141.803.peg.2101|EHJ12_05795   Acetyltransferase, GNAT family   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU75849	Yes	99.15
+
+#input_seq:	fig|28141.803.peg.2293|EHJ12_21355   Putative DNA-binding protein Roi of bacteriophage BP-933W   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78287	Yes	98.15
+
+#input_seq:	fig|28141.803.peg.817|EHJ12_16800   Uncharacterized fimbrial chaperone YhcA   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78731	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.2396|EHJ12_06140   Putative SOS response-associated peptidase YedK   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU76543	Yes	98.68
+
+#input_seq:	fig|28141.803.peg.1724|EHJ12_03930   Putative luxR family bacterial regulatory protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU75463	Yes	99.5
+
+#input_seq:	fig|28141.803.peg.921|EHJ12_17305   Transcriptional regulator, AcrR family   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000785	Enterobacter sakazakii ATCC BAA-894 plasmid pESA3, complete sequence.	Gammaproteobacteria	hypothetical protein	ABU79651	Yes	96.94
+
+#input_seq:	fig|28141.803.peg.3223|EHJ12_09740   FIG00554131: hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU76182	Yes	96.73
+
+#input_seq:	fig|28141.803.peg.2358|EHJ12_21660   Phage repressor protein cI   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	putative prophage repressor CI	BAB36413	Yes	98.11
+
+#input_seq:	fig|28141.803.peg.2808   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78296	Yes	98.98
+
+#input_seq:	fig|28141.803.peg.3006|EHJ12_08770   Threonine efflux protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78513	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.2839|EHJ12_21890   Phage recombination protein NinG   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78299	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.3469|EHJ12_10990   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU75949	Yes	98.06
+
+#input_seq:	fig|28141.803.peg.3473   Translation elongation factor Tu   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Gammaproteobacteria	elongation factor Tu	ACX82119	Yes	96.0
+
+#input_seq:	fig|28141.803.peg.1119|EHJ12_18235   COG3539: P pilus assembly protein, pilin FimA   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU79001	Yes	96.76
+
+#input_seq:	fig|28141.803.peg.3677|EHJ12_11990   Hydrolase, HAD superfamily   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU79345	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.773|EHJ12_16570   Protein translocase membrane subunit SecG   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX69431	Yes	97.27
+
+#input_seq:	fig|28141.803.peg.4039|EHJ12_13735   T6SS secretion lipoprotein TssJ (VasD)   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77289	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.1709|EHJ12_03855   T6SS secretion lipoprotein TssJ (VasD)   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU75450	Yes	95.91
+
+#input_seq:	fig|28141.803.peg.217|EHJ12_01120   Type 1 fimbrae adaptor subunit FimG   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77787	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.1849|EHJ12_04550   Putative ATP-dependent RNA helicase-like protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU75582	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.1752|EHJ12_04080   Nitrite-sensitive transcriptional repressor NsrR   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU75489	Yes	99.29
+
+#input_seq:	fig|28141.803.peg.37|EHJ12_00180   T6SS lysozyme-like component TssE   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77967	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.3088|EHJ12_09155   Predicted chaperone lipoprotein YacC, potentially involved in protein secretion   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78433	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.3586|EHJ12_11555   Acetyl-CoA sensor PanM, required for maturation of L-aspartate decarboxylase   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU79462	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.1551|EHJ12_20370   Ribosome-associated inhibitor A   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU75940	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.3860|EHJ12_12870   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77105	Yes	97.48
+
+#input_seq:	fig|28141.803.peg.557|EHJ12_02775   Uncharacterized protein YeaC   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77417	Yes	98.91
+
+#input_seq:	fig|28141.803.peg.4489|EHJ12_15895   Cell division protein BolA   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78094	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.606|EHJ12_03020   Integration host factor alpha subunit   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881	No	95.96
+
+#input_seq:	fig|28141.803.peg.1279|EHJ12_19055   LSU ribosomal protein L31p @ LSU ribosomal protein L31p, zinc-independent   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78044	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.2025|EHJ12_05420   Uncharacterized lipoprotein YgdR   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU75771	Yes	98.61
+
+#input_seq:	fig|28141.803.peg.3883|EHJ12_12975   Tautomerase PptA   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77127	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.2360|EHJ12_21670   Phage activator protein cII   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78314	Yes	98.91
+
+#input_seq:	fig|28141.803.peg.2437|EHJ12_06345   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU76584	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.997|EHJ12_17670   PAAR domain-containing protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000785	Enterobacter sakazakii ATCC BAA-894 plasmid pESA3, complete sequence.	Gammaproteobacteria	hypothetical protein	ABU79701	Yes	97.73
+
+#input_seq:	fig|28141.803.peg.1216|EHJ12_18745   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78333	Yes	96.43
+
+#input_seq:	fig|28141.803.peg.2714|EHJ12_07670   Phage shock protein D   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU76855	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.533|EHJ12_02675   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77443	Yes	97.62
+
+#input_seq:	fig|28141.803.peg.2359|EHJ12_21665   Phage transcriptional regulator cro   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	putative regulatory protein	BAB36412	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.2853   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78326	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.2807|EHJ12_21740   Phage protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77983	Yes	100.0
+
+#input_seq:	fig|28141.803.peg.801   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU78747	Yes	96.55
+
+#input_seq:	fig|28141.803.peg.356   hypothetical protein   [Cronobacter sakazakii strain SD45 | 28141.803]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77656	Yes	100.0
+

@@ -1,0 +1,101 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_190523_760596_input.fsa
+Sequences ::	 6230
+Total bpp ::	 1950096
+Longest seq ::	 4896
+Shortest seq ::	 21
+Avg seq lenght ::	 313.0
+
+RESULTS:
+Min Identity Threshold ::	89.856
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-35.285
+Probability of being human pathogen ::	0.278
+Matches::	27
+Genome Coverage (%) ::	0.43
+Pathogenic Families Matched ::	3
+Non-Pathogenic Families Matched ::	24
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|46680.55.peg.831|HLG94_23910   Uncharacterized protein BT3327   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	52	AL954747	Nitrosomonas europaea ATCC 19718, complete genome.	Betaproteobacteria	possible ATP-dependent DNA helicase RecG-related protein	CAD86437	No	99.2
+
+#input_seq:	fig|46680.55.peg.834|HLG94_23925   hypothetical protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	protein of unknown function DUF262	ABM43715	No	99.47
+
+#input_seq:	fig|46680.55.peg.1842|HLG94_01570   Argininosuccinate lyase (EC 4.3.2.1)   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	13909	CP000712	Pseudomonas putida F1, complete genome.	Gammaproteobacteria	argininosuccinate lyase	ABQ76381	No	93.1
+
+#input_seq:	fig|46680.55.peg.3647|HLG94_07745   Glutamine synthetase type III (EC 6.3.1.2)   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	17629	CP000926	Pseudomonas putida GB-1, complete genome.	Gammaproteobacteria	glutamine synthetase, type III	ABY98148	No	93.24
+
+#input_seq:	fig|46680.55.peg.3609|HLG94_07555   Glycerol-3-phosphate transporter   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	17629	CP000926	Pseudomonas putida GB-1, complete genome.	Gammaproteobacteria	major facilitator superfamily MF	ABY99151	No	91.65
+
+#input_seq:	fig|46680.55.peg.835|HLG94_23930   hypothetical protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	hypothetical protein	ABM43714	No	99.28
+
+#input_seq:	fig|46680.55.peg.5889|HLG94_18190   ABC transporter, substrate-binding protein (cluster 12, methionine/phosphonates)   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	31101	FM209186	Pseudomonas aeruginosa LESB58 complete genome sequence.	Gammaproteobacteria	putative ABC-type phosphate/phosphonate transport system, periplasmic component	CAW26480	Yes	93.33
+
+#input_seq:	fig|46680.55.peg.5287|HLG94_15235   Peptidase, M48 family   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	329	CP000112	Desulfovibrio desulfuricans subsp. desulfuricans str. G20, complete genome.	Deltaproteobacteria	peptidase, M48 family	ABB40212	No	90.97
+
+#input_seq:	fig|46680.55.peg.4714   Transposase   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	19469	CP000971	Escherichia coli SMS-3-5 plasmid pSMS3	Gammaproteobacteria	30, complete sequence.	ACB20346	No	90.0
+
+#input_seq:	fig|46680.55.peg.3608|HLG94_07550   Transcriptional regulator, LysR family   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	17629	CP000926	Pseudomonas putida GB-1, complete genome.	Gammaproteobacteria	transcriptional regulator, LysR family	ABY99152	No	91.96
+
+#input_seq:	fig|46680.55.peg.3749|HLG94_30445   hypothetical protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	hypothetical protein	ABM43711	No	95.82
+
+#input_seq:	fig|46680.55.peg.5258|HLG94_15095   hypothetical protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	20091	CP001281	Thauera sp. MZ1T, complete genome.	Betaproteobacteria	conserved hypothetical protein	ACK53760	No	98.0
+
+#input_seq:	fig|46680.55.peg.5203|HLG94_14820   Ynd   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	conserved hypothetical protein	ABM42342	No	97.62
+
+#input_seq:	fig|46680.55.peg.5238|HLG94_14995   hypothetical protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	conserved hypothetical protein	ABM42377	No	92.09
+
+#input_seq:	fig|46680.55.peg.836|HLG94_23935   hypothetical protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	conserved hypothetical protein	ABM43713	No	94.61
+
+#input_seq:	fig|46680.55.peg.5245|HLG94_15030   FIG034376: Hypothetical protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	conserved hypothetical protein	ABM42390	No	96.55
+
+#input_seq:	fig|46680.55.peg.5275|HLG94_15175   Small HspC2 heat shock protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	Gammaproteobacteria	heat shock protein Hsp20	ABM20465	No	89.95
+
+#input_seq:	fig|46680.55.peg.5246|HLG94_15035   FIG051360: Periplasmic protein TonB, links inner and outer membranes   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	conserved hypothetical protein	ABM42391	No	98.91
+
+#input_seq:	fig|46680.55.peg.3745|HLG94_30425   hypothetical protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	conserved hypothetical cytosolic protein	ABM43708	No	94.3
+
+#input_seq:	fig|46680.55.peg.5279|HLG94_15195   molecular chaperone   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	Betaproteobacteria	heat shock protein Hsp20	ACS61928	No	98.68
+
+#input_seq:	fig|46680.55.peg.5255|HLG94_15080   Single-stranded DNA-binding protein in PFGI-1-like cluster   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	20091	CP001281	Thauera sp. MZ1T, complete genome.	Betaproteobacteria	single-strand binding protein/Primosomal replication protein n	ACK53757	No	100.0
+
+#input_seq:	fig|46680.55.peg.5241|HLG94_15010   FIG146805: Plasmid related protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	conserved hypothetical protein	ABM42386	No	95.05
+
+#input_seq:	fig|46680.55.peg.828|HLG94_23895   hypothetical protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	hypothetical protein	ABM43723	No	98.46
+
+#input_seq:	fig|46680.55.peg.1388|HLG94_26620   Uncharacterized protein PA4724.5   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	12	CP000094	Pseudomonas fluorescens Pf0-1, complete genome.	Gammaproteobacteria	putative membrane protein	ABA76543	No	94.83
+
+#input_seq:	fig|46680.55.peg.1451|HLG94_26955   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	13909	CP000712	Pseudomonas putida F1, complete genome.	Gammaproteobacteria	ribosomal protein L36	ABQ76678	No	97.37
+
+#input_seq:	fig|46680.55.peg.4592|HLG94_11895   hypothetical protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABR86778	Yes	93.75
+
+#input_seq:	fig|46680.55.peg.5699   hypothetical protein   [Pseudomonas nitroreducens strain SC-1148-IPA-05 | 46680.55]
+#matched_seq:	16720	CP000744	Pseudomonas aeruginosa PA7, complete genome.	Gammaproteobacteria	conserved domain protein	ABR86679	Yes	97.73
+

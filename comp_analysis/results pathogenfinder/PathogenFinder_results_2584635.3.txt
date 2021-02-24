@@ -1,0 +1,32 @@
+INPUT SEQUENCE INFO:
+Input Name ::	5_11_12_2020_084034_923967_input.fsa
+Sequences ::	 3045
+Total bpp ::	 960124
+Longest seq ::	 6285
+Shortest seq ::	 30
+Avg seq lenght ::	 315.0
+
+RESULTS:
+Min Identity Threshold ::	88.396
+Z-THRESHOLD ::	3.0
+Prediction Score ::	9.34
+Probability of being human pathogen ::	0.799
+Matches::	4
+Genome Coverage (%) ::	0.13
+Pathogenic Families Matched ::	4
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2584635.3.peg.2389|GT568_10680   FIG01020158: hypothetical protein   [Coprococcus sp. BIOML-A1 | 2584635.3]
+#matched_seq:	16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Lactobacillales	TRSE protein	ABF36177	Yes	95.5
+
+#input_seq:	fig|2584635.3.peg.2394|GT568_10705   TrsK-like protein   [Coprococcus sp. BIOML-A1 | 2584635.3]
+#matched_seq:	16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Lactobacillales	TraG/TraD family	ABF36182	Yes	90.77
+
+#input_seq:	fig|2584635.3.peg.2391|GT568_10690   hypothetical protein   [Coprococcus sp. BIOML-A1 | 2584635.3]
+#matched_seq:	16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Lactobacillales	hypothetical protein	ABF36179	Yes	91.73
+
+#input_seq:	fig|2584635.3.peg.539|GT568_01600   hypothetical protein   [Coprococcus sp. BIOML-A1 | 2584635.3]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	transcription regulator (yobd protein)	CBE04571	Yes	98.94
+

@@ -1,0 +1,29 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_145938_698115_input.fsa
+Sequences ::	 3522
+Total bpp ::	 969868
+Longest seq ::	 2502
+Shortest seq ::	 26
+Avg seq lenght ::	 275.0
+
+RESULTS:
+Min Identity Threshold ::	88.009
+Z-THRESHOLD ::	3.0
+Prediction Score ::	7.005
+Probability of being human pathogen ::	0.799
+Matches::	3
+Genome Coverage (%) ::	0.09
+Pathogenic Families Matched ::	3
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|853.7356.peg.1673|GKD92_13150   Phage integrase   [Faecalibacterium prausnitzii strain BIOML-B10 | 853.7356]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	site-specific recombinase, resolvase family, putative	CBE04532	Yes	98.08
+
+#input_seq:	fig|853.7356.peg.345|GKD92_09090   FIG00516595: hypothetical protein   [Faecalibacterium prausnitzii strain BIOML-B10 | 853.7356]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lantibiotic abc transporter, permease protein	CBE04545	Yes	99.23
+
+#input_seq:	fig|853.7356.peg.346|GKD92_09095   Efflux ABC transporter, permease protein   [Faecalibacterium prausnitzii strain BIOML-B10 | 853.7356]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative lantibiotic abc transporter, permease protein	CBE04547	Yes	99.61
+

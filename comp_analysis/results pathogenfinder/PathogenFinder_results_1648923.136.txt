@@ -1,0 +1,200 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_102319_518770_input.fsa
+Sequences ::	 4696
+Total bpp ::	 1300343
+Longest seq ::	 6359
+Shortest seq ::	 29
+Avg seq lenght ::	 276.0
+
+RESULTS:
+Min Identity Threshold ::	96.355
+Z-THRESHOLD ::	3.0
+Prediction Score ::	150.347
+Probability of being human pathogen ::	0.808
+Matches::	60
+Genome Coverage (%) ::	1.28
+Pathogenic Families Matched ::	60
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1648923.136.peg.2666   Phage infection protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	conserved hypothetical protein YhgE	AAU22656	Yes	98.89
+
+#input_seq:	fig|1648923.136.peg.3441   Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU25471	Yes	97.15
+
+#input_seq:	fig|1648923.136.peg.3443   Heterodimeric efflux ABC transporter, permease/ATP-binding subunit 2   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	ABC transporter	AAU25468	Yes	96.84
+
+#input_seq:	fig|1648923.136.peg.1204   N-methylhydantoinase B (EC 3.5.2.14)   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	Hydantoin Utilization protein B	AAU23515	Yes	97.75
+
+#input_seq:	fig|1648923.136.peg.3784   Sigma-L-dependent transcriptional regulator   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	putative transcriptional regulator	AAU25153	Yes	96.85
+
+#input_seq:	fig|1648923.136.peg.812   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU23527	Yes	96.69
+
+#input_seq:	fig|1648923.136.peg.3488   benzoate MFS transporter BenK   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	putative transporter	AAU25428	Yes	96.72
+
+#input_seq:	fig|1648923.136.peg.3788   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	conserved hypothetical protein	AAU25150	Yes	97.64
+
+#input_seq:	fig|1648923.136.peg.2423   Response regulator aspartate phosphatase K   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	response regulator aspartate phosphatase	AAU22336	Yes	96.49
+
+#input_seq:	fig|1648923.136.peg.424   SpoIVD-associated factor SafA   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	morphogenetic protein associated with SpoVID	AAU24417	Yes	97.43
+
+#input_seq:	fig|1648923.136.peg.4661   Oxidoreductase, zinc-binding dehydrogenase family (EC 1.1.1.-)   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	Zinc-containing alcohol dehydrogenase	AAU22906	Yes	96.45
+
+#input_seq:	fig|1648923.136.peg.2022   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	conserved hypothetical protein	AAU23733	Yes	97.24
+
+#input_seq:	fig|1648923.136.peg.3616   Sorbitol operon regulator SorC   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	transcriptional regulator	AAU25308	Yes	96.56
+
+#input_seq:	fig|1648923.136.peg.492   DNA, complete sequence   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical phagelike protein	AAU25083	Yes	98.39
+
+#input_seq:	fig|1648923.136.peg.2455   Hypothetical protein YhfZ   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU22304	Yes	99.03
+
+#input_seq:	fig|1648923.136.peg.3955   Conserved protein LiaG in B. subtilis in Lia cluster   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	conserved protein LiaG	AAU24953	Yes	100.0
+
+#input_seq:	fig|1648923.136.peg.90   Glycine betaine ABC transport system, permease protein OpuAB   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	glycine betaine ABC transporter (permease)	AAU24142	Yes	98.59
+
+#input_seq:	fig|1648923.136.peg.2213   Polysaccharide deacetylase   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	Carbohydrate Esterase Family 4,YheN	AAU23974	Yes	97.1
+
+#input_seq:	fig|1648923.136.peg.2485   unknown   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	YbeC	AAU22276	Yes	96.81
+
+#input_seq:	fig|1648923.136.peg.1756   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	conserved hypothetical protein	AAU22243	Yes	97.33
+
+#input_seq:	fig|1648923.136.peg.4145   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	Ribosomal protein L29	AAU24773	Yes	96.88
+
+#input_seq:	fig|1648923.136.peg.3375   Propionate catabolism operon transcriptional regulator of GntR family   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	putative transcriptional regulator	AAU25533	Yes	100.0
+
+#input_seq:	fig|1648923.136.peg.994   Lantibiotic transport ATP-binding protein srtF   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	ABC transporter,ATP/GTP-binding site motif A (P-loop)	AAU24058	Yes	96.36
+
+#input_seq:	fig|1648923.136.peg.3287   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU25626	Yes	98.11
+
+#input_seq:	fig|1648923.136.peg.3438   Nitrate/nitrite response regulator protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	two-component response regulator	AAU25474	Yes	98.57
+
+#input_seq:	fig|1648923.136.peg.2749   Transcriptional regulator, AcrR family   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	putative transcriptional regulator	AAU22590	Yes	96.46
+
+#input_seq:	fig|1648923.136.peg.4504   FIG01287439: hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	conserved hypothetical protein YjaV	AAU22779	Yes	99.48
+
+#input_seq:	fig|1648923.136.peg.3297   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU25618	Yes	96.59
+
+#input_seq:	fig|1648923.136.peg.541   SAP DNA-binding domain-containing protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU24472	Yes	98.16
+
+#input_seq:	fig|1648923.136.peg.993   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU24059	Yes	98.15
+
+#input_seq:	fig|1648923.136.peg.4112   DedA family protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU24803	Yes	97.5
+
+#input_seq:	fig|1648923.136.peg.810   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU23526	Yes	96.77
+
+#input_seq:	fig|1648923.136.peg.385   Uncharacterized protein YrrD   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	Photosynthetic reaction centre, H-chain, cytoplasmic	AAU24379	Yes	99.35
+
+#input_seq:	fig|1648923.136.peg.2506   YdjM   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	YdjM	AAU22259	Yes	98.41
+
+#input_seq:	fig|1648923.136.peg.4621   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU22868	Yes	97.81
+
+#input_seq:	fig|1648923.136.peg.4416   Putative sugar translocase in surface polysaccharides biosynthesis   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	putative transporter	AAU22468	Yes	99.25
+
+#input_seq:	fig|1648923.136.peg.3252   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU25660	Yes	96.92
+
+#input_seq:	fig|1648923.136.peg.1135   Uncharacterized protein YxiB   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	putative prefoldin	AAU22038	Yes	100.0
+
+#input_seq:	fig|1648923.136.peg.3959   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU24949	Yes	100.0
+
+#input_seq:	fig|1648923.136.peg.4165   Putative EsaC protein analog (Listeria type 1)   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU24754	Yes	96.64
+
+#input_seq:	fig|1648923.136.peg.2283   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU22169	Yes	97.41
+
+#input_seq:	fig|1648923.136.peg.1002   Uncharacterized protein YqjX   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU24051	Yes	96.43
+
+#input_seq:	fig|1648923.136.peg.3070   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU21824	Yes	97.2
+
+#input_seq:	fig|1648923.136.peg.4650   FIG01234021: hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical phage related protein	AAU22895	Yes	97.06
+
+#input_seq:	fig|1648923.136.peg.3286   Repetitive hypothetical protein in ESAT cluster, COG4495   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	conserved hypothetical protein	AAU25627	Yes	96.94
+
+#input_seq:	fig|1648923.136.peg.2742   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU22595	Yes	97.89
+
+#input_seq:	fig|1648923.136.peg.3439   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU25473	Yes	100.0
+
+#input_seq:	fig|1648923.136.peg.3253   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU25659	Yes	96.63
+
+#input_seq:	fig|1648923.136.peg.3140   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU25770	Yes	97.73
+
+#input_seq:	fig|1648923.136.peg.3096   OrfX   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	YaaB	AAU21649	Yes	97.5
+
+#input_seq:	fig|1648923.136.peg.2714   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU22616	Yes	98.65
+
+#input_seq:	fig|1648923.136.peg.2912   pXO1-135   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	ABP97344	Yes	100.0
+
+#input_seq:	fig|1648923.136.peg.1837   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	13082	AE017333	Bacillus licheniformis DSM 13, complete genome.	Bacillales	YppF	AAU41242	Yes	100.0
+
+#input_seq:	fig|1648923.136.peg.4605   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU22855	Yes	100.0
+
+#input_seq:	fig|1648923.136.peg.1574   Uncharacterized protein YkzF   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU23165	Yes	100.0
+
+#input_seq:	fig|1648923.136.peg.826   hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU23538	Yes	98.25
+
+#input_seq:	fig|1648923.136.peg.162   hypothetical protein; RBL05753   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	ABP97392	Yes	97.96
+
+#input_seq:	fig|1648923.136.peg.2366   Uncharacterized protein YflJ   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU22377	Yes	100.0
+
+#input_seq:	fig|1648923.136.peg.2466   FIG01243582: hypothetical protein   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	AAU22293	Yes	100.0
+
+#input_seq:	fig|1648923.136.peg.1003   hypothetical protein; RBL05750   [Bacillus paralicheniformis strain 6-1 | 1648923.136]
+#matched_seq:	12388	CP000002	Bacillus licheniformis ATCC 14580, complete genome.	Bacillales	hypothetical protein	ABP97390	Yes	100.0
+

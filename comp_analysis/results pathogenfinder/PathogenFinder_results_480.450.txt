@@ -1,0 +1,137 @@
+INPUT SEQUENCE INFO:
+Input Name ::	0_06_12_2020_161445_735071_input.fsa
+Sequences ::	 1924
+Total bpp ::	 541201
+Longest seq ::	 2348
+Shortest seq ::	 21
+Avg seq lenght ::	 281.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	140.285
+Probability of being human pathogen ::	0.89
+Matches::	39
+Genome Coverage (%) ::	2.03
+Pathogenic Families Matched ::	39
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|480.450.peg.1165   ATP-dependent protease La (EC 3.4.21.53) Type II   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	ion-like peptidase S16	ADG61078	Yes	100.0
+
+#input_seq:	fig|480.450.peg.146   Efflux transport system, outer membrane factor (OMF) lipoprotein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	RND system membrane channel OprM	ADG60748	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1702   NAD(P)H-hydrate epimerase (EC 5.1.99.6) / ADP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.136)   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	YjeF-related protein	ADG61513	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1361   multidrug efflux protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	transmembrane efflux protein	ADG61796	Yes	100.0
+
+#input_seq:	fig|480.450.peg.938   Replicative DNA helicase (DnaB) (EC 3.6.4.12)   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	replicative DNA helicase	ADG61300	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1463   Modification methylase   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	DNA-cytosine methyltransferase	ADG62051	Yes	100.0
+
+#input_seq:	fig|480.450.peg.577   Murein endolytic transglycosylase MltG   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	aminodeoxychorismate lyase family protein	ADG60508	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1802   Nonaprenyl diphosphate synthase (geranyl-diphosphate specific) (EC 2.5.1.84)   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	solanesyl diphosphate synthase	ADG61425	Yes	100.0
+
+#input_seq:	fig|480.450.peg.788   CRISPR-associated protein Cas1   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	CRISPR-associated protein Cas1	ADG60299	Yes	100.0
+
+#input_seq:	fig|480.450.peg.755   Pseudouridine synthase (EC 4.2.1.70), PA2043 type   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	pseudouridine synthase	ADG60331	Yes	100.0
+
+#input_seq:	fig|480.450.peg.795   23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	SpoU family rRNA methylase	ADG60294	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1236   23S rRNA (guanine(745)-N(1))-methyltransferase (EC 2.1.1.187)   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	23S ribosomal RNA G745 methyltransferase	ADG61936	Yes	100.0
+
+#input_seq:	fig|480.450.peg.866   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	uncharacterized protein family (UPF0187) family protein	ADG61374	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1384   Oxygen-insensitive NADPH nitroreductase (EC 1.-.-.-)   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	NADPH-flavin oxidoreductase	ADG61968	Yes	100.0
+
+#input_seq:	fig|480.450.peg.380   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ADG60979	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1712   LrgA-associated membrane protein LrgB   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	LrgB family protein	ADG61518	Yes	100.0
+
+#input_seq:	fig|480.450.peg.143   tRNA (adenine(37)-N6)-methyltransferase   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	uncharacterized protein family (UPF0066) family protein	ADG60745	Yes	100.0
+
+#input_seq:	fig|480.450.peg.749   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ADG60337	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1692   16S rRNA (guanine(966)-N(2))-methyltransferase (EC 2.1.1.171)   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	putative methyltransferase	ADG61503	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1820   putative acyl-CoA thioester hydrolase   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	putative acyl-CoA thioester hydrolase	ADG61407	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1721   Protein-export protein SecB (maintains pre-export unfolded state)   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	protein translocase chaperone SecB	ADG61528	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1904   Heat shock protein 10 kDa family chaperone GroES   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	chaperonin protein Cpn10	ADG61751	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1753   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	hypothetical protein	ADG61561	Yes	100.0
+
+#input_seq:	fig|480.450.peg.168   4-carboxymuconolactone decarboxylase (EC 4.1.1.44)   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	carboxymuconolactone decarboxylase	ADG60774	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1823   tRNA 5-methylaminomethyl-2-thiouridine synthase subunit TusD   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	DsrE/DsrF-like protein	ADG61404	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1619   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ADG61662	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1821   tRNA 2-thiouridine synthesis protein TusE   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	putative DsrC-like protein	ADG61406	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1078   YfaE: ferredoxin involved with ribonucleotide reductase diferric-tyrosyl radical (Y*) cofactor maintenance   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	2Fe-2S ferredoxin	ADG61164	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1563   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ADG61604	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1270   putative stress-responsive transcriptional regulator   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	putative stress-responsive transcriptional regulator	ADG61901	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1921   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	hypothetical protein	ADG61769	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1675   Hemin uptake protein HemP/HmuP   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	hypothetical protein	ADG61487	Yes	100.0
+
+#input_seq:	fig|480.450.peg.1570   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ADG61611	Yes	100.0
+
+#input_seq:	fig|480.450.peg.581   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	hypothetical protein	ADG60504	Yes	100.0
+
+#input_seq:	fig|480.450.peg.224   Cytochrome d ubiquinol oxidase subunit X (EC 1.10.3.-)   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	cyd operon protein YbgT	ADG60826	Yes	100.0
+
+#input_seq:	fig|480.450.peg.837   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	hypothetical protein	ADG62139	Yes	100.0
+
+#input_seq:	fig|480.450.peg.358   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	hypothetical protein	ADG60956	Yes	100.0
+
+#input_seq:	fig|480.450.peg.747   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	hypothetical protein	ADG60339	Yes	100.0
+
+#input_seq:	fig|480.450.peg.449   hypothetical protein   [Moraxella catarrhalis strain AS012766 | 480.450]
+#matched_seq:	46869	CP002005	Moraxella catarrhalis RH4, complete genome.	Gammaproteobacteria	hypothetical protein	ADG60594	Yes	100.0
+

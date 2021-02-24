@@ -1,0 +1,44 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_093521_313836_input.fsa
+Sequences ::	 3224
+Total bpp ::	 880909
+Longest seq ::	 3022
+Shortest seq ::	 21
+Avg seq lenght ::	 273.0
+
+RESULTS:
+Min Identity Threshold ::	81.649
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-3.335
+Probability of being human pathogen ::	0.369
+Matches::	8
+Genome Coverage (%) ::	0.25
+Pathogenic Families Matched ::	2
+Non-Pathogenic Families Matched ::	6
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|571933.10.peg.2094   Acetate permease ActP (cation/acetate symporter)   [Piscibacillus halophilus strain Marseille-Q1613 | 571933.10]
+#matched_seq:	284	BA000028	Oceanobacillus iheyensis HTE831 DNA, complete genome.	Bacillales	Na(+):solute symporter (Ssf family)	BAC13595	No	89.82
+
+#input_seq:	fig|571933.10.peg.2101   Uncharacterized amino acid permease, GabP family   [Piscibacillus halophilus strain Marseille-Q1613 | 571933.10]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	amino acid permease family protein	ACK90971	Yes	81.9
+
+#input_seq:	fig|571933.10.peg.530   LSU ribosomal protein L16p (L10e)   [Piscibacillus halophilus strain Marseille-Q1613 | 571933.10]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	LSU ribosomal protein L16P	ABK83530	No	83.33
+
+#input_seq:	fig|571933.10.peg.1703   Chemotaxis regulator - transmits chemoreceptor signals to flagellar motor components CheY   [Piscibacillus halophilus strain Marseille-Q1613 | 571933.10]
+#matched_seq:	19619	CP000817	Lysinibacillus sphaericus C3-41, complete genome.	Bacillales	Chemotaxis protein cheY-like protein	ACA39162	No	81.67
+
+#input_seq:	fig|571933.10.peg.2717   hypothetical protein   [Piscibacillus halophilus strain Marseille-Q1613 | 571933.10]
+#matched_seq:	235	BA000004	Bacillus halodurans C-125 DNA, complete genome.	Bacillales	UNKNOWN	BAB07695	No	82.73
+
+#input_seq:	fig|571933.10.peg.533   SSU ribosomal protein S19p (S15e)   [Piscibacillus halophilus strain Marseille-Q1613 | 571933.10]
+#matched_seq:	36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Bacillales	30S ribosomal protein S19	ADB66989	Yes	85.87
+
+#input_seq:	fig|571933.10.peg.580   Ferredoxin   [Piscibacillus halophilus strain Marseille-Q1613 | 571933.10]
+#matched_seq:	284	BA000028	Oceanobacillus iheyensis HTE831 DNA, complete genome.	Bacillales	ferredoxin [3Fe-4S][4Fe-4S]	BAC13686	No	84.62
+
+#input_seq:	fig|571933.10.peg.512   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Piscibacillus halophilus strain Marseille-Q1613 | 571933.10]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	86.49
+

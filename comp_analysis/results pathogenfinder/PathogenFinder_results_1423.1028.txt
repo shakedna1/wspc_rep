@@ -1,0 +1,584 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_03_02_2021_185357_816997_input.fsa
+Sequences ::	 4191
+Total bpp ::	 1200356
+Longest seq ::	 5513
+Shortest seq ::	 29
+Avg seq lenght ::	 286.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-287.706
+Probability of being human pathogen ::	0.238
+Matches::	188
+Genome Coverage (%) ::	4.49
+Pathogenic Families Matched ::	0
+Non-Pathogenic Families Matched ::	188
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1423.1028.peg.643   Pyruvate-utilizing enzyme, similar to phosphoenolpyruvate synthase   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative phosphotransferase	CAB15536	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2514   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	transcriptional regulator of the glucitol operon	CAB12433	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3440   Modular polyketide synthase   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	enzyme involved in polyketide synthesis	CAB13584	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1187   Pullulanase (EC 3.2.1.41)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	pullulanase	CAB14971	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3241   Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129) @ Sporulation peptidoglycan synthetase SpoVD   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	penicillin-binding protein	CAB13390	No	100.0
+
+#input_seq:	fig|1423.1028.peg.697   ABC transporter-like sensor and permease protein YvcS   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative ABC transporter (permease)	CAB15474	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3191   Bacillolysin, extracellular neutral metalloprotease (EC 3.4.24.28)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	extracellular neutral metalloprotease	CAB13343	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1102   O-succinylbenzoic acid--CoA ligase (EC 6.2.1.26)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	O-succinylbenzoic acid-CoA ligase	CAB15057	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2200   4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.14.9)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative 4-hydroxyphenylacetate-3-hydroxylase	CAB13754	No	100.0
+
+#input_seq:	fig|1423.1028.peg.363   Alanine--anticapsin ligase (EC 6.3.2.49) => BacD   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	alanine-anticapsin ligase	CAB15798	No	100.0
+
+#input_seq:	fig|1423.1028.peg.770   Arabinose-proton symporter   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	arabinose-related compounds permease	CAB15401	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2512   Glucitol/sorbitol-specific transport protein GutA   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	H+-glucitol symporter	CAB12435	No	100.0
+
+#input_seq:	fig|1423.1028.peg.179   MmgE/PrpD family protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative catabolic enzyme	CAB15982	No	100.0
+
+#input_seq:	fig|1423.1028.peg.641   Uncharacterized MFS-type transporter   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative efflux transporter	CAB15538	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1093   UDP-glucose 6-dehydrogenase (EC 1.1.1.22)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative UDP-glucose dehydrogenase	CAB15064	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2523   DNA-cytosine methyltransferase (EC 2.1.1.37)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	DNA-methyltransferase (cytosine-specific)	CAB12425	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1799   Stage IV sporulation protein B   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	regulatory membrane-associated serine protease	CAB14354	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2077   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	protein involved in maturation of the outermost layer of the spore	CAB13867	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2937   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	ATPase possibly involved in protein degradation	CAB13099	No	100.0
+
+#input_seq:	fig|1423.1028.peg.130   cell surface protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	membrane associated protein kinase with beta-propeller domain	CAB16030	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2301   FIG01239754: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAB12645	No	100.0
+
+#input_seq:	fig|1423.1028.peg.127   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative integral inner membrane protein	CAB16034	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2333   Transport protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	efflux transporter	CAB12615	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2384   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative glycosyltransferase (complex carbohydrate synthase)	CAB12549	No	100.0
+
+#input_seq:	fig|1423.1028.peg.610   Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily F2   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative membrane bound transcriptional regulator	CAB15569	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1039   Long-chain-alcohol dehydrogenase (EC 1.1.1.192)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative NADH-dependent butanol dehydrogenase	CAB15125	No	100.0
+
+#input_seq:	fig|1423.1028.peg.4040   Uncharacterized MFS-type transporter   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypoxanthine efflux transporter	CAB12399	No	100.0
+
+#input_seq:	fig|1423.1028.peg.214   rhamnogalacturonan acetylesterase   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative esterase (lipoprotein)	CAB15948	No	100.0
+
+#input_seq:	fig|1423.1028.peg.140   FIG01236475: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative transcriptional regulator	CAB16021	No	100.0
+
+#input_seq:	fig|1423.1028.peg.981   Alanine dehydrogenase (EC 1.4.1.1)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	L-alanine dehydrogenase	CAB15181	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2322   Uncharacterized radical SAM protein YfkA   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative Fe-S oxidoreductase, radical SAM superfamily	CAB12625	No	100.0
+
+#input_seq:	fig|1423.1028.peg.695   ABC transporter-like sensor linked histidine kinase YvcQ   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	two-component sensor histidine kinase [YvcP]	CAB15476	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1738   Uncharacterized lipoprotein YqgU   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative lipoprotein	CAB14413	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2245   Putative lipoprotein SAV1865   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative membrane protein	CAB12698	No	100.0
+
+#input_seq:	fig|1423.1028.peg.446   Threonylcarbamoyl-AMP synthase (EC 2.7.7.87) / SUA5 domain with internal deletion   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative ribosome maturation factor; RNA binding protein	CAB15712	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2506   FIG01242141: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative membrane associated potassium channel	CAB12441	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2928   Oxidoreductase, zinc-binding dehydrogenase family (EC 1.1.1.-)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative oxidoreductase	CAB13090	No	100.0
+
+#input_seq:	fig|1423.1028.peg.910   Fructosamine deglycase FrlB   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	fructoselysine-6-P-deglycase	CAB15251	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1138   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	ABC transporter, permease component	CAB15021	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3439   Modular polyketide synthase   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	enzyme involved in polyketide synthesis	CAB13583	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3050   Uncharacterized membrane protein YkoY   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative transporter	CAB13201	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3908   Uncharacterized ABC transporter ATP-binding protein YdbJ   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative ABC transporter (ATP-binding protein)	CAB12256	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1104   Manganese ABC transporter, periplasmic-binding protein SitA   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	manganese ABC transporter (manganese binding lipoprotein)	CAB15055	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2385   Putative glycosyltransferase   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative glycosyltransferase	CAB12548	No	100.0
+
+#input_seq:	fig|1423.1028.peg.303   Transcriptional regulator CidR, LysR family   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative transcriptional regulator (LysR family)	CAB15857	No	100.0
+
+#input_seq:	fig|1423.1028.peg.913   ABC transporter, permease protein 2 (cluster 1, maltose/g3p/polyamine/iron)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative fructose-amino acid permease	CAB15248	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3997   Cobalt-zinc-cadmium resistance protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative divalent cation efflux transporter	CAB12354	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2981   N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	bacteriophage PBSX N-acetylmuramoyl-L-alanine amidase	CAB13138	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1950   putative membrane protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB14201	No	100.0
+
+#input_seq:	fig|1423.1028.peg.688   RNase adapter protein RapZ   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative ATPase/kinase	CAB15482	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2186   LysR family transcriptional regulator STM2281   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative transcriptional regulator (LysR family)	CAB13768	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2142   Cell wall-binding protein YocH   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative exported cell wall-binding protein	CAB13813	No	100.0
+
+#input_seq:	fig|1423.1028.peg.914   Carbohydrate kinase, PfkB   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	fructoselysine kinase	CAB15247	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2115   STAS domain protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	Component of the piezosome (stressosome)	CAB13837	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3734   Zinc ABC transporter, permease protein AdcB   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	high affinity Zn(II) ABC transporter (permease)	CAB12081	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3024   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	component of the piezosome (stressosome)	CAB13177	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1527   Chitosanase precursor (EC 3.2.1.132)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	chitosanase	CAB14630	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2579   Methionine ABC transporter substrate-binding protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative ABC transporter (binding lipoprotein)	CAB12739	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1247   L-cystine ABC transporter, substrate-binding protein TcyK   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	sulfur-containing amino acid ABC transporter binding lipoprotein	CAB14897	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3137   Potassium efflux system KefA protein / Small-conductance mechanosensitive channel   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative small-conductance mechanosensitive channel	CAB13294	No	100.0
+
+#input_seq:	fig|1423.1028.peg.175   ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative ABC transporter (binding lipoprotein)	CAB15986	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2814   Uncharacterized protein YjaZ   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB12992	No	100.0
+
+#input_seq:	fig|1423.1028.peg.797   alpha/beta hydrolase fold   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative hydrolase	CAB15369	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3603   Trilactone hydrolase [bacillibactin] siderophore   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative iron-chelator esterase	CAB11936	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2917   Probable iron export permease protein FetB   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative ABC transporter (permease)	CAB13081	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2918   YbbL ABC transporter ATP-binding protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative phosphate ABC transporter (ATP-binding protein)	CAB13082	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3841   FMN reductase [NAD(P)H] (EC 1.5.1.39)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	NADPH-FMN oxidoreductase (nitroreductase)	CAB12194	No	100.0
+
+#input_seq:	fig|1423.1028.peg.4092   Uncharacterized protein YabS   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB11841	No	100.0
+
+#input_seq:	fig|1423.1028.peg.915   Uncharacterized HTH-type transcriptional regulator yurK   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative frl transcriptional regulator (GntR family)	CAB15246	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1933   Uncharacterized membrane anchored protein YpbE   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB14216	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1096   Uncharacterized protein YteA   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB15062	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2561   Uncharacterized protein YhbD   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative nucleic acid binding protein	CAB12722	No	100.0
+
+#input_seq:	fig|1423.1028.peg.361   3-((4R)-4-hydroxycyclohexa-1,5-dien-1-yl)-2-oxopropanoate isomerase (EC 5.3.3.19) => BacB   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	isomerase component of bacilysin synthetase	CAB15800	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2098   Uncharacterized methyltransferase YodH   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative S-adenosylmethionine-dependent methyltransferase	CAB13851	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3720   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	two-component response regulator [NatK]	CAB12068	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3995   Uncharacterized DUF554 membrane protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative integral inner membrane protein	CAB12352	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3905   C4-dicarboxylate response regulator DctR   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	two-component response regulator	CAB12253	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3435   Probable polyketide biosynthesis zinc-dependent hydrolase PksB   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative hydrolase	CAB13581	No	100.0
+
+#input_seq:	fig|1423.1028.peg.4029   Uncharacterized transcriptional regulator YdhC, GntR family   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative transcriptional regulator (GntR family)	CAB12389	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1940   Protease PrsW   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	protease required for RsiW anti-sigma(W) degradation	CAB14210	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1291   TVP38/TMEM64 family membrane protein YtxB   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative integral inner membrane protein	CAB14857	No	100.0
+
+#input_seq:	fig|1423.1028.peg.242   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB15911	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2118   Cyclic di-AMP synthase CdaS   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB13835	No	100.0
+
+#input_seq:	fig|1423.1028.peg.360   Non-aromatizing prephenate decarboxylase (EC 4.1.1.100) => BacA   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	bacilysin biosynthesis protein, dehydratase	CAB15801	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2092   putative membrane-associated phospholipid phosphatase, PAP2 superfamily   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative phospholipid phosphatase	CAB13856	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1344   Succinate dehydrogenase cytochrome b558 subunit   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	succinate dehydrogenase (cytochrome b558 subunit)	CAB14805	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3760   FIG01228731: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative methyltransferase	CAB12106	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3762   tunicamycin resistance   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	ATP-binding tunicamycin resistance protein	CAB12108	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2907   Uncharacterized protein YjgB   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAB13072	No	100.0
+
+#input_seq:	fig|1423.1028.peg.642   Transcriptional regulator, TetR family   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative transcriptional regulator (TetR/AcrR family)	CAB15537	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3714   Transcriptional regulator, AcrR family   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	transcriptional repressor of lmrAB and yxaGH operons	CAB12062	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3763   Shikimate kinase I (EC 2.7.1.71)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	shikimate kinase	CAB12109	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1870   ADP-ribose pyrophosphatase (EC 3.6.1.13)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	ADP-ribose pyrophosphatase	CAB14293	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3433   Uncharacterized membrane protein YmcC   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative integral inner membrane protein	CAB13579	No	100.0
+
+#input_seq:	fig|1423.1028.peg.4185   Spore germination protein GerD   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	lipoprotein with a role in spores' rapid response to nutrient germinants	CAB11931	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3640   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	sporulation killing factor biosynthesis and export	CAB11991	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3670   DedA family protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative membrane phosphatase	CAB12022	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3203   Uncharacterized protein YlaL   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB13355	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3919   transmembrane protein, distant homology with ydbS   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB12266	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2135   FIG01228906: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative spore coat protein	CAB13818	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2567   YhbI   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative transcriptional regulator (MarR family)	CAB12727	No	100.0
+
+#input_seq:	fig|1423.1028.peg.128   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative integral inner membrane protein	CAB16033	No	100.0
+
+#input_seq:	fig|1423.1028.peg.201   Universal stress protein YxiE   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	phosphate starvation protein (universal stress protein A family)	CAB15961	No	100.0
+
+#input_seq:	fig|1423.1028.peg.123   Transcriptional regulator, MarR family   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative transcriptional regulator (MarR family)	CAB16038	No	100.0
+
+#input_seq:	fig|1423.1028.peg.204   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAB15958	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1587   Endodeoxyribonuclease RusA   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative Holliday junction resolvase; skin element	CAB14566	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1621   Holin   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative holin; skin element	CAB14532	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2922   Uncharacterized protein YjlC   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	transcriptional repressor of the rex ndh operon	CAB13085	No	100.0
+
+#input_seq:	fig|1423.1028.peg.207   FIG01230568: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB15955	No	100.0
+
+#input_seq:	fig|1423.1028.peg.505   Uncharacterized HTH-type transcriptional regulator YwoH   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative transcriptional regulator (MarR family)	CAB15661	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2692   FIG01241191: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB12861	No	100.0
+
+#input_seq:	fig|1423.1028.peg.485   Rrf2 family transcriptional regulator, group III   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB15680	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2741   Protein GerPE, required for proper assembly of spore coat, mutations lead to super-dormant spore   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	spore germination protein	CAB12908	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2075   involved in maturation of the outermost layer of the spore   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	spore outermost layer component	CAB13869	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2699   FIG01237402: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAB12868	No	100.0
+
+#input_seq:	fig|1423.1028.peg.4000   Membrane protein, distant similarity to thiosulphate:quinone oxidoreductase DoxD   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative membrane bound oxidoreductase	CAB12357	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1522   Lactoylglutathione lyase and related lyases   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative lyase	CAB14635	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3703   Uncharacterized protein YcbP   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative inner integral membrane protein	CAB12053	No	100.0
+
+#input_seq:	fig|1423.1028.peg.487   FIG01234579: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative integral inner membrane protein	CAB15678	No	100.0
+
+#input_seq:	fig|1423.1028.peg.454   ATP synthase protein I   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	ATP synthase (subunit i)	CAB15705	No	100.0
+
+#input_seq:	fig|1423.1028.peg.4089   Cell division protein DivIC (FtsB), stabilizes FtsL against RasP cleavage   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	cell-division initiation protein	CAB11838	No	100.0
+
+#input_seq:	fig|1423.1028.peg.321   Cytochrome aa3-600 menaquinol oxidase subunit IV   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	cytochrome aa3-600 quinol oxidase (subunit IV)	CAB15840	No	100.0
+
+#input_seq:	fig|1423.1028.peg.483   Urease beta subunit (EC 3.5.1.5)   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	urease (beta subunit)	CAB15682	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3181   Pal-related lipoprotein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	small peptidoglycan-associated lipoprotein	CAB13335	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2571   FIG01232075: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAB12731	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2502   YdjM   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB12444	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1520   Spore coat protein F-like protein YraF   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative spore coat protein	CAB14637	No	100.0
+
+#input_seq:	fig|1423.1028.peg.167   Uncharacterized protein YxeE   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	spore coat protein	CAB15994	No	100.0
+
+#input_seq:	fig|1423.1028.peg.166   Uncharacterized protein YxeD   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB15995	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3852   Reductase or disulfide isomerase in copper uptake, YcnL   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative reductase or disulfide isomerase	CAB12205	No	100.0
+
+#input_seq:	fig|1423.1028.peg.952   NifU-like domain protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative iron-sulfur scaffold protein	CAB15212	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1618   FIG01238688: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein; skin element	CAB14535	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2136   Uncharacterized protein yocL   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAB13817	No	100.0
+
+#input_seq:	fig|1423.1028.peg.716   Quaternary ammonium compound-resistance protein SugE   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative membrane protein	CAB15455	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2877   Uncharacterized protein yjcN precursor   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB13049	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2093   Uncharacterized protein YodL   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB13855	No	100.0
+
+#input_seq:	fig|1423.1028.peg.311   Uncharacterized membrane protein YwcB   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative phage protein (superinfection immunity)	CAB15849	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2076   involved in maturation of the outermost layer of the spore   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	protein involved in maturation of the outermost layer of the spore	CAB13868	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3744   Transcriptional regulator, ArsR family   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative transcriptional regulator (ArsR family)	CAB12091	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1713   Uncharacterized membrane protein YqfZ   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	factor involved in motility	CAB14436	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3093   Uncharacterized protein YkvR   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB13253	No	100.0
+
+#input_seq:	fig|1423.1028.peg.442   Uncharacterized protein ywkF   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAB15716	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2912   Uncharacterized protein yjiA precursor   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAB13077	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2112   FIG01230496: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAX52638	No	100.0
+
+#input_seq:	fig|1423.1028.peg.4009   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB12364	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2970   FIG01234021: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein; putative PBSX prophage protein	CAB13128	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3584   Inhibitor of pro-sigmaK processing BofA   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	inhibitor of the pro-sigma(K) processing machinery	CAB11799	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2134   YozN   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB13819	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2865   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	sporulation-specific protein needed for heat resistance	CAB13038	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2249   Small acid-soluble spore protein, gamma-type SASP   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	small acid-soluble spore protein (gamma-type SASP)	CAB12694	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3551   Small, acid-soluble spore protein Tlp   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	small acid-soluble spore protein (thioredoxin-like protein)	CAB13686	No	100.0
+
+#input_seq:	fig|1423.1028.peg.142   Uncharacterized protein yxcA   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAB16019	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3658   YbeF   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB12009	No	100.0
+
+#input_seq:	fig|1423.1028.peg.4   OrfX   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB11781	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3870   unknown   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAB12219	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1521   Uncharacterized protein YraG   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative spore coat protein	CAB14636	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2008   Uncharacterized protein yppD   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB14145	No	100.0
+
+#input_seq:	fig|1423.1028.peg.4008   FIG01239730: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB12363	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2744   Protein GerPB, required for proper assembly of spore coat, mutations lead to super-dormant spore   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	spore germination protein	CAB12911	No	100.0
+
+#input_seq:	fig|1423.1028.peg.842   FIG01229916: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	regulator of sigma-O	CAX52693	No	100.0
+
+#input_seq:	fig|1423.1028.peg.4002   FIG01245794: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB12359	No	100.0
+
+#input_seq:	fig|1423.1028.peg.992   Uncharacterized protein YuzF   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB15170	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2133   FIG01232811: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB13820	No	100.0
+
+#input_seq:	fig|1423.1028.peg.649   YvkN   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB15519	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2740   GerPF/GerPA protein family, required for proper assembly of spore coat, mutations lead to super-dormant spore   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	spore germination protein	CAB12907	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3816   Hydroxyaromatic non-oxidative decarboxylase protein D (EC 4.1.1.-) / unknown domain   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	nonoxidative vanillate/4-hydroxybenzoate decarboxylase subunit	CAX52546	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1898   GerPF/GerPA protein family, required for proper assembly of spore coat, mutations lead to super-dormant spore   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB14267	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3407   FIG01225515: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAX52620	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3200   Uncharacterized protein YlaI   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB13352	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2101   YhjC   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative exported protein	CAX52639	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1518   Uncharacterized protein YraE   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB14639	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2530   unknown   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB12419	No	100.0
+
+#input_seq:	fig|1423.1028.peg.260   Negative regulatory protein YxlE   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	negative regulator of sigma-Y activity	CAB15893	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2010   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	putative site-specific integrase	CAB14143	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2879   hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAX52598	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2483   FIG01235682: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAB12458	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2395   Uncharacterized protein YezD   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB12538	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2500   ydzJ   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAX52576	No	100.0
+
+#input_seq:	fig|1423.1028.peg.312   FIG01237391: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	anti-repressor of SlrR	CAX52707	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2090   FIG01232929: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAX52641	No	100.0
+
+#input_seq:	fig|1423.1028.peg.965   Uncharacterized protein YuiA   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB15199	No	100.0
+
+#input_seq:	fig|1423.1028.peg.3033   FIG01249273: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	conserved hypothetical protein	CAB13186	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2939   PhrA, inhibitor of the activity of phosphatase RapA   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	secreted inhibitor of the activity of phosphatase RapA	CAB13101	No	100.0
+
+#input_seq:	fig|1423.1028.peg.1241   FIG01242939: hypothetical protein   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein	CAB14903	No	100.0
+
+#input_seq:	fig|1423.1028.peg.402   subtilosin A   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	subtilosin A	CAB15763	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2038   SspL   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	small acid-soluble spore protein	CAE01458	No	100.0
+
+#input_seq:	fig|1423.1028.peg.2644   Uncharacterized protein yheF   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	hypothetical protein; orphan	CAB12813	No	100.0
+
+#input_seq:	fig|1423.1028.peg.390   PhrF, regulator of the activity of phosphatase RapF   [Bacillus subtilis strain 8-1 | 1423.1028]
+#matched_seq:	76	AL009126	Bacillus subtilis subsp. subtilis str. 168 complete genome.	Bacillales	secreted regulator of the activity of phosphatase RapF	CAB15774	No	100.0
+

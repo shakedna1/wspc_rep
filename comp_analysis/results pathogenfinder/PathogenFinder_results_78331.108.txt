@@ -1,0 +1,1184 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_205323_482286_input.fsa
+Sequences ::	 4223
+Total bpp ::	 1323846
+Longest seq ::	 3728
+Shortest seq ::	 21
+Avg seq lenght ::	 313.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	1503.893
+Probability of being human pathogen ::	0.916
+Matches::	388
+Genome Coverage (%) ::	9.19
+Pathogenic Families Matched ::	388
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|78331.108.peg.4131|HG243_09935   PPE family protein, MPTR subgroup => PPE34   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	PPE family protein	ABQ73686	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3993|HG243_09120   PPE family protein, MPTR subgroup => PPE24   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	PPE family protein	AAK46069	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3839   PE_PGRS family protein => PE_PGRS19   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	PE-PGRS family protein	ABQ72813	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3   Serine/threonine-protein kinase PknD (EC 2.7.11.1)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	transmembrane serine/threonine-protein kinase H pknH	ABR05635	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.134   PPE family protein, MPTR subgroup => PPE40   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PPE family protein	ABR06711	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4008|HG243_09360   AAA+ family protein ATPase EccA5, component of Type VII secretion system ESX-5   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06164	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4006|HG243_09350   Serine protease mycosin MycP5, component of Type VII secretion system ESX-5   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	proline rich membrane-anchored mycosin MycP5	ABQ73563	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3718|HG243_07065   Iron siderophore ABC transporter, permease/ATP-binding protein IrtB   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical drugs-transport transmembrane ATP-binding protein ABC transporter	ABR05722	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3120   PE_PGRS family protein => PE_PGRS20   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	P	AAK45353	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.290|HG243_17680   FIG034901: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR07763	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2576|HG243_06735   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05659	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2422|HG243_12185   Uncharacterized MFS-type transporter MSMEG_0433, NarK/U family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	nitrite extrusion protein 1 narK1 (nitrite facilitator 1)	ABR06681	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3070|HG243_09285   Membrane protein EccB5, component of Type VII secretion system ESX-5   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved membrane protein	ABR06150	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4005|HG243_09345   Integral membrane protein EccD5, component of Type VII secretion system ESX-5   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved membrane protein	ABR06161	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.669|HG243_10975   PE_PGRS family protein => PE_PGRS36   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	PE family-related protein	AAK46440	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.9|HG243_05120   PE_PGRS family protein => PE_PGRS18   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	P	AAK45256	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2183|HG243_02740   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved integral membrane protein	ABR04895	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.261|HG243_17535   Diacyglycerol O-acyltransferase (EC 2.3.1.20)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	hypothetical protein	BAH27716	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4257|HG243_11925   Diacyglycerol O-acyltransferase (EC 2.3.1.20)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06638	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1552|HG243_04350   Uncharacterized MFS-type transporter   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved integral membrane protein	ABR05202	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2753|HG243_10645   N-acetyl-D-glucosamine ABC transporter, substrate-binding protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical sugar-binding lipoprotein	ABR06409	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1467|HG243_10235   MCE-family protein MceF   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	virulence factor mce family protein	AAK46297	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.771|HG243_20020   Secreted protein EspE, component of Type VII secretion system ESX-1   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	hypothetical protein	BAH28199	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2421|HG243_12180   PE family protein => PE23   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	PE family protein	AAK46682	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4144   PPE family protein, SVP subgroup => PPE38   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	PPE family protein	AAK46715	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.125|HG243_18705   PPE family protein, SVP subgroup => PPE65   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PPE family protein	ABR07977	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.34|HG243_18265   PPE family protein, SVP subgroup => PPE61   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PPE family protein	ABR07890	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2169|HG243_02680   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR04884	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1060|HG243_14450   PPE family protein, SVP subgroup => PPE43   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	PPE family protein	ABQ74571	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1589|HG243_13765   Probable conserved transmembrane alanine and leucine rich protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved alanine and leucine rich transmembrane protein	ABR06971	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.120|HG243_18680   Secreted protein EspA, component of Type VII secretion system ESX-1   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved alanine and glycine rich protein	ABR07972	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.770|HG243_20015   Probable forkhead-associated protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical alanine rich protein	ABR08223	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4182|HG243_11540   Adenylate cyclase (EC 4.6.1.1)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06571	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.854|HG243_07685   PE_PGRS family protein => PE_PGRS29   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PE-PGRS family protein	ABR05839	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3632|HG243_19655   Putative uncharacterized protein BCG_3858   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR08155	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2433|HG243_12230   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06690	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2364|HG243_04810   Phosphate ABC transporter, substrate-binding protein PstS (TC 3.A.1.7.1)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	periplasmic phosphate-binding lipoprotein pstS3	ABR05289	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2368|HG243_04830   Phosphate ABC transporter, substrate-binding protein PstS (TC 3.A.1.7.1)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	periplasmic phosphate-binding lipoprotein	BAH25246	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.494|HG243_03715   O-Methyltransferase involved in polyketide biosynthesis   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05083	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3831   PPE family protein, SVP subgroup => PPE27, component of Type VII secretion system ESX-5   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	PPE family protein	ACT25275	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.214|HG243_01105   FIG032248: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	hypothetical protein	BAH24513	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2629|HG243_18105   MCE-family protein MceC   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	MCE-family protein mce4C	ABR07856	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3569|HG243_19330   Transcriptional regulator, AraC family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	transcriptional regulatory protein, araC/xylS-family	ABR08093	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3565|HG243_19310   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR08089	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2902|HG243_13445   ABC-type antimicrobial peptide transport system, permease component   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical glutamine-transport transmembrane protein ABC transporter	ABR06910	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.46|HG243_18325   Acyl-CoA dehydrogenase (EC 1.3.8.-), Mycobacterial subgroup FadE28; Acyl-CoA dehydrogenase IgrB   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	acyl-CoA dehydrogenase, putative	AAK48007	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3766|HG243_07305   Transcriptional regulator, AraC family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical transcriptional regulatory protein	ABR05767	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.890|HG243_07860   Glycosyl transferase, family 2   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical glycosyltransferase	ABR05874	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.796|HG243_20140   ATPase of AAA+ superfamily Rv3888c   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved membrane protein	ABR08248	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2114|HG243_02415   Aliphatic amidase AmiE (EC 3.5.1.4)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	carbon-nitrogen hydrolase family protein	AAK44721	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3519|HG243_19080   putative secreted protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ75515	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1750|HG243_12485   Acetyl hydrolase MbtJ   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	acetyl hydrolase mbtJ	ACT24644	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.496|HG243_03725   D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	putative D-3-phosphoglycerate dehydrogenase	BAH25041	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1190|HG243_15065   Putative oxidoreductase   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical oxidoreductase	ABR07234	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2432|HG243_12225   FIG00823443: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06689	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3770|HG243_07325   Carboxylesterase NlhH (EC 3.1.1.1)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	lipase lipH	ABR05771	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.557|HG243_04040   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05144	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3277|HG243_08705   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06033	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3163|HG243_11995   MBL-fold metallo-hydrolase superfamily   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06652	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1155|HG243_14895   Predicted glutamine amidotransferases in hypothetical Actinobacterial gene cluster   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	putative amidotransferase	ABQ74663	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.544|HG243_03970   Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical exported protein	ABR05132	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.755|HG243_19940   FIG037441: Conserved transmembrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved transmembrane protein	ABR08209	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1015|HG243_14245   FIG01334132: Putative conserved alanine, valine and leucine rich integral membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved alanine, valine and leucine rich integral membrane protein	ABR07069	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1441|HG243_10120   FIG032369: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	hypothetical protein	BAH26257	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4004|HG243_09340   FIG023076: hypothetical protein in PPE gene cluster   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06160	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1790|HG243_12655   Late competence protein ComEA, DNA receptor   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	hypothetical protein	BAH26709	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2976|HG243_01495   Protein EspG3, component of Type VII secretion system ESX-3   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR04639	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.293|HG243_17695   dioxygenase, TauD/TfdA family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical dioxygenase	ABR07766	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3827|HG243_05750   FIG00645039: hypothetical protein with HTH-domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05406	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3978|HG243_05710   Possible glycosyl hydrolase (EC 3.-.-.-)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical glycosyl hydrolase	ABR05460	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4206|HG243_11665   Phosphoglycolate phosphatase (EC 3.1.3.18)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06593	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1410|HG243_09955   Acyltransferase family protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical membrane protein	ABR06284	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3489|HG243_18930   Dipeptide ABC transporter, permease protein DppC (TC 3.A.1.5.2)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	dipeptide-transport membrane protein ABC transporter dppC	ACT26811	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4041|HG243_09515   Haloalkane dehalogenase 2 (EC 3.8.1.5)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical haloalkane dehalogenase	ABR06197	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2276|HG243_03190   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	hypothetical exported protein	ACT23677	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3372|HG243_16150   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07443	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3915|HG243_05440   PE family protein => PE8   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PE family protein	ABR05401	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2912|HG243_13495   2-dehydropantoate 2-reductase (EC 1.1.1.169)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06920	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4210|HG243_11685   hypothetical protein Rv2237   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06597	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1537|HG243_04275   FIG00821728: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05189	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1033|HG243_14320   POSSIBLE CONSERVED MEMBRANE ALANINE RICH PROTEIN   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved alanine rich transmembrane protein	ABR07083	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1352|HG243_17125   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07648	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.918|HG243_07995   POSSIBLE RHAMNOSYL TRANSFERASE WBBL2   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	rhamnosyl transferase wbbL2	ABR05901	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2378|HG243_04875   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05302	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2463|HG243_03315   Transcriptional regulator, AcrR family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	transcriptional repressor, putative	AAK44907	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.940|HG243_15830   Enoyl-CoA hydratase (EC 4.2.1.17)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	enoyl-CoA hydratase echA17	ABR07382	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3870|HG243_05235   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05361	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.423|HG243_00380   Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	putative maturase	BAH24374	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1626|HG243_13970   Methyltransferase (EC 2.1.1.-) colocalized with Q   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07017	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2655|HG243_01305   Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical succinate dehydrogenase iron-sulfur subunit (succinic dehydrogenase)	ABR04593	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1889|HG243_06150   Transcriptional regulator, PadR family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK45470	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2268|HG243_03150   Uncharacterized membrane protein Rv0625c   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved transmembrane protein	ABR04979	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.662|HG243_10940   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical membrane protein	ABR06457	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2129|HG243_02490   Transcriptional regulator, GntR family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical transcriptional regulatory protein, gntR-family	ABR04846	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1544|HG243_04320   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	hypothetical protein	BAH25149	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2469|HG243_03340   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved integral membrane protein	ABR05014	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2808|HG243_12975   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical alanine and proline rich membrane protein	ABR06824	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4176|HG243_11510   CblZ, a non-orthologous displasment for Alpha-ribazole-5'-phosphate phosphatase   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved transmembrane protein	ABR06565	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3196|HG243_08300   Nudix-related transcriptional regulator NrtR   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05952	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2898|HG243_13425   Hypothetical protein Rv2558   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06906	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3281|HG243_08725   Peroxiredoxin   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06036	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.291|HG243_17685   formyltransferase   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07764	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1243|HG243_15325   Lipoprotein LppX   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	lipoprotein lppX	ABR07286	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2874|HG243_13310   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved membrane protein	ACT24490	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.10|HG243_20540   Mobile element protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	putative transposase	BAH26718	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1869|HG243_06055   Conserved alanine and proline rich protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved alanine and proline rich protein	ABR05525	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.549|HG243_03995   hypothetical protein Rv0779c   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved transmembrane protein	ABR05138	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.234|HG243_01205   Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved membrane protein	ABR04574	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4037|HG243_09505   Uncharacterized HTH-type transcriptional regulator   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06195	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2897|HG243_13420   hypothetical protein Rv2558   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06905	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3426|HG243_05010   Lipoprotein LprP   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	lipoprotein lprP	ABR05323	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1329|HG243_17010   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved integral membrane protein	ABR07625	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1353|HG243_17130   Transcriptional regulator Rv3295, AcrR family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical transcriptional regulatory protein, tetR-family	ABR07649	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1471|HG243_10255   FIG00821319: hypothetical protein Rv1975   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06341	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4224|HG243_11760   Transcriptional regulator, AcrR family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	transcriptional regulator, TetR family	AAK46594	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1305|HG243_15630   Probable iron export permease protein FetB   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved transmembrane protein	ABR07342	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1690|HG243_06385   Anti-sigma factor RseA   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ72970	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1508|HG243_04130   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05160	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2809|HG243_12980   hypothetical protein Rv2474c   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06825	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2041|HG243_02060   Possible mutator protein MutT3 (7,8-dihydro-8-oxoguanine-triphosphatase)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	mutator protein mutT3	ABR04761	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1651|HG243_14095   Possible secreted alanine rich protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved secreted alanine rich protein	ABR07042	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3534|HG243_19155   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ75530	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1542|HG243_04310   Lipoprotein LpqQ   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	lipoprotein lpqQ	ABR05193	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1527|HG243_04225   Phosphate transport system regulatory protein PhoU   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	phosphate-transport system transcriptional regulatory protein phoY2	ABR05179	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.684|HG243_11045   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	hypothetical protein	ACT24930	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.621|HG243_16810   FIG00820824: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical alanine, arginine and proline rich protein	ABR07589	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3158|HG243_11970   Colicin E2 tolerance protein CbrC-like protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06647	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1246|HG243_15340   Chorismate--pyruvate lyase (EC 4.1.3.40)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	conserved hypothetical protein	AAK47348	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3716|HG243_07050   Lysine N-acyltransferase MbtK (EC 2.3.1.-) @ Siderophore synthetase small component, acetyltransferase   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	Lysine N-acyltransferase MbtK	ABQ73097	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2575|HG243_06730   FIG00820436: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05658	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.390|HG243_00225   Transcriptional regulator, MarR family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical transcriptional regulatory protein, marR-family	ABR04384	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1345|HG243_17090   Serine-protein kinase RsbW (EC 2.7.11.1)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	anti-sigma factor rsbW (sigma negative effector)	ABR07641	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4062|HG243_09615   Urease accessory protein UreD   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	putative urease accessory protein UreD	ABQ73620	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.282|HG243_17640   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	putative membrane protein	ABQ75220	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.743|HG243_11335   Acetyltransferase   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06529	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.511|HG243_03800   FIG00821514: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05097	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1720|HG243_06540   Lipoprotein LprE   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	lipoprotein lprE	ABR05621	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2533|HG243_08185   Transcriptional regulator, AcrR family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical regulatory protein	ABR05931	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1702|HG243_06445   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved membrane protein	ACT25828	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1879|HG243_06105   Transcriptional regulator, AcrR family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical transcriptional regulatory protein	ABR05535	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2255|HG243_03090   hypothetical protein Rv0612 Rv0609A   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR04965	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.560|HG243_04055   FIG00820357: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05148	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1436|HG243_10090   FIG033348: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06308	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2494|HG243_03455   Transcriptional regulator, AcrR family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	TetR-family transcriptional regulator	ABQ72417	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3227|HG243_08460   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	hypothetical protein	BAH25925	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2762|HG243_12745   PPE family protein => PPE41   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PPE family protein	ABR06785	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3470|HG243_18840   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR08001	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2224|HG243_02940   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR04934	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2055|HG243_02130   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical transmembrane protein	ABR04774	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2545|HG243_08245   Uncharacterized protein Rv1567c   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical membrane protein	ABR05943	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3341|HG243_08995   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06085	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3453|HG243_05855   Cysteine dioxygenase (EC 1.13.11.20)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05426	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.594|HG243_16670   Proline rich protein similar to MmpS3   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved threonine and proline rich protein	ABR07559	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3363|HG243_09095   Integral membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical integral membrane protein	ABR06108	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1068|HG243_14485   Acetyltransferase, GNAT family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR07115	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.118|HG243_18670   Protein EspD, component of Type VII secretion system ESX-1   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07970	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2084|HG243_02270   FIG00820218: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ72180	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.774|HG243_20035   Protein EspH, component of Type VII secretion system ESX-1   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR08227	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1804|HG243_00520   hypothetical protein Rv0098   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR04442	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1543|HG243_04315   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05194	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2413|HG243_12145   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	ornithine aminotransferase (C-terminus part) rocD2	ABR06673	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2315|HG243_01905   SpoU rRNA methylase family protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	spoU rRNA methylase family protein	AAK44615	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2150|HG243_02595   Uncharacterized membrane protein Rv0513   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved transmembrane protein	ABR04867	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1449|HG243_10160   FIG00821415: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06320	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1631|HG243_13995   Uncharacterized protein Q1 colocalized with Q   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	conserved hypothetical protein	AAK47069	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1176|HG243_15000   Soluble secreted antigen MPT53 precursor   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	soluble secreted antigen MPT53 precursor	AAK47271	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4095|HG243_09775   Resuscitation-promoting factor RpfC   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	resuscitation-promoting factor rpfC	ABR06247	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.77|HG243_18475   FIG00821138: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR07930	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.646|HG243_16930   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07613	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2086|HG243_02275   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved hypothetical protein	ACT23486	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.8|HG243_05115   LSU ribosomal protein L32p @ LSU ribosomal protein L32p, zinc-independent   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	50S ribosomal protein L32 rpmF	ABR05340	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.513|HG243_03810   PE_PGRS family protein => PE_PGRS8   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PE-PGRS family protein	ABR05099	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2677|HG243_01405   Phage protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR04615	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3065|HG243_09265   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06146	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2605|HG243_17990   FIG00820398: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07834	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2245|HG243_03040   Two-component system sensor histidine kinase   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	two component sensor kinase	ABQ72331	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4227|HG243_11775   FIG00820044: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical secreted protein	ABR06613	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.896|HG243_07885   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05880	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1005|HG243_14195   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	hypothetical protein	BAH27007	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1634|HG243_14010   FIG00822000: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	hypothetical protein	BAH26971	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1453|HG243_10180   Helicase, C-terminal   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06323	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2940|HG243_13620   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06944	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1409|HG243_09950   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK46242	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1597|HG243_13805   Hemerythrin domain protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06979	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3624|HG243_19615   Nucleoside diphosphate kinase regulator   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR08147	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2153|HG243_02610   FIG00507771: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK44760	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2354|HG243_04755   FIG032766: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05279	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1016|HG243_14250   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR07070	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4120|HG243_09885   FIG00823749: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	conserved hypothetical protein	AAK46228	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1645|HG243_14065   OB-fold nucleic acid binding protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved hypothetical protein	ACT24330	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1620|HG243_13940   Uncharacterized N-acetyltransferase (EC 2.3.1.-)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07011	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2915|HG243_13510   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved membrane protein	ABR06923	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1756|HG243_12510   Phage tail length tape-measure protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	resuscitation-promoting factor rpfD	ABR06743	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.571|HG243_16560   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved alanine and proline rich protein	ACT26331	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3352|HG243_09040   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved hypothetical protein	ACT25326	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3671|HG243_06000   PROBABLE CELLULASE CELA2B (ENDO-1,4-BETA-GLUCANASE) (ENDOGLUCANASE) (CARBOXYMETHYL CELLULASE) (EC 3.2.1.4)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	cellulase celA2b	ABR05454	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4228|HG243_11780   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical integral membrane protein	ABR06614	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3668|HG243_05985   PE family protein => PE9   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	PE family protein	ABQ72835	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1438|HG243_10100   Prevent host death protein, Phd antitoxin   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	lipoprotein lppG	ABR06310	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2031|HG243_16520   FIG031049: Hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07528	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3640|HG243_05770   Transcriptional regulator, MarR family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical transcriptional repressor protein	ABR05410	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2143|HG243_02560   Membrane protein MmpS2   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	membrane protein mmpS2	ABR04860	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2945|HG243_13645   toxin VapC41 @ Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06948	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2648|HG243_01270   toxin VapC24 @ Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR04586	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3376|HG243_16170   Hypothetical proline-rich protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical proline rich protein	ABR07447	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4118|HG243_09875   Anti-sigma B factor antagonist RsbV   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	anti-anti-sigma factor	AAK46226	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2508|HG243_08065   Putative uncharacterized protein BCG_1584c   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05908	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.192|HG243_01000   PROBABLE CONSERVED TRANSMEMBRANE PROTEIN   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved transmembrane protein	ABR04532	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1711|HG243_06490   toxin VapC33 @ Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05610	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3045|HG243_10505   Transcriptional regulator, MarR family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06378	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3175|HG243_12045   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical glycine rich protein	ABR06660	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1655|HG243_14115   RidA/YER057c/UK114 superfamily, group 6   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07046	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2829|HG243_13080   toxin VapC38 @ Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06843	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.759|HG243_19960   Uncharacterized protein Rv3852   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	histone-like protein hns	ACT27010	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4092|HG243_09760   Lipoprotein LppE   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	lipoprotein lppE	ABR06244	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2107|HG243_02385   Transcriptional regulator, Xre family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical transcriptional regulatory protein	ABR04825	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1534|HG243_04260   Guanine deaminase (EC 3.5.4.3)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical deaminase	ABR05187	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2849|HG243_13180   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06862	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2867|HG243_13275   toxin VapC39 @ Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06877	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1183|HG243_15035   Transcriptional regulator, MarR family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	putative transcriptional regulatory protein	ABQ74692	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.369|HG243_00125   WhiB family transcriptional regulator   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	transcriptional regulatory protein whib-like whiB5	ABR04365	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.709|HG243_11165   FIG00821698: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06498	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3811|HG243_07525   Protein translocase membrane subunit SecG   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	protein-export membrane protein	ABQ73192	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2049|HG243_02100   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical transmembrane protein	ABR04768	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2226|HG243_02950   toxin VapC26 @ Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR04936	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4129|HG243_09925   FIG00820307: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06278	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3401|HG243_12350   Transcriptional regulator in glycyl-tRNA synthetase containing cluster   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical transcriptional regulatory protein, arsR-family	ABR06713	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4018|HG243_09410   FIG00819992: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK46131	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3004|HG243_10775   F420-dependent enzyme Rv2061c   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06428	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2539|HG243_08215   toxin VapC11 @ Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05936	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3547|HG243_19215   Nucleoid-associated protein YaaK   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ75542	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2260|HG243_03115   toxin VapC29 @ Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR04971	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1439|HG243_10105   FIG00820712: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06311	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3275|HG243_08695   Possible membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	membrane protein	ACT25396	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1557|HG243_04375   Lipoprotein LpqS   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	putative lipoprotein LpqS	ABQ72585	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3582|HG243_19395   Excisionase   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical excisionase	ABR08107	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2756|HG243_10660   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK46383	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3535|HG243_19160   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved proline rich protein	ABR08062	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3296|HG243_08795   Lipoprotein LprJ, modulates kdpFABC expression via interacting with sensing domain of KdpD   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	lipoprotein lprJ	ABR06049	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2254|HG243_03085   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR04966	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3579|HG243_19380   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR08104	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1414|HG243_09975   FIG00827133: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06288	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2473|HG243_03360   antitoxin VapB7 @ Antitoxin to Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	DNA-binding protein, CopG family	AAK44916	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2887|HG243_13370   toxin VapC19 @ Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06895	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2888|HG243_13375   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06896	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2779|HG243_12825   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	putative conserved integral membrane protein	ABQ74242	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3721|HG243_07085   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05725	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3578|HG243_19375   PE family protein => PE34   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	PE family protein	AAK48218	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3515|HG243_19060   Anti-sigma F factor antagonist (spoIIAA-2); Anti-sigma B factor antagonist RsbV   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	anti-anti-sigma factor rsfB	ABR08043	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1832|HG243_00650   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR04466	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1833|HG243_00655   DNA-binding protein, CopG family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR04467	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.250|HG243_17480   ABC transporter, ATP-binding protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07721	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3144|HG243_05045   Repressor CsoR of the copZA operon   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05328	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3580|HG243_19385   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR08105	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3458   Integrase   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical integrase	ABR05416	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1583|HG243_13735   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06965	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3327|HG243_08940   FIG041522: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ73476	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3996|HG243_16230   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07473	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2556|HG243_06640   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK45569	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4218|HG243_11730   Acyl carrier protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	meromycolate extension acyl carrier protein acpM	ABR06604	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3988|HG243_16535   FIG046480: Hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07533	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2401|HG243_12090   DNA binding domain, excisionase family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical excisionase	ABR06663	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1372|HG243_17225   SECRETED PROTEIN ANTIGEN   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK47756	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3513|HG243_19055   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR08042	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2578|HG243_06745   FIG00823516: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABR05661	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2395|HG243_12060   FIG00820166: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved hypothetical protein	ACT24728	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4247|HG243_11875   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved transmembrane protein	ABR06630	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2127|HG243_02480   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR04844	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.116|HG243_18660   Hypothetical protein Rv3612c, component of Type VII secretion system ESX-1   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07969	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3913|HG243_05430   ESAT-6-like protein EsxK   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	conserved hypothetical protein	AAK45318	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2445|HG243_12295   FIG041762: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74137	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.799|HG243_20155   ESAT-6-like protein EsxD   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	hypothetical protein	BAH28219	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2814|HG243_13005   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74277	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3667|HG243_05980   Undecaprenyl diphosphate synthase (EC 2.5.1.31)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05449	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3999|HG243_09330   PE family protein => PE19, component of Type VII secretion system ESX-5   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PE family protein	ABR06158	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1658|HG243_14135   Uncharacterized protein Rv2708c   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07050	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.715|HG243_11200   FIG00823288: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06503	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3660|HG243_10875   FIG00822376: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	hypothetical protein	ACT24969	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.512|HG243_03805   Mobile element protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	transposase	ABR05098	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3883   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	hypothetical protein	BAH25332	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.119|HG243_18675   Secreted protein EspC, component of Type VII secretion system ESX-1   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07971	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3059|HG243_09235   FIG00822513: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR06139	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4104|HG243_09815   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical membrane protein	ABR06255	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1445|HG243_10140   toxin VapC14 @ VapC toxin protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06317	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.772|HG243_20025   Secreted protein EspF, component of Type VII secretion system ESX-1   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ75693	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3669   PE family protein => PE10   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PE family protein	ABR05451	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1881|HG243_06115   PE family protein => PE11   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	PE family protein	ABQ72918	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2151|HG243_02600   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical transmembrane protein	ABR04868	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3829|HG243_09310   PE family protein => PE18, component of Type VII secretion system ESX-5   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PE family protein	ABR06155	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.126|HG243_18710   PE family protein => PE32   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PE family protein	ABR07978	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3658|HG243_10870   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ73853	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4245|HG243_11865   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06628	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2763|HG243_12750   PE family protein => PE25   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PE family protein	ABR06786	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3145|HG243_05050   FIG00822349: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05329	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2608|HG243_18005   PE family protein => PE31   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PE family protein	ABR07837	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.676|HG243_11010   PE family protein => PE22   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	PE family protein	ABQ73883	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2027|HG243_16505   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR07525	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1535|HG243_04265   Mobile element protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	transposase	ABR05186	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4146|HG243_20530   ESAT-6-like protein EsxL   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	conserved hypothetical protein	AAK46713	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1736|HG243_12415   PE_PGRS family protein => PE_PGRS40   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	PE-PGRS family protein	ABR06725	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.798|HG243_20150   ESAT-6-like protein EsxC   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	esat-6 like protein EsxC	ABQ75718	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2400|HG243_12085   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74097	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2443|HG243_12285   ESAT-6-like protein EsxL   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	Esat-6 like protein esxN (Esat-6 like protein 5)	ABR06159	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.123|HG243_18695   ESAT-6-like protein EsxI   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	31211	AP010918	Mycobacterium bovis BCG str. Tokyo 172 DNA, complete genome.	Actinobacteridae	putative EsaT-6 like protein 1	BAH25358	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.758|HG243_19955   Copper resistance protein CopC   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical membrane protein	ABR08212	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.657|HG243_16985   hypothetical protein Rv3269   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07623	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2053|HG243_02120   FIG00821936: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	hypothetical protein	ACT23454	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2884|HG243_13355   antitoxin VapB18 @ Antitoxin to Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06892	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2379|HG243_04880   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ72682	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.593|HG243_16665   Putative ATP-binding protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein TB9.4	ABR07558	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3601|HG243_19495   FIG00821447: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR08126	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.912|HG243_07965   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ73276	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.517|HG243_03830   antitoxin VapB31 @ Antitoxin to Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK45012	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1048|HG243_14395   VapB21 protein (antitoxin to VapC21) / Antitoxin to Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR07098	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2192|HG243_02785   antitoxin vapB3 @ Antitoxin 1a   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ72280	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.69|HG243_18440   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ75391	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2110|HG243_02395   FIG00820770: hypothetical membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved transmembrane protein	ABR04827	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2258|HG243_03105   putative membrane protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK44868	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1109|HG243_14680   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR07149	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2240|HG243_03020   FIG044579: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR04951	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3243|HG243_08540   FIG00820127: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR05998	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2353|HG243_04750   FIG00821313: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ72657	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4038   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ73598	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2502|HG243_03495   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05046	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.674|HG243_11000   antitoxin VapB37 @ Antitoxin to Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06469	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1615|HG243_13915   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR07006	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3864|HG243_05210   FIG00822908: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05358	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3815   FIG00820605: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK45753	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2329|HG243_01970   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR04745	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1260|HG243_15400   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR07301	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3023|HG243_10400   Programmed cell death antitoxin YdcD   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	conserved hypothetical protein	ABQ73766	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2248|HG243_03055   FIG036639: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR04962	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2936|HG243_13605   antitoxin VapB40 @ Antitoxin to Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74395	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2803|HG243_12950   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK46844	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2511|HG243_08080   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05911	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3730|HG243_07130   FIG00821517: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved hypothetical protein	ACT25697	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4211|HG243_11690   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74019	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1491|HG243_10345   FIG00821477: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	PE-PGRS family protein	ABQ73756	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2478   Toxin   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05023	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2522|HG243_08130   FIG00823142: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05921	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2862|HG243_13250   antitoxin VapB17 @ Antitoxin to Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74324	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2259|HG243_03110   antitoxin VapB29 @ Antitoxin to Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	antitoxin	ACT23659	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3423|HG243_04995   antitoxin VapB9 @ Antitoxin 1   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ72700	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4105|HG243_09820   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06256	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4229|HG243_11790   Transcriptional regulator, AsnC family   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74038	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1306   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74812	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1444|HG243_10135   antitoxin VapB14 @ VapB protein (antitoxin to VapC)   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06316	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2314|HG243_01900   Dodecin, a flavin storage/sequestration protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	protein transport protein secE2	ABR04727	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2225|HG243_02945   antitoxin VapB26 @ Antitoxin to Toxin 1, PIN domain   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR04935	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3051|HG243_09195   Mobile element protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	transposase	ABR06132	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3583|HG243_19400   Integrase   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical integrase	ABR08108	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.716|HG243_11205   FIG00823257: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ73919	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1152|HG243_14880   [NiFe] hydrogenase nickel incorporation-associated protein HypB   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74660	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.505|HG243_03770   Thiamine pyrophosphate-requiring enzymes   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ72473	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3460   FIG00820025: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved hypothetical protein	ACT26014	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1753|HG243_12495   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74180	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3865|HG243_05215   FIG00821497: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	methyltransferase	ACT26080	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1025|HG243_14295   Uncharacterized membrane protein SCO5766   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74541	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.576|HG243_16585   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR07542	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.7|HG243_05110   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ72720	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.4255|HG243_11915   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74066	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3650|HG243_12730   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	OxyR protein	ACT24599	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1442|HG243_10125   FIG032435: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved hypothetical protein	ABR06314	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3174|HG243_12040   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical glycine rich protein	ABR06659	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3604   Transposase   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	transposase	ABR08129	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1171|HG243_14975   FIG00822496: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74678	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3466|HG243_18815   FIG00821200: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ75467	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1266|HG243_15430   FIG00820984: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved hypothetical protein	ACT24050	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3670|HG243_05995   1,4-beta-glucanase   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05452	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3176|HG243_12050   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK46654	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2477|HG243_03380   Antitoxin   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical membrane protein	ABR05022	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1697|HG243_06420   type II toxin-antitoxin system Phd/YefM family antitoxin   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05596	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1024|HG243_14290   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	conserved cysteine rich protein	ABR07078	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1371|HG243_17220   FIG00820553: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR07667	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3316|HG243_08885   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ73465	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2216   FIG00820669: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved hypothetical protein	ACT23611	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.412|HG243_00335   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved hypothetical protein	ACT23085	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.190|HG243_00990   FIG00821308: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK44416	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3924   FIG00821293: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05511	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2716|HG243_04635   POSSIBLE MEMBRANE PROTEIN   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	putative membrane protein	ABQ72639	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2046|HG243_02085   DUF2752 domain-containing protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved hypothetical protein	ACT23447	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.1963|HG243_19900   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK48320	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2703   FIG00821835: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	hypothetical protein	ABR05249	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2785|HG243_12855   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ74248	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.519|HG243_03840   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	18883	CP000611	Mycobacterium tuberculosis H37Ra, complete genome.	Actinobacteridae	hypothetical protein	ABQ72486	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.787   FIG00822139: hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK48362	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.2156   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	223	AE000516	Mycobacterium tuberculosis CDC1551, complete genome.	Actinobacteridae	hypothetical protein	AAK44763	Yes	100.0
+
+#input_seq:	fig|78331.108.peg.3330   hypothetical protein   [Mycobacterium canettii strain NLA000701671 | 78331.108]
+#matched_seq:	21055	CP001658	Mycobacterium tuberculosis KZN 1435, complete genome.	Actinobacteridae	conserved hypothetical protein	ACT25347	Yes	100.0
+

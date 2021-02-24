@@ -1,0 +1,290 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_03_02_2021_182434_745859_input.fsa
+Sequences ::	 2343
+Total bpp ::	 685178
+Longest seq ::	 5945
+Shortest seq ::	 19
+Avg seq lenght ::	 292.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	512.837
+Probability of being human pathogen ::	0.952
+Matches::	90
+Genome Coverage (%) ::	3.84
+Pathogenic Families Matched ::	90
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1282.3805.peg.1215|HC656_03075   Nitric oxide reductase activation protein NorD   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	conserved hypothetical protein	AAW54318	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.132|HC656_00650   Efflux ABC transporter, permease/ATP-binding protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	ABC transporter, ATP-binding/permease protein	AAW53658	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2205|HC656_07785   Anaerobic C4-dicarboxylate transporter   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	anaerobic dicarboxylate transport	AAO05812	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1564|HC656_04765   Processive diacylglycerol beta-glucosyltransferase (EC 2.4.1.315)   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	cell wall synthesis protein	AAO04314	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1482|HC656_04360   Cytochrome aa3-600 menaquinol oxidase subunit II   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	quinol oxidase polypeptide II QoxA	AAO04356	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1991|HC656_06760   Homoserine O-acetyltransferase (EC 2.3.1.31)   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	putative homoserine-o-acetyltransferase	AAO03608	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.101|HC656_00500   Iron(III) dicitrate transport system permease protein FecD (TC 3.A.1.14.1)   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	iron compound ABC transporter, permease protein	AAW53693	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2226|HC656_07890   Transcriptional regulator of alpha-acetolactate operon AlsR   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	transcription regulator	AAO05788	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.950|HC656_02050   Predicted ring-cleavage extradiol dioxygenase   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	glyoxalase family protein	AAW54155	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.943|HC656_02015   FIG00003370: Multicopper polyphenol oxidase   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	conserved hypothetical protein TIGR00726	AAW54140	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.107|HC656_00525   hypothetical esterase/lipase [EC:3.1.-.-]   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	hydrolase, alpha/beta hydrolase fold family	AAW53708	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1652|HC656_05175   Secretory antigen precursor SsaA   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	ssaA protein	AAO05513	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.102|HC656_00505   L-2-haloalkanoic acid dehalogenase   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	hydrolase, haloacid dehalogenase-like family	AAW53694	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.106|HC656_00520   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	conserved hypothetical protein	AAW53707	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1171|HC656_11340   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	16313	CP000255	Staphylococcus aureus subsp. aureus USA30	Bacillales	PR3757, complete genome.	ABD20386	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2160|HC656_07580   Transcriptional regulator ArcR essential for anaerobic expression of the ADI pathway, Crp/Fnr family   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	transcription regulator Crp/Fnr family protein	AAO05856	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.931|HC656_01955   Pyrimidine 5'-nucleotidase YjjG (EC 3.1.3.5)   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	hydrolase, haloacid dehalogenase-like family	AAW54120	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.948|HC656_02040   Cell division initiation protein DivIVA   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	cell-division initiation protein, putative	AAW54152	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1140|HC656_02965   Phosphate transport system regulatory protein PhoU   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	phosphate transport system regulatory protein PhoU, putative	AAW54367	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.945|HC656_02025   SepF, FtsZ-interacting protein related to cell division   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	ylmF protein	AAW54142	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.325|HC656_01595   Mobile element protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	transposase	AAO03698	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1552|HC656_04705   Competence transcription factor   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	competence transcription factor	AAO04328	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.916|HC656_01875   Colicin V production protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	bacteriocin production protein, putative	AAW54091	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.140|HC656_00690   Acetyltransferase, GNAT family   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04022	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.971|HC656_02150   Peptide deformylase (EC 3.5.1.88)   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	putative polypeptide deformylase	AAO04487	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.193|HC656_00950   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	conserved hypothetical protein	AAW53778	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2027|HC656_06935   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO06034	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1805|HC656_05910   Transcriptional regulator SarZ (Staphylococcal accessory regulator Z)   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	transcriptional regulator	AAO05608	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2247|HC656_11620   Universal stress protein family   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	universal stress protein family, putative	AAW53060	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.84|HC656_00420   hypothetical fig|282458.1.peg.572 homolog   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO03963	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1493|HC656_04410   Transcriptional regulator, MarR family   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	ATL autolysin transcription regulator	AAO04346	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.652|HC656_10165   Hypothetical protein SAV2140   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05338	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.936|HC656_01980   Cell division protein FtsL   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	cell division protein FtsL	AAW54125	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1602|HC656_04945   Uncharacterized protein UPF0344   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04263	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1629|HC656_05080   1,4-dihydroxy-2-naphthoyl-CoA hydrolase (EC 3.1.2.28) in menaquinone biosynthesis   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04235	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2271|HC656_08115   Hypothetical protein SAV1839   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05118	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1049|HC656_02540   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04569	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1807|HC656_05920   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05606	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.64|HC656_00320   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO03944	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2010|HC656_06850   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO06055	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.519|HC656_09520   Transcriptional regulator SarV (Staphylococcal accessory regulator V)   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05481	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.545|HC656_09650   Transcriptional regulator SarR (Staphylococcal accessory regulator R)   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	sarR protein	AAO05509	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.82|HC656_00410   DUF1450 superfamily protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO03961	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1138|HC656_02955   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	conserved hypothetical protein	AAW54365	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.512|HC656_09490   Hypothetical protein SAV2260   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05474	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1481|HC656_04355   Chitinase B   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	chitinase B	AAO04357	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.118|HC656_00580   Na(+) H(+) antiporter subunit F   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	Na+/H+ antiporter	AAO03999	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1047|HC656_02530   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04567	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.287|HC656_01420   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04177	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1211|HC656_03055   Acylphosphate phosphohydrolase (EC 3.6.1.7)   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	putative acylphosphatase	AAO04684	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.443|HC656_09150   Hypothetical protein SAV2173   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05404	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1245|HC656_03225   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04721	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.65|HC656_00325   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	conserved hypothetical protein	AAW53602	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.903|HC656_01810   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04418	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.454|HC656_09205   Hypothetical protein SAV2183   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05416	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.429|HC656_09080   Acetolactate synthase small subunit (EC 2.2.1.6)   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	acetolactate synthase small subunit	AAO05255	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2028|HC656_06940   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO06033	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1553|HC656_04710   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04326	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1335|HC656_03665   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04815	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2211|HC656_07815   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	conserved hypothetical protein	AAW52967	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2302|HC656_08300   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05043	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.962|HC656_02110   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	conserved hypothetical protein	AAW54183	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.112|HC656_00550   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO03993	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.202|HC656_00995   FIG025881: hypothetical protein in Ammonia conversion cluster   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04088	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.970|HC656_02145   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04486	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1737|HC656_05575   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05679	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.890|HC656_01745   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04403	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2045|HC656_07025   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO06017	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1078|HC656_02670   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04600	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1917|HC656_06435   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	hypothetical protein	AAO03748	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.19|HC656_00095   Protein translocase subunit SecE   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	preprotein translocase subunit	AAO03895	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.66|HC656_00330   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	conserved hypothetical protein	AAW53604	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1219|HC656_03095   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	hypothetical protein	AAO04692	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2140|HC656_07485   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	hypothetical protein	AAO05876	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.717|HC656_10490   Programmed cell death antitoxin YdcD   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05272	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2150|HC656_07535   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05866	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.309|HC656_01520   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	hypothetical protein	AAW53860	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.342|HC656_08655   Hypothetical protein FIG009695   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05160	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.67|HC656_00335   Mobile element protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	IS1272-like transposase, degenerate	AAW53605	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.707|HC656_10440   Hypothetical protein SAV2085   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	conserved hypothetical protein	AAW55062	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.929|HC656_01945   phenol soluble modulin beta 1/beta 2   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	phenol soluble modulin beta 1/beta 2	AAO04445	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2148|HC656_07525   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	hemolysin, putative	AAW53110	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.861   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO04374	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.928|HC656_01940   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	phenol soluble modulin beta 1	AAW54110	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1780|HC656_05790   Uncharacterized protein EF_3205   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05635	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1129   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	hypothetical protein	AAO04653	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2174|HC656_07640   Doubtful CDS   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	conserved hypothetical protein	AAO05842	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.1311|HC656_03550   stressosome-associated protein Prli42   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	hypothetical protein	AAW54439	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.407|HC656_08975   delta-hemolysin   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	279	AE015929	Staphylococcus epidermidis ATCC 12228, complete genome.	Bacillales	delta-haemolysin	AAO05233	Yes	100.0
+
+#input_seq:	fig|1282.3805.peg.2087|HC656_07210   hypothetical protein   [Staphylococcus epidermidis strain JH | 1282.3805]
+#matched_seq:	64	CP000029	Staphylococcus epidermidis RP62A, complete genome.	Bacillales	phenol soluble modulin alpha	AAW55287	Yes	100.0
+

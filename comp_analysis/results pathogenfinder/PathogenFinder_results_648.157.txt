@@ -1,0 +1,95 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_140635_582252_input.fsa
+Sequences ::	 4563
+Total bpp ::	 1290192
+Longest seq ::	 2096
+Shortest seq ::	 20
+Avg seq lenght ::	 282.0
+
+RESULTS:
+Min Identity Threshold ::	91.974
+Z-THRESHOLD ::	3.0
+Prediction Score ::	23.768
+Probability of being human pathogen ::	0.578
+Matches::	25
+Genome Coverage (%) ::	0.55
+Pathogenic Families Matched ::	14
+Non-Pathogenic Families Matched ::	11
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|648.157.peg.2309|GR302_21430   Transposase / Integrase   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16723	CP000646	Aeromonas salmonicida subsp. salmonicida A449 plasmid 5, complete sequence.	Gammaproteobacteria	transposase subunit 1	ABO92564	No	96.89
+
+#input_seq:	fig|648.157.peg.1035|GR302_04475   Glutamate decarboxylase   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Gammaproteobacteria	decarboxylase, group II	ABK36070	Yes	94.97
+
+#input_seq:	fig|648.157.peg.2605|GR302_21765   Na+ dependent nucleoside transporter NupC   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Gammaproteobacteria	nucleoside permease NupC	ABK37802	Yes	96.59
+
+#input_seq:	fig|648.157.peg.2148|GR302_06565   ATP-dependent RNA helicase VVA0939   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	Gammaproteobacteria	ATP-dependent RNA helicase, DEAD box family	ABO89740	No	92.58
+
+#input_seq:	fig|648.157.peg.1465|GR302_19525   Mobile element protein   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	transposase InsC3 for insertion sequence ISEc9	ABO41047	Yes	100.0
+
+#input_seq:	fig|648.157.peg.3432|GR302_10820   Response regulator c-di-GMP phosphodiesterase, RpfG family   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Gammaproteobacteria	regulatory components of sensory transduction system	ABK39902	Yes	99.2
+
+#input_seq:	fig|648.157.peg.4370|GR302_14385   Uncharacterized MFS-type transporter YtbD   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	Gammaproteobacteria	major facilitator family transporter	ABO90737	No	94.09
+
+#input_seq:	fig|648.157.peg.1980|GR302_20830   Permease of the drug/metabolite transporter (DMT) superfamily   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Gammaproteobacteria	transporter, 10 TMS drug/metabolite exporter (DME) family	ABK39443	Yes	93.27
+
+#input_seq:	fig|648.157.peg.658|GR302_16930   L,D-transpeptidase => YbiS   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Gammaproteobacteria	LysM domain protein	ABK37531	Yes	94.16
+
+#input_seq:	fig|648.157.peg.1353|GR302_19205   Ferrochelatase, protoheme ferro-lyase (EC 4.99.1.1)   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Gammaproteobacteria	ferrochelatase	ABK38925	Yes	92.9
+
+#input_seq:	fig|648.157.peg.4012|GR302_12965   Mobile element protein   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	Gammaproteobacteria	transposase	ABO89649	No	100.0
+
+#input_seq:	fig|648.157.peg.4140|GR302_02730   Lysine-arginine-ornithine-binding ABC transporter, substrate-binding protein ArgT (TC 3.A.1.3.1)   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	Gammaproteobacteria	ABC-type amino acid transporter, periplasmic binding protein	ABO90448	No	94.14
+
+#input_seq:	fig|648.157.peg.1883|GR302_20585   ATP-binding protein   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	Gammaproteobacteria	transposase subunit 2	ABO89414	No	98.08
+
+#input_seq:	fig|648.157.peg.103|GR302_00505   Transporter, LysE family   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Gammaproteobacteria	transporter, LysE family	ABK37477	Yes	92.61
+
+#input_seq:	fig|648.157.peg.1782|GR302_20285   ABC-type antimicrobial peptide transport system, ATPase component   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	Gammaproteobacteria	ABC-type antimicrobial peptide transporter, ATP binding protein	ABO91481	No	92.54
+
+#input_seq:	fig|648.157.peg.2656|GR302_07935   Phospholipid ABC transporter shuttle protein MlaC   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	Gammaproteobacteria	toluene tolerance protein Ttg2D	ABO88490	No	92.86
+
+#input_seq:	fig|648.157.peg.2045|GR302_20905   Aminoglycoside N(6')-acetyltransferase (EC 2.3.1.82) => AAC(6')-Ib/AAC(6')-II   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	17827	CP000863	Acinetobacter baumannii ACICU, complete genome.	Gammaproteobacteria	aminoglycoside 6'-N-acetyl transferase type Ib	ACC55535	Yes	100.0
+
+#input_seq:	fig|648.157.peg.3230|GR302_10165   Bacterial non-heme ferritin (EC 1.16.3.2)   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Gammaproteobacteria	ferritin	ABK37728	Yes	98.28
+
+#input_seq:	fig|648.157.peg.3992|GR302_12870   Mobile element protein   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	transposon Tn3 resolvase	AAX87127	Yes	98.38
+
+#input_seq:	fig|648.157.peg.218|GR302_15355   Proteinase inhibitor I11, ecotin precursor   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Gammaproteobacteria	ecotin	ABK39862	Yes	93.12
+
+#input_seq:	fig|648.157.peg.4078|GR302_13265   CopG protein   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	Gammaproteobacteria	predicted metal-binding protein	ABO91934	No	92.31
+
+#input_seq:	fig|648.157.peg.4576|GR302_15040   NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	Gammaproteobacteria	NADH dehydrogenase I, A subunit	ABO89816	No	92.54
+
+#input_seq:	fig|648.157.peg.531|GR302_16560   Uncharacterized protein SO_0334   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABK37077	Yes	95.59
+
+#input_seq:	fig|648.157.peg.3970|GR302_12765   XapX-like protein   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16723	CP000644	Aeromonas salmonicida subsp. salmonicida A449, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABO91617	No	96.43
+
+#input_seq:	fig|648.157.peg.2079|GR302_06375   hypothetical protein   [Aeromonas caviae strain ScAc2001 | 648.157]
+#matched_seq:	16697	CP000462	Aeromonas hydrophila subsp. hydrophila ATCC 7966, complete genome.	Gammaproteobacteria	thr operon leader peptide	ABK36847	Yes	100.0
+

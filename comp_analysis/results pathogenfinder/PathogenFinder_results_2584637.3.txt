@@ -1,0 +1,35 @@
+INPUT SEQUENCE INFO:
+Input Name ::	5_11_12_2020_084217_216331_input.fsa
+Sequences ::	 2951
+Total bpp ::	 896181
+Longest seq ::	 2733
+Shortest seq ::	 21
+Avg seq lenght ::	 303.0
+
+RESULTS:
+Min Identity Threshold ::	81.183
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-4.151
+Probability of being human pathogen ::	0.341
+Matches::	5
+Genome Coverage (%) ::	0.17
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	4
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2584637.3.peg.2603   Mobile element protein   [Dorea sp. BIOML-A1 | 2584637.3]
+#matched_seq:	12637	CP000721	Clostridium beijerinckii NCIMB 8052, complete genome.	Clostridia	transposase	ABR33651	No	85.45
+
+#input_seq:	fig|2584637.3.peg.2843|GT508_05105   LSU ribosomal protein L14p (L23e)   [Dorea sp. BIOML-A1 | 2584637.3]
+#matched_seq:	38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Actinobacteridae	ribosomal protein L14	BAI64321	Yes	83.61
+
+#input_seq:	fig|2584637.3.peg.2863|GT508_05205   LSU ribosomal protein L17p   [Dorea sp. BIOML-A1 | 2584637.3]
+#matched_seq:	16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	Clostridia	ribosomal protein L17	ABX43985	No	84.83
+
+#input_seq:	fig|2584637.3.peg.1432|GT508_01340   hypothetical protein   [Dorea sp. BIOML-A1 | 2584637.3]
+#matched_seq:	42097	CP002109	Clostridium saccharolyticum WM1, complete genome.	Clostridia	Phosphotransferase system, phosphocarrier protein HPr	ADL03509	No	81.82
+
+#input_seq:	fig|2584637.3.peg.2858|GT508_05180   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Dorea sp. BIOML-A1 | 2584637.3]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	89.19
+

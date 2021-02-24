@@ -1,0 +1,125 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_193355_333114_input.fsa
+Sequences ::	 5424
+Total bpp ::	 1640079
+Longest seq ::	 4235
+Shortest seq ::	 14
+Avg seq lenght ::	 302.0
+
+RESULTS:
+Min Identity Threshold ::	93.02
+Z-THRESHOLD ::	3.0
+Prediction Score ::	77.826
+Probability of being human pathogen ::	0.703
+Matches::	35
+Genome Coverage (%) ::	0.65
+Pathogenic Families Matched ::	25
+Non-Pathogenic Families Matched ::	10
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|54291.261.peg.2293|GOX96_22760   Uncharacterized dehydratase YagF   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	CP4-6 prophage; predicted dehydratase	ACB01436	No	93.13
+
+#input_seq:	fig|54291.261.peg.1079|GOX96_20575   PTS system, maltose-specific IIC component / PTS system, maltose-specific IIB component (EC 2.7.1.208)   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative alpha-glucoside-specific PTS family enzyme IIBC component	BAH65874	Yes	95.19
+
+#input_seq:	fig|54291.261.peg.1230|GOX96_21300   NAD kinase (EC 2.7.1.23)   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017	Yes	93.84
+
+#input_seq:	fig|54291.261.peg.2165|GOX96_22125   Maltodextrin ABC transporter, substrate-binding protein MdxE   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	ABC superfamily (bin	AAX68014	Yes	93.94
+
+#input_seq:	fig|54291.261.peg.2110|GOX96_21875   Proton/glutamate symporter @ Proton/aspartate symporter   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14881	Yes	94.74
+
+#input_seq:	fig|54291.261.peg.580|GOX96_18165   Peptidase B (EC 3.4.11.23)   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	aminopeptidase B	BAH64649	Yes	93.46
+
+#input_seq:	fig|54291.261.peg.5378|GOX96_15105   Phage portal protein   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	phage portal protein, HK97 family	ACI10369	No	99.28
+
+#input_seq:	fig|54291.261.peg.926|GOX96_19860   Na+ dependent nucleoside transporter NupC   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	nucleoside permease	BAH64544	Yes	98.0
+
+#input_seq:	fig|54291.261.peg.177|GOX96_16235   Galactokinase (EC 2.7.1.6)   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	galactokinase	ACI06895	No	93.72
+
+#input_seq:	fig|54291.261.peg.257|GOX96_16620   L,D-transpeptidase => YbiS   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH62542	Yes	94.08
+
+#input_seq:	fig|54291.261.peg.2259|GOX96_22585   Malate dehydrogenase (EC 1.1.1.37)   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	malate dehydrogenase	ABE09111	Yes	93.91
+
+#input_seq:	fig|54291.261.peg.5179|GOX96_14175   ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV11918	Yes	93.98
+
+#input_seq:	fig|54291.261.peg.18|GOX96_15445   Formate efflux transporter FocA   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	putative FNT family, formate transporter (formate channel 1)	AAX64834	Yes	94.39
+
+#input_seq:	fig|54291.261.peg.3847|GOX96_07900   SSU ribosomal protein S2p (SAe)   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	97.1
+
+#input_seq:	fig|54291.261.peg.1341|GOX96_21845   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	95.26
+
+#input_seq:	fig|54291.261.peg.2900|GOX96_04460   ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	amino acid ABC transporter, periplasmic amino acid-binding protein	ACI10773	No	95.76
+
+#input_seq:	fig|54291.261.peg.2465|GOX96_23590   3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85)   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741	No	94.44
+
+#input_seq:	fig|54291.261.peg.1231|GOX96_21305   Heat shock protein GrpE   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV15009	Yes	93.37
+
+#input_seq:	fig|54291.261.peg.61|GOX96_15655   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	97.67
+
+#input_seq:	fig|54291.261.peg.3499   hypothetical protein   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	32509	AP010955	Escherichia coli O26:H11 str. 11368 plasmid pO2	Gammaproteobacteria	DNA, complete sequence.	BAI28870	Yes	100.0
+
+#input_seq:	fig|54291.261.peg.1058|GOX96_20485   Hexose-phosphate uptake two-component transcriptional response regulator UhpA   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV11187	Yes	93.4
+
+#input_seq:	fig|54291.261.peg.3887|GOX96_26050   IS1 protein InsB   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	IS1 ORF	AAZ90985	Yes	93.6
+
+#input_seq:	fig|54291.261.peg.3516|GOX96_25895   Phage integrase, site-specific serine recombinase   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	transposon Tn3 resolvase	AAX87127	Yes	100.0
+
+#input_seq:	fig|54291.261.peg.3527   Translation elongation factor Tu   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Gammaproteobacteria	elongation factor Tu	ACX82119	Yes	97.3
+
+#input_seq:	fig|54291.261.peg.1867|GOX96_02470   hypothetical protein   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR76855	Yes	97.27
+
+#input_seq:	fig|54291.261.peg.3406|GOX96_25375   Heat shock protein 10 kDa family chaperone GroES   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	co-chaperonin GroES	ACN48531	Yes	96.91
+
+#input_seq:	fig|54291.261.peg.4171|GOX96_26120   DNA packaging protein   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Gammaproteobacteria	putative DNA packaging protein of prophage CP-933X	AAG55986	Yes	100.0
+
+#input_seq:	fig|54291.261.peg.3493|GOX96_25795   Programmed cell death toxin PemK   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	19469	CP000971	Escherichia coli SMS-3-5 plasmid pSMS3	Gammaproteobacteria	30, complete sequence.	ACB20307	No	96.36
+
+#input_seq:	fig|54291.261.peg.5384|GOX96_15135   Phage-associated homing endonuclease   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	HNH endonuclease domain protein	ACI11481	No	95.0
+
+#input_seq:	fig|54291.261.peg.489|GOX96_17715   Integration host factor alpha subunit   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881	No	94.95
+
+#input_seq:	fig|54291.261.peg.2617   hypothetical protein   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Gammaproteobacteria	hypothetical protein	ABX20171	Yes	93.33
+
+#input_seq:	fig|54291.261.peg.3494|GOX96_25800   Programmed cell death antitoxin PemI   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	19469	CP000971	Escherichia coli SMS-3-5 plasmid pSMS3	Gammaproteobacteria	30, complete sequence.	ACB20363	No	96.47
+
+#input_seq:	fig|54291.261.peg.3072|GOX96_05270   Haemolysin expression modulating protein   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893	Yes	97.22
+
+#input_seq:	fig|54291.261.peg.1897|GOX96_02595   hypothetical protein   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR76825	Yes	98.8
+
+#input_seq:	fig|54291.261.peg.3027|GOX96_05045   Uncharacterized S4 RNA-binding-domain protein YbcJ   [Raoultella ornithinolytica strain Z&Z370 | 54291.261]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	putative cytoplasmic protein	AAX64486	Yes	94.29
+

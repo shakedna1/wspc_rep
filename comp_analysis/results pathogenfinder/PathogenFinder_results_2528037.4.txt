@@ -1,0 +1,44 @@
+INPUT SEQUENCE INFO:
+Input Name ::	5_11_12_2020_075955_972836_input.fsa
+Sequences ::	 2266
+Total bpp ::	 541164
+Longest seq ::	 1824
+Shortest seq ::	 20
+Avg seq lenght ::	 238.0
+
+RESULTS:
+Min Identity Threshold ::	84.012
+Z-THRESHOLD ::	3.0
+Prediction Score ::	24.059
+Probability of being human pathogen ::	0.851
+Matches::	8
+Genome Coverage (%) ::	0.35
+Pathogenic Families Matched ::	8
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2528037.4.peg.1033   Methionyl-tRNA synthetase (EC 6.1.1.10)   [Eikenella exigua strain EI_02 | 2528037.4]
+#matched_seq:	16393	CP000381	Neisseria meningitidis 053442, complete genome.	Betaproteobacteria	methionyl-tRNA synthetase	ABX72261	Yes	92.89
+
+#input_seq:	fig|2528037.4.peg.1151   Cysteinyl-tRNA synthetase (EC 6.1.1.16)   [Eikenella exigua strain EI_02 | 2528037.4]
+#matched_seq:	255	AM421808	Neisseria meningitidis serogroup C FAM18 complete genome.	Betaproteobacteria	cysteinyl-tRNA synthetase	CAM11217	Yes	87.81
+
+#input_seq:	fig|2528037.4.peg.1693   Mobile element protein   [Eikenella exigua strain EI_02 | 2528037.4]
+#matched_seq:	16393	CP000381	Neisseria meningitidis 053442, complete genome.	Betaproteobacteria	insertion element IS1016 transposase	ABX72447	Yes	85.53
+
+#input_seq:	fig|2528037.4.peg.1956   NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)   [Eikenella exigua strain EI_02 | 2528037.4]
+#matched_seq:	16393	CP000381	Neisseria meningitidis 053442, complete genome.	Betaproteobacteria	conserved hypothetical protein	ABX73966	Yes	85.9
+
+#input_seq:	fig|2528037.4.peg.1017   LSU ribosomal protein L14p (L23e)   [Eikenella exigua strain EI_02 | 2528037.4]
+#matched_seq:	13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647	Yes	84.51
+
+#input_seq:	fig|2528037.4.peg.1489   Aspartate 1-decarboxylase (EC 4.1.1.11)   [Eikenella exigua strain EI_02 | 2528037.4]
+#matched_seq:	16393	CP000381	Neisseria meningitidis 053442, complete genome.	Betaproteobacteria	aspartate 1-decarboxylase	ABX73369	Yes	84.25
+
+#input_seq:	fig|2528037.4.peg.1661   LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent   [Eikenella exigua strain EI_02 | 2528037.4]
+#matched_seq:	13946	CP000548	Burkholderia mallei NCTC 10247 chromosome I, complete sequence.	Betaproteobacteria	50S ribosomal protein L28	ABO05945	Yes	92.21
+
+#input_seq:	fig|2528037.4.peg.1168   LSU ribosomal protein L35p   [Eikenella exigua strain EI_02 | 2528037.4]
+#matched_seq:	16393	CP000381	Neisseria meningitidis 053442, complete genome.	Betaproteobacteria	50S ribosomal protein L35	ABX72877	Yes	92.31
+

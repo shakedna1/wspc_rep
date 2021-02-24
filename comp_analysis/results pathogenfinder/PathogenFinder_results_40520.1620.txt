@@ -1,0 +1,35 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_173351_581315_input.fsa
+Sequences ::	 3303
+Total bpp ::	 1013290
+Longest seq ::	 2594
+Shortest seq ::	 22
+Avg seq lenght ::	 306.0
+
+RESULTS:
+Min Identity Threshold ::	80.94
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-4.76
+Probability of being human pathogen ::	0.333
+Matches::	5
+Genome Coverage (%) ::	0.15
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	4
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|40520.1620.peg.1470|GT671_15630   Magnesium and cobalt transport protein CorA   [Blautia obeum strain BIOML-A1 | 40520.1620]
+#matched_seq:	317	CP000411	Oenococcus oeni PSU-1, complete genome.	Lactobacillales	Mg2+ and Co2+ transporter	ABJ56329	No	89.24
+
+#input_seq:	fig|40520.1620.peg.393|GT671_12915   LSU ribosomal protein L14p (L23e)   [Blautia obeum strain BIOML-A1 | 40520.1620]
+#matched_seq:	38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Actinobacteridae	ribosomal protein L14	BAI64321	Yes	83.61
+
+#input_seq:	fig|40520.1620.peg.2891|GT671_08880   Glycerol-3-phosphate cytidylyltransferase (EC 2.7.7.39)   [Blautia obeum strain BIOML-A1 | 40520.1620]
+#matched_seq:	16871	CR954253	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 complete genome.	Lactobacillales	EpsIIN, Glycerol-3-phosphate cytidylyltransferase	CAI98675	No	83.82
+
+#input_seq:	fig|40520.1620.peg.1463|GT671_15600   Molecular chaperone (small heat shock protein)   [Blautia obeum strain BIOML-A1 | 40520.1620]
+#matched_seq:	13773	CP000421	Streptococcus thermophilus LMD-9 plasmid 2, complete sequence.	Lactobacillales	heat shock protein Hsp20	ABJ67110	No	88.03
+
+#input_seq:	fig|40520.1620.peg.407|GT671_12985   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Blautia obeum strain BIOML-A1 | 40520.1620]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	86.49
+

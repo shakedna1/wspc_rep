@@ -1,0 +1,509 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_154752_804631_input.fsa
+Sequences ::	 2261
+Total bpp ::	 609092
+Longest seq ::	 2233
+Shortest seq ::	 29
+Avg seq lenght ::	 269.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	595.621
+Probability of being human pathogen ::	0.898
+Matches::	163
+Genome Coverage (%) ::	7.21
+Pathogenic Families Matched ::	163
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1313.20171.peg.1510|SAMEA4732931_01471   IgA-specific metalloendopeptidase (EC 3.4.24.13)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	immunoglobulin A1 protease precursor	ABJ54639	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.690|SAMEA4732931_00662   Cell wall surface anchor family protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	cell wall surface anchor family protein	ABJ53732	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.255|SAMEA4732931_00243   Type II restriction endonuclease   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	putative type II restriction endonuclease	AAK75328	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1194|SAMEA4732931_01152   Transcription antiterminator, BglG family   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	putative transcription antiterminator BglG family protein	ACO23498	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1968|SAMEA4732931_01901   PTS system, cellobiose-specific IIC component   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	PTS system, IIC component	ACO23499	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.724|SAMEA4732931_00692   Xylose repressor protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	putative regulator	AAK74632	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1883|SAMEA4732931_01820   putative transposon integrase; Tn916 ORF3-like   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	Tn916, transposase	ABP89883	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1735|SAMEA4732931_01681   Cell division protein FtsW   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	membrane protein, putative	ACA35614	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2103   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Lactobacillales	IS1239, transposase	ACF55260	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.290|SAMEA4732931_00278   2-isopropylmalate synthase (EC 2.3.3.13)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	putative 2-isopropylmalate synthase	AAK75362	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.248|SAMEA4732931_00236   O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) @ O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	O-acetylhomoserine (thiol)-lyase (O-acetylhomoserinesulfhydrylase) (OAH sulfhydrylase) (Homocysteine synthase)	ACO16694	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2027|SAMEA4732931_01954   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA36037	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1617|SAMEA4732931_01574   ABC transporter, permease protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	efflux ABC transporter, permease protein	ACO22236	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1131|SAMEA4732931_01092   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	ABC-type sugar transport systems, permease component, putative	ACO17141	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.660|SAMEA4732931_00635   ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	amino acid ABC transporter, periplasmic amino acid-binding protein, putative	ACB89360	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1838|SAMEA4732931_01780   ABC transporter, predicted N-acetylneuraminate transport system permease protein 1   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	sugar ABC transporter, permease protein	ABJ55050	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1043   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	transposase	ACO22706	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1132|SAMEA4732931_01093   Multiple sugar ABC transporter, membrane-spanning permease protein MsmG   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	sugar ABC transporter permease	ACB91384	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.508|SAMEA4732931_00491   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	hypothetical protein	ACA37401	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.359|SAMEA4732931_00346   Sialic acid utilization regulator, RpiR family   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	transcriptional regulator, RpiR family	ACO18889	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.922   FIG01116881: hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	putative phage-associated protein	ACB90270	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.617|SAMEA4732931_00596   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	conserved domain protein	AAK74325	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1754|SAMEA4732931_01698   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	membrane protein, putative	ABJ54591	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1016|SAMEA4732931_00977   Replication protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28041	CP000920	Streptococcus pneumoniae P1031, complete genome.	Lactobacillales	phage protein	ACO22194	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.984|SAMEA4732931_00946   Dephospho-CoA kinase (EC 2.7.1.24)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	dephospho-CoA kinase	ACB90199	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.910|SAMEA4732931_00874   FIG01116964: hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	hypothetical protein	ACO17570	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.520|SAMEA4732931_00502   Ferric iron ABC transporter, iron-binding protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Lactobacillales	iron ABC transporter, iron-binding protein	ACF55041	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1586|SAMEA4732931_01545   Methylase involved in ubiquinone/menaquinone biosynthesis   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	methyltransferase small domain superfamily	ACO23256	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.805|SAMEA4732931_00771   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	shikimate kinase	ACA37392	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.41|SAMEA4732931_00041   Fucolectin-related protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Lactobacillales	conserved hypothetical protein, point mutation	ACF56740	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.628|SAMEA4732931_00607   Exopolysaccharide biosynthesis glycosyltransferase EpsF (EC 2.4.1.-)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	hypothetical protein	ACB89387	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1477|SAMEA4732931_01441   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	conserved hypothetical protein	ACO19067	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.568|SAMEA4732931_00550   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Lactobacillales	conserved hypothetical protein	ACF55524	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.233|SAMEA4732931_00224   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	transposase	ACO18477	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2062   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	transposase	ACO17933	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.242   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	degenerate transposase	ACB89613	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.40|SAMEA4732931_00040   Thiol-activated cytolysin; Streptolysin O   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	hemolysin-related protein	ABJ55272	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.62|SAMEA4732931_00062   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	transposase family protein	AAK74947	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1539|SAMEA4732931_01499   Tn916, hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	hypothetical protein	ABP89893	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1732|SAMEA4732931_01678   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	hypothetical protein	ACA37470	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.938|SAMEA4732931_00901   Spermine/spermidine acetyltransferase   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	acetyltransferase, GNAT family	AAK75134	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1880|SAMEA4732931_01817   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	Tn916, hypothetical protein	AAM99805	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.691   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	hypothetical protein	ACB90175	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1470|SAMEA4732931_01435   Transcriptional regulator, MarR family   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	putative transcriptional regulator	AAK75847	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1356|SAMEA4732931_01327   DpnD protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54160	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.833|SAMEA4732931_00800   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74748	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1445|SAMEA4732931_01410   Putative membrane-spanning protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	membrane protein, putative	ABJ54830	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1086   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	transposase	ACO17063	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.911|SAMEA4732931_00875   Acetyltransferase, GNAT family, putative   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	aminoglycoside 6'-N-acetyltransferase	ACA37453	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1195|SAMEA4732931_01153   PTS system, nitrogen regulatory component IIA, putative   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	putative PTS system, nitrogen regulatory component IIA	AAK75701	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.659|SAMEA4732931_00634   Argininosuccinate synthase (EC 6.3.4.5)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	argininosuccinate synthase, truncation	ABC75801	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1806|SAMEA4732931_01749   IS1380-Spn1, transposase   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	transposase, IS1380-Spn1 related, truncation	ACO18380	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.686   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	IS630-Spn1, transposase Orf1	AAK75258	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2033|SAMEA4732931_01960   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK75992	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2236|SAMEA4732931_02143   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK75011	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.42|SAMEA4732931_00042   Fucolectin-related protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	hypothetical protein	ACO22540	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.958|SAMEA4732931_00923   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ55316	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.167   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54360	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1014|SAMEA4732931_00975   IS1381, transposase OrfA   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	IS1381, transposase OrfA	ABJ54582	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.439|SAMEA4732931_00426   Choline binding protein A   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	choline binding protein	ACO17184	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2094|SAMEA4732931_02018   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK75570	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.630|SAMEA4732931_00609   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	transposase	ACO19037	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	transposase (IS4 family)	ACO17064	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1365|SAMEA4732931_01336   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	conserved domain protein	AAK75914	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.650|SAMEA4732931_00627   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA35631	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.656|SAMEA4732931_00632   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54614	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.472|SAMEA4732931_00455   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54487	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.554|SAMEA4732931_00537   SSU ribosomal protein S19p (S15e)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	SSU ribosomal protein S19P	ABP89047	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1500|SAMEA4732931_01462   Phosphoserine phosphatase (EC 3.1.3.3)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Lactobacillales	Phosphoserine phosphatase	ACF55788	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1300|SAMEA4732931_01256   BOX elements   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28041	CP000920	Streptococcus pneumoniae P1031, complete genome.	Lactobacillales	chlorohydrolase	ACO21870	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.530|SAMEA4732931_00512   ACT domain protein CAC_0478   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	hypothetical protein	ACB89497	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.647|SAMEA4732931_00625   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Lactobacillales	conserved hypothetical protein	ACF56030	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1615|SAMEA4732931_01573   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	IS630-Spn1, transposase Orf1	AAK74477	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1066|SAMEA4732931_01030   Phage infection protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Lactobacillales	conserved hypothetical protein	ACF54773	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.323|SAMEA4732931_00312   Fluoride ion transporter CrcB   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	crcB protein	AAK75398	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.53|SAMEA4732931_00053   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	IS630-Spn1, transposase Orf2	AAK74951	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1794|SAMEA4732931_01737   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ53845	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.257|SAMEA4732931_00245   SMT0609 replicon stabilization protein (antitoxin to SMT0608)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ55339	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1471|SAMEA4732931_01436   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ53983	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1182|SAMEA4732931_01140   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	conserved hypothetical protein	ACO22697	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1736|SAMEA4732931_01682   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved domain protein	ACA37165	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1740|SAMEA4732931_01686   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28041	CP000920	Streptococcus pneumoniae P1031, complete genome.	Lactobacillales	mobile genetic element	ACO20607	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1751|SAMEA4732931_01696   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	transposase	ACO19772	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1901|SAMEA4732931_01837   FIG01118749: hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28041	CP000920	Streptococcus pneumoniae P1031, complete genome.	Lactobacillales	conserved hypothetical protein	ACO20889	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1442|SAMEA4732931_01408   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK75805	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.225|SAMEA4732931_00217   PhnO protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74789	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.371|SAMEA4732931_00358   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54585	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2008|SAMEA4732931_01938   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	conserved hypothetical protein	ACO19862	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1667   DNA alkylation repair enzyme   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Lactobacillales	DNA alkylation repair enzyme	ACF56753	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.80|SAMEA4732931_00080   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74929	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.63|SAMEA4732931_00063   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74946	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.136|SAMEA4732931_00133   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	transposase	ACA36539	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.685|SAMEA4732931_00658   Putative uncharacterized protein spr0080   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA36987	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1456|SAMEA4732931_01421   YefM protein (antitoxin to YoeB)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	prevent-host-death family protein	ABJ55245	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.883|SAMEA4732931_00845   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54583	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.331|SAMEA4732931_00319   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	conserved hypothetical protein	AAK75405	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1055|SAMEA4732931_01016   Uncharacterized protein CAC3725   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74196	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.404   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK75483	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.35|SAMEA4732931_00035   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74971	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.706|SAMEA4732931_00677   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA37066	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1040   Degenerate transposase   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	transposase	ACO23190	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1881|SAMEA4732931_01818   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA36408	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1718|SAMEA4732931_01665   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	conserved hypothetical protein	ACO17517	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1031|SAMEA4732931_00991   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	conserved hypothetical protein	ACO16196	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.91|SAMEA4732931_00090   bacterial seryl-tRNA synthetase related   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ55343	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2146   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	hypothetical protein	ACB90732	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1214|SAMEA4732931_01170   Ferredoxin   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	ferredoxin	ACO22297	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2057|SAMEA4732931_01983   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54266	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1390|SAMEA4732931_01361   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54199	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1394|SAMEA4732931_01365   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	conserved hypothetical protein	ACO16881	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.180|SAMEA4732931_00176   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ55347	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1029   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA35716	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1612|SAMEA4732931_01570   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	hypothetical protein	ACB91237	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.709   BOX elements   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA37464	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1161|SAMEA4732931_01120   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	transposase	ACO19728	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.451|SAMEA4732931_00437   Type II restriction endonuclease, uncharacterized, truncation   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	restriction endonuclease R.XbaI	ACO16667	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.597   BOX elements   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ53878	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1823   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ55068	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2185   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	hypothetical protein	ACO18879	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1370   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ55510	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.835   Maturase-related protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	transposase, putative, truncation	ABJ55305	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.714   Degenerate transposase   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74616	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.867   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54702	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.284|SAMEA4732931_00273   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK75357	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.449   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	29179	CP001033	Streptococcus pneumoniae CGSP14, complete genome.	Lactobacillales	hypothetical protein	ACB90667	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1767   BOX elements   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	hypothetical protein	ACO23488	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1265|SAMEA4732931_01222   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA36246	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2101   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	conserved domain protein	ACO19196	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.330   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	conserved domain protein	ACO19309	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.772|SAMEA4732931_00740   Peptide pheromone BlpC (Bacteriocin-like peptide, double glycine cleavage type)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	bacteriocin-type signal sequence domain protein	ACO22423	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.778   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	conserved domain protein	ACO18271	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2207   FIG01117248: hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74475	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.750|SAMEA4732931_00719   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28043	CP000918	Streptococcus pneumoniae 70585, complete genome.	Lactobacillales	hypothetical protein	ACO16762	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.834   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54470	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.566|SAMEA4732931_00548   Induced during competence   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28041	CP000920	Streptococcus pneumoniae P1031, complete genome.	Lactobacillales	conserved hypothetical protein	ACO21403	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.285   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54793	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.369|SAMEA4732931_00356   FIG01114516: hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK75445	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.960   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	IS630-Spn1, transposase Orf2, truncation	ABJ53718	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.751   FIG01114476: hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28039	CP000919	Streptococcus pneumoniae JJA, complete genome.	Lactobacillales	conserved hypothetical protein	ACO20069	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1038   FIG01117357: hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	hypothetical protein	ACO23302	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1753   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54085	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1589   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ55264	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2227|SAMEA4732931_02136   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK76072	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1994   FIG01115977: hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	hypothetical protein	ACO22345	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1144   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	IS3-Spn1, hypothetical protein, truncation	ABC75790	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1616   Phospho-beta-glucosidase, truncation   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	hypothetical protein	ACO23972	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1625   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	hypothetical protein	ACO22464	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1114   FIG01116157: hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28041	CP000920	Streptococcus pneumoniae P1031, complete genome.	Lactobacillales	hypothetical protein	ACO21361	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.296   Substrate-specific component BioY of biotin ECF transporter   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	chlorohydrolase	ACO22534	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2072   Capsule biosynthesis protein capA   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ54661	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2153   FIG01120158: hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ55377	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.716|SAMEA4732931_00685   Mobile element protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	hypothetical protein	ACO24126	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1702   CoA-disulfide reductase (EC 1.8.1.14)   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28037	CP000921	Streptococcus pneumoniae Taiwan19F-14, complete genome.	Lactobacillales	coenzyme A disulfide reductase	ACO23909	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1529   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA36774	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1721   FIG01114966: hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74241	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1270   Substrate-specific component BioY of biotin ECF transporter   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	hypothetical protein	ACA35881	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1344   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	hypothetical protein	ACA37301	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1941   BOX elements   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28041	CP000920	Streptococcus pneumoniae P1031, complete genome.	Lactobacillales	hypothetical protein	ACO20971	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1042   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	hypothetical protein	ABJ53739	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.2073   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ53807	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.1876|SAMEA4732931_01815   hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	16374	CP000410	Streptococcus pneumoniae D39, complete genome.	Lactobacillales	conserved hypothetical protein	ABJ53720	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.421   FIG01114906: hypothetical protein   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA37626	Yes	100.0
+
+#input_seq:	fig|1313.20171.peg.21|SAMEA4732931_00021   restriction enzyme BcgI alpha chain-like protein( EC:2.1.1.72 )   [Streptococcus pneumoniae strain GPSC334 | 1313.20171]
+#matched_seq:	277	AE005672	Streptococcus pneumoniae TIGR4, complete genome.	Lactobacillales	hypothetical protein	AAK74982	Yes	100.0
+

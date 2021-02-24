@@ -1,0 +1,35 @@
+INPUT SEQUENCE INFO:
+Input Name ::	0_06_12_2020_152634_474483_input.fsa
+Sequences ::	 3742
+Total bpp ::	 1170324
+Longest seq ::	 2261
+Shortest seq ::	 26
+Avg seq lenght ::	 312.0
+
+RESULTS:
+Min Identity Threshold ::	76.818
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-11.821
+Probability of being human pathogen ::	0.162
+Matches::	5
+Genome Coverage (%) ::	0.13
+Pathogenic Families Matched ::	0
+Non-Pathogenic Families Matched ::	5
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|238.101.peg.1388|FCL53_16805   Deoxyhypusine synthase (EC 2.5.1.46)   [Elizabethkingia meningoseptica strain GX196 | 238.101]
+#matched_seq:	27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	Sphingobacteria	deoxyhypusine synthase	ACU02512	No	81.54
+
+#input_seq:	fig|238.101.peg.744|FCL53_03555   Oxidoreductase   [Elizabethkingia meningoseptica strain GX196 | 238.101]
+#matched_seq:	16082	CP000685	Flavobacterium johnsoniae UW101, complete genome.	Flavobacteria	2OG-Fe(II) oxygenase	ABQ05861	No	82.28
+
+#input_seq:	fig|238.101.peg.2138|FCL53_07190   Phytoene synthase (EC 2.5.1.32)   [Elizabethkingia meningoseptica strain GX196 | 238.101]
+#matched_seq:	27949	CP001681	Pedobacter heparinus DSM 2366, complete genome.	Sphingobacteria	Phytoene synthase	ACU04297	No	81.29
+
+#input_seq:	fig|238.101.peg.968|FCL53_14765   Transcriptional repressor of the fructose operon, DeoR family   [Elizabethkingia meningoseptica strain GX196 | 238.101]
+#matched_seq:	16082	CP000685	Flavobacterium johnsoniae UW101, complete genome.	Flavobacteria	transcriptional regulator, DeoR family	ABQ03708	No	79.38
+
+#input_seq:	fig|238.101.peg.2352|FCL53_07860   SSU ribosomal protein S17p (S11e)   [Elizabethkingia meningoseptica strain GX196 | 238.101]
+#matched_seq:	13570	CP002046	Croceibacter atlanticus HTCC2559, complete genome.	Flavobacteria	putative 30S ribosomal protein S17	EAP88241	No	78.57
+

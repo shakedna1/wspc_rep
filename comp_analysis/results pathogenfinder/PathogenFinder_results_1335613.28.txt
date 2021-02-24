@@ -1,0 +1,47 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_10_12_2020_094916_198663_input.fsa
+Sequences ::	 3320
+Total bpp ::	 1009002
+Longest seq ::	 3813
+Shortest seq ::	 22
+Avg seq lenght ::	 303.0
+
+RESULTS:
+Min Identity Threshold ::	87.804
+Z-THRESHOLD ::	3.0
+Prediction Score ::	19.239
+Probability of being human pathogen ::	0.749
+Matches::	9
+Genome Coverage (%) ::	0.27
+Pathogenic Families Matched ::	8
+Non-Pathogenic Families Matched ::	1
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1335613.28.peg.207|GKG38_14385   ABC transporter-like sensor and permease protein   [Gordonibacter urolithinfaciens strain BIOML-A1 | 1335613.28]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	protein of unknown function DUF214	ACV55901	Yes	88.0
+
+#input_seq:	fig|1335613.28.peg.2725|GKG38_02705   Oxygen-independent coproporphyrinogen III oxidase, putative   [Gordonibacter urolithinfaciens strain BIOML-A1 | 1335613.28]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	Coproporphyrinogen dehydrogenase	ACV54031	Yes	88.97
+
+#input_seq:	fig|1335613.28.peg.1536|GKG38_01180   Polysulfide reductase PsrC (EC 1.12.98.4), anchor subunit   [Gordonibacter urolithinfaciens strain BIOML-A1 | 1335613.28]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	Polysulphide reductase NrfD	ACV54436	Yes	91.67
+
+#input_seq:	fig|1335613.28.peg.1010|GKG38_00535   Exodeoxyribonuclease III (EC 3.1.11.2)   [Gordonibacter urolithinfaciens strain BIOML-A1 | 1335613.28]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	exodeoxyribonuclease III Xth	ACV54114	Yes	90.18
+
+#input_seq:	fig|1335613.28.peg.1813|GKG38_09220   2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)   [Gordonibacter urolithinfaciens strain BIOML-A1 | 1335613.28]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	ACV56196	Yes	94.64
+
+#input_seq:	fig|1335613.28.peg.2016|GKG38_09745   4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)   [Gordonibacter urolithinfaciens strain BIOML-A1 | 1335613.28]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	dihydrodipicolinate reductase	ACV54440	Yes	90.98
+
+#input_seq:	fig|1335613.28.peg.88|GKG38_14095   Hup-type Ni,Fe-hydrogenase cytochrome b subunit   [Gordonibacter urolithinfaciens strain BIOML-A1 | 1335613.28]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	cytochrome B561	ACV55247	Yes	92.24
+
+#input_seq:	fig|1335613.28.peg.474|GKG38_04640   Biotin carboxyl carrier protein of acetyl-CoA carboxylase   [Gordonibacter urolithinfaciens strain BIOML-A1 | 1335613.28]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	acetyl-CoA carboxylase, biotin carboxyl carrier protein	ACV54170	Yes	89.68
+
+#input_seq:	fig|1335613.28.peg.1109   Uncharacterized protein Noca_1520   [Gordonibacter urolithinfaciens strain BIOML-A1 | 1335613.28]
+#matched_seq:	20831	CP001684	Slackia heliotrinireducens DSM 20476, complete genome.	Coriobacteridae	hypothetical protein	ACV23827	No	90.0
+

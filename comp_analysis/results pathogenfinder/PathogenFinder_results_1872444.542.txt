@@ -1,0 +1,32 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_10_12_2020_113122_191826_input.fsa
+Sequences ::	 2685
+Total bpp ::	 900040
+Longest seq ::	 2003
+Shortest seq ::	 26
+Avg seq lenght ::	 335.0
+
+RESULTS:
+Min Identity Threshold ::	85.971
+Z-THRESHOLD ::	3.0
+Prediction Score ::	10.39
+Probability of being human pathogen ::	0.826
+Matches::	4
+Genome Coverage (%) ::	0.15
+Pathogenic Families Matched ::	4
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1872444.542.peg.503   Integrase   [Alistipes sp. strain P1-1 | 1872444.542]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	tyrosine type site-specific recombinase	BAD51015	Yes	89.88
+
+#input_seq:	fig|1872444.542.peg.1637   DNA primase, TraP-type   [Alistipes sp. strain P1-1 | 1872444.542]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	DNA primase	ABR43872	Yes	95.74
+
+#input_seq:	fig|1872444.542.peg.502|EP144_02410   hypothetical protein   [Alistipes sp. strain P1-1 | 1872444.542]
+#matched_seq:	19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAG34197	Yes	94.52
+
+#input_seq:	fig|1872444.542.peg.520|EP144_02480   Transcriptional regulator, Xre family   [Alistipes sp. strain P1-1 | 1872444.542]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR41300	Yes	94.12
+

@@ -1,0 +1,38 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_194301_988404_input.fsa
+Sequences ::	 529
+Total bpp ::	 153169
+Longest seq ::	 1375
+Shortest seq ::	 1
+Avg seq lenght ::	 289.0
+
+RESULTS:
+Min Identity Threshold ::	92.35
+Z-THRESHOLD ::	3.0
+Prediction Score ::	19.456
+Probability of being human pathogen ::	0.863
+Matches::	6
+Genome Coverage (%) ::	1.13
+Pathogenic Families Matched ::	6
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|413503.68.peg.384|EHI90_01870   Trehalase (EC 3.2.1.28) @ Periplasmic trehalase (EC 3.2.1.28)   [Cronobacter malonaticus strain BJ15 | 413503.68]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU76737	Yes	96.88
+
+#input_seq:	fig|413503.68.peg.107|EHI90_00535   Methyl-accepting chemotaxis sensor/transducer protein   [Cronobacter malonaticus strain BJ15 | 413503.68]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77071	Yes	95.84
+
+#input_seq:	fig|413503.68.peg.25|EHI90_00125   Putative oxidoreductase YncB   [Cronobacter malonaticus strain BJ15 | 413503.68]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77154	Yes	98.27
+
+#input_seq:	fig|413503.68.peg.76|EHI90_00375   FIG00553316: hypothetical protein   [Cronobacter malonaticus strain BJ15 | 413503.68]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77105	Yes	94.12
+
+#input_seq:	fig|413503.68.peg.50|EHI90_00245   Tautomerase PptA   [Cronobacter malonaticus strain BJ15 | 413503.68]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU77127	Yes	98.68
+
+#input_seq:	fig|413503.68.peg.463   hypothetical protein   [Cronobacter malonaticus strain BJ15 | 413503.68]
+#matched_seq:	12720	CP000783	Enterobacter sakazakii ATCC BAA-894, complete genome.	Gammaproteobacteria	hypothetical protein	ABU76666	Yes	100.0
+

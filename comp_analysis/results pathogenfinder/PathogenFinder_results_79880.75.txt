@@ -1,0 +1,1100 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_205923_099454_input.fsa
+Sequences ::	 4474
+Total bpp ::	 1244790
+Longest seq ::	 3169
+Shortest seq ::	 26
+Avg seq lenght ::	 278.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-578.287
+Probability of being human pathogen ::	0.23
+Matches::	360
+Genome Coverage (%) ::	8.05
+Pathogenic Families Matched ::	0
+Non-Pathogenic Families Matched ::	360
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|79880.75.peg.3563|HJ578_16005   Penicillin-binding protein 1A/1B @ Multimodular transpeptidase-transglycosylase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	penicillin-binding protein 1A/1B	BAD64590	No	100.0
+
+#input_seq:	fig|79880.75.peg.2287|HJ578_10120   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63077	No	100.0
+
+#input_seq:	fig|79880.75.peg.3271|HJ578_14615   extracellular serine protease   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	minor extracellular serine protease	BAD66391	No	100.0
+
+#input_seq:	fig|79880.75.peg.39|HJ578_20670   ABC transporter-like sensor and permease protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	antimicrobial peptide ABC transporter permease	BAD62796	No	100.0
+
+#input_seq:	fig|79880.75.peg.3937|HJ578_17760   Uncharacterized protein YqgF   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	penicillin-binding protein	BAD64252	No	100.0
+
+#input_seq:	fig|79880.75.peg.3447|HJ578_15425   Clostridial MutS2-related protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	MutS family DNA mismatch repair protein	BAD66549	No	100.0
+
+#input_seq:	fig|79880.75.peg.2567|HJ578_11405   Glycine betaine transporter OpuD   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	choline/glycine betaine transporter	BAD62826	No	100.0
+
+#input_seq:	fig|79880.75.peg.1576|HJ578_06745   ABC transporter-like sensor and permease protein YvcS   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	antimicrobial peptide ABC transporter permease	BAD65764	No	100.0
+
+#input_seq:	fig|79880.75.peg.613|HJ578_02300   Cytochrome c oxidase polypeptide I (EC 1.9.3.1)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	cytochrome caa3 oxidase subunit I CoxA	BAD64927	No	100.0
+
+#input_seq:	fig|79880.75.peg.3413|HJ578_15270   Sensory box sensor histidine kinase/response regulator VC0622   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66521	No	100.0
+
+#input_seq:	fig|79880.75.peg.3452|HJ578_15450   UbiD family decarboxylase associated with menaquinone via futalosine   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	3-polyprenyl-4-hydroxybenzoate decarboxylase	BAD66554	No	100.0
+
+#input_seq:	fig|79880.75.peg.3492|HJ578_15640   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66592	No	100.0
+
+#input_seq:	fig|79880.75.peg.3965|HJ578_17930   DNA primase DnaG   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	DNA primase DnaG	BAD64224	No	100.0
+
+#input_seq:	fig|79880.75.peg.2610|HJ578_11605   Oligoendopeptidase F-like protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	oligoendopeptidase F	BAD63822	No	100.0
+
+#input_seq:	fig|79880.75.peg.3156|HJ578_14090   beta-galactosidase (EC 3.2.1.23)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	beta-galactosidase	BAD66288	No	100.0
+
+#input_seq:	fig|79880.75.peg.2371|HJ578_10510   Methyl-accepting chemotaxis protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	methyl-accepting chemotaxis protein	BAD62999	No	100.0
+
+#input_seq:	fig|79880.75.peg.226|HJ578_00405   Septation ring formation regulator EzrA   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	negative regulator of FtsZ ring formation	BAD65286	No	100.0
+
+#input_seq:	fig|79880.75.peg.2063|HJ578_09090   ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sugar ABC transporter substrate-binding protein	BAD63263	No	100.0
+
+#input_seq:	fig|79880.75.peg.2918|HJ578_13010   poly (glycerol-phosphate) alpha-glucosyltransferase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63523	No	100.0
+
+#input_seq:	fig|79880.75.peg.3615|HJ578_16250   Acetolactate synthase large subunit homolog   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	acetolactate synthase large subunit	BAD64544	No	100.0
+
+#input_seq:	fig|79880.75.peg.642|HJ578_02430   Glucosaminyl-malate:cysteine ligase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64901	No	100.0
+
+#input_seq:	fig|79880.75.peg.2250|HJ578_09950   Dipeptide ABC transporter, substrate-binding protein DppA (TC 3.A.1.5.2)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	oligopeptide ABC transporter substrate-binding protein	BAD63104	No	100.0
+
+#input_seq:	fig|79880.75.peg.1724|HJ578_07440   Glycosyltransferase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	glycosyltransferase	BAD65633	No	100.0
+
+#input_seq:	fig|79880.75.peg.2187|HJ578_09645   Tripartite tricarboxylate transporter TctA family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63164	No	100.0
+
+#input_seq:	fig|79880.75.peg.4316|HJ578_19635   Two-component system response regulator protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional regulator	BAD62588	No	100.0
+
+#input_seq:	fig|79880.75.peg.4148|HJ578_18790   Sensor histidine kinase CssS   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component sensor histidine kinase	BAD64059	No	100.0
+
+#input_seq:	fig|79880.75.peg.3797|HJ578_17100   Putative pyridine nucleotide-disulphide oxidoreductase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	NADH dehydrogenase	BAD64377	No	100.0
+
+#input_seq:	fig|79880.75.peg.2619|HJ578_11650   Sodium-dependent transporter, SNF family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	SNF family sodium-dependent transporter	BAD63811	No	100.0
+
+#input_seq:	fig|79880.75.peg.2049|HJ578_09025   Mg/Co/Ni transporter MgtE, CBS domain-containing   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	magnesium transporter	BAD63276	No	100.0
+
+#input_seq:	fig|79880.75.peg.2375|HJ578_10530   Transcriptional regulator   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional regulator	BAD62995	No	100.0
+
+#input_seq:	fig|79880.75.peg.3764|HJ578_16955   Spore germination protein YpeB   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sporulation protein	BAD64406	No	100.0
+
+#input_seq:	fig|79880.75.peg.2674|HJ578_11910   3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	3-phosphoshikimate 1-carboxyvinyltransferase	BAD63759	No	100.0
+
+#input_seq:	fig|79880.75.peg.3369|HJ578_15080   Alkaline phosphatase (EC 3.1.3.1)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	alkaline phosphatase	BAD66483	No	100.0
+
+#input_seq:	fig|79880.75.peg.3517|HJ578_15750   Candidate type III effector Hop protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66613	No	100.0
+
+#input_seq:	fig|79880.75.peg.4101|HJ578_18575   Protein translocase subunit SecD   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	preprotein translocase subunit D	BAD64100	No	100.0
+
+#input_seq:	fig|79880.75.peg.3938|HJ578_17770   Uncharacterized MFS-type transporter YqgE   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	major facilitator (MFS) superfamily protein	BAD64251	No	100.0
+
+#input_seq:	fig|79880.75.peg.3459|HJ578_15485   Maltodextrin ABC transporter, substrate-binding protein MdxE   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	maltose ABC transporter substrate-binding protein	BAD66561	No	100.0
+
+#input_seq:	fig|79880.75.peg.2121|HJ578_09340   ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sugar ABC transporter substrate-binding protein	BAD63224	No	100.0
+
+#input_seq:	fig|79880.75.peg.3512|HJ578_15725   TRAP-type C4-dicarboxylate transport system, large permease component   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	C4-dicarboxylate transport system permease large protein	BAD66608	No	100.0
+
+#input_seq:	fig|79880.75.peg.2007|HJ578_08825   Two-component system sensor histidine kinase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component sensor histidine kinase	BAD63314	No	100.0
+
+#input_seq:	fig|79880.75.peg.4250|HJ578_19245   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	multidrug ABC transporter permease	BAD63970	No	100.0
+
+#input_seq:	fig|79880.75.peg.2307|HJ578_10215   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	cell-division protein	BAD63059	No	100.0
+
+#input_seq:	fig|79880.75.peg.3330|HJ578_14895   ABC transporter, permease protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	Na+ efflux ABC transporter permease	BAD66446	No	100.0
+
+#input_seq:	fig|79880.75.peg.1356|HJ578_05705   N-acetyl-D-glucosamine ABC transporter, substrate-binding protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sugar ABC transporter substrate-binding protein	BAD65975	No	100.0
+
+#input_seq:	fig|79880.75.peg.3238|HJ578_14450   cell wall lytic activity   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	cell wall lytic activity endopeptidase	BAD66358	No	100.0
+
+#input_seq:	fig|79880.75.peg.1838|HJ578_07975   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	major facilitator (MFS) superfamily protein	BAD65525	No	100.0
+
+#input_seq:	fig|79880.75.peg.3716|HJ578_16715   RNA-2',3'-PO4:RNA-5'-OH ligase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64454	No	100.0
+
+#input_seq:	fig|79880.75.peg.29|HJ578_20625   Uncharacterized secreted protein associated with spyDAC   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD62785	No	100.0
+
+#input_seq:	fig|79880.75.peg.3722|HJ578_16745   Uncharacterized MFS-type transporter YdgK   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	major facilitator superfamily bicyclomycin resistance protein	BAD64448	No	100.0
+
+#input_seq:	fig|79880.75.peg.1355|HJ578_05700   ROK family sugar kinase or transcriptional regulator   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional repressor of the xylose operon	BAD65976	No	100.0
+
+#input_seq:	fig|79880.75.peg.3805|HJ578_17145   Cytochrome c-type biogenesis protein CcsA/ResC   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	cytochrome c biogenesis protein ResC	BAD64369	No	100.0
+
+#input_seq:	fig|79880.75.peg.2239|HJ578_09895   Xylose-responsive transcription regulator, ROK family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional repressor of the xylose operon	BAD63115	No	100.0
+
+#input_seq:	fig|79880.75.peg.885|HJ578_03595   Lipase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	lipase	BAD64674	No	100.0
+
+#input_seq:	fig|79880.75.peg.3851|HJ578_17360   D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	D-alanyl-D-alanine carboxypeptidase	BAD64327	No	100.0
+
+#input_seq:	fig|79880.75.peg.1527|HJ578_06530   Gluconokinase (EC 2.7.1.12) / oxidoreductase domain   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	dehydrogenase	BAD65810	No	100.0
+
+#input_seq:	fig|79880.75.peg.2825|HJ578_12600   Putative pheromone cAM373 precursor lipoprotein CamS   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63626	No	100.0
+
+#input_seq:	fig|79880.75.peg.2206|HJ578_09740   Oxidoreductase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	oxidoreductase	BAD63145	No	100.0
+
+#input_seq:	fig|79880.75.peg.3437|HJ578_15380   Uncharacterized MFS-type transporter   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66543	No	100.0
+
+#input_seq:	fig|79880.75.peg.4068|HJ578_18410   Murein endolytic transglycosylase MltG   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64131	No	100.0
+
+#input_seq:	fig|79880.75.peg.3954|HJ578_17875   Two-component system sensor histidine kinase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	stage II sporulation protein J	BAD64235	No	100.0
+
+#input_seq:	fig|79880.75.peg.227|HJ578_00410   Cysteine desulfurase (EC 2.8.1.7), associated with tRNA 4-thiouridine synthase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	cysteine desulfurase	BAD65285	No	100.0
+
+#input_seq:	fig|79880.75.peg.3052|HJ578_13655   O-acetylhomoserine sulfhydrylase (EC 2.5.1.49) @ O-succinylhomoserine sulfhydrylase (EC 2.5.1.48)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	cystathionine gamma-lyase	BAD63405	No	100.0
+
+#input_seq:	fig|79880.75.peg.4253|HJ578_19260   Two-component system sensor histidine kinase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component sensor histidine kinase	BAD63967	No	100.0
+
+#input_seq:	fig|79880.75.peg.1623|HJ578_06975   Threonine-synthase-like protein 4   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	threonine synthase	BAD65717	No	100.0
+
+#input_seq:	fig|79880.75.peg.4120|HJ578_18670   Cysteine desulfurase (EC 2.8.1.7)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	cysteine desulfurase	BAD64081	No	100.0
+
+#input_seq:	fig|79880.75.peg.3621|HJ578_16280   Nutrient germinant receptor inner membrane subunit B (GerKB/GerAB/GerBB)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	spore germination protein	BAD64539	No	100.0
+
+#input_seq:	fig|79880.75.peg.3897|HJ578_17570   Uncharacterized peptidase YqjE   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	tripeptidase	BAD64288	No	100.0
+
+#input_seq:	fig|79880.75.peg.903|HJ578_03685   Efflux ABC transporter, ATP-binding protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	multidrug ABC transporter ATP-binding protein	BAD64656	No	100.0
+
+#input_seq:	fig|79880.75.peg.1900|HJ578_08275   Aminodeoxyfutalosine synthase (EC 2.5.1.120)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65467	No	100.0
+
+#input_seq:	fig|79880.75.peg.1526|HJ578_06525   Oxidoreductase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	dehydrogenase	BAD65811	No	100.0
+
+#input_seq:	fig|79880.75.peg.900|HJ578_03670   Two-component system sensor histidine kinase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component sensor histidine kinase	BAD64659	No	100.0
+
+#input_seq:	fig|79880.75.peg.1727|HJ578_07455   Cell envelope-associated transcriptional attenuator LytR-CpsA-Psr, subfamily F2   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	LytR family transcriptional antiterminator	BAD65630	No	100.0
+
+#input_seq:	fig|79880.75.peg.2574|HJ578_11445   Putative lipoprotein SAV1865   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63855	No	100.0
+
+#input_seq:	fig|79880.75.peg.1578|HJ578_06755   ABC transporter-like sensor linked histidine kinase YvcQ   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component sensor histidine kinase	BAD65762	No	100.0
+
+#input_seq:	fig|79880.75.peg.2233|HJ578_09865   Conservative hypothetical protein probably involved in hydantoin, pyrimidine utilization   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63121	No	100.0
+
+#input_seq:	fig|79880.75.peg.2474|HJ578_10985   NADH-dependent dehydrogenase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	oxidoreductase	BAD62907	No	100.0
+
+#input_seq:	fig|79880.75.peg.1789|HJ578_07740   TPR repeat-containing protein YvcD   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65573	No	100.0
+
+#input_seq:	fig|79880.75.peg.3257|HJ578_14545   Stage II sporulation protein D (SpoIID)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	stage II sporulation protein D	BAD66377	No	100.0
+
+#input_seq:	fig|79880.75.peg.1452|HJ578_06165   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	hypothetical protein	BAD65883	No	100.0
+
+#input_seq:	fig|79880.75.peg.41|HJ578_20680   ABC transporter-like sensor linked histidine kinase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component sensor histidine kinase	BAD62798	No	100.0
+
+#input_seq:	fig|79880.75.peg.2294|HJ578_10160   Intracellular protease   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63070	No	100.0
+
+#input_seq:	fig|79880.75.peg.3515|HJ578_15740   Sorbitol dehydrogenase (EC 1.1.1.14)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sorbitol dehydrogenase	BAD66611	No	100.0
+
+#input_seq:	fig|79880.75.peg.1419|HJ578_06005   Transcriptional regulator, LacI family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	LacI family transcriptional regulator	BAD65915	No	100.0
+
+#input_seq:	fig|79880.75.peg.2662|HJ578_11855   ABC transporter, permease protein (cluster 15, trp?)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	ABC transporter permease	BAD63770	No	100.0
+
+#input_seq:	fig|79880.75.peg.203|HJ578_00300   Predicted nicotinate-regulated transporter BH3254   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65307	No	100.0
+
+#input_seq:	fig|79880.75.peg.3583|HJ578_16100   Tellurite resistance protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	tellurite resistance protein	BAD64571	No	100.0
+
+#input_seq:	fig|79880.75.peg.791|HJ578_03160   FIG007013: polysaccharide deacetylase, putative   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	polysaccharide deacetylase	BAD64756	No	100.0
+
+#input_seq:	fig|79880.75.peg.361|HJ578_01055   Uncharacterized protein YsxE   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65159	No	100.0
+
+#input_seq:	fig|79880.75.peg.3049|HJ578_13640   Thiamine-monophosphate kinase (EC 2.7.4.16)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	thiamine-monophosphate kinase	BAD63406	No	100.0
+
+#input_seq:	fig|79880.75.peg.3151|HJ578_14070   Ferrichrome-binding periplasmic protein precursor (TC 3.A.1.14.3)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	Fe3+-siderophore ABC transporter substrate-binding protein	BAD66284	No	100.0
+
+#input_seq:	fig|79880.75.peg.814|HJ578_03275   DNA double-strand break repair protein Mre11   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	DNA repair exonuclease	BAD64733	No	100.0
+
+#input_seq:	fig|79880.75.peg.2318|HJ578_10265   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63049	No	100.0
+
+#input_seq:	fig|79880.75.peg.3514|HJ578_15735   TRAP-type C4-dicarboxylate transport system, periplasmic component   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	C4-dicarboxylate transport system substrate-binding protein	BAD66610	No	100.0
+
+#input_seq:	fig|79880.75.peg.2661|HJ578_11850   ABC transporter, substrate-binding protein (cluster 15, trp?)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	ABC transporter substrate-binding protein	BAD63771	No	100.0
+
+#input_seq:	fig|79880.75.peg.236|HJ578_00455   Adenine-specific methyltransferase (EC 2.1.1.72)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	adenine-specific methyltransferase	BAD65276	No	100.0
+
+#input_seq:	fig|79880.75.peg.109|HJ578_21015   Uncharacterized iron compound ABC uptake transporter, substrate-binding protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	enterochelin ABC transporter substrate-binding protein	BAD65426	No	100.0
+
+#input_seq:	fig|79880.75.peg.1559|HJ578_06675   ABC transporter, substrate-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	nitrate/sulfonate/bicarbonate ABC transporter substrate-binding protein	BAD65778	No	100.0
+
+#input_seq:	fig|79880.75.peg.4478|HJ578_20420   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD62741	No	100.0
+
+#input_seq:	fig|79880.75.peg.3378|HJ578_15125   Manganese ABC transporter, periplasmic-binding protein SitA   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	Mn2+/Zn2+ ABC transporter substrate-binding protein	BAD66492	No	100.0
+
+#input_seq:	fig|79880.75.peg.2059|HJ578_09070   ABC transporter, permease protein 2 (cluster 1, maltose/g3p/polyamine/iron)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	polysaccharide ABC transporter permease	BAD63267	No	100.0
+
+#input_seq:	fig|79880.75.peg.1572|HJ578_06730   Sorbitol operon transcription regulator   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional regulator	BAD65767	No	100.0
+
+#input_seq:	fig|79880.75.peg.238|HJ578_00465   3'->5' exoribonuclease Bsu YhaM   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	CMP-binding protein	BAD65274	No	100.0
+
+#input_seq:	fig|79880.75.peg.3376|HJ578_15115   Manganese ABC transporter, inner membrane permease protein SitC   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	Mn2+/Zn2+ ABC transporter permease	BAD66490	No	100.0
+
+#input_seq:	fig|79880.75.peg.1600|HJ578_06865   Inosine-uridine preferring nucleoside hydrolase (EC 3.2.2.1)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	inosine-uridine preferring nucleoside hydrolase	BAD65739	No	100.0
+
+#input_seq:	fig|79880.75.peg.2856|HJ578_12725   Various polyols ABC transporter, ATP-binding protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	multidrug ABC transporter ATP-binding protein	BAD63585	No	100.0
+
+#input_seq:	fig|79880.75.peg.1522|HJ578_06505   ABC transporter, permease protein 1 (cluster 1, maltose/g3p/polyamine/iron)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sugar ABC transporter permease	BAD65815	No	100.0
+
+#input_seq:	fig|79880.75.peg.1071|HJ578_04460   ABC transporter, permease protein 2 (cluster 5, nickel/peptides/opines)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	oligopeptide ABC transporter permease	BAD66192	No	100.0
+
+#input_seq:	fig|79880.75.peg.880|HJ578_03575   Dipeptidase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	dipeptidase	BAD64678	No	100.0
+
+#input_seq:	fig|79880.75.peg.2435|HJ578_10795   Transcriptional regulator, ArsR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional regulator	BAD62944	No	100.0
+
+#input_seq:	fig|79880.75.peg.920|HJ578_03770   DNA polymerase I 5'-3' exonuclease domain   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	5'-3' exonuclease	BAD64640	No	100.0
+
+#input_seq:	fig|79880.75.peg.1697|HJ578_07315   ABC transporter, permease protein 1 (cluster 1, maltose/g3p/polyamine/iron)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sugar ABC transporter permease	BAD65658	No	100.0
+
+#input_seq:	fig|79880.75.peg.1106|HJ578_04625   Manganese catalase (EC 1.11.1.6)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	manganese catalase	BAD66160	No	100.0
+
+#input_seq:	fig|79880.75.peg.3765|HJ578_16960   Spore cortex-lytic enzyme, lytic transglycosylase SleB   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	spore cortex-lytic enzyme	BAD64405	No	100.0
+
+#input_seq:	fig|79880.75.peg.809|HJ578_03250   Transcriptional regulator in cluster with unspecified monosaccharide ABC transport system   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64738	No	100.0
+
+#input_seq:	fig|79880.75.peg.3748|HJ578_16875   Menaquinone via futalosine polyprenyltransferase (MenA homolog)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	4-hydroxybenzoate octaprenyltransferase	BAD64422	No	100.0
+
+#input_seq:	fig|79880.75.peg.2438|HJ578_10810   Alpha-arabinosides ABC transport system, permease protein 1   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sugar ABC transporter permease	BAD62941	No	100.0
+
+#input_seq:	fig|79880.75.peg.2120|HJ578_09335   ABC transporter, permease protein 1 (cluster 1, maltose/g3p/polyamine/iron)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sugar ABC transporter permease	BAD63225	No	100.0
+
+#input_seq:	fig|79880.75.peg.2675|HJ578_11915   Transcriptional regulator, LysR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	LysR family transcriptional regulator	BAD63758	No	100.0
+
+#input_seq:	fig|79880.75.peg.2836|HJ578_12640   LacX protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63618	No	100.0
+
+#input_seq:	fig|79880.75.peg.2758|HJ578_12310   ABC transporter permease protein YtcP   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sugar ABC transporter permease	BAD63684	No	100.0
+
+#input_seq:	fig|79880.75.peg.1592|HJ578_06825   Possible alpha-xyloside ABC transporter, permease component   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sugar ABC transporter permease	BAD65747	No	100.0
+
+#input_seq:	fig|79880.75.peg.2185|HJ578_09635   Transcriptional regulator, LysR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	LysR family transcriptional regulator	BAD63166	No	100.0
+
+#input_seq:	fig|79880.75.peg.702|HJ578_02720   DegV family protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64843	No	100.0
+
+#input_seq:	fig|79880.75.peg.3256|HJ578_14540   Stage II sporulation protein related to metaloproteases (SpoIIQ)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	stage II sporulation protein Q	BAD66376	No	100.0
+
+#input_seq:	fig|79880.75.peg.3219|HJ578_14370   3-hydroxyisobutyrate dehydrogenase family protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	3-hydroxyisobutyrate dehydrogenase	BAD66342	No	100.0
+
+#input_seq:	fig|79880.75.peg.282|HJ578_00665   Uncharacterized protein YtxC   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65233	No	100.0
+
+#input_seq:	fig|79880.75.peg.381|HJ578_01150   Stage IV sporulation pro-sigma-K processing enzyme (SpoIVFB)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	stage IV sporulation protein FB	BAD65139	No	100.0
+
+#input_seq:	fig|79880.75.peg.2441|HJ578_10825   Predicted rhamnose oligosaccharide ABC transport system, permease component   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	lactose ABC transporter permease	BAD62938	No	100.0
+
+#input_seq:	fig|79880.75.peg.1904|HJ578_08295   ABC transporter, substrate-binding protein YckB (cluster 3, basic aa/glutamine/opines)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	amino acid ABC transporter substrate-binding protein	BAD65464	No	100.0
+
+#input_seq:	fig|79880.75.peg.4196|HJ578_19010   Daunorubicin/doxorubicin resistance ABC transporter, permease protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	multidrug ABC transporter permease	BAD64016	No	100.0
+
+#input_seq:	fig|79880.75.peg.2317|HJ578_10260   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63050	No	100.0
+
+#input_seq:	fig|79880.75.peg.3870|HJ578_17445   Undecaprenyl-diphosphatase (EC 3.6.1.27)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	undecaprenol kinase	BAD64311	No	100.0
+
+#input_seq:	fig|79880.75.peg.135|HJ578_21145   Inner membrane protein YihY, formerly thought to be RNase BN   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65450	No	100.0
+
+#input_seq:	fig|79880.75.peg.179|HJ578_00185   Oxidoreductase, short-chain dehydrogenase/reductase family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	short-chain dehydrogenase	BAD65329	No	100.0
+
+#input_seq:	fig|79880.75.peg.3005|HJ578_13425   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	HAD superfamily hydrolase	BAD63447	No	100.0
+
+#input_seq:	fig|79880.75.peg.2587|HJ578_11510   Regulatory protein RecX   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	regulatory protein RecX	BAD63842	No	100.0
+
+#input_seq:	fig|79880.75.peg.1504|HJ578_06420   ABC transporter, permease protein 2 (cluster 1, maltose/g3p/polyamine/iron)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sugar ABC transporter permease	BAD65832	No	100.0
+
+#input_seq:	fig|79880.75.peg.2032|HJ578_08950   Histidinol-phosphatase (EC 3.1.3.15)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	histidinol-phosphatase	BAD63290	No	100.0
+
+#input_seq:	fig|79880.75.peg.426|HJ578_01370   Putative phosphatase YitU   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	HAD superfamily hydrolase	BAD65095	No	100.0
+
+#input_seq:	fig|79880.75.peg.89|HJ578_20915   Glutamine ABC transporter, substrate-binding protein GlnH   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	glutamine ABC transporter substrate-binding protein	BAD62569	No	100.0
+
+#input_seq:	fig|79880.75.peg.1035|HJ578_04295   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64608	No	100.0
+
+#input_seq:	fig|79880.75.peg.2480|HJ578_11015   HAD-superfamily hydrolase, subfamily IIA   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	HAD superfamily sugar phosphatases	BAD62901	No	100.0
+
+#input_seq:	fig|79880.75.peg.3719|HJ578_16730   4-hydroxy-tetrahydrodipicolinate reductase (EC 1.17.1.8)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	dihydrodipicolinate reductase	BAD64451	No	100.0
+
+#input_seq:	fig|79880.75.peg.164|HJ578_00120   putative membrane protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65403	No	100.0
+
+#input_seq:	fig|79880.75.peg.3754|HJ578_16905   ABC transporter periplasmic binding protein yphF   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64416	No	100.0
+
+#input_seq:	fig|79880.75.peg.1168|HJ578_04890   Transcriptional regulator, DeoR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	DeoR family transcriptional regulator	BAD66106	No	100.0
+
+#input_seq:	fig|79880.75.peg.2742|HJ578_12235   Chitin binding protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	chitin-binding protein	BAD63699	No	100.0
+
+#input_seq:	fig|79880.75.peg.4460|HJ578_20340   tRNA pseudouridine(38-40) synthase (EC 5.4.99.12)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	pseudouridylate synthase I	BAD62725	No	100.0
+
+#input_seq:	fig|79880.75.peg.3428|HJ578_15340   SAM-dependent methyltransferase BA1462 (UbiE paralog)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	S-adenosylmethionine (SAM)-dependent methyltransferase	BAD66535	No	100.0
+
+#input_seq:	fig|79880.75.peg.2597|HJ578_11550   Peptidoglycan-N-acetylmuramic acid deacetylase PdaA   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	polysaccharide deacetylase	BAD63834	No	100.0
+
+#input_seq:	fig|79880.75.peg.3724|HJ578_16755   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64446	No	100.0
+
+#input_seq:	fig|79880.75.peg.3394|HJ578_15195   MerR family regulatory protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	MerR family transcriptional activator	BAD66506	No	100.0
+
+#input_seq:	fig|79880.75.peg.2985|HJ578_13325   Sporulation-specific N-acetylmuramoyl-L-alanine amidase (EC 3.5.1.28)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	N-acetylmuramoyl-L-alanine amidase	BAD63466	No	100.0
+
+#input_seq:	fig|79880.75.peg.2288|HJ578_10125   3-dehydroquinate dehydratase I (EC 4.2.1.10)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	3-dehydroquinate dehydratase	BAD63076	No	100.0
+
+#input_seq:	fig|79880.75.peg.827|HJ578_03340   Protein-L-isoD(D-D) O-methyltransferase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	S-adenosylmethionine (SAM)-dependent methyltransferase	BAD64720	No	100.0
+
+#input_seq:	fig|79880.75.peg.653|HJ578_02485   Cell division protein FtsQ   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	cell division initiation protein FtsQ	BAD64890	No	100.0
+
+#input_seq:	fig|79880.75.peg.1976|HJ578_08680   Rhomboid family protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63343	No	100.0
+
+#input_seq:	fig|79880.75.peg.451|HJ578_01485   GTP pyrophosphokinase (EC 2.7.6.5)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65073	No	100.0
+
+#input_seq:	fig|79880.75.peg.4482|HJ578_20440   Probable polysaccharide deacetylase pdaB precursor   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	polysaccharide deacetylase	BAD62745	No	100.0
+
+#input_seq:	fig|79880.75.peg.1084|HJ578_04525   Two-component response regulator, associated with ferric iron transporter, SPy1062 homolog   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component response regulator	BAD66179	No	100.0
+
+#input_seq:	fig|79880.75.peg.2150|HJ578_09480   D-threonate utilization transcriptional regulator, DeoR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional regulator of sugar metabolism	BAD63197	No	100.0
+
+#input_seq:	fig|79880.75.peg.2910|HJ578_12970   Transcriptional regulator of sugar metabolism   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	DeoR family transcriptional regulator	BAD63531	No	100.0
+
+#input_seq:	fig|79880.75.peg.2476|HJ578_10995   Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	glycerophosphoryl diester phosphodiesterase	BAD62905	No	100.0
+
+#input_seq:	fig|79880.75.peg.2581|HJ578_11480   Oxidoreductase, short-chain dehydrogenase/reductase family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	3-oxoacyl-[acyl-carrier-protein] reductase	BAD63848	No	100.0
+
+#input_seq:	fig|79880.75.peg.1151|HJ578_04820   Two-component response regulator yesN, associated with MetSO reductase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component response regulator	BAD66120	No	100.0
+
+#input_seq:	fig|79880.75.peg.3488|HJ578_15620   Autolysis response regulater LytR   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component response regulator	BAD66588	No	100.0
+
+#input_seq:	fig|79880.75.peg.2336|HJ578_10350   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63033	No	100.0
+
+#input_seq:	fig|79880.75.peg.4379|HJ578_19930   Uncharacterized protein YabS   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD62645	No	100.0
+
+#input_seq:	fig|79880.75.peg.1824|HJ578_07910   Carboxylesterase (EC 3.1.1.1)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	carboxylesterase	BAD65540	No	100.0
+
+#input_seq:	fig|79880.75.peg.3407|HJ578_15250   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	hypothetical protein	BAD66517	No	100.0
+
+#input_seq:	fig|79880.75.peg.193|HJ578_00250   Oxidoreductase, short-chain dehydrogenase/reductase family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	oxidoreductase	BAD65316	No	100.0
+
+#input_seq:	fig|79880.75.peg.1683|HJ578_07250   Metal-dependent hydrolases of the metallobeta-lactamase superfamily   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	metal-dependent hydrolase	BAD65671	No	100.0
+
+#input_seq:	fig|79880.75.peg.4132|HJ578_18725   cytochrome C-type biogenesis protein (ccdA), conjectural   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	cytochrome c biogenesis protein CcdA	BAD64071	No	100.0
+
+#input_seq:	fig|79880.75.peg.3576|HJ578_16065   Serine/threonine protein phosphatase (EC 3.1.3.16)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	diadenosine tetraphosphatase	BAD64578	No	100.0
+
+#input_seq:	fig|79880.75.peg.2141|HJ578_09435   Tricarboxylate transport transcriptional regulator TctD => Citrate response regulator CitB   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component response regulator	BAD63205	No	100.0
+
+#input_seq:	fig|79880.75.peg.391|HJ578_01200   Glutamine amidotransferase, class I   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	glutamine amidotransferase	BAD65129	No	100.0
+
+#input_seq:	fig|79880.75.peg.3953|HJ578_17870   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64236	No	100.0
+
+#input_seq:	fig|79880.75.peg.806|HJ578_03235   Oxidoreductase, short-chain dehydrogenase/reductase family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	3-oxoacyl-[acyl-carrier-protein] reductase	BAD64741	No	100.0
+
+#input_seq:	fig|79880.75.peg.4257|HJ578_19275   probable DNA alkylation repair enzyme   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63964	No	100.0
+
+#input_seq:	fig|79880.75.peg.1936|HJ578_08465   Flavodoxin reductases (ferredoxin-NADPH reductases) family 1   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	oxidoreductase	BAD63384	No	100.0
+
+#input_seq:	fig|79880.75.peg.3224|HJ578_14395   Tyrosine-protein kinase transmembrane modulator EpsC   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	capsular polysaccharide biosynthesis protein	BAD66347	No	100.0
+
+#input_seq:	fig|79880.75.peg.4176|HJ578_18925   Sugar fermentation stimulation protein SfsA   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sugar fermentation stimulation protein	BAD64032	No	100.0
+
+#input_seq:	fig|79880.75.peg.2354|HJ578_10430   Transcriptional regulator, GntR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	GntR family transcriptional regulator	BAD63016	No	100.0
+
+#input_seq:	fig|79880.75.peg.1500|HJ578_06400   AzlC-like   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	branched-chain amino acid permease AzlC	BAD65836	No	100.0
+
+#input_seq:	fig|79880.75.peg.901|HJ578_03675   Efflux ABC transporter, permease protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	multidrug ABC transporter permease	BAD64658	No	100.0
+
+#input_seq:	fig|79880.75.peg.2314|HJ578_10245   Glycosyltransferase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	glycosyltransferase	BAD63053	No	100.0
+
+#input_seq:	fig|79880.75.peg.1996|HJ578_08770   Osmosensitive K+ channel histidine kinase KdpD   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	osmosensitive K+ channel histidine kinase	BAD63325	No	100.0
+
+#input_seq:	fig|79880.75.peg.3317|HJ578_14835   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sortase	BAD66435	No	100.0
+
+#input_seq:	fig|79880.75.peg.40|HJ578_20675   ABC transporter-like sensor linked response regulator   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component response regulator	BAD62797	No	100.0
+
+#input_seq:	fig|79880.75.peg.2027|HJ578_08925   Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional activator of extracellular enzyme genes	BAD63295	No	100.0
+
+#input_seq:	fig|79880.75.peg.3942|HJ578_17815   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64247	No	100.0
+
+#input_seq:	fig|79880.75.peg.681|HJ578_02620   SAM-dependent methyltransferase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	S-adenosylmethionine (SAM)-dependent methyltransferase	BAD64863	No	100.0
+
+#input_seq:	fig|79880.75.peg.1941|HJ578_08490   Uncharacterized transcriptional regulator YdhC, GntR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	GntR family transcriptional regulator	BAD63379	No	100.0
+
+#input_seq:	fig|79880.75.peg.3511|HJ578_15720   Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	L-fuculose phosphate aldolase	BAD66607	No	100.0
+
+#input_seq:	fig|79880.75.peg.2231|HJ578_09855   AroM protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63123	No	100.0
+
+#input_seq:	fig|79880.75.peg.4339|HJ578_19740   Osmosensitive K+ channel histidine kinase KdpD (EC 2.7.3.-)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD62608	No	100.0
+
+#input_seq:	fig|79880.75.peg.2238|HJ578_09890   Mll2313 protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63116	No	100.0
+
+#input_seq:	fig|79880.75.peg.400|HJ578_01240   Phosphate transport system regulatory protein PhoU   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	phosphate transport system transcriptional regulator	BAD65121	No	100.0
+
+#input_seq:	fig|79880.75.peg.2601|HJ578_11565   Phosphoglycerate mutase (EC 5.4.2.11)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	phosphoglycerate mutase	BAD63831	No	100.0
+
+#input_seq:	fig|79880.75.peg.2178|HJ578_09600   Transcriptional regulator, AcrR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	TetR family transcriptional regulator	BAD63173	No	100.0
+
+#input_seq:	fig|79880.75.peg.3160|HJ578_14105   Demethylmenaquinone methyltransferase-like protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	S-adenosylmethionine:2-demethylmenaquinone methyltransferase	BAD66291	No	100.0
+
+#input_seq:	fig|79880.75.peg.1031|HJ578_04280   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	hypothetical protein	BAD64611	No	100.0
+
+#input_seq:	fig|79880.75.peg.3540|HJ578_15890   Uncharacterized protein YyaC   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66641	No	100.0
+
+#input_seq:	fig|79880.75.peg.908|HJ578_03710   Membrane proteins related to metalloendopeptidases   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	hypothetical protein	BAD64652	No	100.0
+
+#input_seq:	fig|79880.75.peg.2857|HJ578_12730   Two-component transcriptional response regulator, LuxR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component response regulator	BAD63584	No	100.0
+
+#input_seq:	fig|79880.75.peg.4252|HJ578_19255   Two-component transcriptional response regulator, LuxR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	two-component response regulator	BAD63968	No	100.0
+
+#input_seq:	fig|79880.75.peg.2882|HJ578_12850   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63560	No	100.0
+
+#input_seq:	fig|79880.75.peg.1963|HJ578_08615   Phosphoserine phosphatase RsbX (EC 3.1.3.3)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	indirect negative regulator of sigma-B activity	BAD63356	No	100.0
+
+#input_seq:	fig|79880.75.peg.668|HJ578_02555   Uncharacterized protein YteA   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64876	No	100.0
+
+#input_seq:	fig|79880.75.peg.2290|HJ578_10140   Trp repressor binding protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	multimeric flavodoxin WrbA	BAD63074	No	100.0
+
+#input_seq:	fig|79880.75.peg.70|HJ578_20815   Putative ADP-ribose pyrophosphatase YjhB   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	ADP-ribose pyrophosphatase	BAD62824	No	100.0
+
+#input_seq:	fig|79880.75.peg.140|HJ578_00005   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65425	No	100.0
+
+#input_seq:	fig|79880.75.peg.424|HJ578_01360   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65097	No	100.0
+
+#input_seq:	fig|79880.75.peg.2019|HJ578_08885   L-alanoyl-D-glutamate peptidase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	L-alanoyl-D-glutamate peptidase	BAD63302	No	100.0
+
+#input_seq:	fig|79880.75.peg.2614|HJ578_11625   Ribonuclease HI-related protein 3   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	ribonuclease	BAD63816	No	100.0
+
+#input_seq:	fig|79880.75.peg.4372|HJ578_19890   DedA family protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD62638	No	100.0
+
+#input_seq:	fig|79880.75.peg.447|HJ578_01470   Spore cortex-lytic enzyme   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	spore cortex-lytic enzyme	BAD65076	No	100.0
+
+#input_seq:	fig|79880.75.peg.274|HJ578_00625   Dephospho-CoA kinase (EC 2.7.1.24)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	dephospho-CoA kinase	BAD65241	No	100.0
+
+#input_seq:	fig|79880.75.peg.3762|HJ578_16945   Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	1-acylglycerol-3-phosphate O-acyltransferase	BAD64408	No	100.0
+
+#input_seq:	fig|79880.75.peg.1204|HJ578_05040   Sortase A, LPXTG specific   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sortase	BAD66098	No	100.0
+
+#input_seq:	fig|79880.75.peg.2339|HJ578_10365   Peptidoglycan-binding domain-containing protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	cell wall-binding protein	BAD63030	No	100.0
+
+#input_seq:	fig|79880.75.peg.3490|HJ578_15630   Transcriptional regulator, AcrR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	TetR/AcrR family transcriptional regulator	BAD66590	No	100.0
+
+#input_seq:	fig|79880.75.peg.3823|HJ578_17230   Transcriptional regulator   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional regulator	BAD64352	No	100.0
+
+#input_seq:	fig|79880.75.peg.378|HJ578_01135   Substrate-specific component BioY of biotin ECF transporter   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	biotin biosynthesis protein BioY	BAD65142	No	100.0
+
+#input_seq:	fig|79880.75.peg.2881|HJ578_12845   Ribosomal-protein-L7p-serine acetyltransferase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	ribosomal-protein-serine acetyltransferase	BAD63561	No	100.0
+
+#input_seq:	fig|79880.75.peg.1849|HJ578_08020   ATP:Cob(I)alamin adenosyltransferase (EC 2.5.1.17)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65516	No	100.0
+
+#input_seq:	fig|79880.75.peg.519|HJ578_01835   Shikimate kinase I (EC 2.7.1.71)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	shikimate kinase	BAD65016	No	100.0
+
+#input_seq:	fig|79880.75.peg.3265|HJ578_14585   ATP synthase delta chain (EC 3.6.3.14)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	F0F1-type ATP synthase delta chain	BAD66385	No	100.0
+
+#input_seq:	fig|79880.75.peg.2846|HJ578_12685   Transcriptional regulator   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional regulator	BAD63609	No	100.0
+
+#input_seq:	fig|79880.75.peg.2659|HJ578_11840   GNAT family acetyltransferase Bsu1753 (YnaD)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	ribosomal-protein-serine acetyltransferase	BAD63773	No	100.0
+
+#input_seq:	fig|79880.75.peg.373|HJ578_01110   Rod shape-determining protein MreD   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	rod shape-determining protein MreD	BAD65147	No	100.0
+
+#input_seq:	fig|79880.75.peg.3365|HJ578_15060   Uncharacterized membrane protein YuaF   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66479	No	100.0
+
+#input_seq:	fig|79880.75.peg.3869|HJ578_17440   C-type cytochrome biogenesis protein ResA (thioredoxin)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	thioredoxin	BAD64312	No	100.0
+
+#input_seq:	fig|79880.75.peg.3567|HJ578_16020   Chromosome-anchoring protein RacA   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional regulator	BAD64587	No	100.0
+
+#input_seq:	fig|79880.75.peg.3649|HJ578_16415   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64512	No	100.0
+
+#input_seq:	fig|79880.75.peg.3513|HJ578_15730   TRAP-type C4-dicarboxylate transport system, small permease component   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	C4-dicarboxylate transport system permease small protein	BAD66609	No	100.0
+
+#input_seq:	fig|79880.75.peg.3202|HJ578_14305   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	hypothetical protein	BAD66330	No	100.0
+
+#input_seq:	fig|79880.75.peg.3959|HJ578_17900   CarD-like transcriptional regulator   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	CarD family transcriptional regulator	BAD64230	No	100.0
+
+#input_seq:	fig|79880.75.peg.516|HJ578_01820   Uncharacterized membrane protein YqhR   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65019	No	100.0
+
+#input_seq:	fig|79880.75.peg.1055|HJ578_04395   transmembrane protein, distant homology with ydbS   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66206	No	100.0
+
+#input_seq:	fig|79880.75.peg.145|HJ578_00030   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65420	No	100.0
+
+#input_seq:	fig|79880.75.peg.2343|HJ578_10380   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63027	No	100.0
+
+#input_seq:	fig|79880.75.peg.4028|HJ578_18225   Na(+) H(+) antiporter subunit E   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	multiple resistance and pH regulation related protein MrpC	BAD64166	No	100.0
+
+#input_seq:	fig|79880.75.peg.3266|HJ578_14590   ATP synthase F0 sector subunit b (EC 3.6.3.14)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	F0F1-type ATP synthase B chain	BAD66386	No	100.0
+
+#input_seq:	fig|79880.75.peg.620|HJ578_02335   Thioesterase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64920	No	100.0
+
+#input_seq:	fig|79880.75.peg.873|HJ578_03540   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64685	No	100.0
+
+#input_seq:	fig|79880.75.peg.3358|HJ578_15030   Acetyltransferase, GNAT family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	GNAT family acetyltransferase	BAD66473	No	100.0
+
+#input_seq:	fig|79880.75.peg.2986|HJ578_13330   Holin   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	phage-related holin	BAD63465	No	100.0
+
+#input_seq:	fig|79880.75.peg.3966|HJ578_17935   Conserved protein YqxD   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64223	No	100.0
+
+#input_seq:	fig|79880.75.peg.4335|HJ578_19725   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional regulator	BAD62605	No	100.0
+
+#input_seq:	fig|79880.75.peg.3154|HJ578_14080   Nitrite-sensitive transcriptional repressor NsrR   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional regulator	BAD66286	No	100.0
+
+#input_seq:	fig|79880.75.peg.425|HJ578_01365   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65096	No	100.0
+
+#input_seq:	fig|79880.75.peg.4160|HJ578_18845   RNA polymerase ECF-type sigma factor   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	DNA-directed RNA polymerase ECF-type sigma factor	BAD64048	No	100.0
+
+#input_seq:	fig|79880.75.peg.2291|HJ578_10145   Probable phosphotransbutyrylase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	phosphotransbutyrylase	BAD63073	No	100.0
+
+#input_seq:	fig|79880.75.peg.2040|HJ578_08990   Nitrilotriacetate monooxygenase component B (EC 1.14.13.-)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	flavoprotein oxygenase	BAD63283	No	100.0
+
+#input_seq:	fig|79880.75.peg.1728|HJ578_07460   Transcriptional regulator, AsnC family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	Lrp/AsnC family transcriptional regulator	BAD65629	No	100.0
+
+#input_seq:	fig|79880.75.peg.1609|HJ578_06910   PTS system, tagatose-specific IIA component   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	A component PTS system fructose-specific enzyme II	BAD65730	No	100.0
+
+#input_seq:	fig|79880.75.peg.624|HJ578_02355   ComK regulator YlbF   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64916	No	100.0
+
+#input_seq:	fig|79880.75.peg.4476|HJ578_20410   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD62739	No	100.0
+
+#input_seq:	fig|79880.75.peg.2974|HJ578_13270   Transcriptional regulator, MerR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63476	No	100.0
+
+#input_seq:	fig|79880.75.peg.3309|HJ578_14795   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66427	No	100.0
+
+#input_seq:	fig|79880.75.peg.3432|HJ578_15360   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66539	No	100.0
+
+#input_seq:	fig|79880.75.peg.3484|HJ578_15600   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66584	No	100.0
+
+#input_seq:	fig|79880.75.peg.411|HJ578_01295   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65110	No	100.0
+
+#input_seq:	fig|79880.75.peg.209|HJ578_00330   UPF0478 protein YtxG   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	general stress protein	BAD65301	No	100.0
+
+#input_seq:	fig|79880.75.peg.621|HJ578_02340   Uncharacterized protein YlbD   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64919	No	100.0
+
+#input_seq:	fig|79880.75.peg.1742|HJ578_07525   Uncharacterized protein YvyF   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	flagellar protein	BAD65616	No	100.0
+
+#input_seq:	fig|79880.75.peg.2696|HJ578_12015   Uncharacterized protein YuxK   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63737	No	100.0
+
+#input_seq:	fig|79880.75.peg.879|HJ578_03570   heat shock protein class I (low molecular weight)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	molecular chaperone	BAD64679	No	100.0
+
+#input_seq:	fig|79880.75.peg.3947|HJ578_17840   Uncharacterized membrane protein YqfX   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64242	No	100.0
+
+#input_seq:	fig|79880.75.peg.719|HJ578_02805   Uncharacterized protein YlqD   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64826	No	100.0
+
+#input_seq:	fig|79880.75.peg.1568|HJ578_06710   Glucitol operon activator protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65771	No	100.0
+
+#input_seq:	fig|79880.75.peg.184|HJ578_00210   Holin-like protein CidA   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	effector of murein hydrolase	BAD65324	No	100.0
+
+#input_seq:	fig|79880.75.peg.3261|HJ578_14565   ATP synthase epsilon chain (EC 3.6.3.14)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	F0F1-type ATP synthase epsilon chain	BAD66381	No	100.0
+
+#input_seq:	fig|79880.75.peg.296|HJ578_00735   Sigma-W pathway protein YsdB   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65219	No	100.0
+
+#input_seq:	fig|79880.75.peg.1280|HJ578_05360   General stress protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	general stress protein B	BAD66040	No	100.0
+
+#input_seq:	fig|79880.75.peg.1751|HJ578_07570   Flagellar biosynthesis protein FliS   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	flagellar protein FliS	BAD65607	No	100.0
+
+#input_seq:	fig|79880.75.peg.1827|HJ578_07925   Putative oxidoreductase CatD   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65537	No	100.0
+
+#input_seq:	fig|79880.75.peg.1989|HJ578_08735   Na(+) H(+) antiporter subunit G   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	multiple resistance and pH regulation related protein MrpG	BAD63332	No	100.0
+
+#input_seq:	fig|79880.75.peg.2952|HJ578_13165   Phosphoenolpyruvate-dihydroxyacetone phosphotransferase (EC 2.7.1.121), subunit DhaM; DHA-specific IIA component   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63493	No	100.0
+
+#input_seq:	fig|79880.75.peg.3963|HJ578_17920   Cytochrome c-551   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	cytochrome c551	BAD64226	No	100.0
+
+#input_seq:	fig|79880.75.peg.3935|HJ578_17750   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64254	No	100.0
+
+#input_seq:	fig|79880.75.peg.1014|HJ578_04205   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64624	No	100.0
+
+#input_seq:	fig|79880.75.peg.117|HJ578_21055   Uncharacterized protein UPF0344   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65434	No	100.0
+
+#input_seq:	fig|79880.75.peg.1244|HJ578_05200   Transcriptional regulator, MerR family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	MerR family transcriptional activator	BAD66073	No	100.0
+
+#input_seq:	fig|79880.75.peg.416|HJ578_01320   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65105	No	100.0
+
+#input_seq:	fig|79880.75.peg.2592|HJ578_11535   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63837	No	100.0
+
+#input_seq:	fig|79880.75.peg.1969|HJ578_08645   RsbS, negative regulator of sigma-B   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	negative regulator of sigma-B activity	BAD63350	No	100.0
+
+#input_seq:	fig|79880.75.peg.2715|HJ578_12105   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63728	No	100.0
+
+#input_seq:	fig|79880.75.peg.1939|HJ578_08480   Glyoxalase/bleomycin resistance protein/dioxygenase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63381	No	100.0
+
+#input_seq:	fig|79880.75.peg.618|HJ578_02325   Phenylalanyl-tRNA synthetase alpha subunit   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64922	No	100.0
+
+#input_seq:	fig|79880.75.peg.2580|HJ578_11475   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63849	No	100.0
+
+#input_seq:	fig|79880.75.peg.3255|HJ578_14535   Broad-specificity multidrug efflux pump YkkC   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	small multidrug resistance protein	BAD66375	No	100.0
+
+#input_seq:	fig|79880.75.peg.615|HJ578_02310   Cytochrome c oxidase polypeptide IV (EC 1.9.3.1)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	cytochrome caa3 oxidase subunit IV CoxD	BAD64925	No	100.0
+
+#input_seq:	fig|79880.75.peg.479|HJ578_01610   Sporulation protein SpoVIF (YjcA)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65051	No	100.0
+
+#input_seq:	fig|79880.75.peg.1593|HJ578_06830   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65746	No	100.0
+
+#input_seq:	fig|79880.75.peg.531|HJ578_01890   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65005	No	100.0
+
+#input_seq:	fig|79880.75.peg.1206|HJ578_05045   Transcriptional regulator   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional regulator	BAD66096	No	100.0
+
+#input_seq:	fig|79880.75.peg.4026|HJ578_18215   Na(+) H(+) antiporter subunit C   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	multiple resistance and pH regulation related protein MrpE	BAD64168	No	100.0
+
+#input_seq:	fig|79880.75.peg.917|HJ578_03755   General stress protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64643	No	100.0
+
+#input_seq:	fig|79880.75.peg.3350|HJ578_14990   Branched-chain amino acid transport protein azlD   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66465	No	100.0
+
+#input_seq:	fig|79880.75.peg.2618|HJ578_11645   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63812	No	100.0
+
+#input_seq:	fig|79880.75.peg.192|HJ578_00245   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65317	No	100.0
+
+#input_seq:	fig|79880.75.peg.4210|HJ578_19055   FIG01231216: hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64007	No	100.0
+
+#input_seq:	fig|79880.75.peg.3877|HJ578_17475   Methylated-DNA-[protein]-cysteine S-methyltransferase   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	6-O-methylguanine DNA methyltransferase	BAD64306	No	100.0
+
+#input_seq:	fig|79880.75.peg.883|HJ578_03585   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64676	No	100.0
+
+#input_seq:	fig|79880.75.peg.383|HJ578_01160   LSU ribosomal protein L21p   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	50S ribosomal protein L21	BAD65137	No	100.0
+
+#input_seq:	fig|79880.75.peg.4086|HJ578_18505   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64114	No	100.0
+
+#input_seq:	fig|79880.75.peg.199|HJ578_00280   Uncharacterized protein YtzB   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65311	No	100.0
+
+#input_seq:	fig|79880.75.peg.2617|HJ578_11640   Transcriptional regulator, AbrB family   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transition state regulatory protein	BAD63813	No	100.0
+
+#input_seq:	fig|79880.75.peg.2570|HJ578_11425   BH0950 unknown conserved protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63859	No	100.0
+
+#input_seq:	fig|79880.75.peg.2589|HJ578_11520   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63840	No	100.0
+
+#input_seq:	fig|79880.75.peg.4102|HJ578_18580   FIG01227478: hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64099	No	100.0
+
+#input_seq:	fig|79880.75.peg.3030|HJ578_13545   PTS system, IIB component   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	B component PTS system mannitol/fructose-specific enzyme II	BAD63424	No	100.0
+
+#input_seq:	fig|79880.75.peg.2224|HJ578_09830   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63128	No	100.0
+
+#input_seq:	fig|79880.75.peg.3626|HJ578_16305   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64534	No	100.0
+
+#input_seq:	fig|79880.75.peg.3430|HJ578_15350   Pterin-4-alpha-carbinolamine dehydratase (EC 4.2.1.96)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	pterin-4-alpha-carbinolamine dehydratase	BAD66537	No	100.0
+
+#input_seq:	fig|79880.75.peg.3955|HJ578_17880   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64234	No	100.0
+
+#input_seq:	fig|79880.75.peg.73|HJ578_20830   Inhibitor of pro-sigmaK processing BofA   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	inhibition of the pro-sigma-K processing machinery	BAD62584	No	100.0
+
+#input_seq:	fig|79880.75.peg.4468|HJ578_20375   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD62732	No	100.0
+
+#input_seq:	fig|79880.75.peg.3589|HJ578_16120   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64567	No	100.0
+
+#input_seq:	fig|79880.75.peg.816|HJ578_03285   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64731	No	100.0
+
+#input_seq:	fig|79880.75.peg.1565|HJ578_06700   Phosphotransferase system, phosphocarrier protein HPr   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	catabolite repression HPr-like protein	BAD65773	No	100.0
+
+#input_seq:	fig|79880.75.peg.2875|HJ578_12815   Phosphoribosylformylglycinamidine synthase, PurS subunit (EC 6.3.5.3)   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	phosphorybosylformylglycinamidine synthase PurS component	BAD63567	No	100.0
+
+#input_seq:	fig|79880.75.peg.2616|HJ578_11635   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63814	No	100.0
+
+#input_seq:	fig|79880.75.peg.3891|HJ578_17545   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64292	No	100.0
+
+#input_seq:	fig|79880.75.peg.329|HJ578_00890   Ferredoxin   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	ferredoxin	BAD65190	No	100.0
+
+#input_seq:	fig|79880.75.peg.1629|HJ578_07005   Ferredoxin   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	ferredoxin	BAD65710	No	100.0
+
+#input_seq:	fig|79880.75.peg.3017|HJ578_13480   Molybdopterin synthase sulfur carrier subunit   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	molybdopterin converting factor subunit 1 MoaD	BAD63437	No	100.0
+
+#input_seq:	fig|79880.75.peg.1898|HJ578_08265   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65469	No	100.0
+
+#input_seq:	fig|79880.75.peg.1679|HJ578_07235   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	hypothetical protein	BAD65674	No	100.0
+
+#input_seq:	fig|79880.75.peg.3260|HJ578_14560   Uncharacterized membrane protein YwzB   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66380	No	100.0
+
+#input_seq:	fig|79880.75.peg.1615|HJ578_06935   Small, acid-soluble spore protein Tlp   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65724	No	100.0
+
+#input_seq:	fig|79880.75.peg.712|HJ578_02770   Hypothetical protein YfkK   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64833	No	100.0
+
+#input_seq:	fig|79880.75.peg.3270|HJ578_14610   ATP synthase protein I   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD66390	No	100.0
+
+#input_seq:	fig|79880.75.peg.4155|HJ578_18825   Uncharacterized protein YheE   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64052	No	100.0
+
+#input_seq:	fig|79880.75.peg.3949|HJ578_17850   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64240	No	100.0
+
+#input_seq:	fig|79880.75.peg.3907|HJ578_17615   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	transcriptional regulator	BAD64280	No	100.0
+
+#input_seq:	fig|79880.75.peg.3864|HJ578_17415   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64316	No	100.0
+
+#input_seq:	fig|79880.75.peg.855|HJ578_03460   UPF0154 protein YneF   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64697	No	100.0
+
+#input_seq:	fig|79880.75.peg.3922|HJ578_17690   Uncharacterized protein YqgQ   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64265	No	100.0
+
+#input_seq:	fig|79880.75.peg.2741|HJ578_12230   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63700	No	100.0
+
+#input_seq:	fig|79880.75.peg.3755|HJ578_16910   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64415	No	100.0
+
+#input_seq:	fig|79880.75.peg.1711|HJ578_07375   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65646	No	100.0
+
+#input_seq:	fig|79880.75.peg.4110|HJ578_18620   Uncharacterized membrane-anchored protein Rmet_0180   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64091	No	100.0
+
+#input_seq:	fig|79880.75.peg.2309|HJ578_10220   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63058	No	100.0
+
+#input_seq:	fig|79880.75.peg.498|HJ578_01735   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65036	No	100.0
+
+#input_seq:	fig|79880.75.peg.3042|HJ578_13605   Twin-arginine translocation protein TatAy   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	sec-independent protein translocase protein TatA	BAD63413	No	100.0
+
+#input_seq:	fig|79880.75.peg.3909|HJ578_17625   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64278	No	100.0
+
+#input_seq:	fig|79880.75.peg.603|HJ578_02250   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64937	No	100.0
+
+#input_seq:	fig|79880.75.peg.501|HJ578_01750   Uncharacterized membrane protein YqgW   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	alkaliphily related protein	BAD65033	No	100.0
+
+#input_seq:	fig|79880.75.peg.1048|HJ578_04360   Uncharacterized protein YpmA   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64596	No	100.0
+
+#input_seq:	fig|79880.75.peg.122|HJ578_21085   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65438	No	100.0
+
+#input_seq:	fig|79880.75.peg.1852|HJ578_08035   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD65513	No	100.0
+
+#input_seq:	fig|79880.75.peg.3769|HJ578_16980   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64401	No	100.0
+
+#input_seq:	fig|79880.75.peg.2615|HJ578_11630   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63815	No	100.0
+
+#input_seq:	fig|79880.75.peg.926   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	hypothetical protein	BAD64635	No	100.0
+
+#input_seq:	fig|79880.75.peg.866|HJ578_03505   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD64691	No	100.0
+
+#input_seq:	fig|79880.75.peg.243   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	hypothetical protein	BAD65270	No	100.0
+
+#input_seq:	fig|79880.75.peg.4314   hypothetical protein   [Bacillus clausii strain B619/R | 79880.75]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD62586	No	100.0
+

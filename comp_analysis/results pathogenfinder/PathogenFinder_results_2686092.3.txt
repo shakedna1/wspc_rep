@@ -1,0 +1,41 @@
+INPUT SEQUENCE INFO:
+Input Name ::	5_11_12_2020_105356_326473_input.fsa
+Sequences ::	 4568
+Total bpp ::	 1237913
+Longest seq ::	 1539
+Shortest seq ::	 29
+Avg seq lenght ::	 270.0
+
+RESULTS:
+Min Identity Threshold ::	82.842
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-6.768
+Probability of being human pathogen ::	0.302
+Matches::	7
+Genome Coverage (%) ::	0.15
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	6
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2686092.3.peg.4522   Cytochrome c-type biogenesis protein CcsA/ResC   [Halobacillus sp. Marseille-Q1234 | 2686092.3]
+#matched_seq:	30537	CP001794	Geobacillus sp. Y412MC61, complete genome.	Bacillales	cytochrome c-type biogenesis protein CcsB	ACX77083	No	84.91
+
+#input_seq:	fig|2686092.3.peg.2144   Intracellular protease   [Halobacillus sp. Marseille-Q1234 | 2686092.3]
+#matched_seq:	284	BA000028	Oceanobacillus iheyensis HTE831 DNA, complete genome.	Bacillales	hypothetical conserved protein	BAC12659	No	85.88
+
+#input_seq:	fig|2686092.3.peg.2337   LSU ribosomal protein L16p (L10e)   [Halobacillus sp. Marseille-Q1234 | 2686092.3]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	LSU ribosomal protein L16P	ABK83530	No	83.33
+
+#input_seq:	fig|2686092.3.peg.1282   hypothetical protein   [Halobacillus sp. Marseille-Q1234 | 2686092.3]
+#matched_seq:	13291	AP006627	Bacillus clausii KSM-K16 DNA, complete genome.	Bacillales	conserved hypothetical protein	BAD63392	No	90.84
+
+#input_seq:	fig|2686092.3.peg.2334   SSU ribosomal protein S19p (S15e)   [Halobacillus sp. Marseille-Q1234 | 2686092.3]
+#matched_seq:	36361	CP001602	Listeria monocytogenes 08-5578, complete genome.	Bacillales	30S ribosomal protein S19	ADB66989	Yes	84.78
+
+#input_seq:	fig|2686092.3.peg.61   Ferredoxin   [Halobacillus sp. Marseille-Q1234 | 2686092.3]
+#matched_seq:	284	BA000028	Oceanobacillus iheyensis HTE831 DNA, complete genome.	Bacillales	ferredoxin [3Fe-4S][4Fe-4S]	BAC13686	No	87.34
+
+#input_seq:	fig|2686092.3.peg.2355   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Halobacillus sp. Marseille-Q1234 | 2686092.3]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	86.84
+
