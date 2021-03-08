@@ -223,13 +223,14 @@ def get_top_features_per_class_in_multiple_runs(x, y, importance_func, n_runs=10
 
 def calc_p_ratio(hps, nhps, total_hps, total_nhps):
     """
-    Returns a normalized hps/nhps or nhps/hps ratio, which corrects for the total_hps/total_nhps imbalance in the
-     data set.
+    Returns a ratio between the proportion hps/nhps to the proportion nhps/hps. The larger proportion will be the
+    numerator and the lower proportion will be the denominator (and thus the p-ratio>=1).
+    This corrects for the total_hps/total_nhps imbalance in the data set.
     :param hps: number of hps
     :param nhps: number of nhps
     :param total_hps: total number of hps in the dataset
     :param total_nhps: total number of nhps in the dataset
-    :return: normalized hps/nhps if hps > nhps, else normalized nhps/hps
+    :return: ratio x/y where x=hps/nhps, y=nhps/hps if x > y, else y/x
     """
 
     hps_proportion = (hps+1) / (total_hps+1)  # add-one smoothing
