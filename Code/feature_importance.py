@@ -232,17 +232,10 @@ def calc_p_ratio(hps, nhps, total_hps, total_nhps):
     :return: normalized hps/nhps if hps > nhps, else normalized nhps/hps
     """
 
-    hps_normalized = (hps+1) / (total_hps+1) # add-one smoothing
-    nhps_normalized = (nhps+1) / (total_nhps+1) #add-one smoothing
+    hps_proportion = (hps+1) / (total_hps+1)  # add-one smoothing
+    nhps_proportion = (nhps+1) / (total_nhps+1)  # add-one smoothing
 
-    if hps > nhps:
-        numerator = hps_normalized
-        denominator = nhps_normalized
-    else:
-        numerator = nhps_normalized
-        denominator = hps_normalized
-
-    p_ratio = round(numerator/denominator, 2)
+    p_ratio = round(max(hps_proportion, nhps_proportion)/min(hps_proportion, nhps_proportion), 2)
 
     return p_ratio
 
