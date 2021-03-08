@@ -69,6 +69,7 @@ def train_and_rank_features_one_rf_model(x, y, curr_random_state, importance_fun
     return importances, indices
 
 
+
 def find_top_features_in_multiple_runs(x, y, importance_func, n_runs=100):
     """ Calculating  MDI value over multiple random forest
         classifiers with different random seeds.
@@ -96,6 +97,7 @@ def find_top_features_in_multiple_runs(x, y, importance_func, n_runs=100):
             all_importances_for_all_features.setdefault(feature_num, []).append(importances[feature_num])
 
     return all_importances_for_all_features
+
 
 
 def count_hp_vs_nhp(genome_ids, y):
@@ -136,6 +138,7 @@ def count_hp_vs_nhps_feature(x, y_df, feature):
     hps, nhps = count_hp_vs_nhp(genomes_with_feature.index, y_df)
 
     return hps, nhps
+
 
 
 def split_top_features_to_classes(x, y_df, indices):
@@ -218,19 +221,19 @@ def get_top_features_per_class_in_multiple_runs(x, y, importance_func, n_runs=10
     return class_features
 
 
-def calc_odds_ratio(hps, nhps, total_hps, total_nhps):
+def calc_p_ratio(hps, nhps, total_hps, total_nhps):
     """
-    Returns the odds ratio of hps/total_hps to nhps/total_nhps if hps > nhps, else the odds ratio of nhps/total_nhps
-    to hps/total_hps. Includes an add-one smoothing to avoid zero division.
+    Returns a normalized hps/nhps or nhps/hps ratio, which corrects for the total_hps/total_nhps imbalance in the
+     data set.
     :param hps: number of hps
     :param nhps: number of nhps
     :param total_hps: total number of hps in the dataset
     :param total_nhps: total number of nhps in the dataset
-    :return: (hps/total_hps)/(nhps/total_nhps) if hps > nhps, else normalized (nhps/total_nhps)/(hps/total_hps)
+    :return: normalized hps/nhps if hps > nhps, else normalized nhps/hps
     """
 
-    hps_normalized = (hps + 1) / (total_hps + 1)  # add-one smoothing
-    nhps_normalized = (nhps + 1) / (total_nhps + 1)  # add-one smoothing
+    hps_normalized = (hps+1) / (total_hps+1) # add-one smoothing
+    nhps_normalized = (nhps+1) / (total_nhps+1) #add-one smoothing
 
     if hps > nhps:
         numerator = hps_normalized
@@ -239,7 +242,7 @@ def calc_odds_ratio(hps, nhps, total_hps, total_nhps):
         numerator = nhps_normalized
         denominator = hps_normalized
 
-    p_ratio = round(numerator / denominator, 2)
+    p_ratio = round(numerator/denominator, 2)
 
     return p_ratio
 
@@ -278,7 +281,7 @@ def create_top_feats_df(class_features, x, y_df, pgfam_to_desc, top_feats=None):
 
             i = x.columns.get_loc(feature)
 
-            odds_ratio = calc_odds_ratio(hps, nhps, total_hps, total_nhps)
+            p_ratio = calc_p_ratio(hps, nhps, total_hps, total_nhps)
             mean_feature_importance = round(mean_importance[i], 3)
             std_feature_importance = round(std_importance[i], 3)
             pgfam_desc = pgfam_to_desc.get(feature, "")
@@ -289,10 +292,12 @@ def create_top_feats_df(class_features, x, y_df, pgfam_to_desc, top_feats=None):
                 f'{mean_feature_importance} ({std_feature_importance})')
             top_features_data[c_class].setdefault('HPs', []).append(hps)
             top_features_data[c_class].setdefault('NHPs', []).append(nhps)
-            top_features_data[c_class].setdefault('Odds Ratio', []).append(odds_ratio)
+            top_features_data[c_class].setdefault('P-Ratio', []).append(p_ratio)
             top_features_data[c_class].setdefault('# Genera', []).append(genus_broadness)
 
     hps_df = pd.DataFrame(top_features_data['HP'])
     nhps_df = pd.DataFrame(top_features_data['NHP'])
 
     return hps_df, nhps_df
+
+
