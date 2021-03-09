@@ -221,6 +221,26 @@ def get_top_features_per_class_in_multiple_runs(x, y, importance_func, n_runs=10
     return class_features
 
 
+def calc_p_ratio(hps, nhps, total_hps, total_nhps):
+    """
+    Returns a ratio between the proportion hps/nhps to the proportion nhps/hps. The larger proportion will be the
+    numerator and the lower proportion will be the denominator (and thus the p-ratio>=1).
+    This corrects for the total_hps/total_nhps imbalance in the data set.
+    :param hps: number of hps
+    :param nhps: number of nhps
+    :param total_hps: total number of hps in the dataset
+    :param total_nhps: total number of nhps in the dataset
+    :return: ratio x/y where x=hps/nhps, y=nhps/hps if x > y, else y/x
+    """
+
+    hps_proportion = (hps+1) / (total_hps+1)  # add-one smoothing
+    nhps_proportion = (nhps+1) / (total_nhps+1)  # add-one smoothing
+
+    p_ratio = round(max(hps_proportion, nhps_proportion)/min(hps_proportion, nhps_proportion), 2)
+
+    return p_ratio
+
+
 def create_top_feats_df(class_features, x, y_df, pgfam_to_desc, top_feats=None):
     """ Creates dataframe that represents the relevant information on the top features
 
@@ -255,8 +275,7 @@ def create_top_feats_df(class_features, x, y_df, pgfam_to_desc, top_feats=None):
 
             i = x.columns.get_loc(feature)
 
-            denominator = 1 if nhps == 0 else nhps / total_nhps
-            p_ratio = round((hps / total_hps) / (denominator), 2)
+            p_ratio = calc_p_ratio(hps, nhps, total_hps, total_nhps)
             mean_feature_importance = round(mean_importance[i], 3)
             std_feature_importance = round(std_importance[i], 3)
             pgfam_desc = pgfam_to_desc.get(feature, "")
@@ -265,12 +284,10 @@ def create_top_feats_df(class_features, x, y_df, pgfam_to_desc, top_feats=None):
             top_features_data[c_class].setdefault('Function', []).append(pgfam_desc)
             top_features_data[c_class].setdefault('Mean Importance (SD)', []).append(
                 f'{mean_feature_importance} ({std_feature_importance})')
-            # top_features_data[c_class].setdefault('Mean Importance Std', []).append(std_feature_importance)
             top_features_data[c_class].setdefault('HPs', []).append(hps)
             top_features_data[c_class].setdefault('NHPs', []).append(nhps)
             top_features_data[c_class].setdefault('P-Ratio', []).append(p_ratio)
             top_features_data[c_class].setdefault('# Genera', []).append(genus_broadness)
-
 
     hps_df = pd.DataFrame(top_features_data['HP'])
     nhps_df = pd.DataFrame(top_features_data['NHP'])
