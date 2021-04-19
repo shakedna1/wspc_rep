@@ -93,7 +93,7 @@ class GenomesData:
 
     def convert_labels(self):
         """Converts the genome labels to binary labels according to GenomesData.label_to_int"""
-        return self.metadata[LABEL].apply(lambda label: GenomesData.label_to_int[label])
+        return self.metadata[LABEL].apply(lambda label: GenomesData.label_to_int.get(label, -1))
 
     def vectorize_data(self, vectorizer=CountVectorizer(lowercase=False, binary=True)):
         """

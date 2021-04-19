@@ -1,36 +1,33 @@
-import json
 import pickle
+from pathlib import Path
 
 
 def load_model(model_path):
-    '''Loads existing model
+    """Loads existing model
 
     Parameters:
     model_path - path to the model file
 
     Returns: loaded model
-    '''
+    """
 
     with open(model_path, 'rb') as f:
         return pickle.load(f)
 
 
-def save_model(model_filename, model, X_train):
-    '''Saves model to pkl file, and the final feature set of the model to json file'
+def save_model(path, model_filename, model):
+    """Saves model to pkl file'
 
     Parameters:
     model_filename - string used for naming the function output files
     model - model (classifier) to save
-    X_train - dataframe of the training genomes with the final features vectors. Used in order to extract the final
-             feature set of the model.
-
 
     Returns:
-    '''
+    """
 
-    with open(model_filename + '.pkl', 'wb') as file:
+    out_path = Path(path)
+    model_filename = model_filename + '.pkl'
+    out_path = out_path / model_filename
+
+    with open(out_path, 'wb') as file:
         pickle.dump(model, file)
-
-    final_features = list(X_train.columns)
-    with open(model_filename + '_features.json', 'w') as file:
-        json.dump(final_features, file)

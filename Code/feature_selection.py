@@ -73,7 +73,7 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
         self.selected_features_ = [chi2_vals[cluster].idxmax() for cluster in clusters]
         self.clusters_ = clusters
 
-        print(f'threshold={self.threshold}, selected_features= {len(self.selected_features_)}')
+        print(f'threshold={self.threshold:.2f}, selected_features={len(self.selected_features_)}')
 
         return self
 
