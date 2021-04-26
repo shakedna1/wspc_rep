@@ -1,14 +1,8 @@
-import util
-
-import json
 import matplotlib.pyplot as plt
 import numpy as np
-import pandas as pd
 import sklearn.metrics as metrics
 
 from scipy.cluster import hierarchy
-from scipy.stats import chi2_contingency
-from sklearn import feature_selection
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.pipeline import Pipeline
