@@ -13,6 +13,11 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.pipeline import Pipeline
 
+SPEC = 'Specificity'
+SENS = 'Sensitivity'
+BACC = 'BAcc'
+AUROC = 'AUROC'
+AUPR = 'AUPR'
 
 
 def predict(X_test, model):
@@ -149,11 +154,11 @@ def calculate_results(predictions, predictions_probs, y_test):
     roc_auc = metrics.auc(fpr, tpr)
     bacc = (sensitivity + specificity) / 2
 
-    evaluation_results = {'specificity': specificity,
-                          'sensitivity': sensitivity,
-                          'bacc': bacc,
-                          'aupr_auc': aupr_auc,
-                          'roc_auc': roc_auc}
+    evaluation_results = {SPEC: specificity,
+                          SENS: sensitivity,
+                          BACC: bacc,
+                          AUPR: aupr_auc,
+                          AUROC: roc_auc}
 
     return evaluation_results
 
@@ -170,18 +175,17 @@ def print_train_results(evaluation_results):
 
 
     ROUND = 2
-    bacc = round(evaluation_results['bacc'], ROUND)
-    sensitivity = round(evaluation_results['sensitivity'], ROUND)
-    specificity = round(evaluation_results['specificity'], ROUND)
-    aupr_auc = round(evaluation_results['aupr_auc'], ROUND)
-    roc_auc = round(evaluation_results['roc_auc'], ROUND)
+    bacc = round(evaluation_results[BACC], ROUND)
+    sensitivity = round(evaluation_results[SENS], ROUND)
+    specificity = round(evaluation_results[SPEC], ROUND)
+    aupr_auc = round(evaluation_results[AUPR], ROUND)
+    roc_auc = round(evaluation_results[AUROC], ROUND)
 
-    print(f'BAcc: {bacc}')
-    print(f'sensitivity: {sensitivity}')
-    print(f'specificity: {specificity}')
-    print(f'aupr_auc: {aupr_auc}')
-    print(f'roc_auc: {roc_auc}')
-
+    print(f'{BACC}: {bacc}')
+    print(f'{SENS}: {sensitivity}')
+    print(f'{SPEC}: {specificity}')
+    print(f'{AUPR}: {aupr_auc}')
+    print(f'{AUROC}: {roc_auc}')
 
 
 def dendogram(X, corr_linkage):
