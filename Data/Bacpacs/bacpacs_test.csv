@@ -1,31 +1,31 @@
 ,Genome ID,Genome Name,BacPaCS Label,Label,Ref.,OPP,Balanced Test
-1,470.3353,Acinetobacter baumannii strain HWBA8,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),\cite{peleg2008acinetobacter},Yes
-2,106654.48,Acinetobacter nosocomialis strain SSA3,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),\cite{peleg2008acinetobacter},Yes
+1,470.3353,Acinetobacter baumannii strain HWBA8,NHP,HP,Clinical isolate \cite{yoon2017bla},\cite{peleg2008acinetobacter},Yes
+2,106654.48,Acinetobacter nosocomialis strain SSA3,NHP,HP,Clinical isolate \cite{yoon2017bla},\cite{peleg2008acinetobacter},Yes
 3,520.659,Bordetella pertussis strain B227,HP,HP,\cite{bowden2016genome},,Yes
 4,28450.385,Burkholderia pseudomallei strain MSHR5864,HP,HP,\cite{sarovich2018raising},\cite{mangalea2017nitrate},Yes
 5,83554.74,Chlamydia psittaci strain GIMC 2005:CpsCP1,HP,HP,\cite{feodorova2020data},,Yes
 6,813.141,Chlamydia trachomatis strain SQ12,HP,HP,\cite{suchland2017demonstration},,Yes
-7,545.38,Citrobacter koseri strain FDAARGOS\_287,HP,HP,\cite{545.38},\cite{yuan2019comparative},Yes
+7,545.38,Citrobacter koseri strain FDAARGOS\_287,HP,HP,"\cite{545.38,yuan2019comparative}",\cite{yuan2019comparative},Yes
 8,777.186,Coxiella burnetii strain Heizberg,HP,HP,\cite{kuley2017genome},,Yes
-9,1352.1760,Enterococcus faecium strain Ef\_aus00233,NHP,HP,(Hospital outbreak isolate~\cite{buultjens2017evolutionary}),\cite{zhou2020enterococcus},Yes
+9,1352.1760,Enterococcus faecium strain Ef\_aus00233,NHP,HP,Hospital outbreak isolate \cite{buultjens2017evolutionary},\cite{zhou2020enterococcus},Yes
 10,562.22306,Escherichia coli strain FDAARGOS\_433 strain Not applicable,HP,HP,\cite{562.22306},,Yes
 11,210.2912,Helicobacter pylori strain F20,HP,HP,\cite{kojima2016population},,Yes
-12,573.16474,Klebsiella pneumoniae strain KP9,HP,HP,\cite{573.16474},\cite{chi2019characterization},Yes
+12,573.16474,Klebsiella pneumoniae strain KP9,HP,HP,"\cite{573.16474,chi2019characterization}",\cite{chi2019characterization},Yes
 13,1639.2624,Listeria monocytogenes strain H34,HP,HP,\cite{muchaamba2017full},\cite{muchaamba2017full},Yes
 14,1041522.28,Mycobacterium colombiense CECT 3035 strain CECT 3035,HP,HP,\cite{gonzalez2016deciphering},\cite{gonzalez2016deciphering},Yes
 15,722731.3,Mycobacterium shigaense strain UN-152,HP,HP,\cite{fukano2018mycobacterium},\cite{fukano2020first},Yes
 16,1773.8714,Mycobacterium tuberculosis strain MDRMA2441,HP,HP,\cite{sheen2017multiple},,Yes
 17,2104.190,Mycoplasma pneumoniae strain KCH-405,HP,HP,\cite{kenri2017complete},,Yes
-18,37326.9,Nocardia brasiliensis strain FDAARGOS\_352,HP,HP,\cite{37326.9},,Yes
+18,37326.9,Nocardia brasiliensis strain FDAARGOS\_352,HP,HP,"\cite{37326.9,brown2006clinical}",,Yes
 19,28131.10,Prevotella intermedia strain OMA14,HP,HP,\cite{naito2016complete},\cite{santos2012differentially},Yes
 20,287.4623,Pseudomonas aeruginosa strain PB350,HP,HP,\cite{huang2020integrated},\cite{diggle2020microbe},Yes
 21,1280.11681,Staphylococcus aureus strain USA300-SUR15,HP,HP,\cite{sabat2017complete},\cite{o2017into},Yes
-22,1302.83,Streptococcus gordonii strain FDAARGOS\_257,HP,HP,\cite{1302.83},\cite{park2020streptococcus},Yes
+22,1302.83,Streptococcus gordonii strain FDAARGOS\_257,HP,HP,"\cite{1302.83,park2020streptococcus}",\cite{park2020streptococcus},Yes
 23,1338.30,Streptococcus intermedius strain FDAARGOS\_233,HP,HP,\cite{issa2019genome},\cite{issa2019genome},Yes
-24,1902136.3,Streptococcus sp. NPS 308,NHP,HP,(Clinical isolate~\cite{kondo2016complete}),\cite{kondo2016complete},Yes
-25,730.54,[Haemophilus] ducreyi strain FDAARGOS\_297,HP,HP,\cite{730.54},,Yes
+24,1902136.3,Streptococcus sp. NPS 308,NHP,HP,Clinical isolate \cite{kondo2016complete},\cite{kondo2016complete},Yes
+25,730.54,[Haemophilus] ducreyi strain FDAARGOS\_297,HP,HP,"\cite{730.54,alfa2005laboratory}",,Yes
 26,28025.19,Bifidobacterium animalis strain BL3,NHP,NHP,\cite{kang2017completeBifidobacterium},,Yes
-27,1496.1556,Clostridioides difficile strain BR81,NHP,NHP,\cite{1496.1556},\cite{goudarzi2014clostridium},Yes
+27,1496.1556,Clostridioides difficile strain BR81,NHP,NHP,"\cite{1496.1556,goudarzi2014clostridium}",\cite{goudarzi2014clostridium},Yes
 28,74426.49,Collinsella aerofaciens strain indica,NHP,NHP,\cite{bag2017complete},\cite{tourlousse2020complete},Yes
 29,853.172,Faecalibacterium prausnitzii strain Indica,NHP,NHP,\cite{bag2017completeFaecalibacterium},,Yes
 30,1841863.3,Gordonibacter sp. Marseille-P2775 strain Marseille-P2775,NHP,NHP,\cite{ngom2020taxono},,Yes
@@ -39,17 +39,17 @@
 38,1308.247,Streptococcus thermophilus strain ST3,NHP,NHP,\cite{alexandraki2019comparative},,Yes
 39,137591.34,Weissella cibaria strain CMS3,NHP,NHP,\cite{kang2005coaggregation},,Yes
 40,515619.32,[Eubacterium rectale] ATCC 33656,NHP,NHP,\cite{mahowald2009characterizing},,Yes
-41,470.3349,Acinetobacter baumannii strain 15A34,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),,No
-42,470.3350,Acinetobacter baumannii strain 15A5,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),,No
-43,470.3348,Acinetobacter baumannii strain CBA7,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),,No
-44,470.3347,Acinetobacter baumannii strain JBA13,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),,No
-45,470.3356,Acinetobacter baumannii strain SAA14,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),,No
-46,470.3357,Acinetobacter baumannii strain SSA12,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),,No
-47,470.3352,Acinetobacter baumannii strain SSA6,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),,No
-48,470.3358,Acinetobacter baumannii strain SSMA17,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),,No
-49,470.3355,Acinetobacter baumannii strain USA15,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),,No
-50,470.3351,Acinetobacter baumannii strain USA2,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),,No
-51,470.3354,Acinetobacter baumannii strain WKA02,NHP,HP,(Clinical isolate~\cite{yoon2017bla}),,No
+41,470.3349,Acinetobacter baumannii strain 15A34,NHP,HP,Clinical isolate \cite{yoon2017bla},,No
+42,470.3350,Acinetobacter baumannii strain 15A5,NHP,HP,Clinical isolate \cite{yoon2017bla},,No
+43,470.3348,Acinetobacter baumannii strain CBA7,NHP,HP,Clinical isolate \cite{yoon2017bla},,No
+44,470.3347,Acinetobacter baumannii strain JBA13,NHP,HP,Clinical isolate \cite{yoon2017bla},,No
+45,470.3356,Acinetobacter baumannii strain SAA14,NHP,HP,Clinical isolate \cite{yoon2017bla},,No
+46,470.3357,Acinetobacter baumannii strain SSA12,NHP,HP,Clinical isolate \cite{yoon2017bla},,No
+47,470.3352,Acinetobacter baumannii strain SSA6,NHP,HP,Clinical isolate \cite{yoon2017bla},,No
+48,470.3358,Acinetobacter baumannii strain SSMA17,NHP,HP,Clinical isolate \cite{yoon2017bla},,No
+49,470.3355,Acinetobacter baumannii strain USA15,NHP,HP,Clinical isolate \cite{yoon2017bla},,No
+50,470.3351,Acinetobacter baumannii strain USA2,NHP,HP,Clinical isolate \cite{yoon2017bla},,No
+51,470.3354,Acinetobacter baumannii strain WKA02,NHP,HP,Clinical isolate \cite{yoon2017bla},,No
 52,520.747,Bordetella pertussis strain C934,HP,HP,\cite{bowden2016genome},,No
 53,520.694,Bordetella pertussis strain H361,HP,HP,\cite{bowden2016genome},,No
 54,520.667,Bordetella pertussis strain H698,HP,HP,\cite{bowden2016genome},,No
@@ -71,29 +71,25 @@
 70,520.672,Bordetella pertussis strain J179,HP,HP,\cite{bowden2016genome},,No
 71,520.678,Bordetella pertussis strain J194,HP,HP,\cite{bowden2016genome},,No
 72,520.680,Bordetella pertussis strain J296,HP,HP,\cite{bowden2016genome},,No
-73,28450.655,Burkholderia pseudomallei strain 2010007509,HP,HP,\cite{28450.655},\cite{mangalea2017nitrate},No
+73,28450.655,Burkholderia pseudomallei strain 2010007509,HP,HP,"\cite{28450.655,mangalea2017nitrate}",\cite{mangalea2017nitrate},No
 74,813.142,Chlamydia trachomatis strain SQ14,HP,HP,\cite{suchland2017demonstration},,No
-75,168807.6,Escherichia coli O127:H6 strain EPEC1,NHP,HP,\cite{trabulsi200210},,No
+75,168807.6,Escherichia coli O127:H6 strain EPEC1,NHP,HP,Pathogenic \textit{E. coli} strain \cite{iguchi2009complete},,No
 76,562.16466,Escherichia coli strain 5CRE51,HP,HP,\cite{562.16466},,No
 77,562.22333,Escherichia coli strain ATCC 43896,HP,HP,\cite{562.22333},,No
 78,562.15193,Escherichia coli strain Ecol\_276,HP,HP,\cite{562.15193},,No
 79,562.22323,Escherichia coli strain FDAARGOS\_434 strain Not applicable,HP,HP,\cite{562.22323},,No
 80,562.22307,Escherichia coli strain FDAARGOS\_448 strain Not applicable,HP,HP,\cite{562.22307},,No
-81,562.16428,Escherichia coli strain G199,NHP,HP,\cite{johnson2016separate},,No
+81,562.16428,Escherichia coli strain G199,NHP,HP,Pathogenic \textit{E. coli} strain \cite{johnson2016separate},,No
 82,562.22326,Escherichia coli strain UFU\_EC98,HP,HP,\cite{562.22326},,No
 83,573.16440,Klebsiella pneumoniae strain 459,HP,HP,\cite{573.16440},\cite{chi2019characterization},No
 84,573.15319,Klebsiella pneumoniae strain FDAARGOS\_436 strain Not applicable,HP,HP,\cite{573.15319},\cite{chi2019characterization},No
-85,1196172.3,Listeria monocytogenes serotype 4b str. 02-1289 strain 02-1289,HP,HP,\cite{1196172.3},\cite{muchaamba2017full},No
-86,1196162.3,Listeria monocytogenes serotype 4b str. 10-0809 strain 10-0809,HP,HP,\cite{1196162.3},\cite{muchaamba2017full},No
+85,1196172.3,Listeria monocytogenes serotype 4b str. 02-1289 strain 02-1289,HP,HP,"\cite{1196172.3,muchaamba2017full}",\cite{muchaamba2017full},No
+86,1196162.3,Listeria monocytogenes serotype 4b str. 10-0809 strain 10-0809,HP,HP,"\cite{1196162.3,muchaamba2017full}",\cite{muchaamba2017full},No
 87,1773.8686,Mycobacterium tuberculosis strain LE13,HP,HP,\cite{sheen2017multiple},,No
 88,1773.8719,Mycobacterium tuberculosis strain TBDM2489,HP,HP,\cite{sheen2017multiple},,No
 89,2104.189,Mycoplasma pneumoniae strain KCH-402,HP,HP,\cite{kenri2017complete},,No
 90,487.1548,Neisseria meningitidis strain M26417,HP,HP,\cite{folaranmi2017increased},\cite{bernardini2004proteome},No
-91,287.3868,Pseudomonas aeruginosa strain RIVM-EMC2982,NHP,HP,\cite{botelho2018two},\cite{diggle2020microbe},No
-92,1280.12234,Staphylococcus aureus strain JE2,HP,HP,\cite{1280.12234},\cite{o2017into},No
-93,1280.11677,Staphylococcus aureus strain USA300-SUR11,HP,HP,\cite{1280.11677},\cite{o2017into},No
-96,860.11,Fusobacterium periodonticum strain KCOM 1261,NHP,NHP,\cite{sphaerophorus2006genus},,No
-97,860.17,Fusobacterium periodonticum strain KCOM 1262,NHP,NHP,\cite{sphaerophorus2006genus},,No
-98,860.16,Fusobacterium periodonticum strain KCOM 2555,NHP,NHP,\cite{sphaerophorus2006genus},,No
-99,860.18,Fusobacterium periodonticum strain KCOM 2653,NHP,NHP,\cite{sphaerophorus2006genus},,No
+91,287.3868,Pseudomonas aeruginosa strain RIVM-EMC2982,NHP,HP,Clinical isolate \cite{botelho2018two},\cite{diggle2020microbe},No
+92,1280.12234,Staphylococcus aureus strain JE2,HP,HP,"\cite{1280.12234,o2017into}",\cite{o2017into},No
+93,1280.11677,Staphylococcus aureus strain USA300-SUR11,HP,HP,"\cite{1280.11677,o2017into}",\cite{o2017into},No
 100,47715.310,Lactobacillus rhamnosus strain LR5,NHP,NHP,\cite{gao2019novel},,No
