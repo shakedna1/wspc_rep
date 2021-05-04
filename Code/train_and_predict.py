@@ -7,9 +7,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.pipeline import Pipeline
 
-SPEC = 'Specificity'
-SENS = 'Sensitivity'
-BACC = 'BAcc'
+SPE = 'Specificity'
+SEN = 'Sensitivity'
+BACC = 'BACC'
 AUROC = 'AUROC'
 AUPR = 'AUPR'
 
@@ -145,8 +145,8 @@ def calculate_results(predictions, predictions_probs, y_test):
     roc_auc = metrics.auc(fpr, tpr)
     bacc = (sensitivity + specificity) / 2
 
-    evaluation_results = {SPEC: specificity,
-                          SENS: sensitivity,
+    evaluation_results = {SPE: specificity,
+                          SEN: sensitivity,
                           BACC: bacc,
                           AUPR: aupr_auc,
                           AUROC: roc_auc}
@@ -165,14 +165,14 @@ def print_train_results(evaluation_results):
 
     ROUND = 2
     bacc = round(evaluation_results[BACC], ROUND)
-    sensitivity = round(evaluation_results[SENS], ROUND)
-    specificity = round(evaluation_results[SPEC], ROUND)
+    sensitivity = round(evaluation_results[SEN], ROUND)
+    specificity = round(evaluation_results[SPE], ROUND)
     aupr_auc = round(evaluation_results[AUPR], ROUND)
     roc_auc = round(evaluation_results[AUROC], ROUND)
 
     print(f'{BACC}: {bacc}')
-    print(f'{SENS}: {sensitivity}')
-    print(f'{SPEC}: {specificity}')
+    print(f'{SEN}: {sensitivity}')
+    print(f'{SPE}: {specificity}')
     print(f'{AUPR}: {aupr_auc}')
     print(f'{AUROC}: {roc_auc}')
 
