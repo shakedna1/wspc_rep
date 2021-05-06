@@ -4,14 +4,8 @@ ncbi = NCBITaxa()
 
 """Consts"""
 UNCLASSIFIED = 'unclassified'
-LABEL = 'Label'
-GENOME_ID = 'Genome ID'
-GENOME_NAME = 'Genome Name'
 SPECIES = 'species'
-HP = 'HP'
-NHP = 'NHP'
-RATIO = 'Ratio'
-MAJORITY_LABEL = 'Majority Label'
+GENUS = 'genus'
 
 
 def get_ranks(taxid):
@@ -83,3 +77,25 @@ def calc_tax_broadness(genome_ids, tax_type):
     tax_names = set(get_first_tax_desc(genome, tax_type) for genome in genome_ids)
 
     return len(tax_names)
+
+
+def get_genomes_tax(genomes, tax):
+    return set(get_first_tax_desc(genome, tax) for genome in genomes)
+
+
+def get_genomes_species(genomes):
+    return set(get_first_tax_desc(genome, SPECIES) for genome in genomes if not get_unclassified_species(genome))
+
+
+def get_novel_species(train_genomes, test_genomes):
+
+    train_species = get_genomes_species(train_genomes)
+    test_species = get_genomes_species(test_genomes)
+
+    return test_species - train_species
+
+
+def get_genomes_with_tax(genomes, tax_names, tax):
+
+    return [genome for genome in genomes if get_first_tax_desc(genome, tax) in tax_names]
+
