@@ -177,6 +177,16 @@ def perform_fs_k_best(train_dataset, k_range, split=None, random_state=0, return
     return search
 
 
+def get_fs_pipeline(X_train_dist_mat, k, threshold, random_state=0):
+
+    pipeline = Pipeline(steps=[('vectorize', CountVectorizer(lowercase=False, binary=True)),
+                               ('k_best', SelectKBest(score_func=sklearn.feature_selection.chi2, k=k)),
+                               ('cluster', SelectHierarchicalClustering(X_train_dist_mat, threshold=threshold)),
+                               ('rf', RandomForestClassifier(random_state=random_state))])
+
+    return pipeline
+
+
 def perform_fs_clusters(train_dataset, X_train_dist_mat, t_range, split=None, random_state=0,
                         return_train_score=False):
     """
@@ -197,10 +207,7 @@ def perform_fs_clusters(train_dataset, X_train_dist_mat, t_range, split=None, ra
     :return: A fitted GridSearchCV object
     """
 
-    pipeline = Pipeline(steps=[('vectorize', CountVectorizer(lowercase=False, binary=True)),
-                               ('k_best', SelectKBest(score_func=sklearn.feature_selection.chi2, k=450)),
-                               ('cluster', SelectHierarchicalClustering(X_train_dist_mat)),
-                               ('rf', RandomForestClassifier(random_state=random_state))])
+    pipeline = get_fs_pipeline(X_train_dist_mat, k=450, threshold=1, random_state=random_state)
 
     param_grid = {
         'cluster__threshold': t_range,
