@@ -1,0 +1,617 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_154429_652716_input.fsa
+Sequences ::	 2108
+Total bpp ::	 613506
+Longest seq ::	 1570
+Shortest seq ::	 22
+Avg seq lenght ::	 291.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	823.545
+Probability of being human pathogen ::	0.889
+Matches::	199
+Genome Coverage (%) ::	9.44
+Pathogenic Families Matched ::	199
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1311.2752.peg.244|GL210_10540   C5a peptidase (EC 3.4.21.-)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	C5a peptidase ScpB	ABA46302	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.871|GL210_03005   ABC transporter, FliJ domain and fused permease subunit   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	ABC transporter, permease protein, putative	ABA45245	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.246|GL210_10550   Streptococcal histidine triad protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	streptococcal histidine triad family protein	ABA46027	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1643|GL210_06830   Phage infection protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	membrane protein, putative	AAN00992	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.514|GL210_01260   cylE protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	CylE protein	ABA46071	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1821|GL210_07715   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	lipoprotein, putative	AAN00289	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1116|GL210_04200   Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	sensor histidine kinase	AAN00820	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1008|GL210_03670   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved hypothetical protein	AAN00927	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1890|GL210_08070   Surface antigen-related protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	bsp protein	ABA46076	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1878|GL210_08000   Carbamoyl-phosphate synthase large chain (EC 6.3.5.5)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	carbamoyl-phosphate synthase, large subunit, putative	AAN00233	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1438|GL210_05795   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	hypothetical protein	ABA44823	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1370|GL210_05455   Immunogenic secreted protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	immunogenic secreted protein, putative	ABA45924	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1179|GL210_04510   Two-component sensor histidine kinase, malate (EC 2.7.3.-)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	sensor histidine kinase	AAN00783	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1245|GL210_04845   Xylulose kinase (EC 2.7.1.17)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	carbohydrate kinase, FGGY family	AAN00666	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.524|GL210_01305   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45063	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1142|GL210_04325   Tn916, transcriptional regulator, putative   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Lactobacillales	Tn5251 transcriptional regulator Cro/CI family	ACF55955	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1496|GL210_06080   Glycosyl transferase, group 2 family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	glycosyl transferase, group 2 family protein	ABA44901	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1766|GL210_07440   Capsular polysaccharide repeat unit transporter CpsL   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	polysaccharide biosynthesis protein CpsL	ABA45866	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1022|GL210_03735   Two-component system sensor histidine kinase   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	sensor histidine kinase	AAN00914	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1089|GL210_04060   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAN00858	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1654|GL210_06885   Two-component system sensor histidine kinase   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	sensor histidine kinase	AAN00981	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.72|GL210_09700   Secreted antigen GbpB/SagA/PcsB, putative peptidoglycan hydrolase   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	pcsB protein	AAM98925	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1263|GL210_04935   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45949	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.907|GL210_03175   Putative secretion system component EssB/YukC   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved hypothetical protein	AAM99917	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1225|GL210_04745   Tellurite resistance protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	tellurite resistance protein, putative	ABA45542	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1751|GL210_07365   Chloride channel protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	chloride channel (ClC) family protein	ABA45364	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.210|GL210_10385   Maltodextrin ABC transporter, substrate-binding protein MdxE   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	carbohydrate uptake 1 (CUT1) family, carbohydrate-binding protein	ABA45677	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1770|GL210_07460   N-acylneuraminate cytidylyltransferase (EC 2.7.7.43)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	N-acylneuraminate cytidylyltransferase	ABA45253	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.194|GL210_10305   Glycosyl transferase, family 8   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	glycosyl transferase, family 8	ABA46241	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.145|GL210_10060   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	hypothetical protein	ABA46296	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.172|GL210_10195   Two-component system sensor histidine kinase   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	sensor histidine kinase	ABA44429	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.362|GL210_00535   UDP-N-acetylmuramoylpentapeptide-lysine N(6)-alanyltransferase (EC 2.3.2.10)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	FemAB family protein	ABA45815	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1158|GL210_04410   putative transposon integrase; Tn916 ORF3-like   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	Tn916, transposase	ABP89883	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.193|GL210_10300   Glycosyl transferase, family 8   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	glycosyl transferase, family 8	AAN00328	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1017|GL210_03710   Glycosyl transferase, family 8   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	glycosyl transferase, family 8	AAN00919	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.197|GL210_10320   Glycosyl transferase, family 8   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	glycosyl transferase, putative	AAN00323	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.282|GL210_00150   Transcriptional regulator, AraC family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	transcriptional regulator, AraC family	ABA46044	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1991|GL210_08615   Mobile element protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	ISSag9, transposase	ABA44396	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.285|GL210_00160   tyrosine-type recombinase/integrase   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	13887	CP000056	Streptococcus pyogenes MGAS6180, complete genome.	Lactobacillales	DNA integration/recombination/invertion protein	AAX72413	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.2089|GL210_09110   Heme efflux system permease HrtB   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	permease, putative	ABA45749	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.492|GL210_01160   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved domain protein	AAM99525	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1123|GL210_04240   putative membrane protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	membrane protein, putative	AAN00813	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1824|GL210_07730   dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	nucleotide sugar dehydratase, putative	AAN00286	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.875|GL210_03025   Iron compound ABC uptake transporter substrate-binding protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	iron chelate uptake ABC transporter, iron chelate-binding protein	ABA44494	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.537|GL210_01355   2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	kinase, PfkB family	ABA44809	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1229|GL210_04765   Transcriptional regulator pfoR   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	perfringolysin O regulator protein	AAN00682	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1241|GL210_04825   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAN00670	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.929|GL210_03280   Lipoate-protein ligase A   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	lipoate-protein ligase A	ABA45366	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.201|GL210_10340   Accessory secretory protein Asp3   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved domain protein	AAN00319	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1240|GL210_04820   Transcriptional regulator, LacI family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	sugar-binding transcriptional regulator, LacI family	AAN00671	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.877|GL210_03035   Ferrichrome transport system permease protein FhuG   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	iron compound ABC transporter, permease protein	AAM99892	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1765|GL210_07435   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	capsular polysaccharide biosynthesis protein CpsK	ABA44999	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.515|GL210_01265   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	cylF protein	ABA44717	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1899|GL210_08145   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45641	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.844|GL210_02875   ABC transporter-like sensor linked histidine kinase   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	sensor histidine kinase	ABA45452	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1694|GL210_07085   Putative oxidoreductase   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	oxidoreductase, Gfo/Idh/MocA family	ABA44530	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.977|GL210_03525   Transcriptional regulator, AraC family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	transcriptional regulator, AraC family	AAM99987	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.512|GL210_01250   ABC transporter, ATP-binding protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	ABC transporter, ATP-binding protein CylA	ABA45762	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1713   Putative permease   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	exfoliative toxin A, putative	AAN00097	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.86|GL210_09770   Peptidase, M23/M37 family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	zoocin A	ABA44545	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.992|GL210_03600   Putative polysaccharide deacetylase YxkH   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	polysaccharide deacetylase family protein	ABA45827	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.90|GL210_09790   ABC transporter, predicted N-acetylneuraminate transport system permease protein 1   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	carbohydrate uptake 1 (CUT1) family ABC transporter, permease protein	ABA44504	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.870|GL210_03000   CAAX amino terminal protease family protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	CAAX amino terminal protease family protein	ABA45865	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1607|GL210_06650   UPF0750 membrane protein YvjA   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved hypothetical protein	AAN01028	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1035|GL210_03805   Putative protease   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	protease, putative	AAN00900	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1047|GL210_03865   Aminoglycoside 6-nucleotidyltransferase, putative   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	streptomycin resistance protein	AAN00888	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.166|GL210_10165   Glutathione S-transferase domain protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45599	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1174|GL210_04485   Leucine rich protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	helix-turn-helix domain protein, fis-type	AAN00788	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.508|GL210_01230   CylD   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	CylD protein	ABA45020	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1829|GL210_07755   Glycosyl transferase, group 2 family; dTDP-rhamnosyl transferase RfbF (EC 2.-.-.-)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	glycosyl transferase, group 2 family protein	AAN00281	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1436|GL210_05785   Positive transcriptional regulator, MutR family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	transcriptional activator, Rgg/GadR/MutR family	ABA45046	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1127|GL210_04260   PTS system, mannose/fructose/sorbose family, IID component   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	PTS system, IID component, mannose/fructose/sorbose family	ABA44880	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.2016|GL210_08730   Nickel ABC transporter, permease protein NikC2 (TC 3.A.1.5.3)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	peptide/opine/nickel uptake (PepT) family ABC transporter, permease protein	ABA45313	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.975|GL210_03515   Hydrolase, HAD superfamily   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hydrolase, haloacid dehalogenase-like family	AAM99986	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1126|GL210_04255   PTS system, mannose/fructose/sorbose family, IIC component   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	PTS system, IIC component, mannose/fructose/sorbose family	ABA45928	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1699|GL210_07110   Hydrolase, haloacid dehalogenase-like family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hydrolase, haloacid dehalogenase-like family	AAN00938	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.526|GL210_01310   DNA-entry nuclease (Competence-specific nuclease) (EC 3.1.30.-)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	DNA-entry nuclease, putative	ABA45170	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.913|GL210_03200   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved domain protein	AAM99922	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1129   Two-component response regulator, associated with ferric iron transporter, SPy1062 homolog   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	DNA-binding response regulator, AraC family	ABA45223	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.848|GL210_02890   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	membrane protein, putative	ABA44645	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.336|GL210_00405   Cell division initiation protein DivIVA   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	cell division protein DivIVA, putative	ABA46243	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1033|GL210_03795   CAMP factor   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	cAMP factor	AAN00902	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1246|GL210_04850   Sugar phosphate isomerases/epimerases   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45264	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.705|GL210_02190   Uncharacterized DUF554 membrane protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	membrane protein, putative	ABA44978	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.373|GL210_00590   Hydrolase, alpha/beta fold family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45985	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1505|GL210_06120   putative membrane protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	membrane protein, putative	ABA45026	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.54|GL210_09545   Two-component transcriptional response regulator, LuxR family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	DNA-binding response regulator	ABA45514	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1802|GL210_07630   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45552	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1616|GL210_06695   Transcriptional regulator ArcR essential for anaerobic expression of the ADI pathway, Crp/Fnr family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	transcriptional regulator, Crp/Fnr family	AAN01019	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1228|GL210_04760   YheO-like PAS domain   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved hypothetical protein	AAN00683	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.539|GL210_01365   Transcriptional regulator, GntR family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	transcriptional regulator, GntR family	ABA44822	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.791|GL210_02615   CRISPR-associated protein, Csn2 family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	CRISPR-associated protein, SAG0897 family	ABA44839	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1314|GL210_05185   Transcriptional regulator, Crp/Fnr family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	transcriptional regulator, putative	ABA45137	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1779|GL210_07520   putative lipoprotein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45582	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1232|GL210_04780   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAN00679	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.804|GL210_02680   Immunoreactive protein Se23.5 (Fragment)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	membrane protein, putative	ABA44561	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1634|GL210_06785   MarC family integral membrane protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	membrane protein, MarC family	ABA45759	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.25|GL210_09395   putative membrane protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	membrane protein, putative	ABA44399	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1902|GL210_08160   Transcriptional regulator, AcrR family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	transcriptional regulator, TetR family	ABA45399	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1021|GL210_03730   Chromosome assembly-related protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	chromosome assembly-related protein	AAN00915	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1660|GL210_06915   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44483	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1659|GL210_06910   Replication protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	plasmid replication protein	ABA45177	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1701|GL210_07120   putative superinfection immunity protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44491	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.869|GL210_02995   Type I restriction-modification system, specificity subunit S   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44707	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1189|GL210_04555   Peptidoglycan hydrolase, Autolysin2 (EC 3.5.1.28)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	N-acetylmuramoyl-L-alanine amidase, family 4 protein	AAN00774	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.24|GL210_09390   Putative transmembrane protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	membrane protein, putative	ABA45829	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1789|GL210_07570   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA46036	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1419|GL210_05700   Cell wall surface anchor family protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	cell wall surface anchor family protein	AAN00340	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.882|GL210_03060   cell surface protein, ErfK family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved hypothetical protein	AAM99897	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.712|GL210_02215   Substrate-specific component ThiT of thiamin ECF transporter   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	probable proton-coupled thiamine transporter YuaJ	ABA44735	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.728|GL210_02300   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44467	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1545|GL210_06325   Substrate-specific component NiaX of predicted niacin ECF transporter   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	membrane protein, putative	ABA45305	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.431|GL210_00855   Phage protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45121	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.27|GL210_09405   tRNA threonylcarbamoyladenosine biosynthesis protein TsaE   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein TIGR00150	ABA45377	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.181|GL210_10240   putative membrane protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	membrane protein, putative	ABA46227	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1145|GL210_04340   Tn916, hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	hypothetical protein	ABP89893	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1494|GL210_06070   Acetyltransferase, GNAT family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	acetyltransferase, GNAT family	AAN00413	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1381|GL210_05510   Transcriptional repressor CcpN, MarR family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	CBS domain protein	ABA45685	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1895|GL210_08095   probable membrane protein YPO2961   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45501	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1125|GL210_04250   PTS system, mannose/fructose/sorbose family, IIB component   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	PTS system, IIB component	AAN00811	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.489|GL210_01145   Nudix hydrolase-like protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	hydrolase, NUDIX family	ABA46220	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1771|GL210_07465   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44415	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1324|GL210_05235   Putative membrane protein precursor SPs0273   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45260	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.2059|GL210_08955   Competence-specific sigma factor ComX   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	competence-specific sigma factor ComX	ABA44586	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1453|GL210_05870   MutT/Nudix family protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	hydrolase, NUDIX family	ABA46181	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.352|GL210_00485   Arginine repressor ArgR, putative   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	arginine repressor ArgR, putative	AAM99402	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1155|GL210_04390   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	Tn916, hypothetical protein	AAM99805	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1080|GL210_04015   FIG01117874: hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAN00869	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.909|GL210_03185   Putative secretion system component EssA   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAM99919	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.184|GL210_10255   Acetyltransferase, GNAT family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	acetyltransferase, GNAT family	ABA45077	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1231|GL210_04775   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAN00680	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1104|GL210_04140   Acetyltransferase, GNAT family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	acetyltransferase, GNAT family	AAN00833	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1072|GL210_03975   putative transfer protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAN00878	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.490|GL210_01150   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45337	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1866|GL210_07940   histone acetyltransferase Gcn5, putative   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved hypothetical protein	AAN00245	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1663|GL210_06930   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved domain protein	ABA45679	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.691|GL210_02115   Transcriptional regulator, MarR family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	transcriptional regulator, MarR family	ABA44775	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1191|GL210_04565   Transcriptional regulator, MarR family   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	transcriptional regulator, MarR family	ABA45614	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1124|GL210_04245   PTS system, mannose/fructose/sorbose family, IIA component   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	PTS system, IIA component, mannose/fructose/sorbose family	ABA44684	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.2058|GL210_08950   Uncharacterized protein DUF2992, B. subtilis YjdF ortholog   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA46340	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1485|GL210_06030   PhnB protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45227	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.382|GL210_00635   OsmC/Ohr family protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	organic hydroperoxide resistance protein, putative	ABA44529	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1613|GL210_06680   Acetyltransferase   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	acetyltransferase, GNAT family	AAN01022	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.471|GL210_01055   Transposase   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	ISSag6, transposase orfA	ABA45898	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1446|GL210_05835   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44427	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.274|GL210_00120   Transcriptional regulator   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	cupin domain protein	ABA44474	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.321|GL210_00330   leader peptidase (prepilin peptidase) / N-methyltransferase   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	type IV prepilin peptidase-related protein	AAM99371	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.2040|GL210_08850   Late competence protein ComGF, access of DNA to ComEA, FIG012620   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA46083	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1264|GL210_04940   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45111	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.255|GL210_10610   Mobile element protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	IS1381, transposase orfB	ABA46272	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.996   IS1381, transposase OrfA   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	IS1381, transposase orfA	ABA44857	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1486|GL210_06035   Glyoxalase family protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	glyoxalase family protein	ABA45224	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.2039|GL210_08845   Late competence protein ComGG, FIG068335   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44895	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.118|GL210_09930   SSU ribosomal protein S19p (S15e)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	SSU ribosomal protein S19P	ABP89047	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.2045|GL210_08875   DNA binding protein, FIG046916   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45903	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1820|GL210_07710   Integral membrane protein (Rhomboid family)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44619	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1182|GL210_04525   putative transport accessory protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	bacteriocin transport accessory protein, putative	AAN00780	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.932|GL210_03295   Biotinyl-lipoyl attachment domain protein, GcvH-like   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	GcvH family protein	ABA46144	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1097|GL210_04100   FIG01117382: hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved hypothetical protein	AAN00854	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.914|GL210_03205   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAM99923	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1674|GL210_06985   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44623	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.216|GL210_10415   FIG015049: hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44989	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.507|GL210_01225   cylX protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	cylX protein	ABA45472	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.462|GL210_01010   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved hypothetical protein	AAM99501	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1071|GL210_03970   putative transfer protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAN00879	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.30|GL210_09420   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44801	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.912|GL210_03195   6 kDa early secretory antigenic target ESAT-6 (EsxA)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved hypothetical protein	AAM99921	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.2029|GL210_08795   FIG014356: hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44501	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1234|GL210_04790   PTS system, ascorbate-specific IIB component (EC 2.7.1.194)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	PTS system, IIB component, lactose/cellobiose family	ABA44686	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.636|GL210_01840   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44949	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.502|GL210_01200   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAM99547	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1084|GL210_04035   FIG01115107: hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved hypothetical protein	AAN00865	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.435|GL210_00870   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44367	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1081|GL210_04020   YefM protein (antitoxin to YoeB)   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved hypothetical protein	AAN00868	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1493|GL210_06065   FIG042921: similarity to aminoacyl-tRNA editing enzymes YbaK, ProX   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved domain protein	ABA45116	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.326|GL210_00355   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	conserved hypothetical protein	AAM99376	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.908|GL210_03180   Putative secretion accessory protein EsaB/YukD   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA46306	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1212|GL210_04675   lysin rich protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAN00750	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1156|GL210_04395   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA36408	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.167|GL210_10170   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44727	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.404|GL210_00745   Phage protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	16363	CP000259	Streptococcus pyogenes MGAS9429, complete genome.	Lactobacillales	phage protein	ABF31726	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1040|GL210_03830   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAN00895	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.358|GL210_00515   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	hypothetical protein	ABA45884	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.483|GL210_01115   Paratox   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA44466	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.468|GL210_01040   Paratox   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAM99507	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1012|GL210_03690   Protein translocase subunit SecE   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	preprotein translocase, SecE subunit	ABA45694	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.428|GL210_00845   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	hypothetical protein	ABA44454	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.475|GL210_01075   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	conserved hypothetical protein	ABA45715	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1088|GL210_04055   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	13887	CP000056	Streptococcus pyogenes MGAS6180, complete genome.	Lactobacillales	hypothetical protein	AAX72419	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1506|GL210_06125   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAN00426	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1690|GL210_07065   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAN00947	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1137|GL210_04300   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA36774	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1993|GL210_08625   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	hypothetical protein	ABA44853	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1404|GL210_05625   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	hypothetical protein	ABA44377	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.232|GL210_10490   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	hypothetical protein	ABA44671	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.2088|GL210_09105   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	hypothetical protein	AAM99028	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.231|GL210_10485   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	hypothetical protein	ABA45101	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1442|GL210_05815   hypothetical protein   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	326	CP000114	Streptococcus agalactiae A909, complete genome.	Lactobacillales	hypothetical protein	ABA45632	Yes	100.0
+
+#input_seq:	fig|1311.2752.peg.1150|GL210_04365   tetracycline resistance determinant leader peptide   [Streptococcus agalactiae strain M134 | 1311.2752]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	Tn916, tetM leader peptide	AAM99810	Yes	100.0
+

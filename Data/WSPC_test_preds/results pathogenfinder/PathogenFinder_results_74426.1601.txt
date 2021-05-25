@@ -1,0 +1,26 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_084919_239691_input.fsa
+Sequences ::	 2004
+Total bpp ::	 638698
+Longest seq ::	 3413
+Shortest seq ::	 29
+Avg seq lenght ::	 318.0
+
+RESULTS:
+Min Identity Threshold ::	90.413
+Z-THRESHOLD ::	3.0
+Prediction Score ::	0.878
+Probability of being human pathogen ::	0.521
+Matches::	2
+Genome Coverage (%) ::	0.1
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	1
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|74426.1601.peg.1801|GT510_09785   ABC transporter, permease protein 1 (cluster 1, maltose/g3p/polyamine/iron)   [Collinsella aerofaciens strain BIOML-A15 | 74426.1601]
+#matched_seq:	16321	AP009256	Bifidobacterium adolescentis ATCC 15703 DNA, complete genome.	Actinobacteridae	permease of ABC transporter possibly for oligosaccharides	BAF40345	No	94.88
+
+#input_seq:	fig|74426.1601.peg.1091|GT510_08310   Uncharacterized protein TDE2370, clustered with polyferredoxin   [Collinsella aerofaciens strain BIOML-A15 | 74426.1601]
+#matched_seq:	21093	CP001726	Eggerthella lenta DSM 2243, complete genome.	Coriobacteridae	hypothetical protein	ACV54751	Yes	100.0
+

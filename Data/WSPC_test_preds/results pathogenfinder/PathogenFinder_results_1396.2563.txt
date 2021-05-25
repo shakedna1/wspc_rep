@@ -1,0 +1,230 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_03_02_2021_185352_448052_input.fsa
+Sequences ::	 6122
+Total bpp ::	 1667628
+Longest seq ::	 5017
+Shortest seq ::	 23
+Avg seq lenght ::	 272.0
+
+RESULTS:
+Min Identity Threshold ::	99.508
+Z-THRESHOLD ::	3.0
+Prediction Score ::	256.329
+Probability of being human pathogen ::	0.884
+Matches::	70
+Genome Coverage (%) ::	1.14
+Pathogenic Families Matched ::	68
+Non-Pathogenic Families Matched ::	2
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1396.2563.peg.1402   Methyl-accepting chemotaxis sensor/transducer protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	384	AE016877	Bacillus cereus ATCC 14579, complete genome.	Bacillales	Methyl-accepting chemotaxis protein	AAP08111	Yes	99.65
+
+#input_seq:	fig|1396.2563.peg.664   Erythromycin esterase type I   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	succinoglycan biosynthesis protein	ACK63240	Yes	99.78
+
+#input_seq:	fig|1396.2563.peg.34   MFS-type drug/proton antiporter   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	macrolide-efflux protein	ACK59524	Yes	99.76
+
+#input_seq:	fig|1396.2563.peg.1261   Spermidine synthase (EC 2.5.1.16)   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	spermine/spermidine synthase family protein	ACK94922	Yes	99.72
+
+#input_seq:	fig|1396.2563.peg.181   Lyzozyme M1 (1,4-beta-N-acetylmuramidase) (EC 3.2.1.17)   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	N-acetylmuramoyl-L-alanine amidase	ACK98310	Yes	99.71
+
+#input_seq:	fig|1396.2563.peg.257   CDP-abequose synthase   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	384	AE016877	Bacillus cereus ATCC 14579, complete genome.	Bacillales	CDP-abequose synthase	AAP10450	Yes	99.69
+
+#input_seq:	fig|1396.2563.peg.1758   L-serine dehydratase, alpha subunit (EC 4.3.1.17)   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	L-serine ammonia-lyase	ABK86980	No	99.66
+
+#input_seq:	fig|1396.2563.peg.812   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	conserved hypothetical protein	ACK60158	Yes	99.61
+
+#input_seq:	fig|1396.2563.peg.5554   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	384	AE016877	Bacillus cereus ATCC 14579, complete genome.	Bacillales	hypothetical protein	AAP11721	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1355   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	conserved hypothetical protein	ACK96926	Yes	99.59
+
+#input_seq:	fig|1396.2563.peg.5760   Protein LiaH, similar to phage shock protein A   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	18255	CP000485	Bacillus thuringiensis str. Al Hakam, complete genome.	Bacillales	conserved hypothetical protein	ABK84639	No	99.55
+
+#input_seq:	fig|1396.2563.peg.718   D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	D-alanyl-D-alanine carboxypeptidase	ACK97420	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.4997   LexA repressor   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	LexA repressor	ACK93190	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.634   Hypothetical protein perhaps functionally coupled to transcription elongation factor GreA   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	384	AE016877	Bacillus cereus ATCC 14579, complete genome.	Bacillales	hypothetical protein	AAP10128	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.2448   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	conserved hypothetical protein	ACK60552	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1189   putative lipoprotein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	putative lipoprotein	ACK62075	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.238   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	384	AE016877	Bacillus cereus ATCC 14579, complete genome.	Bacillales	hypothetical protein	AAP09513	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.2109   Dipicolinate synthase subunit B   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	dipicolinic acid synthetase, B subunit	ACK93240	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.489   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	10878	AE017225	Bacillus anthracis str. Sterne, complete genome.	Bacillales	conserved hypothetical protein	AAT55109	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5677   Ribonucleotide reduction protein NrdI   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	nrdI protein	ACK62395	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5076   Uncharacterized protein YxeE   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	conserved hypothetical protein	ACK97087	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5502   cell wall surface anchor family protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	conserved hypothetical protein	ACK95589	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.538   HesB-like protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	conserved hypothetical protein	ACK62624	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.3299   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved hypothetical protein	ACJ82216	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.6063   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	hypothetical protein	ACK60427	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.4004   putative membrane protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	putative membrane protein	ACK91198	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.3459   XpaF1 protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	12468	CP000001	Bacillus cereus E33L, complete genome.	Bacillales	XpaF1 protein	AAU16853	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.2628   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	conserved hypothetical protein	ACK63491	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.199   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	conserved domain protein	ACK98337	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1662   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	hypothetical protein	AAT33572	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1645   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	hypothetical protein	ACK95601	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.4739   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	conserved hypothetical protein	ACK96376	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.2956   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	31307	CP001406	Bacillus cereus 03BB102 plasmid p03BB10	Bacillales	79, complete sequence.	ACO25794	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5326   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	conserved domain protein	ACK90976	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.2957   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	36309	CP001747	Bacillus cereus biovar anthracis str. CI plasmid pCI-XO1, complete sequence.	Bacillales	hypothetical protein	ADK08117	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.2455   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	hypothetical protein	ACK59953	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.3590   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	384	AE016877	Bacillus cereus ATCC 14579, complete genome.	Bacillales	hypothetical protein	AAP07309	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.2425   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	hypothetical protein	ACK60452	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1451   ComG operon repressor ComZ   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	conserved domain protein	ACK60901	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1500   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	hypothetical protein	ACK96808	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5539   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	384	AE016877	Bacillus cereus ATCC 14579, complete genome.	Bacillales	hypothetical protein	AAP11707	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5106   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	hypothetical protein	AAT32336	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.216   FIG01228053: hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved domain protein	ACJ82022	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1378   Uncharacterized protein YhfH   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	conserved hypothetical protein	AAT35293	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.4707   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	hypothetical protein	ACK59040	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5893   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	conserved hypothetical protein	ACK90167	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5014   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	conserved hypothetical protein	AAT32963	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1272   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	conserved hypothetical protein	ACK96365	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5697   Component involved in D-alanylation of teichoic acids   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	31307	CP001407	Bacillus cereus 03BB102, complete genome.	Bacillales	conserved hypothetical protein	ACO29603	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.798   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	13623	CP000903	Bacillus weihenstephanensis KBAB4, complete genome.	Bacillales	conserved hypothetical protein	ABY44266	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.3144   FIG01228220: hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	conserved hypothetical protein	ACK63740	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.3080   FIG01232920: hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	hypothetical protein	ACK61606	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1513   FIG01225893: hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	hypothetical protein	ACK87492	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1288   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	hypothetical protein	AAT34620	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1240   FIG01229307: hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	conserved hypothetical protein	ACK89350	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.292   FIG01225451: hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	conserved hypothetical protein	ACK59859	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.3081   EMG2 protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	conserved domain protein	ACK62152	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.53   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	LPXTG-motif cell wall anchor domain protein	ACK62600	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.3629   Glycosyltransferase   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	hypothetical protein	ACK91946	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1833   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17711	CP001283	Bacillus cereus AH820, complete genome.	Bacillales	hypothetical protein	ACK88178	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5655   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	hypothetical protein	ACK62723	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.3665   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17715	CP001177	Bacillus cereus AH187, complete genome.	Bacillales	conserved hypothetical protein	ACJ77832	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.1282   FIG01229668: hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	conserved hypothetical protein	ACK62405	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.2456   FIG01227179: hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	hypothetical protein	ACK94897	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.2546   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	hypothetical protein	ACK94134	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5131   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17733	CP001186	Bacillus cereus G9842, complete genome.	Bacillales	conserved hypothetical protein	ACK94629	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.3583   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	hypothetical protein	ACK61655	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5889   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	hypothetical protein	ACK63495	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.5288   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	17731	CP001176	Bacillus cereus B4264, complete genome.	Bacillales	hypothetical protein	ACK62911	Yes	100.0
+
+#input_seq:	fig|1396.2563.peg.4458   hypothetical protein   [Bacillus cereus strain 2-1 | 1396.2563]
+#matched_seq:	10784	AE017334	Bacillus anthracis str. 'Ames Ancestor', complete genome.	Bacillales	hypothetical protein	AAT35381	Yes	100.0
+

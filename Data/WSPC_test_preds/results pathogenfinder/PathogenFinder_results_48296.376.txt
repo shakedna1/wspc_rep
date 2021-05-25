@@ -1,0 +1,113 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_191140_092667_input.fsa
+Sequences ::	 3682
+Total bpp ::	 1139115
+Longest seq ::	 2141
+Shortest seq ::	 24
+Avg seq lenght ::	 309.0
+
+RESULTS:
+Min Identity Threshold ::	99.269
+Z-THRESHOLD ::	3.0
+Prediction Score ::	118.917
+Probability of being human pathogen ::	0.918
+Matches::	31
+Genome Coverage (%) ::	0.84
+Pathogenic Families Matched ::	31
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|48296.376.peg.2670|GUK58_13320   Ferrichrome-iron receptor   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	28921	XXX	Acinetobacter baumannii AYE	Gammaproteobacteria	XXX		Yes	99.33
+
+#input_seq:	fig|48296.376.peg.601|GUK58_03015   DcaP   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17827	CP000863	Acinetobacter baumannii ACICU, complete genome.	Gammaproteobacteria	putative porin precurseur in catabolism of dicarboxylic acids	ACC56711	Yes	99.32
+
+#input_seq:	fig|48296.376.peg.253|GUK58_01260   Outer membrane low permeability porin, OprD family => putative vanillate porin VanP   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Gammaproteobacteria	porin	ABO11537	Yes	99.52
+
+#input_seq:	fig|48296.376.peg.3238|GUK58_16200   Transcriptional regulator, AraC family   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	28921	XXX	Acinetobacter baumannii AYE	Gammaproteobacteria	XXX		Yes	99.4
+
+#input_seq:	fig|48296.376.peg.960|GUK58_04800   Transcriptional regulator   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17827	CP000863	Acinetobacter baumannii ACICU, complete genome.	Gammaproteobacteria	AraC-type DNA-binding domain-containing protein	ACC57087	Yes	99.39
+
+#input_seq:	fig|48296.376.peg.546|GUK58_02735   Phenylacetic acid degradation operon negative regulatory protein PaaX   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	28921	XXX	Acinetobacter baumannii AYE	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|48296.376.peg.565|GUK58_02835   Nitrilotriacetate monooxygenase component B (EC 1.14.13.-)   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17827	CP000863	Acinetobacter baumannii ACICU, complete genome.	Gammaproteobacteria	conserved protein/domain typically associated with flavoprotein oxygenases, DIM6/NTAB family	ACC56674	Yes	99.35
+
+#input_seq:	fig|48296.376.peg.3087|GUK58_15430   probable membrane protein STY1534   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Gammaproteobacteria	putative membrane protein	ABO13324	Yes	99.34
+
+#input_seq:	fig|48296.376.peg.243|GUK58_01210   Permease of the drug/metabolite transporter (DMT) superfamily   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	21111	CP001182	Acinetobacter baumannii AB0057, complete genome.	Gammaproteobacteria	hypothetical protein	ACJ40204	Yes	99.66
+
+#input_seq:	fig|48296.376.peg.398|GUK58_02005   Universal stress protein UspA and related nucleotide-binding proteins   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Gammaproteobacteria	putative universal stress protein	ABO11674	Yes	99.29
+
+#input_seq:	fig|48296.376.peg.1041|GUK58_05190   Iron(III) dicitrate transport ATP-binding protein FecE (TC 3.A.1.14.1)   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	13001	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	99.61
+
+#input_seq:	fig|48296.376.peg.2849|GUK58_14215   Serine-protein kinase RsbW (EC 2.7.11.1)   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	13001	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	99.42
+
+#input_seq:	fig|48296.376.peg.1184|GUK58_05885   Transcriptional regulator, MarR family   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Gammaproteobacteria	putative transcriptional repressor of for multidrug resistance pump (MarR family)	ABO12293	Yes	99.43
+
+#input_seq:	fig|48296.376.peg.1328|GUK58_06610   Molybdopterin synthase catalytic subunit MoaE (EC 2.8.1.12)   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Gammaproteobacteria	molybdopterin converting factor large subunit	ABO12424	Yes	100.0
+
+#input_seq:	fig|48296.376.peg.740|GUK58_03700   Transcriptional regulator, AsnC family   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	13001	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	99.36
+
+#input_seq:	fig|48296.376.peg.893|GUK58_04470   FIG00350803: hypothetical protein   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	13001	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	99.35
+
+#input_seq:	fig|48296.376.peg.259|GUK58_01290   Transcriptional regulator, MarR family   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	28921	XXX	Acinetobacter baumannii AYE	Gammaproteobacteria	XXX		Yes	99.34
+
+#input_seq:	fig|48296.376.peg.479|GUK58_02405   Nickel responsive regulator NikR   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	21111	CP001182	Acinetobacter baumannii AB0057, complete genome.	Gammaproteobacteria	transcriptional regulator, CopG family	ACJ40489	Yes	100.0
+
+#input_seq:	fig|48296.376.peg.2716|GUK58_13555   3-hydroxydecanoyl-[ACP] dehydratase (EC 4.2.1.59)   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Gammaproteobacteria	putative 3-hydroxylacyl-(acyl carrier protein) dehydratase	ABO10976	Yes	99.29
+
+#input_seq:	fig|48296.376.peg.2793|GUK58_13935   Ribosomal silencing factor RsfA   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17827	CP000863	Acinetobacter baumannii ACICU, complete genome.	Gammaproteobacteria	uncharacterized plant Iojap protein	ACC55887	Yes	100.0
+
+#input_seq:	fig|48296.376.peg.1473|GUK58_07315   Dihydroneopterin aldolase (EC 4.1.2.25)   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Gammaproteobacteria	dihydroneopterin aldolase	ABO12571	Yes	100.0
+
+#input_seq:	fig|48296.376.peg.2129|GUK58_10550   Ribosome-associated inhibitor A   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	13001	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|48296.376.peg.383|GUK58_01925   hypothetical protein   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Gammaproteobacteria	hypothetical protein	ABS90059	Yes	100.0
+
+#input_seq:	fig|48296.376.peg.3549|GUK58_17755   Putative DNA-binding protein   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	13001	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|48296.376.peg.2814|GUK58_14040   Phosphocarrier protein, nitrogen regulation associated   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	13001	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|48296.376.peg.1522|GUK58_07555   DNA-binding protein Fis   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	12352	XXX	Acinetobacter sp. ADP1	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|48296.376.peg.3272|GUK58_16385   hypothetical protein   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Gammaproteobacteria	hypothetical protein	ABO11148	Yes	100.0
+
+#input_seq:	fig|48296.376.peg.775|GUK58_03880   hypothetical protein   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Gammaproteobacteria	hypothetical protein	ABO11953	Yes	100.0
+
+#input_seq:	fig|48296.376.peg.75|GUK58_00370   hypothetical protein   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	13001	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|48296.376.peg.2015   hypothetical protein   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	17477	CP000521	Acinetobacter baumannii ATCC 17978, complete genome.	Gammaproteobacteria	hypothetical protein	ABS90340	Yes	100.0
+
+#input_seq:	fig|48296.376.peg.1070|GUK58_05325   hypothetical protein   [Acinetobacter pittii strain VNMU 150 | 48296.376]
+#matched_seq:	21111	CP001182	Acinetobacter baumannii AB0057, complete genome.	Gammaproteobacteria	hypothetical protein	ACJ41512	Yes	100.0
+

@@ -1,0 +1,383 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_085253_975216_input.fsa
+Sequences ::	 4365
+Total bpp ::	 1284494
+Longest seq ::	 3251
+Shortest seq ::	 15
+Avg seq lenght ::	 294.0
+
+RESULTS:
+Min Identity Threshold ::	96.481
+Z-THRESHOLD ::	3.0
+Prediction Score ::	625.271
+Probability of being human pathogen ::	0.948
+Matches::	121
+Genome Coverage (%) ::	2.77
+Pathogenic Families Matched ::	120
+Non-Pathogenic Families Matched ::	1
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|150053.31.peg.1697|G5S39_08010   T6SS component TssM (IcmF/VasK)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative exported protein	CAL12718	Yes	98.51
+
+#input_seq:	fig|150053.31.peg.2111|G5S39_09965   Putative Histidine protein kinase sensor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative virulence sensor protein	CAL12696	Yes	98.22
+
+#input_seq:	fig|150053.31.peg.804|G5S39_03900   Putative pertactin family virulence factor/autotransporter precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative autotransporter protein	CAL14075	Yes	98.15
+
+#input_seq:	fig|150053.31.peg.46|G5S39_00235   Probable zinc protease pqqL (EC 3.4.99.-)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	probable exported Zinc protease	CAL10452	Yes	97.31
+
+#input_seq:	fig|150053.31.peg.44|G5S39_00225   Putative Ton-B dependent hemine receptor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative exported iron receptor protein	CAL10450	Yes	99.46
+
+#input_seq:	fig|150053.31.peg.1696   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL12717	Yes	98.85
+
+#input_seq:	fig|150053.31.peg.1705|G5S39_08050   Putative outer membrane fimbrial usher porin precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	outer membrane usher protein	CAL12726	Yes	98.99
+
+#input_seq:	fig|150053.31.peg.3611|G5S39_16900   c-di-GMP phosphodiesterase (EC 3.1.4.52) => Heme-regulated, oxygen sensor PdeO   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative phosphodiesterase	CAL12338	Yes	98.84
+
+#input_seq:	fig|150053.31.peg.1425|G5S39_06760   Sigma-fimbriae usher protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	probable outer membrane usher protein	CAL11936	Yes	98.37
+
+#input_seq:	fig|150053.31.peg.999|G5S39_04780   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved exported protein	CAL12137	Yes	97.6
+
+#input_seq:	fig|150053.31.peg.175|G5S39_00895   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL10581	Yes	98.07
+
+#input_seq:	fig|150053.31.peg.502|G5S39_02490   Selenocysteine-specific translation elongation factor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	selenocysteinyl-tRNA-specific translation factor	CAL14147	Yes	97.14
+
+#input_seq:	fig|150053.31.peg.1535|G5S39_07270   Putative accessory processing protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative accessory processing protein	CAL13257	Yes	97.4
+
+#input_seq:	fig|150053.31.peg.3353   Exoenzymes regulatory protein AepA precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL11336	Yes	97.74
+
+#input_seq:	fig|150053.31.peg.2862|G5S39_13465   Transcriptional regulator, GntR family domain / Aspartate aminotransferase (EC 2.6.1.1)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL11395	Yes	98.76
+
+#input_seq:	fig|150053.31.peg.4226|G5S39_19760   Outer membrane factor (OMF) lipoprotein associated wth EmrAB-OMF efflux system   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	probable outer membrane efflux protein	CAL13271	Yes	98.9
+
+#input_seq:	fig|150053.31.peg.4003|G5S39_18705   Inner membrane protein CreD   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative membrane protein	CAL13408	Yes	98.73
+
+#input_seq:	fig|150053.31.peg.822|G5S39_03980   Uncharacterized protein GlmL   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	glutamate mutase	CAL14059	Yes	99.78
+
+#input_seq:	fig|150053.31.peg.471|G5S39_02335   Valine--pyruvate aminotransferase (EC 2.6.1.66)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Gammaproteobacteria	alanine-alpha-ketoisovalerate	AAS64131	Yes	96.64
+
+#input_seq:	fig|150053.31.peg.1645|G5S39_07785   Type II/IV secretion system secretin RcpA/CpaC, associated with Flp pilus assembly   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative tight adherance operon protein	CAL13664	Yes	99.27
+
+#input_seq:	fig|150053.31.peg.1715|G5S39_08090   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL12734	Yes	98.97
+
+#input_seq:	fig|150053.31.peg.3007|G5S39_14120   Uncharacterized protein YjjU   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL10684	Yes	97.6
+
+#input_seq:	fig|150053.31.peg.176|G5S39_00900   probable exported protein YPO3473   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative exported protein	CAL10582	Yes	99.27
+
+#input_seq:	fig|150053.31.peg.3158|G5S39_14810   Similar to a proline peptidase protein in Bacillus subtilis O31689   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative peptidase	CAL12528	Yes	98.27
+
+#input_seq:	fig|150053.31.peg.1061   Uncharacterized protein YciW   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL12201	Yes	99.57
+
+#input_seq:	fig|150053.31.peg.726|G5S39_03540   Lysine-N-methylase (EC 2.1.1.-)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	flagellin lysine-N-methylase	CAL12563	Yes	99.25
+
+#input_seq:	fig|150053.31.peg.601|G5S39_02960   RND efflux system, membrane fusion protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative drug efflux protein	CAL13622	Yes	99.16
+
+#input_seq:	fig|150053.31.peg.747|G5S39_03630   N-acetylneuraminate epimerase (EC 5.1.3.24)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative exported protein	CAL12022	Yes	97.19
+
+#input_seq:	fig|150053.31.peg.3088|G5S39_14490   Potassium channel protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative potassium channel protein	CAL11059	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.181|G5S39_00925   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL10587	Yes	98.97
+
+#input_seq:	fig|150053.31.peg.1712|G5S39_08080   T6SS component TssA (ImpA)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL12732	Yes	97.93
+
+#input_seq:	fig|150053.31.peg.3664|G5S39_17130   Tetrathionate reductase subunit C   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	tetrathionate reductase subunit C	CAL11691	Yes	97.24
+
+#input_seq:	fig|150053.31.peg.740|G5S39_03600   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL12016	Yes	97.46
+
+#input_seq:	fig|150053.31.peg.2860|G5S39_13455   Permease of the drug/metabolite transporter (DMT) superfamily   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative inner membrane protein	CAL11396	Yes	99.42
+
+#input_seq:	fig|150053.31.peg.1424|G5S39_06755   Sigma-fimbriae tip adhesin   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative membrane protein	CAL11935	Yes	97.92
+
+#input_seq:	fig|150053.31.peg.3059|G5S39_14360   Transcriptional regulator, AraC family   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	AraC-family transcriptional regulator	CAL11036	Yes	98.52
+
+#input_seq:	fig|150053.31.peg.1713|G5S39_08085   Putative fimbrial protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative fimbrial protein	CAL12733	Yes	97.9
+
+#input_seq:	fig|150053.31.peg.1890|G5S39_08920   Uncharacterized protein YfhG   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative lipoprotein	CAL11135	Yes	98.07
+
+#input_seq:	fig|150053.31.peg.1292|G5S39_06180   putative membrane protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative membrane protein	CAL13054	Yes	99.38
+
+#input_seq:	fig|150053.31.peg.827|G5S39_04000   Transcriptional regulator, LysR family   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	Putative LysR family transcriptional regulator	CAL14055	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.201|G5S39_01020   Transcriptional regulator, LysR family   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative LysR-family transcriptional regulatory protein	CAL10605	Yes	98.41
+
+#input_seq:	fig|150053.31.peg.718|G5S39_03510   Transcriptional regulator, AraC family   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative AraC-family transcriptional regulatory protein	CAL12570	Yes	98.96
+
+#input_seq:	fig|150053.31.peg.2159|G5S39_10205   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL12716	Yes	98.21
+
+#input_seq:	fig|150053.31.peg.4285|G5S39_20050   N,N'-diacetylchitobiose-specific regulator ChbR, AraC family   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	cel operon repressor	CAL11069	Yes	99.64
+
+#input_seq:	fig|150053.31.peg.2158|G5S39_10200   T6SS associated component TagJ (ImpE)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL12715	Yes	98.18
+
+#input_seq:	fig|150053.31.peg.233|G5S39_01165   Chaperone protein psaB precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	chaperone protein	CAL11543	Yes	98.5
+
+#input_seq:	fig|150053.31.peg.1706|G5S39_08055   Chaperone protein fimC precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative pili chaperone protein	CAL12727	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.3361|G5S39_15740   Transcriptional regulator, MerR family   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative regulatory protein	CAL11343	Yes	98.33
+
+#input_seq:	fig|150053.31.peg.2116|G5S39_09990   Chaperone protein fimC precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	probable pili assembly chaperone	CAL12701	Yes	96.75
+
+#input_seq:	fig|150053.31.peg.2113|G5S39_09975   Chaperone protein fimC precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	probable pili assembly chaperone	CAL12698	Yes	99.59
+
+#input_seq:	fig|150053.31.peg.2809|G5S39_13205   Putative anti-FlhC(2)FlhD(4) factor YdiV   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL12293	Yes	97.92
+
+#input_seq:	fig|150053.31.peg.3736|G5S39_17450   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL11415	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.3080|G5S39_14455   Urease accessory protein UreE   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	urease accessory protein	CAL11052	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.236|G5S39_01180   Protein psaE precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative regulatory protein	CAL11540	Yes	99.1
+
+#input_seq:	fig|150053.31.peg.2638|G5S39_12425   UPF0126 inner membrane protein YadS   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Gammaproteobacteria	putative membrane protein	AAS60574	Yes	97.06
+
+#input_seq:	fig|150053.31.peg.911|G5S39_04400   putative lipoprotein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative lipoprotein	CAL11794	Yes	97.1
+
+#input_seq:	fig|150053.31.peg.1291|G5S39_06175   Putative LuxR-family regulatory proteins   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative LuxR-family regulatory proteins	CAL13053	Yes	98.5
+
+#input_seq:	fig|150053.31.peg.1704|G5S39_08045   Fimbrial protein precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	fimbrial protein	CAL12725	Yes	99.0
+
+#input_seq:	fig|150053.31.peg.1719|G5S39_08110   Transcriptional regulator, LuxA family   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative luxR-family regulatory protein	CAL12738	Yes	98.5
+
+#input_seq:	fig|150053.31.peg.1637|G5S39_07745   Flp pilus assembly surface protein TadF, ATP/GTP-binding motif   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative tight adherance operon protein	CAL13671	Yes	96.88
+
+#input_seq:	fig|150053.31.peg.1428|G5S39_06770   Sigma-fimbriae uncharacterized subunit   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative exported protein	CAL11938	Yes	97.3
+
+#input_seq:	fig|150053.31.peg.1700|G5S39_08025   T6SS secretion lipoprotein TssJ (VasD)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative exported protein	CAL12721	Yes	97.75
+
+#input_seq:	fig|150053.31.peg.4076|G5S39_19045   Type III secretion negative modulator of injection (YopK,YopQ,controls size of translocator pore)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286416	Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081 complete genome.	Gammaproteobacteria	virulence plasmid protein	CAL10028	Yes	99.45
+
+#input_seq:	fig|150053.31.peg.3526|G5S39_16530   Prepilin peptidase dependent protein A precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative exported protein	CAL13345	Yes	98.88
+
+#input_seq:	fig|150053.31.peg.2112|G5S39_09970   Fimbrial protein precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	fimbrial protein	CAL12697	Yes	99.43
+
+#input_seq:	fig|150053.31.peg.3468|G5S39_16270   Fimbrial protein precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative fimbrial protein	CAL10300	Yes	98.3
+
+#input_seq:	fig|150053.31.peg.3205|G5S39_15020   Type III secretion effector protein (YopR, encoded by YscH)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286416	Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081 complete genome.	Gammaproteobacteria	putative type III secretion protein	CAL10065	Yes	98.18
+
+#input_seq:	fig|150053.31.peg.3078|G5S39_14445   Urease beta subunit (EC 3.5.1.5)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	urease beta subunit	CAL11050	Yes	98.78
+
+#input_seq:	fig|150053.31.peg.235|G5S39_01175   Protein psaF   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative membrane protein	CAL11541	Yes	98.77
+
+#input_seq:	fig|150053.31.peg.1363|G5S39_06485   Putative exported protein precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative exported protein	CAL13763	Yes	98.76
+
+#input_seq:	fig|150053.31.peg.1718|G5S39_08105   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL12737	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.234|G5S39_01170   pH 6 antigen adhesin   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	pH 6 antigen precursor (antigen 4) (adhesin)	CAL11542	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.2157|G5S39_10195   T6SS lysozyme-like component TssE   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL12714	Yes	98.11
+
+#input_seq:	fig|150053.31.peg.1004|G5S39_04810   DNA gyrase inhibitory protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	DNA gyrase inhibitory protein	CAL12144	Yes	99.36
+
+#input_seq:	fig|150053.31.peg.3163|G5S39_14830   Biofilm PGA synthesis auxiliary protein PgaD   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	haemin storage system, HmsS protein	CAL12524	Yes	97.42
+
+#input_seq:	fig|150053.31.peg.3189|G5S39_14940   Type III secretion spans bacterial envelope protein (YscO)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286416	Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081 complete genome.	Gammaproteobacteria	type III secretion system translocation protein	CAL10049	Yes	97.4
+
+#input_seq:	fig|150053.31.peg.3062|G5S39_14375   putative membrane protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative membrane protein	CAL11039	Yes	97.32
+
+#input_seq:	fig|150053.31.peg.2616|G5S39_12320   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL13416	Yes	98.62
+
+#input_seq:	fig|150053.31.peg.3902|G5S39_18175   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL11324	Yes	96.5
+
+#input_seq:	fig|150053.31.peg.3234|G5S39_15140   Uncharacterized protein YaaX/YpeC   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative exported protein	CAL11311	Yes	98.08
+
+#input_seq:	fig|150053.31.peg.3213|G5S39_15055   Type III secretion chaperone protein for YopH (SycH)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Gammaproteobacteria	putative yopH targeting protein SycH	AAS58597	Yes	97.87
+
+#input_seq:	fig|150053.31.peg.1647|G5S39_07795   Type IV prepilin peptidase TadV/CpaA   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative tight adherance operon protein	CAL13662	Yes	96.88
+
+#input_seq:	fig|150053.31.peg.3168|G5S39_14855   Orf60 (f139)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Gammaproteobacteria	hypothetical protein	AAS58579	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.3560|G5S39_16680   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL13380	Yes	99.28
+
+#input_seq:	fig|150053.31.peg.2704|G5S39_12710   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL10862	Yes	99.26
+
+#input_seq:	fig|150053.31.peg.3089|G5S39_14495   Fluoride ion transporter CrcB   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative membrane protein	CAL11061	Yes	98.51
+
+#input_seq:	fig|150053.31.peg.4079|G5S39_19055   Type III secretion chaperone protein for YopT (SycT)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Gammaproteobacteria	putative yopT chaperone SycT	AAS58581	Yes	99.23
+
+#input_seq:	fig|150053.31.peg.2402|G5S39_11340   Acetyl-CoA sensor PanM, required for maturation of L-aspartate decarboxylase   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative acetyltransferase	CAL10363	Yes	97.69
+
+#input_seq:	fig|150053.31.peg.3216|G5S39_15065   Type III secretion chaperone protein for YopE (SycE)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Gammaproteobacteria	putative yopE chaperone SycE	AAS58593	Yes	99.23
+
+#input_seq:	fig|150053.31.peg.1421|G5S39_06740   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL11932	Yes	97.67
+
+#input_seq:	fig|150053.31.peg.3529|G5S39_16545   FIG004136: Prepilin peptidase dependent protein C precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL13342	Yes	96.88
+
+#input_seq:	fig|150053.31.peg.1898|G5S39_08960   PTS-regulatory domain-containing protein YhfY   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL11143	Yes	98.41
+
+#input_seq:	fig|150053.31.peg.3101|G5S39_14540   Glucitol operon activator protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	glucitol operon activator protein	CAL11190	Yes	98.35
+
+#input_seq:	fig|150053.31.peg.3802|G5S39_17755   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	hypothetical phage protein	CAL12347	Yes	99.15
+
+#input_seq:	fig|150053.31.peg.3210|G5S39_15045   Type III secretion negative regulator of effector production protein (LcrQ,YscM, YscM1 and YscM2)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286416	Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081 complete genome.	Gammaproteobacteria	putative type III secretion regulatory protein	CAL10070	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.3240|G5S39_15190   Putative exported protein precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative exported protein	CAL11306	Yes	99.12
+
+#input_seq:	fig|150053.31.peg.3063|G5S39_14380   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	hypothetical protein	CAL11040	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.397|G5S39_01985   Cyd operon protein YbgE   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL12975	Yes	96.97
+
+#input_seq:	fig|150053.31.peg.251|G5S39_01250   Putative membrane protein precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative membrane protein	CAL11526	Yes	99.07
+
+#input_seq:	fig|150053.31.peg.1029|G5S39_04930   Uncharacterized protein YdbJ   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative lipoprotein	CAL12171	Yes	97.14
+
+#input_seq:	fig|150053.31.peg.3153|G5S39_14785   Cytochrome C553 (soluble cytochrome f)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative cytochrome	CAL12533	Yes	97.12
+
+#input_seq:	fig|150053.31.peg.2544|G5S39_12005   Uncharacterized protein YbjC   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative membrane protein	CAL11569	Yes	98.04
+
+#input_seq:	fig|150053.31.peg.968|G5S39_04645   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL11829	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.1488|G5S39_07045   Integration host factor alpha subunit   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881	No	96.94
+
+#input_seq:	fig|150053.31.peg.977|G5S39_04690   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL11838	Yes	98.91
+
+#input_seq:	fig|150053.31.peg.3219|G5S39_15080   ParD protein (antitoxin to ParE)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	10638	AE017043	Yersinia pestis biovar Microtus str. 91001 plasmid pCD1, complete sequence.	Gammaproteobacteria	hypothetical protein	AAS58589	Yes	97.5
+
+#input_seq:	fig|150053.31.peg.969|G5S39_04650   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL11830	Yes	98.77
+
+#input_seq:	fig|150053.31.peg.3822|G5S39_17825   Periplasmic nitrate reductase component NapD   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL11249	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.2684|G5S39_12620   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL10880	Yes	97.7
+
+#input_seq:	fig|150053.31.peg.932|G5S39_04495   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL11805	Yes	98.84
+
+#input_seq:	fig|150053.31.peg.1414|G5S39_06715   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL11927	Yes	97.65
+
+#input_seq:	fig|150053.31.peg.1566|G5S39_07420   putative membrane protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative membrane protein	CAL13227	Yes	100.0
+
+#input_seq:	fig|150053.31.peg.2255|G5S39_10645   FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	10638	AE017042	Yersinia pestis biovar Microtus str. 91001, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAS61437	Yes	96.67
+
+#input_seq:	fig|150053.31.peg.1779   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	hypothetical protein	CAL12794	Yes	98.59
+
+#input_seq:	fig|150053.31.peg.3202|G5S39_15005   Type III secretion protein (YscE)   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286416	Yersinia enterocolitica subsp. enterocolitica 8081 plasmid pYVe8081 complete genome.	Gammaproteobacteria	putative type III secretion protein	CAL10062	Yes	96.97
+
+#input_seq:	fig|150053.31.peg.2703|G5S39_12705   Uncharacterized protein YP0318   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAL10863	Yes	98.48
+
+#input_seq:	fig|150053.31.peg.3120|G5S39_14630   Putative exported protein precursor   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative exported protein	CAL11214	Yes	96.83
+
+#input_seq:	fig|150053.31.peg.961|G5S39_04615   putative membrane protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	190	AM286415	Yersinia enterocolitica subsp. enterocolitica 8081 complete genome.	Gammaproteobacteria	putative membrane protein	CAL11824	Yes	98.15
+
+#input_seq:	fig|150053.31.peg.4011   FIG01219862: hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Gammaproteobacteria	hypothetical protein	ACA66636	Yes	97.44
+
+#input_seq:	fig|150053.31.peg.1243   hypothetical protein   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	28743	CP000950	Yersinia pseudotuberculosis YPIII, complete genome.	Gammaproteobacteria	hypothetical protein	ACA69261	Yes	97.14
+
+#input_seq:	fig|150053.31.peg.3036|G5S39_14250   thr operon leader peptide   [Yersinia enterocolitica subsp. palearctica strain Ye9N | 150053.31]
+#matched_seq:	16070	CP000720	Yersinia pseudotuberculosis IP 31758, complete genome.	Gammaproteobacteria	thr operon leader peptide	ABS48787	Yes	100.0
+

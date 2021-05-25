@@ -1,0 +1,1259 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_073149_839944_input.fsa
+Sequences ::	 5945
+Total bpp ::	 1579949
+Longest seq ::	 4189
+Shortest seq ::	 20
+Avg seq lenght ::	 265.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	1492.49
+Probability of being human pathogen ::	0.893
+Matches::	413
+Genome Coverage (%) ::	6.95
+Pathogenic Families Matched ::	413
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1809.19.peg.5779   Probable cation-transporting ATPase I (EC 3.6.3.-)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	cation-transporter ATPase I CtpI	ABL06732	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5382   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	PE-PGRS family protein	ACC43399	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1902   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	serine/threonine-protein kinase transcriptional regulatory protein	ACC41964	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2012   Modular polyketide synthase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	polyketide synthase Pks9	ABL04150	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2252   PE-PGRS family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	PE-PGRS family protein	ACC41742	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.103   Transmembrane heme transport protein MmpL3   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved transmembrane transport protein MmpL3	ABL03685	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1397   Putative sensor and ATPase, component of G-protein-coupled receptor (GPCR) system   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical regultory protein	ABL05136	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3232   Iron siderophore ABC transporter, permease/ATP-binding protein IrtA   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transmembrane ATP-binding protein ABC transporter	ABL05974	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4987   PE-PGRS family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	PE-PGRS family protein	ACC42814	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5865   PE-PGRS family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE-PGRS family protein	ABL03892	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3661   Phosphoenolpyruvate synthase (EC 2.7.9.2)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05260	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5275   PE-PGRS family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	PE-PGRS family protein	ACC40931	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3038   Glycosyl transferase family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	glycosyltransferase	ABL06611	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5407   PE-PGRS family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE-PGRS family protein	ABL02962	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1136   Excinuclease ABC subunit C   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	excinuclease ABC (subunit c-nuclease) UvrC	ABL04290	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5346   PE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE-PGRS family protein	ABL04139	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.451   PE-PGRS family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE-PGRS family protein	ABL05489	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1327   AAA+ family protein ATPase EccA5, component of Type VII secretion system ESX-5   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL05321	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.329   PE-PGRS family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	PE-PGRS family protein	ACC42976	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.549   Serine/threonine protein kinase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transmembrane serine/threonine-protein kinase H Pkn	ABL05553	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2616   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transmembrane serine/threonine-protein kinase I PknI	ABL04477	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2878   Serine/threonine protein kinase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	transmembrane serine/threonine-protein kinase H PknH	ACC42563	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3231   Iron siderophore ABC transporter, permease/ATP-binding protein IrtB   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transmembrane ATP-binding protein ABC transporter	ABL05973	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2697   Desaturase-related protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL04252	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3954   Probable serine/threonine-protein kinase pknH (EC 2.7.11.1)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	transmembrane serine/threonine-protein kinase	ACC40894	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5348   PE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE-PGRS family protein	ABL04138	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4903   CoA ligase @ Long-chain fatty-acid-CoA ligase (EC 6.2.1.3), Mycobacterial subgroup FadD7   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	fatty-acid-CoA ligase FadD7	ABL06714	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5416   Uncharacterized MFS-type transporter   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved integral membrane transport protein	ABL06208	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3960   Membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved transmembrane protein	ABL04119	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.179   Membrane protein EccB5, component of Type VII secretion system ESX-5   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL05337	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5032   Two-component system sensor histidine kinase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	two component regulator - sensor kinase	ABL04023	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1324   Integral membrane protein EccD5, component of Type VII secretion system ESX-5   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL05324	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5588   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved secreted protein	ABL05394	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.716   Hydrogenase-4 component F   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	hydrogenase HycQ	ABL04356	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3147   Putative oxidoreductase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	oxidoreductase	ABL03965	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2655   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical transmembrane protein	ACC39027	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3917   PPE family protein, PPW subgroup => PPE1   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PPE family protein	ABL06754	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2863   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03504	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1918   PE-PGRS family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	P	ABL04206	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1132   Diacyglycerol O-acyltransferase (EC 2.3.1.20)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04294	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2854   Integral membrane protein EccD4, component of Type VII secretion system ESX-4   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL03495	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2601   Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04491	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1328   PPE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PPE family protein	ABL05320	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1045   elastin   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ACC42895	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1115   Diacyglycerol O-acyltransferase (EC 2.3.1.20)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05023	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.445   Wax ester synthase/acyl-CoA:diacylglycerol acyltransferase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical protein	ACC39615	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5565   PE-PGRS family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	PE-PGRS family protein	ACC42954	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4309   ABC transporter, substrate-binding protein (cluster 1, maltose/g3p/polyamine/iron)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	periplasmic sugar-binding lipoprotein UspC	ABL03816	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2539   conserved hypothetical membrane permease   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane permease	ABL06048	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5785   PPE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PPE family protein	ABL06435	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4386   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL04896	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1715   PPE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PPE family protein	ABL05361	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1333   PPE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	PPE family protein, PPE32	ACC41127	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1896   PE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE-PGRS family protein	ABL05081	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4673   FIG00821131: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL02819	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4468   Alkyl sulfatase and related hydrolases, MBL-fold metallo-hydrolase superfamily   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	hydrolase	ABL06364	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1691   MCE-family protein MceF   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	Mce family protein Mce5F	ABL05901	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2397   Hydrolase, alpha/beta fold family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL02856	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.852   Cell wall endopeptidase, family M23/M37   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05035	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2856   Membrane protein Rv3446c, component of Type VII secretion system ESX-4   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03497	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2442   MCE-family protein MceF   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	MCE-family protein Mce6F	ABL06801	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1326   Membrane protein EccE5, component of Type VII secretion system ESX-5   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL05322	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3142   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL03616	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.780   PPE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PPE family protein	ABL03194	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1692   MCE-family lipoprotein MceE   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	Mce family protein, Mce5E	ABL05900	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2160   Transcriptional repressor Mce3R, TetR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional repressor (probably TetR-family) Mce3R	ABL05161	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.299   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL02976	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3423   L-carnitine dehydratase/bile acid-inducible protein F   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	acyl-CoA transferase	ABL04950	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.55   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved secreted protein	ABL05407	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1548   PPE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PPE family protein	ABL03569	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2695   Naringenin-chalcone synthase (EC 2.3.1.74)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	chalcone/stilbene synthase	ABL04253	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.443   Trehalose-6-phosphate phosphatase (EC 3.1.3.12)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	trehalose-6-phosphate phosphatase OtsB2	ABL03549	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.691   PPE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	PPE family protein, PPE49	ACC42731	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4606   Integrase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	prophage integrase	ABL03228	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4511   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06335	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5928   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE-PGRS family protein	ABL04308	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5193   PPE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PPE family protein	ABL04780	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1835   hypothetical protein Rv0272c   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL03771	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3133   FIG032248: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03688	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5038   Rieske [2Fe-2S] domain protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	oxidoreductase	ABL05922	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2522   Hydrolase, alpha/beta fold family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical hydrolase	ABL03512	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2444   MCE-family protein MceD   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	MCE-family protein Mce6D	ABL06803	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5065   Phosphomevalonate kinase (EC 2.7.4.2)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	phosphomevalonate kinase	ABL05677	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4676   Vegetative cell wall protein gp1 precursor   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL02822	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1984   Ligand-binding SRPBCC domain protein family / DinB domain   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulator	ABL03351	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.929   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL05812	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1028   PE-PGRS family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	PE-PGRS family protein	ACC40723	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2462   FIG00831021: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical transmembrane protein	ABL06821	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5067   Mevalonate kinase (EC 2.7.1.36)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	mevalonate kinase, Erg12	ABL05679	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3595   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04755	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5535   Glycerate kinase (EC 2.7.1.31)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	glycerate kinase	ABL05708	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2150   Monooxygenase component C / Probable epoxide hydrolase EphB (EC 3.3.2.9)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	epoxide hydrolase EphB	ABL05167	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5337   PE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE-PGRS family protein	ABL06409	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2445   MCE-family protein MceC   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	MCE-family protein Mce6C	ABL06804	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.959   Acyl-CoA dehydrogenase (EC 1.3.8.-), Mycobacterial subgroup FadE28; Acyl-CoA dehydrogenase IgrB   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	acyl-CoA dehydrogenase FadE28	ABL06151	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2082   PE-PGRS family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	P	ABL03251	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4482   Transcriptional regulator, AraC family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (probably AraC/XylS-family)	ABL06352	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4852   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical transcriptional regulatory protein	ABL05935	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.853   Hydrolase, alpha/beta fold family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	hydrolase	ACC41874	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4639   FIG187021: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL02787	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.989   Outer membrane low permeability porin, OmpATb family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	outer membrane protein a OmpA	ABL02990	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1346   D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	D-3-phosphoglycerate dehydrogenase SerA2	ABL03463	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4328   FIG00828612: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05049	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.545   FIG01334132: Putative conserved alanine, valine and leucine rich integral membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL05552	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.327   FIG00832443: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	hypothetical protein	ABL04186	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1969   Glycolipid sulfotransferase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	glycolipid sulfotransferase	ABL05124	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2674   Carboxylesterase NlhH (EC 3.1.1.1)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	lipase LipH	ABL04270	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1231   Transcriptional regulator, IclR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulator (IclR family)	ABL05066	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2035   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04685	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2049   FIG019733: possible DNA-binding protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL04698	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1458   regulator of sigma factor   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05581	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.903   Luciferase family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03832	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3000   N-acetyl-D-glucosamine ABC transporter, permease protein 1   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	ABC-type sugar transport integral membrane protein	ABL04637	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3040   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06613	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4665   renal dipeptidase family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL02811	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5243   putative membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ACC39316	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4153   Methoxy mycolic acid synthase MmaA4   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	methoxy mycolic acid synthase 4, MmaA4	ABL03378	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4859   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	acyl-CoA dehydrogenase	ABL05931	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2344   23S rRNA (guanosine(2251)-2'-O)-methyltransferase (EC 2.1.1.185)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	tRNA/rRNA methyltransferase	ABL06195	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4422   NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	NADH pyrophosphatase NudC	ACC39820	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4742   Putative dehydrogenase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	dehydrogenase	ACC43188	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.350   TesB-like acyl-CoA thioesterase 3   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06430	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3079   antigen 34 kDa   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved transmembrane protein	ABL06647	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1322   FIG023076: hypothetical protein in PPE gene cluster   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL05325	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4091   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03238	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4929   Epoxide hydrolase (EC 3.3.2.9)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	epoxide hydrolase EphF	ABL06695	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2203   PE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE family protein	ABL03627	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4842   PE-PGRS family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE-PGRS family protein	ABL03728	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5831   putative secreted protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06916	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.926   Late competence protein ComEA, DNA receptor   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein ComEA	ABL05809	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1473   ATP-dependent efflux pump essential for phthiocerol dimycocerosates translocation, integral membrane protein DrrB-like   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	daunorubicin-DIM-transport integral membrane protein ABC transporter DrrB	ABL04452	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1699   Conserved hypothetical integral membrane protein YrbEa   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	YrbE family protein, YrbE5A	ABL05896	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.198   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL05344	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3876   Dipeptide ABC transporter, permease protein DppC (TC 3.A.1.5.2)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	dipeptide-transport integral membrane protein ABC transporter DppC	ABL06267	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.321   Aromatic prenyltransferase 1, UbiA family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transferase	ABL04182	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5224   Chitinase-related protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	chitinase/cellulase	ABL03093	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2449   Conserved hypothetical integral membrane protein YrbEa   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical integral membrane protein YrbE6A	ABL06808	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3594   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL04754	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.688   3-alpha-hydroxysteroid dehydrogenase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	short-chain type dehydrogenase/reductase	ABL02894	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4187   Probable iron export permease protein FetB   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL06101	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4359   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL04917	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.817   Hydrolase, alpha/beta fold family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	oxidoreductase	ABL06785	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4735   Proline iminopeptidase (EC 3.4.11.5)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	proline iminopeptidase PIP	ABL03080	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4773   Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	short-chain type dehydrogenase/reductase	ABL03054	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1545   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL05538	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.763   Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	ribulose-5-phosphate 4-epimerase, AraD	ABL05370	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.273   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06763	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4521   Putative transmembrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL06331	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1827   hypothetical protein Rv2237   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03874	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.590   FIG00828703: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL05487	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.163   Integral membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	integral membrane protein	ABL03597	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5791   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL06439	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.278   3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	enoyl-CoA hydratase, EchA	ABL06768	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3800   Biotin carboxyl carrier protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04439	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3044   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06616	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4022   FIG00820195: MCE associated membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved Mce associated membrane protein	ABL03665	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4670   HTH-type transcriptional regulator Rv0023   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein	ABL02816	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4092   Valiolone-7-phosphate 2-epimerase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	epimerase	ABL03237	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5103   Putative transmembrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transmembrane protein	ABL04134	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1689   FIG00820444: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL05903	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2064   TesB-like acyl-CoA thioesterase 5   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04713	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3703   NLP/P60 family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	inv protein	ABL04068	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2452   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL06811	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.710   Enoyl-CoA hydratase (EC 4.2.1.17)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	enoyl-CoA hydratase EchA17	ABL04359	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4081   PPE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	PPE family protein	ACC42595	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5326   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL06413	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2045   putative membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL04694	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3354   Thioesterase [mycobactin] siderophore @ Thioesterase in siderophore biosynthesis gene cluster   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	thioesterase	ABL05769	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4572   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved secreted protein	ABL05386	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5925   3-oxo-5-alpha-steroid 4-dehydrogenase 2 (EC 1.3.99.5)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL05425	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1559   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL03851	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.465   Methyltransferase (EC 2.1.1.-) colocalized with Q   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	methyltransferase	ABL05500	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2348   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical lipoprotein	ABL06191	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1054   SAM-dependent methyltransferase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	methyltransferase	ABL06603	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.607   Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	succinate dehydrogenase (iron-sulfur subunit), Sdh	ACC38974	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4174   putative membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ACC43368	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2456   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL06815	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1496   Lactate-responsive regulator LldR in Enterobacteria, GntR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (probably GntR-family)	ABL06517	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.46   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05401	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.846   FIG00824101: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05030	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2657   putative membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL06666	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2117   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL03166	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5932   Transcriptional regulator, GntR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (probably GntR-family)	ABL04304	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2454   FIG00821588: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL06813	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2103   FIG00829134: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL05199	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5383   FIG00824473: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06121	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3587   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL04747	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2463   FIG00821219: MCE associated membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL06822	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2389   putative secreted protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	hypothetical secreted protein	ABL05592	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2349   Serine/threonine protein kinase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved lipoprotein LppH	ABL06190	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2883   FIG00820366: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL06077	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5210   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03101	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5157   Transcriptional regulator Rv0472c, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	transcriptional regulatory protein (possibly TetR-family)	ACC39257	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3419   Integral membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL04948	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4969   FIG111991: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL03942	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4550   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL06307	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5747   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL04374	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3993   Tryptophan-associated membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL04096	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.130   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	immunogenic protein Mpt64	ABL06906	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.436   FIG00821108: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL03544	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2628   FIG00997866: hypothetical protein / Acylphosphate phosphohydrolase (EC 3.6.1.7)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL04469	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.433   Transcriptional regulator, HxlR family / Domain of unknown function   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein	ABL03541	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4911   Putative transmembrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical transmembrane protein	ACC38794	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4404   Fructose-1,6-bisphosphatase, Mycobacterial type SUP1 (EC 3.1.3.11); Sugar phosphatase SUP1 (EC 3.1.3.23)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	phosphoglycerate mutase Gpm2	ABL04879	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3985   Cutinase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	cutinase Cut1	ABL04102	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3461   PPE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PPE family protein	ABL04631	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.834   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (possibly TetR-family)	ABL06774	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4711   conserved hypothetical protein, putative   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL02849	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5892   FIG00828743: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03901	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1347   Ribulose-5-phosphate 4-epimerase and related epimerases and aldolases   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	L-fuculose-1-phosphate aldolase FucA	ABL03462	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1454   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (TetR- family)	ABL05577	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2964   Transcriptional regulator PqrA, TetR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulator (TetR family)	ABL03423	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.841   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (probably TetR-family)	ABL05028	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2476   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (probably TetR/AcrR-family)	ABL06831	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1177   FIG00824124: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL05626	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3208   FIG00828234: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05959	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2755   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (AcrR family)	ABL05832	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.208   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (probably AcrR-family)	ABL05350	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3794   Chorismate--pyruvate lyase (EC 4.1.3.40)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	chorismate pyruvate-lyase	ABL04442	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.99   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL03978	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3721   Glycolipoprotein LprI, lysozyme inhibitor   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	lipoprotein, LprL	ABL04052	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1225   Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	methyltransferase (methylase)	ABL05068	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.16   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05597	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2977   Cytoplasmic membrane protein FsxA   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL04652	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.653   FIG00825256: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	nitroreductase	ABL04600	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.835   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (possibly TetR-family)	ABL06773	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1155   Siderophore synthetase small component, acetyltransferase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05614	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1595   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL05842	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.784   hypothetical protein Rv0779c   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved transmembrane protein	ABL03198	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.409   Uncharacterized protein Rv1109c   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL02923	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3586   Transcriptional regulator, PadR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04746	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4715   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulator	ABL02851	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1833   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein	ABL03772	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1596   FIG00824513: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL05843	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2338   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	regulatory protein	ABL04389	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2614   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	transcriptional regulatory protein (probably TetR-family)	ACC40245	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5209   FIG00824139: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03102	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1579   FIG00820323: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03869	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.850   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL05033	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.742   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (TetR- family)	ABL05203	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4345   Lipoprotein LprE   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	lipoprotein LprE	ABL06461	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2631   FIG01269488: protein, clustered with ribosomal protein L32p   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04466	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4802   FIG00820195: MCE associated membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL03037	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.816   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (probably TetR-family)	ABL06786	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1424   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03265	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.14   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein	ABL05599	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.649   cAMP-binding proteins - catabolite gene activator and regulatory subunit of cAMP-dependent protein kinases   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved protein	ACC41382	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4501   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06340	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.564   lipoprotein LppV   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved lipoprotein Lpp	ABL04554	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2486   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (probably TetR-family)	ABL06840	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2700   Acetyltransferase, GNAT family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04249	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.226   Putative transmembrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transmembrane protein	ABL03958	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1883   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein	ABL05090	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4537   Transcriptional regulator, AcrR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (probably DeoR-family)	ABL06316	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.12   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	hypothetical protein	ABL05601	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.265   hypothetical protein Rv0098   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06756	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5212   Transcriptional regulator, MarR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	marR-family transcriptional regulator	ABL03099	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3964   ATP-dependent DNA ligase (EC 6.5.1.1) clustered with Ku protein, LigD   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04115	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4047   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical protein	ACC38864	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2829   FIG00822571: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL03472	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4525   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06327	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1539   putative membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL05544	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.478   Uncharacterized membrane protein Rv0513   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved transmembrane protein	ABL06551	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2357   FIG00821138: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL06183	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.765   Acetyltransferase, GNAT family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical acetyltransferase	ACC41061	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2549   PE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE-PGRS family protein	ABL06039	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2563   ATP synthase protein I   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL06026	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4923   polyketide cyclase/dehydrase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06699	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2705   Transcription termination protein NusB   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	N utilization substance protein NusB	ABL04246	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2069   FIG00820427: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical transmembrane protein	ABL02942	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4449   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04839	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5643   Integral membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL05451	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2541   PE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE-PGRS family protein	ABL06046	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4935   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06690	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2455   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL06814	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1484   FIG00821901: hypothetical protein, Rv0504c   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06529	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2942   MarR family transcriptional regulator associated with MmpL5/MmpS5 efflux system   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulator	ABL03404	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5072   Transcriptional regulator, MarR family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical regulatory protein	ABL03574	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1246   FIG00822000: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL05510	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5838   Possible lipoprotein LppJ   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	lipoprotein LppJ	ACC43873	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5875   Nucleoside diphosphate kinase regulator   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06849	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5152   putative membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL06501	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3166   FIG00821485: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL06881	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.900   6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	6-pyruvoyl tetrahydrobiopterin synthase	ABL03831	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1019   FIG00825523: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05182	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4986   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL02969	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1139   Membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL04287	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2868   Putative transmembrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical transmembrane protein	ACC39569	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2101   FIG00823749: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane protein	ABL05197	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.361   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL05213	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2503   2,4'-dihydroxyacetophenone dioxygenase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	hypothetical protein	ABL05382	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2763   FIG00820357: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03119	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1022   FIG00821943: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL05179	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4881   FIG00823811: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical protein	ACC38768	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.459   Uncharacterized N-acetyltransferase (EC 2.3.1.-)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05495	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1851   hypothetical protein Rv0258c   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03758	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3702   Uncharacterized protein Rv1567c   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL04069	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5248   Anti-sigma B factor antagonist RsbV   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03277	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.909   Integral membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical transmembrane protein	ABL04822	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3563   Putative transmembrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transmembrane protein	ABL03919	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4109   Putative DNA-binding protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05641	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.373   FIG00822385: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	acyl dehydratase MaoC	ABL05916	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.371   FIG00823763: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL05918	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4531   Nucleoid-associated protein YaaK   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL06322	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1002   Resuscitation-promoting factor RpfC   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	resuscitation-promoting factor-like protein	ABL05235	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.598   Anti-sigma B factor antagonist RsbV   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05481	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2099   Anti-sigma B factor antagonist RsbV   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical protein	ACC41242	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5798   putative membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical transmembrane protein	ABL02914	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1302   Thioesterase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06059	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.252   Membrane protein, MmpS family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved membrane transport protein, MmpS	ABL04670	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2337   Membrane protein MmpS6   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved membrane protein	ACC40146	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1881   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05092	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5634   Chitinase-related protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	chitinase/cellulase	ABL04607	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1274   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL05729	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4794   lppE   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved lipoprotein	ABL03040	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4259   Anti-sigma-factor antagonist   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	anti sigma factor antagonist	ACC39197	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3439   Sulfur acceptor protein => iron-sulfur cluster assembly SufE   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	Fe-S metabolism associated protein, SufE	ACC39710	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2161   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05160	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5155   Transcriptional regulator, Xre family   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein	ABL06498	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4756   Lipoprotein LpqS   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	lipoprotein LpqS	ACC43173	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3748   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03991	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2704   FIG00822125: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL04247	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5398   Steroid Delta(5)->Delta(3)-isomerase (EC 5.3.3.1)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical ketosteroid isomerase- like protein	ABL06133	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4494   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06342	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5744   Uncharacterized protein Rv3032.5   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04373	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2363   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL06177	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1171   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05623	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5171   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03839	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3325   Transcriptional regulator in glycyl-tRNA synthetase containing cluster   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	transcriptional regulatory protein (probably ArsR-family)	ABL05747	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2788   Repressor CsoR of the copZA operon   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03137	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.205   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05349	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3283   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05948	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5215   Lycopene cyclase   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	lycopene cyclase, CrtYd	ABL03098	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.735   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein - truncated	ABL05210	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3530   putative membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL03296	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2983   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04647	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2204   putative membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL03626	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4951   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL06677	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1575   Acyl carrier protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	meromycolate extension acyl carrier protein AcpM	ABL03865	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4547   FIG00820599: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical proline rich protein	ABL06310	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.218   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03952	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4235   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL04346	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2535   FIG00823516: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL06051	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4471   PE family protein => PE34   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE family protein	ABL06361	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2887   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted rotein	ABL06073	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2886   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ACC42558	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1273   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ACC39183	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.347   FIG00829446: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL06427	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2221   FIG00826668: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ACC39691	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4816   FIG00823933: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03026	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3436   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL04961	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2987   peptidase S41   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04643	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4387   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04895	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2862   FIG00820542: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03503	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.560   FIG00821480: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04553	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4502   FIG00826024: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06339	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2787   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03136	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5521   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03822	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1320   ESAT-6-like protein EsxK   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	EsaT-6 like protein EsxM	ABL05327	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4739   PE family protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	PE-PGRS family protein family protein	ABL03077	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.173   PE family protein => PE18, component of Type VII secretion system ESX-5   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	PE family protein, PE1	ACC41113	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3543   FIG01028653: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03288	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3737   ESAT-6-like protein EsxK   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	EsaT-6 like protein Esx	ABL03982	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4210   ESAT-6-like protein EsxK   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	EsaT-6 like protein EsxP	ABL06565	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3149   FIG00824674: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL03963	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4205   FIG00827685: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06570	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3738   ESAT-6-like protein EsxL   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	EsaT-6 like protein Esx	ABL03983	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4209   ESAT-6-like protein EsxI   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	EsaT-6 like protein Esx	ABL06566	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4730   Probable phenylacetic acid degradation NADH oxidoreductase paaE (EC 1.-.-.-)   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	electron transfer protein	ABL03085	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2451   Acyl carrier protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	acyl carrier protein	ABL06810	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2551   FIG00823547: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06038	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5923   putative membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	hypothetical secreted protein	ACC41000	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5728   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	iron-regulated elongation factor tu Tuf-like	ABL05143	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3471   FIG00829490: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04623	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3888   FIG00822586: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06257	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2040   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04689	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1970   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05126	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3953   FIG00820127: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical protein	ACC40895	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.131   putative secreted protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL06905	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.643   Ferredoxin   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	ferredoxin FdxD	ABL06117	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4417   Uncharacterized protein MSMEG_3540   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04866	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4828   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical protein	ACC42229	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5207   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical transmembrane protein	ABL03104	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4181   FIG00825146: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	acyl carrier protein	ABL06098	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.225   putative membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hydrophobic protein	ABL03957	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3284   putative secreted protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL05949	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5232   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04037	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1785   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04740	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3332   FIG00826867: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05754	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3592   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04752	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3292   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved secreted protein	ABL03722	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3910   Copper chaperone   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved secreted protein	ABL06747	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4431   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL04852	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2430   Dodecin, a flavin storage/sequestration protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	protein transport protein SecE2	ABL02879	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2619   FIG00823964: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04474	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5885   Cell division inhibitor SulA   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL03906	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4820   Uncharacterized protein MSMEG_5704   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03022	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4142   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL03369	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4090   FIG00827606: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03239	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3368   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05781	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5780   FIG00821282: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved protein	ABL06731	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1627   putative membrane protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical membrane protein	ABL03342	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5640   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04611	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.4804   FIG00823260: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03036	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.801   Uncharacterized protein Sros_7085   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05530	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3674   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL05247	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.3807   FIG00820984: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical secreted protein	ABL04437	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.157   FIG00821293: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03601	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5282   FIG00822287: hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL06892	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.1687   hypothetical secreted protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	hypothetical secreted protein	ABL05905	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.584   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16725	CP000854	Mycobacterium marinum M, complete genome.	Actinobacteridae	conserved hypothetical protein	ACC43229	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.2323   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL04399	Yes	100.0
+
+#input_seq:	fig|1809.19.peg.5245   hypothetical protein   [Mycobacterium ulcerans strain CSURQ0185 | 1809.19]
+#matched_seq:	16230	CP000325	Mycobacterium ulcerans Agy99, complete genome.	Actinobacteridae	conserved hypothetical protein	ABL03280	Yes	100.0
+

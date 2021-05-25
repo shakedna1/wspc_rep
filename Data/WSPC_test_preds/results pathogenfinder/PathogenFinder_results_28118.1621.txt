@@ -1,0 +1,119 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_081538_483581_input.fsa
+Sequences ::	 4295
+Total bpp ::	 1379579
+Longest seq ::	 2242
+Shortest seq ::	 21
+Avg seq lenght ::	 321.0
+
+RESULTS:
+Min Identity Threshold ::	94.539
+Z-THRESHOLD ::	3.0
+Prediction Score ::	100.607
+Probability of being human pathogen ::	0.86
+Matches::	33
+Genome Coverage (%) ::	0.77
+Pathogenic Families Matched ::	33
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|28118.1621.peg.2305|GKD52_02045   Putative DNA methylase   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	putative DNA methylase	BAD46891	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.918|GKD52_00135   Outer membrane hemin receptor   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	putative outer membrane protein	ABR41311	Yes	98.2
+
+#input_seq:	fig|28118.1621.peg.643|GKD52_08460   Toprim domain protein   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD48127	Yes	96.96
+
+#input_seq:	fig|28118.1621.peg.2315|GKD52_02090   Mobile element protein   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	transposase	ABR40825	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.2335|GKD52_02190   Conjugative transposon protein TraM   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraM	BAD46866	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.2346|GKD52_02245   FIG00897206: hypothetical protein   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	hypothetical protein	BAD46856	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.2308|GKD52_02060   CTnDOT two-component system response regulator and RteC activator, RteB   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	rteB gene product	BAD46887	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.2320|GKD52_02115   Putative conjugative transposon mobilization protein BF0132   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD46881	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.2295|GKD52_01995   Integrase => IntDOT   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	tyrosine type site-specific recombinase	BAD46901	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.1534   Transposase   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	tyrosine type site-specific recombinase	BAD48089	Yes	98.62
+
+#input_seq:	fig|28118.1621.peg.919|GKD52_00140   hypothetical protein   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR41310	Yes	98.52
+
+#input_seq:	fig|28118.1621.peg.661|GKD52_08540   Conjugative transposon protein TraJ   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	BAD48104	Yes	96.07
+
+#input_seq:	fig|28118.1621.peg.2336|GKD52_02195   Conjugative transposon protein TraN   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraN	BAD46865	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.665|GKD52_08560   Conjugative transposon protein TraN   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon TraN	BAD48100	Yes	97.11
+
+#input_seq:	fig|28118.1621.peg.2338|GKD52_02205   DNA primase, TraP-type   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraP	BAD46863	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.654|GKD52_08505   Conjugative transposon protein TraA   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	BAD48111	Yes	99.23
+
+#input_seq:	fig|28118.1621.peg.666|GKD52_08565   Conjugative transposon protein TraO   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon TraO	BAD48099	Yes	96.89
+
+#input_seq:	fig|28118.1621.peg.2337|GKD52_02200   Conjugative transposon protein TraO   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraO	BAD46864	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.671|GKD52_08590   Antirestriction protein ArdA   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	putative anti-restriction protein	BAD48093	Yes	96.61
+
+#input_seq:	fig|28118.1621.peg.2339|GKD52_02210   Conjugative transposon protein TraQ   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraQ	BAD46862	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.667|GKD52_08570   Conjugative transposon protein TraQ   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon TraQ	BAD48097	Yes	96.05
+
+#input_seq:	fig|28118.1621.peg.2347|GKD52_02250   FIG00899057: hypothetical protein   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	hypothetical protein	BAD46855	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.2330|GKD52_02165   Conjugative transposon protein TraH   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraH	BAD46871	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.2296|GKD52_02000   hypothetical protein   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD46900	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.642|GKD52_08455   hypothetical protein   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD48128	Yes	97.48
+
+#input_seq:	fig|28118.1621.peg.2301|GKD52_02025   FIG00938987: hypothetical protein   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD46895	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.658|GKD52_08525   Conjugative transposon protein TraF   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon TraF	BAD48107	Yes	96.4
+
+#input_seq:	fig|28118.1621.peg.2328|GKD52_02155   Conjugative transposon protein TraF   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraF	BAD46873	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.2327|GKD52_02150   Conjugative transposon protein TraE   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraE	BAD46874	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.4059|GKD52_19430   hypothetical protein   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR42492	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.657|GKD52_08520   Conjugative transposon protein TraE   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon TraE	BAD48108	Yes	98.98
+
+#input_seq:	fig|28118.1621.peg.2345|GKD52_02240   FIG00938992: hypothetical protein   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAD46857	Yes	100.0
+
+#input_seq:	fig|28118.1621.peg.4023|GKD52_19285   FIG00403362: hypothetical protein   [Odoribacter splanchnicus strain BIOML-A4 | 28118.1621]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR42500	Yes	96.47
+

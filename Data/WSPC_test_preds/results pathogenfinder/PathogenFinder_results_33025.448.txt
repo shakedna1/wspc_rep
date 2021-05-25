@@ -1,0 +1,32 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_03_02_2021_200027_150004_input.fsa
+Sequences ::	 2408
+Total bpp ::	 737687
+Longest seq ::	 2774
+Shortest seq ::	 27
+Avg seq lenght ::	 306.0
+
+RESULTS:
+Min Identity Threshold ::	78.22
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-5.233
+Probability of being human pathogen ::	0.314
+Matches::	4
+Genome Coverage (%) ::	0.17
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	3
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|33025.448.peg.1742|GMD23_06915   GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)   [Phascolarctobacterium faecium strain BIOML-A6 | 33025.448]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	putative GMP synthase	ABR43567	Yes	80.14
+
+#input_seq:	fig|33025.448.peg.486|GMD23_00885   LSU ribosomal protein L16p (L10e)   [Phascolarctobacterium faecium strain BIOML-A6 | 33025.448]
+#matched_seq:	33685	CP001859	Acidaminococcus fermentans DSM 20731, complete genome.	Clostridia	ribosomal protein L16	ADB48274	No	82.67
+
+#input_seq:	fig|33025.448.peg.915|GMD23_02965   UPF0296 protein YlzA   [Phascolarctobacterium faecium strain BIOML-A6 | 33025.448]
+#matched_seq:	13901	CP000924	Thermoanaerobacter pseudethanolicus ATCC 33223, complete genome.	Clostridia	protein of unknown function DUF370	ABY94979	No	81.4
+
+#input_seq:	fig|33025.448.peg.502|GMD23_00965   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Phascolarctobacterium faecium strain BIOML-A6 | 33025.448]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	83.78
+

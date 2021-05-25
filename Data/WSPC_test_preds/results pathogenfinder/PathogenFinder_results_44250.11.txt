@@ -1,0 +1,44 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_181917_628255_input.fsa
+Sequences ::	 6956
+Total bpp ::	 1611757
+Longest seq ::	 5381
+Shortest seq ::	 1
+Avg seq lenght ::	 231.0
+
+RESULTS:
+Min Identity Threshold ::	85.352
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-14.082
+Probability of being human pathogen ::	0.215
+Matches::	8
+Genome Coverage (%) ::	0.12
+Pathogenic Families Matched ::	0
+Non-Pathogenic Families Matched ::	8
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|44250.11.peg.759   Uncharacterized protease Npun_R3500   [Paenibacillus alvei strain bk032014 | 44250.11]
+#matched_seq:	20399	CP001656	Paenibacillus sp. JDR-2, complete genome.	Bacillales	peptidase U32	ACT04328	No	85.45
+
+#input_seq:	fig|44250.11.peg.3046|HUO01_21805   Putative glutathione transporter, permease component; Dipeptide ABC transporter, permease protein DppC (TC 3.A.1.5.2)   [Paenibacillus alvei strain bk032014 | 44250.11]
+#matched_seq:	27777	CP001793	Geobacillus sp. Y412MC10, complete genome.	Bacillales	binding-protein-dependent transport systems inner membrane component	ACX63528	No	86.87
+
+#input_seq:	fig|44250.11.peg.1158|HUO01_15720   Transcriptional regulator, GntR family domain / Aspartate aminotransferase (EC 2.6.1.1)   [Paenibacillus alvei strain bk032014 | 44250.11]
+#matched_seq:	29147	AP008955	Brevibacillus brevis NBRC 100599 DNA, complete genome.	Bacillales	putative transcriptional regulator	BAH42119	No	86.76
+
+#input_seq:	fig|44250.11.peg.2369   Uncharacterized MFS-type transporter   [Paenibacillus alvei strain bk032014 | 44250.11]
+#matched_seq:	29147	AP008955	Brevibacillus brevis NBRC 100599 DNA, complete genome.	Bacillales	conserved hypothetical membrane protein	BAH45309	No	95.52
+
+#input_seq:	fig|44250.11.peg.151|HUO01_02010   RNA-2',3'-PO4:RNA-5'-OH ligase   [Paenibacillus alvei strain bk032014 | 44250.11]
+#matched_seq:	20399	CP001656	Paenibacillus sp. JDR-2, complete genome.	Bacillales	protein of unknown function UPF0027	ACT03281	No	85.54
+
+#input_seq:	fig|44250.11.peg.167|HUO01_02080   Two-component response regulator, associated with ferric iron transporter, SPy1062 homolog   [Paenibacillus alvei strain bk032014 | 44250.11]
+#matched_seq:	27777	CP001793	Geobacillus sp. Y412MC10, complete genome.	Bacillales	two component transcriptional regulator, AraC family	ACX63386	No	92.75
+
+#input_seq:	fig|44250.11.peg.5182|HUO01_07420   hypothetical protein   [Paenibacillus alvei strain bk032014 | 44250.11]
+#matched_seq:	20399	CP001656	Paenibacillus sp. JDR-2, complete genome.	Bacillales	membrane protein of unknown function	ACT00064	No	85.59
+
+#input_seq:	fig|44250.11.peg.2977|HUO01_00340   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Paenibacillus alvei strain bk032014 | 44250.11]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	86.49
+

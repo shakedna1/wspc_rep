@@ -1,0 +1,68 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_03_02_2021_185341_897273_input.fsa
+Sequences ::	 3344
+Total bpp ::	 961529
+Longest seq ::	 3110
+Shortest seq ::	 20
+Avg seq lenght ::	 287.0
+
+RESULTS:
+Min Identity Threshold ::	91.218
+Z-THRESHOLD ::	3.0
+Prediction Score ::	42.456
+Probability of being human pathogen ::	0.788
+Matches::	16
+Genome Coverage (%) ::	0.48
+Pathogenic Families Matched ::	14
+Non-Pathogenic Families Matched ::	2
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1353.134.peg.2502|GV845_15875   putative membrane protein   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	70	AE016830	Enterococcus faecalis V583, complete genome.	Lactobacillales	membrane protein, putative	AAO81630	Yes	99.86
+
+#input_seq:	fig|1353.134.peg.2465|GV845_15720   Copper-translocating P-type ATPase (EC 3.6.3.4)   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	43535	CP002037	Lactobacillus salivarius CECT 5713 plasmid pHN3, complete sequence.	Lactobacillales	Lead, cadmium, zinc and mercury transporting ATPase	ADJ79777	No	98.9
+
+#input_seq:	fig|1353.134.peg.2897|GV845_09295   ABC transporter membrane-spanning permease, Pep export, Vex1   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	70	AE016830	Enterococcus faecalis V583, complete genome.	Lactobacillales	permease, putative	AAO81624	Yes	99.29
+
+#input_seq:	fig|1353.134.peg.1350|GV845_12590   putative transposon integrase; Tn916 ORF3-like   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	Tn916, transposase	ABP89883	Yes	100.0
+
+#input_seq:	fig|1353.134.peg.2894|GV845_09280   Thioredoxin family protein   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conserved domain protein	CAJ68745	Yes	94.12
+
+#input_seq:	fig|1353.134.peg.7|GV845_00030   hypothetical protein   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	70	AE016830	Enterococcus faecalis V583, complete genome.	Lactobacillales	conserved domain protein	AAO81986	Yes	91.71
+
+#input_seq:	fig|1353.134.peg.2458|GV845_15685   DNA protection during starvation protein   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	43535	CP002037	Lactobacillus salivarius CECT 5713 plasmid pHN3, complete sequence.	Lactobacillales	Non-specific DNA-binding protein / Iron-binding ferritin-like antioxidant protein / Ferroxidase	ADJ79797	No	97.96
+
+#input_seq:	fig|1353.134.peg.1354|GV845_12610   hypothetical protein   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	Tn916, hypothetical protein	AAM99805	Yes	100.0
+
+#input_seq:	fig|1353.134.peg.2509|GV845_15910   hypothetical protein   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	70	AE016830	Enterococcus faecalis V583, complete genome.	Lactobacillales	conserved hypothetical protein	AAO81632	Yes	99.22
+
+#input_seq:	fig|1353.134.peg.1893|GV845_06055   SSU ribosomal protein S19p (S15e)   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	SSU ribosomal protein S19P	ABP89047	Yes	93.48
+
+#input_seq:	fig|1353.134.peg.668|GV845_03105   SSU ribosomal protein S21p   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	30S Ribosomal protein S21	ABP90399	Yes	91.38
+
+#input_seq:	fig|1353.134.peg.1353|GV845_12605   hypothetical protein   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA36408	Yes	100.0
+
+#input_seq:	fig|1353.134.peg.1889|GV845_06035   LSU ribosomal protein L29p (L35e)   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	70	AE016830	Enterococcus faecalis V583, complete genome.	Lactobacillales	ribosomal protein L29	AAO80083	Yes	95.16
+
+#input_seq:	fig|1353.134.peg.2083|GV845_14995   hypothetical protein   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	70	AE016830	Enterococcus faecalis V583, complete genome.	Lactobacillales	conserved hypothetical protein	AAO81640	Yes	100.0
+
+#input_seq:	fig|1353.134.peg.1359|GV845_12635   tetracycline resistance determinant leader peptide   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	Tetracycline resistance determinant leader peptide	ACA37321	Yes	100.0
+
+#input_seq:	fig|1353.134.peg.1355|GV845_12615   hypothetical protein   [Enterococcus gallinarum strain EGR748 | 1353.134]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	Tn916, hypothetical protein	AAM99806	Yes	95.65
+

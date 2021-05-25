@@ -1,0 +1,209 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_03_02_2021_174220_432765_input.fsa
+Sequences ::	 6056
+Total bpp ::	 1708968
+Longest seq ::	 3744
+Shortest seq ::	 1
+Avg seq lenght ::	 282.0
+
+RESULTS:
+Min Identity Threshold ::	95.172
+Z-THRESHOLD ::	3.0
+Prediction Score ::	137.896
+Probability of being human pathogen ::	0.733
+Matches::	63
+Genome Coverage (%) ::	1.04
+Pathogenic Families Matched ::	50
+Non-Pathogenic Families Matched ::	13
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|546.797.peg.5611|G7005_26165   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	type IV conjugative transfer system protein TraN	ABO41067	Yes	100.0
+
+#input_seq:	fig|546.797.peg.5605|G7005_26135   IncF plasmid conjugative transfer pilus assembly protein TraC   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	type IV conjugative transfer system protein TraC	ABO41137	Yes	100.0
+
+#input_seq:	fig|546.797.peg.1680|G7005_08975   Hydroxyaromatic non-oxidative decarboxylase protein C (EC 4.1.1.-)   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78633	Yes	97.68
+
+#input_seq:	fig|546.797.peg.921|G7005_05250   Tyrosine-protein kinase (EC 2.7.10.2)   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Gammaproteobacteria	orf, conserved hypothetical protein	AAN42611	Yes	97.21
+
+#input_seq:	fig|546.797.peg.1840|G7005_09740   NAD kinase (EC 2.7.1.23)   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017	Yes	98.63
+
+#input_seq:	fig|546.797.peg.560|G7005_03430   Octaprenyl diphosphate synthase (EC 2.5.1.90)   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV15641	Yes	97.21
+
+#input_seq:	fig|546.797.peg.837|G7005_04830   Proton/glutamate symporter @ Proton/aspartate symporter   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Gammaproteobacteria	hypothetical protein	ABX23224	Yes	97.03
+
+#input_seq:	fig|546.797.peg.2168|G7005_11360   Na+ dependent nucleoside transporter NupC   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	Nucleoside permease NupC	ABE08191	Yes	98.75
+
+#input_seq:	fig|546.797.peg.3208|G7005_16330   ABC transporter, permease protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	Gammaproteobacteria	protein of unknown function DUF214	ABM18342	No	99.75
+
+#input_seq:	fig|546.797.peg.3207|G7005_16325   RND efflux system, membrane fusion protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	Gammaproteobacteria	efflux transporter, RND family, MFP subunit	ABM18341	No	98.69
+
+#input_seq:	fig|546.797.peg.2611|G7005_13460   ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66384	Yes	97.32
+
+#input_seq:	fig|546.797.peg.4143|G7005_20810   Formate efflux transporter FocA   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	probable formate transporter (formate channel 1)	ABF03127	Yes	96.14
+
+#input_seq:	fig|546.797.peg.4042|G7005_20300   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH76914	Yes	95.34
+
+#input_seq:	fig|546.797.peg.5610|G7005_26160   IncF plasmid conjugative transfer pilus assembly protein TraU   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	type IV conjugative transfer system protein TraU	ABO41183	Yes	100.0
+
+#input_seq:	fig|546.797.peg.515|G7005_03210   Malate dehydrogenase (EC 1.1.1.37)   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	malate dehydrogenase	ABE09111	Yes	96.78
+
+#input_seq:	fig|546.797.peg.1380|G7005_07465   SSU ribosomal protein S2p (SAe)   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	97.51
+
+#input_seq:	fig|546.797.peg.5596|G7005_26090   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ABO41041	Yes	100.0
+
+#input_seq:	fig|546.797.peg.5440|G7005_28335   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	97.61
+
+#input_seq:	fig|546.797.peg.5144|G7005_26925   replication protein A   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	96.91
+
+#input_seq:	fig|546.797.peg.701|G7005_04115   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	95.26
+
+#input_seq:	fig|546.797.peg.1656|G7005_08860   Transcriptional regulator, RpiR family   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Gammaproteobacteria	putative Transcriptional regulator	CAR11105	Yes	96.35
+
+#input_seq:	fig|546.797.peg.2030|G7005_10655   RecT protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted exonuclease VIII/RecE-like protein	CAS10323	Yes	97.07
+
+#input_seq:	fig|546.797.peg.995|G7005_05610   3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85)   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741	No	95.37
+
+#input_seq:	fig|546.797.peg.4095|G7005_20560   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	98.08
+
+#input_seq:	fig|546.797.peg.5604|G7005_26130   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ABO41057	Yes	100.0
+
+#input_seq:	fig|546.797.peg.36|G7005_00895   Hexose-phosphate uptake two-component transcriptional response regulator UhpA   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	two-component system response regulator protein	ACN47943	Yes	97.46
+
+#input_seq:	fig|546.797.peg.5613|G7005_26175   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ABO41027	Yes	100.0
+
+#input_seq:	fig|546.797.peg.3206|G7005_16320   Transcriptional regulator, AcrR family   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	13239	CP000514	Marinobacter aquaeolei VT8, complete genome.	Gammaproteobacteria	transcriptional regulator, TetR family	ABM18340	No	100.0
+
+#input_seq:	fig|546.797.peg.5809|G7005_00175   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	20585	CU468133	Erwinia tasmaniensis strain ET1/99 complete plasmid pET46.	Gammaproteobacteria	Resolvase	CAO94998	No	98.46
+
+#input_seq:	fig|546.797.peg.5664|G7005_26420   Aminoglycoside N(6')-acetyltransferase (EC 2.3.1.82) => AAC(6')-Ib/AAC(6')-II   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	putative aminoglycoside N(6')-acetyltransferase (Amikacin resistance protein) (AAC(6'))	ABR80438	Yes	99.5
+
+#input_seq:	fig|546.797.peg.5663|G7005_26415   Mobile element protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	transposon Tn3 resolvase	AAX87127	Yes	98.38
+
+#input_seq:	fig|546.797.peg.3191|G7005_16255   IS1 protein InsB   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS1 protein InsB	ACD09517	Yes	98.8
+
+#input_seq:	fig|546.797.peg.2134|G7005_11160   Acetyltransferase YpeA   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX65938	Yes	96.45
+
+#input_seq:	fig|546.797.peg.2306|G7005_12020   UPF0304 protein yfbU   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	YfbU domain protein	ACF63247	Yes	97.56
+
+#input_seq:	fig|546.797.peg.5607|G7005_26145   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	type IV conjugative transfer system signal peptidase	ABO41099	Yes	100.0
+
+#input_seq:	fig|546.797.peg.575|G7005_03505   Protein translocase membrane subunit SecG   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX69431	Yes	96.36
+
+#input_seq:	fig|546.797.peg.5428   IS1 protein InsB   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	IS1 transposase InsAB'; CP4-6 prophage	CAR15921	Yes	100.0
+
+#input_seq:	fig|546.797.peg.900|G7005_05150   YeeV toxin protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Gammaproteobacteria	toxin of the YeeV-YeeU toxin-antitoxin system	CAR10944	Yes	96.0
+
+#input_seq:	fig|546.797.peg.945|G7005_05345   Heat shock protein 10 kDa family chaperone GroES   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	co-chaperonin GroES	ACN48531	Yes	100.0
+
+#input_seq:	fig|546.797.peg.277|G7005_02060   Nickel responsive regulator NikR   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	nickel responsive regulator	ACN47734	Yes	96.24
+
+#input_seq:	fig|546.797.peg.908|G7005_05190   Uncharacterized lipoprotein YafY   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	CP4-6 prophage; inner membrane lipoprotein	ACB01418	No	95.24
+
+#input_seq:	fig|546.797.peg.5277|G7005_27555   Mercuric transport protein, MerC   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	31049	CP001801	Halothiobacillus neapolitanus c2, complete genome.	Gammaproteobacteria	MerC mercury resistance protein	ACX96046	No	96.43
+
+#input_seq:	fig|546.797.peg.2176|G7005_11395   PTS system, fructose-like IIB component FryB   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV11570	Yes	97.22
+
+#input_seq:	fig|546.797.peg.4667|G7005_23290   Transcriptional activator RamA   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV13700	Yes	97.35
+
+#input_seq:	fig|546.797.peg.1859|G7005_09825   Ribosome-associated inhibitor A   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14991	Yes	99.11
+
+#input_seq:	fig|546.797.peg.3859|G7005_19425   YcfF/hinT protein: a purine nucleoside phosphoramidase   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	histidine triad nucleotide-binding protein 2	ACF64355	Yes	97.48
+
+#input_seq:	fig|546.797.peg.1046|G7005_05855   Uncharacterized protein STM4441   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACX86741	No	95.83
+
+#input_seq:	fig|546.797.peg.5282|G7005_27580   Tn21 protein of unknown function Urf2   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	254	CP000272	Burkholderia xenovorans LB400 chromosome 3, complete sequence.	Betaproteobacteria	Transposon modulator protein	ABE37070	Yes	100.0
+
+#input_seq:	fig|546.797.peg.3704|G7005_18685   Integration host factor alpha subunit   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881	No	96.97
+
+#input_seq:	fig|546.797.peg.5324|G7005_27790   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	96.97
+
+#input_seq:	fig|546.797.peg.5937|G7005_00715   FIG032766: hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	32571	FM180569	Escherichia coli 0127:H6 E2348/69 plasmid pMAR2, strain E2348/69.	Gammaproteobacteria	predicted protein	CAS07548	Yes	96.63
+
+#input_seq:	fig|546.797.peg.2068|G7005_10840   Phage protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted protein	CAS10288	Yes	96.51
+
+#input_seq:	fig|546.797.peg.3870|G7005_19495   Programmed cell death antitoxin PemI   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	protein PemI	ACI08030	No	95.29
+
+#input_seq:	fig|546.797.peg.4580|G7005_22875   Haemolysin expression modulating protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893	Yes	100.0
+
+#input_seq:	fig|546.797.peg.898|G7005_05140   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR20668	Yes	95.38
+
+#input_seq:	fig|546.797.peg.909|G7005_05195   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	CP4-57 prophage; predicted inner membrane protein	ACB03777	No	97.44
+
+#input_seq:	fig|546.797.peg.2037|G7005_10690   Phage protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted protein	CAS10318	Yes	97.4
+
+#input_seq:	fig|546.797.peg.4065|G7005_20410   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF61893	Yes	95.95
+
+#input_seq:	fig|546.797.peg.4074|G7005_20455   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF61782	Yes	96.67
+
+#input_seq:	fig|546.797.peg.1078|G7005_06005   PyrBI operon leader peptide   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	43693	CP001969	Escherichia coli IHE3034, complete genome.	Gammaproteobacteria	pyrBI operon leader peptide	ADE88876	Yes	96.97
+
+#input_seq:	fig|546.797.peg.2701   hypothetical protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF92708	Yes	97.96
+
+#input_seq:	fig|546.797.peg.2034|G7005_10675   Phage protein   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted protein	CAS10320	Yes	97.96
+
+#input_seq:	fig|546.797.peg.2107|G7005_11025   protein YpfM   [Citrobacter freundii strain YDC638-3 | 546.797]
+#matched_seq:	225	U00096	Escherichia coli str. K-12 substr. MG1655, complete genome.	Gammaproteobacteria	hypothetical protein	ABP93450	No	100.0
+

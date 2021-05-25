@@ -1,0 +1,509 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_084028_933092_input.fsa
+Sequences ::	 4745
+Total bpp ::	 1433354
+Longest seq ::	 2294
+Shortest seq ::	 14
+Avg seq lenght ::	 302.0
+
+RESULTS:
+Min Identity Threshold ::	98.922
+Z-THRESHOLD ::	3.0
+Prediction Score ::	574.519
+Probability of being human pathogen ::	0.875
+Matches::	163
+Genome Coverage (%) ::	3.44
+Pathogenic Families Matched ::	159
+Non-Pathogenic Families Matched ::	4
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|562.55247.peg.4729|GV648_21850   Putative Rhs-family protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	putative Rhs-family protein	ABF02880	Yes	99.22
+
+#input_seq:	fig|562.55247.peg.4652|GV648_04925   alpha-mannosidase (EC 3.2.1.24)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32513	AP010960	Escherichia coli O111:H- str. 11128 DNA, complete genome.	Gammaproteobacteria	probable alpha-D-mannosidase	BAI36240	Yes	99.32
+
+#input_seq:	fig|562.55247.peg.1670|GV648_11110   Outer membrane usher protein LpfC   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	Outer membrane usher protein lpfC precursor	CAV00474	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.79|GV648_00395   PTS system, maltose and glucose-specific IIC component / PTS system, maltose and glucose-specific IIB component (EC 2.7.1.208)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	PTS system, alpha-glucoside-specific IIBC component	ABV19562	Yes	99.81
+
+#input_seq:	fig|562.55247.peg.4653|GV648_04930   Putative glycosyl hydrolase of unknown function (DUF1680)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	conserved predicted protein	BAI25944	Yes	99.84
+
+#input_seq:	fig|562.55247.peg.322|GV648_05750   Oligopeptide transport substrate-binding protein @ Glutathione ABC transporter, substrate-binding protein GsiB   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	Heme-binding protein precursor (hemin-binding lipoprotein)	ABE06319	Yes	99.61
+
+#input_seq:	fig|562.55247.peg.1269|GV648_09160   PTS system, maltose and glucose-specific IIC component / PTS system, maltose and glucose-specific IIB component (EC 2.7.1.208)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	PTS system, maltose and glucose-specific IIABC component	ABE07287	Yes	99.81
+
+#input_seq:	fig|562.55247.peg.3199|GV648_02915   Protein Smp   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	putative lipoate-protein ligase A	BAB38768	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3507|GV648_17970   NAD kinase (EC 2.7.1.23)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4437|GV648_21295   Uncharacterized protein YgeP   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	conserved predicted protein	BAI32170	Yes	99.43
+
+#input_seq:	fig|562.55247.peg.1891|GV648_12170   Hypothetical protein YhiL   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV16452	Yes	99.62
+
+#input_seq:	fig|562.55247.peg.1054|GV648_08110   Ankyrin-repeat protein A   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32513	AP010960	Escherichia coli O111:H- str. 11128 DNA, complete genome.	Gammaproteobacteria	T3SS effector-like protein EspL-homolog	BAI38574	Yes	99.43
+
+#input_seq:	fig|562.55247.peg.4506|GV648_21610   FIG00637948: hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	conserved predicted protein	BAI32117	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2352|GV648_13815   Peptidase B (EC 3.4.11.23)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative peptidase	AAZ89233	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.510|GV648_22790   Putative cryptic C4-dicarboxylate transporter DcuD   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32513	AP010960	Escherichia coli O111:H- str. 11128 DNA, complete genome.	Gammaproteobacteria	predicted transporter DcuD	BAI37822	Yes	99.78
+
+#input_seq:	fig|562.55247.peg.195|GV648_00960   Valine--pyruvate aminotransferase (EC 2.6.1.66)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	valine--pyruvate transaminase	ABF05976	Yes	99.76
+
+#input_seq:	fig|562.55247.peg.1641|GV648_10975   2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	2-dehydro-3-deoxygluconokinase	ABE09487	Yes	99.03
+
+#input_seq:	fig|562.55247.peg.2192|GV648_12965   Na+ dependent nucleoside transporter NupC   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	Nucleoside permease NupC	ABE08191	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1673|GV648_11125   Putative resistance protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	putative resistance protein	ABB68031	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4447|GV648_21345   Type III secretion protein EprH   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	type III secretion apparatus protein EprH	ABV17070	Yes	99.75
+
+#input_seq:	fig|562.55247.peg.1091|GV648_08285   Diguanylate cyclase (EC 2.7.7.65) => DgcP   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB61813	Yes	99.74
+
+#input_seq:	fig|562.55247.peg.1949|GV648_12440   3-sulpholactaldehyde reductase   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	putative oxidoreductase with NAD(P)-binding Rossmann-fold domain, putative 3-hydroxyisobutyrate dehydrogenase	CAV01042	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4474|GV648_21455   Uncharacterized protein YgeA of aspartate/glutamate/hydantoin racemase family   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	putative racemase	CAR14333	Yes	99.57
+
+#input_seq:	fig|562.55247.peg.139|GV648_00685   UDP-glucose:(glucosyl)lipopolysaccharide alpha-1,2-glucosyltransferase (EC 2.4.1.58)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	putative UDP-glucose:(galactosyl) LPS alpha1,2-glucosyltransferase	BAB37925	Yes	99.7
+
+#input_seq:	fig|562.55247.peg.519|GV648_22835   Malate dehydrogenase (EC 1.1.1.37)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	malate dehydrogenase	ABE09111	Yes	99.36
+
+#input_seq:	fig|562.55247.peg.3557|GV648_18210   Flagellar two-component response regulator FleR   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	predicted lateral flagellar RpoN-interacting regulatory protein	BAI23602	Yes	99.7
+
+#input_seq:	fig|562.55247.peg.1685|GV648_11180   Mobile element protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	IS621, transposase	ABV16599	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3257   H repeat-associated protein, YhhI family   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	40647	FN554766	Escherichia coli 042 complete genome.	Gammaproteobacteria	H repeat-associated protein	CBG33063	Yes	99.45
+
+#input_seq:	fig|562.55247.peg.1007|GV648_07885   NMN phosphatase (EC 3.1.3.5); Class B acid phosphatase precursor (EC 3.1.3.2)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	diadenosine tetraphosphatase	ABF06143	Yes	99.58
+
+#input_seq:	fig|562.55247.peg.1045|GV648_08065   UDP-N-acetylglucosamine kinase (EC 2.7.1.176), Zeta toxin   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	putative zeta toxin; poison-antidote element	CAV01289	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2892|GV648_02390   SSU ribosomal protein S2p (SAe)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4319   H repeat-associated protein, YhhI family   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	30045	CP001368	Escherichia coli O157:H7 str. TW14359, complete genome.	Gammaproteobacteria	Transposase	ACT71768	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.556|GV648_23025   Type IV secretory pathway, VirD2 components (relaxase)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ABO41058	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3095|GV648_16500   Protein YrdA   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV21201	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2043|GV648_12875   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3739|GV648_18970   Oxidoreductase UcpA   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	putative oxidoreductase	ABB67005	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4703|GV648_21725   H repeat-associated protein, YhhI family   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative receptor protein	AAZ87043	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3556|GV648_18205   Flagellar motor switch protein FliM   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	predicted lateral flagellar export/assembly protein	BAI23601	Yes	99.65
+
+#input_seq:	fig|562.55247.peg.4664|GV648_04985   putative alpha-dextrin endo-1, 6-alpha-glucosidase   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	probable esterase	BAI25933	Yes	99.64
+
+#input_seq:	fig|562.55247.peg.1921|GV648_12315   Transcriptional regulator GadX, AraC family   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33639	CP001383	Shigella flexneri 2002017, complete genome.	Gammaproteobacteria	HTH-type transcriptional regulator gadX	ADA75906	Yes	99.64
+
+#input_seq:	fig|562.55247.peg.4702|GV648_05165   Putative manganese efflux pump MntP   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF03600	Yes	99.47
+
+#input_seq:	fig|562.55247.peg.3644|GV648_18655   Putative transposase InsQ for insertion sequence element IS609   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	putative virulence protein	ABF04119	Yes	99.16
+
+#input_seq:	fig|562.55247.peg.870|GV648_07195   3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741	No	100.0
+
+#input_seq:	fig|562.55247.peg.814|GV648_06920   DNA-binding protein Roi   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32513	AP010962	Escherichia coli O111:H- str. 11128 plasmid pO11	Gammaproteobacteria	DNA, complete sequence.	BAI39243	Yes	99.25
+
+#input_seq:	fig|562.55247.peg.4308|GV648_20650   L-amino acid N-acyltransferase MnaT   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	putative acyl-CoA N-acyltransferase	CAU97437	Yes	98.96
+
+#input_seq:	fig|562.55247.peg.2384|GV648_13975   Formate efflux transporter FocA   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	putative formate transporter	CAU98650	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2538|GV648_14705   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	99.52
+
+#input_seq:	fig|562.55247.peg.1808|GV648_11775   Pimeloyl-[acyl-carrier protein] methyl ester esterase BioH (EC 3.1.1.85)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	BioH protein	ABF05462	Yes	99.56
+
+#input_seq:	fig|562.55247.peg.4468|GV648_21425   Uncharacterized protein YqeH   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV20291	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1410|GV648_09850   DNA-binding transcriptional activator DecR, AsnC family   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Gammaproteobacteria	putative DNA-binding transcriptional regulator (Lrp-like)	CAR01791	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1614|GV648_10855   SeqA protein, negative modulator of initiation of replication   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	313	AE014075	Escherichia coli CFT073, complete genome.	Gammaproteobacteria	SeqA protein	AAN79247	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4643|GV648_04880   Uncharacterized protein YebB   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Gammaproteobacteria	orf, conserved hypothetical protein	AAN43429	Yes	99.5
+
+#input_seq:	fig|562.55247.peg.1388|GV648_09745   UPF0234 protein Yitk   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein	ABE05950	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.80   Maltose-6'-phosphate glucosidase (EC 3.2.1.122)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	predicted 6-phospho-beta-glucosidase, NAD(P)-binding	BAI28057	Yes	99.53
+
+#input_seq:	fig|562.55247.peg.4454|GV648_21375   Hypothetical response regulatory protein ygeK   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAB37135	Yes	99.32
+
+#input_seq:	fig|562.55247.peg.1024|GV648_07975   Chorismate--pyruvate lyase (EC 4.1.3.40)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	chorismate lyase	ABB68511	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4268|GV648_20455   putative membrane protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Gammaproteobacteria	unknown protein encoded by prophage CP-933K	ADD55546	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3900|GV648_19725   Phage integrase, site-specific serine recombinase   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	transposon Tn3 resolvase	AAX87127	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2202|GV648_13045   IS1 protein InsB   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS1 protein InsB	ACD09517	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.162|GV648_00800   putative lipoprotein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAB37902	Yes	98.96
+
+#input_seq:	fig|562.55247.peg.4451|GV648_21365   Oxygen-regulated invasion protein OrgA   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	conserved predicted protein	BAI27120	Yes	99.48
+
+#input_seq:	fig|562.55247.peg.1488|GV648_10235   Uncharacterized fimbrial-like protein SfmA   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	putative fimbrial-like protein	BAB34015	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1017|GV648_07940   Zinc uptake regulation protein Zur   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative regulator	AAZ90724	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4086|GV648_03460   UPF0304 protein yfbU   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	313	AE014075	Escherichia coli CFT073, complete genome.	Gammaproteobacteria	Protein yfbU	AAN81289	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1728|GV648_11400   Translation elongation factor Tu   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Gammaproteobacteria	elongation factor Tu	ACX82119	Yes	99.04
+
+#input_seq:	fig|562.55247.peg.3895   Transposase   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	21111	CP001182	Acinetobacter baumannii AB0057, complete genome.	Gammaproteobacteria	transposase 1	ACJ39971	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4538|GV648_04365   Cytochrome b561 homolog 1   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	putative cytochrome	ABB65687	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.861|GV648_07150   Uncharacterized protein YjfZ   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB68673	Yes	99.46
+
+#input_seq:	fig|562.55247.peg.4765|GV648_22020   Mobile element protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	putative transposase TnA of insertion sequence IS609	BAB36700	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.559|GV648_23040   Mobile element protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32571	FM180570	Escherichia coli 0127:H6 E2348/69 plasmid pE2348-2, strain E2348/69.	Gammaproteobacteria	UNKNOWN	CAS07429	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2442|GV648_14245   Acetyltransferase YpeA   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB62686	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2842|GV648_02155   Predicted chaperone lipoprotein YacC, potentially involved in protein secretion   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABE05645	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1991|GV648_12625   Periplasmic protein CpxP   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	periplasmic protein CpxP	ACD09422	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4127|GV648_03660   Pyrimidine deoxynucleoside triphosphate (dYTP) pyrophosphohydrolase NudI   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF04433	Yes	99.29
+
+#input_seq:	fig|562.55247.peg.3166|GV648_02745   Homoprotocatechuate degradative operon repressor   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	4-hydroxyphenylacetate degradative operon repressor	CAR16087	Yes	99.32
+
+#input_seq:	fig|562.55247.peg.4446|GV648_21340   Transcriptional regulator   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein, putative response regulator containing a CheY-like receiver domain and an HTH DNA-binding domain	CAU99074	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3438|GV648_17620   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB62942	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.992|GV648_07820   Inner membrane protein YjcH, clustering with ActP   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein YjcH	CAQ91716	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1149|GV648_08570   PTS system, N,N'-diacetylchitobiose-specific IIA component (EC 2.7.1.196)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	PEP-dependent phosphotransferase enzyme III	ABF03671	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.676|GV648_06305   Protein ygiW precursor   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABE08896	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3183|GV648_02845   Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	acetylase for 30S ribosomal subunit protein S18	BAI28698	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4035|GV648_20395   Uncharacterized outer membrane protein YpjA   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAU97125	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4462   Uncharacterized protein YgeF   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	conserved predicted protein	BAI27114	Yes	99.31
+
+#input_seq:	fig|562.55247.peg.2839|GV648_02140   UPF0231 protein YacL   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB60266	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1772|GV648_11615   PTS-regulatory domain-containing protein YhfY   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB67856	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3459   UPF0387 membrane protein YohO   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Gammaproteobacteria	hypothetical protein	AAG57802	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3564|GV648_18245   Glycerol-3-phosphate cytidylyltransferase (EC 2.7.7.39)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	predicted glycerol-3-phosphate cytidylyltransferase	BAI23609	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1868|GV648_12060   Uncharacterized protein YhhL   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR05081	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.479|GV648_22640   Phospholipid ABC transporter-binding protein MlaB   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB63363	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.750|GV648_06615   YcfF/hinT protein: a purine nucleoside phosphoramidase   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Gammaproteobacteria	hypothetical protein	ADD55957	Yes	99.16
+
+#input_seq:	fig|562.55247.peg.2187|GV648_12940   PTS system, fructose-like IIB component FryB   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	putative PTS system IIB component YpdH	ABE08185	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3918|GV648_19810   Antitoxin HigA   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB66191	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4185|GV648_03930   LSU ribosomal protein L25p   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	50S ribosomal subunit protein L25	ABF04379	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3115|GV648_16600   Tn21 protein of unknown function Urf2   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	40647	FN554766	Escherichia coli 042 complete genome.	Gammaproteobacteria	transposon Tn21 modulator protein	CBG36916	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3180|GV648_02815   Putative inner membrane protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV19928	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3153|GV648_02685   Uncharacterized proteins YbdD and YjiX   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAV02134	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.975|GV648_07745   Uncharacterized protein YtcA   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	formate dehydrogenase H	AAZ90759	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.973|GV648_07735   D-allose-6-phosphate isomerase (EC 5.3.1.-) @ Ribose-5-phosphate isomerase B (EC 5.3.1.6)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	ribose 5-phosphate isomerase B	ABB68545	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.353|GV648_05900   DNA-damage-inducible protein I   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	putative damage-inducible protein	ABB65426	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.558|GV648_23035   Transcriptional regulator, LysR family   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	transcriptional regulator, LysR family protein	ABO41065	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.791|GV648_06820   DNA-damage-inducible protein I   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein	ABE06668	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.608   FIG00640587: hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV17344	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3897|GV648_19705   Phosphoglucosamine mutase (EC 5.4.2.10)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	19459	CP001125	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633 plasmid pCVM1963	Gammaproteobacteria	10, complete sequence.	ACF88538	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3384|GV648_17375   Hok/Gef-like protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Gammaproteobacteria	Small toxic membrane polypeptide	ADD57923	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4381|GV648_21015   Putative uncharacterized protein YqfE   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein YqfE	ABE08749	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2405|GV648_14065   VapB protein (antitoxin to VapC)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein, putative transcriptionnal regulation protein	CAU98628	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.117   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB63996	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.90   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	hypothetical protein	ACD10264	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1486|GV648_10225   Uncharacterized S4 RNA-binding-domain protein YbcJ   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF02752	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1931|GV648_12365   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV19978	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2365|GV648_13880   Uncharacterized protein YfgJ   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ89220	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3609|GV648_18480   MgtA leader peptide   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16235	CP000247	Escherichia coli 536, complete genome.	Gammaproteobacteria	putative membrane protein	ABG72432	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1423|GV648_09915   Haemolysin expression modulating protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hemolysin expression modulating protein	ABE05988	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.224   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical protein	AAZ87440	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2410|GV648_14090   UPF0370 protein YpfN   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	putative membrane protein	ABB62708	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.998   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV19319	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.726   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	40647	FN554766	Escherichia coli 042 complete genome.	Gammaproteobacteria	conserved hypothetical protein	CBG34015	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2168|GV648_01620   UPF0509 protein YciZ   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR17757	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.176|GV648_00865   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV20020	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1683|GV648_11175   Toxic component of a type I toxin-antitoxin system, HokA   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Gammaproteobacteria	putative membrane permeability altering protein	AAG58706	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3786   FIG00641808: hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAU99465	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4331|GV648_20770   AidA-I adhesin-like protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV17835	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1064   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted protein	CAS09488	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.545|GV648_22960   Uncharacterized protein YhdU   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV21174	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1265|GV648_09140   beta-lactam resistance protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	beta-lactam resistance membrane protein	CAU97644	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2737   FIG00638239: hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	hypothetical protein	ACD09674	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3925|GV648_19845   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAU97293	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1398   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	hypothetical protein	ACD08838	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2122   Putative uncharacterized protein YmjC   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	predicted oxidoreductase	ACB02547	No	100.0
+
+#input_seq:	fig|562.55247.peg.4526   H repeat-associated protein, YhhI family   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Gammaproteobacteria	partial H repeat-associated protein of Rhs element	AAG56312	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1755   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV20112	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3751   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV16481	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.614|GV648_06010   mRNA interferase HigB   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV17670	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3683|GV648_18845   PyrBI operon leader peptide   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	43693	CP001969	Escherichia coli IHE3034, complete genome.	Gammaproteobacteria	pyrBI operon leader peptide	ADE88876	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1038   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV20093	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3964|GV648_20040   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	30045	CP001368	Escherichia coli O157:H7 str. TW14359, complete genome.	Gammaproteobacteria	hypothetical protein	ACT71473	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.212|GV648_05175   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR06896	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4408   FIG00638342: hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACI35775	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4448   Type III secretion cytoplasmic protein (YscF)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	type III secretion protein EprI	BAI27123	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1233   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV18579	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1809   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	43693	CP001969	Escherichia coli IHE3034, complete genome.	Gammaproteobacteria	hypothetical protein	ADE92664	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.550   FIG00639809: hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	hypothetical protein	ACD08648	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3155   FIG00638684: hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR16075	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.163   orf; Unknown function   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	33639	CP001383	Shigella flexneri 2002017, complete genome.	Gammaproteobacteria	hypothetical protein	ADA75947	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4413|GV648_21170   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV17592	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1037|GV648_08025   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Gammaproteobacteria	hypothetical protein	ACI37211	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1564   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV19907	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.121   FIG00638101: hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV18831	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2249   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV19898	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2723   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Gammaproteobacteria	hypothetical protein	ACI39602	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4624   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV17187	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1619   FIG00641539: hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV16541	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3530   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV20580	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2018   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	hypothetical protein	ACD07879	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4351|GV648_20865   Uncharacterized protein YqgB   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted protein	CAS10740	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.1540   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV19276	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.4154   FIG00638744: hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	27739	CP001164	Escherichia coli O157:H7 str. EC4115, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACI38643	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.630   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein	ABE08951	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2051   hypothetical protein   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	hypothetical protein	ACD07318	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.685   Methylglyoxal reductase, acetol producing (EC 1.1.1.-) / 2,5-diketo-D-gluconate reductase A (EC 1.1.1.274)   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	hypothetical protein	ACD08083	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2801|GV648_01950   Very hypothetical fruR/shl operon leader peptide   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	FruR leader peptide	ABE05597	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.3217|GV648_03000   Thr operon leader peptide   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	thr operon leader peptide	BAB33424	Yes	100.0
+
+#input_seq:	fig|562.55247.peg.2413|GV648_14105   protein YpfM   [Escherichia coli strain 4374 | 562.55247]
+#matched_seq:	225	U00096	Escherichia coli str. K-12 substr. MG1655, complete genome.	Gammaproteobacteria	hypothetical protein	ABP93450	No	100.0
+

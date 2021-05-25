@@ -1,0 +1,125 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_142846_713887_input.fsa
+Sequences ::	 1840
+Total bpp ::	 548350
+Longest seq ::	 1751
+Shortest seq ::	 28
+Avg seq lenght ::	 298.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	129.071
+Probability of being human pathogen ::	0.91
+Matches::	35
+Genome Coverage (%) ::	1.9
+Pathogenic Families Matched ::	35
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|727.2505.peg.904   Phosphoglycerol transferase and related proteins, alkaline phosphatase superfamily   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Gammaproteobacteria	ribonuclease BN	ABQ97815	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.804   Na(+)-dependent branched-chain amino acid transporter   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	branched-chain amino acid transport system carrier protein	AAX87287	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.509   Lipooligosaccharide biosynthesis protein lex-1 (EC 2.-.-.-)   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	UDP-Gal--lipooligosaccharide galactosyltransferase	AAX87599	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.111   Oligopeptide ABC transporter, permease protein OppB (TC 3.A.1.5.1)   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Gammaproteobacteria	oligopeptide permease ABC transporter membrane component	ABQ98633	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1475   Permease of the drug/metabolite transporter (DMT) superfamily   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	hypothetical protein	AAX88466	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.178   Transcriptional regulator, AraC family   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Gammaproteobacteria	transcriptional regulator AraC family protein	ABQ98699	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1811   Uncharacterized inner membrane protein RarD   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ99038	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1380   Septum-associated rare lipoprotein A   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Gammaproteobacteria	lipoprotein	ABQ98059	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.749   L-fucose operon activator   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Gammaproteobacteria	L-fucose isomerase	ABR00274	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.386   Membrane protein involved in the export of O-antigen and teichoic acid   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Gammaproteobacteria	predicted coding region HI0825	AAC22498	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1477   Cytochrome c-type biogenesis protein CcdA homolog, associated with MetSO reductase   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	conserved hypothetical cytochrome c-type biogenesis protein	AAX88468	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.950   Primosomal replication protein N   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	predicted primosomal replication protein N	AAX87384	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.288   Large exoproteins involved in heme utilization or adhesion   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAX87969	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1473   RNA polymerase ECF-type sigma factor   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Gammaproteobacteria	RNA polymerase sigma-70 factor	ABQ99328	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.119   Thiol-disulfide isomerase and thioredoxins   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	thioredoxin-like protein	AAX88118	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.187   Ferredoxin-type protein NapF (periplasmic nitrate reductase)   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Gammaproteobacteria	B12-dependent methionine synthase	ABR00578	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1478   Thiol:disulfide oxidoreductase associated with MetSO reductase   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAX88469	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.287   hypothetical protein   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAX87970	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.879   Biopolymer transport protein ExbD/TolR   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16401	CP000672	Haemophilus influenzae PittGG, complete genome.	Gammaproteobacteria	biopolymer transport protein	ABQ99764	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1808   Histone acetyltransferase HPA2 and related acetyltransferases   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAX87708	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1078   ATP synthase protein I   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	219	L42023	Haemophilus influenzae Rd KW20, complete genome.	Gammaproteobacteria	predicted coding region HI0485.1	AAC22145	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1692   Inner membrane protein YbaN   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ97894	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.151   Phospholipid ABC transporter-binding protein MlaB   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	predicted NTP binding protein, contains STAS domain	AAX88092	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.311   hypothetical protein   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAX87946	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.135   hypothetical protein   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAX88106	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1833   Antitoxin DinJ (binds YafQ toxin)   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	DNA-damage-inducible protein J, negative regulator of translation	AAX87739	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.817   Protein translocase subunit YajC   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	conserved hypothetical preprotein translocase subunit YajC	AAX87301	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1668   probable membrane protein YPO2224   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	predicted membrane protein	AAX88698	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.614   LSU ribosomal protein L35p   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	50S ribosomal protein L35	AAX88440	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1113   DNA-directed RNA polymerase specialized sigma subunit   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ97639	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1474   FIG00697159: hypothetical protein   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	hypothetical protein	AAX88465	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1514   UPF0339 protein YegP.N   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Gammaproteobacteria	hypothetical protein	ABQ98322	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.585   Diaminopimelate decarboxylase and/or diaminopimelate epimerase leader peptide   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	hypothetical protein	AAX87779	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.1613   Putative transposase InsK for insertion sequence element IS150   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Gammaproteobacteria	transposase	ABQ98233	Yes	100.0
+
+#input_seq:	fig|727.2505.peg.7   Cytidylate kinase (EC 2.7.4.25)   [Haemophilus influenzae strain AS012767 | 727.2505]
+#matched_seq:	16400	CP000671	Haemophilus influenzae PittEE, complete genome.	Gammaproteobacteria	cytidylate kinase	ABQ98543	Yes	100.0
+

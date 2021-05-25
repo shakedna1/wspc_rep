@@ -1,0 +1,29 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_111530_181376_input.fsa
+Sequences ::	 1711
+Total bpp ::	 532989
+Longest seq ::	 4521
+Shortest seq ::	 24
+Avg seq lenght ::	 311.0
+
+RESULTS:
+Min Identity Threshold ::	99.569
+Z-THRESHOLD ::	3.0
+Prediction Score ::	7.973
+Probability of being human pathogen ::	0.83
+Matches::	3
+Genome Coverage (%) ::	0.18
+Pathogenic Families Matched ::	3
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2584653.3.peg.330|GKG02_00465   Programmed cell death toxin YdcE   [Finegoldia sp. BIOML-A5 | 2584653.3]
+#matched_seq:	18981	AP008971	Finegoldia magna ATCC 29328 DNA, complete genome.	Clostridia	conserved hypothetical protein	BAG08611	Yes	100.0
+
+#input_seq:	fig|2584653.3.peg.1126|GKG02_04340   hypothetical protein   [Finegoldia sp. BIOML-A5 | 2584653.3]
+#matched_seq:	18981	AP008971	Finegoldia magna ATCC 29328 DNA, complete genome.	Clostridia	conserved hypothetical protein	BAG08986	Yes	100.0
+
+#input_seq:	fig|2584653.3.peg.1127|GKG02_04345   hypothetical protein   [Finegoldia sp. BIOML-A5 | 2584653.3]
+#matched_seq:	18981	AP008971	Finegoldia magna ATCC 29328 DNA, complete genome.	Clostridia	conserved hypothetical protein	BAG08987	Yes	100.0
+

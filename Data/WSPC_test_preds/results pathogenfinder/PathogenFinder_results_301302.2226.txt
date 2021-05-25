@@ -1,0 +1,29 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_090243_760705_input.fsa
+Sequences ::	 3742
+Total bpp ::	 1080786
+Longest seq ::	 2550
+Shortest seq ::	 21
+Avg seq lenght ::	 288.0
+
+RESULTS:
+Min Identity Threshold ::	81.408
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-3.037
+Probability of being human pathogen ::	0.347
+Matches::	3
+Genome Coverage (%) ::	0.08
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	2
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|301302.2226.peg.3132|GMD30_16745   Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)   [Roseburia faecis strain BIOML-A1 | 301302.2226]
+#matched_seq:	29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	Clostridia	RNA-dependent DNA polymerase	ADL33970	No	89.66
+
+#input_seq:	fig|301302.2226.peg.162|GMD30_06455   hypothetical protein   [Roseburia faecis strain BIOML-A1 | 301302.2226]
+#matched_seq:	32609	CP002160	Clostridium cellulovorans 743B, complete genome.	Clostridia	Putative amidoligase enzyme	ADL53645	No	81.9
+
+#input_seq:	fig|301302.2226.peg.482|GMD30_07915   LSU ribosomal protein L14p (L23e)   [Roseburia faecis strain BIOML-A1 | 301302.2226]
+#matched_seq:	38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Actinobacteridae	ribosomal protein L14	BAI64321	Yes	81.97
+

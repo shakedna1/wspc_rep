@@ -1,0 +1,1418 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_074942_099067_input.fsa
+Sequences ::	 5051
+Total bpp ::	 1413593
+Longest seq ::	 3624
+Shortest seq ::	 23
+Avg seq lenght ::	 279.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	1699.785
+Probability of being human pathogen ::	0.891
+Matches::	466
+Genome Coverage (%) ::	9.23
+Pathogenic Families Matched ::	466
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|90370.3046.peg.4545   T1SS secreted agglutinin RTX   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1712   Large repetitive protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2697   RatA homolog   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2852   T6SS PAAR-repeat protein / RhaS protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.575   Putative inner membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Gammaproteobacteria	putative autotransporter	AAO71309	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.401   Exodeoxyribonuclease VIII (EC 3.1.11.-)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2832   Alpha-fimbriae usher protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.948   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Gammaproteobacteria	outer membrane fimbrial usher protein	AAO71977	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.962   DEAD-box helicase-related protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2849   RhaS protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1826   Type IV secretory pathway, VirB4 components   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3551   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1904   Leucine-rich-repeat protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	leucine-rich repeat protein	ACF64457	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1465   CRISPR-associated helicase Cas3   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.122   Uncharacterized protein STM2135   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1490   Hydroxyaromatic non-oxidative decarboxylase protein C (EC 4.1.1.-)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78633	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3888   Phage head, portal protein B   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4735   Invasin-like protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Gammaproteobacteria	invasin-like protein	AAO69204	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3534   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	Vi polysaccharide export protein	ACN48511	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4480   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2033   Sigma-54 dependent DNA-binding transcriptional regulator   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1088   Putative hydroxymethyltransferase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4935   Protein AegA   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2511   Limit dextrin alpha-1,6-maltotetraose-hydrolase (EC 3.2.1.196)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4063   Cardiolipin synthase (EC 2.7.8.-) phosphatidylethanolamine-utilizing, bacterial type ClsC   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX67766	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3539   Glycosyl transferase, group 1 family protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1989   Potassium-transporting ATPase B chain (EC 3.6.3.12) (TC 3.A.3.7.1)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3198   Exoenzymes regulatory protein AepA precursor   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3552   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.634   Kdo2-lipid A phosphoethanolamine transferase EptB (EC 2.7.8.42)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.5043   Phage tail fiber protein GpH   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	probable phage tail fiber protein	AAV78433	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.5037   Phage tail fiber protein GpH   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4610   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3546   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2701   Putative outer membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4753   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3984   putative secreted protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1303   Tagatose-6-phosphate kinase GatZ (EC 2.7.1.144)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX69394	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3095   Transcriptional regulatory protein STM2361   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1205   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1204   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3921   Putative inner membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.379   Murein DD-endopeptidase MepM   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1806   IncI1 plasmid conjugative transfer pilus-tip adhesin protein PilV   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3535   Vi polysaccharide export inner-membrane protein vexD   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	Vi polysaccharide export inner-membrane protein	ACN48512	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2108   Arylsulfatase A and related enzymes   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4732   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1799   IncI1 plasmid pilus assembly protein PilO   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.695   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	putative membrane protein	AAV79250	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4527   Succinylglutamic semialdehyde dehydrogenase (EC 1.2.1.71)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4302   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4117   Uncharacterized MFS-type transporter STM3832   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1645   Trilactone hydrolase IroD   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1794   IncI1 plasmid conjugative transfer protein PilL   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN48459	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.691   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	30943	FM200053	Salmonella enterica subsp. enterica serovar Paratyphi A str. AK	Gammaproteobacteria	2601 complete genome, strain AK	CAR61471	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4685   Inner membrane protein of type IV secretion of T-DNA complex, TonB-like, VirB10   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001143	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853 plasmid pCT0202185	ACH73512	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3561   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2215   Uncharacterized fimbrial-like protein YadC   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2507   putative coiled-coil protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.694   Putative aminotransferase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.931   corresponds to STY4824 from Accession AL513382: Salmonella typhi CT18   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4044   N-acetylneuraminate epimerase (EC 5.1.3.24)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1087   Putative hydroxymethyltransferase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3891   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4483   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1445   putative secreted protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2831   Alpha-fimbriae tip adhesin   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2504   S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.398   Phage integrase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4232   Putative outer membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.929   Protein kinase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.930   Protein kinase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3885   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3538   Capsule polysaccharide export protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4142   Probable fimbrial protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3514   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3515   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78453	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2406   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.193   ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66384	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1775   Chromosome partitioning ATPase in PFGI-1-like cluster, ParA-like   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4477   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3398   putative lipoprotein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3191   Phage tail fiber Mup49, S   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3286   Tetrathionate reductase subunit C   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3430   Melibiose carrier protein, Na+/melibiose symporter   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2884   T6SS component TssG (ImpH/VasB)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1110   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1206   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2415   Phage DNA replication protein O   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2554   secreted effector protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1810   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN48466	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.416   Unknown function   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3924   Uncharacterized protein YciW   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3665   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.972   Uncharacterized protein STM4504   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.61   3-hydroxybenzoate utilization regulator, LysR family   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	putative transcriptional regulator	ACN45676	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2880   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3532   SAM-dependent methyltransferase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	putative methyltransferase	ACN48509	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.124   Uncharacterized protein STM2133   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3184   Transcriptional regulator STM2275, GntR family   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	putative GntR family regulatory protein	ACF61538	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2405   Putative DNA methylase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1809   IncI1 plasmid conjugative transfer protein TraE   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1667   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2461   Starvation sensing protein RspB   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.495   Putative transcriptional regulator MarT   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	putative transcriptional regulatory protein	AAV79408	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3574   Uncharacterized protein YjeJ   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.676   Uncharacterized phosphosugar isomerase STM3601   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4734   putative lipoprotein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.848   Phage capsid scaffolding protein GpO   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	putative scaffolding protein	BAI30681	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1968   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1444   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4829   Cytolethal distending toxin subunit B, DNase I-like   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	cytolethal distending toxin B	ACF89261	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.550   Lipopolysaccharide core biosynthesis protein RfaZ   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1633   Tripartite tricarboxylate transporter TctC family   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1301   PTS system, tagatose-specific IIA component / PTS system, tagatose-specific phosphocarrier protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.846   Phage terminase, endonuclease subunit GpM   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	putative terminase small subunit	BAI25703	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3537   Vi polysaccharide export inner-membrane protein vexB   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4   Phage tail fiber, side tail fiber protein Stf   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	241	AE006468	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.	Gammaproteobacteria	putative tail fiber protein of phage	AAL21145	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4408   L,D-transpeptidase => YcfS   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3558   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4553   Heat shock protein GrpE   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	molecular chaparone; heat shock protein	AAX66589	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4541   Retron-type RNA-directed DNA polymerase (EC 2.7.7.49)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Gammaproteobacteria	putative reverse transcriptase	AAO70228	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2486   Hydrogenase maturation factor HoxV/HupK   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2863   T6SS associated component TagF (ImpM)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4234   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF66923	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3375   Sugar-1-epimerase YihR   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2867   Putative inner membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1514   Type III secretion thermoregulatory protein (LcrF,VirF,transcription regulation of virulence plasmid)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	invasion protein	ACF62882	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1976   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3664   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4475   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4832   Putative pertussis-like toxin subunit PtlA (EC 2.4.2.-)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.121   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1164   Possible hydrolase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.120   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4687   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001143	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853 plasmid pCT0202185	ACH73568	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2834   Alpha-fimbriae chaperone protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2934   Uncharacterized 7 coiled-coil protein STM0567   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2517   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.996   Putative inner membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4465   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3513   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78451	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3536   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.114   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1208   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4313   Ethanolamine utilization polyhedral-body-like protein EutN   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2707   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3219   Pyridoxal kinase (EC 2.7.1.35)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2851   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.985   Uncharacterized protein YjiH   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	transporter gate domain protein	ACF66511	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4344   putative secreted protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.545   corresponds to STY4075 from Accession AL513382: Salmonella typhi CT18   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1805   Type-IV sectretion leader peptidase/N-methyltransferase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3165   Uncharacterized outer membrane protein YfaZ   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4694   Peptidoglycan hydrolase VirB1, involved in T-DNA transfer   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001143	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853 plasmid pCT0202185	ACH73527	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2886   T6SS component TssA (ImpA)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.11   Uncharacterized inner membrane protein STM2225   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.109   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2828   TioA protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2427   Phage recombination protein NinG   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4492   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted head morphogenesis protein	CAS10059	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1468   CRISPR-associated protein, Cse2 family   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.507   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2216   Uncharacterized fimbrial-like protein YadK   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2221   Uncharacterized fimbrial-like protein YadN   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1844   corresponds to STY4589 from Accession AL513382: Salmonella typhi CT18   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4229   Putative fimbrial-like protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4226   Attachment invasion locus protein precursor   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	outer membrane protein (associated with virulence)	ACN47179	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2833   Alpha-fimbriae major subunit   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	putative fimbrial subunit	ACF68075	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2420   Phage EaA protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH77665	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2218   Uncharacterized fimbrial-like protein YadM   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4298   Acetyltransferase YpeA   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX65938	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1782   FIG004780: hypothetical protein in PFGI-1-like cluster   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4737   Putative thiol peroxidase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.422   Phage antitermination protein Q   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.415   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2086   Citrate lyase holo-[acyl-carrier-protein] synthase (EC 2.7.7.61)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Gammaproteobacteria	citx protein	AAO67797	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2796   Putative inner membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3719   Putative inner membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1839   Uncharacterized protein STM4502   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN48492	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3124   UPF0304 protein yfbU   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	YfbU domain protein	ACF63247	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3543   Vi polysaccharide biosynthesis protein tviA   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.979   HilE protein, a negative regulator of HilD, and thereby Salmonella enterica invasion   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.86   Uncharacterized lipoprotein YehR   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF65987	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4645   37 kDa nucleoid-associated protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3900   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2794   Possible transcriptionl regulator   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	possible transcriptionl regulator	AAV78254	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4042   Predicted sialic acid transporter   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1334   Protein translocase membrane subunit SecG   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX69431	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2418   Phage ea22 protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH74561	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2856   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	241	AE006468	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.	Gammaproteobacteria	putative cytoplasmic protein	AAL19245	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4468   Phage tail fiber assembly protein GpG   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2571   Aminoglycoside N(6')-acetyltransferase (EC 2.3.1.82) => AAC(6')-Ic,f,g,h,j,k,l,r-z   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1723   Holin-like protein CidA   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH77658	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4233   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1841   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1147   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	putative exported protein	AAV78822	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.113   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3916   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2866   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2882   T6SS lysozyme-like component TssE   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	type VI secretion system lysozyme-related protein	ACF66528	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1064   putative secreted protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.681   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	putative membrane protein	AAV79264	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2079   Anaerobic respiratory reductase chaperone   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.117   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3571   Heat shock protein 10 kDa family chaperone GroES   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	co-chaperonin GroES	ACN48531	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2862   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2860   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4815   Small heat shock protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3862   G-nucleotide exchange factor SopE   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	TypeIII-secreted protein effector: invasion-associated protein	ACN46012	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.975   Uncharacterized protein STM4505   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.701   Nickel responsive regulator NikR   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	nickel responsive regulator	ACN47734	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3732   Inner membrane protein YigG   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4660   Phage protein Mup16, GemA   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3550   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.118   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3386   Antitoxin HigA   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.901   Transposase / Uncharacterized integral membrane protein STM4457   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1025   Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Gammaproteobacteria	ribosomal-protein-alanine acetyltransferase	AAO72033	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.119   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2848   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2935   Uncharacterized 7 coiled-coil protein STM0567   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4646   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4474   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3914   Putative periplasmic protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2872   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3896   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2105   putative secreted protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	probable secreted protein	AAV76116	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2885   T6SS component TssA (ImpA)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.111   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2069   Citrate lyase holo-[acyl-carrier-protein] synthase (EC 2.7.7.61)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1825   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4569   Ribosome-associated inhibitor A   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Gammaproteobacteria	hypothetical protein	ABX20207	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2857   putative secreted protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	probable secreted protein	ACN44483	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4833   Putative pertussis-like toxin subunit PtlB   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.5038   Phage tail fiber assembly protein GpG   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	putative phage tail fibre protein	AAV78432	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.625   Antitoxin to RelE-like translational repressor toxin   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2411   Putative DNA-binding protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2585   Cytochrome b561   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1834   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN48487	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1828   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN48481	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4655   Phage EaA protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.544   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1842   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN48495	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.464   PTS system, IIA component   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4418   YcfF/hinT protein: a purine nucleoside phosphoramidase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	histidine triad nucleotide-binding protein 2	ACF64355	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4830   FIG048677: hypothetical protein, phage tail fiber-like   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV77534	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3503   Phage lysis regulatory protein, LysA   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	putative membrane protein	AAV78441	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3588   Uncharacterized protein YjeN   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAV79904	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2435   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2413   Phage activator protein cII   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.734   Uncharacterized protein YhhA   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4488   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4943   Phage tail protein GpE   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	putative tail protein	BAI26036	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4738   Uncharacterized protein YqjZ   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	30687	AM933172	Salmonella enterica subsp. enterica serovar Enteritidis str. P125109 complete genome.	Gammaproteobacteria	hypothetical protein	CAR32944	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3720   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1819   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2471   Putative periplasmic protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1441   Transcriptional regulator   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3718   Putative inner membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3884   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2417   Putative DNA-binding protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4476   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN45219	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1977   Putative inner membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1832   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN48485	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3445   (4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase (EC 5.3.1.32)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAV79687	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2799   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.328   Uncharacterized protein STM1939   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	putative glucose-6-phosphate dehydrogenase	AAV76906	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3557   FIG01045795: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3617   Putative uncharacterized protein YjfN   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.843   COG1263: Phosphotransferase system IIC components, glucose/maltose/N-acetylglucosamine-specific   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	putative holin protein	BAI25706	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.935   Phage DNA-binding protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3332   Putative inner membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	putative membrane protein	AAV77448	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1411   Uncharacterized lipoprotein YgdI   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX69050	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2847   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1103   Transcriptional regulator   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1779   FIG01047069: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4478   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	putative bacteriophage protein	ACN45217	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3886   probable bacteriophage protein STY1063   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.112   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.125   Uncharacterized protein STM2133   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1503   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.432   Outer membrane lipoprotein YidQ   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	conserved outer membrane protein	ACF88742	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1100   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2422   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4670   Acid shock protein precursor   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2845   Mobile element protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78343	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.115   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.727   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	putative exported protein	AAV79221	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4464   Virulence protein msgA   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.966   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4653   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3915   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1851   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2465   Putative selenium-binding protein YdfZ   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Gammaproteobacteria	hypothetical protein	ABX21343	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1156   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2421   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	putative bacteriophage protein	ACN46831	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2104   Putative outer membrane lipoprotein STM0080   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	putative outer membrane lipoprotein	ACN44278	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4342   putative secreted protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1533   FIG027120: hypothetical protein in type III secretion system   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2436   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3059   Bactoprenol glucosyl transferase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	bactoprenol glucosyl transferase	AAV76471	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1433   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX69023	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2403   Excisionase   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	excisionase	ACF63224	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3401   Putative inner membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2475   Multiple antibiotic resistance protein MarB   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	multiple antibiotic resistance protein	ACF68551	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3526   Phage Cox (control of excision) protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	phage regulatory protein	AAV78465	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.866   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	unknown protein encoded by prophage CP-933T	ABE06445	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.408   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1642   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.933   FIG107037: Phage late gene regulator   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.964   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV80044	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1818   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3516   DNA-damage-inducible protein I   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78455	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3522   Phage Orf80 protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78461	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3672   Phage Orf80 protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4658   corresponds to STY1594 from Accession AL513382: Salmonella typhi CT18   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2379   FIG002473: Protein YcaR in KDO2-Lipid A biosynthesis cluster   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	putative inner membrane protein	AAX64850	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3354   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV79611	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2107   Arylsulfatase A and related enzymes   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3674   FIG01048512: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.817   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3778   Putative membrane protein YchH   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1511   Transposase InsE for insertion sequence IS3E   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78616	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4659   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4656   FIG00638178: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3927   UPF0509 protein YciZ   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAX65604	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3559   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.953   Putative regulatory protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2426   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66416	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2311   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	putative membrane protein	AAV77790	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2855   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF61423	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1150   putative membrane protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	possible membrane protein	AAV78827	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.405   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1768   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.68   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH75690	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.110   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2361   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.990   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN48701	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4652   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4609   Uncharacterized protein YhdU   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	putative periplasmic protein	AAV79076	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3878   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV76980	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.327   Uncharacterized protein STM1939   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1143   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78818	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.399   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3544   FIG01046447: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN48521	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3938   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAX65615	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1505   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78619	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2098   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH74009	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1182   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF63488	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3577   Entericidin A   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20063	CP001138	Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.	Gammaproteobacteria	putative entericidin A	ACH52426	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.264   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3113   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF64143	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4816   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF64384	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4243   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH76646	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3937   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF63390	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3101   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66042	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4666   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV77316	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3775   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	hypothetical protein	ACF90217	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3413   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	hypothetical protein	AAX67847	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4822   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4614   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH73804	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4647   Phage protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.261   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV76848	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.266   Putative cytoplasmic protein STM1999   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2119   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF63346	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3466   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF61767	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2399   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF64905	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4406   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF61986	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4811   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	hypothetical protein	ACF89532	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.69   FIG01045848: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	hypothetical protein	AAX66095	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.321   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV76900	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4797   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV77509	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.917   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2788   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3231   Uncharacterized protein YdhL   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved domain protein	ACF62277	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4546   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF63690	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4883   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF61620	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2827   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF88877	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1965   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.5019   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF64432	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3861   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF62267	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1042   Phosphoserine phosphatase (EC 3.1.3.3)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	Phosphoserine phosphatase	ACN48753	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2139   Sugar-phosphate stress protein SgrT (embedded in SgrS)   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	hypothetical protein	AAX64010	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1118   Uncharacterized protein YaaY   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF63190	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2648   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF64897	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.199   FIG01047206: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH76094	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3744   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH76915	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.417   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4810   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	hypothetical protein	ACF66896	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1595   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF62093	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1155   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	hypothetical protein	ACF92428	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.989   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF61178	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4060   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	hypothetical protein	ACF89228	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.646   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Gammaproteobacteria	hypothetical protein	ABX23801	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4002   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF61124	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1707   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX70521	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4193   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	hypothetical protein	ACF91542	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1457   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN47091	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3912   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV77147	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1193   Putative inner membrane protein STM3160   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF63650	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4160   FIG01046865: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF61714	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2064   FIG01046700: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	hypothetical protein	ACF68074	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2287   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20063	CP001138	Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.	Gammaproteobacteria	hypothetical protein	ACH51773	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1028   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	hypothetical protein	ACF92125	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2052   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF62085	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3122   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF61390	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.775   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF61578	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.439   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX70046	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1706   FIG01048353: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20063	CP001138	Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.	Gammaproteobacteria	hypothetical protein	ACH51905	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.235   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN45826	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1979   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV77928	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2597   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF63415	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3350   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH77988	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1657   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF63714	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.347   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	hypothetical protein	ACF68038	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.272   FIG01045438: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66569	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2741   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20063	CP001138	Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACH49626	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4821   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV77527	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.300   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF62616	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1341   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF64068	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1689   Uncharacterized protein STM4239   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH75308	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3579   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF63320	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.974   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20063	CP001138	Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.	Gammaproteobacteria	hypothetical protein	ACH51741	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.728   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20063	CP001138	Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.	Gammaproteobacteria	hypothetical protein	ACH48964	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.876   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX70826	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4817   putative lipoprotein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF63724	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4279   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN45393	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1134   FIG01049126: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF65124	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2184   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH73839	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1868   FIG01046351: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	hypothetical protein	ACF70310	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4398   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF63561	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2695   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF61327	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1420   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH76188	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.980   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF62916	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3743   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	hypothetical protein	ACF92629	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2137   putative lipoprotein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	putative lipoprotein	ACF64744	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.5   FIG01046471: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF63587	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2662   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF63842	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2612   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN46854	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.433   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH76679	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3379   FIG01045621: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF64783	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1142   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.397   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV76971	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.690   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV79255	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2414   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH76137	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3796   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF64877	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3813   FIG01046203: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF64606	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4953   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF61822	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.141   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF63901	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2196   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF61831	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1993   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACF63335	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1950   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF62883	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4530   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20063	CP001138	Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.	Gammaproteobacteria	hypothetical protein	ACH49989	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2463   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	hypothetical protein	ACF89664	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3047   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF62423	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1637   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	putative inner membrane protein	ACF64919	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1630   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF61094	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.1138   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	hypothetical protein	ACF62510	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.652   FIG01046791: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN47776	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2275   FIG01045957: hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	hypothetical protein	ACF88711	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.4115   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	19459	CP001127	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.	Gammaproteobacteria	hypothetical protein	ACF91493	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3311   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN46497	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.3530   corresponds to STY4647 from Accession AL513382: Salmonella typhi CT18   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	hypothetical protein	ACN48507	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2783   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78247	Yes	100.0
+
+#input_seq:	fig|90370.3046.peg.2878   hypothetical protein   [Salmonella enterica subsp. enterica serovar Typhi strain 343077_206161 | 90370.3046]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78371	Yes	100.0
+

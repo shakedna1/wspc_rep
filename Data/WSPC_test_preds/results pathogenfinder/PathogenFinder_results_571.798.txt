@@ -1,0 +1,179 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_091310_339385_input.fsa
+Sequences ::	 6276
+Total bpp ::	 1799642
+Longest seq ::	 3158
+Shortest seq ::	 20
+Avg seq lenght ::	 286.0
+
+RESULTS:
+Min Identity Threshold ::	93.246
+Z-THRESHOLD ::	3.0
+Prediction Score ::	100.424
+Probability of being human pathogen ::	0.683
+Matches::	53
+Genome Coverage (%) ::	0.84
+Pathogenic Families Matched ::	38
+Non-Pathogenic Families Matched ::	15
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|571.798.peg.2032   Putative inner membrane protein   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative inner membrane protein	ABR75996	Yes	94.5
+
+#input_seq:	fig|571.798.peg.2850   Mannosyltransferase   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	mannosyltransferase A	ACI06729	No	95.6
+
+#input_seq:	fig|571.798.peg.2851   hypothetical protein   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	putative methyltransferase	ACI11548	No	97.32
+
+#input_seq:	fig|571.798.peg.856   Hydroxyaromatic non-oxidative decarboxylase protein C (EC 4.1.1.-)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78633	Yes	97.68
+
+#input_seq:	fig|571.798.peg.1112   Putative PQQ enzyme repeat   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACI06935	No	94.62
+
+#input_seq:	fig|571.798.peg.3147   PTS system, maltose-specific IIC component / PTS system, maltose-specific IIB component (EC 2.7.1.208)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative alpha-glucoside-specific PTS family enzyme IIBC component	BAH65874	Yes	94.44
+
+#input_seq:	fig|571.798.peg.5161   Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	Alphaproteobacteria	fatty acid CoA ligase	BAC49976	No	94.12
+
+#input_seq:	fig|571.798.peg.2726   NAD kinase (EC 2.7.1.23)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017	Yes	94.18
+
+#input_seq:	fig|571.798.peg.1350   Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative acyl-CoA synthase	BAH63408	Yes	96.91
+
+#input_seq:	fig|571.798.peg.2643   Maltodextrin ABC transporter, substrate-binding protein MdxE   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	ABC superfamily (bin	AAX68014	Yes	93.69
+
+#input_seq:	fig|571.798.peg.3668   anion transporter   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	transporter, divalent anion:Na+ symporter (DASS) family	ACI10614	No	98.06
+
+#input_seq:	fig|571.798.peg.4675   Proton/glutamate symporter @ Proton/aspartate symporter   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14881	Yes	94.05
+
+#input_seq:	fig|571.798.peg.4465   Peptidase B (EC 3.4.11.23)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	aminopeptidase B	BAH64649	Yes	94.16
+
+#input_seq:	fig|571.798.peg.5881   Mobile element protein   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS66 family element, transposase	ACD07572	Yes	94.62
+
+#input_seq:	fig|571.798.peg.728   PTS system, galactitol-specific IIC component   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	putative PTS system, galactitol-specific IIC component	ACI07228	No	96.19
+
+#input_seq:	fig|571.798.peg.1313   PTS system, galactitol-specific IIC component   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	PTS system, galactitol-specific IIC component	ACF67567	Yes	99.28
+
+#input_seq:	fig|571.798.peg.291   Na+ dependent nucleoside transporter NupC   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	nucleoside permease	BAH64544	Yes	97.25
+
+#input_seq:	fig|571.798.peg.5633   hypothetical protein   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACI07434	No	99.75
+
+#input_seq:	fig|571.798.peg.1342   Sugar diacid utilization regulator SdaR   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative sugar diacid utilization regulator	ABR77119	Yes	94.81
+
+#input_seq:	fig|571.798.peg.850   RNA polymerase sigma factor RpoS   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Gammaproteobacteria	RNA polymerase sigma subunit RpoS	AAO70382	Yes	93.33
+
+#input_seq:	fig|571.798.peg.2587   Galactokinase (EC 2.7.1.6)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	galactokinase	ACI06895	No	95.29
+
+#input_seq:	fig|571.798.peg.1115   Alkanesulfonates-binding protein   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	putative sulfonate ABC transporter, sulfonate-binding protein	ACI09846	No	94.08
+
+#input_seq:	fig|571.798.peg.2840   ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66384	Yes	93.65
+
+#input_seq:	fig|571.798.peg.4367   Malate dehydrogenase (EC 1.1.1.37)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	malate dehydrogenase	ABE09111	Yes	93.91
+
+#input_seq:	fig|571.798.peg.6166   Formate efflux transporter FocA   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	putative FNT family, formate transporter (formate channel 1)	AAX64834	Yes	94.39
+
+#input_seq:	fig|571.798.peg.3670   D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	D-isomer specific 2-hydroxyacid dehydrogenase family protein	ACI09025	No	96.53
+
+#input_seq:	fig|571.798.peg.35   SSU ribosomal protein S2p (SAe)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	97.93
+
+#input_seq:	fig|571.798.peg.5307   Replication initiation protein RepE   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Gammaproteobacteria	DNA replication	ABR80601	Yes	100.0
+
+#input_seq:	fig|571.798.peg.1755   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	96.21
+
+#input_seq:	fig|571.798.peg.2062   ABC transporter, substrate-binding protein (cluster 3, basic aa/glutamine/opines)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	amino acid ABC transporter, periplasmic amino acid-binding protein	ACI10773	No	94.35
+
+#input_seq:	fig|571.798.peg.5809   3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741	No	93.98
+
+#input_seq:	fig|571.798.peg.1355   Transcriptional regulator, DeoR family   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative DeoR-family bacterial regulatory protein	BAH63413	Yes	96.62
+
+#input_seq:	fig|571.798.peg.6125   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	95.35
+
+#input_seq:	fig|571.798.peg.5300   IS1 protein InsA   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	33639	CP001383	Shigella flexneri 2002017, complete genome.	Gammaproteobacteria	IS1 ORF2	ADA74134	Yes	94.51
+
+#input_seq:	fig|571.798.peg.4029   Ethanolamine utilization polyhedral-body-like protein EutM   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	94.79
+
+#input_seq:	fig|571.798.peg.1314   Ribulose-phosphate 3-epimerase (EC 5.1.3.1)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	20045	CP001120	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.	Gammaproteobacteria	ribulose-phosphate 3-epimerase	ACF66146	Yes	96.26
+
+#input_seq:	fig|571.798.peg.5299   IS1 protein InsB   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS1 protein InsB	ACD09517	Yes	96.18
+
+#input_seq:	fig|571.798.peg.438   Translation elongation factor Tu   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Gammaproteobacteria	elongation factor Tu	ACX82119	Yes	100.0
+
+#input_seq:	fig|571.798.peg.3767   hypothetical protein   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR76855	Yes	94.54
+
+#input_seq:	fig|571.798.peg.596   Mobile element protein   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Gammaproteobacteria	Tn903 transposase	BAH66116	Yes	100.0
+
+#input_seq:	fig|571.798.peg.5862   Heat shock protein 10 kDa family chaperone GroES   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	co-chaperonin GroES	ACN48531	Yes	96.91
+
+#input_seq:	fig|571.798.peg.4641   molecular chaperone   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	18937	CP001644	Ralstonia pickettii 12D chromosome 1, complete sequence.	Betaproteobacteria	heat shock protein Hsp20	ACS61928	No	94.08
+
+#input_seq:	fig|571.798.peg.5630   Error-prone, lesion bypass DNA polymerase V (UmuC)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Gammaproteobacteria	umuDC operon protein-like protein	BAH65963	Yes	100.0
+
+#input_seq:	fig|571.798.peg.2038   PTS system, mannose-specific IIA component (EC 2.7.1.191)   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative PTS system transport protein	BAH62244	Yes	97.92
+
+#input_seq:	fig|571.798.peg.2043   Transcriptional activator RamA   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV13700	Yes	95.58
+
+#input_seq:	fig|571.798.peg.3405   Uncharacterized proteins YbdD and YjiX   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14524	Yes	94.03
+
+#input_seq:	fig|571.798.peg.3485   Integration host factor alpha subunit   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881	No	94.95
+
+#input_seq:	fig|571.798.peg.5271   hypothetical protein   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS66 family element, orf2	ACD08654	Yes	96.91
+
+#input_seq:	fig|571.798.peg.5305   hypothetical protein   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	33369	CU928144	Escherichia fergusonii str. ATCC 35469T plasmid pEFER, complete genome.	Gammaproteobacteria	hypothetical protein	CAQ86970	Yes	98.82
+
+#input_seq:	fig|571.798.peg.1867   Haemolysin expression modulating protein   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893	Yes	95.83
+
+#input_seq:	fig|571.798.peg.2146   Orphan toxin OrtT   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH63626	Yes	94.74
+
+#input_seq:	fig|571.798.peg.5335   Transposase InsC for insertion element IS2   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH66102	Yes	100.0
+
+#input_seq:	fig|571.798.peg.5659   hypothetical protein   [Klebsiella oxytoca strain AS012479 | 571.798]
+#matched_seq:	21069	AP006726	Klebsiella pneumoniae NTUH-K2044 plasmid pK2044 DNA, complete genome.	Gammaproteobacteria	conserved hypothetical protein	BAH66135	Yes	100.0
+

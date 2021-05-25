@@ -1,0 +1,26 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_103555_239407_input.fsa
+Sequences ::	 723
+Total bpp ::	 216250
+Longest seq ::	 1317
+Shortest seq ::	 24
+Avg seq lenght ::	 299.0
+
+RESULTS:
+Min Identity Threshold ::	92.33
+Z-THRESHOLD ::	3.0
+Prediction Score ::	6.38
+Probability of being human pathogen ::	0.868
+Matches::	2
+Genome Coverage (%) ::	0.28
+Pathogenic Families Matched ::	2
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2026720.132.peg.443   FIG01197404: hypothetical protein   [Candidatus Saccharibacteria bacterium strain T-D-F_MAG_00008 | 2026720.132]
+#matched_seq:	20739	CP001682	Cryptobacterium curtum DSM 15641, complete genome.	Coriobacteridae	hypothetical protein	ACU94515	Yes	98.38
+
+#input_seq:	fig|2026720.132.peg.81   hypothetical protein   [Candidatus Saccharibacteria bacterium strain T-D-F_MAG_00008 | 2026720.132]
+#matched_seq:	20739	CP001682	Cryptobacterium curtum DSM 15641, complete genome.	Coriobacteridae	hypothetical protein	ACU94514	Yes	100.0
+

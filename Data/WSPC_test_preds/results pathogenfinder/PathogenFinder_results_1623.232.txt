@@ -1,0 +1,53 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_202027_277958_input.fsa
+Sequences ::	 2366
+Total bpp ::	 619909
+Longest seq ::	 3118
+Shortest seq ::	 24
+Avg seq lenght ::	 262.0
+
+RESULTS:
+Min Identity Threshold ::	90.048
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-15.011
+Probability of being human pathogen ::	0.269
+Matches::	11
+Genome Coverage (%) ::	0.46
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	10
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1623.232.peg.1744   hypothetical protein   [Lactobacillus ruminis strain BIOML-A15 | 1623.232]
+#matched_seq:	18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	Actinobacteridae	Hypothetical protein	ACD98284	No	99.06
+
+#input_seq:	fig|1623.232.peg.1754|GKC98_10150   hypothetical protein   [Lactobacillus ruminis strain BIOML-A15 | 1623.232]
+#matched_seq:	18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	Actinobacteridae	Transposase	ACD98857	No	98.77
+
+#input_seq:	fig|1623.232.peg.1752|GKC98_10145   Mobile element protein   [Lactobacillus ruminis strain BIOML-A15 | 1623.232]
+#matched_seq:	18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	Actinobacteridae	Transposase	ACD99247	No	99.47
+
+#input_seq:	fig|1623.232.peg.1822|GKC98_10525   transposase   [Lactobacillus ruminis strain BIOML-A15 | 1623.232]
+#matched_seq:	15766	CP000705	Lactobacillus reuteri DSM 20016, complete genome.	Lactobacillales	transposase, IS605 OrfB family	ABQ82348	No	96.77
+
+#input_seq:	fig|1623.232.peg.1777|GKC98_10350   hypothetical protein   [Lactobacillus ruminis strain BIOML-A15 | 1623.232]
+#matched_seq:	18773	AF538868	Bifidobacterium longum DJO10A plasmid pDOJH10L, complete sequence.	Actinobacteridae	RepA	AAN15150	No	100.0
+
+#input_seq:	fig|1623.232.peg.857|GKC98_07980   Methionine aminopeptidase (EC 3.4.11.18)   [Lactobacillus ruminis strain BIOML-A15 | 1623.232]
+#matched_seq:	43535	CP002034	Lactobacillus salivarius CECT 5713, complete genome.	Lactobacillales	Methionine aminopeptidase	ADJ79319	No	91.63
+
+#input_seq:	fig|1623.232.peg.1755|GKC98_10155   Transposase   [Lactobacillus ruminis strain BIOML-A15 | 1623.232]
+#matched_seq:	18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	Actinobacteridae	DNA replication protein	ACD98442	No	99.62
+
+#input_seq:	fig|1623.232.peg.1751|GKC98_10140   Mobile element protein   [Lactobacillus ruminis strain BIOML-A15 | 1623.232]
+#matched_seq:	18773	CP000605	Bifidobacterium longum DJO10A, complete genome.	Actinobacteridae	DNA replication protein	ACD97472	No	100.0
+
+#input_seq:	fig|1623.232.peg.1596|GKC98_02155   IstB domain protein ATP-binding protein   [Lactobacillus ruminis strain BIOML-A15 | 1623.232]
+#matched_seq:	19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	Lactobacillales	putative helper protein	BAG25795	No	90.91
+
+#input_seq:	fig|1623.232.peg.1089|GKC98_08990   Mobile element protein   [Lactobacillus ruminis strain BIOML-A15 | 1623.232]
+#matched_seq:	19011	AP007281	Lactobacillus reuteri JCM 1112 DNA, complete genome.	Lactobacillales	transposase	BAG24586	No	96.69
+
+#input_seq:	fig|1623.232.peg.53|GKC98_05260   SSU ribosomal protein S19p (S15e)   [Lactobacillus ruminis strain BIOML-A15 | 1623.232]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	SSU ribosomal protein S19P	ABP89047	Yes	90.22
+

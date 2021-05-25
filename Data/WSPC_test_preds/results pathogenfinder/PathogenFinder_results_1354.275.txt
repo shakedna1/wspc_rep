@@ -1,0 +1,26 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_160503_497463_input.fsa
+Sequences ::	 2665
+Total bpp ::	 802944
+Longest seq ::	 2254
+Shortest seq ::	 24
+Avg seq lenght ::	 301.0
+
+RESULTS:
+Min Identity Threshold ::	85.076
+Z-THRESHOLD ::	3.0
+Prediction Score ::	6.995
+Probability of being human pathogen ::	0.904
+Matches::	2
+Genome Coverage (%) ::	0.08
+Pathogenic Families Matched ::	2
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1354.275.peg.993|GUI79_03000   SSU ribosomal protein S19p (S15e)   [Enterococcus hirae strain BIOML-A52 | 1354.275]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	SSU ribosomal protein S19P	ABP89047	Yes	93.48
+
+#input_seq:	fig|1354.275.peg.989|GUI79_02980   LSU ribosomal protein L29p (L35e)   [Enterococcus hirae strain BIOML-A52 | 1354.275]
+#matched_seq:	70	AE016830	Enterococcus faecalis V583, complete genome.	Lactobacillales	ribosomal protein L29	AAO80083	Yes	95.16
+

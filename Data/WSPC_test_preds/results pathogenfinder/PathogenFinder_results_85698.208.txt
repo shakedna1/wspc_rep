@@ -1,0 +1,65 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_074748_843414_input.fsa
+Sequences ::	 6338
+Total bpp ::	 1978194
+Longest seq ::	 4887
+Shortest seq ::	 21
+Avg seq lenght ::	 312.0
+
+RESULTS:
+Min Identity Threshold ::	81.966
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-18.143
+Probability of being human pathogen ::	0.324
+Matches::	15
+Genome Coverage (%) ::	0.24
+Pathogenic Families Matched ::	4
+Non-Pathogenic Families Matched ::	11
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|85698.208.peg.964|GND97_06460   Isocitrate dehydrogenase [NADP] (EC 1.1.1.42)   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	isocitrate dehydrogenase (NADP)	ABM42459	No	86.36
+
+#input_seq:	fig|85698.208.peg.2654|GND97_29700   (2R)-sulfolactate sulfo-lyase subunit beta (EC 4.4.1.24)   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	Betaproteobacteria	Altronate dehydratase	ACS20433	No	82.35
+
+#input_seq:	fig|85698.208.peg.2288|GND97_28785   EBNA-1 nuclear protein   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	13953	CP000570	Burkholderia pseudomallei 668 chromosome I, complete sequence.	Betaproteobacteria	conserved hypothetical protein	ABN84188	Yes	82.37
+
+#input_seq:	fig|85698.208.peg.742|GND97_06120   Glycerol ABC transporter, permease protein GlpP   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	29975	CP001392	Acidovorax ebreus TPSY, complete genome.	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ACM31862	No	84.8
+
+#input_seq:	fig|85698.208.peg.5109|GND97_17000   Transcriptional regulator, AraC family   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	10695	CP000150	Burkholderia sp. 383 chromosome 3, complete sequence.	Betaproteobacteria	transcriptional regulator, AraC family	ABB06339	Yes	87.73
+
+#input_seq:	fig|85698.208.peg.4628|GND97_15200   ABC transporter, ATP-binding protein (cluster 10, nitrate/sulfonate/bicarbonate)   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	Betaproteobacteria	ABC transporter related	ACS16931	No	90.2
+
+#input_seq:	fig|85698.208.peg.4635|GND97_15235   Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	297	AE008923	Xanthomonas axonopodis pv. citri str. 306, complete genome.	Gammaproteobacteria	oxidoreductase	AAM35428	No	85.51
+
+#input_seq:	fig|85698.208.peg.4251|GND97_13945   ABC transporter, permease protein 2 (cluster 5, nickel/peptides/opines)   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	30453	CP001636	Variovorax paradoxus S110 chromosome 2, complete sequence.	Betaproteobacteria	binding-protein-dependent transport systems inner membrane component	ACS22521	No	83.88
+
+#input_seq:	fig|85698.208.peg.918|GND97_25095   ABC transporter, permease protein (cluster 3, basic aa/glutamine/opines)   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	30453	CP001635	Variovorax paradoxus S110 chromosome 1, complete sequence.	Betaproteobacteria	polar amino acid ABC transporter, inner membrane subunit	ACS19500	No	85.07
+
+#input_seq:	fig|85698.208.peg.2126|GND97_00545   LSU ribosomal protein L14p (L23e)   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	13919	CP000378	Burkholderia cenocepacia AU 1054 chromosome 1, complete sequence.	Betaproteobacteria	LSU ribosomal protein L14P	ABF77647	Yes	87.7
+
+#input_seq:	fig|85698.208.peg.3704|GND97_12070   LSU ribosomal protein L28p @ LSU ribosomal protein L28p, zinc-independent   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	13946	CP000548	Burkholderia mallei NCTC 10247 chromosome I, complete sequence.	Betaproteobacteria	50S ribosomal protein L28	ABO05945	Yes	83.33
+
+#input_seq:	fig|85698.208.peg.5041|GND97_03670   NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	13	AL646052	Ralstonia solanacearum GMI1000 chromosome complete sequence.	Betaproteobacteria	probable nadh dehydrogenaseI(chain b) oxidoreductase protein	CAD15768	No	84.81
+
+#input_seq:	fig|85698.208.peg.359|GND97_23105   RidA/YER057c/UK114 superfamily protein   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	267	AE015451	Pseudomonas putida KT2440 complete genome.	Gammaproteobacteria	endoribonuclease, putative	AAN67860	No	87.2
+
+#input_seq:	fig|85698.208.peg.4188|GND97_13630   Transcriptional regulator, ArsR family   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	19575	CU234118	Bradyrhizobium sp. ORS278,complete sequence.	Alphaproteobacteria	putative transcriptional regulatory protein, ArsR family	CAL74463	No	82.69
+
+#input_seq:	fig|85698.208.peg.1910|GND97_28200   DNA-damage-inducible protein J   [Achromobacter xylosoxidans strain DN2019 | 85698.208]
+#matched_seq:	15685	CP000539	Acidovorax sp. JS42, complete genome.	Betaproteobacteria	addiction module antitoxin, RelB/DinJ family	ABM42403	No	83.67
+

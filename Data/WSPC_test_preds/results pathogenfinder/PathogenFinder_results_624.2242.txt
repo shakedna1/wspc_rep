@@ -1,0 +1,650 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_134841_572559_input.fsa
+Sequences ::	 4924
+Total bpp ::	 1327316
+Longest seq ::	 1653
+Shortest seq ::	 14
+Avg seq lenght ::	 269.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	772.671
+Probability of being human pathogen ::	0.889
+Matches::	210
+Genome Coverage (%) ::	4.26
+Pathogenic Families Matched ::	209
+Non-Pathogenic Families Matched ::	1
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|624.2242.peg.1|G7L48_15295   adherence and invasion outermembrane protein (binds collagen,fibronectin and laminins,provides protection against antimicrobial polypeptides)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative adhesin	AAZ90345	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.591|G7L48_17340   Per-activated serine protease autotransporter enterotoxin EspC / autotransporter domain, T5aSS type secretion   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	serine protease	AAZ89804	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2625   Protein RhsD   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	rhs core protein with extension	AAZ88367	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1928   Protein RhsB   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	rhsB protein in rhs element	ABB63745	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3743|G7L48_10965   Phage tail fiber, side tail fiber protein Stf   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	phage protein-related	AAZ89051	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1733|G7L48_20675   Protein RhsB   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	rhsB protein in rhs element	AAZ90355	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.89|G7L48_15710   no significant similarities   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative membrane protein	AAZ87750	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2936   Multidrug efflux system AcrEF-TolC, inner-membrane proton/drug antiporter AcrF (RND type)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	putative integral transmembrane protein	BAB37561	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3411|G7L48_09740   PTS system, maltose and glucose-specific IIC component / PTS system, maltose and glucose-specific IIB component (EC 2.7.1.208)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	Phosphotransferase system enzyme IIBC component	AAZ90183	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1986|G7L48_21310   Putative glycosyl hydrolase of unknown function (DUF1680)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical protein	AAZ88003	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2114|G7L48_21765   unknown protein encoded within prophage CP-933V   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	unknown protein encoded within prophage	AAZ88564	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3352|G7L48_09480   invasion plasmid antigen / internalin, putative   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	invasion plasmid antigen	ABB62796	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2853|G7L48_23000   invasion plasmid antigen / internalin, putative   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	invasion plasmid antigen	AAZ89269	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2806   invasion plasmid antigen / internalin, putative   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	invasion plasmid antigen	ABB66663	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4850   invasion plasmid antigen / internalin, putative   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	invasion plasmid antigen	AAZ87985	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2675   invasion plasmid antigen / internalin, putative   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	invasion plasmid antigen	AAZ88030	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1425|G7L48_05060   Protein Smp   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	putative lipoate-protein ligase A	BAB38768	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2635   invasion plasmid antigen / internalin, putative   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	invasion plasmid antigen	AAZ88830	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.479|G7L48_17015   NAD kinase (EC 2.7.1.23)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4484|G7L48_02415   Hypothetical protein YhiL   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ90271	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.762|G7L48_17925   DNA helicase (EC 3.6.4.12), phage-associated   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative helicase	AAZ89406	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1891|G7L48_21065   Uncharacterized protein YpjB   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ89410	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4937|G7L48_02915   Peptidase B (EC 3.4.11.23)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative peptidase	AAZ89233	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.43|G7L48_15505   Type VI secretion-related protein VasL   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ87018	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4687|G7L48_02550   Putative cryptic C4-dicarboxylate transporter DcuD   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative transport protein	AAZ89941	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.921|G7L48_18460   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16259	CP000244	Escherichia coli UTI89 plasmid pUTI89, complete sequence.	Gammaproteobacteria	enterotoxin TieB protein	ABE10606	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2074|G7L48_21560   Sucrose permease, major facilitator superfamily   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	sucrose permease	AAZ89091	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.73|G7L48_15640   no significant similarities   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ89307	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.74|G7L48_15645   Mobile element protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	IS91 ORF	AAZ89306	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4694|G7L48_02585   Mobile element protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33639	CP001383	Shigella flexneri 2002017, complete genome.	Gammaproteobacteria	IS600 orf	ADA75581	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2678|G7L48_22730   IS, phage, Tn; Transposon-related functions   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative tail fiber protein	AAZ89358	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2183   Putative oxidoreductase YncB   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative oxidoreductase	AAZ88380	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2195   Sugar efflux transporter A   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative transport protein	AAZ86871	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1336|G7L48_19720   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative bacteriophage protein	AAZ87486	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4558|G7L48_13910   Phage integrase   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative phage integrase protein	AAZ88023	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4669   Uncharacterized protein YgeA of aspartate/glutamate/hydantoin racemase family   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33415	CU928163	Escherichia coli UMN026 chromosome, complete genome.	Gammaproteobacteria	putative racemase	CAR14333	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.490|G7L48_17065   Diguanylate cyclase (EC 2.7.7.65) => DgcN   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ89378	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2173|G7L48_21865   Multidrug resistance protein MdtG   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative transport protein	AAZ87793	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2906|G7L48_08155   Malate dehydrogenase (EC 1.1.1.37)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	malate dehydrogenase	ABE09111	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3397|G7L48_09680   Outer membrane porin for chitooligosaccharides ChiP   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Gammaproteobacteria	hypothetical protein	AAG55004	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.98|G7L48_15745   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical protein	AAZ87752	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3472|G7L48_10025   Uncharacterized fimbrial-like protein YraK   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative fimbrial protein	AAZ89866	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3273|G7L48_23415   Phage tail fiber protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative phage tail fiber protein	AAZ87983	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3711|G7L48_10810   NMN phosphatase (EC 3.1.3.5); Class B acid phosphatase precursor (EC 3.1.3.2)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	diadenosine tetraphosphatase	ABF06143	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4739|G7L48_02810   COG4584: Transposase and inactivated derivatives   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000039	Shigella sonnei Ss046 plasmid pS	Gammaproteobacteria	46, complete sequence.	AAZ91183	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3690|G7L48_10715   Protein YrdA   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV21201	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3799|G7L48_11220   Oxidoreductase UcpA   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative oxidoreductase	AAZ89146	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4539|G7L48_13825   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical protein	AAZ88006	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2897|G7L48_23055   Transposase IS116/IS110/IS902   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative transposase	AAZ86814	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1799|G7L48_20820   Phage integrase   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative integrase fragment	AAZ87495	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2456|G7L48_07110   Transposase InsG for insertion sequence element IS4   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	IS4 ORF	ABB66981	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3024   Transposase   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	IS600 ORF2	ABB64513	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.590|G7L48_17335   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACD08264	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4738|G7L48_02805   Transposase   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	IS21 ORF2	AAZ86816	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2037|G7L48_06075   Uncharacterized protein YadU in stf fimbrial cluster   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ89033	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1224|G7L48_19390   Transposase InsD for insertion element IS2   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33639	CP001383	Shigella flexneri 2002017, complete genome.	Gammaproteobacteria	IS2 orfB	ADA72856	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1473|G7L48_20135   Transcriptional regulator, AraC family   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	putative transcription regulator	BAB33710	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.837|G7L48_18275   Putative uncharacterized phage-associated protein, YdaW family   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	unknown prophage protein	AAZ88280	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3350   Transposase InsD for insertion element IS2   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	IS2 ORF2	ABB61907	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.91|G7L48_15720   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical protein	AAZ87751	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2156|G7L48_21780   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical protein	AAZ88590	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3192|G7L48_01315   IS1 protein InsB   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33639	CP001383	Shigella flexneri 2002017, complete genome.	Gammaproteobacteria	IS1 ORF2	ADA74134	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4675|G7L48_14470   Uncharacterized protein YqeH   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ89600	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2552|G7L48_00600   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	9618	AY509004	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67 plasmid pSC138, complete sequence.	Gammaproteobacteria	TraM-like protein	AAS76355	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1803|G7L48_20840   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ86820	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3390|G7L48_09645   SeqA protein, negative modulator of initiation of replication   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	313	AE014075	Escherichia coli CFT073, complete genome.	Gammaproteobacteria	SeqA protein	AAN79247	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2334|G7L48_22280   FIG00639676: hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ88463	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.948   IS1 protein InsB   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS1 transposase orfB	ACD08350	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2306|G7L48_06730   UPF0234 protein Yitk   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein	ABE05950	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3591|G7L48_01645   HTH-type transcriptional regulator MlrA   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative transcriptional regulator	AAZ88834	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2596|G7L48_00795   FIG01048970: hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	20045	CP001118	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 plasmid pSL47	Gammaproteobacteria	1, complete sequence.	ACF65707	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3072|G7L48_23280   Putative transposon or IS (ACLAME 583)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33639	CP001383	Shigella flexneri 2002017, complete genome.	Gammaproteobacteria	Hypothetical bacteriophage protein	ADA73237	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2033|G7L48_06055   Periplasmic fimbrial chaperone StfD   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative chaperone	AAZ89036	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3807|G7L48_11260   Transposase InsG for insertion sequence element IS4   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	IS4 ORF	AAZ88221	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2679|G7L48_22735   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical bacteriophage protein	AAZ87984	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4817|G7L48_14820   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical bacteriophage protein	AAZ88441	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2543|G7L48_00555   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	20045	CP001118	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 plasmid pSL47	Gammaproteobacteria	1, complete sequence.	ACF65792	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2034|G7L48_06060   Minor fimbrial subunit StfE   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	putative minor fimbrial subunit	CAU98448	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3693|G7L48_10725   Chorismate--pyruvate lyase (EC 4.1.3.40)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	chorismate lyase	AAZ90717	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3311|G7L48_23470   Mobile element protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	32513	AP010960	Escherichia coli O111:H- str. 11128 DNA, complete genome.	Gammaproteobacteria	putative IS609 transposase TnpA	BAI38738	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4351|G7L48_13255   IS1 protein InsB   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS1 protein InsB	ACD09517	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3700|G7L48_10760   Zinc uptake regulation protein Zur   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative regulator	AAZ90724	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2869|G7L48_08055   UPF0304 protein yfbU   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	313	AE014075	Escherichia coli CFT073, complete genome.	Gammaproteobacteria	Protein yfbU	AAN81289	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.131   Cytochrome b561 homolog 1   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	putative cytochrome	ABB65687	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.420|G7L48_16730   Putative transferase   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative transferase	AAZ87115	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1719|G7L48_20615   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical protein	AAZ88593	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1321|G7L48_19645   Phage tail tip, assembly protein I   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative tail component of prophage	AAZ88450	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3789|G7L48_11175   Acetyltransferase YpeA   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB62686	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1713|G7L48_20590   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	15637	CP001060	Shigella boydii CDC 3083-94 plasmid pBS51	Gammaproteobacteria	, complete sequence.	ACD06042	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2317|G7L48_22195   Toxin HigB / Protein kinase domain of HipA   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	protein HipA	ACD07124	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2548|G7L48_00580   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	20045	CP001118	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 plasmid pSL47	Gammaproteobacteria	1, complete sequence.	ACF65738	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4216|G7L48_02135   Predicted chaperone lipoprotein YacC, potentially involved in protein secretion   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABE05645	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1951|G7L48_05925   Periplasmic protein CpxP   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	periplasmic protein CpxP	ACD09422	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1341|G7L48_19735   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Gammaproteobacteria	orf, conserved hypothetical protein	AAN42311	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.475|G7L48_17000   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ90150	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1580|G7L48_00035   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical protein	AAZ88711	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1061|G7L48_18865   DNA recombination protein RmuC   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	32571	FM180570	Escherichia coli 0127:H6 E2348/69 plasmid pE2348-2, strain E2348/69.	Gammaproteobacteria	entry exclusion protein 1	CAS07431	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3742   Phage-encoded host-cell envelope protein Lom   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative outer membrane protein	AAZ89052	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1816|G7L48_20895   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Gammaproteobacteria	orf, hypothetical protein	AAN43570	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.858|G7L48_04070   Hydrogenase-4 maturation protease   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative protein processing element	AAZ89200	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.532|G7L48_03610   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ87288	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1335|G7L48_19715   Phage protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	310	AE005674	Shigella flexneri 2a str. 301, complete genome.	Gammaproteobacteria	putative bacteriophage protein	AAN42304	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2270|G7L48_06565   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ87146	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2892   Transposase InsC for insertion element IS2   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	IS2 ORF1	ABF05870	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4070|G7L48_12195   PTS system, N,N'-diacetylchitobiose-specific IIA component (EC 2.7.1.196)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	PEP-dependent phosphotransferase enzyme III	ABF03671	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1523|G7L48_20375   DsORF-h1   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	dsORF-h1	AAZ87042	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.719|G7L48_03955   Protein ygiW precursor   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABE08896	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1442|G7L48_05135   Ribosomal-protein-S18p-alanine acetyltransferase (EC 2.3.1.128)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	32511	AP010958	Escherichia coli O103:H2 str. 12009 DNA, complete genome.	Gammaproteobacteria	acetylase for 30S ribosomal subunit protein S18	BAI33833	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3353|G7L48_09485   Phage DNA invertase   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	DNA-invertase	ABB62795	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1977   Uncharacterized protein YgeF   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ89603	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1732|G7L48_20670   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	30045	CP001368	Escherichia coli O157:H7 str. TW14359, complete genome.	Gammaproteobacteria	hypothetical protein	ACT74311	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3852   Transposase InsC for insertion element IS2   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	IS2 ORF1	AAZ86942	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2521|G7L48_00450   FIG01046738: hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	9618	AY509004	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67 plasmid pSC138, complete sequence.	Gammaproteobacteria	YdfA	AAS76392	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2891   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33639	CP001383	Shigella flexneri 2002017, complete genome.	Gammaproteobacteria	Insertion element IS2 putative protein	ADA73184	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1591|G7L48_00090   Propanediol utilization polyhedral body protein PduK   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative propanediol utilization protein: polyhedral bodies	AAZ88722	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.852|G7L48_18345   Inner membrane protein YbcI   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ87266	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2802|G7L48_22935   Mobile element protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical protein	AAZ87954	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4031|G7L48_12020   T6SS lysozyme-like component TssE   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV16805	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4213|G7L48_02120   UPF0231 protein YacL   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB60266	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2115|G7L48_06210   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ87206	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1284|G7L48_04790   PTS-regulatory domain-containing protein YhfY   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB67856	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1070|G7L48_18920   plasmid replication initiation protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	32571	FM180570	Escherichia coli 0127:H6 E2348/69 plasmid pE2348-2, strain E2348/69.	Gammaproteobacteria	probable plasmid replication initiation protein	CAS07434	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1528   UPF0387 membrane protein YohO   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Gammaproteobacteria	hypothetical protein	AAG57802	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3729|G7L48_10895   Phage head, DNA packaging protein FI   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative DNA-packaging protein	AAZ89065	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4461|G7L48_02305   Uncharacterized protein YhhL   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33375	CU928161	Escherichia coli S88 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR05081	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1800   Transposase IS116/IS110/IS902   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical protein	AAZ86817	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4718|G7L48_02705   Phospholipid ABC transporter-binding protein MlaB   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB63363	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1062|G7L48_18870   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	32571	FM180570	Escherichia coli 0127:H6 E2348/69 plasmid pE2348-2, strain E2348/69.	Gammaproteobacteria	predicted protein	CAS07430	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2689|G7L48_22775   Transposase   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	IS629 ORF2	AAZ90146	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4623|G7L48_14215   PTS system, fructose-like IIB component FryB   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	putative PTS system IIB component YpdH	ABE08185	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4422|G7L48_13585   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAU96314	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2333|G7L48_22275   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABE10488	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2335|G7L48_22285   Phage ea22 protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	unknown protein encoded within prophage	AAZ88462	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.317|G7L48_16495   Antitoxin HigA   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB66191	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3527|G7L48_01345   LSU ribosomal protein L25p   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	50S ribosomal subunit protein L25	ABF04379	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3030   Mobile element protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Gammaproteobacteria	transposase (fragment)	CAR18788	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1472|G7L48_20130   Transposase InsD for insertion element IS2   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	IS2 ORF2	AAZ89049	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3271   Transposase   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	259	AE005174	Escherichia coli O157:H7 EDL933, complete genome.	Gammaproteobacteria	putative IS encoded protein	AAG55927	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1445|G7L48_05165   Putative inner membrane protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	putative inner membrane protein	ABB68839	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1483|G7L48_20195   Phage protein (ACLAME 31)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	40647	FN554766	Escherichia coli 042 complete genome.	Gammaproteobacteria	putative phage protein	CBG34156	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2528|G7L48_00485   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000797	Escherichia coli E24377A plasmid pETE	Gammaproteobacteria	3, complete sequence.	ABV16316	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2529|G7L48_00490   Relaxosome component   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	9618	AY509004	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67 plasmid pSC138, complete sequence.	Gammaproteobacteria	relaxosome component	AAS76382	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1235|G7L48_19445   Uncharacterized proteins YbdD and YjiX   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAV02134	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.382|G7L48_03515   Uncharacterized protein YtcA   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	formate dehydrogenase H	AAZ90759	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1477   Phage protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	conserved predicted protein	BAI24782	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.380|G7L48_03505   D-allose-6-phosphate isomerase (EC 5.3.1.-) @ Ribose-5-phosphate isomerase B (EC 5.3.1.6)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	ribose 5-phosphate isomerase B	ABB68545	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2597|G7L48_00800   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	20045	CP001118	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 plasmid pSL47	Gammaproteobacteria	1, complete sequence.	ACF65772	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1675|G7L48_20435   Putative transposon or IS (ACLAME 583)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	30045	CP001368	Escherichia coli O157:H7 str. TW14359, complete genome.	Gammaproteobacteria	hypothetical protein	ACT71605	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3189|G7L48_01300   DNA-damage-inducible protein I   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein	ABE06668	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1456|G7L48_20055   IncF plasmid conjugative transfer pilin protein TraA   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conjugative transfer: fimbrial subunit	AAZ89300	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3022   Insertion element IS600 (Shigella sonnei) transposase   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13146	CP000036	Shigella boydii Sb227, complete genome.	Gammaproteobacteria	IS600 ORF1	ABB66217	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1042|G7L48_18785   mRNA interferase YafQ   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ87051	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4772   Uncharacterized protein YjfY   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ90864	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3505|G7L48_10190   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000039	Shigella sonnei Ss046 plasmid pS	Gammaproteobacteria	46, complete sequence.	AAZ91067	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3021|G7L48_23200   Phage tail fiber assembly protein Mup50, U   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical bacteriophage protein	AAZ88828	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2522|G7L48_00455   YDFB protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000797	Escherichia coli E24377A plasmid pETE	Gammaproteobacteria	3, complete sequence.	ABV16337	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2162|G7L48_21810   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ89279	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2020|G7L48_21470   IS, phage, Tn; Transposon-related functions   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative bacteriophage protein	AAZ87975	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.761|G7L48_17920   IS, phage, Tn; Transposon-related functions   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative bacteriophage protein	AAZ89405	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2236|G7L48_21995   Phage protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	putative bacteriophage protein	AAZ89076	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2735|G7L48_22800   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	32509	AP010953	Escherichia coli O26:H11 str. 11368 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAI28594	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4106|G7L48_12360   Small inner membrane protein, YmgF family   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	Small toxic polypeptide ldrD (modular protein)	CAQ91001	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2525|G7L48_00470   FIG00642528: hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	32509	AP010954	Escherichia coli O26:H11 str. 11368 plasmid pO2	Gammaproteobacteria	DNA, complete sequence.	BAI28773	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2535|G7L48_00520   FIG01047460: hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	20045	CP001118	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 plasmid pSL47	Gammaproteobacteria	1, complete sequence.	ACF65757	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2602|G7L48_00825   FIG00640646: hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	20045	CP001118	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 plasmid pSL47	Gammaproteobacteria	1, complete sequence.	ACF65768	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4899|G7L48_15210   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV19978	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4950|G7L48_02980   Uncharacterized protein YfgJ   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ89220	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1029|G7L48_04440   MgtA leader peptide   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16235	CP000247	Escherichia coli 536, complete genome.	Gammaproteobacteria	putative membrane protein	ABG72432	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2134|G7L48_06300   Haemolysin expression modulating protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hemolysin expression modulating protein	ABE05988	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1847|G7L48_05685   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	hypothetical protein	AAZ87440	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.877|G7L48_04165   UPF0370 protein YpfN   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	putative membrane protein	ABB62708	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4034|G7L48_12030   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ87037	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3848|G7L48_11450   D-serine permease DsdX   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	D-serine permease	ABB62626	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2332|G7L48_22270   FIG00639394: hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ88464	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1174|G7L48_04670   UPF0509 protein YciZ   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33411	CU928164	Escherichia coli IAI39 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR17757	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1383|G7L48_19915   Phage tail, tail length tape-measure protein H   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	unknown protein encoded within prophage	AAZ88577	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3463   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted protein	CAS09488	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2538|G7L48_00530   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	20045	CP001118	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476 plasmid pSL47	Gammaproteobacteria	1, complete sequence.	ACF65739	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2418   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ88642	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.406|G7L48_16675   beta-lactam resistance protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	beta-lactam resistance membrane protein	CAU97644	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2025|G7L48_21505   unknown protein encoded within prophage CP-933V   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	conserved hypothetical protein	AAZ87972	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1186|G7L48_04725   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAU97293	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4431   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	hypothetical protein	ACD08838	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.547|G7L48_03685   HokE protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16235	CP000247	Escherichia coli 536, complete genome.	Gammaproteobacteria	hypothetical protein (Hok/Gef family domain)	ABG68641	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1468   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABV16481	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1484|G7L48_20200   Phage EaA protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	40647	FN554766	Escherichia coli 042 complete genome.	Gammaproteobacteria	putative phage protein	CBG34155	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1034|G7L48_04465   PyrBI operon leader peptide   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	43693	CP001969	Escherichia coli IHE3034, complete genome.	Gammaproteobacteria	pyrBI operon leader peptide	ADE88876	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3012|G7L48_08585   Arylsulfatase (EC 3.1.6.1)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	arylsulfatase, truncation	ABV21092	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.480   NAD kinase (EC 2.7.1.23)   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	ACD09092	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.220|G7L48_16045   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	30045	CP001368	Escherichia coli O157:H7 str. TW14359, complete genome.	Gammaproteobacteria	hypothetical protein	ACT71473	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1861|G7L48_05745   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAR06896	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.982   FIG00640293: hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	33413	CU928145	Escherichia coli 55989 chromosome, complete genome.	Gammaproteobacteria	conserved hypothetical protein	CAU97021	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.176   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV18579	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1059|G7L48_18860   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000798	Escherichia coli E24377A plasmid pETE	Gammaproteobacteria	, complete sequence.	ABV16377	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4037   FIG00639406: hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV19158	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2767|G7L48_07710   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV17584	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3936   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV20213	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.336   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV17187	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2191   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV20422	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1746   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	hypothetical protein	ACD07879	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1856   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACD08588	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3999|G7L48_11880   Uncharacterized protein YqgB   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	32571	FM180568	Escherichia coli 0127:H6 E2348/69 complete genome, strain E2348/69.	Gammaproteobacteria	predicted protein	CAS10740	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.228   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV19276	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.2381   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV21071	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.3809   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	hypothetical protein	ABE08951	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.254   hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	hypothetical protein	ACD07318	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.4360   FIG00640315: hypothetical protein   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	hypothetical protein	ABV19558	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.682|G7L48_17790   Very hypothetical fruR/shl operon leader peptide   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	FruR leader peptide	ABE05597	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.1407|G7L48_04975   Thr operon leader peptide   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	thr operon leader peptide	BAB33424	Yes	100.0
+
+#input_seq:	fig|624.2242.peg.880|G7L48_04180   protein YpfM   [Shigella sonnei strain 7109.28 | 624.2242]
+#matched_seq:	225	U00096	Escherichia coli str. K-12 substr. MG1655, complete genome.	Gammaproteobacteria	hypothetical protein	ABP93450	No	100.0
+

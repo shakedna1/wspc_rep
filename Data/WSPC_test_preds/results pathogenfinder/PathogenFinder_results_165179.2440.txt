@@ -1,0 +1,32 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_092615_632420_input.fsa
+Sequences ::	 3620
+Total bpp ::	 1099509
+Longest seq ::	 3034
+Shortest seq ::	 26
+Avg seq lenght ::	 303.0
+
+RESULTS:
+Min Identity Threshold ::	90.005
+Z-THRESHOLD ::	3.0
+Prediction Score ::	11.358
+Probability of being human pathogen ::	0.849
+Matches::	4
+Genome Coverage (%) ::	0.11
+Pathogenic Families Matched ::	4
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|165179.2440.peg.1890|EP152_08110   Integrase   [Prevotella copri strain P2B-2 | 165179.2440]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	transposase	ABR41345	Yes	100.0
+
+#input_seq:	fig|165179.2440.peg.3432|EP152_14670   Integrase   [Prevotella copri strain P2B-2 | 165179.2440]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	integrase	ABR41344	Yes	99.26
+
+#input_seq:	fig|165179.2440.peg.1898|EP152_08150   Mobilization protein BmgA   [Prevotella copri strain P2B-2 | 165179.2440]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	mobilization protein BmgA	ABR41337	Yes	91.14
+
+#input_seq:	fig|165179.2440.peg.1462|EP152_06200   hypothetical protein   [Prevotella copri strain P2B-2 | 165179.2440]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR41343	Yes	98.33
+

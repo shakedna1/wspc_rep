@@ -1,0 +1,206 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_133817_430871_input.fsa
+Sequences ::	 4776
+Total bpp ::	 1450027
+Longest seq ::	 3603
+Shortest seq ::	 14
+Avg seq lenght ::	 303.0
+
+RESULTS:
+Min Identity Threshold ::	94.808
+Z-THRESHOLD ::	3.0
+Prediction Score ::	234.314
+Probability of being human pathogen ::	0.873
+Matches::	62
+Genome Coverage (%) ::	1.3
+Pathogenic Families Matched ::	58
+Non-Pathogenic Families Matched ::	4
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|35703.89.peg.31|GT689_19470   DNA polymerase III alpha subunit (EC 2.7.7.7)   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	16645	CP000309	Yersinia pestis Antiqua plasmid pMT, complete sequence.	Gammaproteobacteria	DNA polymerase III	ABG16195	Yes	95.9
+
+#input_seq:	fig|35703.89.peg.4716|GT689_18965   Hydroxyaromatic non-oxidative decarboxylase protein C (EC 4.1.1.-)   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78633	Yes	98.11
+
+#input_seq:	fig|35703.89.peg.57|GT689_19595   Phage recombination related exonuclease (EC 3.1.11.-)   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Gammaproteobacteria	putative exonuclease subunit 2	AAS58684	Yes	96.71
+
+#input_seq:	fig|35703.89.peg.3789|GT689_14465   PTS system, maltose and glucose-specific IIC component / PTS system, maltose and glucose-specific IIB component (EC 2.7.1.208)   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	PTS system, maltose and glucose-specific IIABC component	ABE07287	Yes	95.85
+
+#input_seq:	fig|35703.89.peg.4599|GT689_18375   NAD kinase (EC 2.7.1.23)   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017	Yes	97.6
+
+#input_seq:	fig|35703.89.peg.1402|GT689_02985   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV12996	Yes	99.43
+
+#input_seq:	fig|35703.89.peg.2354|GT689_07495   Octaprenyl diphosphate synthase (EC 2.5.1.90)   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV15641	Yes	95.67
+
+#input_seq:	fig|35703.89.peg.2910|GT689_10220   Proton/glutamate symporter @ Proton/aspartate symporter   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Gammaproteobacteria	hypothetical protein	ABX23224	Yes	97.06
+
+#input_seq:	fig|35703.89.peg.115|GT689_19870   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Gammaproteobacteria	hypothetical protein	AAS58660	Yes	97.61
+
+#input_seq:	fig|35703.89.peg.791|GT689_00040   Na+ dependent nucleoside transporter NupC   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	Nucleoside permease NupC	ABE08191	Yes	98.0
+
+#input_seq:	fig|35703.89.peg.230|GT689_20455   6-phosphogluconolactonase (EC 3.1.1.31)   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV13490	Yes	97.58
+
+#input_seq:	fig|35703.89.peg.39|GT689_19510   Putative regulatory protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	288	AF074611	Yersinia pestis KIM plasmid pMT-1, complete sequence.	Gammaproteobacteria	putative regulator	AAC82768	Yes	95.0
+
+#input_seq:	fig|35703.89.peg.42|GT689_19525   RecA-like protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	98.88
+
+#input_seq:	fig|35703.89.peg.1142|GT689_01725   ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66384	Yes	97.66
+
+#input_seq:	fig|35703.89.peg.557|GT689_22115   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66430	Yes	96.5
+
+#input_seq:	fig|35703.89.peg.2311|GT689_07285   Malate dehydrogenase (EC 1.1.1.37)   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	malate dehydrogenase	ABE09111	Yes	96.47
+
+#input_seq:	fig|35703.89.peg.2779|GT689_09595   SSU ribosomal protein S2p (SAe)   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	98.76
+
+#input_seq:	fig|35703.89.peg.112|GT689_19855   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Gammaproteobacteria	hypothetical protein	AAS58663	Yes	97.97
+
+#input_seq:	fig|35703.89.peg.4438|GT689_17580   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	96.76
+
+#input_seq:	fig|35703.89.peg.44|GT689_19535   putative lipoprotein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Gammaproteobacteria	putative lipoprotein	AAS58697	Yes	96.38
+
+#input_seq:	fig|35703.89.peg.4750|GT689_19130   Transcriptional regulator, RpiR family   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	33409	CU928162	Escherichia coli ED1a chromosome, complete genome.	Gammaproteobacteria	putative Transcriptional regulator	CAR11105	Yes	97.08
+
+#input_seq:	fig|35703.89.peg.90|GT689_19750   Transposase   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	13960	CP000800	Escherichia coli E24377A, complete genome.	Gammaproteobacteria	transposition helper protein, IS21 family	ABV20617	Yes	99.24
+
+#input_seq:	fig|35703.89.peg.4598|GT689_18370   Heat shock protein GrpE   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV15009	Yes	94.92
+
+#input_seq:	fig|35703.89.peg.4246|GT689_16645   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	99.42
+
+#input_seq:	fig|35703.89.peg.110|GT689_19845   ABC transporter, ATP-binding protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Gammaproteobacteria	putative ABC transporter ATP-binding protein	AAS58665	Yes	96.71
+
+#input_seq:	fig|35703.89.peg.108|GT689_19835   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Gammaproteobacteria	hypothetical protein	AAS58667	Yes	95.09
+
+#input_seq:	fig|35703.89.peg.637|GT689_22510   Ethanolamine utilization polyhedral-body-like protein EutN   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	96.84
+
+#input_seq:	fig|35703.89.peg.2188|GT689_06685   Hexose-phosphate uptake two-component transcriptional response regulator UhpA   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV11187	Yes	96.45
+
+#input_seq:	fig|35703.89.peg.109|GT689_19840   DNA modification methylase   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	95.05
+
+#input_seq:	fig|35703.89.peg.102|GT689_19805   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	95.83
+
+#input_seq:	fig|35703.89.peg.114|GT689_19865   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	94.84
+
+#input_seq:	fig|35703.89.peg.899|GT689_00560   UPF0304 protein yfbU   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	313	AE014075	Escherichia coli CFT073, complete genome.	Gammaproteobacteria	Protein yfbU	AAN81289	Yes	95.73
+
+#input_seq:	fig|35703.89.peg.1787|GT689_04755   Translation elongation factor Tu   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Gammaproteobacteria	elongation factor Tu	ACX82119	Yes	98.65
+
+#input_seq:	fig|35703.89.peg.59|GT689_19605   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Gammaproteobacteria	hypothetical protein	AAS58682	Yes	95.77
+
+#input_seq:	fig|35703.89.peg.650|GT689_22575   Acetyltransferase YpeA   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX65938	Yes	97.16
+
+#input_seq:	fig|35703.89.peg.2366|GT689_07555   Protein translocase membrane subunit SecG   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX69431	Yes	95.45
+
+#input_seq:	fig|35703.89.peg.2898|GT689_10160   Holin-like protein CidA   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	19467	CP001144	Salmonella enterica subsp. enterica serovar Dublin str. C	Gammaproteobacteria	2021853, complete genome.	ACH77658	Yes	95.59
+
+#input_seq:	fig|35703.89.peg.1401|GT689_02980   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV12997	Yes	100.0
+
+#input_seq:	fig|35703.89.peg.3046|GT689_10890   Nitrite-sensitive transcriptional repressor NsrR   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	transcriptional repressor NsrR	ACF64326	Yes	95.04
+
+#input_seq:	fig|35703.89.peg.122|GT689_19905   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	97.45
+
+#input_seq:	fig|35703.89.peg.3012|GT689_10705   Heat shock protein 10 kDa family chaperone GroES   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	co-chaperonin GroES	ACN48531	Yes	100.0
+
+#input_seq:	fig|35703.89.peg.1941|GT689_05505   Nickel responsive regulator NikR   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	nickel responsive regulator	ACN47734	Yes	98.5
+
+#input_seq:	fig|35703.89.peg.38|GT689_19505   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	236	XXX	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Gammaproteobacteria	XXX		Yes	95.1
+
+#input_seq:	fig|35703.89.peg.3754   Anaerobic dimethyl sulfoxide reductase chain B (EC 1.8.5.3), iron-sulfur binding subunit   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	anaerobic dimethyl sulfoxide reductase, subunit B	AAX65420	Yes	100.0
+
+#input_seq:	fig|35703.89.peg.4580|GT689_18280   Ribosome-associated inhibitor A   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14991	Yes	99.11
+
+#input_seq:	fig|35703.89.peg.4085|GT689_15880   YcfF/hinT protein: a purine nucleoside phosphoramidase   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	42729	CP001846	Escherichia coli O55:H7 str. CB9615, complete genome.	Gammaproteobacteria	hypothetical protein	ADD55957	Yes	96.67
+
+#input_seq:	fig|35703.89.peg.3094|GT689_11130   Uncharacterized protein STM4441   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACX86741	No	97.5
+
+#input_seq:	fig|35703.89.peg.3213|GT689_11695   Uncharacterized proteins YbdD and YjiX   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14524	Yes	100.0
+
+#input_seq:	fig|35703.89.peg.125|GT689_19920   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Gammaproteobacteria	hypothetical protein	AAS58649	Yes	98.1
+
+#input_seq:	fig|35703.89.peg.150|GT689_20040   Uncharacterized protein YbfA   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV13578	Yes	95.59
+
+#input_seq:	fig|35703.89.peg.3898|GT689_15015   Integration host factor alpha subunit   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881	No	94.95
+
+#input_seq:	fig|35703.89.peg.4787|GT689_19305   Uncharacterized lipoprotein YgdI   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV15237	Yes	96.0
+
+#input_seq:	fig|35703.89.peg.594|GT689_22290   prophage protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV13042	Yes	96.84
+
+#input_seq:	fig|35703.89.peg.126|GT689_19925   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Gammaproteobacteria	hypothetical protein	AAS58648	Yes	96.63
+
+#input_seq:	fig|35703.89.peg.113|GT689_19860   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Gammaproteobacteria	hypothetical protein	AAS58662	Yes	97.73
+
+#input_seq:	fig|35703.89.peg.41|GT689_19520   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	10638	AE017045	Yersinia pestis biovar Microtus str. 91001 plasmid pMT1, complete sequence.	Gammaproteobacteria	hypothetical protein	AAS58700	Yes	95.45
+
+#input_seq:	fig|35703.89.peg.3553|GT689_13335   Haemolysin expression modulating protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893	Yes	98.61
+
+#input_seq:	fig|35703.89.peg.4560|GT689_18175   UPF0370 protein YpfN   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	putative membrane protein	ABB62708	Yes	98.48
+
+#input_seq:	fig|35703.89.peg.1744|GT689_04635   Orphan toxin OrtT   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	16235	CP000247	Escherichia coli 536, complete genome.	Gammaproteobacteria	putative inner membrane protein	ABG69454	Yes	96.49
+
+#input_seq:	fig|35703.89.peg.3771|GT689_14385   hypothetical protein   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV12740	Yes	96.43
+
+#input_seq:	fig|35703.89.peg.2607|GT689_08755   Thr operon leader peptide   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	thr operon leader peptide	BAB33424	Yes	100.0
+
+#input_seq:	fig|35703.89.peg.4563|GT689_18190   protein YpfM   [Citrobacter amalonaticus strain BIOML-A5 | 35703.89]
+#matched_seq:	225	U00096	Escherichia coli str. K-12 substr. MG1655, complete genome.	Gammaproteobacteria	hypothetical protein	ABP93450	No	100.0
+

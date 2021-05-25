@@ -1,0 +1,71 @@
+INPUT SEQUENCE INFO:
+Input Name ::	3_09_12_2020_200955_549049_input.fsa
+Sequences ::	 9271
+Total bpp ::	 2770418
+Longest seq ::	 15100
+Shortest seq ::	 29
+Avg seq lenght ::	 298.0
+
+RESULTS:
+Min Identity Threshold ::	86.139
+Z-THRESHOLD ::	3.0
+Prediction Score ::	21.929
+Probability of being human pathogen ::	0.608
+Matches::	17
+Genome Coverage (%) ::	0.18
+Pathogenic Families Matched ::	10
+Non-Pathogenic Families Matched ::	7
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|455432.12.peg.7518|HPY32_38655   integral membrane protein-like protein   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Actinobacteridae	putative membrane protein	BAD58521	Yes	91.53
+
+#input_seq:	fig|455432.12.peg.90|HPY32_00410   Acyl-CoA dehydrogenase (EC 1.3.8.1), Mycobacterial subgroup FadE25   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	15762	CP000384	Mycobacterium sp. MCS, complete genome.	Actinobacteridae	acyl-CoA dehydrogenase-like protein	ABG07412	No	86.23
+
+#input_seq:	fig|455432.12.peg.4669|HPY32_31895   hypothetical protein   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	21083	CP001814	Streptosporangium roseum DSM 43021, complete genome.	Actinobacteridae	conserved hypothetical protein	ACZ88088	No	90.06
+
+#input_seq:	fig|455432.12.peg.4644|HPY32_31785   Transcriptional regulator, LysR family   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Actinobacteridae	putative transcriptional regulator	BAD59126	Yes	86.67
+
+#input_seq:	fig|455432.12.peg.6536|HPY32_19275   Conserved hypothetical integral membrane protein YrbEa   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Actinobacteridae	putative YrbE family protein	BAD60485	Yes	86.76
+
+#input_seq:	fig|455432.12.peg.6249|HPY32_18000   Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Actinobacteridae	putative glycerophosphoryl diester phosphodiesterase	BAD54967	Yes	86.67
+
+#input_seq:	fig|455432.12.peg.4641|HPY32_31770   Galactoside O-acetyltransferase (EC 2.3.1.18)   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Actinobacteridae	putative acetyltransferase	BAD59134	Yes	89.52
+
+#input_seq:	fig|455432.12.peg.6594|HPY32_19550   Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Actinobacteridae	putative succinate dehydrogenase iron-sulfur subunit	BAD60455	Yes	89.11
+
+#input_seq:	fig|455432.12.peg.2999|HPY32_24205   SSU ribosomal protein S12p (S23e)   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	15762	CP000384	Mycobacterium sp. MCS, complete genome.	Actinobacteridae	SSU ribosomal protein S12P	ABG07098	No	96.77
+
+#input_seq:	fig|455432.12.peg.5024|HPY32_12110   LSU ribosomal protein L14p (L23e)   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Actinobacteridae	ribosomal protein L14	BAI64321	Yes	89.34
+
+#input_seq:	fig|455432.12.peg.7458|HPY32_38370   Integration host factor MihF   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	15642	CP000717	Mycobacterium tuberculosis F11, complete genome.	Actinobacteridae	integration host factor mihF	ABR05760	Yes	87.74
+
+#input_seq:	fig|455432.12.peg.3734|HPY32_27605   hypothetical protein   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Actinobacteridae	hypothetical protein	BAD59474	Yes	87.31
+
+#input_seq:	fig|455432.12.peg.4968|HPY32_11845   Translation initiation factor 1   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	Actinobacteridae	putative translation initiation factor IF-1	BAC17378	No	94.52
+
+#input_seq:	fig|455432.12.peg.7910|HPY32_40430   hypothetical protein   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	15762	CP000384	Mycobacterium sp. MCS, complete genome.	Actinobacteridae	conserved hypothetical protein	ABG08297	No	87.0
+
+#input_seq:	fig|455432.12.peg.5685|HPY32_15370   Transcriptional regulator, WhiB family   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	13117	AP006618	Nocardia farcinica IFM 10152 DNA, complete genome.	Actinobacteridae	putative transcriptional regulator	BAD55182	Yes	95.33
+
+#input_seq:	fig|455432.12.peg.5682|HPY32_15355   Uncharacterized protein MSMEG_6192   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	15762	CP000384	Mycobacterium sp. MCS, complete genome.	Actinobacteridae	hypothetical protein	ABG10925	No	88.89
+
+#input_seq:	fig|455432.12.peg.4615|HPY32_31650   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-independent   [Nocardia terpenica strain IFM 0706 | 455432.12]
+#matched_seq:	305	BA000035	Corynebacterium efficiens YS-314 DNA, complete genome.	Actinobacteridae	putative 50S ribosomal protein L36	BAC19237	No	95.0
+

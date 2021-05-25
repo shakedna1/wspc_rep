@@ -1,0 +1,230 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_190043_065080_input.fsa
+Sequences ::	 4662
+Total bpp ::	 1487632
+Longest seq ::	 4880
+Shortest seq ::	 22
+Avg seq lenght ::	 319.0
+
+RESULTS:
+Min Identity Threshold ::	94.829
+Z-THRESHOLD ::	3.0
+Prediction Score ::	197.172
+Probability of being human pathogen ::	0.845
+Matches::	70
+Genome Coverage (%) ::	1.5
+Pathogenic Families Matched ::	70
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|46503.1849.peg.2795|GMD76_18510   Outer membrane TonB-dependent transporter, utilization system for glycans and polysaccharides (PUL), SusC family   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	putative outer membrane protein probably involved in nutrient binding	BAD50995	Yes	99.1
+
+#input_seq:	fig|46503.1849.peg.1770|GMD76_15035   Outer membrane TonB-dependent transporter, utilization system for glycans and polysaccharides (PUL), SusC family   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	putative outer membrane protein, probably involved in nutrient binding	ABR41117	Yes	99.89
+
+#input_seq:	fig|46503.1849.peg.1630|GMD76_14405   Tyrosine-protein kinase (EC 2.7.10.2)   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	tyrosine-protein kinase ptk	ABR38408	Yes	99.24
+
+#input_seq:	fig|46503.1849.peg.2802|GMD76_18545   Hemin receptor   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	putative outer membrane protein	ABR41311	Yes	99.61
+
+#input_seq:	fig|46503.1849.peg.3308|GMD76_20050   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	conserved hypothetical protein	CAH07429	Yes	98.28
+
+#input_seq:	fig|46503.1849.peg.4128|GMD76_21200   Chromosome partitioning protein, ParB family   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	putative ParB-family protein	CAH07481	Yes	97.54
+
+#input_seq:	fig|46503.1849.peg.1769|GMD76_15030   Cell surface glycan-binding lipoprotein, utilization system for glycans and polysaccharides (PUL), SusD family   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	putative outer membrane protein, probably involved in nutrient binding	ABR41118	Yes	99.81
+
+#input_seq:	fig|46503.1849.peg.2796|GMD76_18515   Cell surface glycan-binding lipoprotein, utilization system for glycans and polysaccharides (PUL), SusD family   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	putative outer membrane protein, probably involved in nutrient binding	ABR41316	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.4138|GMD76_21250   Conjugative transposon protein TraM   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	CAH07473	Yes	98.7
+
+#input_seq:	fig|46503.1849.peg.107|GMD76_08595   putative outer membrane protein precursor   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	putative outer membrane protein precursor	ABR43741	Yes	96.09
+
+#input_seq:	fig|46503.1849.peg.1659|GMD76_14530   RteB, two-component system response regulator   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	putative two-component system response regulator	ABR38387	Yes	99.3
+
+#input_seq:	fig|46503.1849.peg.3549|GMD76_04270   Conjugative transposon protein TraM   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR45566	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.3150|GMD76_19295   Integrase protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	putative bacteriophage integrase	CAH07494	Yes	99.3
+
+#input_seq:	fig|46503.1849.peg.1796|GMD76_15135   Transposase   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	transposase	ABR44970	Yes	99.52
+
+#input_seq:	fig|46503.1849.peg.1662|GMD76_14545   Putative conjugative transposon mobilization protein BF0132   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	putative mobilization protein	ABR38384	Yes	96.31
+
+#input_seq:	fig|46503.1849.peg.3522|GMD76_04130   Mobile element protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	transposase	ABR38350	Yes	98.05
+
+#input_seq:	fig|46503.1849.peg.199|GMD76_09020   Integrase => IntDOT   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	tyrosine type site-specific recombinase	BAD46901	Yes	96.35
+
+#input_seq:	fig|46503.1849.peg.1445|GMD76_13565   Integrase   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	tyrosine type site-specific recombinase	BAD49751	Yes	98.26
+
+#input_seq:	fig|46503.1849.peg.1650|GMD76_14495   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR38394	Yes	99.75
+
+#input_seq:	fig|46503.1849.peg.3543|GMD76_04240   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR45561	Yes	99.74
+
+#input_seq:	fig|46503.1849.peg.3526|GMD76_04150   LtrC-like protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR39277	Yes	98.68
+
+#input_seq:	fig|46503.1849.peg.1628|GMD76_14395   Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase (EC 2.7.8.33)   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	undecaprenyl-phosphate alpha-N-acetylglucosaminyltransferase	ABR38410	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.3531|GMD76_04180   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	hypothetical protein	ABR39271	Yes	97.94
+
+#input_seq:	fig|46503.1849.peg.2803|GMD76_18550   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR41310	Yes	99.41
+
+#input_seq:	fig|46503.1849.peg.3879|GMD76_05230   Conjugative transposon protein TraJ   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	BAD48104	Yes	97.89
+
+#input_seq:	fig|46503.1849.peg.238|GMD76_09215   Conjugative transposon protein TraN   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraN	BAD46865	Yes	95.12
+
+#input_seq:	fig|46503.1849.peg.4155|GMD76_21320   DNA primase TraC   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	putative DNA primase	CAH07484	Yes	97.73
+
+#input_seq:	fig|46503.1849.peg.1467|GMD76_13665   DNA primase, TraP-type   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	DNA primase	ABR43872	Yes	96.59
+
+#input_seq:	fig|46503.1849.peg.4322|GMD76_21440   Conjugative transposon protein TraN   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	conserved hypothetical protein found in conjugate transposon	CAH07474	Yes	94.83
+
+#input_seq:	fig|46503.1849.peg.3875|GMD76_05210   Conjugative transposon protein TraN   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon TraN	BAD48100	Yes	95.82
+
+#input_seq:	fig|46503.1849.peg.2035|GMD76_16210   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR42621	Yes	99.03
+
+#input_seq:	fig|46503.1849.peg.3548|GMD76_04265   Conjugative transposon protein TraN   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR45565	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.3527|GMD76_04155   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR45545	Yes	98.98
+
+#input_seq:	fig|46503.1849.peg.3542|GMD76_04235   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR45560	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.3564|GMD76_04345   MTH1175-like domain family protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR45580	Yes	99.26
+
+#input_seq:	fig|46503.1849.peg.3539|GMD76_04220   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR45557	Yes	98.88
+
+#input_seq:	fig|46503.1849.peg.2053|GMD76_16290   Conjugative transposon protein TraA   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	BAD48111	Yes	98.85
+
+#input_seq:	fig|46503.1849.peg.2036|GMD76_16215   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	hypothetical protein	ABR42622	Yes	99.61
+
+#input_seq:	fig|46503.1849.peg.3540|GMD76_04225   Type I restriction enzyme, M subunit   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	type I restriction enzyme, M subunit	ABR39264	Yes	98.04
+
+#input_seq:	fig|46503.1849.peg.3533|GMD76_04190   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	hypothetical protein	ABR39269	Yes	99.58
+
+#input_seq:	fig|46503.1849.peg.3532|GMD76_04185   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	hypothetical protein	ABR39270	Yes	95.71
+
+#input_seq:	fig|46503.1849.peg.4124|GMD76_21180   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	hypothetical protein	CAH07480	Yes	96.88
+
+#input_seq:	fig|46503.1849.peg.4348|GMD76_21575   Conjugative transposon protein TraO   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	conserved hypothetical protein found in conjugate transposon	CAH07475	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.3547|GMD76_04260   Conjugative transposon protein TraO   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR45564	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.3559|GMD76_04320   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	hypothetical protein	ABR45575	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.3529|GMD76_04165   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR45547	Yes	98.18
+
+#input_seq:	fig|46503.1849.peg.3305|GMD76_20040   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	conserved hypothetical protein	CAH07431	Yes	99.39
+
+#input_seq:	fig|46503.1849.peg.3544|GMD76_04245   Lysozyme (EC 3.2.1.17)   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	glycoside hydrolase family 24	ABR45562	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.3546|GMD76_04255   Conjugative transposon protein TraQ   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR45563	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.4495|GMD76_21635   Conjugative transposon protein TraQ   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	CAH07476	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.3523|GMD76_04135   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	hypothetical protein	ABR45542	Yes	97.04
+
+#input_seq:	fig|46503.1849.peg.2798|GMD76_18525   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR41315	Yes	99.25
+
+#input_seq:	fig|46503.1849.peg.3563|GMD76_04340   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	hypothetical protein	ABR45579	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.3554|GMD76_04295   Conjugative transposon protein TraH   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved protein found in conjugate transposon	ABR45571	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.2066|GMD76_16355   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	conserved hypothetical protein	CAH06978	Yes	96.64
+
+#input_seq:	fig|46503.1849.peg.3882|GMD76_05245   Conjugative transposon protein TraF   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon TraF	BAD48107	Yes	96.4
+
+#input_seq:	fig|46503.1849.peg.1786|GMD76_15090   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR44964	Yes	98.13
+
+#input_seq:	fig|46503.1849.peg.15|GMD76_21860   Conjugative transposon protein TraF   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	putative transmembrane conserved protein found in conjugate transposon	CAH07465	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.2028|GMD76_16170   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	hypothetical protein	ABR42617	Yes	95.24
+
+#input_seq:	fig|46503.1849.peg.227|GMD76_09160   Conjugative transposon protein TraE   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	TraE	BAD46874	Yes	95.15
+
+#input_seq:	fig|46503.1849.peg.1785|GMD76_15085   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR43966	Yes	99.03
+
+#input_seq:	fig|46503.1849.peg.3069|GMD76_18930   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR42492	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.14|GMD76_21855   Conjugative transposon protein TraE   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	putative transmembrane conserved protein found in conjugative transposon	CAH07464	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.3883|GMD76_05250   Conjugative transposon protein TraE   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13067	AP006841	Bacteroides fragilis YCH46 DNA, complete genome.	Bacteroidia	conserved protein found in conjugate transposon TraE	BAD48108	Yes	97.96
+
+#input_seq:	fig|46503.1849.peg.3152|GMD76_19305   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	conserved hypothetical protein	CAH07492	Yes	97.94
+
+#input_seq:	fig|46503.1849.peg.3536|GMD76_04205   hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR45555	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.4140|GMD76_21260   Conjugative transposon protein TraL   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	46	CR626927	Bacteroides fragilis NCTC 9343, complete genome.	Bacteroidia	conserved hypothetical protein found in conjugate transposon	CAH07471	Yes	97.87
+
+#input_seq:	fig|46503.1849.peg.3079|GMD76_18975   FIG00403362: hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13485	CP000140	Parabacteroides distasonis ATCC 8503, complete genome.	Bacteroidia	conserved hypothetical protein	ABR42500	Yes	100.0
+
+#input_seq:	fig|46503.1849.peg.278|GMD76_09400   FIG00935798: hypothetical protein   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	19051	AP009380	Porphyromonas gingivalis ATCC 33277 DNA, complete genome.	Bacteroidia	conserved hypothetical protein	BAG34197	Yes	97.26
+
+#input_seq:	fig|46503.1849.peg.35|GMD76_08250   Transcriptional regulator, Xre family   [Parabacteroides merdae strain BIOML-A28 | 46503.1849]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	conserved hypothetical protein	ABR41766	Yes	97.1
+

@@ -1,0 +1,29 @@
+INPUT SEQUENCE INFO:
+Input Name ::	2_08_12_2020_141459_717664_input.fsa
+Sequences ::	 3069
+Total bpp ::	 946766
+Longest seq ::	 2902
+Shortest seq ::	 21
+Avg seq lenght ::	 308.0
+
+RESULTS:
+Min Identity Threshold ::	82.636
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-0.736
+Probability of being human pathogen ::	0.424
+Matches::	3
+Genome Coverage (%) ::	0.1
+Pathogenic Families Matched ::	1
+Non-Pathogenic Families Matched ::	2
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|39490.144.peg.2975|GKE67_08570   LSU ribosomal protein L3p (L3e)   [Eubacterium ramulus strain BIOML-A2 | 39490.144]
+#matched_seq:	29153	CP001810	Butyrivibrio proteoclasticus B316 chromosome 1, complete sequence.	Clostridia	ribosomal protein L3 RplC	ADL33339	No	83.11
+
+#input_seq:	fig|39490.144.peg.2985|GKE67_08620   LSU ribosomal protein L14p (L23e)   [Eubacterium ramulus strain BIOML-A2 | 39490.144]
+#matched_seq:	38547	AP011540	Rothia mucilaginosa DY-18 DNA, complete genome.	Actinobacteridae	ribosomal protein L14	BAI64321	Yes	82.79
+
+#input_seq:	fig|39490.144.peg.3000|GKE67_08695   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Eubacterium ramulus strain BIOML-A2 | 39490.144]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	91.89
+

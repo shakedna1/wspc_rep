@@ -1,0 +1,107 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_092554_894414_input.fsa
+Sequences ::	 4331
+Total bpp ::	 1223311
+Longest seq ::	 2994
+Shortest seq ::	 22
+Avg seq lenght ::	 282.0
+
+RESULTS:
+Min Identity Threshold ::	91.714
+Z-THRESHOLD ::	3.0
+Prediction Score ::	80.494
+Probability of being human pathogen ::	0.83
+Matches::	29
+Genome Coverage (%) ::	0.67
+Pathogenic Families Matched ::	29
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|418240.274.peg.4274|GT686_19945   Conjugative transposon protein TraG   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	plasmid transfer protein	CAH05759	Yes	97.34
+
+#input_seq:	fig|418240.274.peg.19|GT686_20070   Putative mobilization protein BF0133   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative plasmid transfer protein	CAH05732	Yes	98.75
+
+#input_seq:	fig|418240.274.peg.4|GT686_19990   putative mobilization protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative mobilization protein	CAH05728	Yes	99.44
+
+#input_seq:	fig|418240.274.peg.11|GT686_20030   hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative integral membrane protein	CAH05742	Yes	99.66
+
+#input_seq:	fig|418240.274.peg.4256|GT686_19870   GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	13378	CP000139	Bacteroides vulgatus ATCC 8482, complete genome.	Bacteroidia	putative GMP synthase	ABR41201	Yes	95.83
+
+#input_seq:	fig|418240.274.peg.3225|GT686_18010   putative transposon integrase; Tn916 ORF3-like   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	integrase	CAJ67177	Yes	98.99
+
+#input_seq:	fig|418240.274.peg.199|GT686_20095   putative replication protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative replication protein	CAH05726	Yes	93.77
+
+#input_seq:	fig|418240.274.peg.4279|GT686_19970   hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	hypothetical protein	CAH05741	Yes	97.95
+
+#input_seq:	fig|418240.274.peg.4269|GT686_19920   Conjugative transposon protein TraJ   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative plasmid transfer protein	CAH05756	Yes	96.47
+
+#input_seq:	fig|418240.274.peg.10   DNA primase TraC   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	UNKNOWN	CAH05716	Yes	100.0
+
+#input_seq:	fig|418240.274.peg.7|GT686_20005   UDP-N-acetylglucosamine kinase (EC 2.7.1.176), Zeta toxin   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	conserved hypothetical protein	CAH05745	Yes	99.65
+
+#input_seq:	fig|418240.274.peg.4276|GT686_19955   DNA topoisomerase III domain   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative topoisomerase-related protein	CAH05738	Yes	98.04
+
+#input_seq:	fig|418240.274.peg.3983|GT686_05385   hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	38039	FN545816	Clostridium difficile R20291 complete genome.	Clostridia	putative uncharacterized protein	CBE04594	Yes	97.01
+
+#input_seq:	fig|418240.274.peg.4275|GT686_19950   hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative plasmid transfer protein	CAH05758	Yes	96.48
+
+#input_seq:	fig|418240.274.peg.1509|GT686_11745   Two-component transcriptional response regulator, LuxR family   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	two-component system, response regulator	CAJ67184	Yes	95.89
+
+#input_seq:	fig|418240.274.peg.8|GT686_20010   Cell wall endopeptidase, family M23/M37   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative secreted peptidase	CAH05744	Yes	97.3
+
+#input_seq:	fig|418240.274.peg.200|GT686_20100   hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	hypothetical protein	CAH05750	Yes	99.28
+
+#input_seq:	fig|418240.274.peg.201|GT686_20105   Putative outer membrane protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative outer membrane protein	CAH05749	Yes	99.06
+
+#input_seq:	fig|418240.274.peg.16|GT686_20055   hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative ParA-related protein	CAH05729	Yes	100.0
+
+#input_seq:	fig|418240.274.peg.4270|GT686_19925   Conjugative transposon protein TraK   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative plasmid transfer protein	CAH05755	Yes	100.0
+
+#input_seq:	fig|418240.274.peg.4278|GT686_19965   hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative integral membrane protein	CAH05740	Yes	95.21
+
+#input_seq:	fig|418240.274.peg.3206|GT686_17920   FIG00512738: hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conjugative transposon protein	CAJ70287	Yes	95.81
+
+#input_seq:	fig|418240.274.peg.3207|GT686_17925   Antirestriction protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conjugative tranposon protein	CAJ67198	Yes	96.41
+
+#input_seq:	fig|418240.274.peg.15|GT686_20050   hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	hypothetical protein	CAH05730	Yes	100.0
+
+#input_seq:	fig|418240.274.peg.3209|GT686_17930   FIG00516843: hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conjugative transposon protein	CAJ67197	Yes	100.0
+
+#input_seq:	fig|418240.274.peg.236|GT686_07725   hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	conjugative transposon membrane protein	CAJ70237	Yes	98.46
+
+#input_seq:	fig|418240.274.peg.18|GT686_20065   hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	putative regulatory protein	CAH05731	Yes	97.66
+
+#input_seq:	fig|418240.274.peg.223|GT686_07660   Tn916, hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	congative transposon conserved hypothetical protein	CAJ70225	Yes	97.47
+
+#input_seq:	fig|418240.274.peg.4139|GT686_19800   hypothetical protein   [Blautia wexlerae strain BIOML-A15 | 418240.274]
+#matched_seq:	46	CR626928	Bacteroides fragilis NCTC 9343 pBF9343 plasmid.	Bacteroidia	hypothetical protein	CAH05724	Yes	97.14
+

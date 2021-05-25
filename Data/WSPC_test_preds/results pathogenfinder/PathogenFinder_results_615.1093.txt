@@ -1,0 +1,134 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_134440_237303_input.fsa
+Sequences ::	 5402
+Total bpp ::	 1613084
+Longest seq ::	 3865
+Shortest seq ::	 15
+Avg seq lenght ::	 298.0
+
+RESULTS:
+Min Identity Threshold ::	92.444
+Z-THRESHOLD ::	3.0
+Prediction Score ::	96.018
+Probability of being human pathogen ::	0.765
+Matches::	38
+Genome Coverage (%) ::	0.7
+Pathogenic Families Matched ::	32
+Non-Pathogenic Families Matched ::	6
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|615.1093.peg.4148|GST45_24550   FIG131328: Predicted ATP-dependent endonuclease of the OLD family   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	16718	DQ381420	Escherichia coli APEC O1 plasmid pAPEC-O1-ColBM, complete sequence.	Gammaproteobacteria	conserved hypothetical protein	ABD51649	No	94.62
+
+#input_seq:	fig|615.1093.peg.4475|GST45_25385   TniA putative transposase   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	TniA; integrase core domain	ABR80443	Yes	100.0
+
+#input_seq:	fig|615.1093.peg.3814|GST45_22975   Mobile element protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	18747	CP000604	Salmonella enterica subsp. enterica serovar Newport str. SL254 plasmid pSN254, complete sequence.	Gammaproteobacteria	transposase InsC3 for insertion sequence ISEc9	ABO41047	Yes	100.0
+
+#input_seq:	fig|615.1093.peg.5195|GST45_25825   Transposase   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	Hypothetical protein	ABR80369	Yes	96.82
+
+#input_seq:	fig|615.1093.peg.4134|GST45_24485   COG0443: Molecular chaperone   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	mediator of plasmid stability	ABR80473	Yes	99.69
+
+#input_seq:	fig|615.1093.peg.2724|GST45_18475   SSU ribosomal protein S2p (SAe)   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	93.36
+
+#input_seq:	fig|615.1093.peg.3479|GST45_21380   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	92.92
+
+#input_seq:	fig|615.1093.peg.4128|GST45_24455   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80479	Yes	99.61
+
+#input_seq:	fig|615.1093.peg.1870|GST45_16905   Methyl-directed repair DNA adenine methylase (EC 2.1.1.72)   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	17459	CP000826	Serratia proteamaculans 568, complete genome.	Gammaproteobacteria	DNA adenine methylase	ABV43695	Yes	93.33
+
+#input_seq:	fig|615.1093.peg.4131|GST45_24470   Adenine-specific methyltransferase (EC 2.1.1.72)   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80476	Yes	99.57
+
+#input_seq:	fig|615.1093.peg.1727|GST45_16220   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	conserved domain protein	ACI07185	No	100.0
+
+#input_seq:	fig|615.1093.peg.5212|GST45_25895   Plasmid SOS inhibition protein PsiA   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	putative plasmid SOS inhibition protein A	ABR80366	Yes	98.35
+
+#input_seq:	fig|615.1093.peg.4133|GST45_24480   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	mediator of plasmid stability	ABR80474	Yes	99.55
+
+#input_seq:	fig|615.1093.peg.5207|GST45_25870   Phage integrase, site-specific serine recombinase   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	11752	CP000057	Haemophilus influenzae 86-028NP, complete genome.	Gammaproteobacteria	transposon Tn3 resolvase	AAX87127	Yes	95.6
+
+#input_seq:	fig|615.1093.peg.1719|GST45_16180   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACI08319	No	100.0
+
+#input_seq:	fig|615.1093.peg.4215|GST45_24720   IS1 protein InsB   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	15637	CP001063	Shigella boydii CDC 3083-94, complete genome.	Gammaproteobacteria	IS1 protein InsB	ACD09517	Yes	95.21
+
+#input_seq:	fig|615.1093.peg.299|GST45_09260   Translation elongation factor Tu   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Gammaproteobacteria	elongation factor Tu	ACX82119	Yes	96.36
+
+#input_seq:	fig|615.1093.peg.4483|GST45_25425   Mercuric resistance operon regulatory protein MerR   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	250	CP000355	Cupriavidus metallidurans CH34 plasmid pMOL28, complete sequence.	Betaproteobacteria	MerR from Tn4378, regulatory protein involved in Hg(II) resistance	ABF13203	No	93.75
+
+#input_seq:	fig|615.1093.peg.4222|GST45_24755   X polypeptide   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	putative lytic transglycosylase	ABR80502	Yes	99.38
+
+#input_seq:	fig|615.1093.peg.4589|GST45_05000   Heat shock protein 10 kDa family chaperone GroES   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	co-chaperonin GroES	ACN48531	Yes	92.78
+
+#input_seq:	fig|615.1093.peg.4250|GST45_24885   IncF plasmid conjugative transfer protein TrbF   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80408	Yes	99.32
+
+#input_seq:	fig|615.1093.peg.5211|GST45_25890   Plasmid SOS inhibition protein PsiB   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	putative plasmid SOS inhibition protein B	ABR80365	Yes	98.6
+
+#input_seq:	fig|615.1093.peg.4129|GST45_24460   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80478	Yes	100.0
+
+#input_seq:	fig|615.1093.peg.4235|GST45_24810   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80515	Yes	99.25
+
+#input_seq:	fig|615.1093.peg.4236|GST45_24815   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80517	Yes	96.15
+
+#input_seq:	fig|615.1093.peg.4221|GST45_24750   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80378	Yes	99.04
+
+#input_seq:	fig|615.1093.peg.5213|GST45_25900   FIG00641039: hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	Hypothetical protein	ABR80367	Yes	99.07
+
+#input_seq:	fig|615.1093.peg.4123|GST45_24430   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80547	Yes	99.06
+
+#input_seq:	fig|615.1093.peg.3900|GST45_23385   Integration host factor alpha subunit   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881	No	95.92
+
+#input_seq:	fig|615.1093.peg.4124|GST45_24435   DNA polymerase III theta subunit (EC 2.7.7.7)   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80548	Yes	96.43
+
+#input_seq:	fig|615.1093.peg.4244|GST45_24855   IncF plasmid conjugative transfer protein TrbE   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	inner membrane protein	ABR80402	Yes	100.0
+
+#input_seq:	fig|615.1093.peg.4245|GST45_24860   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80403	Yes	100.0
+
+#input_seq:	fig|615.1093.peg.4248|GST45_24875   IncF plasmid conjugative transfer protein TraQ   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	F pilin synthesis	ABR80529	Yes	100.0
+
+#input_seq:	fig|615.1093.peg.4132|GST45_24475   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80475	Yes	100.0
+
+#input_seq:	fig|615.1093.peg.4219|GST45_24740   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000650	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN5, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80546	Yes	100.0
+
+#input_seq:	fig|615.1093.peg.4130|GST45_24465   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000649	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN4, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80477	Yes	100.0
+
+#input_seq:	fig|615.1093.peg.4233   hypothetical protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	31	CP000648	Klebsiella pneumoniae subsp. pneumoniae MGH 78578 plasmid pKPN3, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80392	Yes	95.83
+
+#input_seq:	fig|615.1093.peg.1716|GST45_16165   addiction module antidote protein   [Serratia marcescens strain C3 | 615.1093]
+#matched_seq:	28471	CP000964	Klebsiella pneumoniae 342, complete genome.	Gammaproteobacteria	conserved domain protein	ACI09183	No	100.0
+

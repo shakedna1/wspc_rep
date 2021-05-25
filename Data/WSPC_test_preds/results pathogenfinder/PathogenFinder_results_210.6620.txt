@@ -1,0 +1,149 @@
+INPUT SEQUENCE INFO:
+Input Name ::	0_06_12_2020_152434_309363_input.fsa
+Sequences ::	 1698
+Total bpp ::	 511413
+Longest seq ::	 3194
+Shortest seq ::	 20
+Avg seq lenght ::	 301.0
+
+RESULTS:
+Min Identity Threshold ::	100.0
+Z-THRESHOLD ::	3.0
+Prediction Score ::	180.293
+Probability of being human pathogen ::	0.937
+Matches::	43
+Genome Coverage (%) ::	2.53
+Pathogenic Families Matched ::	43
+Non-Pathogenic Families Matched ::	0
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|210.6620.peg.1671   Putative outer membrane protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	39685	FM991728	Helicobacter pylori B38 complete genome, strain B38.	Epsilonproteobacteria	Outer membrane protein HomA; putative signal peptide	CAX29189	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1165|F7195_05640   type 1 capsular polysaccharide biosynthesis protein J (capJ)   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative POLYSACCHARIDE BIOSYNTHESIS PROTEIN	AAD06540	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1047|F7195_05055   ABC transporter ATP-binding protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	32291	CP001217	Helicobacter pylori P12, complete genome.	Epsilonproteobacteria	multidrug resistance protein	ACJ07761	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.877|F7195_04270   ABC transporter, substrate-binding protein HP_1464   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD06933	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1260|F7195_06130   Haemin uptake system ATP-binding protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	IRON(III) DICITRATE TRANSPORT SYSTEM ATP-BINDING PROTEIN	AAD06401	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1271|F7195_06180   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	16183	CP000241	Helicobacter pylori HPAG1, complete genome.	Epsilonproteobacteria	hypothetical protein	ABF84928	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.213|F7195_01020   Predicted L-lactate dehydrogenase, Fe-S oxidoreductase subunit YkgE   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	16183	CP000241	Helicobacter pylori HPAG1, complete genome.	Epsilonproteobacteria	conserved hypothetical secreted protein	ABF84204	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.470|F7195_02285   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD05957	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.880|F7195_04285   Uncharacterized protein HP_1467   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative Outer membrane protein	AAD06941	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.876|F7195_04265   Uncharacterized protein HP_1463   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD06932	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.187|F7195_00890   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD05683	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.870|F7195_04235   putative lipoprotein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD06927	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1495|F7195_07270   Flagellar protein FlgP   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	39685	FM991728	Helicobacter pylori B38 complete genome, strain B38.	Epsilonproteobacteria	Conserved hypothetical protein	CAX29057	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.139|F7195_00645   Urea channel UreI   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	urea transporter	AAD05637	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1067|F7195_05150   Flagellar basal body-associated protein FliL   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative FLAGELLAR BIOSYNTHESIS PROTEIN	AAD06317	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.702|F7195_03425   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD06294	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.869|F7195_04230   membrane-associated lipoprotein (lpp20)   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	233	AE000511	Helicobacter pylori 26695, complete genome.	Epsilonproteobacteria	membrane-associated lipoprotein (lpp20)	AAD08494	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.978|F7195_04735   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	16183	CP000241	Helicobacter pylori HPAG1, complete genome.	Epsilonproteobacteria	hypothetical protein	ABF84716	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1475|F7195_07170   ATP synthase F0 sector subunit b (EC 3.6.3.14)   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	ATP synthase F0, subunit b	AAD06629	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.138|F7195_00640   Urease accessory protein UreE   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	16183	CP000241	Helicobacter pylori HPAG1, complete genome.	Epsilonproteobacteria	urease accessory protein UreE	ABF84138	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1661|F7195_07995   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	39685	FM991728	Helicobacter pylori B38 complete genome, strain B38.	Epsilonproteobacteria	Conserved hypothetical protein	CAX29180	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1476|F7195_07175   ATP synthase F0 sector subunit b' (EC 3.6.3.14)   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	ATP synthase B'	AAD06630	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.97|F7195_00460   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	16183	CP000241	Helicobacter pylori HPAG1, complete genome.	Epsilonproteobacteria	hypothetical protein	ABF84096	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1520|F7195_07385   Flagellar assembly factor FliW   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	39685	FM991728	Helicobacter pylori B38 complete genome, strain B38.	Epsilonproteobacteria	Conserved hypothetical protein	CAX29720	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.857|F7195_04175   Biopolymer transport protein ExbD/TolR   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	233	AE000511	Helicobacter pylori 26695, complete genome.	Epsilonproteobacteria	biopolymer transport protein (exbD)	AAD08484	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.279|F7195_01340   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD05773	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.274|F7195_01315   FIG01269488: protein, clustered with ribosomal protein L32p   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD05757	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.860|F7195_04190   Membrane protein insertion efficiency factor YidD   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD06919	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1281|F7195_06230   [NiFe] hydrogenase nickel incorporation protein HypA   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	16183	CP000241	Helicobacter pylori HPAG1, complete genome.	Epsilonproteobacteria	hydrogenase and urease maturation protein	ABF84919	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.934|F7195_04535   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD06234	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.871|F7195_04240   Thioredoxin   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative THIOREDOXIN	AAD06936	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.81|F7195_00385   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	29045	CP001072	Helicobacter pylori Shi470, complete genome.	Epsilonproteobacteria	hypothetical protein	ACD47483	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.906|F7195_04410   Nitrogen-fixing NifU-like   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	233	AE000511	Helicobacter pylori 26695, complete genome.	Epsilonproteobacteria	conserved hypothetical nifU-like protein	AAD08534	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.808|F7195_03945   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD06087	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1198|F7195_05820   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	233	AE000511	Helicobacter pylori 26695, complete genome.	Epsilonproteobacteria	predicted coding region HP0386	AAD07468	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1199|F7195_05825   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	39685	FM991728	Helicobacter pylori B38 complete genome, strain B38.	Epsilonproteobacteria	Conserved hypothetical protein	CAX29553	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1276|F7195_06205   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD06389	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1131   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative motility protein	AAD06698	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.776|F7195_03795   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD06113	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.209|F7195_01000   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	16183	CP000241	Helicobacter pylori HPAG1, complete genome.	Epsilonproteobacteria	hypothetical protein	ABF84200	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.195|F7195_00930   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	233	AE000511	Helicobacter pylori 26695, complete genome.	Epsilonproteobacteria	predicted coding region HP0122	AAD07200	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.1303|F7195_06345   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	234	AE001439	Helicobacter pylori J99, complete genome.	Epsilonproteobacteria	putative	AAD06416	Yes	100.0
+
+#input_seq:	fig|210.6620.peg.223   hypothetical protein   [Helicobacter pylori strain MHP47 | 210.6620]
+#matched_seq:	29045	CP001072	Helicobacter pylori Shi470, complete genome.	Epsilonproteobacteria	hypothetical protein	ACD47610	Yes	100.0
+

@@ -1,0 +1,56 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_155938_919215_input.fsa
+Sequences ::	 2762
+Total bpp ::	 779047
+Longest seq ::	 1551
+Shortest seq ::	 22
+Avg seq lenght ::	 282.0
+
+RESULTS:
+Min Identity Threshold ::	90.442
+Z-THRESHOLD ::	3.0
+Prediction Score ::	27.705
+Probability of being human pathogen ::	0.759
+Matches::	12
+Genome Coverage (%) ::	0.43
+Pathogenic Families Matched ::	10
+Non-Pathogenic Families Matched ::	2
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|1352.8997.peg.1493|GF656_12135   Copper-translocating P-type ATPase (EC 3.6.3.4)   [Enterococcus faecium strain C59 | 1352.8997]
+#matched_seq:	43535	CP002037	Lactobacillus salivarius CECT 5713 plasmid pHN3, complete sequence.	Lactobacillales	Lead, cadmium, zinc and mercury transporting ATPase	ADJ79777	No	97.63
+
+#input_seq:	fig|1352.8997.peg.1250|GF656_12070   hypothetical protein   [Enterococcus faecium strain C59 | 1352.8997]
+#matched_seq:	70	AE016833	Enterococcus faecalis V583 plasmid pTEF1, complete sequence.	Lactobacillales	repE protein	AAO83052	Yes	97.1
+
+#input_seq:	fig|1352.8997.peg.1017|GF656_10990   Tn916, transcriptional regulator, putative   [Enterococcus faecium strain C59 | 1352.8997]
+#matched_seq:	29047	CP001015	Streptococcus pneumoniae G54, complete genome.	Lactobacillales	Tn5251 transcriptional regulator Cro/CI family	ACF55955	Yes	99.75
+
+#input_seq:	fig|1352.8997.peg.1029   Plasmid recombination enzyme   [Enterococcus faecium strain C59 | 1352.8997]
+#matched_seq:	18509	AP009324	Staphylococcus aureus subsp. aureus Mu3 DNA, complete genome.	Bacillales	plasmid recombination enzyme	BAF76914	Yes	93.48
+
+#input_seq:	fig|1352.8997.peg.1856   Replication initiation ATPase; ATP-binding protein p271   [Enterococcus faecium strain C59 | 1352.8997]
+#matched_seq:	264	AP003139	Staphylococcus aureus subsp. aureus N315 plasmid pN315 DNA, complete sequence.	Bacillales	recombinase Sin	BAB43884	Yes	91.67
+
+#input_seq:	fig|1352.8997.peg.1487|GF656_12105   DNA protection during starvation protein   [Enterococcus faecium strain C59 | 1352.8997]
+#matched_seq:	43535	CP002037	Lactobacillus salivarius CECT 5713 plasmid pHN3, complete sequence.	Lactobacillales	Non-specific DNA-binding protein / Iron-binding ferritin-like antioxidant protein / Ferroxidase	ADJ79797	No	98.42
+
+#input_seq:	fig|1352.8997.peg.984|GF656_10835   Adenine phosphoribosyltransferase-like protein   [Enterococcus faecium strain C59 | 1352.8997]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	putative adenine phosphoribosyltransferase	ABP89924	Yes	100.0
+
+#input_seq:	fig|1352.8997.peg.1020|GF656_11005   Tn916, hypothetical protein   [Enterococcus faecium strain C59 | 1352.8997]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	hypothetical protein	ABP89893	Yes	100.0
+
+#input_seq:	fig|1352.8997.peg.241|GF656_08395   SSU ribosomal protein S19p (S15e)   [Enterococcus faecium strain C59 | 1352.8997]
+#matched_seq:	17153	CP000407	Streptococcus suis 05ZYH33, complete genome.	Lactobacillales	SSU ribosomal protein S19P	ABP89047	Yes	93.48
+
+#input_seq:	fig|1352.8997.peg.237|GF656_08375   LSU ribosomal protein L29p (L35e)   [Enterococcus faecium strain C59 | 1352.8997]
+#matched_seq:	70	AE016830	Enterococcus faecalis V583, complete genome.	Lactobacillales	ribosomal protein L29	AAO80083	Yes	95.16
+
+#input_seq:	fig|1352.8997.peg.1012|GF656_10965   hypothetical protein   [Enterococcus faecium strain C59 | 1352.8997]
+#matched_seq:	28035	CP000936	Streptococcus pneumoniae Hungary19A-6, complete genome.	Lactobacillales	conserved hypothetical protein	ACA36774	Yes	100.0
+
+#input_seq:	fig|1352.8997.peg.1025|GF656_11030   tetracycline resistance determinant leader peptide   [Enterococcus faecium strain C59 | 1352.8997]
+#matched_seq:	330	AE009948	Streptococcus agalactiae 2603V/R, complete genome.	Lactobacillales	Tn916, tetM leader peptide	AAM99810	Yes	100.0
+

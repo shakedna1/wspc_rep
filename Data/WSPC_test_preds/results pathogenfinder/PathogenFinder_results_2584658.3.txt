@@ -1,0 +1,38 @@
+INPUT SEQUENCE INFO:
+Input Name ::	4_04_02_2021_112512_623691_input.fsa
+Sequences ::	 4811
+Total bpp ::	 1489986
+Longest seq ::	 4715
+Shortest seq ::	 29
+Avg seq lenght ::	 309.0
+
+RESULTS:
+Min Identity Threshold ::	83.963
+Z-THRESHOLD ::	3.0
+Prediction Score ::	-2.123
+Probability of being human pathogen ::	0.413
+Matches::	6
+Genome Coverage (%) ::	0.12
+Pathogenic Families Matched ::	2
+Non-Pathogenic Families Matched ::	4
+The organisms is predicted as human pathogenic ::	No
+
+MATCHED SEQUENCES:
+#input_seq:	fig|2584658.3.peg.67|GKG41_10235   FIG00647030: hypothetical protein   [Lactonifactor sp. BIOML-A5 | 2584658.3]
+#matched_seq:	78	AM180355	Clostridium difficile 630 complete genome.	Clostridia	putative mobilization protein	CAJ67947	Yes	84.15
+
+#input_seq:	fig|2584658.3.peg.513|GKG41_12395   hypothetical protein   [Lactonifactor sp. BIOML-A5 | 2584658.3]
+#matched_seq:	16365	CP000261	Streptococcus pyogenes MGAS2096, complete genome.	Lactobacillales	hypothetical protein	ABF36179	Yes	86.69
+
+#input_seq:	fig|2584658.3.peg.2495|GKG41_19115   Death on curing protein, Doc toxin   [Lactonifactor sp. BIOML-A5 | 2584658.3]
+#matched_seq:	27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	Clostridia	addiction module toxin, RelE/StbE family	ACV63023	No	85.58
+
+#input_seq:	fig|2584658.3.peg.1811|GKG41_17000   UPF0045 protein CPE1503   [Lactonifactor sp. BIOML-A5 | 2584658.3]
+#matched_seq:	16184	CP000885	Clostridium phytofermentans ISDg, complete genome.	Clostridia	protein of unknown function DUF77	ABX41528	No	93.88
+
+#input_seq:	fig|2584658.3.peg.2496|GKG41_19120   Prevent-host-death family protein   [Lactonifactor sp. BIOML-A5 | 2584658.3]
+#matched_seq:	27947	CP001720	Desulfotomaculum acetoxidans DSM 771, complete genome.	Clostridia	prevent-host-death family protein	ACV63024	No	85.56
+
+#input_seq:	fig|2584658.3.peg.3493|GKG41_04015   LSU ribosomal protein L36p @ LSU ribosomal protein L36p, zinc-dependent   [Lactonifactor sp. BIOML-A5 | 2584658.3]
+#matched_seq:	13466	CP000679	Caldicellulosiruptor saccharolyticus DSM 8903, complete genome.	Clostridia	ribosomal protein L36	ABP67841	No	86.49
+

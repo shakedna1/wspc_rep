@@ -75,7 +75,7 @@ def create_barplots(results, width, x_label, y_label, out_path, round_by=2, bar_
 
 def create_correlation_plot(corr_dataset1, corr_dataset2, dataset_names, out_path):
 
-    fig, axs = plt.subplots(figsize=(8, 4))
+    fig, ax = plt.subplots(figsize=(8, 4))
 
     bins = 10
     _, _, patches = plt.hist([corr_dataset1, corr_dataset2], bins=bins, density=True, label=dataset_names)
@@ -88,7 +88,7 @@ def create_correlation_plot(corr_dataset1, corr_dataset2, dataset_names, out_pat
             bar.set_height(v / sum_items)
 
     # Plot formatting
-    plt.legend()
+    plt.legend(loc='upper left')
     plt.xlabel('Correlation')
     plt.ylabel('Percentage')
     plt.xlim(0, 1)
@@ -97,7 +97,10 @@ def create_correlation_plot(corr_dataset1, corr_dataset2, dataset_names, out_pat
     x_ticks = np.arange(0.05, 1, 0.1)
     plt.xticks(x_ticks)
 
-    axs.yaxis.set_major_formatter(PercentFormatter(xmax=1, decimals=0))
+    ax.yaxis.set_major_formatter(PercentFormatter(xmax=1, decimals=0))
+
+    ax.spines['right'].set_visible(False)
+    ax.spines['top'].set_visible(False)
 
     plt.tight_layout()
     plt.savefig(out_path)

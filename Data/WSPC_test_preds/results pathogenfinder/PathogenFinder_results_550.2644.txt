@@ -1,0 +1,164 @@
+INPUT SEQUENCE INFO:
+Input Name ::	1_07_12_2020_083804_420293_input.fsa
+Sequences ::	 5306
+Total bpp ::	 1550664
+Longest seq ::	 6001
+Shortest seq ::	 20
+Avg seq lenght ::	 292.0
+
+RESULTS:
+Min Identity Threshold ::	92.907
+Z-THRESHOLD ::	3.0
+Prediction Score ::	89.628
+Probability of being human pathogen ::	0.677
+Matches::	48
+Genome Coverage (%) ::	0.9
+Pathogenic Families Matched ::	34
+Non-Pathogenic Families Matched ::	14
+The organisms is predicted as human pathogenic ::	Yes
+
+MATCHED SEQUENCES:
+#input_seq:	fig|550.2644.peg.2515   Hydroxyaromatic non-oxidative decarboxylase protein C (EC 4.1.1.-)   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	13086	CP000026	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.	Gammaproteobacteria	hypothetical protein	AAV78633	Yes	95.58
+
+#input_seq:	fig|550.2644.peg.1244   Uncharacterized dehydratase YagF   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	CP4-6 prophage; predicted dehydratase	ACB01436	No	96.64
+
+#input_seq:	fig|550.2644.peg.2635   NAD kinase (EC 2.7.1.23)   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	33369	CU928158	Escherichia fergusonii ATCC 35469 chromosome, complete genome.	Gammaproteobacteria	inorganic polyphosphate/ATP-NAD kinase	CAQ88017	Yes	97.26
+
+#input_seq:	fig|550.2644.peg.1087   AMP-dependent synthetase and ligase   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	putative acyl-CoA synthase	ABR77127	Yes	98.88
+
+#input_seq:	fig|550.2644.peg.2049   Octaprenyl diphosphate synthase (EC 2.5.1.90)   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV15641	Yes	94.12
+
+#input_seq:	fig|550.2644.peg.1435   Maltodextrin ABC transporter, substrate-binding protein MdxE   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	ABC superfamily (bin	AAX68014	Yes	93.94
+
+#input_seq:	fig|550.2644.peg.1396   Proton/glutamate symporter @ Proton/aspartate symporter   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14881	Yes	96.8
+
+#input_seq:	fig|550.2644.peg.3578   hypothetical protein   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	Alphaproteobacteria	UNKNOWN	BAC46173	No	97.37
+
+#input_seq:	fig|550.2644.peg.1720   Protein with ParB-like nuclease domain in PFGI-1-like cluster   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	hypothetical protein	ABR80053	Yes	95.78
+
+#input_seq:	fig|550.2644.peg.2743   bacteriophage f237 ORF5; Probable coat protein A precursor   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	331	AE004091	Pseudomonas aeruginosa PAO1, complete genome.	Gammaproteobacteria	probable coat protein A of bacteriophage Pf1	AAG04113	Yes	100.0
+
+#input_seq:	fig|550.2644.peg.930   Na+ dependent nucleoside transporter NupC   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	nucleoside permease	BAH64544	Yes	95.19
+
+#input_seq:	fig|550.2644.peg.1768   hypothetical protein   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	12624	XXX	Proteus mirabilis HI4320	Gammaproteobacteria	XXX		Yes	98.85
+
+#input_seq:	fig|550.2644.peg.4751   Uncharacterized transposase YagA   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	20079	CP000948	Escherichia coli str. K12 substr. DH10B, complete genome.	Gammaproteobacteria	CP4-6 prophage; predicted DNA-binding transcriptional regulator	ACB01434	No	95.53
+
+#input_seq:	fig|550.2644.peg.2509   RNA polymerase sigma factor RpoS   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	371	AE014613	Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.	Gammaproteobacteria	RNA polymerase sigma subunit RpoS	AAO70382	Yes	93.64
+
+#input_seq:	fig|550.2644.peg.643   ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	27803	CP000886	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.	Gammaproteobacteria	hypothetical protein	ABX66384	Yes	96.32
+
+#input_seq:	fig|550.2644.peg.2000   Malate dehydrogenase (EC 1.1.1.37)   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	malate dehydrogenase	ABE09111	Yes	94.87
+
+#input_seq:	fig|550.2644.peg.4183   Formate efflux transporter FocA   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	9618	AE017220	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.	Gammaproteobacteria	putative FNT family, formate transporter (formate channel 1)	AAX64834	Yes	94.39
+
+#input_seq:	fig|550.2644.peg.4952   SSU ribosomal protein S2p (SAe)   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	30S ribosomal protein S2	ABE05693	Yes	98.34
+
+#input_seq:	fig|550.2644.peg.44   Transcriptional regulator, LysR family   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	28471	CP000966	Klebsiella pneumoniae 342 plasmid pKP91, complete sequence.	Gammaproteobacteria	transcriptional regulator, LysR family	ACI12314	No	93.27
+
+#input_seq:	fig|550.2644.peg.1722   hypothetical protein   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH61498	Yes	95.27
+
+#input_seq:	fig|550.2644.peg.1718   FIG141751: hypothetical protein in PFGI-1-like cluster   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAH61494	Yes	96.9
+
+#input_seq:	fig|550.2644.peg.1669   Unsaturated fatty acid biosythesis repressor FabR, TetR family   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF06037	Yes	95.75
+
+#input_seq:	fig|550.2644.peg.40   gluconolactonase family protein   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	28471	CP000966	Klebsiella pneumoniae 342 plasmid pKP91, complete sequence.	Gammaproteobacteria	SMP-30/gluconolactonase/LRE family protein	ACI12303	No	96.5
+
+#input_seq:	fig|550.2644.peg.1323   3-keto-L-gulonate-6-phosphate decarboxylase UlaD (EC 4.1.1.85)   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	putative hexulose-6-phosphate synthase	ABJ03741	No	95.37
+
+#input_seq:	fig|550.2644.peg.1723   hypothetical protein   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14553	Yes	96.14
+
+#input_seq:	fig|550.2644.peg.1241   Uncharacterized transcriptional regulator YagI, IclR family   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	225	U00096	Escherichia coli str. K-12 substr. MG1655, complete genome.	Gammaproteobacteria	CP4-6 prophage; predicted DNA-binding transcriptional regulator	AAC73375	No	97.22
+
+#input_seq:	fig|550.2644.peg.4140   3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabA form (EC 4.2.1.59) @ Trans-2-decenoyl-[acyl-carrier-protein] isomerase (EC 5.3.3.14)   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	16718	CP000468	Escherichia coli APEC O1, complete genome.	Gammaproteobacteria	FabA	ABJ00363	No	100.0
+
+#input_seq:	fig|550.2644.peg.1016   Hexose-phosphate uptake two-component transcriptional response regulator UhpA   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV11187	Yes	93.91
+
+#input_seq:	fig|550.2644.peg.4036   Orotate phosphoribosyltransferase (EC 2.4.2.10)   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	Alphaproteobacteria	Orotate phosphoribosyltransferase	BAC53399	No	100.0
+
+#input_seq:	fig|550.2644.peg.1682   IS1 protein InsB   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	13151	CP000038	Shigella sonnei Ss046, complete genome.	Gammaproteobacteria	IS1 ORF	AAZ90985	Yes	100.0
+
+#input_seq:	fig|550.2644.peg.1579   Nicotinamide-nucleotide amidase (EC 3.5.1.42)   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	17	BA000040	Bradyrhizobium japonicum USDA 110 DNA, complete genome.	Alphaproteobacteria	UNKNOWN	BAC49749	No	95.4
+
+#input_seq:	fig|550.2644.peg.2815   Translation elongation factor Tu   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	40107	CP001733	Aggregatibacter actinomycetemcomitans D11S-1, complete genome.	Gammaproteobacteria	elongation factor Tu	ACX82119	Yes	98.61
+
+#input_seq:	fig|550.2644.peg.5272   Acetyltransferase YpeA   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABB62686	Yes	96.45
+
+#input_seq:	fig|550.2644.peg.4996   Predicted chaperone lipoprotein YacC, potentially involved in protein secretion   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	16259	CP000243	Escherichia coli UTI89, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABE05645	Yes	94.39
+
+#input_seq:	fig|550.2644.peg.1337   Nitrite-sensitive transcriptional repressor NsrR   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	transcriptional repressor NsrR	ACF64326	Yes	94.33
+
+#input_seq:	fig|550.2644.peg.41   Integral membrane protein   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	28471	CP000966	Klebsiella pneumoniae 342 plasmid pKP91, complete sequence.	Gammaproteobacteria	putative membrane protein	ACI12268	No	98.73
+
+#input_seq:	fig|550.2644.peg.1940   Heat shock protein 10 kDa family chaperone GroES   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	20993	CP000857	Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.	Gammaproteobacteria	co-chaperonin GroES	ACN48531	Yes	96.91
+
+#input_seq:	fig|550.2644.peg.1713   Small heat shock protein   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	21069	AP006725	Klebsiella pneumoniae NTUH-K2044 DNA, complete genome.	Gammaproteobacteria	putative heat shock protein	BAH61489	Yes	99.35
+
+#input_seq:	fig|550.2644.peg.4930   YaeQ protein   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	226	BA000007	Escherichia coli O157:H7 str. Sakai DNA, complete genome.	Gammaproteobacteria	hypothetical protein	BAB33615	Yes	96.88
+
+#input_seq:	fig|550.2644.peg.2654   Ribosome-associated inhibitor A   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	13030	CP000880	Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.	Gammaproteobacteria	hypothetical protein	ABX20207	Yes	93.81
+
+#input_seq:	fig|550.2644.peg.3288   YcfF/hinT protein: a purine nucleoside phosphoramidase   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	18747	CP001113	Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.	Gammaproteobacteria	histidine triad nucleotide-binding protein 2	ACF64355	Yes	94.96
+
+#input_seq:	fig|550.2644.peg.1272   Uncharacterized protein STM4441   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	31293	CP001790	Pectobacterium wasabiae WPP163, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ACX86741	No	95.0
+
+#input_seq:	fig|550.2644.peg.1612   Putative inner membrane protein   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	12716	CP000822	Citrobacter koseri ATCC BAA-895, complete genome.	Gammaproteobacteria	hypothetical protein	ABV14200	Yes	94.39
+
+#input_seq:	fig|550.2644.peg.3160   Integration host factor alpha subunit   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	20585	CU468135	Erwinia tasmaniensis strain ET1/99 complete chromosome.	Gammaproteobacteria	Integration host factor alpha-subunit (IHF-alpha)	CAO96881	No	95.96
+
+#input_seq:	fig|550.2644.peg.4398   RebB protein   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	297	AE008923	Xanthomonas axonopodis pv. citri str. 306, complete genome.	Gammaproteobacteria	RebB protein	AAM37862	No	100.0
+
+#input_seq:	fig|550.2644.peg.4617   Haemolysin expression modulating protein   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	31	CP000647	Klebsiella pneumoniae subsp. pneumoniae MGH 78578, complete sequence.	Gammaproteobacteria	haemolysin expression modulating protein	ABR75893	Yes	94.44
+
+#input_seq:	fig|550.2644.peg.524   DsrB protein   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	16375	CP000266	Shigella flexneri 5 str. 8401, complete genome.	Gammaproteobacteria	conserved hypothetical protein	ABF04136	Yes	93.55
+
+#input_seq:	fig|550.2644.peg.5259   UPF0370 protein YpfN   [Enterobacter cloacae strain AS012445 | 550.2644]
+#matched_seq:	13145	CP000034	Shigella dysenteriae Sd197, complete genome.	Gammaproteobacteria	putative membrane protein	ABB62708	Yes	95.38
+
