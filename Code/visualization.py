@@ -54,13 +54,14 @@ def create_grouped_barplots(results, bar_groups, bars, out_path, bar_width=0.15,
         plt.savefig(out_path)
 
 
-def create_barplots(results, width, x_label, y_label, out_path, round_by=2, bar_label_font_size=14):
+def create_barplots(results, width, x_label, y_label, out_path, round_by=2, bar_label_font_size=14, figsize=(10, 6),
+                    y_lim=[0.87, 0.905]):
 
-    fig, ax = plt.subplots(figsize=(10, 6))
+    fig, ax = plt.subplots(figsize=figsize)
 
     ax.set_xticks(list(results.keys()))
     ax.bar(*zip(*results.items()), width=width)
-    ax.set_ylim([0.87, 0.905])
+    ax.set_ylim(y_lim)
     ax.set_ylabel(y_label, fontsize=18)
     ax.set_xlabel(x_label, fontsize=12)
 
