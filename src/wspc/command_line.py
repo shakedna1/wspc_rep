@@ -1,6 +1,6 @@
 import argparse
-from os import path
 import pickle
+from os import path
 from . import wspc
 
 
