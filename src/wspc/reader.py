@@ -66,10 +66,10 @@ def read_genomes(path):
 
 def read_labels(path):
 
-    label_to_int = {HP: 1, NHP: 0, 1: 1, 0: 0}
+    label_to_int = {HP: 1, NHP: 0, '1': 1, '0': 0}
 
     labels_df = pd.read_csv(path, dtype=str).set_index(GENOME_ID)
-    labels = labels_df[LABEL].apply(lambda label: label_to_int.get(label, -1))
+    labels = labels_df[LABEL].apply(lambda label: label_to_int.get(label.upper(), -1))
 
     return labels
 
