@@ -30,7 +30,7 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
         y - feature y column
 
         Returns:
-        corr - phi coefficient value
+        phi coefficient value
         """
 
         confusion_matrix = pd.crosstab(x, y)
@@ -61,8 +61,11 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
     def _hierarchical_clustering(self, linkage):
         """ Perform hierarchical clustering
 
-        :param linkage: linkage dendogram created by hierarchy.linkage(self.distance_matrix, method=method)
-        :return: a list of lists, each list represents a cluster and contains the indexes of features belonging
+        Parameters:
+        linkage - linkage dendogram created by hierarchy.linkage(self.distance_matrix, method=method)
+
+        Returns:
+        a list of lists, each list represents a cluster and contains the indexes of features belonging
                  to the cluster
         """
 
@@ -104,9 +107,9 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
     def _get_support_mask(self):
         """
         Get the boolean mask indicating which features are selected
-        Returns
-        -------
-        mask : boolean array of shape [# input features]
+
+        Returns:
+        mask - boolean array of shape [# input features]
             An element is True iff its corresponding feature is selected for
             retention.
         """
