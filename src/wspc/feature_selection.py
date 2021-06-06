@@ -41,7 +41,7 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
         return corr
 
     def _calc_dist_matrix(self, X):
-        """Transforms the correlation matrix feature_corr_matrix to a condensed distance matrix"""
+        """Calculate distance matrix between each two features in X, each value is 1-phi_correlation"""
 
         X_df = pd.DataFrame.sparse.from_spmatrix(X)
         X_corr_mat = X_df.corr(method=self._phi_coef)
