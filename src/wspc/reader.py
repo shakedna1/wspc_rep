@@ -75,12 +75,16 @@ def read_labels(path):
 
 
 def load_model(model_path):
-    """Loads existing model
+    """
+    Loads existing model
 
-    Parameters:
+    Parameters
+    ----------
     model_path - path to the model file
 
-    Returns: loaded model
+    Returns
+    ----------
+    loaded model
     """
 
     with open(model_path, 'rb') as f:

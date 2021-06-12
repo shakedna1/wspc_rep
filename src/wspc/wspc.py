@@ -3,6 +3,7 @@ import pkgutil
 from . import feature_selection
 from . import reader
 
+
 PRED = 'Prediction'
 PROB = 'Probability'
 TRAINED_MODEL_PATH = 'model/WSPC_model.pkl'
