@@ -65,6 +65,17 @@ def read_genomes(path):
 
 
 def read_labels(path):
+    """
+    Reads csv file with labels from the given path
+
+    Parameters
+    ----------
+    path -  path to *.csv file with labels
+
+    Returns
+    ----------
+    labels - series object with genome labels
+    """
 
     label_to_int = {HP: 1, NHP: 0, '1': 1, '0': 0}
 
