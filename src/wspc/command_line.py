@@ -47,8 +47,6 @@ def predict(args):
     args.model_path - path to a saved model in a *.pkl file. If not provided, saved pre-trained model will be used
     args.output - output directory, default current directory
     """
-    if not args.i:
-        raise ValueError('Please provide a path to input directory with genome *.txt files or a merged input *.fasta file')
         
     X = wspc.read_genomes(args.i)
 
@@ -71,8 +69,6 @@ def fit(args):
     args.output - output directory, default current directory
     """
     
-    if not args.i:
-        raise ValueError('Please provide a path to input directory with genome *.txt files or a merged input *.fasta file')
         
     X = wspc.read_genomes(args.i)
 
