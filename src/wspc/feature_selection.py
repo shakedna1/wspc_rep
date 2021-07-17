@@ -15,21 +15,24 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
     """
     A transformer that clusters the features in X according to dist_matrix, and selects a feature from each cluster with
     the highest chi2 score of X[feature] versus y
-    """
-
+    """ 
+    
     def __init__(self, dist_matrix=None, threshold=1):
 
         self.dist_matrix = dist_matrix
         self.threshold = threshold
 
     def _phi_coef(self, x, y):
-        """Calculates phi coefficient between features
+        """
+        Calculates phi coefficient between features
 
-        Parameters:
+        Parameters
+        ----------
         x - feature x column
         y - feature y column
 
-        Returns:
+        Returns
+        ----------
         phi coefficient value
         """
 
@@ -41,7 +44,9 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
         return corr
 
     def _calc_dist_matrix(self, X):
-        """Calculate distance matrix between each two features in X, each value is 1-phi_correlation"""
+        """
+        Calculate distance matrix between each two features in X, each value is 1-phi_correlation
+        """
 
         X_df = pd.DataFrame.sparse.from_spmatrix(X)
         X_corr_mat = X_df.corr(method=self._phi_coef)
@@ -59,12 +64,15 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
         return linkage
 
     def _hierarchical_clustering(self, linkage):
-        """ Perform hierarchical clustering
+        """ 
+        Perform hierarchical clustering
 
-        Parameters:
+        Parameters
+        ----------
         linkage - linkage dendogram created by hierarchy.linkage(self.distance_matrix, method=method)
 
-        Returns:
+        Returns
+        ----------
         a list of lists, each list represents a cluster and contains the indexes of features belonging
                  to the cluster
         """
@@ -108,7 +116,8 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
         """
         Get the boolean mask indicating which features are selected
 
-        Returns:
+        Returns
+        ----------
         mask - boolean array of shape [# input features]
             An element is True iff its corresponding feature is selected for
             retention.
@@ -126,6 +135,19 @@ class SelectHierarchicalClustering(SelectorMixin, BaseEstimator):
 
 
 def get_fs_pipeline(k, threshold, random_state=0):
+    """
+    Creates feature selection pipeline
+
+    Parameters
+    ----------
+    k - the k parameter for the SelectKBest features function
+    threshold - clustering threshold for the Hierarchial clustering
+    random_state - random state for the RandomForestClassifier. Deafult value: 0
+
+    Returns
+    ----------
+    pipeline - feature selection pipeline
+    """
 
     pipeline = Pipeline(steps=[('vectorize', CountVectorizer(lowercase=False, binary=True)),
                                ('k_best', SelectKBest(score_func=sklearn.feature_selection.chi2, k=k)),

@@ -7,7 +7,7 @@ pip install wspc
 
 ## Dependencies
 - Python >=3.6
-- Packages: pandas, numpy, sklearn, scipy
+- Packages: pandas, numpy, scikit-learn, scipy
 
 ## Command Line
 

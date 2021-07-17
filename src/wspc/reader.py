@@ -12,6 +12,17 @@ NHP = 'NHP'
 
 
 def read_merged_file(file_path):
+    """
+    Reads genomes merged file into pd.Series object
+
+    Parameters
+    ----------
+    file_path - path to a merged input *.fasta file
+
+    Returns
+    ----------
+    pd.Series object that represents the all input genomes of the merged file
+    """
 
     genomes_order = []
     genome_to_pgfams = {}
@@ -32,6 +43,17 @@ def read_merged_file(file_path):
 
 
 def read_genome_file(file_entry):
+    """
+    Reads a single genome file and returns its contained pgfams
+
+    Parameters
+    ----------
+    file_entry - entry to an input genome *.txt file
+
+    Returns
+    ----------
+    pd.Series object that represents all the input genomes in the directory
+    """
 
     pgfams = pd.read_csv(file_entry, usecols=[PGFAM_COL], sep='\t').dropna()
     pgfams = ' '.join(list(pgfams[PGFAM_COL]))
@@ -40,6 +62,17 @@ def read_genome_file(file_entry):
 
 
 def read_files_in_dir(dir_path):
+    """
+    Reads all genomes *.txt files in a directory into pd.Series object
+
+    Parameters
+    ----------
+    dir_path - a path to an input directory with genome *.txt files
+
+    Returns
+    ----------
+    pd.Series object that represents all the input genomes in the directory
+    """
 
     genomes_ids = []
     genomes_pgfams = []
@@ -57,6 +90,17 @@ def read_files_in_dir(dir_path):
 
 
 def read_genomes(path):
+    """
+    Reads all genomes information from an input directory with genome *.txt files or a merged input *.fasta file
+
+    Parameters
+    ----------
+    path - a path to an input directory with genome *.txt files or a merged input *.fasta file
+
+    Returns
+    ----------
+    pd.Series object that represents all the input genomes in the directory
+    """
 
     if os.path.isdir(path):
         return read_files_in_dir(path)
@@ -65,6 +109,17 @@ def read_genomes(path):
 
 
 def read_labels(path):
+    """
+    Reads csv file with labels from the given path
+
+    Parameters
+    ----------
+    path -  path to *.csv file with labels
+
+    Returns
+    ----------
+    labels - series object with the genomes labels
+    """
 
     label_to_int = {HP: 1, NHP: 0, '1': 1, '0': 0}
 
@@ -75,12 +130,16 @@ def read_labels(path):
 
 
 def load_model(model_path):
-    """Loads existing model
+    """
+    Loads existing model from a model_path
 
-    Parameters:
+    Parameters
+    ----------
     model_path - path to the model file
 
-    Returns: loaded model
+    Returns
+    ----------
+    loaded model
     """
 
     with open(model_path, 'rb') as f:
@@ -88,5 +147,16 @@ def load_model(model_path):
 
 
 def load_model_str(data_str):
+    """
+    Loads existing model from data_str
+
+    Parameters
+    ----------
+    data_str - pickled representation data of the model
+
+    Returns
+    ----------
+    loaded model
+    """
 
     return pickle.loads(data_str)
