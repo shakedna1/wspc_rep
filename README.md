@@ -1,11 +1,14 @@
 # WSPC
 
+## Installation and dependencies
+
 Installing the package:
 ```buildoutcfg
 pip install wspc
 ```
 
-## Dependencies
+Dependencies:
+
 - Python >=3.6
 - Packages: pandas, numpy, scikit-learn, scipy
 
@@ -58,7 +61,7 @@ wspc -m fit -i path_to_input_genomes -l path_to_labels -k 450 -t 0.18
 
 ### Reconstruction of Training and Prediction on the dataset from the paper
 
-1. Download and extract the dataset from https://github.com/shakedna1/wspc_rep/raw/main/Data/train_test_datasets.zip   
+1. Download and extract the WSPC dataset (WSPC train set & WSPC test set) from https://github.com/shakedna1/wspc_rep/raw/main/Data/train_test_datasets.zip
     In Ubuntu:
     ```buildoutcfg
        wget https://github.com/shakedna1/wspc_rep/raw/main/Data/train_test_datasets.zip
