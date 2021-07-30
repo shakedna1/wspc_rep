@@ -2,7 +2,7 @@
 
 ## Installation and dependencies
 
-Installing the package:
+WSPC package can be installed using the command line:
 ```buildoutcfg
 pip install wspc
 ```
