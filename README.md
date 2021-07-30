@@ -45,6 +45,7 @@ wspc -m predict -i path_to_input_genomes
 
 
 Train:
+
 You can train a new model using the fit command.
 
 You can train a new model using the same k (selecting k-best features using chi2)
