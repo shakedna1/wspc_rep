@@ -115,7 +115,8 @@ Imports:
 import wspc
 ```
 
-Load wspc pre-trained model:
+Load a pre-trained model:
+
 
 model_path: path to a saved model in a *.pkl file.
 
