@@ -119,6 +119,7 @@ import wspc
 
 
 model_path: path to a saved model in a *.pkl file.
+
 (In order to use the wspc pre-trained model, you can download the model from
 https://github.com/shakedna1/wspc_rep/blob/main/src/wspc/model/WSPC_model.pkl, save it to location of your choice,
 and set the model_path parameter to its saved location)
