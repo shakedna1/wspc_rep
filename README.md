@@ -89,12 +89,12 @@ Below are a detailed running examples of WSPC as a python module:
 
 
 
-Imports:
+#### Imports:
 ```
 import wspc
 ```
 
-Train a new model:
+#### Train a new model:
 ```
 X_train = wspc.read_genomes(path_to_genomes)
 y = wspc.read_labels(path_to_labels, X_train)
@@ -102,7 +102,7 @@ y = wspc.read_labels(path_to_labels, X_train)
 model = wspc.fit(X_train, y, k=450, t=0.18)
 ```
 
-Predict pathogenicity:
+#### Predict pathogenicity:
 ```
 X_test = wspc.read_genomes(path_to_genomes)
 predictions = wspc.predict(X_test, model)
@@ -110,12 +110,12 @@ predictions = wspc.predict(X_test, model)
 
 ### 2. Predict genomes pathogenicity using an exiting model:
 
-Imports:
+#### Imports:
 ```
 import wspc
 ```
 
-Load a pre-trained model:
+#### Load a pre-trained model:
 
 
 model_path: path to a saved model in a *.pkl file.
@@ -128,7 +128,7 @@ and set the model_path parameter to its saved location.
 model = wspc.load_model(model_path)
 ```
 
-Predict pathogenicity:
+#### Predict pathogenicity:
 ```
 X_test = wspc.read_genomes(path_to_genomes)
 predictions = wspc.predict(X_test, model)
