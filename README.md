@@ -17,7 +17,7 @@ Dependencies:
 > In windows: make sure that the python "Scripts\\" directory is added to PATH, 
 >so that the package can be executed as a command 
 
-Usage:
+### Usage:
 
 ```buildoutcfg
 usage: wspc [-h] [-m {predict,fit}] -i I [-o OUTPUT] [-l LABELS_PATH] [--model_path MODEL_PATH] [-k K] [-t T]
@@ -36,7 +36,7 @@ optional arguments:
   -t T                  parameter for training - clustering threshold
 ```  
 
-Predict:
+### Predict:
 
 You can predict the pathogenicity potentials of group of genomes using a saved model in a *.pkl file.
 If a path is not provided, saved pre-trained model will be used.
@@ -47,7 +47,7 @@ wspc -m predict -i path_to_input_genomes
 ```
 
 
-Train:
+### Train:
 
 Train a new model using the fit command.
 
