@@ -56,3 +56,42 @@ different values of your choice.
 wspc -m fit -i path_to_input_genomes -l path_to_labels -k 450 -t 0.18
 ```
 
+### Reconstruction of Training and Prediction on the dataset from the paper
+
+1. Download and extract the dataset from https://github.com/shakedna1/wspc_rep/raw/main/Data/train_test_datasets.zip   
+    In Ubuntu:
+    ```buildoutcfg
+       wget https://github.com/shakedna1/wspc_rep/raw/main/Data/train_test_datasets.zip
+       unzip train_test_datasets.zip
+    ```
+   
+2. Train:
+    ```buildoutcfg
+        wspc -m fit -i train_genomes.fasta -l train_genomes_info.csv -k 450 -t 0.18 
+    ```
+   The file trained_model.pkl will be saved in the same directory (or in the directory provided through
+    the -o argument)
+
+3. Test:
+    ```buildoutcfg
+       wspc -m predict -i test_genomes.fasta --model_path trained_model.pkl
+    ```
+   The file predictions.csv will contain the predictions
+   
+## Running wspc as a python module
+
+```
+import wspc
+
+# train
+X_train = wspc.read_genomes(path_to_genomes)
+y = wspc.read_labels(path_to_labels, X_train)
+
+model = wspc.fit(X_train, y, k=450, t=0.18)
+
+# predict
+
+X_test = wspc.read_genomes(path_to_genomes)
+predictions = wspc.predict(X_test, model)
+
+```

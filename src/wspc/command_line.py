@@ -68,12 +68,11 @@ def fit(args):
     args.t - parameter for training - clustering threshold
     args.output - output directory, default current directory
     """
-    
-        
-    X = wspc.read_genomes(args.i)
 
     if not args.labels_path:
         raise ValueError('Please provide a path to labels using --labels_path')
+        
+    X = wspc.read_genomes(args.i)
 
     y = wspc.read_labels(args.labels_path, X)
     model = wspc.fit(X, y, args.k, args.t)
