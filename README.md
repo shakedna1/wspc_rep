@@ -59,7 +59,7 @@ different values of your choice.
 wspc -m fit -i path_to_input_genomes -l path_to_labels -k 450 -t 0.18
 ```
 
-### Reconstruction of Training and Prediction on the dataset from the paper
+## Reconstruction of Training and Prediction on the dataset from the paper
 
 1. Download and extract the WSPC dataset (WSPC train set & WSPC test set) from https://github.com/shakedna1/wspc_rep/raw/main/Data/train_test_datasets.zip
     In Ubuntu:
