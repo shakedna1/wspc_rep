@@ -35,12 +35,22 @@ optional arguments:
 
 Predict:
 
+You can predict the pathogenicity potentials of group of genomes using a saved model in a *.pkl file.
+If a path is not provided, saved pre-trained model will be used.
+The WSPC pre-trained model can be found in https://github.com/shakedna1/wspc_rep/blob/main/src/wspc/model/WSPC_model.pkl.
+
 ```buildoutcfg
 wspc -m predict -i path_to_input_genomes
 ```
 
 
 Train:
+
+Train a new model using the fit command.
+
+You can train a new model using the same k (selecting k-best features using chi2)
+and t (clustering threshold) values of WSPC (450 and 0.18 respectively) or using a
+different values of your choice.
 
 ```buildoutcfg
 wspc -m fit -i path_to_input_genomes -l path_to_labels -k 450 -t 0.18
