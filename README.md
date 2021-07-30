@@ -14,8 +14,8 @@ Dependencies:
 
 ## Command Line
 
-> In windows: make sure that the python "Scripts\\" directory is added to PATH, 
->so that the package can be executed as a command 
+> In windows: make sure that the python "Scripts\\" directory is added to PATH,
+>so that the package can be executed as a command
 
 ### Usage:
 
@@ -34,7 +34,7 @@ optional arguments:
                         path to a saved model in a *.pkl file. If not provided, saved pre-trained model will be used
   -k K                  parameter for training - selecting k-best features using chi2
   -t T                  parameter for training - clustering threshold
-```  
+```
 
 ### Predict:
 
@@ -67,10 +67,10 @@ wspc -m fit -i path_to_input_genomes -l path_to_labels -k 450 -t 0.18
        wget https://github.com/shakedna1/wspc_rep/raw/main/Data/train_test_datasets.zip
        unzip train_test_datasets.zip
     ```
-   
+
 2. Train:
     ```buildoutcfg
-        wspc -m fit -i train_genomes.fasta -l train_genomes_info.csv -k 450 -t 0.18 
+        wspc -m fit -i train_genomes.fasta -l train_genomes_info.csv -k 450 -t 0.18
     ```
    The file trained_model.pkl will be saved in the same directory (or in the directory provided through
     the -o argument)
@@ -80,21 +80,30 @@ wspc -m fit -i path_to_input_genomes -l path_to_labels -k 450 -t 0.18
        wspc -m predict -i test_genomes.fasta --model_path trained_model.pkl
     ```
    The file predictions.csv will contain the predictions
-   
-## Running wspc as a python module
 
+## Running WSPC as a python module
+
+Below are a detailed running examples of WSPC as a python module:
+
+### 1. Training a new model and using it to predict genomes pathogenicity:
+
+
+
+Imports:
 ```
 import wspc
+```
 
-# train
+Train a new model:
+```
 X_train = wspc.read_genomes(path_to_genomes)
 y = wspc.read_labels(path_to_labels, X_train)
 
 model = wspc.fit(X_train, y, k=450, t=0.18)
+```
 
-# predict
-
+Predict pathogenicity:
+```
 X_test = wspc.read_genomes(path_to_genomes)
 predictions = wspc.predict(X_test, model)
-
 ```
