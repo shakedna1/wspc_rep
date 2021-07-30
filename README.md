@@ -85,7 +85,7 @@ wspc -m fit -i path_to_input_genomes -l path_to_labels -k 450 -t 0.18
 
 Below are a detailed running examples of WSPC as a python module:
 
-### 1. Training a new model and using it to predict genomes pathogenicity:
+### 1. Training a new model predict genomes pathogenicity using the new model:
 
 
 
