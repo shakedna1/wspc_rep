@@ -107,3 +107,30 @@ Predict pathogenicity:
 X_test = wspc.read_genomes(path_to_genomes)
 predictions = wspc.predict(X_test, model)
 ```
+
+### 2. Predict genomes pathogenicity using an exiting model:
+
+You can download wspc pre-trained model from https://github.com/shakedna1/wspc_rep/blob/main/src/wspc/model/WSPC_model.pkl,
+or use
+
+Imports:
+```
+import wspc
+```
+
+Load wspc pre-trained model:
+
+* model_path- path to a saved model in a *.pkl file.
+ In order to use the wspc pre-trained model, you can download the model from
+ https://github.com/shakedna1/wspc_rep/blob/main/src/wspc/model/WSPC_model.pkl, save it to location of your choice,
+ and set th model_path parameter to its saved location.
+
+'''
+model = wspc.load_model(model_path)
+'''
+
+Predict pathogenicity:
+```
+X_test = wspc.read_genomes(path_to_genomes)
+predictions = wspc.predict(X_test, model)
+```
