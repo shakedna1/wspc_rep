@@ -3,6 +3,7 @@ import pickle
 
 from os import path
 from . import wspc
+from datetime import datetime
 
 PREDICT = 'predict'
 FIT = 'fit'
@@ -74,16 +75,18 @@ def fit(args):
     if not args.labels_path:
         raise ValueError('Please provide a path to labels using --labels_path')
 
-    print("Reading genomes")
-    X = wspc.read_genomes(args.i)
+    print(f"{datetime.now().strftime('%H:%M:%S')} Reading labels")
+    y = wspc.read_labels(args.labels_path)
+    print(f"{datetime.now().strftime('%H:%M:%S')} Read {y.shape[0]} labels")
 
-    print("Reading labels")
-    y = wspc.read_labels(args.labels_path, X)
+    print(f"{datetime.now().strftime('%H:%M:%S')} Reading genomes")
+    X = wspc.read_genomes(args.i, y)
+    print(f"{datetime.now().strftime('%H:%M:%S')} Read {X.shape[0]} genomes")
 
-    print("Started training")
+    print(f"{datetime.now().strftime('%H:%M:%S')} Started training")
     model = wspc.fit(X, y, args.k, args.t)
 
-    print(f"Writing fitted model to {path.join(args.output, TRAINED_MODEL_NAME)}")
+    print(f"{datetime.now().strftime('%H:%M:%S')} Writing fitted model to {path.join(args.output, TRAINED_MODEL_NAME)}")
     write_fitted_model(model, args.output)
 
 
