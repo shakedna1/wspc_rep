@@ -9,7 +9,9 @@ WSPC package can be installed using one of the following options:
 pip install wspc
 ```
 2. Install WSPC on conda enviroment:
-```conda install -c zivukelsongroup wspc```
+```buildoutcfg
+conda install -c zivukelsongroup wspc
+```
 
 Dependencies:
 
