@@ -2,10 +2,14 @@
 
 ## Installation and dependencies
 
-WSPC package can be installed using the command line:
+WSPC package can be installed using one of the following options:
+
+1. Install WSPC via the command line using pip install:
 ```buildoutcfg
 pip install wspc
 ```
+2. Install WSPC on conda enviroment:
+```conda install -c zivukelsongroup wspc```
 
 Dependencies:
 
