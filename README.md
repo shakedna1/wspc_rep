@@ -137,12 +137,14 @@ predictions = wspc.predict(X_test, model)
 
 ## WSPC input:
 
-WSPC can handle two types of input:
+WSPC handle two types of input:
 1. Input directory with genome *.txt files:
 
 
 2. Merged input *.fasta file:
+
 For the merged file exact format, look at the file: https://github.com/shakedna1/wspc_rep/blob/changes_30_7/Data/train_genomes.fasta.
+
 Example of the fasta file content:
 ```
 >1346.123
@@ -165,9 +167,6 @@ PGF_04788810
 ```
 * 1346.123 - genome name, the lines bellow represents the genome sequence of pgfams annotations. X represents a missing/un-annotated gene.
 
-
-
-In order to predict the pathogenicity of a list of genomes,
 
 ### Obtain PATRIC Global Protein Families (PGFams) annotations for new sequenced genome:
 
