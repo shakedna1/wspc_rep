@@ -175,8 +175,8 @@ In order to generate PGFams annotations file for a new sequenced genome:
 
 1. Use PATRIC's Genome Annotation Service: https://patricbrc.org/app/Annotation.
 
-For detailed instructions, Follow the instructions under the PATRIC genome annotations service documentation:
-https://docs.patricbrc.org/user_guides/services/genome_annotation_service.html
+    For detailed instructions, Follow the instructions under the PATRIC genome annotations service documentation:
+    https://docs.patricbrc.org/user_guides/services/genome_annotation_service.html
 
 2. Download the resulting "Taxonomy name + label".txt file (click on view, then download. The "Taxonomy name + label" is the genome name).
 
