@@ -143,29 +143,29 @@ WSPC handle two types of input:
 
 2. Merged input *.fasta file:
 
-For the merged file exact format, look at the file: https://github.com/shakedna1/wspc_rep/blob/changes_30_7/Data/train_genomes.fasta.
+    For the merged file exact format, look at the file: https://github.com/shakedna1/wspc_rep/blob/changes_30_7/Data/train_genomes.fasta.
 
-Example of the fasta file content:
-```
->1346.123
-PGF_10048015
-PGF_00062045
-PGF_00409415
-PGF_00766022
-PGF_02011026
-X
-X
-X
-PGF_07480521
-PGF_01162199
-PGF_03475877
-PGF_00876106
-PGF_06473395
-PGF_06429692
-PGF_00007012
-PGF_04788810
-```
-* 1346.123 - genome name, the lines bellow represents the genome sequence of pgfams annotations. X represents a missing/un-annotated gene.
+    Example of the fasta file content:
+    ```
+    >1346.123
+    PGF_10048015
+    PGF_00062045
+    PGF_00409415
+    PGF_00766022
+    PGF_02011026
+    X
+    X
+    X
+    PGF_07480521
+    PGF_01162199
+    PGF_03475877
+    PGF_00876106
+    PGF_06473395
+    PGF_06429692
+    PGF_00007012
+    PGF_04788810
+    ```
+    * 1346.123 - genome name, the lines bellow represents the genome sequence of pgfams annotations. X represents a missing/un-annotated gene.
 
 
 ### Obtain PATRIC Global Protein Families (PGFams) annotations for new sequenced genome:
