@@ -174,11 +174,13 @@ PATRIC Provides Global Protein Families (PGFams) annotations service for new gen
 In order to generate PGFams annotations file for a new sequenced genome:
 
 1. Use PATRIC's Genome Annotation Service: https://patricbrc.org/app/Annotation.
+
 For detailed instructions, Follow the instructions under the PATRIC genome annotations service documentation:
 https://docs.patricbrc.org/user_guides/services/genome_annotation_service.html
 
 2. Download the resulting "Taxonomy name + label".txt file (click on view, then download. The "Taxonomy name + label" is the genome name).
 
-3. Extract pgfam annotations using the column "pgfam".
+3. Extract pgfam annotations from the output file, using the column "pgfam" and save it to a genome *.txt file or merged *.fasta file in the format according to the
+format described above.
 
 
