@@ -3,9 +3,12 @@ import pickle
 
 from os import path
 from . import wspc
+from datetime import datetime
 
 PREDICT = 'predict'
 FIT = 'fit'
+TRAINED_MODEL_NAME = 'trained_model.pkl'
+PREDICTIONS_FILE_NAME = 'predictions.csv'
 
 
 def write_fitted_model(model, output_path):
@@ -18,7 +21,7 @@ def write_fitted_model(model, output_path):
     output_path - path to output directory
     """
 
-    model_path = path.join(output_path, 'trained_model.pkl')
+    model_path = path.join(output_path, TRAINED_MODEL_NAME)
 
     with open(model_path, 'wb') as file:
         pickle.dump(model, file)
@@ -33,7 +36,7 @@ def write_predictions(predictions, output_path):
     predictions - dataframe of the model predictions
     output_path - path to output directory
     """ 
-    pred_path = path.join(output_path, 'predictions.csv')
+    pred_path = path.join(output_path, PREDICTIONS_FILE_NAME)
     predictions.to_csv(pred_path)
 
 
@@ -71,12 +74,19 @@ def fit(args):
 
     if not args.labels_path:
         raise ValueError('Please provide a path to labels using --labels_path')
-        
-    X = wspc.read_genomes(args.i)
 
-    y = wspc.read_labels(args.labels_path, X)
+    print(f"{datetime.now().strftime('%H:%M:%S')} Reading labels")
+    y = wspc.read_labels(args.labels_path)
+    print(f"{datetime.now().strftime('%H:%M:%S')} Read {y.shape[0]} labels")
+
+    print(f"{datetime.now().strftime('%H:%M:%S')} Reading genomes")
+    X = wspc.read_genomes(args.i, y)
+    print(f"{datetime.now().strftime('%H:%M:%S')} Read {X.shape[0]} genomes")
+
+    print(f"{datetime.now().strftime('%H:%M:%S')} Started training")
     model = wspc.fit(X, y, args.k, args.t)
 
+    print(f"{datetime.now().strftime('%H:%M:%S')} Writing fitted model to {path.join(args.output, TRAINED_MODEL_NAME)}")
     write_fitted_model(model, args.output)
 
 

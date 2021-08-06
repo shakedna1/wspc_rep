@@ -50,30 +50,35 @@ def fit(X, y, k=450, threshold=0.18):
     return pipeline
 
 
-def read_genomes(path):
+def read_genomes(path, y=None):
     """
     Reads all genomes information from an input directory with genome *.txt files or a merged input *.fasta file
 
     Parameters
     ----------
     path - path to an input directory with genome *.txt files or a merged input *.fasta file
+    y - if provided, reindex genomes according to y.index
 
     Returns
     ----------
     pd.Series object that represents all the input genomes in the directory
     """
 
-    return reader.read_genomes(path)
+    genomes = reader.read_genomes(path)
+    if y is not None:
+        genomes = genomes.reindex(y.index)
+
+    return genomes
 
 
-def read_labels(path, X):
+def read_labels(path, X=None):
     """
     Reads all genomes labels from *.csv file
 
     Parameters
     ----------
     path - path to *.csv file with labels
-    X -
+    X - if provided, reindex labels according to X.index
 
     Returns
     ----------
@@ -81,7 +86,10 @@ def read_labels(path, X):
     """
 
     labels = reader.read_labels(path)
-    return labels.reindex(X.index)
+
+    if X is not None:
+        labels = labels.reindex(X.index)
+    return labels
 
 
 def load_model(model_path=None):
