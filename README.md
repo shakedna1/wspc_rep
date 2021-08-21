@@ -140,6 +140,7 @@ predictions = wspc.predict(X_test, model)
 WSPC handle different types of input:
 
 1. Input directory with genome *.tab and\or *.txt files:
+
    *.tab file - Public genomes on PATRIC database are available through a genomes directory. Each genome directory includes a
    .features.tab file, which provides all genomic features and related information in tab-delimited format, including
    PGFams information.

@@ -3,8 +3,7 @@ import pickle
 import pandas as pd
 from . import feature_selection
 
-PATRIC_FILE_EXTENSION = '.txt'
-PGFAM_COL = 'pgfam'
+PATRIC_FILE_EXTENSION_TO_PGFAM_COL = {'.txt' : 'pgfam', '.tab' : 'pgfam_id'}
 GENOME_ID = 'Genome ID'
 LABEL = 'Label'
 HP = 'HP'
@@ -42,7 +41,7 @@ def read_merged_file(file_path):
     return pd.Series(genomes_pgfams, index=genomes_order, dtype="string")
 
 
-def read_genome_file(file_entry):
+def read_genome_file(file_entry, pgfam_col):
     """
     Reads a single genome file and returns its contained pgfams
 
@@ -55,8 +54,8 @@ def read_genome_file(file_entry):
     pd.Series object that represents all the input genomes in the directory
     """
 
-    pgfams = pd.read_csv(file_entry, usecols=[PGFAM_COL], sep='\t').dropna()
-    pgfams = ' '.join(list(pgfams[PGFAM_COL]))
+    pgfams = pd.read_csv(file_entry, usecols=[pgfam_col], sep='\t').dropna()
+    pgfams = ' '.join(list(pgfams[pgfam_col]))
 
     return pgfams
 
@@ -79,12 +78,15 @@ def read_files_in_dir(dir_path):
 
     with os.scandir(dir_path) as entries:
         for entry in entries:
-            if entry.is_file() and entry.name.endswith(PATRIC_FILE_EXTENSION):
-                genome_id = entry.name.split(PATRIC_FILE_EXTENSION)[0]
-                pgfams = read_genome_file(entry)
+            if entry.is_file():
+                for extension, pgfam_col in PATRIC_FILE_EXTENSION_TO_PGFAM_COL.items():
+                    if entry.name.endswith(extension):
+                        genome_id = entry.name.split(extension)[0]
+                        pgfams = read_genome_file(entry, pgfam_col)
 
-                genomes_ids.append(genome_id)
-                genomes_pgfams.append(pgfams)
+                        genomes_ids.append(genome_id)
+                        genomes_pgfams.append(pgfams)
+                        break
 
     return pd.Series(genomes_pgfams, index=genomes_ids, dtype="string")
 
