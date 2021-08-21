@@ -137,13 +137,24 @@ predictions = wspc.predict(X_test, model)
 
 ## WSPC input:
 
-WSPC handle two types of input:
-1. Input directory with genome *.txt files:
+WSPC handle different types of input:
 
+1. Input directory with genome *.tab and\or *.txt files:
+   *.tab file - Public genomes on PATRIC database are available through a genomes directory. Each genome directory includes a
+   .features.tab file, which provides all genomic features and related information in tab-delimited format, including
+   PGFams information.
+   For features.tab file, example, look at the file:
+    https://github.com/shakedna1/wspc_rep/blob/main/Data/Bacpacs/patric_files/1041522.28.PATRIC.features.tab
+
+    *.txt file - Output file of the PATRIC annotation service for new genome. For more detailes on the file and the
+    annotation service, see bellow explanation look at the section:
+     "Obtain PATRIC Global Protein Families (PGFams) annotations for new sequenced genome" below.
 
 2. Merged input *.fasta file:
+   A merged file in a fasta format that contains concatenation of the PGFams information, which can be extracted from
+   a *.tab file using the field: pgfam_id and from a *.txt file using the fiels: "pgfam".
 
-    For the merged file exact format, look at the file: https://github.com/shakedna1/wspc_rep/blob/changes_30_7/Data/train_genomes.fasta.
+   For the merged file exact format, look at the file: https://github.com/shakedna1/wspc_rep/blob/changes_30_7/Data/train_genomes.fasta.
 
     Example of the fasta file content:
     ```
@@ -168,6 +179,7 @@ WSPC handle two types of input:
     * 1346.123 - genome name, the lines bellow represents the genome sequence of pgfams annotations. X represents a missing/un-annotated gene.
 
 
+
 ### Obtain PATRIC Global Protein Families (PGFams) annotations for new sequenced genome:
 
 PATRIC Provides Global Protein Families (PGFams) annotations service for new genomes.
@@ -178,9 +190,8 @@ In order to generate PGFams annotations file for a new sequenced genome:
     For detailed instructions, Follow the instructions under the PATRIC genome annotations service documentation:
     https://docs.patricbrc.org/user_guides/services/genome_annotation_service.html
 
-2. Download the resulting "Taxonomy name + label".txt file (click on view, then download. The "Taxonomy name + label" is the genome name).
+2. Download the resulting txt file (click on view, then download. "Taxonomy name + label" is the genome name).
 
-3. Extract pgfam annotations from the output file, using the column "pgfam" and save it to a genome *.txt file or merged *.fasta file in the format according to the
-format described above.
+3. If you wish to create a merged *.fasta file for number of genomes, the column "pgfam" will be used for pgfam extraction.
 
 
