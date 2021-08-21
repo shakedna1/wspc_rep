@@ -144,11 +144,11 @@ WSPC handle different types of input:
    *.tab file - Public genomes on PATRIC database are available through a genomes directory. Each genome directory includes a
    .features.tab file, which provides all genomic features and related information in tab-delimited format, including
    PGFams information.
-   For features.tab file, example, look at the file:
+   For features.tab file example, look at the file:
     https://github.com/shakedna1/wspc_rep/blob/main/Data/Bacpacs/patric_files/1041522.28.PATRIC.features.tab
 
     *.txt file - Output file of the PATRIC annotation service for new genome. For more detailes on the file and the
-    annotation service, see bellow explanation look at the section:
+    annotation service, see explanation at the section:
      "Obtain PATRIC Global Protein Families (PGFams) annotations for new sequenced genome" below.
 
 2. Merged input *.fasta file:
@@ -191,7 +191,7 @@ In order to generate PGFams annotations file for a new sequenced genome:
     For detailed instructions, Follow the instructions under the PATRIC genome annotations service documentation:
     https://docs.patricbrc.org/user_guides/services/genome_annotation_service.html
 
-2. Download the resulting txt file (click on view, then download. "Taxonomy name + label" is the genome name).
+2. Download the resulting "Taxonomy name + label".txt file (click on view, then download. "Taxonomy name + label" is the genome name).
 
 3. If you wish to create a merged *.fasta file for number of genomes, the column "pgfam" will be used for pgfam extraction.
 
