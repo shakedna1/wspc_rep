@@ -155,7 +155,7 @@ WSPC handle different types of input:
    A merged file in a fasta format that contains concatenation of the PGFams information, which can be extracted from
    a *.tab file using the field: pgfam_id and from a *.txt file using the fiels: "pgfam".
 
-   For the merged file exact format, look at the file: https://github.com/shakedna1/wspc_rep/blob/changes_30_7/Data/train_genomes.fasta.
+   For the merged file exact format, look at the file: https://github.com/shakedna1/wspc_rep/blob/main/Data/train_genomes.fasta
 
     Example of the fasta file content:
     ```
@@ -177,7 +177,8 @@ WSPC handle different types of input:
     PGF_00007012
     PGF_04788810
     ```
-    * 1346.123 - genome name, the lines bellow represents the genome sequence of pgfams annotations. X represents a missing/un-annotated gene.
+    * 1346.123 - genome name, the lines below the genome name represent the genome sequence of PGFam annotations. X represents a missing/un-annotated gene.
+    Note that any protein family annotation IDs can be used.
 
 
 
