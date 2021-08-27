@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="wspc",
-    version="0.0.5",
+    version="0.0.6",
     author="Shaked Naor-Hoffmann & ‪Dina Svetlitsky",
     author_email="zivukelson@gmail.com",
     description="Protein-content-based bacterial pathogenicity classifier",
