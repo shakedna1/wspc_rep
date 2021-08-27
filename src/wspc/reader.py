@@ -47,7 +47,7 @@ def read_genome_file(file_entry, pgfam_col):
 
     Parameters
     ----------
-    file_entry - entry to an input genome *.txt file
+    file_entry - entry to an input genome file
 
     Returns
     ----------
@@ -62,11 +62,11 @@ def read_genome_file(file_entry, pgfam_col):
 
 def read_files_in_dir(dir_path):
     """
-    Reads all genomes *.txt files in a directory into pd.Series object
+    Reads all genomes *.txt/*.tab files in a directory into pd.Series object
 
     Parameters
     ----------
-    dir_path - a path to an input directory with genome *.txt files
+    dir_path - a path to an input directory with genome *.txt/*.tab files
 
     Returns
     ----------
@@ -93,11 +93,11 @@ def read_files_in_dir(dir_path):
 
 def read_genomes(path):
     """
-    Reads all genomes information from an input directory with genome *.txt files or a merged input *.fasta file
+    Reads all genomes information from an input directory with genome *.txt/*.tab files or a merged input *.fasta file
 
     Parameters
     ----------
-    path - a path to an input directory with genome *.txt files or a merged input *.fasta file
+    path - a path to an input directory with genome *.txt/*.tab files or a merged input *.fasta file
 
     Returns
     ----------

@@ -8,7 +8,7 @@ WSPC package can be installed via one of the following options:
 ```buildoutcfg
 pip install wspc
 ```
-2. Using conda (on conda enviroment):
+2. Using conda (on a conda environment):
 ```buildoutcfg
 conda install -c zivukelsongroup wspc
 ```
@@ -76,14 +76,14 @@ wspc -m fit -i path_to_input_genomes -l path_to_labels -k 450 -t 0.18
 
 2. Train:
     ```buildoutcfg
-        wspc -m fit -i train_genomes.fasta -l train_genomes_info.csv -k 450 -t 0.18
+    wspc -m fit -i train_genomes.fasta -l train_genomes_info.csv -k 450 -t 0.18
     ```
    The file trained_model.pkl will be saved in the same directory (or in the directory provided through
     the -o argument)
 
 3. Test:
     ```buildoutcfg
-       wspc -m predict -i test_genomes.fasta --model_path trained_model.pkl
+    wspc -m predict -i test_genomes.fasta --model_path trained_model.pkl
     ```
    The file predictions.csv will contain the predictions
 
@@ -178,11 +178,12 @@ WSPC handle different types of input:
     PGF_04788810
     ```
     * 1346.123 - genome name, the lines below the genome name represent the genome sequence of PGFam annotations. X represents a missing/un-annotated gene.
-    Note that any protein family annotation IDs can be used.
+    
+    > Note that any protein family annotation IDs can be used, e.g., COGs, eggNOGs etc.
 
 
 
-### Obtain PATRIC Global Protein Families (PGFams) annotations for new sequenced genome:
+### Obtain PATRIC Global Protein Families (PGFams) annotations for a newly sequenced genome:
 
 PATRIC Provides Global Protein Families (PGFams) annotations service for new genomes.
 In order to generate PGFams annotations file for a new sequenced genome:
