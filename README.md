@@ -5,13 +5,13 @@
 WSPC package can be installed via one of the following options:
 
 1. Using pip install (via the command line):
-```buildoutcfg
-pip install wspc
-```
+    ```buildoutcfg
+    pip install wspc
+    ```
 2. Using conda (on a conda environment):
-```buildoutcfg
-conda install -c zivukelsongroup wspc
-```
+    ```buildoutcfg
+    conda install -c zivukelsongroup wspc
+    ```
 
 Dependencies:
 
