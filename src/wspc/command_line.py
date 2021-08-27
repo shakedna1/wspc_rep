@@ -50,7 +50,7 @@ def predict(args):
     args.model_path - path to a saved model in a *.pkl file. If not provided, saved pre-trained model will be used
     args.output - output directory, default current directory
     """
-        
+
     X = wspc.read_genomes(args.i)
 
     model = wspc.load_model(args.model_path)

@@ -2,9 +2,15 @@
 
 ## Installation and dependencies
 
-WSPC package can be installed using the command line:
+WSPC package can be installed via one of the following options:
+
+1. Using pip install (via the command line):
 ```buildoutcfg
 pip install wspc
+```
+2. Using conda (on conda enviroment):
+```buildoutcfg
+conda install -c zivukelsongroup wspc
 ```
 
 Dependencies:
@@ -128,3 +134,66 @@ model = wspc.load_model(model_path)
 X_test = wspc.read_genomes(path_to_genomes)
 predictions = wspc.predict(X_test, model)
 ```
+
+## WSPC input:
+
+WSPC handle different types of input:
+
+1. Input directory with genome *.tab and\or *.txt files:
+
+   *.tab file - Public genomes on PATRIC database are available through a genomes directory. Each genome directory includes a
+   .features.tab file, which provides all genomic features and related information in tab-delimited format, including
+   PGFams information.
+   For features.tab file example, look at the file:
+    https://github.com/shakedna1/wspc_rep/blob/main/Data/Bacpacs/patric_files/1041522.28.PATRIC.features.tab
+
+    *.txt file - Output file of the PATRIC annotation service for new genome. For more detailes on the file and the
+    annotation service, see explanation at the section:
+     "Obtain PATRIC Global Protein Families (PGFams) annotations for new sequenced genome" below.
+
+2. Merged input *.fasta file:
+   A merged file in a fasta format that contains concatenation of the PGFams information, which can be extracted from
+   a *.tab file using the field: pgfam_id and from a *.txt file using the fiels: "pgfam".
+
+   For the merged file exact format, look at the file: https://github.com/shakedna1/wspc_rep/blob/main/Data/train_genomes.fasta
+
+    Example of the fasta file content:
+    ```
+    >1346.123
+    PGF_10048015
+    PGF_00062045
+    PGF_00409415
+    PGF_00766022
+    PGF_02011026
+    X
+    X
+    X
+    PGF_07480521
+    PGF_01162199
+    PGF_03475877
+    PGF_00876106
+    PGF_06473395
+    PGF_06429692
+    PGF_00007012
+    PGF_04788810
+    ```
+    * 1346.123 - genome name, the lines below the genome name represent the genome sequence of PGFam annotations. X represents a missing/un-annotated gene.
+    Note that any protein family annotation IDs can be used.
+
+
+
+### Obtain PATRIC Global Protein Families (PGFams) annotations for new sequenced genome:
+
+PATRIC Provides Global Protein Families (PGFams) annotations service for new genomes.
+In order to generate PGFams annotations file for a new sequenced genome:
+
+1. Use PATRIC's Genome Annotation Service: https://patricbrc.org/app/Annotation.
+
+    For detailed instructions, Follow the instructions under the PATRIC genome annotations service documentation:
+    https://docs.patricbrc.org/user_guides/services/genome_annotation_service.html
+
+2. Download the resulting "Taxonomy name + label".txt file (click on view, then download. "Taxonomy name + label" is the genome name).
+
+3. If you wish to create a merged *.fasta file for number of genomes, the column "pgfam" will be used for pgfam extraction.
+
+
