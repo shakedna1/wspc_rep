@@ -95,7 +95,7 @@ def main():
     parser = argparse.ArgumentParser()
 
     parser.add_argument('-m', '--mode', choices=[PREDICT, FIT], default=PREDICT)
-    parser.add_argument('-i', required=True, help='input directory with genome *.txt files or a merged '
+    parser.add_argument('-i', required=True, help='input directory with genome *.txt/*.tab files or a merged '
                                                   'input *.fasta file')
     parser.add_argument('-o', '--output', help='output directory, default current directory', default='')
     parser.add_argument('-l', '--labels_path', help='path to *.csv file with labels')
